@@ -1,3 +1,4 @@
+<a class="twitter-timeline" href="https://twitter.com/RicoThaka?ref_src=twsrc%5Etfw">Tweets by RicoThaka</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fposts%2Fpfbid0evykga6NWqcQGeU5Sz3MtooLNsBT4mTY8P3maAHVfthYyF2SFtyacmV3ztU9mTFTl&show_text=true&width=500" width="500" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ---
