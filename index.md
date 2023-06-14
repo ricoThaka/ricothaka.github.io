@@ -1,3 +1,12 @@
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###################RiCONASTY###################
+4 # UNiVERSE####################################Sartu#####
+{% endhighlight %}
+<hr>
+
 # Katrina ...
 He dont like me and im scared, i just wanna go back to work. It was just a series of dance classes and i acted like [the guy they talk about in the intro of #Total_Eclipse Mixtape #confrontation](https://on.soundcloud.com/FNJzN) just putting in work, idk if it was a school or what but it complemented my TangSuDo(karate) and JiuJitsu so i put my heart in it ... 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216097638&color=%236c6454&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandan-e-aka-dj-e-feezy"  target="_blank" style="color: #cccccc; text-decoration: none;">Brandan E. aka DJ E-Feezy</a> · <a href="https://soundcloud.com/brandan-e-aka-dj-e-feezy/dj-total-eclipse-confrontation-1999" title="DJ Total Eclipse- Confrontation (1999)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Total Eclipse- Confrontation (1999)</a></div>

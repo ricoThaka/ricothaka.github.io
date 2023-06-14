@@ -15,13 +15,22 @@ $container-max-width: 1000px;
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  background: $body-background url("../images/bkg.png") 0 0;
-  color: $body-foreground;
-  font-size: 16px;
+  color: white;
+  background-color: #010a00;
+  /* background-image: url(""); */
+  font-size: 1rem;
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg"); 
+  background: url("") no-repeat 50% fixed / cover;
+ /* background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg") 0 / cover fixed; /* centered full background code */
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
 }
 
 /* General & 'Reset' Stuff */
