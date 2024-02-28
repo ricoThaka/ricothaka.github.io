@@ -228,6 +228,32 @@ svg {
   filter: drop-shadow(11px 1px 1px rgb(219 54 45 / 0.6));
 }
 
+@import "compass/css3";
+*, :before, :after {
+  box-sizing: border-box;
+}
+.unstyled {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.unstyled a {
+  text-decoration: none;
+}
+.list-inline {
+  overflow: hidden;
+}
+.list-inline li {
+  float: left;
+}
+.header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1117.5em;
+  background: #DB362D;
+}
 
 .social-links {
   border-bottom: solid 1px #DB362D;
@@ -240,7 +266,7 @@ svg {
   border: none;
 }
 .social-links a {
-  display: inline;
+  display: block;
   height: 5.5em;
   text-align: center;
   color: #DB362D;
@@ -280,7 +306,6 @@ svg {
   left: 0;
 }
 
-
 	
 </style>
 </head>
@@ -307,7 +332,7 @@ svg {
 </div>
 <div id="content">
 	
-  <div class="nav-wrap">
+ <div class="nav-wrap">
   <nav class="main-nav" role="navigation">
  <!--   <ul class="unstyled list-hover-slide">
       <li><a href="#">About</a></li>
