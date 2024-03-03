@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;1,300;1,400&family=Noto+Emoji:wght@300;500&family=Quicksand:wght@300;500;600;700&family=Red+Hat+Mono:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@900&family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* ---------------------------------- #StartStyle */
+body {
+
+}
+pre {padding:15px;
+color:white;}
+
+
+
+
+html {
+    	 background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01073/ids/edr/browse/ncam/NLF_1073_0762203930_824ECM_N0501618NCAM02073_10_195J01_1200.jpg) no-repeat center center fixed; 
+   line-height: 1.5;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+a,
+a:hover,
+a:visited a:hover {
+  color: #c9ff23;
+  padding: 10px;
+}
+
+a {
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+/* contentDiv */
+#content {
+    border-radius: 31px 31px 31px 31px;
+	max-width: 900px; 
+	padding: 0px;
+		margin-bottom: 40px;
+	margin-right: auto;
+	margin-left: auto; 	
+	/* opera does not like 'margin:20px auto' */
+	/* background: #666; */
+	border: 19px solid #DB362D;
+	text-align:left; 
+	/* part 2 of 2 centering hack */
+	width: 50%; /* ie5win fudge begins */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+  overflow: hidden;
+  box-shadow: rgba(219,54,45, 0.4) 5px 5px, rgba(219,54,45, 0.3) 10px 10px, rgba(219,54,45, 0.2) 15px 15px, rgba(219,54,45, 0.1) 20px 20px, rgba(219,54,45, 0.05) 25px 25px;
+  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana; 
+  
+		}
+img {
+    max-width: 100%;
+    max-height: 100%;
+ 
+  box-shadow: rgba(219,54,45, 0.5) 0px 50px 100px -20px, rgba(0, 0, 0, 0.7) 0px 30px 60px -30px;
+}
+
+.twoPanelSpread {
+  
+
+  /* For browsers that do not support gradients */
+  /* background-image: linear-gradient(to right, #e66250, #ff80cc); */
+  margin: 0px;
+  padding: 0px;
+  background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
+    center repeat;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+#headerMargins 
+{
+  margin-bottom:-27px;
+  
+}
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+
+.leftColumn {
+/*  background-color: #2470FF; */
+  width: 100%;
+}
+
+.leftColumn img {
+  
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+  
+}
+
+.rightColumn {
+
+}
+.rightColumn img { 
+ 
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.top-container {
+
+  padding: 0px;
+  align-content: center;
+  border-radius: 31px 0px 31px 0px;
+	max-width: 900px; 
+	padding: 15px;
+	margin-right: auto;
+	margin-left: auto; 	
+	/* opera does not like 'margin:20px auto' */
+	/* background: #666; */
+  width: 50%; /* ie5win fudge begins */
+	text-align:left; 
+}
+
+
+/* FLEX_BOX_FOR_3_IMAGES */
+.flex-container {
+
+    display: flex;
+     align-items: stretch; 
+     flex-flow: row nowrap;  
+    flex-direction: row; 
+    flex-wrap: nowrap; 
+    justify-content: center;
+    align-content: stretch;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+
+  }
+
+  .flex-container > div{
+   
+    border: 1px solid #c9ff23;
+    border-radius: 1px;
+    padding: 8px;
+  }
+
+#row_image  {
+  /* position: fixed; */ /* border-radius: 55px 55px 0px 0px; */
+  width: 100%;
+	display: flex;
+	border-bottom: 10px solid #DB362D; 
+  justify-content: center;
+ 	 max-width: 100%;
+  padding: 0px;
+  max-height: 100%;
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp");
+    background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
+    center repeat;
+  background-repeat: repeat;
+	}
+*/
+
+#round {border-radius: 31px 31px 0px 0px;}
+img {
+  
+}
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border-bottom: 10px solid #DB362D;
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
+
+.firstcharacter {
+  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+  float: left;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 7px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.neonText {
+  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+
+}
+
+gradient-text {
+  
+  box-shadow: rgba(219,54,45, 0.4) 5px 5px, rgba(219,54,45, 0.3) 10px 10px, rgba(219,54,45, 0.2) 15px 15px, rgba(219,54,45, 0.1) 20px 20px, rgba(219,54,45, 0.05) 25px 25px;
+  
+}
+svg {
+  filter: drop-shadow(11px 1px 1px rgb(219 54 45 / 0.6));
+}
+
+@import "compass/css3";
+*, :before, :after {
+  box-sizing: border-box;
+}
+.unstyled {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.unstyled a {
+  text-decoration: none;
+}
+.list-inline {
+  overflow: hidden;
+}
+.list-inline li {
+  float: left;
+}
+.header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1117.5em;
+  background: #DB362D;
+}
+
+.social-links {
+  border-bottom: solid 1px #DB362D;
+
+  margin-bottom 15px;
+}
+.social-links li {
+  width: 25%;
+  border-left: solid 1px #DB362D;
+}
+.social-links li:first-child {
+  border: none;
+}
+.social-links a {
+  display: block;
+  height: 5.5em;
+  text-align: center;
+  color: white;
+  font: 0.75em/5.5em "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+  
+}
+.social-links a:hover {
+  color: #DB362D;
+}
+.list-hover-slide li {
+  position: relative;
+  overflow: hidden;
+}
+.list-hover-slide a {
+  display: block;
+  position: relative;
+  z-index: 1;
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  background-image: url("https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00443/ids/edr/browse/fcam/FLF_0443_0706278634_263ECM_N0250214FHAZ02008_10_085J01_1200.jpg");
+  transition: 0.35s ease color;
+}
+.list-hover-slide a:before {
+  content: '';
+  display: block;
+  z-index: -1;
+  position: absolute;
+  left: -100%;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border-right: solid 5px #c9ff23;
+  background: #DB360D;
+  transition: 0.35s ease left;
+}
+.list-hover-slide a.is-current:before, .list-hover-slide a:hover:before {
+  left: 0;
+}
