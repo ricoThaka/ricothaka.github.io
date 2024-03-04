@@ -79,10 +79,10 @@ a {
 }
 /* contentDiv */
 #content {
-    border-radius: 31px 31px 31px 31px;
+  border-radius: 31px 31px 31px 31px;
 	max-width: 900px; 
 	padding: 0px;
-		margin-bottom: 40px;
+	margin-bottom: 40px;
 	margin-right: auto;
 	margin-left: auto; 	
 	/* opera does not like 'margin:20px auto' */
@@ -98,7 +98,9 @@ a {
   font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana; 
   
 		}
-img {
+
+
+    img {
     max-width: 100%;
     max-height: 100%;
  
