@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<head>
+  <style>
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+
+.neon {
+  color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #00FF83,
+    0 0 80px #00FF83,
+    0 0 90px #00FF83,
+    0 0 100px #00FF83,
+    0 0 150px #00FF83;
+}
+
+
+h1{
+font-weight: 900;
+font-family: 'Fredoka One', cursive;
+padding: 0px;
+margin: 0px;
+text-align: left;
+text-transform: uppercase;
+}
+h2{
+font-weight: 900;
+font-family: 'Fredoka One', cursive;
+  font-size:90px;
+padding: 0px;
+margin: 0px;
+text-align: left;
+text-transform: uppercase;
+}
+
+h3{
+text-transform: uppercase;
+font-weight: 500;
+font-family:  font-family: 'Montserrat', sans-serif;
+padding: 0px;
+margin: 0px;
+text-align: left;
+}
+
+
+
+/* general styling */
+:root {
+  font-size: calc(1vw + 1vh + 1.5vmin);
+}
+
+
+
+.container {
+  margin: 0 auto;
+}
+
+body {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #010a00;
+  background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+ 
+font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+}
+
+
+/* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */
+/* ##TWO_PANEL_LAYOUT_828_UPDATE_LETS_SAY_VERTiCAL_TWO_iMG_POST_iNSTEAD_OF_SPLiT_SCREEN */
+
+.twoPanelSpread {
+  margin: 0px;
+  padding: 0px;
+  background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp ) center repeat;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+.leftColumn {
+  background-color: #2470ff;
+  width: 100%;
+}
+
+.leftColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.rightColumn {
+  background-color: #c9ff23;
+}
+
+.rightColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.twoPanelSpread>img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+img { width:100%;
+box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;}
+
+  </style>
+</head>
+
+<body>
+<div class="container">
+  <h2 style="color:white;" class="neon">
+
+    LiGHTSKiNKEiSHA!
+  </h2>
+
+  <video id="my_video_1" class="video-js vjs-default-skin" width="640px" height="267px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
+    <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+    <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+  </video>
+
+  <p style="color:white;" class="neon">
+    I’m offended <br>
+    Don’t be offended - Muni_Long
+  </p>
+</div>
+
+      <IMG src="https://www.aceshowbiz.com/display/images/photo/2020/08/26/00158807.jpg">
+
+      </body>
+      </html>
