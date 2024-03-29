@@ -1,0 +1,586 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+/* ~~~~~~~~~~~~~~~~~~~~~ h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 50px;
+  padding-left: 820px;
+} */
+
+body {
+  
+  background: linear-gradient(45deg, 
+              #fb3 25%, #58a 0, #58a 50%,
+              #fb3 0, #fb3 75%, #58a 0);
+background-size: 80.4px 80.4px;
+   font-family: "VT323", monospace;
+  background-attachment: fixed;
+  
+}
+#wrapper
+{
+margin:0 auto;
+  width: 50vw;
+  height: 100vh;
+  margin: auto;
+}
+#heading {
+  display: grid;
+  grid-template-rows: auto auto auto;
+  background-color: black;
+  color:white;
+  padding:5px;
+  position:fixed;
+  width:100%;
+  width:50vw;
+  
+}
+
+#main {
+
+}
+
+#footer {
+
+    bottom:0;
+  position:fixed;
+    display: grid;
+grid-template-rows: auto auto auto;
+    background-color: black;
+  color:white;
+  padding:5px;
+  position:fixed;
+  width:50vw;
+  
+}
+
+
+body {
+  
+  background: linear-gradient(45deg, 
+              #fb3 25%, #58a 0, #58a 50%,
+              #fb3 0, #fb3 75%, #58a 0);
+background-size: 70.4px 70.4px;
+   font-family: "VT323", monospace;
+  background-attachment: fixed;
+  
+}
+p {
+  display:inline;
+  font-family: "VT323", monospace;
+  font-weight: 300;
+  text-align: center;
+  color:white;
+    background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+}
+::selection {
+color: white;
+background: cyan;
+}
+p::first-letter {
+  font-size: 2rem;
+  font-weight: bold;
+  vertical-align: sub;
+  color: cyan;
+}
+p:first-of-type {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+h1,
+h2,
+h3 {
+  color: white;
+  background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+  font-weight: 900;
+  margin: 5px;
+  padding: 5px;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+
+/*
+#content {
+
+  border-radius:12px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20em;
+  margin-left: 20em;  
+  /* opera does not like 'margin:20px auto' astrxneeded/
+  border: 0px solid #ccc;
+  text-align:left; 
+  voice-family: "\"}\"";
+  voice-family:inherit;
+  
+  }
+*/
+  
+  img {
+  display:block;
+  width: 100%;
+}
+
+
+iframe {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
+
+
+blockquote {
+  padding-left: 10px;
+  border-left: 1px dotted 
+}
+
+pre {
+  background: rgba(0, 0, 0, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 10px;
+  font-size: 16px;
+  color: #b5e853;
+  border-radius: 12px;
+  word-wrap: normal;
+  overflow: auto;
+  overflow-y: hidden;
+}
+
+code.highlighter-rouge {
+  background: rgba(0,0,0,0.9);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 0px 3px;
+  margin: 0px -3px;
+  color: #aa759f;
+  border-radius: 12px;
+}
+
+table {
+  width: 100%;
+  margin: 0 0 20px 0;
+}
+
+th {
+  text-align: left;
+  border-bottom: 1px dashed #b5e853;
+  padding: 5px 10px;
+}
+
+td {
+  padding: 5px 10px;
+}
+
+hr {
+  height: 0;
+  border: 0;
+  border-bottom: 1px dashed #b5e853;
+  color: #b5e853;
+}
+
+/* Buttons
+*/
+
+a,
+a:hover,
+a:visited a:hover {
+  color: #c9ff23;
+}
+
+a {
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+video {
+  border-radius:12px;
+  display: block;
+  margin-block: 10px 10px;
+    background: linear-gradient(45deg, 
+              #fb3 25%, #58a 0, #58a 50%,
+              #fb3 0, #fb3 75%, #58a 0);
+background-size: 80.4px 80.4px;
+  
+border-radius:12px;
+  transition: 4s cubic-bezier(.25,.1,.2,3);
+}
+
+video:hover {
+  border-radius:12px;
+  display: block;
+  margin-block: 10px 10px;
+  background: rgb(217,4,121);
+  background: linear-gradient(45deg, 
+              #fb3 25%, #58a 0, #58a 50%,
+              #fb3 0, #fb3 75%, #58a 0);
+background-size: 80.4px 80.4px;
+  
+
+}
+
+
+/* Clearfix */
+
+.twoPanelSpread {
+  border-radius:12px;
+  background-color: #00db46; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #e66250, #ff80cc);
+}
+
+.row {
+  border-radius:12px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  
+}
+
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+
+.leftColumn {
+  /* background-color: #2470FF; */
+  width: 100%;
+}
+
+.leftColumn img {
+  
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+  
+}
+
+.rightColumn {
+  /* background-color: #c9ff23; */
+}
+.rightColumn img { 
+ 
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+
+
+
+/* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
+
+.flex-container {
+  align-items: stretch;
+/* flex-flow: row nowrap; */
+flex-direction: row;
+flex-wrap: nowrap;
+  padding: 0px;
+justify-content: center;
+align-content: stretch;
+height: 100%;
+display: grid;
+grid-template-columns: auto auto auto;
+}
+
+.flex-container > div {
+border: 1px solid #c9ff23;
+  border-radius:12px;
+}
+
+.flex-container > img {
+object-fit: contain;
+max-width: 100%;
+border: 1px solid #c9ff23;
+  border-radius:12px
+
+}
+
+:root {
+  --magnifier: 8;
+  --gap: 0vmax;
+  --transition: 0.5s;
+}
+  
+.expandingGallery {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap);
+}
+
+.expandingGallery > img {
+  --brightness: 0.75;
+  --grayscale: 1;
+  transition: flex var(--transition), filter var(--transition);
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  flex: 1;
+}
+
+.expandingGallery > img:hover {
+
+  flex: var(--magnifier);
+}
+/** LIGHTBOX MARKUP **/
+
+.lightbox {
+  /* Default to hidden */
+  display: none;
+
+  /* Overlay entire screen */
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  /* A bit of padding around image */
+  padding: 1em;
+
+  /* Translucent background */
+  background: rgba(0, 0, 0, 0.8);
+}
+
+/* Unhide the lightbox when it's the target */
+.lightbox:target {
+  display: block;
+}
+
+.lightbox span {
+  /* Full width and height */
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: rgba(104, 182, 255, 0.1);
+  border: 22px;
+  
+   animation: slidein 1.25s; 
+  
+  /* Size and position background image */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+@keyframes createbox {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+  
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+        opacity: 0;
+    display: none;
+  }
+
+
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+    opacity: 1;
+    display: block;
+  }
+}
+
+
+.swatch {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  width: 100%;
+  height: 150px;
+  border-radius:12px
+}
+.swatch div:nth-child(1) {
+  background: #D9737B;
+  border-radius:100px
+}
+.swatch div:nth-child(2) {
+  background: #594725;
+  border-radius:100px
+}
+
+.swatch div:nth-child(3) {
+  background: #D99E6A;
+  border-radius:100px
+}
+
+.swatch div:nth-child(4) {
+  background: #D99E89;
+  border-radius:100px
+}
+.swatch div:nth-child(5) {
+  background: #0D0D0D;
+  border-radius:100px
+}
+
+/* @sarahlugor https://x.com/sarahlugor/status/1756724220388692100?s=20 */
+
+.sarahlugor {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  width: 100%;
+  height: 150px;
+  border-radius:12px
+}
+.sarahlugor div:nth-child(1) {
+  background: #4B93BF;
+  border-radius:100px
+}
+.sarahlugor div:nth-child(2) {
+  background: #85D3F2;
+  border-radius:100px
+}
+
+.sarahlugor div:nth-child(3) {
+  background: #9ABF15;
+  border-radius:100px
+}
+
+.sarahlugor div:nth-child(4) {
+  background: #C8D98B;
+  border-radius:100px
+}
+.sarahlugor div:nth-child(5) {
+  background: #733E32;
+  border-radius:100px
+}
+
+
+
+.sarahlugor_bright {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  width: 100%;
+  height: 150px;
+  border-radius:12px
+}
+.sarahlugor_bright div:nth-child(1) {
+  background: #4B93BF;
+  border-radius:100px
+}
+.sarahlugor_bright div:nth-child(2) {
+  background: #9ABF15;
+  border-radius:100px
+}
+
+.sarahlugor_bright div:nth-child(3) {
+  background: #C6D982;
+  border-radius:100px
+}
+
+.sarahlugor_bright div:nth-child(4) {
+  background: #D90404;
+  border-radius:100px
+}
+.sarahlugor_bright div:nth-child(5) {
+  background: #0D0D0D;
+  border-radius:100px
+}
+
+
+.latto {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  width: 100%;
+  height: 150px;
+  border-radius:12px
+}
+.latto div:nth-child(1) {
+  background: #151C26;
+  border-radius:1px
+}
+.latto div:nth-child(2) {
+  background: #5EF268;
+  border-radius:1px
+}
+
+.latto div:nth-child(3) {
+  background: #A7F2AC;
+  border-radius:1px
+}
+
+.latto div:nth-child(4) {
+  background: #BF7D65;
+  border-radius:1px
+}
+.latto div:nth-child(5) {
+  background: #F2B29B;
+  border-radius:1px
+}
