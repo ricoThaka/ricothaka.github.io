@@ -1,28 +1,3 @@
-<html>
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-      
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-    </style>
-  </head>
-
-
-<body>
-
-
-<hr>
-
-
-{% highlight ruby %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###################RiCONASTY###################
-4 # UNiVERSE####################################Sartu#####
-{% endhighlight %}
-
 <div class="expandingGallery"><img src="https://raw.githubusercontent.com/ricoThaka/saa2/master/assets/images/sartu_rik_equal_ek.png" />
 <img src="https://i1.sndcdn.com/artworks-D91rb2LE45DCZq47-cKlxJg-t500x500.jpg" />
 <img src="https://i1.sndcdn.com/artworks-yp5s7R5Iq55q-0-t500x500.jpg" />
@@ -449,6 +424,3 @@ The final element.
 
 
 
-  </div>
-</body>
-</html>
