@@ -21,13 +21,7 @@
 <hr>
 
 <div id="wrapper">
-   <div id="heading">
- 
-  <div>./HoleToAnotherUniverse
-    
-  </div>      
-  
-</div>
+
 
 <div id="main">
 
