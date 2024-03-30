@@ -15,10 +15,7 @@
 
 <hr>
 
-<div id="wrapper">
 
-
-<div id="main">
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
