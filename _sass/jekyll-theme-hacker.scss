@@ -70,15 +70,27 @@ margin:0 auto;
 #heading {
   display: grid;
   grid-template-rows: auto auto auto;
-  background-color: black;
+  /* background-color: black; */
   color:white;
   padding:5px;
   position:fixed;
   width:100%;
-  width:50vw;
+  width:100vw;
+  color: white;
+  background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+  font-weight: 900;
+  margin: 5px;
+  padding: 5px;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
   
 }
-
+h1,
+h2,
+h3 {
+}
 /* Buttons
 */
 
@@ -245,19 +257,7 @@ p:first-of-type {
   animation-duration: 3s;
   animation-name: slidein;
 }
-h1,
-h2,
-h3 {
-  color: white;
-  background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-    center repeat;
-  font-weight: 900;
-  margin: 5px;
-  padding: 5px;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-}
+
 
 /*
 #content {
