@@ -63,7 +63,7 @@ background-size: 80.4px 80.4px;
 #wrapper
 {
 margin:0 auto;
-  width: 50vw;
+  width: 60vw;
   height: 100vh;
   margin: auto;
 }
@@ -91,7 +91,7 @@ margin:0 auto;
   border-bottom: 2px solid rgba(0, 0, 0, 0.7);
   border-top: 2px solid rgba(0, 0, 0, 1);
   color: rgba(255, 255, 255, 0.8);
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "VT323", monospace;
   font-weight: bold;
   font-size: 13px;
   text-decoration: none;
@@ -157,7 +157,7 @@ pre {
   padding: 10px;
   font-size: 16px;
   color: #b5e853;
-  border-radius: 2px;
+  border-radius: 0px;
   word-wrap: normal;
   overflow: auto;
   overflow-y: hidden;
@@ -206,7 +206,7 @@ grid-template-rows: auto auto auto;
   color:white;
   padding:5px;
   position:fixed;
-  width:50vw;
+  width:100vw;
   
 }
 
@@ -362,12 +362,12 @@ video {
               #fb3 0, #fb3 75%, #58a 0);
 background-size: 80.4px 80.4px;
   
-border-radius:12px;
+border-radius:0px;
 	transition: 4s cubic-bezier(.25,.1,.2,3);
 }
 
 video:hover {
-  border-radius:12px;
+  border-radius:0px;
   display: block;
   margin-block: 10px 10px;
   background: rgb(217,4,121);
@@ -383,13 +383,13 @@ background-size: 80.4px 80.4px;
 /* Clearfix */
 
 .twoPanelSpread {
-  border-radius:12px;
+  border-radius:0px;
   background-color: #00db46; /* For browsers that do not support gradients */
   background-image: linear-gradient(to right, #e66250, #ff80cc);
 }
 
 .row {
-  border-radius:12px;
+  border-radius:0px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -457,14 +457,14 @@ grid-template-columns: auto auto auto;
 
 .flex-container > div {
 border: 1px solid #c9ff23;
-  border-radius:12px;
+  border-radius:0px;
 }
 
 .flex-container > img {
 object-fit: contain;
 max-width: 100%;
 border: 1px solid #c9ff23;
-  border-radius:12px
+  border-radius:0px
 
 }
 
@@ -476,7 +476,7 @@ border: 1px solid #c9ff23;
   
 .expandingGallery {
   width: 100%;
-  height: 80vh;
+  height: 40vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -575,29 +575,29 @@ border: 1px solid #c9ff23;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   width: 100%;
   height: 150px;
-  border-radius:12px
+  border-radius:0px
 }
 .swatch div:nth-child(1) {
   background: #D9737B;
-  border-radius:100px
+  border-radius:0px
 }
 .swatch div:nth-child(2) {
   background: #594725;
-  border-radius:100px
+  border-radius:0px
 }
 
 .swatch div:nth-child(3) {
   background: #D99E6A;
-  border-radius:100px
+  border-radius:0px
 }
 
 .swatch div:nth-child(4) {
   background: #D99E89;
-  border-radius:100px
+  border-radius:0px
 }
 .swatch div:nth-child(5) {
   background: #0D0D0D;
-  border-radius:100px
+  border-radius:0px
 }
 
 /* @sarahlugor https://x.com/sarahlugor/status/1756724220388692100?s=20 */
@@ -608,29 +608,29 @@ border: 1px solid #c9ff23;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   width: 100%;
   height: 150px;
-  border-radius:12px
+  border-radius:0px
 }
 .sarahlugor div:nth-child(1) {
   background: #4B93BF;
-  border-radius:100px
+  border-radius:0px
 }
 .sarahlugor div:nth-child(2) {
   background: #85D3F2;
-  border-radius:100px
+  border-radius:0px
 }
 
 .sarahlugor div:nth-child(3) {
   background: #9ABF15;
-  border-radius:100px
+  border-radius:0px
 }
 
 .sarahlugor div:nth-child(4) {
   background: #C8D98B;
-  border-radius:100px
+  border-radius:0px
 }
 .sarahlugor div:nth-child(5) {
   background: #733E32;
-  border-radius:100px
+  border-radius:0px
 }
 
 
@@ -641,29 +641,29 @@ border: 1px solid #c9ff23;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   width: 100%;
   height: 150px;
-  border-radius:12px
+  border-radius:0px
 }
 .sarahlugor_bright div:nth-child(1) {
   background: #4B93BF;
-  border-radius:100px
+  border-radius:0px
 }
 .sarahlugor_bright div:nth-child(2) {
   background: #9ABF15;
-  border-radius:100px
+  border-radius:0px
 }
 
 .sarahlugor_bright div:nth-child(3) {
   background: #C6D982;
-  border-radius:100px
+  border-radius:0px
 }
 
 .sarahlugor_bright div:nth-child(4) {
   background: #D90404;
-  border-radius:100px
+  border-radius:0px
 }
 .sarahlugor_bright div:nth-child(5) {
   background: #0D0D0D;
-  border-radius:100px
+  border-radius:0px
 }
 
 
@@ -673,7 +673,7 @@ border: 1px solid #c9ff23;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   width: 100%;
   height: 150px;
-  border-radius:12px
+  border-radius:0px
 }
 .latto div:nth-child(1) {
   background: #151C26;

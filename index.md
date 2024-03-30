@@ -448,11 +448,7 @@ The final element.
 ```
 
 
-  <div id="footer">
- 
-  <div>./HoleToAnotherUniverse</div>
-  
-</div>
+
   </div>
 </body>
 </html>
