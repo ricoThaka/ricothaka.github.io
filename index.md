@@ -12,19 +12,19 @@
 
 <body>
 
-{% highlight ruby %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###################RiCONASTY###################
-4 # UNiVERSE####################################Sartu#####
-{% endhighlight %}
+
 <hr>
 
 <div id="wrapper">
 
 
 <div id="main">
-
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###################RiCONASTY###################
+4 # UNiVERSE####################################Sartu#####
+{% endhighlight %}
 
 <div class="expandingGallery"><img src="https://raw.githubusercontent.com/ricoThaka/saa2/master/assets/images/sartu_rik_equal_ek.png" />
 <img src="https://i1.sndcdn.com/artworks-D91rb2LE45DCZq47-cKlxJg-t500x500.jpg" />
