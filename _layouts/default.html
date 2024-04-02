@@ -14,46 +14,41 @@
     </style>
     
 {% seo %}
-  </head>
+</head>
 
-  <body>
-    <div id="wrapper">
-
-
-    
-      <div class="heading">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
-
-     
-      <section id="downloads">
-        {% if site.show_downloads %}
-          <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-          <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-        {% endif %}
-        <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-      </section>
-      {% highlight ruby %}
+<body>
+<div id="wrapper">
+<div class="heading">
+<a id="a-title" href="{{ '/' | relative_url }}">
+{{ site.title | default: site.github.repository_name }}
+</a>
+<h2>{{ site.description | default: site.github.project_tagline }}</h2>
+{% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##########ellamai?###########
 2 # TO##############Melisza?################Normani?#####
 3 # ANOTHER####Muni?##########Latto#######CoraL##########
 4 # UNiVERSE#########Nicki?##########Muna?####Sartu#####
 {% endhighlight %}
-    </header>
+<section>
+        {% if site.show_downloads %}
+          <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+          <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+        {% endif %}
+<a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+</section>
+</div>
 
 
+  <div id="main">
 
     {{ content }}
 
 <div id="footer">
- 
- <div>./HoleToAnotherUniverse</div>
- 
+<div>./HoleToAnotherUniverse</div>
 </div>
-  
+</div>
+</div>  
 
-  </body>
+</body>
+
 </html>
