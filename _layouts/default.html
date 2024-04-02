@@ -23,16 +23,15 @@
  
   <div>
 </a>
-<ul>
-  <li> <a id="a-title" href="{{ '/' | relative_url }}">
-{{ site.title | default: site.github.repository_name }}</li>
+ <a id="a-title" href="{{ '/' | relative_url }}">
+{{ site.title | default: site.github.repository_name }}
         {% if site.show_downloads %}
-        <li> <a href="{{ site.github.zip_url }}" class="">Download as .zip</a></li>
-        <li> <a href="{{ site.github.zip_url }}" class="">Download as .zip</a></li>
-        <li> <a href="{{ site.github.tar_url }}" class="">Download as .tar.gz</a></li>
+         <a href="{{ site.github.zip_url }}" class="">Download as .zip</a>
+         <a href="{{ site.github.zip_url }}" class="">Download as .zip</a>
+         <a href="{{ site.github.tar_url }}" class="">Download as .tar.gz</a>
         {% endif %}
-        <li><a href="{{ site.github.repository_url }}" class="btn btn-github"</a>><span class="icon"></span>View on GitHub</a></li>
-</ul> 
+        <a href="{{ site.github.repository_url }}" class=""</a>><span class="icon"></span>View on GitHub</a>
+ 
   </div>      
   
 </div>
@@ -42,12 +41,7 @@
   {{ content }}
 
   </div>
-  {% highlight python %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE########################################Megan?
-{% endhighlight %}
+
   <div id="footer">
  
   <div>./HoleToAnotherUniverse</div>
