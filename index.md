@@ -21,7 +21,7 @@
 <img src=" https://i1.sndcdn.com/artworks-ikxDwx60XoJJ-0-t500x500.jpg" >
 <img src="https://i1.sndcdn.com/artworks-Tz3UrUOI1wzpn6Qm-jwEiJQ-t500x500.jpg" />
 </div>
-{% highlight rubi %}
+{% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
 3 # ANOTHER###############################################
