@@ -68,11 +68,12 @@ background-size: 80.4px 80.4px;
   margin: auto;
 }
 #heading {
-  display: grid;
-  grid-template-rows: auto auto auto;
-  background-color: black;
+
+  display: flex;
+  flex-wrap: wrap;
+T  background-color: black;
   color:white;
-  padding:5px;
+  padding:10px;
   position:fixed;
   width:100%;
   width:50vw;
@@ -80,6 +81,7 @@ background-size: 80.4px 80.4px;
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
   
 }
+
 h1,
 h2,
 h3 {
