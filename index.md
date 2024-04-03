@@ -1,13 +1,4 @@
-<div>
-<p>
-<code># HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE########################################Megan?
-</code> 
-</p>
 
-</div>
 <img src="https://murray-lab.caltech.edu/Mars2020/img/Jezero-perspective.jpg">
 <img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg">
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
