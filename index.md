@@ -6,8 +6,38 @@
   <div>
   </div>
 </div>
+<div class="twoPanelSpread" >
+    <div class="row">
+      <div class="panelColumn">
+        <div class="leftColumn">
+
+  <!-- lightbox container hidden with CSS -->
+  <a href="#img1">
+          <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg">
+  </a>
+
+  <!-- lightbox container hidden with CSS -->
+  <a href="#" class="lightbox" id="img1">
+    <span style="background-image: url('https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg')"></span>
+  </a>
+          </div>
+      </div>
+      <div class="panelColumn">
+        <div class="rightColumn">
+  <a href="#img2">
+    <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/adobeColor.jpg" alt="Bright Gully Deposits on Mars">
+  </a>
+
+  <!-- lightbox container hidden with CSS -->
+  <a href="#" class="lightbox" id="img2">
+    <span style="background-image: url('https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/adobeColor.jpg')"></span>
+  </a>
+           </div>
+      </div>
+    </div>
+  </div>
 <img src="https://murray-lab.caltech.edu/Mars2020/img/Jezero-perspective.jpg">
-<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg">
+<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg" alt="Bright Gully Deposits on Mars">
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height="400" >
 </object>
 
