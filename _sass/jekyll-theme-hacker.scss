@@ -67,6 +67,34 @@ background-size: 80.4px 80.4px;
   height: 100vh;
   margin: auto;
 }
+#MAiN h1 {
+  font-size: 30px;
+}
+
+#MAiN h2 {
+  font-size: 24px;
+}
+
+#MAiN h3 {
+  font-size: 18px;
+}
+
+#MAiN h4 {
+  font-size: 14px;
+}
+
+#MAiN h5 {
+  font-size: 12px;
+  text-transform: uppercase;
+  margin: 0 0 5px 0;
+}
+
+#MAiN h6 {
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #999;
+  margin: 0 0 5px 0;
+}
 #heading {
   display: grid;
   grid-template-rows: auto auto auto auto auto;
