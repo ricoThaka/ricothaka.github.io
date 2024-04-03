@@ -1,10 +1,11 @@
-
-{% highlight python %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE########################################Megan?
-{% endhighlight %}
+<div class="swatch">
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div>
+  </div>
+</div>
 
 <div class="expandingGallery"><img src="https://raw.githubusercontent.com/ricoThaka/saa2/master/assets/images/sartu_rik_equal_ek.png" />
 <img src="https://i1.sndcdn.com/artworks-D91rb2LE45DCZq47-cKlxJg-t500x500.jpg" />
@@ -22,22 +23,15 @@
 <img src="https://i1.sndcdn.com/artworks-Tz3UrUOI1wzpn6Qm-jwEiJQ-t500x500.jpg" />
 </div>
 
----
-layout: default
----
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
-
-<p class="view">by {{ page.author | default: site.author }}</p>
-
-{{content}}
-
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
 
 {% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE########################################Megan?
+{% endhighlight %}
+{% highlight python %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
 3 # ANOTHER###############################################
