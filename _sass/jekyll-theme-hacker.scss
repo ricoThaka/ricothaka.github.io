@@ -63,20 +63,20 @@ background-size: 80.4px 80.4px;
 #MAiN
 {
   margin:0 auto;
-  width: 50vw;
+  width: 60vw;
   height: 100vh;
   margin: auto;
 }
 #heading {
 
-  display: flex;
+  display: block;
   flex-wrap: wrap;
   background-color: black;
   color:white;
   padding:10px;
   position:fixed;
   width:100%;
-  width:50vw;
+  width:100vw;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
   
@@ -201,22 +201,13 @@ grid-template-rows: auto auto auto;
   color:white;
   padding:5px;
   position:fixed;
-  width:50vw;
+  width:100vw;
   
   
 }
 
 
-body {
-  
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 70.4px 70.4px;
-   font-family: "VT323", monospace;
-  background-attachment: fixed;
-  
-}
+
 p {
   display:inline;
   font-family: "VT323", monospace;
