@@ -36,10 +36,60 @@
       </div>
     </div>
   </div>
+{% highlight python %}
+  print("# HOLE_TO_ANOTHER_UNiVERSE###Alicia?####Normani?##")
+{% endhighlight %}
+  <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height="400" >
+</object>
+   <img src="https://apod.nasa.gov/apod/image/2403/PIA19048europa.jpg" alt="Galileo's Europa">
+   <p> 
+
+## Explanation:  
+
+Looping through the Jovian system in the late 1990s, the
+<a href="https://solarsystem.nasa.gov/galileo/">Galileo spacecraft</a>
+recorded stunning views of Europa and uncovered
+evidence that the moon's icy surface likely hides
+a deep, global ocean.
+
+Galileo's Europa image data has been
+<a href="https://photojournal.jpl.nasa.gov/catalog/?IDNumber=PIA19048">
+remastered here</a>, with improved calibrations to produce a
+color image approximating what the human eye might see.
+
+Europa's long curving fractures
+<a href="https://www.nasa.gov/feature/goddard/2019/nasa-scientists-confirm-water-vapor-on-europa">hint at the subsurface liquid water</a>.  
+
+The tidal flexing the large moon experiences
+in its elliptical orbit
+around Jupiter supplies the energy to keep the ocean liquid.
+
+But more
+<a href="ap140919.html">tantalizing</a> is the possibility
+that even in the
+absence of sunlight that process could also supply the energy to
+support life,
+<a href="ap160401.html">making Europa</a>
+one of the best places to look for life
+beyond Earth.
+
+The Juno spacecraft currently in Jovian orbit
+has also made repeated flybys of the water world,
+returning images along with data exploring
+<a href="https://www.nasa.gov/missions/juno/nasas-juno-mission-measures-oxygen-production-at-europa/">Europa's habitability</a>.
+
+This October will see the launch of the NASA's
+<a href="https://europa.nasa.gov/">Europa Clipper</a>
+on a voyage of
+<a href="https://www.youtube.com/watch?v=EgWbeDNPD6o">exploration</a>.
+
+The spacecraft will make nearly 50 flybys,
+approaching to within 25 kilometers of Europa's icy surface.
+
+</p>
 <img src="https://murray-lab.caltech.edu/Mars2020/img/Jezero-perspective.jpg">
 <img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg" alt="Bright Gully Deposits on Mars">
-<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height="400" >
-</object>
+
 
 
 
