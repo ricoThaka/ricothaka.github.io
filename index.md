@@ -6,8 +6,11 @@
   <div>
   </div>
 </div>
+
+{% highlight ruby %}
 puts 'Hello, World!'
 puts 'HelloWorld'
+{% endhighlight %}
 <div class="twoPanelSpread" >
     <div class="row">
       <div class="panelColumn">
