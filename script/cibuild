@@ -6,5 +6,5 @@ bundle exec jekyll build
 # bundle exec htmlproofer ./_site --check-html --check-sri
 # bundle exec rubocop -D --config .rubocop.yml
 # bundle exec script/validate-html
-gem update --system
+# gem update --system
 gem build jekyll-theme-hacker.gemspec
