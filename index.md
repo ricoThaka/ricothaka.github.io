@@ -49,7 +49,27 @@ puts 'HelloWorld'
    <img src="https://apod.nasa.gov/apod/image/2403/PIA19048europa.jpg" alt="Galileo's Europa">
    <p> 
 
-## Explanation:  
+# Explanation:  
+<hr />
+{% highlight bash %}
+#!/bin/bash
+#set -x
+make_swatches() {
+    counter=1
+    swatches=''
+    input_file=$1
+    limit=$2
+    template=".swatch div:nth-child(%d){ background: %s; }"
+    while read swatch; do
+        swatches+="$(printf "$template\n" "$counter" "$swatch")"$'\n'
+        ((counter++))
+        [[ "$counter" -gt "$limit" ]] && break
+    done < "$input_file"
+    echo "$swatches"
+}
+
+make_swatches colorvalues.csv 8
+{% endhighlight %}
 
 Looping through the Jovian system in the late 1990s, the
 <a href="https://solarsystem.nasa.gov/galileo/">Galileo spacecraft</a>
