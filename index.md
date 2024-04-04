@@ -6,6 +6,8 @@
   <div>
   </div>
 </div>
+puts 'Hello, World!'
+puts 'HelloWorld'
 <div class="twoPanelSpread" >
     <div class="row">
       <div class="panelColumn">

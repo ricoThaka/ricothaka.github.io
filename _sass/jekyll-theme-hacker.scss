@@ -96,19 +96,19 @@ background-size: 80.4px 80.4px;
   margin: 0 0 5px 0;
 }
 #heading {
-  display: grid;
-  grid-template-rows: auto auto auto auto auto;
-  display: block;
+
   flex-wrap: wrap;
-  background-color: black;
-  color:white;
-  padding:10px;
-  position:fixed;
-  
-  width:60vw;
+    width:60vw;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-  
+   position:fixed;
+    display: grid;
+grid-template-rows: auto auto auto;
+    background-color: black;
+  color:white;
+  padding:5px;
+  position:fixed;
+  width:60vw;
 }
 
 h1,
