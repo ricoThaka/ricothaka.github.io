@@ -68,6 +68,8 @@ background-size: 80.4px 80.4px;
   height: 100vh;
   margin:0 auto;
   margin: auto;
+  display: flex;
+flex-direction: column;
 }
 #MAiN h1 {
   font-size: 30px;
@@ -636,6 +638,7 @@ border: 1px solid #c9ff23;
   padding: 10px;
 
 }
+
 
 
 
