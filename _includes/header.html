@@ -1,13 +1,11 @@
-<div id="heading">
-
-    <a id="a-title" href="{{ '/' | relative_url }}">
-      {{ site.title | default: site.github.repository_name }}
-      {% if site.show_downloads %}
-      <a href="{{ site.github.zip_url }}" class="">Download .zip</a>
-
-      <a href="{{ site.github.tar_url }}" class="">Download .tar.gz</a>
-      {% endif %}
-      <a href="{{ site.github.repository_url }}" class="" </a>><span class="icon"></span>View on GitHub</a>
-
-
-</div>
+<header>
+    <div>
+      <a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
+      {% assign owner_first_name = site.owner | split: " " %}
+      <h1>{{ owner_first_name[0] | downcase }}@home:~$</h1>
+      </a>
+      <div class="header-links">
+        {% include links.html %}
+      </div>
+    </div>
+  </header>
