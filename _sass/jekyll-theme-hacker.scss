@@ -49,8 +49,8 @@ table {
   margin: 0 0 50px;
   padding-left: 820px;
 } */
+html {
 
-body {
   
   background: linear-gradient(45deg, 
               #fb3 25%, #58a 0, #58a 50%,
@@ -58,6 +58,12 @@ body {
 background-size: 80.4px 80.4px;
    font-family: "VT323", monospace;
   background-attachment: fixed;
+
+}
+
+
+body {
+
   
 }
 #MAiN
@@ -189,9 +195,9 @@ grid-template-rows: auto auto auto;
   padding:5px;
   position:fixed;
   width:60vw;
-  
-  
-}
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+  }
 
 
 
@@ -342,7 +348,7 @@ background-size: 80.4px 80.4px;
 }
 
 
-/* Clearfix */
+/* Image + PageLayout s */
 
 .twoPanelSpread {
   border-radius:0px;
