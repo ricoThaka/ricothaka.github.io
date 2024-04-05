@@ -1,32 +1,35 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
+<html lang="{{ site.lang | default: " en-US" }}">
 
-{% seo %}
-  </head>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  {% include head-custom.html %}
 
-  <body>
+  {% seo %}
+</head>
+
+<body>
+
+
+  <div id="MAiN">
     <div id="heading">
 
       <div>./HoleToAnotherUniverse
-  
-      </div> </div>  
- 
-      <div id="MAiN">
-      
-       
-        {{ content }}
-       
-       
 
-  <div id="footer">
-    <div>./HoleToAnotherUniverse</div>
+      </div>
+    </div>
+
+    {{ content }}
+
+
+
+    <div id="footer">
+      <div>./HoleToAnotherUniverse</div>
+    </div>
   </div>
-</div>
-  </body>
+</body>
+
 </html>
