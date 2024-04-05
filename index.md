@@ -13,46 +13,6 @@ puts 'HelloWorld'
 {% endhighlight %}
 
 
-<hr />
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page == 1 %}
-  <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
-  {% elsif paginator.previous_page%}
-  <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
-  {% else %}
-  <span class="page-item">&laquo;</span>
-  {% endif %} {% for page in (1..paginator.total_pages) %} {% if page == paginator.page %}
-  <span class="page-item">{{ page }}</span>
-  {% elsif page == 1 %}
-  <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">{{ page }}</a>
-  {% else %}
-  <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="page-item">{{ page }}</a>
-  {% endif %} {% endfor %} {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&raquo;</a>
-  {% else %}
-  <span class="page-item">&raquo;</span>
-  {% endif %}
-</div>
-{% endif %} {% include footer.html %}
-
-{% if site.google_analytics %}
-  {% include analytics.html %}
-{% endif %}
----
-layout: default
----
-
-<ul>
-    {% for post in paginator.posts %}
-      <li>
-          <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
-      </li>
-    {% endfor %}
-</ul>
-<hr />
 
 <div class="twoPanelSpread" >
     <div class="row">
