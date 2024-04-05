@@ -1,7 +1,4 @@
-
-
-
-    <div class="swatch">
+<div class="swatch">
     <div></div>
     <div></div>
     <div></div>
