@@ -68,8 +68,9 @@ background-size: 80.4px 80.4px;
   height: 100vh;
   margin:0 auto;
   margin: auto;
-  display: block;
-flex-direction: column;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 #MAiN h1 {
   font-size: 30px;
