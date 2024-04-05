@@ -1,5 +1,9 @@
 title: ./HoleToAnotherUniverse
 description: 
+author:
+  name: "Thaka_Rashard_Shaadi"
+  email: "holetoanotheruniverse40@gmail.com"
+  url: "ricothaka.github.io"
 show_downloads: true
 google_analytics:
 remote_theme: pages-themes/hacker@v0.2.0
@@ -26,3 +30,7 @@ defaults:
       layout: "post"
 
 future: true
+
+# Custom variables
+owner : "ricoThaka"
+year : "2024"
