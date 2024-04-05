@@ -64,13 +64,11 @@ background-size: 80.4px 80.4px;
 
 #MAiN
 {
-  width: 600px;
+  width: 60vh;
   height: 100vh;
   margin:0 auto;
   margin: auto;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
+
 }
 #MAiN h1 {
   font-size: 30px;
@@ -486,39 +484,7 @@ border: 1px solid #c9ff23;
 }
 
 
-.swatch {
-  /*display: grid;
-  grid-gap: 5px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-  height: 20vh;
-  opacity: 1;
-  
-}
-.swatch div:nth-child(1) {
-  background: #352EF2;
-  border-radius:0px
-}
-.swatch div:nth-child(2) {
-  background: #446FF2;
-  border-radius:0px
-}
 
-.swatch div:nth-child(3) {
-  background: #2E97F2;
-  border-radius:0px
-}
-
-.swatch div:nth-child(4) {
-  background: #3DF28B;
-  border-radius:0px
-}
-.swatch div:nth-child(5) {
-  background: #29F247;
-  border-radius:0px
-}
 
 /* @sarahlugor https://x.com/sarahlugor/status/1756724220388692100?s=20 */
 
@@ -623,13 +589,16 @@ border: 1px solid #c9ff23;
   /*display: grid;
   grid-gap: 5px;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   flex-wrap: wrap;
   width: 100vw;
   height: 20vh;
   opacity: 1;
 
 }
+
+
 
 
 .swatch div {
