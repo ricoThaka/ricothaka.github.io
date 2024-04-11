@@ -353,6 +353,7 @@ background-size: 80.4px 80.4px;
   border-radius:0px;
   background-color: #00db46; /* For browsers that do not support gradients */
   background-image: linear-gradient(to right, #e66250, #ff80cc);
+  max-width: max-content;
 }
 
 .row {
