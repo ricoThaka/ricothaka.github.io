@@ -62,13 +62,14 @@ background-size: 80.4px 80.4px;
 
 }
 
+
+
 #MAiN
 {
-  width: 60vh;
-  height: 100vh;
   margin:0 auto;
+  width: 50vw;
+  height: 100vh;
   margin: auto;
-  
 
 }
 #MAiN h1 {
@@ -192,7 +193,7 @@ grid-template-rows: auto auto auto;
   color:white;
   padding:5px;
   position:fixed;
-  width:60vw;
+  width:50vw;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
   }
