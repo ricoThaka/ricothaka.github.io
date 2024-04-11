@@ -103,7 +103,7 @@ background-size: 80.4px 80.4px;
 #heading {
 
   flex-wrap: wrap;
-    width:60vw;
+    width:50vw;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
    position:fixed;
@@ -1966,20 +1966,6 @@ border: 1px solid #c9ff23;
 .swatch div:nth-child(1332){ background: #101820; }
 
 
-/* Clearfix */
-
-.cf:before, .cf:after {
-  content:"";
-  display:table;
-}
-
-.cf:after {
-  clear:both;
-}
-
-.cf {
-  zoom:1;
-}
 
 #a-title {
   text-decoration: none;

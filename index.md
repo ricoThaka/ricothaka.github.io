@@ -1,4 +1,23 @@
-<div class="swatch">
+
+## HEading2
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.graffiti.org/sfb/refa2002oakland04.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://mars.nasa.gov/system/resources/detail_files/27288_PIA25708.jpg" alt="Girl in a jacket" >
+
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" >
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg"><div class="swatch">
     <div></div>
     <div></div>
     <div></div>
