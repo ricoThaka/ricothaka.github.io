@@ -595,9 +595,8 @@ border: 1px solid #c9ff23;
   display: grid;
   grid-template-columns: repeat(9, 1fr);
   flex-wrap: wrap;
-  width: 60vw;
-  height: 20vh;
-  opacity: 1;
+  width: 50vw;
+    max-width: max-content;
 
 }
 
