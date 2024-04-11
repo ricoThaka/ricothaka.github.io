@@ -13,8 +13,10 @@
     </div>
   </div>
 </div>
-<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" >
-<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg"><div class="swatch">
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" />
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg" />
+
+<div class="swatch">
     <div></div>
     <div></div>
     <div></div>
