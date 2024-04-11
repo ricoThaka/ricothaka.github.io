@@ -1,6 +1,3 @@
-
-## HEading2
-
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
