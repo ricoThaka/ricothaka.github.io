@@ -116,24 +116,16 @@ grid-template-rows: auto auto auto;
  
 }
 
-.logo {
-  
-  float: left;
-  background-color:black;
-  display:inline;
-}
 
-
-#navcontainer
-{
+#navcontainer {
 padding: 0;
 height: 20px;
-  display:block;
-  width:100%;
+  display:inline;
   background-color:black;
   position:fixed;
   color:white;
-  width:100vw;
+  border-top: 1px dotted #2E97F2;
+  width:50vw;
   top:0;
 }
 
@@ -159,7 +151,7 @@ margin: 0;
 #navcontainer ul li a
 {
 width: 78px;
-height: 18px;
+height: 25px;
 border-top: 1px solid #2E97F2;
 border-left: px solid #f5d7b4;
 border-bottom: 1px solid #262626;
@@ -191,7 +183,6 @@ background: #262626;
 border-right: 4px solid #2E97F2;
 color: #fff;
 }
-
 
 h1,
 h2,
