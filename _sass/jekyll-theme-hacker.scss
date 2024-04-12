@@ -116,6 +116,83 @@ grid-template-rows: auto auto auto;
  
 }
 
+.logo {
+  
+  float: left;
+  background-color:black;
+  display:inline;
+}
+
+
+#navcontainer
+{
+padding: 0;
+height: 20px;
+  display:block;
+  width:100%;
+  background-color:black;
+  position:fixed;
+  color:white;
+  width:100vw;
+  top:0;
+}
+
+#navcontainer ul
+{
+border: 0;
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+
+}
+
+#navcontainer ul li
+{
+display: block;
+float: right;
+text-align: center;
+padding: 0;
+margin: 0;
+}
+
+#navcontainer ul li a
+{
+width: 78px;
+height: 18px;
+border-top: 1px solid #2E97F2;
+border-left: px solid #f5d7b4;
+border-bottom: 1px solid #262626;
+border-right: 1px solid #262626;
+padding: 0;
+margin: 0 0 0px 0;
+color: #A6A6A6;
+text-decoration: none;
+display: block;
+text-align: center;
+font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+}
+
+#navcontainer ul li a:hover
+{
+color: #F2F2F2;
+background: #262626;
+}
+
+#navcontainer a:active
+{
+background: #262626;
+color: #fff;
+}
+
+#navcontainer li#active a
+{
+background: #262626;
+border-right: 4px solid #2E97F2;
+color: #fff;
+}
+
+
 h1,
 h2,
 h3 {
