@@ -100,9 +100,11 @@ background-size: 80.4px 80.4px;
   color: #999;
   margin: 0 0 5px 0;
 }
+
+/*
 #heading {
 
-  flex-wrap: wrap;
+  flex-wrap:nowrap;
     width:50vw;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
@@ -114,10 +116,16 @@ grid-template-rows: auto auto auto;
   padding:5px;
   position:fixed;
  
-}
+} */
 
 #navcontainer
 {
+  flex-wrap:nowrap;
+  width:50vw;
+text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+  0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+padding:5px;
+position:fixed;
 padding: 0;
 height: 20px;
   display:inline;
@@ -125,7 +133,6 @@ height: 20px;
   position:fixed;
   color:white;
   border-top: 1px dotted #2E97F2;
-  width:50vw;
   top:0;
 }
 
