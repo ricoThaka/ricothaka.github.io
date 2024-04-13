@@ -8,7 +8,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-paginate
 - jekyll-sitemap
-
+- jekyll-gallery-generator
 baseurl: /
 
 source: .
