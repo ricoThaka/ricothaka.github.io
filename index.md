@@ -6,16 +6,7 @@
     <div></div>
     </div>
 
-
-
-<div class="normani">
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    </div>
-
-
+ <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-16-16-8-41.jpg" alt="Normani, is an American singer and dancer" border="0" />
 
 <div class="normani">
     <div></div>
@@ -23,6 +14,16 @@
     <div></div>
     <div></div>
     </div>
+
+
+ <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani, is an American singer and dancer" border="0" />
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
