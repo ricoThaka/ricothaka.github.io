@@ -4,8 +4,8 @@
     <div></div>
     <div></div>
     <div></div>
-    <div>
-    </div>
+    <div></div> 
+  </div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
