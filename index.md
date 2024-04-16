@@ -1,9 +1,10 @@
 
-<div class="swatch">
+  <div class="latto">
     <div></div>
     <div></div>
     <div></div>
     <div></div>
+    <div>
     </div>
 <div class='twoPanelSpread'>
   <div class='row'>
