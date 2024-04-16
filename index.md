@@ -1,29 +1,10 @@
 
----
-# YAML front matter
-images:
-  - path: https://mars.nasa.gov/system/resources/detail_files/26227_PIA24839_Main_stretched-web.jpg
-    column: 1
-    text: Some text 1
-  - path: https://mars.nasa.gov/system/resources/detail_files/26117_PIA24799-web.jpg
-    column: 2
-    text: Some text 2
-  - path: https://mars.nasa.gov/system/resources/detail_files/26209_PIA24805-web.jpg
-    column: 3
-    text: Some text 3
----
-
-Your page's content goes here
-<ul>
-  {% for image in page.images %}
-    <li class="col-{{ image.column }}" style="background-image: url({{ image.path }})">
-      <p>{{ image.text }}</p>
-    </li>
-  {% endfor %}
-</ul>
-
-
-
+<div class="swatch">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
