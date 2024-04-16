@@ -1,11 +1,28 @@
 
-  <div class="latto">
+<div class="normani">
     <div></div>
     <div></div>
     <div></div>
     <div></div>
-    <div></div> 
-  </div>
+    </div>
+
+
+
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
+
+
+
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
