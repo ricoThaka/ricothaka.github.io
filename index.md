@@ -1,28 +1,28 @@
 
----
-# YAML front matter
-images:
-  - path: https://mars.nasa.gov/system/resources/detail_files/26227_PIA24839_Main_stretched-web.jpg
-    column: 1
-    text: Some text 1
-  - path: https://mars.nasa.gov/system/resources/detail_files/26117_PIA24799-web.jpg
-    column: 2
-    text: Some text 2
-  - path: https://mars.nasa.gov/system/resources/detail_files/26209_PIA24805-web.jpg
-    column: 3
-    text: Some text 3
----
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
 
-Your page's content goes here
-<ul>
-  {% for image in page.images %}
-    <li class="col-{{ image.column }}" style="background-image: url({{ image.path }})">
-      <p>{{ image.text }}</p>
-    </li>
-  {% endfor %}
-</ul>
+ <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-16-16-8-41.jpg" alt="Normani, is an American singer and dancer" border="0" />
+
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
 
 
+ <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani, is an American singer and dancer" border="0" />
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
 
 <div class='twoPanelSpread'>
   <div class='row'>
