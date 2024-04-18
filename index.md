@@ -6,7 +6,7 @@
     <div></div>
     </div>
 
- <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-16-16-8-41.jpg" alt="Normani, is an American singer and dancer" border="0" />
+ <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-16-16-8-41.jpg" alt="Normani, is an American singer and dancer" />
 
 <div class="normani">
     <div></div>
@@ -16,7 +16,7 @@
     </div>
 
 
- <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani, is an American singer and dancer" border="0" />
+ <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani, is an American singer and dancer" />
 <div class="normani">
     <div></div>
     <div></div>
@@ -39,8 +39,8 @@
     </div>
   </div>
 </div>
-<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" />
-<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg" />
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" alt="CuriosityOnMArs"/>
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg" alt="martianLandscape" />
 
 <div class="swatch">
     <div></div>
