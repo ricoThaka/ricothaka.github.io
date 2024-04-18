@@ -1,3 +1,11 @@
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
+
+ <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-16-16-8-41.jpg" alt="Normani, is an American singer and dancer">
 
 <div class="normani">
     <div></div>
@@ -6,17 +14,8 @@
     <div></div>
     </div>
 
- <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-16-16-8-41.jpg" alt="Normani, is an American singer and dancer" />
 
-<div class="normani">
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    </div>
-
-
- <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani, is an American singer and dancer" />
+ <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani, is an American singer and dancer">
 <div class="normani">
     <div></div>
     <div></div>
@@ -28,19 +27,19 @@
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <img src="https://www.graffiti.org/sfb/refa2002oakland04.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+        <img src="https://www.graffiti.org/sfb/refa2002oakland04.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY">
       </div>
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-        <img src="https://mars.nasa.gov/system/resources/detail_files/27288_PIA25708.jpg" alt="Girl in a jacket" >
+        <img src="https://mars.nasa.gov/system/resources/detail_files/27288_PIA25708.jpg" alt="Girl in a jacket">
 
-      </div>
-    </div>
+  </div>
+  </div>
   </div>
 </div>
-<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" alt="CuriosityOnMArs"/>
-<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg" alt="martianLandscape" />
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" alt="CuriosityOnMArs">
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg" alt="martianLandscape">
 
 <div class="swatch">
     <div></div>
