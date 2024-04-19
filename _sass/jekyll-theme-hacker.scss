@@ -197,6 +197,11 @@ color: #fff;
   display:inline;
   padding:5px;
 }
+.css3badge {
+  display:inline;
+  float: right;
+
+}
 
 h1,
 h2,
@@ -266,10 +271,10 @@ hr {
 
 
 #footer {
-
+  flex-wrap: nowrap;
   bottom:0;
   position:fixed;
-    display: grid;
+    display:inline;
 grid-template-rows: auto auto auto;
     background-color: black;
   color:white;
