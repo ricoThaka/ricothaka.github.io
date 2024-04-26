@@ -49,10 +49,13 @@ a {
 }
 
 
+
 embed {
   border-radius:12px;
 height: 300px;
   width: 100%;
+  scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
   
 }
 
@@ -60,9 +63,15 @@ object {
   border-radius:12px;
 height: 300px;
   width: 100%;
+  scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
 
 }
+.split {
 
+  columns: 2;
+  
+}
 #content {
   border-radius: 31px 31px 31px 31px;
   width: 70vw; 
@@ -99,7 +108,7 @@ height: 300px;
 video {
   border-radius:12px;
   height: 30vh;
-  width: 80%;
+  width: 100%;
   display: block;
   margin-block: 10px 10px;
   background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-24-15-54-32.jpg)  -237px 30px no-repeat fixed;
@@ -127,6 +136,11 @@ figure {
   padding: 1px;
   margin: 10px;
 }
+
+
+.dosbox-container { width: 100%; height: 400px; }
+.dosbox-container > .dosbox-overlay { background: url(https://i.ebayimg.com/images/g/OTgAAOSwYINj50PW/s-l1200.webp); }
+
 .twoPanelSpread {
 
 
@@ -337,3 +351,51 @@ svg {
 }
 
 
+
+.pinupGallery {
+  display:block;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px;
+   object-fit: contain;
+}
+.pinupImage {
+  width: 50px;
+  flex: 1 0 auto;
+}
+.featured-pinupImage {
+  flex: 0 1 50%;
+
+}
+:root {
+  --magnifier: 8;
+  --gap: 0vmax;
+  --transition: 0.5s;
+}
+
+.expandingGallery {
+  width: 100%;
+  margin:0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap);
+}
+
+.expandingGallery > img {
+  --brightness: 0.75;
+  --grayscale: 1;
+  transition: flex var(--transition), filter var(--transition);
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  flex: 1;
+}
+
+.expandingGallery > img:hover {
+
+  flex: var(--magnifier);
+}
