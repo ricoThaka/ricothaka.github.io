@@ -37,7 +37,6 @@ a {
 
   padding: 0px;
   align-content: center;
-  border-radius: 31px 0px 31px 0px;
   max-width: 900px; 
   padding: 15px;
   margin-right: auto;
@@ -51,8 +50,8 @@ a {
 
 
 embed {
-  border-radius:12px;
-height: 300px;
+
+height: 400px;
   width: 100%;
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
@@ -60,7 +59,7 @@ height: 300px;
 }
 
 object {
-  border-radius:12px;
+ 
 height: 300px;
   width: 100%;
   scrollbar-color: #595959 #262626;
@@ -101,19 +100,19 @@ height: 300px;
     img {
     max-width: 100%;
     max-height: 100%;
-      border-radius:12px;
+    
 
 }
 
 video {
-  border-radius:12px;
+  
   height: 30vh;
   width: 100%;
   display: block;
   margin-block: 10px 10px;
   background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-24-15-54-32.jpg)  -237px 30px no-repeat fixed;
 
-border-radius:12px;
+
   transition: 4s cubic-bezier(.25,.1,.2,3);
 }
 
