@@ -55,21 +55,19 @@ height: 400px;
   width: 100%;
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
-  
+
 }
 
 object {
- 
+
 height: 300px;
   width: 100%;
-  scrollbar-color: #595959 #262626;
-  scrollbar-width: thin;
 
 }
 .split {
 
   columns: 2;
-  
+
 }
 #content {
   border-radius: 31px 31px 31px 31px;
@@ -100,17 +98,17 @@ height: 300px;
     img {
     max-width: 100%;
     max-height: 100%;
-    
+
 
 }
 
 video {
-  
+
   height: 30vh;
   width: 100%;
   display: block;
   margin-block: 10px 10px;
-  background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-24-15-54-32.jpg)  -237px 30px no-repeat fixed;
+  background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-24-15-54-32.jpg)  no-repeat fixed;
 
 
   transition: 4s cubic-bezier(.25,.1,.2,3);
@@ -119,14 +117,14 @@ video {
 
 figcaption {
   font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
-  
+
 
 }
 figure {
   min-width: 150px;
 }
 figure {
- 
+
   vertical-align: top;
     float: right;
   width: 40%;
@@ -351,6 +349,7 @@ svg {
 
 
 
+
 .pinupGallery {
   display:block;
   width: 100%;
@@ -397,4 +396,268 @@ svg {
 .expandingGallery > img:hover {
 
   flex: var(--magnifier);
+}
+
+
+
+
+
+.audio {
+display:inline-block;
+  float:left;
+  padding : 10px;
+  margin :15px;
+  --primary: #262626;
+  --progress-bg: rgba(255, 255, 255, 0.2);
+  --progress-before-width: 0%;
+  --volume-before-width: 75%;
+  --buffered-width: 0%;
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/d/d7/Dreezy_-_No_Hard_Feelings_%28Cover%29.jpg");
+  background-size: contain;
+  border: 1px solid #262626;
+  background-color: #0D0D0D;
+    font: normal 13px/20px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+  color: white;
+  padding: 10px 15px 5px 15px;
+  position: relative;
+  height: 300px;
+  width:300px;
+
+  @media (min-width: 420px) {
+    padding: 10px 15px;
+  }
+}
+.audio__controls {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+.audio__btn {
+  border: none;
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  transition: .1s;
+  svg {
+    color: white;
+    display: block;
+  }
+}
+.audio__btn--back, 
+.audio__btn--forward {
+  padding: 5px;
+  opacity: .75;
+  &:hover, &:focus {
+    opacity: 1;
+  }
+}
+.audio__btn--mute {
+  opacity: .75;
+  @media (min-width: 420px) {
+    margin-left: auto;
+  }
+  &:hover, &:focus {
+    opacity: 1;
+  }
+  &.is-muted {
+    svg {
+      opacity: .5;
+    }
+  }
+}
+.audio__btn--play {
+  &:hover, &:focus {
+    transform: scale(1.1);
+  }
+  &.is-paused {
+    .pause-icon {
+      display: none;
+    }
+    .play-icon {
+      display: block;
+    }
+  }
+  .pause-icon {
+    display: block;
+   }
+  .play-icon {
+    display: none;
+  }
+}
+.audio__time {
+  color: white;
+  display: flex;
+  margin: 0 15px;
+  > * {
+    margin: 0 5px;
+  }
+}
+
+/* Range Inputs
+----------------------------- */
+.range-container {
+  position: relative;
+  width: 100%;
+  &.range-container--volume {
+    margin-left: 10px;
+    width: 50px;
+  }
+}
+.range {
+  background-color: var(--primary);
+  position: relative;
+  -webkit-appearance: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  height: 12px;
+  float: left;
+  outline: none;
+}
+.range--progress::before {
+  width: var(--progress-before-width);
+}
+.range--volume {
+  + .range-current-value {
+    width: var(--volume-before-width);
+  }
+  &::before {
+    width: var(--volume-before-width);
+    border-radius: 4px;
+  }
+}
+.range-current-value {
+  position: absolute;
+  pointer-events: none;
+  content: "";
+  top: 3px;
+  left: 0;
+  width: var(--progress-before-width);
+  height: 6px;
+  border-radius: 4px;
+  background-color: white;
+}
+
+.range::-webkit-slider-runnable-track {
+  background: var(--progress-bg);
+  border-radius: 4px;
+}
+.range::-moz-range-track {
+  background: var(--progress-bg);
+  border-radius: 4px;
+}
+.range::-ms-fill-upper {
+  background: var(--progress-bg);
+  border-radius: 4px;
+}
+
+.range::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 6px;
+}
+.range::-moz-range-track {
+  width: 100%;
+  height: 6px;
+}
+.range::-ms-track {
+  width: 100%;
+  height: 6px;
+}
+
+.range::-webkit-slider-thumb {
+  position: relative;
+  -webkit-appearance: none;
+  box-sizing: content-box;
+  border: 2px solid var(--primary);
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: white;
+  margin: -4px 0 0 0;
+  z-index: 30;
+}
+
+.range::-moz-range-thumb {
+  position: relative;
+  -webkit-appearance: none;
+  box-sizing: content-box;
+  border: 2px solid var(--primary);
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: white;
+}
+.range::-ms-thumb {
+  position: relative;
+  -webkit-appearance: none;
+  box-sizing: content-box;
+  border: 2px solid var(--primary);
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.range:active::-webkit-slider-thumb {
+  background-color: white;
+  transform: scale(1.25);
+}
+.range:active::-moz-range-thumb {
+  background-color: white;
+  transform: scale(1.25);
+}
+.range:active::-ms-thumb {
+  background-color: white;
+  transform: scale(1.25);
+}
+
+.range::-moz-range-progress {
+  background-color: white;
+}
+.range::-moz-focus-outer {
+  border: 0;
+}
+.range::-ms-track {
+  background: transparent;
+  border: solid transparent;
+  color: transparent;
+}
+.range::-ms-fill-lower {
+  background-color: var(--primary);
+}
+
+// Customize slider thumbs
+.range--progress:hover::-webkit-slider-thumb, 
+.range--progress:focus::-webkit-slider-thumb {
+  transform: scale(1.25);
+}
+.range--progress:hover::-moz-range-thumb, 
+.range--progress:focus::-moz-range-thumb {
+  transform: scale(1.25);
+}
+.range--progress:hover::-ms-thumb, 
+.range--progress:focus::-ms-thumb {
+  transform: scale(1.25);
+}
+.range--volume::-webkit-slider-thumb {
+  transform: scale(0);
+}
+.range--volume::-moz-range-thumb {
+  transform: scale(0);
+}
+.range--volume::-ms-thumb {
+  transform: scale(0);
+}
+.range--volume:hover::-webkit-slider-thumb, 
+.range--volume:focus::-webkit-slider-thumb {
+  transform: scale(1);
+}
+.range--volume:hover::-moz-range-thumb, 
+.range--volume:focus::-moz-range-thumb {
+  transform: scale(1);
+}
+.range--volume:hover::-ms-thumb, 
+.range--volume:focus::-ms-thumb {
+  transform: scale(1);
 }
