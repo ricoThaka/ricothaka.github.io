@@ -47,7 +47,12 @@ a {
   text-align:left; 
 }
 
-
+hr {
+  height: 0;
+  border: 0;
+  border-bottom: 1px dashed #595959;
+  color: #595959;
+}
 
 embed {
 
