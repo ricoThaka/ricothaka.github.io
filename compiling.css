@@ -69,6 +69,10 @@ height: 300px;
   width: 100%;
 
 }
+h1, h2, h3 {
+  text-shadow:  5px 5px 5px #262626;
+}
+h1 { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h2 { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }
 .split {
 
   columns: 2;
@@ -97,15 +101,15 @@ height: 300px;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  
     }
 
 
-    img {
-    max-width: 100%;
-    max-height: 100%;
+     img { width: 100%;}
 
 
-}
+
+
 
 video {
 
@@ -354,7 +358,6 @@ svg {
 
 
 
-
 .pinupGallery {
   display:block;
   width: 100%;
@@ -379,7 +382,8 @@ svg {
 }
 
 .expandingGallery {
-  width: 100%;
+  width: 100vw;
+  height: 30vh;
   margin:0px;
   padding: 0px;
   display: flex;
@@ -401,268 +405,30 @@ svg {
 .expandingGallery > img:hover {
 
   flex: var(--magnifier);
-}
+} 
 
 
 
-
-
-.audio {
-display:inline-block;
-  float:left;
-  padding : 10px;
-  margin :15px;
-  --primary: #262626;
-  --progress-bg: rgba(255, 255, 255, 0.2);
-  --progress-before-width: 0%;
-  --volume-before-width: 75%;
-  --buffered-width: 0%;
-  background-image: url("https://upload.wikimedia.org/wikipedia/en/d/d7/Dreezy_-_No_Hard_Feelings_%28Cover%29.jpg");
-  background-size: contain;
-  border: 1px solid #262626;
-  background-color: #0D0D0D;
-    font: normal 13px/20px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
-  color: white;
-  padding: 10px 15px 5px 15px;
-  position: relative;
-  height: 300px;
-  width:300px;
-
-  @media (min-width: 420px) {
-    padding: 10px 15px;
-  }
-}
-.audio__controls {
+.lovergraff {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
   display: flex;
-  align-items: center;
-  margin: 10px 0;
-}
-.audio__btn {
-  border: none;
-  background: transparent;
-  padding: 0;
-  margin: 0;
-  cursor: pointer;
-  transition: .1s;
-  svg {
-    color: white;
-    display: block;
-  }
-}
-.audio__btn--back, 
-.audio__btn--forward {
-  padding: 5px;
-  opacity: .75;
-  &:hover, &:focus {
-    opacity: 1;
-  }
-}
-.audio__btn--mute {
-  opacity: .75;
-  @media (min-width: 420px) {
-    margin-left: auto;
-  }
-  &:hover, &:focus {
-    opacity: 1;
-  }
-  &.is-muted {
-    svg {
-      opacity: .5;
-    }
-  }
-}
-.audio__btn--play {
-  &:hover, &:focus {
-    transform: scale(1.1);
-  }
-  &.is-paused {
-    .pause-icon {
-      display: none;
-    }
-    .play-icon {
-      display: block;
-    }
-  }
-  .pause-icon {
-    display: block;
-   }
-  .play-icon {
-    display: none;
-  }
-}
-.audio__time {
-  color: white;
-  display: flex;
-  margin: 0 15px;
-  > * {
-    margin: 0 5px;
-  }
-}
-
-/* Range Inputs
------------------------------ */
-.range-container {
-  position: relative;
+  flex-wrap: nowrap;
   width: 100%;
-  &.range-container--volume {
-    margin-left: 10px;
-    width: 50px;
-  }
-}
-.range {
-  background-color: var(--primary);
-  position: relative;
-  -webkit-appearance: none;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-  height: 12px;
-  float: left;
-  outline: none;
-}
-.range--progress::before {
-  width: var(--progress-before-width);
-}
-.range--volume {
-  + .range-current-value {
-    width: var(--volume-before-width);
-  }
-  &::before {
-    width: var(--volume-before-width);
-    border-radius: 4px;
-  }
-}
-.range-current-value {
-  position: absolute;
-  pointer-events: none;
-  content: "";
-  top: 3px;
-  left: 0;
-  width: var(--progress-before-width);
-  height: 6px;
-  border-radius: 4px;
-  background-color: white;
-}
+  height: 80px;
 
-.range::-webkit-slider-runnable-track {
-  background: var(--progress-bg);
-  border-radius: 4px;
 }
-.range::-moz-range-track {
-  background: var(--progress-bg);
-  border-radius: 4px;
-}
-.range::-ms-fill-upper {
-  background: var(--progress-bg);
-  border-radius: 4px;
-}
+.lovergraff div:nth-child(1) { background: #BF6B99;}
+.lovergraff div:nth-child(2) { background: #049DD9;}
+.lovergraff div:nth-child(3) { background: #D4D943;}
+.lovergraff div:nth-child(4) { background: #BF9969;}
+.lovergraff div:nth-child(5) { background: #D94848;}
 
-.range::-webkit-slider-runnable-track {
-  width: 100%;
-  height: 6px;
-}
-.range::-moz-range-track {
-  width: 100%;
-  height: 6px;
-}
-.range::-ms-track {
-  width: 100%;
-  height: 6px;
-}
+.lovergraff div {
 
-.range::-webkit-slider-thumb {
-  position: relative;
-  -webkit-appearance: none;
-  box-sizing: content-box;
-  border: 2px solid var(--primary);
-  height: 10px;
-  width: 10px;
-  border-radius: 50%;
-  background-color: white;
-  margin: -4px 0 0 0;
-  z-index: 30;
-}
+  flex: 0 1 200px;
+  flex: 1 1 200px;
+  padding: 0px;
 
-.range::-moz-range-thumb {
-  position: relative;
-  -webkit-appearance: none;
-  box-sizing: content-box;
-  border: 2px solid var(--primary);
-  height: 10px;
-  width: 10px;
-  border-radius: 50%;
-  background-color: white;
-}
-.range::-ms-thumb {
-  position: relative;
-  -webkit-appearance: none;
-  box-sizing: content-box;
-  border: 2px solid var(--primary);
-  height: 10px;
-  width: 10px;
-  border-radius: 50%;
-  background-color: white;
-}
-
-.range:active::-webkit-slider-thumb {
-  background-color: white;
-  transform: scale(1.25);
-}
-.range:active::-moz-range-thumb {
-  background-color: white;
-  transform: scale(1.25);
-}
-.range:active::-ms-thumb {
-  background-color: white;
-  transform: scale(1.25);
-}
-
-.range::-moz-range-progress {
-  background-color: white;
-}
-.range::-moz-focus-outer {
-  border: 0;
-}
-.range::-ms-track {
-  background: transparent;
-  border: solid transparent;
-  color: transparent;
-}
-.range::-ms-fill-lower {
-  background-color: var(--primary);
-}
-
-// Customize slider thumbs
-.range--progress:hover::-webkit-slider-thumb, 
-.range--progress:focus::-webkit-slider-thumb {
-  transform: scale(1.25);
-}
-.range--progress:hover::-moz-range-thumb, 
-.range--progress:focus::-moz-range-thumb {
-  transform: scale(1.25);
-}
-.range--progress:hover::-ms-thumb, 
-.range--progress:focus::-ms-thumb {
-  transform: scale(1.25);
-}
-.range--volume::-webkit-slider-thumb {
-  transform: scale(0);
-}
-.range--volume::-moz-range-thumb {
-  transform: scale(0);
-}
-.range--volume::-ms-thumb {
-  transform: scale(0);
-}
-.range--volume:hover::-webkit-slider-thumb, 
-.range--volume:focus::-webkit-slider-thumb {
-  transform: scale(1);
-}
-.range--volume:hover::-moz-range-thumb, 
-.range--volume:focus::-moz-range-thumb {
-  transform: scale(1);
-}
-.range--volume:hover::-ms-thumb, 
-.range--volume:focus::-ms-thumb {
-  transform: scale(1);
 }
