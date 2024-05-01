@@ -498,22 +498,30 @@ background-size: 80.4px 80.4px;
 
 /* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
 
+
+
+
+/* FLEX_BOX_FOR_3_IMAGES */
 .flex-container {
-  align-items: stretch;
-/* flex-flow: row nowrap; */
-flex-direction: row;
-flex-wrap: nowrap;
-  padding: 0px;
-justify-content: center;
-align-content: stretch;
-height: 100%;
-display: grid;
-grid-template-columns: auto auto auto;
+
+  display: flex;
+   align-items: stretch; 
+   flex-flow: row nowrap;  
+  flex-direction: row; 
+  flex-wrap: nowrap; 
+  justify-content: center;
+  align-content: stretch;
+  height: 100%;
+  padding: 15px;
+  gap: 5px;
+
 }
 
-.flex-container > div {
-border: 1px solid #c9ff23;
-  border-radius:0px;
+.flex-container > div{
+ 
+  border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 8px;
 }
 
 .flex-container > img {

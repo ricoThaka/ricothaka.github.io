@@ -1,3 +1,11 @@
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
+  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
+  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
+</div>
+
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="GRAFFITI">
 <div class="normani">
     <div></div>
     <div></div>
@@ -14,6 +22,8 @@
     <div></div>
     </div>
 
+
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani">
 <div class="normani">
@@ -1375,3 +1385,5 @@
     <div></div>
   
   </div>
+
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
