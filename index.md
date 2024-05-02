@@ -1,3 +1,36 @@
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+ <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/bronzelover.jpg" alt="Normani, is an American singer and dancer" border="0" />
+
+  <div class="lovergraff">
+      <div></div>
+      <div></div>
+      <div></div>
+    <div></div>
+      <div></div>
+      </div>
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+</div>
+  <div class="normani">
+      <div></div>
+      <div></div>
+    <div></div>
+      <div></div>
+      <div></div>
+      </div>
+
+   <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/lover.PNG" alt="Normani, is an American singer and dancer" border="0" />
+
+  <div class="lovergraff">
+      <div></div>
+      <div></div>
+    <div></div>
+      <div></div>
+      <div></div>
+      </div>
 <div class="flex-container">
 
   <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
@@ -23,7 +56,7 @@
     </div>
 
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+
 
  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani">
 <div class="normani">
