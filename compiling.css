@@ -10,6 +10,8 @@ color:white;}
 
 
 html {
+  
+  font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
        background: url(https://science.nasa.gov/wp-content/uploads/2023/09/PIA14943-full.jpg) -237px 30px no-repeat fixed; 
   background-position: 0 0;
    line-height: 1.5;
