@@ -49,13 +49,18 @@ table {
   margin: 0 0 50px;
   padding-left: 820px;
 } */
+html {
+  height: 100%;
+  width: 100%;
+ 
+  font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+}
 body {
-  
+  text-shadow: 0 0 8px #FFFFFF;
   background: linear-gradient(45deg, 
               #fb3 25%, #58a 0, #58a 50%,
               #fb3 0, #fb3 75%, #58a 0);
 background-size: 80.4px 80.4px;
-   font-family: "VT323", monospace;
   background-attachment: fixed;
   
 }
@@ -79,34 +84,6 @@ background-size: 80.4px 80.4px;
   height: 100vh;
   margin: auto;
 
-}
-#MAiN h1 {
-  font-size: 30px;
-}
-
-#MAiN h2 {
-  font-size: 24px;
-}
-
-#MAiN h3 {
-  font-size: 18px;
-}
-
-#MAiN h4 {
-  font-size: 14px;
-}
-
-#MAiN h5 {
-  font-size: 12px;
-  text-transform: uppercase;
-  margin: 0 0 5px 0;
-}
-
-#MAiN h6 {
-  font-size: 12px;
-  text-transform: uppercase;
-  color: #999;
-  margin: 0 0 5px 0;
 }
 
 /*
