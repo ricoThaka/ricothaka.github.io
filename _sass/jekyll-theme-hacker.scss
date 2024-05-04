@@ -126,85 +126,101 @@ grid-template-rows: auto auto auto;
  
 } */
 
-#navcontainer
-{
-  flex-wrap: nowrap;
-  width:50vw;
-text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-  0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-padding:5px;
-position:fixed;
-padding: 0;
-height: 20px;
-  display:inline;
-  background-color:black;
-  position:fixed;
-  color:white;
-  border-top: 1px dotted #2E97F2;
-  top:0;
-}
 
-#navcontainer ul
-{
-border: 0;
-margin: 0;
-padding: 0;
-list-style-type: none;
-text-align: center;
 
-}
-
-#navcontainer ul li
-{
-display: block;
-float: right;
-text-align: center;
-padding: 0;
-margin: 0;
-}
-
-#navcontainer ul li a
-{
-width: 78px;
-height: 25px;
-border-top: 1px solid #2E97F2;
-border-left: 0px solid #f5d7b4;
-border-bottom: 1px solid #262626;
-border-right: 1px solid #262626;
-padding: 0;
-margin: 0 0 0px 0;
-color: #A6A6A6;
-text-decoration: none;
-display: block;
-text-align: center;
-font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
-}
-
-#navcontainer ul li a:hover
-{
-color: #F2F2F2;
-background: #262626;
-}
-
-#navcontainer a:active
-{
-background: #262626;
-color: #fff;
-}
-
-#navcontainer li#active a
-{
-background: #262626;
-border-right: 4px solid #2E97F2;
-color: #fff;
-}
 .logo {
   
   float: left;
   background-color:black;
-  display:inline;
-  padding:5px;
+  display:block;
+  
 }
+
+ul {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+li {
+  display: inline;
+  position: relative;
+  color: white;
+}
+
+ul ul {
+  position: absolute;
+  display: none;
+  
+}
+
+li:hover ul {
+  display: block;
+}
+
+
+
+#navcontainer {
+  padding: 0;
+  
+  height: 20px;
+  display: flex;
+  background-color:black;
+  position:fixed;
+  color:white;
+  top: 0;
+}
+
+#navcontainer ul {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+#navcontainer ul li {
+  display: block;
+
+  float: right;
+  text-align: center;
+  padding: 0px;
+  margin: 0;
+}
+
+#navcontainer ul li a {
+  width: 100px;
+  height: 20px;
+  background: #262626;
+  border-left: px solid #f5d7b4;
+  border-bottom: 1px solid #262626;
+  border-right: 1px solid #262626;
+  padding: 0;
+  margin: 0 0 0px 0;
+  color: #a6a6a6;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+
+}
+
+#navcontainer ul li a:hover {
+  color: #f2f2f2;
+  background: #262626;
+}
+
+#navcontainer a:active {
+  background: #262626;
+  color: #fff;
+}
+
+#navcontainer li#active a {
+  background: #262626;
+  border-right: 4px solid #2e97f2;
+  color: #fff;
+}
+
+
 .css3badge {
   display:inline;
   float: right;
@@ -342,7 +358,8 @@ p:first-of-type {
   
   img {
   display:block;
-  width: 100%;
+  max-width: 100%;
+  width:100%;
 }
 
 

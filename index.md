@@ -8,12 +8,34 @@
     <div></div>
       <div></div>
       </div>
+      ```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 <div class="flex-container">
 
   <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
   <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
   <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
 </div>
+
+# WorkHistory!
+![MY_SKILLS](https://raw.githubusercontent.com/ThakaRashard/RESUME/main/a6cd13981b4abe4fe14107f07a3945b1.jpg)
+
+# ##MY_PROFiLE = "LiNUX_ENGiNEER##DEVOPS_SPECiALiST"
+After 20 years in Information Technology, I have developed several practical skills with useful technologies, both OpenSource and Proprietary. The tasks, people, and places that I've worked included assignments in building, supporting, migrating, and developing web SaaS solutions that run on *NIX platform both cloud (AWS) and on-site to ensure business continuity. 
+
+## ##LANGUAGES = "Programming and Communicative" ##
+{% highlight ruby %}
+KNOWN_PROGRAMMiNG_LANGUAGES =  [  
+[ "ANSiBLE_ADVANCED", "HTML_ADVANCED", "BASH_ADVANCED" ]
+[ "RUBY_iNTERMEDiATE", "CSS_ADVANCED" ]
+[ "PYTHON_iNTERMEDiATE", "PHP_BEGiNNER",  ]
+] ##THATS_HOW_i_GET_MY_WERK_DONE!!!
+{% endhighlight %}
+
   <div class="normani">
       <div></div>
       <div></div>
