@@ -1,4 +1,9 @@
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+
+![Apollo 9 Astronaut David Scott’s Spacewalk](https://www.nasa.gov/wp-content/uploads/2024/03/as09-20-3064orig.jpg)
+
+
+
  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/bronzelover.jpg" alt="Normani, is an American singer and dancer" border="0" />
 
   <div class="lovergraff">
@@ -24,10 +29,10 @@ end
 # WorkHistory!
 ![MY_SKILLS](https://raw.githubusercontent.com/ThakaRashard/RESUME/main/a6cd13981b4abe4fe14107f07a3945b1.jpg)
 
-# ##MY_PROFiLE = "LiNUX_ENGiNEER##DEVOPS_SPECiALiST"
+# MY_PROFiLE = 
 After 20 years in Information Technology, I have developed several practical skills with useful technologies, both OpenSource and Proprietary. The tasks, people, and places that I've worked included assignments in building, supporting, migrating, and developing web SaaS solutions that run on *NIX platform both cloud (AWS) and on-site to ensure business continuity. 
 
-## ##LANGUAGES = "Programming and Communicative" ##
+## LANGUAGES = "Programming and Communicative" ##
 {% highlight ruby %}
 KNOWN_PROGRAMMiNG_LANGUAGES =  [  
 [ "ANSiBLE_ADVANCED", "HTML_ADVANCED", "BASH_ADVANCED" ]
@@ -43,8 +48,6 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
       <div></div>
       <div></div>
       </div>
-
-   <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/lover.PNG" alt="Normani, is an American singer and dancer" border="0" />
 
   <div class="lovergraff">
       <div></div>
