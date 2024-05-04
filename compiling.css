@@ -33,6 +33,82 @@ a {
 
 /* contentDiv */
 
+
+.logo {
+  writing-mode: vertical-rl;
+
+  float: top;
+  background-color:black;
+  display:inline;
+}
+
+#navcontainer
+{
+  height:100vh;
+margin: 0px 0 0 0px;
+padding: 0;
+display: table; 
+  background-color:black;
+  position:fixed;
+  color:white;
+
+}
+
+#navcontainer ul
+{
+writing-mode: vertical-rl;
+text-orientation: upright;
+border: 0;
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+}
+#navcontainer ul li
+{
+display: block;
+float: left;
+text-align: center;
+padding: 0;
+margin: 0;
+}
+
+
+#navcontainer ul li a
+{
+background: #fff;
+border-top: 1px solid #2E97F2;
+border-left: px solid #f5d7b4;
+border-bottom: 1px solid #262626;
+border-right: 1px solid #262626;
+padding: 0;
+margin: 0 0 0px 0;
+color: #A6A6A6;
+text-decoration: none;
+display: block;
+text-align: center;
+}
+
+
+#navcontainer ul li a:hover
+{
+color: #F2F2F2;
+background: #262626;
+}
+
+#navcontainer a:active
+{
+background: #262626;
+color: #fff;
+}
+
+#navcontainer li#active a
+{
+background: #262626;
+border-right: 4px solid #2E97F2;
+color: #fff;
+}
+
 .top-container {
 
   padding: 0px;
