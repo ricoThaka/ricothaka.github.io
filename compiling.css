@@ -169,8 +169,7 @@ h1 { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 24px; font-styl
   margin-left: auto; 	
   border: 19px solid #262626;
   text-align:left; 
-  font: normal 13px/20px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
-  voice-family:inherit;
+    voice-family:inherit;
   box-shadow: rgba(38,38,38, 0.4) 5px 5px, rgba(38,38,38, 0.3) 10px 10px, rgba(38,38,38, 0.2) 15px 15px, rgba(38,38,38, 0.1) 20px 20px, rgba(38,38,38, 0.05) 25px 25px;
   background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/saturn.png ) -237px 30px no-repeat fixed; 
   background-position: 0 0;
@@ -183,7 +182,9 @@ h1 { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 24px; font-styl
     }
 
 
-     img { width: 100%;}
+     img { width: 100%;
+    max-width:100%;
+  }
 
 
 
