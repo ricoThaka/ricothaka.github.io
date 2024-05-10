@@ -81,12 +81,24 @@ padding:5%;
   text-align: left;
   color:white;
     background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    url(https://media.freestocktextures.com/cache/d7/d7/d7d72be81898a7f7b56681242cf3ee5b.jpg)
     center repeat;
 }
 ::selection {
 color: white;
 background: cyan;
+}p {
+  display: block;
+  padding: 5%;
+  text-align: left;
+  color: white;
+  background: transparent
+    url(https://media.freestocktextures.com/cache/d7/d7/d7d72be81898a7f7b56681242cf3ee5b.jpg)
+    center repeat;
+}
+::selection {
+  color: white;
+  background: cyan;
 }
 p::first-letter {
   font-size: 2rem;
@@ -98,6 +110,17 @@ p:first-of-type {
   animation-duration: 3s;
   animation-name: slidein;
 }
+p::first-letter {
+  font-size: 2rem;
+  font-weight: bold;
+  vertical-align: sub;
+  color: cyan;
+}
+p:first-of-type {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
 .split {
 
   columns: 2;
