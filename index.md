@@ -14,7 +14,7 @@
 ![CellphoneGraphicOfMyLOVERtag](https://scontent-lax3-1.xx.fbcdn.net/v/t1.18169-9/26166952_155363241773849_1559317249801482595_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lYYO5qeBB_8Q7kNvgFX09aG&_nc_ht=scontent-lax3-1.xx&oh=00_AYBrtYSpH4vOBASBZhMX_CUgfcSyhC6UJbTK_pMExdtBnw&oe=6664D6AD)
 ![Apollo 9 Astronaut David Scott’s Spacewalk](https://www.nasa.gov/wp-content/uploads/2024/03/as09-20-3064orig.jpg)
 
-
+<div>
   <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%23595959&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
   <figcaption>
     Kashdoll is a moniker that gets passed around in real work sex work... slavery. I really miss her, she mentions me by name in the first song "soundcloud context"
@@ -38,7 +38,7 @@
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Vestibulum id metus ac nisl bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet sagittis. In tincidunt orci sit amet elementum vestibulum. Vivamus fermentum in arcu in aliquam. Quisque aliquam porta odio in fringilla. Vivamus nisl leo, blandit at bibendum eu, tristique eget risus. Integer aliquet quam ut elit suscipit, id interdum neque porttitor. Integer faucibus ligula.</p>
   <p>Quis quam ut magna consequat faucibus. Pellentesque eget nisi a mi suscipit tincidunt. Ut tempus dictum risus. Pellentesque viverra sagittis quam at mattis. Suspendisse potenti. Aliquam sit amet gravida nibh, facilisis gravida odio. Phasellus auctor velit at lacus blandit, commodo iaculis justo viverra. Etiam vitae est arcu. Mauris vel congue dolor. Aliquam eget mi mi. Fusce quam tortor, commodo ac dui quis, bibendum viverra erat. Maecenas mattis lectus enim, quis tincidunt dui molestie euismod. Curabitur et diam tristique, accumsan nunc eu, hendrerit tellus.</p>
   <p class="neon">፤ እግዚአብሔርም ብርሃኑን ቀን ብሎ ጠራው፥።</p><img alt="The ENIAC" src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png"> <img alt="Galaxy NGC 4535" src="https://science.nasa.gov/wp-content/uploads/2023/07/52046519794-082f96a17d-o.jpg"> <img alt="The ENIAC" src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg"> <img alt="The ENIAC" src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg">
-
+</div>
 <div class="flex-container">
 
   <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif" /></div>
