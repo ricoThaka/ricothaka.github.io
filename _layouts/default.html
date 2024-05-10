@@ -16,33 +16,41 @@
   <div id="wrapper">
   <div id="MAiN">
 
- 
- 
-
     <div id="navcontainer">
-      <div class="logo">./HoleToAnotherUniverse=></div>
+      <div class="logo"><a href="https://github.com/ricoThaka">./HoleToAnotherUniverse=></a></div>
       <ul id="navlist">
         
        <li>
           <a href="#">AstronomY</a>
           <ul>
-            <li><a href="https://ricothaka.github.io/marsblog.html">MarsNotes</a></li>
-            <li><a href="#">Saturn</a></li>
-            <li><a href="https://ricothaka.github.io/Contact.html" >HTAU</a></li>
+            <li><a href="https://ricothaka.github.io/marsblog.html">Mars</a></li>
+          <!--  <li><a href="#">Saturn</a></li> -->
           </ul>
         </li>
             <li>
           <a href="https://ricothaka.github.io/compiling/index.html">ComPiLinG</a>
           <ul>
-            <li><a href="https://thakarashard.github.io/holetoanotheruniverse/">HTAU</a></li>
+            <li><a href="{{ "/archive" | prepend: site.baseurl | replace: '//', '/' }}">Archive</a></li>
+    <li><a href="{{ "/atom.xml" | prepend: site.baseurl | replace: '//', '/' }}">RSS</a></li>
+            <li id="active"><a href="https://ricothaka.github.io/CompilinG/" alt="My Name is Thaka ppl usd to call me Rashard and this is My blog" >BLoG</a></li>
+    <li><a href="https://ricothaka.github.io/marsblog.html" alt="Mars Reconissince Orbiter is my job to help maintain for the us government and our global allies, we r a fun bunch">MarsNotes</a></li>
+    <li><a id="current" href="https://ricothaka.github.io/cv/" alt="My Resume!">ResumE</a></li>
+    <li><a id="current" href="https://thakarashard.github.io/" alt="FailoveR">FailoveR</a></li>
+    <li><a href="https://thakarashard.github.io/holetoanotheruniverse/">HTAU</a></li>
+    <li><a href="https://ricothaka.github.io/cv">ResumE</a></li>
+    <li><a href="https://ricothaka.github.io/webpagewebpage.html" >WebSiteS</a></li>
 
-            <li><a href="https://ricothaka.github.io/cv">ResumE</a></li>
-            <li><a href="https://ricothaka.github.io/webpagewebpage.html" >WebSiteS</a></li>
+            <li><a href="https://ricothaka.github.io/htau.html">HTAU</a></li>
+         <!--   <li><a href="#">LosAngeles</a></li> -->
           </ul>
         </li>
         <li><a href="https://ricothaka.github.io/">HOME</a></li>
         <!-- etc. -->
       </ul>
+      <a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
+        {% assign owner_first_name = site.owner | split: " " %}
+        {{ owner_first_name[0] | downcase }}@home:~$
+        </a>
     </div>
 
     {{ content }}
