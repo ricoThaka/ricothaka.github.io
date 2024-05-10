@@ -10,9 +10,8 @@
   <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif" /></div>
 </div>
 
-### The Koran
-<hr>
-<h1>The Women</h1>
+# The Koran
+## The Women
 In the name of Allah, the Beneficent, the Merciful.[<b>4.1</b>] O people! be careful of (your duty to) your Lord, Who created  you from a single being and created its mate of the same (kind) and  spread from these two, many men and women; and be careful of  (your duty to) Allah, by Whom you demand one of another (your  rights), and (to) the ties of relationship; surely Allah ever watches  over you.<br>[<b>4.2</b>] And give to the orphans their property, and do not substitute  worthless (things) for (their) good (ones), and do not devour  their property (as an addition) to your own property; this is  surely a great crime.<br>[<b>4.3</b>] And if you fear that you cannot act equitably towards  orphans, then marry such women as seem good to you, two and  three and four; but if you fear that you will not do justice  (between them), then (marry) only one or what your right hands  possess; this is more proper, that you may not deviate from the  right course.<br>[<b>4.4</b>] And give women their dowries as a free gift, but if they of  themselves be pleased to give up to you a portion of it, then eat it  with enjoyment and with wholesome result.<br>[<b>4.5</b>] 
 
  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/bronzelover.jpg" alt="Normani, is an American singer and dancer" border="0" />

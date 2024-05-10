@@ -11,35 +11,35 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
-	display: block;
+  display: block;
 }
 body {
-	line-height: 1;
+  line-height: 1;
 }
 ol, ul {
-	list-style: none;
+  list-style: none;
 }
 blockquote, q {
-	quotes: none;
+  quotes: none;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
-	content: '';
-	content: none;
+  content: '';
+  content: none;
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 * {
@@ -52,7 +52,7 @@ table {
 html {
   height: 100%;
   width: 100%;
- 
+
   font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
 }
 body {
@@ -62,7 +62,7 @@ body {
               #fb3 0, #fb3 75%, #58a 0);
 background-size: 80.4px 80.4px;
   background-attachment: fixed;
-  
+  font-size:140%;
 }
 body:hover {
 
@@ -70,11 +70,34 @@ body:hover {
               #F2D338 25%, #262626 0, #58a 50%,
               #F2D338 0, #F2D338 75%, #58a 0);
 background-size: 80.4px 80.4px;
-   font-family: "VT323", monospace;
+
   background-attachment: fixed;
 
 }
 
+p {
+  display:block;
+padding:5%;
+  text-align: left;
+  color:white;
+    background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+}
+::selection {
+color: white;
+background: cyan;
+}
+p::first-letter {
+  font-size: 2rem;
+  font-weight: bold;
+  vertical-align: sub;
+  color: cyan;
+}
+p:first-of-type {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
 
 
 #MAiN
@@ -100,17 +123,17 @@ grid-template-rows: auto auto auto;
   color:white;
   padding:5px;
   position:fixed;
- 
+
 } */
 
 
 
 .logo {
-  
+
   float: left;
   background-color:black;
   display:block;
-  
+
 }
 
 ul {
@@ -128,7 +151,7 @@ li {
 ul ul {
   position: absolute;
   display: none;
-  
+
 }
 
 li:hover ul {
@@ -139,11 +162,11 @@ li:hover ul {
 
 
 .logo {
-  
+
   float: left;
   background-color:black;
   display:block;
-  
+
 }
 
 ul {
@@ -161,7 +184,7 @@ li {
 ul ul {
   position: absolute;
   display: none;
-  
+
 }
 
 li:hover ul {
@@ -172,7 +195,7 @@ li:hover ul {
 
 #navcontainer {
   padding: 0;
-  
+
   height: 20px;
   display: flex;
   background-color:black;
@@ -244,7 +267,7 @@ h2 {
     background: transparent
      url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg)
      center repeat;
-   
+
    color:white;
      }
 
@@ -328,49 +351,26 @@ grid-template-rows: auto auto auto;
 
 
 
-p {
-  display:block;
-
-  text-align: center;
-  color:white;
-    background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-    center repeat;
-}
-::selection {
-color: white;
-background: cyan;
-}
-p::first-letter {
-  font-size: 2rem;
-  font-weight: bold;
-  vertical-align: sub;
-  color: cyan;
-}
-p:first-of-type {
-  animation-duration: 3s;
-  animation-name: slidein;
-}
 
 
 /*
 #content {
 
- 	border-radius:12px;
-	padding: 10px;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	margin-right: 20em;
-	margin-left: 20em; 	
-	/* opera does not like 'margin:20px auto' astrxneeded/
-	border: 0px solid #ccc;
-	text-align:left; 
-	voice-family: "\"}\"";
-	voice-family:inherit;
-	
-	}
+  border-radius:12px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20em;
+  margin-left: 20em; 	
+  /* opera does not like 'margin:20px auto' astrxneeded/
+  border: 0px solid #ccc;
+  text-align:left; 
+  voice-family: "\"}\"";
+  voice-family:inherit;
+
+  }
 */
-  
+
   img {
   display:block;
   max-width: 100%;
@@ -456,9 +456,9 @@ video {
               #fb3 25%, #58a 0, #58a 50%,
               #fb3 0, #fb3 75%, #58a 0);
 background-size: 80.4px 80.4px;
-  
+
 border-radius:0px;
-	transition: 4s cubic-bezier(.25,.1,.2,3);
+  transition: 4s cubic-bezier(.25,.1,.2,3);
 }
 
 video:hover {
@@ -470,7 +470,7 @@ video:hover {
               #fb3 25%, #58a 0, #58a 50%,
               #fb3 0, #fb3 75%, #58a 0);
 background-size: 80.4px 80.4px;
-  
+
 
 }
 
@@ -490,7 +490,7 @@ background-size: 80.4px 80.4px;
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-  
+
 }
 
 .panelColumn {
@@ -508,7 +508,7 @@ background-size: 80.4px 80.4px;
 }
 
 .leftColumn img {
-  
+
     flex-shrink: 0;
     min-width: 100%;
     min-height: 100%;
@@ -516,14 +516,14 @@ background-size: 80.4px 80.4px;
     justify-content: center;
     align-items: center;
     overflow: hidden
-  
+
 }
 
 .rightColumn {
   /* background-color: #c9ff23; */
 }
 .rightColumn img { 
- 
+
     flex-shrink: 0;
     min-width: 100%;
     min-height: 100%;
@@ -557,7 +557,7 @@ background-size: 80.4px 80.4px;
 }
 
 .flex-container > div{
- 
+
   border: 1px solid #c9ff23;
   border-radius: 1px;
   padding: 8px;
@@ -576,7 +576,7 @@ border: 1px solid #c9ff23;
   --gap: 0vmax;
   --transition: 0.5s;
 }
-  
+
 .expandingGallery {
   width: 100%;
   height: 50vh;
@@ -613,7 +613,7 @@ border: 1px solid #c9ff23;
   left: 0;
   right: 0;
   bottom: 0;
-  
+
   /* A bit of padding around image */
   padding: 1em;
 
@@ -2108,7 +2108,7 @@ border: 1px solid #c9ff23;
   flex-wrap: wrap;
   width: 100%;
   height: 80px;
-  
+
 }
 .normani div:nth-child(1) { background: #F2E205;}
 .normani div:nth-child(2) { background: #D9CB04;}
@@ -2121,7 +2121,7 @@ border: 1px solid #c9ff23;
   flex: 0 1 200px;
   flex: 1 1 200px;
   padding: 0px;
-  
+
 }
 
 
