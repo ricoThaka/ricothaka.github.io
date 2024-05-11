@@ -54,17 +54,14 @@ html {
   width: 100%;
 
   font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
-}
-body {
-  text-shadow: 0 0 8px #FFFFFF;
   background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
+    #fb3 25%, #58a 0, #58a 50%,
+    #fb3 0, #fb3 75%, #58a 0);
+  background-size: 80.4px 80.4px;
   background-attachment: fixed;
-  font-size:140%;
 }
-body:hover {
+
+html:hover {
 
   background: linear-gradient(45deg, 
               #F2D338 25%, #262626 0, #58a 50%,
@@ -74,6 +71,11 @@ background-size: 80.4px 80.4px;
   background-attachment: fixed;
 
 }
+body {
+  text-shadow: 0 0 8px #FFFFFF;
+
+  font-size:140%;
+}
 
 p {
   display:block;
@@ -81,20 +83,14 @@ padding:5%;
   text-align: left;
   color:white;
     background: transparent
-    url(https://media.freestocktextures.com/cache/d7/d7/d7d72be81898a7f7b56681242cf3ee5b.jpg)
-    center repeat;
+    url(https://t4.ftcdn.net/jpg/01/11/31/93/360_F_111319320_3gSczDAUKn9b5DAbQdkILWgvA28p4lrx.jpg)
+   ;
+  background-size: contain;
+  background-repeat: repeat;
 }
 ::selection {
 color: white;
 background: cyan;
-}p {
-  display: block;
-  padding: 5%;
-  text-align: left;
-  color: white;
-  background: transparent
-    url(https://media.freestocktextures.com/cache/d7/d7/d7d72be81898a7f7b56681242cf3ee5b.jpg)
-    center repeat;
 }
 ::selection {
   color: white;
@@ -120,11 +116,16 @@ p:first-of-type {
   animation-duration: 3s;
   animation-name: slidein;
 }
-
-.split {
-
-  columns: 2;
-
+.firstcharacter {
+  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+  float: left;
+  font-size: 80px;
+  line-height: 60px;
+  padding-top: 7px;
+  padding-right: 8px;
+  padding-left: 3px;
 }
 
 #MAiN
@@ -133,7 +134,8 @@ p:first-of-type {
   width: 50vw;
   height: 100vh;
   margin: auto;
-
+  background: transparent url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif) repeat;
+ 
 }
 
 /*
@@ -475,14 +477,32 @@ a {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
-video { border-radius:0px; height: 400px; width: 100%; display: block; margin-block: 10px ; padding:15px;  background: transparent url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif; border-radius:0px; transition: 4s cubic-bezier(.25,.1,.2,3); } video:hover { border-radius:0px; display: block; margin-block: 10px 10px; } embed { height: 400px; width: 100%; scrollbar-color: #595959 #262626; scrollbar-width: thin; }
+video {
+  border-radius:0px;
+  height: 400px;
+  width: 100%;
+  display: block;
+  margin-block: 10px ;
+  transition: 2s cubic-bezier(.25,.1,.2,3);
+}
+
+embed {
+
+  height: 400px;
+    width: 100%;
+    scrollbar-color: #595959 #262626;
+    scrollbar-width: thin;
+  
+  }
+
+
 /* Image + PageLayout s */
 
 .twoPanelSpread {
-  border-radius:0px;
-  background-color: #00db46; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, #e66250, #ff80cc);
-  max-width: max-content;
+  margin: 0px;
+  padding: 0px;
+  background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
+    center repeat;
 }
 
 .row {
