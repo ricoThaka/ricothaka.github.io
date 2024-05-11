@@ -1,3 +1,667 @@
+
+/* ---------------------------------- #StartStyle */
+body {
+
+}
+pre {padding:15px;
+color:white;}
+
+
+
+
+html {
+       background: url(https://science.nasa.gov/wp-content/uploads/2023/09/PIA14943-full.jpg) -237px 30px no-repeat fixed; 
+  background-position: 0 0;
+   line-height: 1.5;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+color:white;
+}
+a,
+a:hover,
+a:visited a:hover {
+  color: #c9ff23;
+  padding: 10px;
+}
+
+a {
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+/* contentDiv */
+
+.top-container {
+
+  padding: 0px;
+  align-content: center;
+  max-width: 900px; 
+  padding: 15px;
+  margin-right: auto;
+  margin-left: auto; 	
+  /* opera does not like 'margin:20px auto' */
+  /* background: #666; */
+  width: 50%; /* ie5win fudge begins */
+  text-align:left; 
+}
+
+
+
+embed {
+
+height: 400px;
+  width: 100%;
+  scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
+
+}
+
+object {
+
+height: 300px;
+  width: 100%;
+  scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
+
+}
+.split {
+
+  columns: 2;
+
+}
+#content {
+  border-radius: 31px 31px 31px 31px;
+  width: 70vw; 
+  scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
+  padding: 20px;
+  height: 70vh;
+  overflow-y: auto;
+  margin-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto; 	
+  border: 19px solid #262626;
+  text-align:left; 
+  font: normal 13px/20px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+  voice-family:inherit;
+  box-shadow: rgba(38,38,38, 0.4) 5px 5px, rgba(38,38,38, 0.3) 10px 10px, rgba(38,38,38, 0.2) 15px 15px, rgba(38,38,38, 0.1) 20px 20px, rgba(38,38,38, 0.05) 25px 25px;
+  background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/saturn.png ) -237px 30px no-repeat fixed; 
+  background-position: 0 0;
+   line-height: 1.5;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    }
+
+
+    img {
+    max-width: 100%;
+    max-height: 100%;
+
+
+}
+
+video {
+
+  height: 30vh;
+  width: 100%;
+  display: block;
+  margin-block: 10px 10px;
+  background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-24-15-54-32.jpg)  -237px 30px no-repeat fixed;
+
+
+  transition: 4s cubic-bezier(.25,.1,.2,3);
+}
+
+
+figcaption {
+  font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+
+
+}
+figure {
+  min-width: 150px;
+}
+figure {
+
+  vertical-align: top;
+    float: right;
+  width: 40%;
+  text-indent: 0;
+  border-bottom: thin silver solid;
+  padding: 1px;
+  margin: 10px;
+}
+
+
+.dosbox-container { width: 100%; height: 400px; }
+.dosbox-container > .dosbox-overlay { background: url(https://i.ebayimg.com/images/g/OTgAAOSwYINj50PW/s-l1200.webp); }
+
+.twoPanelSpread {
+
+
+  /* For browsers that do not support gradients */
+  /* background-image: linear-gradient(to right, #e66250, #ff80cc); */
+  margin: 0px;
+  padding: 0px;
+  background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
+    center repeat;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+#headerMargins 
+{
+  margin-bottom:-27px;
+
+}
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+
+.leftColumn {
+/*  background-color: #2470FF; */
+  width: 100%;
+}
+
+.leftColumn img {
+
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+
+}
+
+.rightColumn {
+
+}
+.rightColumn img { 
+
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+
+/* FLEX_BOX_FOR_3_IMAGES */
+.flex-container {
+
+    display: flex;
+     align-items: stretch; 
+     flex-flow: row nowrap;  
+    flex-direction: row; 
+    flex-wrap: nowrap; 
+    justify-content: center;
+    align-content: stretch;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+
+  }
+
+  .flex-container > div{
+
+    border: 1px solid #c9ff23;
+    border-radius: 1px;
+    padding: 8px;
+  }
+
+#row_image  {
+  /* position: fixed; */ /* border-radius: 55px 55px 0px 0px; */
+  width: 100%;
+  display: flex;
+  border-bottom: 10px solid #DB362D; 
+  justify-content: center;
+   max-width: 100%;
+  padding: 0px;
+  max-height: 100%;
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp");
+    background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
+    center repeat;
+  background-repeat: repeat;
+  }
+
+
+#round {border-radius: 31px 31px 0px 0px;}
+img {
+
+}
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border-bottom: 10px solid #DB362D;
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
+
+.firstcharacter {
+  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+  float: left;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 7px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.neonText {
+  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+
+}
+
+gradient-text {
+
+  box-shadow: rgba(219,54,45, 0.4) 5px 5px, rgba(219,54,45, 0.3) 10px 10px, rgba(219,54,45, 0.2) 15px 15px, rgba(219,54,45, 0.1) 20px 20px, rgba(219,54,45, 0.05) 25px 25px;
+
+}
+svg {
+  filter: drop-shadow(11px 1px 1px rgb(38 38 38 / 0.6));
+}
+
+.header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1117.5em;
+  background: #DB362D;
+}
+
+.social-links {
+  border-bottom: solid 1px #DB362D;
+  margin-bottom: 15px;
+}
+.social-links li {
+  width: 25%;
+  border-left: solid 1px #DB362D;
+}
+.social-links li:first-child {
+  border: none;
+}
+.social-links a {
+  display: block;
+  height: 5.5em;
+  text-align: center;
+  color: white;
+  font: 0.75em/5.5em "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+
+}
+.social-links a:hover {
+  color: #DB362D;
+}
+.list-hover-slide li {
+  position: relative;
+  overflow: hidden;
+}
+.list-hover-slide a {
+  display: block;
+  position: relative;
+  z-index: 1;
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  background-image: url("https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00443/ids/edr/browse/fcam/FLF_0443_0706278634_263ECM_N0250214FHAZ02008_10_085J01_1200.jpg");
+  transition: 0.35s ease color;
+}
+.list-hover-slide a:before {
+  content: '';
+  display: block;
+  z-index: -1;
+  position: absolute;
+  left: -100%;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border-right: solid 5px #c9ff23;
+  background: #DB360D;
+  transition: 0.35s ease left;
+}
+.list-hover-slide a.is-current:before, .list-hover-slide a:hover:before {
+  left: 0;
+}
+
+
+
+.pinupGallery {
+  display:table-column;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px;
+   object-fit: contain;
+}
+.pinupImage {
+  width: 50px;
+  flex: 1 0 auto;
+}
+.featured-pinupImage {
+  flex: 0 1 50%;
+
+}
+:root {
+  --magnifier: 8;
+  --gap: 0vmax;
+  --transition: 0.5s;
+}
+
+.expandingGallery {
+  width: 100%;
+  margin:0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap);
+}
+
+.expandingGallery > img {
+  --brightness: 0.75;
+  --grayscale: 1;
+  transition: flex var(--transition), filter var(--transition);
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  flex: 1;
+}
+
+.expandingGallery > img:hover {
+
+  flex: var(--magnifier);
+}
+
+
+
+.audio {
+display:inline-block;
+  float:left;
+  padding : 10px;
+  margin :15px;
+  --primary: #262626;
+  --progress-bg: rgba(255, 255, 255, 0.2);
+  --progress-before-width: 0%;
+  --volume-before-width: 75%;
+  --buffered-width: 0%;
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/d/d7/Dreezy_-_No_Hard_Feelings_%28Cover%29.jpg");
+  background-size: contain;
+  border: 1px solid #262626;
+  background-color: #0D0D0D;
+    font: normal 13px/20px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+  color: white;
+  padding: 10px 15px 5px 15px;
+  position: relative;
+  height: 300px;
+  width:300px;
+
+  @media (min-width: 420px) {
+    padding: 10px 15px;
+  }
+}
+.audio__controls {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+.audio__btn {
+  border: none;
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  transition: .1s;
+  svg {
+    color: white;
+    display: block;
+  }
+}
+.audio__btn--back, 
+.audio__btn--forward {
+  padding: 5px;
+  opacity: .75;
+  &:hover, &:focus {
+    opacity: 1;
+  }
+}
+.audio__btn--mute {
+  opacity: .75;
+  @media (min-width: 420px) {
+    margin-left: auto;
+  }
+  &:hover, &:focus {
+    opacity: 1;
+  }
+  &.is-muted {
+    svg {
+      opacity: .5;
+    }
+  }
+}
+.audio__btn--play {
+  &:hover, &:focus {
+    transform: scale(1.1);
+  }
+  &.is-paused {
+    .pause-icon {
+      display: none;
+    }
+    .play-icon {
+      display: block;
+    }
+  }
+  .pause-icon {
+    display: block;
+   }
+  .play-icon {
+    display: none;
+  }
+}
+.audio__time {
+  color: white;
+  display: flex;
+  margin: 0 15px;
+  > * {
+    margin: 0 5px;
+  }
+}
+
+/* Range Inputs
+----------------------------- */
+.range-container {
+  position: relative;
+  width: 100%;
+  &.range-container--volume {
+    margin-left: 10px;
+    width: 50px;
+  }
+}
+.range {
+  background-color: var(--primary);
+  position: relative;
+  -webkit-appearance: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  height: 12px;
+  float: left;
+  outline: none;
+}
+.range--progress::before {
+  width: var(--progress-before-width);
+}
+.range--volume {
+  + .range-current-value {
+    width: var(--volume-before-width);
+  }
+  &::before {
+    width: var(--volume-before-width);
+    border-radius: 4px;
+  }
+}
+.range-current-value {
+  position: absolute;
+  pointer-events: none;
+  content: "";
+  top: 3px;
+  left: 0;
+  width: var(--progress-before-width);
+  height: 6px;
+  border-radius: 4px;
+  background-color: white;
+}
+
+.range::-webkit-slider-runnable-track {
+  background: var(--progress-bg);
+  border-radius: 4px;
+}
+.range::-moz-range-track {
+  background: var(--progress-bg);
+  border-radius: 4px;
+}
+.range::-ms-fill-upper {
+  background: var(--progress-bg);
+  border-radius: 4px;
+}
+
+.range::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 6px;
+}
+.range::-moz-range-track {
+  width: 100%;
+  height: 6px;
+}
+.range::-ms-track {
+  width: 100%;
+  height: 6px;
+}
+
+.range::-webkit-slider-thumb {
+  position: relative;
+  -webkit-appearance: none;
+  box-sizing: content-box;
+  border: 2px solid var(--primary);
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: white;
+  margin: -4px 0 0 0;
+  z-index: 30;
+}
+
+.range::-moz-range-thumb {
+  position: relative;
+  -webkit-appearance: none;
+  box-sizing: content-box;
+  border: 2px solid var(--primary);
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: white;
+}
+.range::-ms-thumb {
+  position: relative;
+  -webkit-appearance: none;
+  box-sizing: content-box;
+  border: 2px solid var(--primary);
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.range:active::-webkit-slider-thumb {
+  background-color: white;
+  transform: scale(1.25);
+}
+.range:active::-moz-range-thumb {
+  background-color: white;
+  transform: scale(1.25);
+}
+.range:active::-ms-thumb {
+  background-color: white;
+  transform: scale(1.25);
+}
+
+.range::-moz-range-progress {
+  background-color: white;
+}
+.range::-moz-focus-outer {
+  border: 0;
+}
+.range::-ms-track {
+  background: transparent;
+  border: solid transparent;
+  color: transparent;
+}
+.range::-ms-fill-lower {
+  background-color: var(--primary);
+}
+
+// Customize slider thumbs
+.range--progress:hover::-webkit-slider-thumb, 
+.range--progress:focus::-webkit-slider-thumb {
+  transform: scale(1.25);
+}
+.range--progress:hover::-moz-range-thumb, 
+.range--progress:focus::-moz-range-thumb {
+  transform: scale(1.25);
+}
+.range--progress:hover::-ms-thumb, 
+.range--progress:focus::-ms-thumb {
+  transform: scale(1.25);
+}
+.range--volume::-webkit-slider-thumb {
+  transform: scale(0);
+}
+.range--volume::-moz-range-thumb {
+  transform: scale(0);
+}
+.range--volume::-ms-thumb {
+  transform: scale(0);
+}
+.range--volume:hover::-webkit-slider-thumb, 
+.range--volume:focus::-webkit-slider-thumb {
+  transform: scale(1);
+}
+.range--volume:hover::-moz-range-thumb, 
+.range--volume:focus::-moz-range-thumb {
+  transform: scale(1);
+}
+.range--volume:hover::-ms-thumb, 
+.range--volume:focus::-ms-thumb {
+  transform: scale(1);
+}
+
+
 <div class="swatch">
   <div></div>
   <div></div>

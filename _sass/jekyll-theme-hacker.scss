@@ -475,33 +475,7 @@ a {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
-video {
-  border-radius:12px;
-  display: block;
-  margin-block: 10px 10px;
-    background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
-
-border-radius:0px;
-  transition: 4s cubic-bezier(.25,.1,.2,3);
-}
-
-video:hover {
-  border-radius:0px;
-  display: block;
-  margin-block: 10px 10px;
-  background: rgb(217,4,121);
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
-
-
-}
-
-
+video { border-radius:0px; height: 400px; width: 100%; display: block; margin-block: 10px 10px; background: linear-gradient(45deg, #fb3 25%, #58a 0, #58a 50%, #fb3 0, #fb3 75%, #58a 0); background-size: 80.4px 80.4px; border-radius:0px; transition: 4s cubic-bezier(.25,.1,.2,3); } video:hover { border-radius:0px; display: block; margin-block: 10px 10px; background: rgb(217,4,121); background: linear-gradient(45deg, #fb3 25%, #58a 0, #58a 50%, #fb3 0, #fb3 75%, #58a 0); background-size: 80.4px 80.4px; } embed { height: 400px; width: 100%; scrollbar-color: #595959 #262626; scrollbar-width: thin; }
 /* Image + PageLayout s */
 
 .twoPanelSpread {
