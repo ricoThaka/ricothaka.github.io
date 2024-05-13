@@ -1,8 +1,21 @@
 ---
 layout: page
 title: Archive
+carousels:
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg 
 ---
+  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
+  {% include carousel.html height="50" unit="%" duration="7" number="2" %}
 <section>
   {% if site.posts[0] %}
 
