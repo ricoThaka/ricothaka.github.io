@@ -54,22 +54,38 @@ html {
   width: 100%;
 
   font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
-  background: linear-gradient(45deg, 
-    #fb3 25%, #58a 0, #58a 50%,
-    #fb3 0, #fb3 75%, #58a 0);
-  background-size: 80.4px 80.4px;
+  background: linear-gradient(0deg, 
+  #595959 25%, #262626 0, #262626 50%,
+  #595959 0, #595959 75%, #262626 0);
+background-size: 280.4px 280.4px;
+
+transition: 4s cubic-bezier(.25,.1,.2,3);
+
   background-attachment: fixed;
 }
 
 html:hover {
 
   background: linear-gradient(45deg, 
-              #F2D338 25%, #262626 0, #58a 50%,
-              #F2D338 0, #F2D338 75%, #58a 0);
+              #262626 25%, #595959 0, #595959 50%,
+              #262626 0, #262626 75%, #595959 0);
 background-size: 80.4px 80.4px;
-
   background-attachment: fixed;
 
+}
+h1,
+h2,
+h3,
+h4{
+  color: white;
+  background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+  font-weight: 900;
+  margin: 5px;
+  padding: 5px;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
 body {
   text-shadow: 0 0 8px #FFFFFF;
