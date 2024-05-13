@@ -13,9 +13,9 @@ carousels:
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg 
 ---
-  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+  {% include carousel.html height="50" unit="%" duration="1" number="1" %}
 
-  {% include carousel.html height="50" unit="%" duration="7" number="2" %}
+  {% include carousel.html height="50" unit="%" duration="2" number="2" %}
 <section>
   {% if site.posts[0] %}
 
