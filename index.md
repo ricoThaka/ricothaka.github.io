@@ -5,6 +5,23 @@
 ![Coral](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134858017_1825095757652073_946978845847012539_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tRkouIknGNQQ7kNvgEtFWct&_nc_ht=scontent-lax3-2.xx&oh=00_AYDh_URcuUj0WbAYwvWoiFLsLCNCHA3g53ZY9S0Yh3LqtQ&oe=6664DC2E)
 
 
+carousels:
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg
+  - images: 
+    - image: /uploads/slider/image5.jpg
+    - image: /uploads/slider/image6.jpg
+    - image: /uploads/slider/image7.jpg
+    - image: /uploads/slider/image8.jpg
+    
+```
+  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+  {% include carousel.html height="50" unit="%" duration="7" number="2" %}
+```
 
 <time datetime="2018-01-06T00:00:00+00:00">06 Jan 2018</time>
 <div class="pinupGallery">
