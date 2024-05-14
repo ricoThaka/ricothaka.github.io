@@ -56,17 +56,16 @@ table {
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Silkscreen:wght@400;700&family=Trade+Winds&display=swap');
 html { 
-  
+
   font: normal 10px/18px 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;
- 
+
   height: 100%;
   width: 100%;
-  color:white;
-   background: transparent
-    url(https://eoimages.gsfc.nasa.gov/images/imagerecords/91000/91578/CrevassedGlacier1_dms_2017301_lrg.JPG)
+  background: transparent
+} /*url(https://eoimages.gsfc.nasa.gov/images/imagerecords/91000/91578/CrevassedGlacier1_dms_2017301_lrg.JPG)
     center repeat;
   background-attachment: fixed;
-}
+} 
 /* Buttons
 */
 /*
@@ -113,6 +112,15 @@ h4{
 body {
   text-shadow: 0 0 8px #FFFFFF;
   font-size:140%;
+  color: white;
+  background: linear-gradient(45deg, 
+    #262626 25%, #595959 0, #595959 50%,
+    #262626 0, #262626 75%, #595959 0);
+  background-size: 80.4px 80.4px;
+  font-family: "VT323", monospace;
+  background-attachment: fixed;
+
+
 }
 
 p {
@@ -127,22 +135,11 @@ padding:5%;
   background-repeat: repeat;
 }
 ::selection {
-color: white;
-background: cyan;
+color: #AAFF00;
+background: #454B1B;
 }
-::selection {
-  color: white;
-  background: cyan;
-}
-p::first-letter {
-  font-size: 2rem;
-  font-weight: bold;
-  vertical-align: sub;
-  color: cyan;
-}
-p:first-of-type {
-  animation-duration: 3s;
-  animation-name: slidein;
+
+
 }
 p::first-letter {
   font-size: 2rem;
@@ -173,7 +170,7 @@ p:first-of-type {
   height: 100vh;
   margin: auto;
   background: transparent url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif) repeat;
- 
+
 }
 
 /*
@@ -515,14 +512,23 @@ a {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
+
+
 video {
-  border-radius:0px;
   height: 400px;
   width: 100%;
+  border-radius:0px;
   display: block;
-  margin-block: 10px ;
-  transition: 2s cubic-bezier(.25,.1,.2,3);
+  margin-block: 10px 10px;
+   background: rgb(217,4,121);
+    background: linear-gradient(0deg, 
+              #595959 25%, #262626 0, #262626 50%,
+              #595959 0, #595959 75%, #262626 0);
+background-size: 280.4px 280.4px;
+
+  transition: 4s cubic-bezier(.25,.1,.2,3);
 }
+
 
 embed {
 
@@ -530,11 +536,23 @@ embed {
     width: 100%;
     scrollbar-color: #595959 #262626;
     scrollbar-width: thin;
-  
+
   }
 
 
 /* Image + PageLayout s */
+.panel4-container {
+
+  display: flex;
+  justify-content: space-evenly;         width:100%;
+  height:100%;
+  object-fit: cover;
+  overflow: hidden;
+  height: 100%;
+  padding: 0px;
+  gap: 5px;
+
+}
 
 .twoPanelSpread {
   margin: 0px;
