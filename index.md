@@ -37,6 +37,8 @@ print(Normani ride with me ...)
 ![MarvelSuperHeroes](https://pbs.twimg.com/media/GFsDZkxasAASKvH?format=jpg&name=large)
 [Marvel Super Heroes (951024 Japan)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-japan.html)
 
+---
+
 <div class="pinupGallery">
 <div class="expandingGallery">
   {% include carousel.html height="50" unit="%" duration="1" number="1" %}
@@ -44,6 +46,9 @@ print(Normani ride with me ...)
   {% include carousel.html height="50" unit="%" duration="2" number="2" %}
 </div>
 </div>
+
+---
+
 <time datetime="2018-01-06T00:00:00+00:00">06 Jan 2018</time>
 <div class="pinupGallery">
 <div class="expandingGallery">
