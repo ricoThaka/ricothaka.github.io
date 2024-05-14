@@ -1,4 +1,21 @@
+---
+layout: page
+title: Archive
+carousels:
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg 
+---
+
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+
 
 ## YoungBoy Never Broke Again - We Poppin (feat. Birdman)
 <embed  src="https://www.youtube.com/embed/SKexLz5QRN0?si=09OSnzNjbIoy50dD" title="YouTube video player"  allowfullscreen />
@@ -17,8 +34,13 @@ print(Normani ride with me ...)
 
 ![Coral](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134858017_1825095757652073_946978845847012539_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tRkouIknGNQQ7kNvgEtFWct&_nc_ht=scontent-lax3-2.xx&oh=00_AYDh_URcuUj0WbAYwvWoiFLsLCNCHA3g53ZY9S0Yh3LqtQ&oe=6664DC2E)
 
+![MarvelSuperHeroes](https://pbs.twimg.com/media/GFsDZkxasAASKvH?format=jpg&name=large)
+[Marvel Super Heroes (951024 Japan)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-japan.html)
 
+  {% include carousel.html height="50" unit="%" duration="1" number="1" %}
 
+  {% include carousel.html height="50" unit="%" duration="2" number="2" %}
+  
 <time datetime="2018-01-06T00:00:00+00:00">06 Jan 2018</time>
 <div class="pinupGallery">
 <div class="expandingGallery">
