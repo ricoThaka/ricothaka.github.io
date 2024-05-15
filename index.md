@@ -13,6 +13,15 @@ carousels:
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg 
 ---
+
+<div class="gullies">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
 {% include carousel.html height="50" unit="%" duration="2" number="2" %}
 # <(''<)  <( ' ' )>  (> '')>
 
