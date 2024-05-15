@@ -17,6 +17,24 @@ carousels:
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
 
+# Gullies on Mars 
+![Gullies on Mars](https://www.nasa.gov/wp-content/uploads/2023/03/pia23675.jpg?resize=1024,640)
+[Gullies on Mars](https://www.nasa.gov/image-article/gullies-mars/)
+
+ ## Bright Gully Deposits on Mars
+[Bright Gully Deposits on Mars](https://science.nasa.gov/wp-content/uploads/2024/03/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg)
+    
+<div class="gullies">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+<embed height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/899207614&amp;color=%2379f281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" />
+    <p><a href="https://soundcloud.com/itsellamai" target="_blank" title="Ella Mai">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/not-another-love-song" target="_blank" title="Not Another Love Song">Not Another Love Song</a> </p>
+
 ## YoungBoy Never Broke Again - We Poppin (feat. Birdman)
 <embed  src="https://www.youtube.com/embed/SKexLz5QRN0?si=09OSnzNjbIoy50dD" title="YouTube video player"  allowfullscreen />
 
@@ -41,7 +59,7 @@ print(Normani ride with me ...)
 
 <div class="pinupGallery">
 <div class="expandingGallery">
-  {% include carousel.html height="50" unit="%" duration="1" number="1" %}
+  {% include carousel.html height="100" unit="%" duration="1" number="1" %}
 
   {% include carousel.html height="50" unit="%" duration="2" number="2" %}
 </div>
@@ -103,7 +121,7 @@ print(Normani ride with me ...)
 [READMORE](https://ricothaka.github.io/alnisa.html)
 [An-Nisa ٱلنِّسَاء ](https://en.wikipedia.org/wiki/An-Nisa)
 
-  <embed height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/899207614&color=%2379f281&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" width="100%"> <a href="https://soundcloud.com/itsellamai" target="_blank" title="Ella Mai">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/not-another-love-song" target="_blank" title="Not Another Love Song">Not Another Love Song</a> <img src="https://science.nasa.gov/wp-content/uploads/2024/03/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg">
+
   <div class="pinupGallery">
     <div class="expandingGallery"><img src="https://raw.githubusercontent.com/ricoThaka/saa2/master/assets/images/sartu_rik_equal_ek.png"> <img src="https://i1.sndcdn.com/artworks-yp5s7R5Iq55q-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-P2PTj5dAzg6o2EFl-FUqxIw-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-3pLwykq3ZwnP-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-vnZ6boaXo6VHyb6M-I8Wg4w-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-QwpUDhaNaX8l-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-cfb8WkJBQq7T-0-t240x240.jpg"> <img src="https://i1.sndcdn.com/artworks-000327590304-xr9ecf-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-c8b32a26-992b-4caf-b624-a35574dee181-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-000672452881-jgqq2m-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-000209566479-edo6z8-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-000652828381-8tet2w-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-000245306268-5fow74-t1080x1080.jpg"> <img src="https://i1.sndcdn.com/artworks-ikxDwx60XoJJ-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-Tz3UrUOI1wzpn6Qm-jwEiJQ-t500x500.jpg"></div>
     <div class=" expandingGallery"><img src="https://raw.githubusercontent.com/ricoThaka/saa2/master/assets/images/sartu_rik_equal_ek.png"> <img src="https://i1.sndcdn.com/artworks-D91rb2LE45DCZq47-cKlxJg-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-yp5s7R5Iq55q-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-P2PTj5dAzg6o2EFl-FUqxIw-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-XuEIzk2XtG1w-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-3pLwykq3ZwnP-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-4dc78d42-fd38-49f1-9b32-9ab17c01be5e-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-5xn3faFeZPrR-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-c8b32a26-992b-4caf-b624-a35574dee181-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-pTTYEez5J7KK-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-bVGSGmebg9BL-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-Uo4vDzYQJYJ4N13Z-L5JDyg-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-y6PQ4NplD627-0-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-Tz3UrUOI1wzpn6Qm-jwEiJQ-t500x500.jpg"> <img src="https://i1.sndcdn.com/artworks-000241498370-z5arf6-t1080x1080.jpg"></div>

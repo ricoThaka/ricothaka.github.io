@@ -2212,7 +2212,29 @@ border: 1px solid #c9ff23;
 
 }
 
+.gullies {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 5%;
 
+}
+.gullies div:nth-child(1) { background: #3029F2;}
+.gullies div:nth-child(2) { background: #446FF2;}
+.gullies div:nth-child(3) { background: #3098F2;}
+.gullies div:nth-child(4) { background: #0DD9C4;}
+.gullies div:nth-child(5) { background: #3DF28B;}
+
+.gullies div {
+
+  flex: 0 1 200px;
+  flex: 1 1 200px;
+  padding: 0px;
+
+}
 
 #a-title {
   text-decoration: none;
