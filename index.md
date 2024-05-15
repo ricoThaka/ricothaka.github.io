@@ -23,7 +23,9 @@ carousels:
 
  ## Bright Gully Deposits on Mars
 [Bright Gully Deposits on Mars](https://science.nasa.gov/wp-content/uploads/2024/03/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg)
-    
+
+[California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+
 <div class="gullies">
 <div></div>
 <div></div>
@@ -49,7 +51,29 @@ print(Normani ride with me ...)
 {% endhighlight %}
 
 ---
+# Important Tweets 
+```js
+// https://x.com/RicoThaka/status/1778868638726115572
+// https://x.com/MooNLOVER404/status/1778533571399123058
+// https://x.com/MooNLOVER404/status/1778534422075277526
+// https://x.com/MooNLOVER404/status/1777831378148835715 
+// https://x.com/MooNLOVER404/status/1778506180756975799// https://x.com/RicoThaka/status/1777400067063701972
+// https://x.com/RicoThaka/status/1777401550077374969
+// https://x.com/RicoThaka/status/1778158754967789832 
+// https://x.com/RicoThaka/status/1778179396362510848
+// https://x.com/RicoThaka/status/1778182339115491677
+// https://x.com/RicoThaka/status/1778196930008580210
+// https://x.com/BubbleGumPop626/status/1765185587584364821
+// https://x.com/RicoThaka/status/1762585192257245607 
+// https://x.com/RicoThaka/status/1721321640292913435 
+// https://x.com/BubbleGumPop626/status/1743738575542497712 
+// https://x.com/BubbleGumPop510/status/1740490197899620389 
 
+// https://x.com/thakasartu/status/1740162543203840011
+// https://x.com/MooNLOVER404/status/1749521832108269600
+
+}
+```
 ![Coral](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134858017_1825095757652073_946978845847012539_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tRkouIknGNQQ7kNvgEtFWct&_nc_ht=scontent-lax3-2.xx&oh=00_AYDh_URcuUj0WbAYwvWoiFLsLCNCHA3g53ZY9S0Yh3LqtQ&oe=6664DC2E)
 
 ![MarvelSuperHeroes](https://pbs.twimg.com/media/GFsDZkxasAASKvH?format=jpg&name=large)
