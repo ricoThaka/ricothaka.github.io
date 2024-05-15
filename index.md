@@ -13,6 +13,23 @@ carousels:
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg 
 ---
+{% include carousel.html height="50" unit="%" duration="2" number="2" %}
+# <(''<)  <( ' ' )>  (> '')>
+
+## Marvel Super Heroes (Euro 951024)
+by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) <(''<)  <( ' ' )>  (> '')>
+ <div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GHhxw6lbkAEvTnI?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GFr9Rsea0AA6D8R?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GJyKxTIbEAAVuT9?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GFr3hVJagAAm7la?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GHi26hTasAAOD99?format=jpg&name=large" />
+<img src="https://i1.sndcdn.com/artworks-000327590304-xr9ecf-t500x500.jpg" />
+<img src="https://pbs.twimg.com/media/F_zwoXjasAA5Vun?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/F_zw9nuaoAAtmI1?format=jpg&name=small" />
+
+
+</div>
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
@@ -102,7 +119,7 @@ print(Normani ride with me ...)
 </div>
   {% include carousel.html height="100" unit="%" duration="1" number="1" %}
 
-  {% include carousel.html height="50" unit="%" duration="2" number="2" %}
+  
 <div class="gullies">
 <div></div>
 <div></div>
