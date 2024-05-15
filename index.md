@@ -57,12 +57,22 @@ print(Normani ride with me ...)
 
 ---
 
-<div class="pinupGallery">
-<div class="expandingGallery">
+<div class="gullies">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
   {% include carousel.html height="100" unit="%" duration="1" number="1" %}
 
   {% include carousel.html height="50" unit="%" duration="2" number="2" %}
-</div>
+<div class="gullies">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
 </div>
 
 ---
