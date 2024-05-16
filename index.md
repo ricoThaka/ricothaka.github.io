@@ -32,14 +32,11 @@ carousels:
 <img src="https://pbs.twimg.com/media/GBuuXERakAABNTx?format=png&name=large" />
 <img src="https://pbs.twimg.com/media/F5kTRrvacAA36ea?format=png&name=medium" />
 <img src="https://pbs.twimg.com/media/F9JWlldagAA7Tk_?format=jpg&name=medium" />
-
 <img src="https://pbs.twimg.com/media/GE47huua0AA4t46?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small" />
-
-
 </div>
 
-![Atlanta](https://pbs.twimg.com/media/GIMEpczbsAAvCuT?format=jpg&name=large)
+
 
 <div class="gullies">
 <div></div>
@@ -49,6 +46,7 @@ carousels:
 <div></div>
 </div>
 
+![Atlanta](https://pbs.twimg.com/media/GIMEpczbsAAvCuT?format=jpg&name=large)
 ![M_R_O](https://pbs.twimg.com/media/GIMDGNkbUAAMRGy?format=jpg&name=large)
 
 {% include carousel.html height="50" unit="%" duration="2" number="2" %}
@@ -56,6 +54,7 @@ carousels:
 # <(''<)  <( ' ' )>  (> '')>
 
 ![ATLien420](https://pbs.twimg.com/media/GLoRhfRbMAA8_JK?format=jpg&name=large)
+
 <embed src="https://www.youtube.com/embed/qxyxqVDjSzs?si=FJLDFHo9UgZocaYA" title="YouTube video player"  allowfullscreen />
 <embed src="https://www.youtube.com/embed/5YMYrB0dqoU?si=ShVaFTO1D4851hIv" title="YouTube video player"  allowfullscreen />
 
