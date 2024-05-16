@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Archive
+mermaid: true
 carousels:
   - images: 
     - image: /uploads/slider/image1.jpg
@@ -21,6 +22,12 @@ carousels:
 <div></div>
 </div>
 
+<div class="mermaid">
+sequenceDiagram
+    participant P1
+    participant P2
+    P1->>P2: Hello world
+</div> 
 
 ```mermaid
 
