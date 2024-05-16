@@ -21,6 +21,8 @@ carousels:
 <div></div>
 </div>
 
+[![homepage](https://images-assets.nasa.gov/image/iss071e077732/iss071e077732~medium.jpg)](https://images-assets.nasa.gov/image/iss071e077732/iss071e077732~medium.jpg "Redirect to homepage")
+
 [![homepage](https://images-assets.nasa.gov/image/iss071e077732/iss071e077732~medium.jpg)](https://images.nasa.gov/details/iss071e077732 "Redirect to homepage")
 
 [SpacEStaion](https://images-assets.nasa.gov/image/iss071e077732/iss071e077732~medium.jpg)
