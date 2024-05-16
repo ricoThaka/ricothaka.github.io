@@ -327,8 +327,14 @@ li:hover ul {
 }
 h1 {
 
-   font-size: 160%;
+   font-size: 170%;
  color:white;
+ background: linear-gradient(45deg, 
+ #F2D338 25%, #262626 0, #262626 50%,
+ #F2D338 0, #F2D338 75%, #262626 0);
+background-size: 80.4px 80.4px;
+font-family: "VT323", monospace;
+background-attachment: fixed;
    }
 
 h2 {
@@ -377,6 +383,7 @@ code.highlighter-rouge {
   color: #aa759f;
   border-radius: 0px;
 }
+
 
 table {
   width: 100%;
