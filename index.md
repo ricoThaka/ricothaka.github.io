@@ -35,7 +35,7 @@ carousels:
 <img src="https://pbs.twimg.com/media/GE47huua0AA4t46?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small" />
 </div>
-
+</div>
 
 
 <div class="gullies">
