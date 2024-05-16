@@ -23,10 +23,13 @@ carousels:
 </div>
 
 
+![MK2](https://pbs.twimg.com/media/GEkvBhjacAAvWKR?format=jpg&name=large)
+[Mortal Kombat II (rev L3.1)](https://www.retrogames.cc/arcade-games/mortal-kombat-ii-rev-l3-1.html)
 
+![GrandCentral](https://pbs.twimg.com/media/GIL5cEibgAACUDh?format=jpg&name=900x900)
 ![PeachtreeCenter](https://pbs.twimg.com/media/GIL9zgQbUAAt9xN?format=jpg&name=medium)
-[![homepage](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=large)](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=largeg "Redirect to homepage")
-![Vertical](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=large)
+[![homepage](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=large)](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=large "Redirect to homepage")
+
 <div class="mermaid">
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -465,7 +468,7 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
     <div></div>
     <div></div>
     <div></div>
-    <div></div>
+    <div><img href="https://pbs.twimg.com/media/GILo9b1aEAAs8he?format=jpg&name=medium" /></div>
     <div></div>
     <div></div>
     <div></div>
@@ -1770,3 +1773,5 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
   </div>
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+
+![itsRashardAKATHAKA](https://pbs.twimg.com/media/GIL3LJIbMAAe1PV?format=jpg&name=small)
