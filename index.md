@@ -29,7 +29,7 @@ carousels:
 
 [video link](https://www.youtube.com/watch?v=BzgQKphzhzQ)
 
-# UnixinG Android 
+# UnixinG_Android 
 
 <div class="pinupGallery">
 <div class="pinupImage expandingGallery">
