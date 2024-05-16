@@ -1,5 +1,6 @@
 ---
 layout: default
+mermaid: true
 title: Archive
 carousels:
   - images: 
