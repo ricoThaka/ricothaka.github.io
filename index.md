@@ -22,11 +22,21 @@ carousels:
 <div></div>
 </div>
 
+
+
+![PeachtreeCenter](https://pbs.twimg.com/media/GIL9zgQbUAAt9xN?format=jpg&name=medium)
+[![homepage](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=large)](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=largeg "Redirect to homepage")
+![Vertical](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=large)
 <div class="mermaid">
 sequenceDiagram
-    participant P1
-    participant P2
-    P1->>P2: Hello world
+Alice ->> Bob: Hello Bob, how are you?
+Bob-->>John: How about you John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
 </div> 
 
 ```mermaid
