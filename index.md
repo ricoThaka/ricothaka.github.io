@@ -22,7 +22,10 @@ carousels:
 <div></div>
 </div>
 
+[Link to a document]({% archive.md %})
+
 ```mermaid
+
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
 Bob-->>John: How about you John?
@@ -43,6 +46,8 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+{{ site.time | date_to_rfc822 }}
+{{ site.time | date_to_long_string: "ordinal" }}
 
 [![homepage](https://images-assets.nasa.gov/image/iss071e077732/iss071e077732~medium.jpg)](https://images-assets.nasa.gov/image/iss071e077732/iss071e077732~medium.jpg "Redirect to homepage")
 
