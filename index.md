@@ -14,6 +14,8 @@ carousels:
     - image: /uploads/slider/image4.jpg 
 ---
 
+![Atlanta](https://pbs.twimg.com/media/GIMEpczbsAAvCuT?format=jpg&name=large)
+
 <div class="gullies">
 <div></div>
 <div></div>
@@ -22,8 +24,13 @@ carousels:
 <div></div>
 </div>
 
+![M_R_O](https://pbs.twimg.com/media/GIMDGNkbUAAMRGy?format=jpg&name=large)
+
 {% include carousel.html height="50" unit="%" duration="2" number="2" %}
+
 # <(''<)  <( ' ' )>  (> '')>
+
+![ATLien420](https://pbs.twimg.com/media/GLoRhfRbMAA8_JK?format=jpg&name=large)
 
 ## Marvel Super Heroes (Euro 951024)
 by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) <(''<)  <( ' ' )>  (> '')>
@@ -39,6 +46,8 @@ by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https:/
 
 
 </div>
+
+![ATLiEN](https://pbs.twimg.com/media/GILodwkaMAASXdr?format=jpg&name=4096x4096)
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
