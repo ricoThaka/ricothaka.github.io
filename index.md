@@ -21,7 +21,6 @@ carousels:
 <div></div>
 </div>
 
-[Link to a document]({% archive.md %})
 
 ```mermaid
 
