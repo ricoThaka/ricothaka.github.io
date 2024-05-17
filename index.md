@@ -15,8 +15,20 @@ carousels:
     - image: /uploads/slider/image4.jpg 
 ---
 
-
-
+<div class="normani">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+<div class="latto">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
 
 # Sol 4185: Left Navigation Camera
 ## CURIOSITY RAW IMAGES
