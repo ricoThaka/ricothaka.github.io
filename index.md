@@ -14,6 +14,18 @@ carousels:
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg 
 ---
+
+
+
+
+# Sol 4185: Left Navigation Camera
+## CURIOSITY RAW IMAGES
+
+[![homepage](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG)](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG "Redirect to homepage")
+This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosity on Sol 4185 (2024-05-15 04:55:27 UTC).
+
+[Credits: NASA/JPL-Caltech](https://mars.nasa.gov/raw_images/1334513/?site=msl)
+
 <div class="gullies">
 <div></div>
 <div></div>
@@ -32,8 +44,8 @@ Hi MRO, want you to have an update on what my computing situation has been since
 
 <div class="pinupGallery">
 <div class="pinupImage expandingGallery">
-<img src="https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium" />
-  <img src="https://pbs.twimg.com/media/GK__WllbQAAMH69?format=jpg&name=large" />
+<img src="https://i.gifer.com/UiFO.gif" />
+<img src="https://pbs.twimg.com/media/GK__WllbQAAMH69?format=jpg&name=large" />
 <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" />
 <img src="https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium" />
 <img src="https://pbs.twimg.com/media/GB--_Aja4AABqTO?format=jpg&name=large" />
@@ -74,7 +86,7 @@ Hi MRO, want you to have an update on what my computing situation has been since
   </div>
 
 
-![Android](https://i.gifer.com/UiFO.gif)
+
 
   <div class="featured-pinupImage expandingGallery">
 
