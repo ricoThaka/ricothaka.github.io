@@ -334,7 +334,7 @@ h1 {
  #F2D338 0, #F2D338 75%, #262626 0);
 background-size: 80.4px 80.4px; */
 font-family: "VT323", monospace;
-background-attachment: fixed;
+
 
 background: 
 linear-gradient(to top, transparent, #b1b1b1 100%),
@@ -343,11 +343,10 @@ rgba(255, 255, 255, 0.5) 35px,
 rgba(255, 255, 255, 0.5) 70px);
 background-clip: padding-box;
 border-left: 1px solid rgba(255, 255, 255, 0.3);
-border-radius: 10px;
 border-top: 1px solid rgba(255, 255, 255, 0.7);
 box-shadow: 0px 1px 3px 1px #969494;
-height: 250px;
-width: 250px; }
+background-attachment: fixed;
+}
 
 
 
