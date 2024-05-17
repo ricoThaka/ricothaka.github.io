@@ -21,6 +21,35 @@ carousels:
 # Sol 4185: Left Navigation Camera
 ## CURIOSITY RAW IMAGES
 
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+
+<!-- lightbox container hidden with CSS -->
+<a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017267EDR_F1071320NCAM00354M_.JPG">
+        <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017267EDR_F1071320NCAM00354M_.JPG">
+</a>
+
+<!-- lightbox container hidden with CSS -->
+<a href="#" class="lightbox" id="img1">
+  <span style="background-image: url('https://static.wixstatic.com/media/f15be5_79011a18085346fb90334cd841c2c1fd~mv2.jpg/v1/fill/w_464,h_416,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f15be5_79011a18085346fb90334cd841c2c1fd~mv2.jpg')"></span>
+</a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+<a href="#img2">
+  <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
+</a>
+
+<!-- lightbox container hidden with CSS -->
+<a href="#" class="lightbox" id="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
+  <span style="background-image: url('https://static.wixstatic.com/media/f15be5_6dff88762912492dacd6d9a1b67ab345~mv2.jpg/v1/fill/w_500,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f15be5_6dff88762912492dacd6d9a1b67ab345~mv2.jpg')"></span>
+</a>
+         </div>
+    </div>
+  </div>
+
 [![homepage](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG)](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG "Redirect to homepage")
 This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosity on Sol 4185 (2024-05-15 04:55:27 UTC).
 
@@ -35,18 +64,16 @@ This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosi
 </div>
 <hr>
 <div>
-<h1> # What your parents, siblings, peers, and admins are coping with
-## <h1/><h2>Forms_of_wartime_violence</h2>
+
 <h2> Wartime Sexual Violence</h2>
- <img src="https://16days.thepixelproject.net/wp-content/uploads/2011/11/War-rape.jpg" style="width:400px;height:600px;margin-left:15px;" align="right" alt="Pineapple" /> 
+<a href="https://16days.thepixelproject.net/wp-content/uploads/2011/11/War-rape.jpg"> <img src="https://16days.thepixelproject.net/wp-content/uploads/2011/11/War-rape.jpg" style="width:200px;height:300px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
 <p>Wartime sexual violence is rape or other forms of sexual violence committed by combatants during armed conflict, war, or military occupation often as spoils of war, but sometimes, particularly in ethnic conflict, the phenomenon has broader sociological motives. Wartime sexual violence may also include gang rape and rape with objects. A war crime, it is distinguished from sexual harassment, sexual assaults and rape committed amongst troops in military service.[1][2][3]</p>
 <p>During war and armed conflict, rape is frequently used as a means of psychological warfare in order to humiliate the enemy. Wartime sexual violence may occur in a variety of situations, including institutionalized sexual slavery, wartime sexual violence associated with specific battles or massacres, as well as individual or isolated acts of sexual violence.</p>
 <p>Rape can also be recognized as genocide when committed with the intent to destroy, in whole or in part, a targeted group. International legal instruments for prosecuting perpetrators for genocide were developed in the 1990s, with the Akayesu case of the International Criminal Tribunal for Rwanda being widely considered as a precedent.[4] However, these legal instruments have so far only been used for international conflicts, thus putting the burden of proof in citing the international nature of conflict in order for prosecution to proceed.</p>
-<p>## Definition of wartime sexual violence # Main article: Rape There is no consensus definition of wartime sexual violence, as there is variance in what forms of violence are included in the definition and variance in which violence is considered conflict-related.[5] The terms rape, sexual assault and sexual violence are frequently used interchangeably.[6] The Explanatory Note of the Rome Statute, which binds the International Criminal Court, defines rape as follows: </p><p> The perpetrator invaded the body of a person by conduct resulting in penetration, however slight, of any part of the body of the victim or of the perpetrator with a sexual organ, or of the anal or genital opening of the victim with any object or any other part of the body.[7] and The invasion was committed by force, or by threat of force or coercion, such as that caused by fear of violence, duress, detention, psychological oppression or abuse of power, against such person or another person, or by taking advantage of a coercive environment, or the invasion was committed against a person incapable of giving genuine consent.[7] </p><p>The concept of "invasion" is intended to be broad enough to be gender-neutral and the definition is understood to include situations where the victim may be incapable of giving genuine consent if affected by natural, induced or age-related incapacity.[8] A prominent data-set on conflict-related sexual violence, Sexual Violence in Armed Conflict (SVAC), builds on the ICC definition and covers seven forms of violence: "(a) rape, (b) sexual slavery, (c) forced prostitution, (d) forced pregnancy, (e) forced sterilization/abortion, (f) sexual mutilation, and (g) sexual torture."[5] The data-set defines conflict-related sexual violence as the sexual violence committed "armed actors (specifically, state militaries, rebel groups, and progovernment militias) during periods of conflict or immediately postconflict," thus excluding sexual violence by civilians.[5] More expansive definitions may define wartime sexual violence as being committed even by civilians if the conflict creates a sense of impunity.[5]</p>
+<p>## Definition of wartime sexual violence # Main article: Rape There is no consensus definition of wartime sexual violence, as there is variance in what forms of violence are included in the definition and variance in which violence is considered conflict-related.[5] The terms rape, sexual assault and sexual violence are frequently used interchangeably.[6] The Explanatory Note of the Rome Statute, which binds the International Criminal Court, defines rape as follows: </p><p> The perpetrator invaded the body of a person by conduct resulting in penetration, however slight, of any part of the body of the victim or of the perpetrator with a sexual organ, or of the anal or genital opening of the victim with any object or any other part of the body.[7] and The invasion was committed by force, or by threat of force or coercion, such as that caused by fear of violence, duress, detention, psychological oppression or abuse of power, against such person or another person, or by taking advantage of a coercive environment, or the invasion was committed against a person incapable of giving genuine consent.[7] The concept of "invasion" is intended to be broad enough to be gender-neutral and the definition is understood to include situations where the victim may be incapable of giving genuine consent if affected by natural, induced or age-related incapacity.[8] A prominent data-set on conflict-related sexual violence, Sexual Violence in Armed Conflict (SVAC), builds on the ICC definition and covers seven forms of violence: "(a) rape, (b) sexual slavery, (c) forced prostitution, (d) forced pregnancy, (e) forced sterilization/abortion, (f) sexual mutilation, and (g) sexual torture."[5] The data-set defines conflict-related sexual violence as the sexual violence committed "armed actors (specifically, state militaries, rebel groups, and progovernment militias) during periods of conflict or immediately postconflict," thus excluding sexual violence by civilians.[5] More expansive definitions may define wartime sexual violence as being committed even by civilians if the conflict creates a sense of impunity.[5]</p>
 
-<hr>
-  </div>
-  
+</div>
+
 [Thaka_and_Sartu_YoutubeAccount](https://www.youtube.com/@thakasartukellyselassie6468/videos)
 [Wild 94.9 | Fierce Freestyle Classics | Vol. 2 | The Mixtress](https://www.youtube.com/watch?v=yVZy7jtIwI4)
 
