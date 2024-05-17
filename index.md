@@ -22,7 +22,13 @@ carousels:
 <div></div>
 </div>
 
+[Thaka_and_Sartu_YoutubeAccount](https://www.youtube.com/@thakasartukellyselassie6468/videos)
+[Wild 94.9 | Fierce Freestyle Classics | Vol. 2 | The Mixtress](https://www.youtube.com/watch?v=yVZy7jtIwI4)
+
 # UnixinG_Android 
+Hi MRO, want you to have an update on what my computing situation has been since Jose took my laptop back. Im in the library system but they wont let me have free access to a computer. Its connected to my spouse's prostitution and porno. In [Santa Monica Porn is filmed at the library at times](https://www.couriermail.com.au/lifestyle/pornhub-movie-filmed-at-public-library-angers-neighbours/news-story/8f4387f7d47490bba31bd28ac27994d8). The security gaurds told me I need an ID to come in! This is the [Santa Monica Public Library](https://smpl.org/)! and the resulting gossip among security gaurds about me having #Normani_aka_SartuAdem nudes on my cellphone! It was a gift! Im grown and i did not do it on library wifi! There is a law on it i found online. Its filtered now, but i want to know where i stand bc I was attending a dance studio with girls my age and i have been in datacenters most of my life, porn is the channel most ppl in my demographic communicate via to talk to people in the physical world. It causes a lot of hormonal problems and i am a really healthy male. Coral is strong even after the NiCU. Anyway the computers i had accquired got stolen in various ways so there is a big chunck of time i am not building on a Desktop. I promised I would grow as a Sun Admin and while i was without a computer i got turned on to [TErmux](https://termux.dev/en/) and leared a lot of cool configurations to do common programming tasks and it even effected my webdesign, i started building on github and what is now my homepage was a fullpage scrolling design like i was seeing life differently. Check out the screenshots below the Termux demo and see my #PocketPC thats what i call [Android](https://www.android.com/) now...
+
+ ![Termux](https://termux.dev/assets/globals/home/weechat-with-keyboard_framed.png)
 
 <div class="pinupGallery">
 <div class="pinupImage expandingGallery">
@@ -66,7 +72,11 @@ carousels:
 
 
   </div>
-    <div class="featured-pinupImage expandingGallery">
+
+
+![Android](https://i.gifer.com/UiFO.gif)
+
+  <div class="featured-pinupImage expandingGallery">
 
   <img src="https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium" />
 
@@ -106,6 +116,9 @@ carousels:
 
   </div>
   </div>
+
+![DroidAmendSartuVanessa](https://gifdb.com/images/high/android-robot-update-maintenance-46bdzwbktck5vp31.gif)
+
 ![MK2](https://pbs.twimg.com/media/GEkvBhjacAAvWKR?format=jpg&name=large)
 [Mortal Kombat II (rev L3.1)](https://www.retrogames.cc/arcade-games/mortal-kombat-ii-rev-l3-1.html)
 
