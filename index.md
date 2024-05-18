@@ -22,6 +22,21 @@ carousels:
 <div></div>
 <div></div>
 </div>
+
+[NAsa SPoRT viewer Weather can Environment](https://weather.ndc.nasa.gov/sport/)
+## Important TWeets 
+```
+https://x.com/BubbleGumPop626/status/1791561623087518050
+https://x.com/BubbleGumPop510/status/1791920303427514668
+https://x.com/thakasartu/status/1758213273986695240
+https://x.com/thakasartu/status/1758226971421798775
+https://x.com/BubbleGumPop510/status/1790885342410854507
+https://x.com/MooNLOVER404/status/1714401375726219655
+https://x.com/MakeItAQuote/status/1605461580501733376
+https://x.com/MooNLOVER404/status/1750969627252039767
+```
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"># <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/MsNormani?ref_src=twsrc%5Etfw">@MsNormani</a> <a href="https://twitter.com/hashtag/babydatyou?src=hash&amp;ref_src=twsrc%5Etfw">#babydatyou</a>? <a href="https://twitter.com/hashtag/alltwitter?src=hash&amp;ref_src=twsrc%5Etfw">#alltwitter</a> <a href="https://twitter.com/hashtag/thakaslovenote?src=hash&amp;ref_src=twsrc%5Etfw">#thakaslovenote</a> <a href="https://twitter.com/hashtag/missingwife?src=hash&amp;ref_src=twsrc%5Etfw">#missingwife</a> <a href="https://twitter.com/hashtag/blacktwitter?src=hash&amp;ref_src=twsrc%5Etfw">#blacktwitter</a> <a href="https://twitter.com/hashtag/skatetwitter?src=hash&amp;ref_src=twsrc%5Etfw">#skatetwitter</a> <a href="https://twitter.com/hashtag/graffiti?src=hash&amp;ref_src=twsrc%5Etfw">#graffiti</a> <a href="https://twitter.com/AlpharettaDPS?ref_src=twsrc%5Etfw">@AlpharettaDPS</a> <a href="https://twitter.com/alpharettagov?ref_src=twsrc%5Etfw">@alpharettagov</a> this is munas sister sartu r u involved n her vanishing she was <a href="https://twitter.com/MagicCity?ref_src=twsrc%5Etfw">@magiccity</a> n <a href="https://twitter.com/Jeezy?ref_src=twsrc%5Etfw">@jeezy</a> soldher inot <a href="https://twitter.com/hashtag/streetPorn?src=hash&amp;ref_src=twsrc%5Etfw">#streetPorn</a> <a href="https://t.co/JhG1AgV0y9">https://t.co/JhG1AgV0y9</a> <a href="https://twitter.com/hashtag/x?src=hash&amp;ref_src=twsrc%5Etfw">#x</a> <a href="https://t.co/hP6MVq9YDd">pic.twitter.com/hP6MVq9YDd</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1714401375726219655?ref_src=twsrc%5Etfw">October 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <img href="https://pbs.twimg.com/media/GILo9b1aEAAs8he?format=jpg&name=medium" />
 <div class="oncall">
 <div></div>
