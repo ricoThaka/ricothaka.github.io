@@ -22,7 +22,14 @@ carousels:
 <div></div>
 <div></div>
 </div>
-
+<img href="https://pbs.twimg.com/media/GILo9b1aEAAs8he?format=jpg&name=medium" />
+<div class="oncall">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
 
   
 # Sol 4185: Left Navigation Camera
@@ -683,7 +690,7 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
     <div></div>
     <div></div>
     <div></div>
-    <div><img href="https://pbs.twimg.com/media/GILo9b1aEAAs8he?format=jpg&name=medium" /></div>
+    <div></div>
     <div></div>
     <div></div>
     <div></div>
