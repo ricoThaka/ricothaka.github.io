@@ -24,31 +24,36 @@ carousels:
 </div>
 
 
+  
+# Sol 4185: Left Navigation Camera
+## CURIOSITY RAW IMAGES 
+###  Broken wheel?
+
+This image was taken by Left Navigation Camera onboard [NASA’s Mars rover Curiosity](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl) on Sol 4185 (2024-05-15 04:55:27 UTC). 
+ 
+
+[![homepage](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG)](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG "Redirect to homepage")
+
+# Sol 4185: Left Navigation Camera
+
+<div class="flex-container">
+   <div class="flex-items">  <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
+        <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" />
+</a></div>
+   <div class="flex-items">  <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
+<img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" />
+</a></div>
+</div>
+
 # Sol 4185: Left Navigation Camera
 ## CURIOSITY RAW IMAGES
-
-  <div class="row lightbox">
-    <div class="panelColumn">
-      <div class="leftColumn">
-
-<!-- lightbox container hidden with CSS -->
-<a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017267EDR_F1071320NCAM00354M_.JPG">
-        <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017267EDR_F1071320NCAM00354M_.JPG">
-</a>
-
-<!-- lightbox container hidden with CSS -->
-   </div>
-    </div>
-    <div class="panelColumn">
-      <div class="rightColumn">
-<a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
-  <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
-</a>
-
-
-   </div>
-  </div>
-  </div>
+[Credits: NASA/JPL-Caltech](https://mars.nasa.gov/raw_images/1334513/?site=msl)
+  
+ Hi Jamie/Robin/Brenda
+  During my last time with you on campus i was told to explore the wheels! I guess you guys Saw my research to build a high powered grocery getter. I found this hole in the wheel about two months ago. The girls are really going through it right now and I really dont know what the future holds, but im dedicated to the mission. Jose Pi did not know i was real. I slap myself for running off when he said you cant come back. I learned a lot about working remote in Atlanta but i got fired twice bc i was having too much fun! I was completing tasks and training thier employees! PearsonEdu had a bunch of Windows admins and i tought them a lot of LinuxBased #DNS philosophy next thing you know im working remote and i have no income! If you are not in a office position ppl stop trusting you. I never knew my coworkeds went to MagicCity its a dark neighborhood secret and as we got older i aged out of the computer world in the east bc Normani got famous in BallroomDanceing and numbed the sex servant side to the eyes of the Public. Once i was seen with her it got really hard at work, I had no idea so much sabotage exisited. We got involved also be i was working 24.7 oncall "MissionCritical" support for Web.com and Ionic Security i saved them from Splunk issues so many times at night. I understand sleepcycles bc she became my friend. Im OnCall for them so "Be oncall for me" It was a freindship gesture. Now im friends with a sex slave, thats attracted to me! 
+  
+This image was taken by Left Navigation Camera onboard NASA’s Mars rover Curiosity on Sol 4185 (2024-05-15 04:55:27 UTC). 
+ 
 
 [![homepage](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG)](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG "Redirect to homepage")
 
@@ -56,6 +61,31 @@ This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosi
 
 [Credits: NASA/JPL-Caltech](https://mars.nasa.gov/raw_images/1334513/?site=msl)
 
+<div class="oncall">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+## OnCall 
+<embed width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1154196106&color=%23732e07&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+<div class="oncall">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+<div class="swatch">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
 <div class="gullies">
 <div></div>
 <div></div>

@@ -166,7 +166,7 @@ p:first-of-type {
 #MAiN
 {
   margin:0 auto;
-  width: 50vw;
+  width: 80vw;
   height: 100vh;
   margin: auto;
   background: transparent url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif) repeat;
@@ -437,7 +437,7 @@ grid-template-rows: auto auto auto;
   color:white;
   padding:5px;
   position:fixed;
-  width:50vw;
+  width:80vw;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
   }
@@ -649,33 +649,30 @@ embed {
 
 /* FLEX_BOX_FOR_3_IMAGES */
 .flex-container {
-
-  display: flex;
-   align-items: stretch; 
-   flex-flow: row nowrap;  
-  flex-direction: row; 
-  flex-wrap: nowrap; 
-  justify-content: center;
-  align-content: stretch;
-  padding: 15px;
-  gap: 5px;
-
+  align-items: stretch;
+/* flex-flow: row nowrap; */
+flex-direction: row;
+flex-wrap: nowrap;
+  padding: 0px;
+justify-content: center;
+align-content: stretch;
+height: 100%;
+display: grid;
+grid-template-columns: auto auto auto;
 }
 
-.flex-container > div{
-
-  border: 1px solid #c9ff23;
-  border-radius: 1px;
-  padding: 8px;
+.flex-container > div {
+border:  1px dotted #c9ff23;
+  
 }
 
 .flex-container > img {
 object-fit: contain;
 max-width: 100%;
 border: 1px solid #c9ff23;
-  border-radius:0px
 
 }
+
 
 :root {
   --magnifier: 8;
@@ -847,7 +844,7 @@ border: 1px solid #c9ff23;
   display: grid;
   grid-template-columns: repeat(9, 1fr);
   flex-wrap: wrap;
-  width: 50vw;
+  width: 80vw;
     max-width: max-content;
 
 }
