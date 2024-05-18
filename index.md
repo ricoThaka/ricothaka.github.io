@@ -49,10 +49,9 @@ This image was taken by Left Navigation Camera onboard [NASA’s Mars rover Curi
 ## CURIOSITY RAW IMAGES
 [Credits: NASA/JPL-Caltech](https://mars.nasa.gov/raw_images/1334513/?site=msl)
   
- Hi Jamie/Robin/Brenda
+Hi Jamie/Robin/Brenda
   During my last time with you on campus i was told to explore the wheels! I guess you guys Saw my research to build a high powered grocery getter. I found this hole in the wheel about two months ago. The girls are really going through it right now and I really dont know what the future holds, but im dedicated to the mission. Jose Pi did not know i was real. I slap myself for running off when he said you cant come back. I learned a lot about working remote in Atlanta but i got fired twice bc i was having too much fun! I was completing tasks and training thier employees! PearsonEdu had a bunch of Windows admins and i tought them a lot of LinuxBased #DNS philosophy next thing you know im working remote and i have no income! If you are not in a office position ppl stop trusting you. I never knew my coworkeds went to MagicCity its a dark neighborhood secret and as we got older i aged out of the computer world in the east bc Normani got famous in BallroomDanceing and numbed the sex servant side to the eyes of the Public. Once i was seen with her it got really hard at work, I had no idea so much sabotage exisited. We got involved also be i was working 24.7 oncall "MissionCritical" support for Web.com and Ionic Security i saved them from Splunk issues so many times at night. I understand sleepcycles bc she became my friend. Im OnCall for them so "Be oncall for me" It was a freindship gesture. Now im friends with a sex slave, thats attracted to me! 
-  
-This image was taken by Left Navigation Camera onboard NASA’s Mars rover Curiosity on Sol 4185 (2024-05-15 04:55:27 UTC). 
+  This image was taken by Left Navigation Camera onboard NASA’s Mars rover Curiosity on Sol 4185 (2024-05-15 04:55:27 UTC). 
  
 
 [![homepage](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG)](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG "Redirect to homepage")
@@ -94,9 +93,10 @@ This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosi
 <div></div>
 </div>
 <hr>
-<div>
+
 
 ## Rape
+
 [![homepage](https://upload.wikimedia.org/wikipedia/commons/a/a5/Comprehensive_Scale_of_Rape_%282018%29_-_LRW-SCALE-11.svg)](https://upload.wikimedia.org/wikipedia/commons/a/a5/Comprehensive_Scale_of_Rape_%282018%29_-_LRW-SCALE-11.svg "Redirect to homepage")
 
 <span class="firstcharacter"> Rape is a</span> type of sexual assault involving sexual intercourse or other forms of sexual penetration carried out against a person without their consent. The act may be carried out by physical force, coercion, abuse of authority, or against a person who is incapable of giving valid consent, such as one who is unconscious, incapacitated, has an intellectual disability, or is below the legal age of consent.[1][2] The term rape is sometimes used interchangeably with the term sexual assault. [Read More](https://en.wikipedia.org/wiki/Rape)
@@ -107,18 +107,19 @@ This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosi
 [Genocidal Rape](https://en.wikipedia.org/wiki/Genocidal_rape)
 
 ## Wartime Sexual Violence
+
 <a href="https://16days.thepixelproject.net/wp-content/uploads/2011/11/War-rape.jpg"> <img src="https://16days.thepixelproject.net/wp-content/uploads/2011/11/War-rape.jpg" style="width:200px;height:300px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
 
 Wartime sexual violence is rape or other forms of sexual violence committed by combatants during armed conflict, war, or military occupation often as spoils of war, but sometimes, particularly in ethnic conflict, the phenomenon has broader sociological motives. Wartime sexual violence may also include gang rape and rape with objects. A war crime, it is distinguished from sexual harassment, sexual assaults and rape committed amongst troops in military service.[1][2][3]
 During war and armed conflict, rape is frequently used as a means of psychological warfare in order to humiliate the enemy. Wartime sexual violence may occur in a variety of situations, including institutionalized sexual slavery, wartime sexual violence associated with specific battles or massacres, as well as individual or isolated acts of sexual violence.
 Rape can also be recognized as genocide when committed with the intent to destroy, in whole or in part, a targeted group. International legal instruments for prosecuting perpetrators for genocide were developed in the 1990s, with the Akayesu case of the International Criminal Tribunal for Rwanda being widely considered as a precedent.[4] However, these legal instruments have so far only been used for international conflicts, thus putting the burden of proof in citing the international nature of conflict in order for prosecution to proceed.
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/6/6c/Frontespizio-De-iure.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Frontespizio-De-iure.jpg" style="width:200px;height:300px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/6/6c/Frontespizio-De-iure.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Frontespizio-De-iure.jpg" style="width:200px;height:300px;margin-left:15px;" align="left" alt="Pineapple" /> </a>
 
 ## Definition of wartime sexual violence
  # Main article:
  Rape There is no consensus definition of wartime sexual violence, as there is variance in what forms of violence are included in the definition and variance in which violence is considered conflict-related.[5] The terms rape, sexual assault and sexual violence are frequently used interchangeably.[6] The Explanatory Note of the Rome Statute, which binds the International Criminal Court, defines rape as follows:  The perpetrator invaded the body of a person by conduct resulting in penetration, however slight, of any part of the body of the victim or of the perpetrator with a sexual organ, or of the anal or genital opening of the victim with any object or any other part of the body.[7] and The invasion was committed by force, or by threat of force or coercion, such as that caused by fear of violence, duress, detention, psychological oppression or abuse of power, against such person or another person, or by taking advantage of a coercive environment, or the invasion was committed against a person incapable of giving genuine consent.[7] The concept of "invasion" is intended to be broad enough to be gender-neutral and the definition is understood to include situations where the victim may be incapable of giving genuine consent if affected by natural, induced or age-related incapacity.[8] A prominent data-set on conflict-related sexual violence, Sexual Violence in Armed Conflict (SVAC), builds on the ICC definition and covers seven forms of violence: "(a) rape, (b) sexual slavery, (c) forced prostitution, (d) forced pregnancy, (e) forced sterilization/abortion, (f) sexual mutilation, and (g) sexual torture."[5] The data-set defines conflict-related sexual violence as the sexual violence committed "armed actors (specifically, state militaries, rebel groups, and progovernment militias) during periods of conflict or immediately postconflict," thus excluding sexual violence by civilians.[5] More expansive definitions may define wartime sexual violence as being committed even by civilians if the conflict creates a sense of impunity.[5]
-</div>
+
 
 [Thaka_and_Sartu_YoutubeAccount](https://www.youtube.com/@thakasartukellyselassie6468/videos)
 
