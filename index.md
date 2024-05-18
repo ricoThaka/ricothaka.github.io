@@ -103,7 +103,7 @@ This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosi
 
 [World report on violence and health](https://iris.who.int/bitstream/handle/10665/42495/9241545615_eng.pdf?sequence=1)
 
-[Rape during the Vietnam War](https://en.wikipedia.org/wiki/Rape_during_the_Vietnam_War)\
+[Rape during the Vietnam War](https://en.wikipedia.org/wiki/Rape_during_the_Vietnam_War)
 [Genocidal Rape](https://en.wikipedia.org/wiki/Genocidal_rape)
 
 ## Wartime Sexual Violence
