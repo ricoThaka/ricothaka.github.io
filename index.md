@@ -14,7 +14,7 @@ carousels:
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg 
 ---
-<div class="megan>
+<div class="megan">
 <div></div>
 <div></div>
 <div></div>
@@ -22,6 +22,7 @@ carousels:
 <div></div>
 </div>
 
+https://archive.org/details/taschens1000favo0000unse 
 
 # ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
 [Song-GhostFace_RaEKWON_TheFasterBlade](https://www.youtube.com/watch?v=MHGx8ZQ1Emw)
