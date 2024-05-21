@@ -15,6 +15,40 @@ carousels:
     - image: /uploads/slider/image4.jpg 
 ---
 
+
+<div class="sarahlugor">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+# Late For Work 
+
+<a href="https://www.ajc.com/resizer/Nffgaa9jISv3qntqf3VY3ekkgrA=/850x480/cloudfront-us-east-1.images.arcpublishing.com/ajc/6H3PCLI2S6IDX5APFLXWQHXZXQ.jpg"> <img src="https://www.ajc.com/resizer/Nffgaa9jISv3qntqf3VY3ekkgrA=/850x480/cloudfront-us-east-1.images.arcpublishing.com/ajc/6H3PCLI2S6IDX5APFLXWQHXZXQ.jpg" style="width:425px;height:240px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
+
+
+Jamie, Robin Brenda Jason... If you remember i let you guys know that Erika was sick, i know its not all Hypocondria! And we were poisoned, I did not know about her [hidden_sex_life](https://www.youtube.com/watch?v=MyCogJSLgvY) When i met her she lived in Oakland and i was online dating at a very young age. She is not the worst person i the world. I  also know that the work ethic she displayed carrying Corals pregnancy all the way through lets me know family services is involved with ehr pornography and the whole husband [torture culture in hollywood](https://medievaltorturemuseum.com/). People laugh so hard when i say ow or when i scramble to find my missing cellphone. [Normani](https://www.instagram.com/normani/?hl=en) is older now so the [PopCultureBullying](https://www.billboard.com/music/pop/fifth-harmony-normani-quits-twitter-bullying-7461882/), i see something you guys should ask [AtlantaJournalConstitution](https://www.ajc.com/news/normani-talks-camila-cabello-racism-and-bullying-new-interview/1QoirFXkoiQYdH1Z0THkvN/) what they know about me, bc Erika and i were avid [JehovahsWitnesses](https://www.jw.org/en/) in [Decatur](https://www.decaturga.com/) so when [Erika left me and Coral](https://x.com/Essence/status/1246445029536731138) normani stepped in after [Muna_Ahmed](https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed) my first wife after erika... died ... more later 
+![Mother](https://pbs.twimg.com/media/GAdaCzwawAAz8KB?format=jpg&name=small)
+
+<IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg">
+
+<div class="flex-container">
+   <div class="flex-items">  <a href="https://pbs.twimg.com/media/GMm_T0tb0AAiu4e?format=jpg&name=medium">
+        <img src="https://pbs.twimg.com/media/GMm_T0tb0AAiu4e?format=jpg&name=medium" />
+</a></div>
+   <div class="flex-items">  <a href="https://pbs.twimg.com/media/GMm_Yt4b0AAn3RY?format=png&name=900x900">
+<img src="https://pbs.twimg.com/media/GMm_Yt4b0AAn3RY?format=png&name=900x900" />
+</a></div>
+</div>
+
+[The_Constitutions_oF_California](https://www.senate.ca.gov/sites/senate.ca.gov/files/the_constitutions_of_california_and_the_united_states2.pdf)
+
+[![homepage](
+https://pbs.twimg.com/media/GOD2g1VbwAA2i_g?format=jpg&name=large)](
+https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf "Redirect to homepage")
+
 <div class="normani">
 <div></div>
 <div></div>
@@ -23,7 +57,10 @@ carousels:
 <div></div>
 </div>
 
+![retroarch](https://pbs.twimg.com/media/GAn5U1casAAwbNU?format=jpg&name=medium)
+
 # Nija ~ Someone Else
+
 <embed width="100%" height="300"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202777995&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
 ![revelation](https://pbs.twimg.com/media/GG1AmxPaYAAiCIt?format=jpg&name=large)
@@ -36,6 +73,30 @@ https://pbs.twimg.com/media/GOCxmwcXYAAPh5q?format=jpg&name=small "Redirect to h
 [NAsaSPoRt_LightNingViewer](https://weather.ndc.nasa.gov/sport/lightning-viewer/)
 
 
+## WebDevelopmentLinkS
+```
+// GiST_HAS_THE_ONE_PEiCE_PART
+// https://www.transparenttextures.com/
+// https://paletton.com/
+// https://color.adobe.com/trends
+//https://color.adobe.com/create/color-wheel
+// https://www.canva.com/colors/color-wheel/
+// https://cssgradient.io/
+//https://colordesigner.io/gradient-generator
+//https://www.colorzilla.com/gradient-editor/
+//https://mycolor.space/gradient
+//https://www.css-gradient.com/
+// https://css-tricks.com/css3-gradients/
+//https://gradienthunt.com/
+// https://www.grabient.com/
+// https://webgradients.com/
+// https://webkul.github.io/coolhue/
+// https://colorfulgradients.tumblr.com/
+// https://gradientbuttons.colorion.co/
+// https://www.tumblr.com/blog/view/koreedas/662178514671419392?source=share
+// https://64.media.tumblr.com/256af44c4b7dd88d0fac84837a0dc558/367173d08d45c739-e7/s2048x3072/5a116f5b1d952d66944dc2cbb1e08632bac9d684.jpg
+// https://64.media.tumblr.com/e4be9a99fdc171fecbd3536a7cbe5c08/367173d08d45c739-16/s2048x3072/bdae828942f16a053ce2a9ebe4dd718097be770f.jpg
+```
 
 ## Important TWeets 
 ```
