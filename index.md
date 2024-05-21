@@ -19,7 +19,7 @@ carousels:
 
 
 # Atlanta Amharic Classic
-## wedding dancing
+
 ![AtlantaWedding](https://pbs.twimg.com/media/GOIx2GeacAAUpnG?format=jpg&name=900x900)
 ---
 
