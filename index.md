@@ -14,14 +14,18 @@ carousels:
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg 
 ---
-<div class="megan
+<div class="megan>
+<div></div>
 <div></div>
 <div></div>
 <div></div>
 <div></div>
 </div>
 
-<iframe width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/253568355&color=%23f2e205&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+# ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
+[Song-GhostFace_RaEKWON_TheFasterBlade](https://www.youtube.com/watch?v=MHGx8ZQ1Emw)
+
 [Androiding](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/maste0r/assets/video/gpfNLfVwUjnY2NBJ.mp4)
 
 <div class="sarahlugor">
