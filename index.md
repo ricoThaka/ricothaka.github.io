@@ -26,11 +26,16 @@ carousels:
 
 # Late For Work 
 
-<a href="https://www.ajc.com/resizer/Nffgaa9jISv3qntqf3VY3ekkgrA=/850x480/cloudfront-us-east-1.images.arcpublishing.com/ajc/6H3PCLI2S6IDX5APFLXWQHXZXQ.jpg"> <img src="https://www.ajc.com/resizer/Nffgaa9jISv3qntqf3VY3ekkgrA=/850x480/cloudfront-us-east-1.images.arcpublishing.com/ajc/6H3PCLI2S6IDX5APFLXWQHXZXQ.jpg" style="width:425px;height:240px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
+<a href="https://www.ajc.com/resizer/Nffgaa9jISv3qntqf3VY3ekkgrA=/850x480/cloudfront-us-east-1.images.arcpublishing.com/ajc/6H3PCLI2S6IDX5APFLXWQHXZXQ.jpg"> <img src="https://www.ajc.com/resizer/Nffgaa9jISv3qntqf3VY3ekkgrA=/850x480/cloudfront-us-east-1.images.arcpublishing.com/ajc/6H3PCLI2S6IDX5APFLXWQHXZXQ.jpg" style="width:212.5px;height:120px;margin-left:15px;" align="right" alt="Normani Kordei" /> </a>
 
 
 Jamie, Robin Brenda Jason... If you remember i let you guys know that Erika was sick, i know its not all Hypocondria! And we were poisoned, I did not know about her [hidden_sex_life](https://www.youtube.com/watch?v=MyCogJSLgvY) When i met her she lived in Oakland and i was online dating at a very young age. She is not the worst person i the world. I  also know that the work ethic she displayed carrying Corals pregnancy all the way through lets me know family services is involved with ehr pornography and the whole husband [torture culture in hollywood](https://medievaltorturemuseum.com/). People laugh so hard when i say ow or when i scramble to find my missing cellphone. [Normani](https://www.instagram.com/normani/?hl=en) is older now so the [PopCultureBullying](https://www.billboard.com/music/pop/fifth-harmony-normani-quits-twitter-bullying-7461882/), i see something you guys should ask [AtlantaJournalConstitution](https://www.ajc.com/news/normani-talks-camila-cabello-racism-and-bullying-new-interview/1QoirFXkoiQYdH1Z0THkvN/) what they know about me, bc Erika and i were avid [JehovahsWitnesses](https://www.jw.org/en/) in [Decatur](https://www.decaturga.com/) so when [Erika left me and Coral](https://x.com/Essence/status/1246445029536731138) normani stepped in after [Muna_Ahmed](https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed) my first wife after erika... died ... more later 
 ![Mother](https://pbs.twimg.com/media/GAdaCzwawAAz8KB?format=jpg&name=small)
+
+
+
+[![homepage](
+https://pbs.twimg.com/media/GOD1DFnbYAA-c1G?format=jpg&name=large)](https://www.senate.ca.gov/sites/senate.ca.gov/files/the_constitutions_of_california_and_the_united_states2.pdf "Redirect to homepage")
 
 <IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg">
 
