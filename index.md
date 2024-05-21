@@ -16,6 +16,41 @@ carousels:
 ---
 
 
+<a href="https://pbs.twimg.com/media/GOI90rAaUAA6rls?format=jpg&name=medium"> <img src="https://pbs.twimg.com/media/GOI90rAaUAA6rls?format=jpg&name=medium" style="width:250px;height:280px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
+
+
+# Clean WordPress URLS
+
+Don’t you think its fun to add a new tool to your tool box no mat­ter how small it may seem? Well I sim­ply love my sexy new URLs. My links look so much bet­ter. Most impor­tantly it helps peo­ple get a pre­view with­out actu­ally view­ing the page. It also helps search engines index your con­tent. This is how my links used to look…
+
+http://funkysite.com/?p=4974
+
+Now you see the post title or page name in the URL. Tech­ni­cal peo­ple refer to them as ‘SLUGS’. Not the lit­tle shell-​​less snail-​​like crea­tures that come out at night. No, slugs are reader friendly ver­sions of URLs. In them the date, post name, cat­e­gory etc can be cus­tomized to be placed inside your URL struc­ture. It is very impor­tant for any small busi­ness web­site. It really sep­a­rates you from peo­ple that are just toss­ing up a site to make a few quick bucks. So many lit­tle things to note when putting a busi­ness up on the web. Not to men­tion the fact that slugs affect your page rank and peo­ples desire to inves­ti­gate your care­fully writ­ten page. What would you click first if you were search­ing for recipes to cook beans and rice?
+
+http://funkysite.com/?p=4974
+
+OR
+
+http://funkysite.com/food/Beans-and-Rice
+
+Basi­cally all that has to be done is to change the perma­link appear­ance inside of word­press to cus­tom stuc­ture. I sim­ply used /%postname%/ for mine and then mod­i­fied the .htac­cess file to read as follows
+
+### BEGIN WordPress
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+
+ 
+
+### END WordPress
+
+That called the apache mod_​rewrite to clean up the appear­ance of the URLs. Hope you find this useful
+
+[Clean WordPress URLS](https://web.archive.org/web/20140226150657/http://www.rashardkelly.com/clean-wordpress-urls/) orig url = http://www.rashardkelly.com/clean-wordpress-urls/
+
 <div class="megan">
         <div></div>
         <div></div>
