@@ -2289,6 +2289,30 @@ border: 1px solid #c9ff23;
 
 }
 
+.megan {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 5%;
+
+}
+.megan div:nth-child(1) { background: #F2059F;}
+.megan div:nth-child(2) { background: #F279D2;}
+.megan div:nth-child(3) { background: #F2E205;}
+.megan div:nth-child(4) { background: #F2CB05;}
+.megan div:nth-child(5) { background: #594302;}
+
+.oncall div {
+
+  flex: 0 1 200px;
+  flex: 1 1 200px;
+  padding: 0px;
+
+}
+
 #a-title {
   text-decoration: none;
 }
