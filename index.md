@@ -14,9 +14,51 @@ carousels:
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg 
 ---
+
+{% highlight ruby %} 
+1 # HOLE_TO_ANOTHER_UNiVERSE####################Normani?## 
+2 # TO#######################################Erika?####### 
+3 # ANOTHER##########https://s.id/1kmbG################### 
+4 # UNiVERSE####################################CORaL##### 
+{% endhighlight %}
+
+# File:Dance in a Subterranean Roundhouse at [Clear_Lake](https://www.clearlake.ca.us/), California.jpg
+[![Sunday-Morning-in-Monterey](
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dance_in_a_Subterranean_Roundhouse_at_Clear_Lake%2C_California.jpg/1280px-Dance_in_a_Subterranean_Roundhouse_at_Clear_Lake%2C_California.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dance_in_a_Subterranean_Roundhouse_at_Clear_Lake%2C_California.jpg/1280px-Dance_in_a_Subterranean_Roundhouse_at_Clear_Lake%2C_California.jpg "Redirect to homepage")
+
+In the 1870s, French-born and -trained artist Jules Tavernier settled in San Francisco, where he received his most important commission from Tiburcio Parrott, the city’s leading banker. During an 1876 visit from his Parisian business partner Baron Edmond de Rothschild and the baron’s traveling companion Count Gabriel Louis de Turenne, Parrott was able to obtain entry to a ceremonial dance of the Elem Pomo known as the mfom Xe (people dance) in an underground Xe-xwan (roundhouse) at Clear Lake, California. -
+Title: Dance in a Subterranean Roundhouse at Clear Lake, California
+
+* https://www.metmuseum.org/art/collection/search/698529 
+ * Artist: Jules Tavernier (American (born France), Paris 1844–1889 Honolulu, Hawaii)
+
+ * Date: 1878
+
+ * Geography: Made in San Francisco, California, United States
+
+ * Culture: American
+
+ * Medium: Oil on canvas
+
+ * Dimensions: 48 × 72 1/4 in. (121.9 × 183.5 cm)
+
+ * Credit Line: Marguerite and Frank A. Cosgrove Jr. Fund, 2016
+
+* Accession Number: 2016.135
+
+
 # Charles Christian Nahl
+[![Sunday-Morning-in-Monterey](
+https://img.wikioo.org/ADC/Art.nsf/O/AQRBXZ/$File/Charles-Christian-Nahl-La-Plaza-de-Toros-Sunday-Morning-in-Monterey.jpg)](https://img.wikioo.org/ADC/Art.nsf/O/AQRBXZ/$File/Charles-Christian-Nahl-La-Plaza-de-Toros-Sunday-Morning-in-Monterey.jpg "Redirect to homepage")
+
+La Plaza de Toros Sunday Morning in [Monterey](https://monterey.gov/)
+>La Monumental Lorenzo Garza también llamada Plaza de toros Monumental Lorenzo Garza de Monterrey es una plaza de toros de primera categoría situada en Monterrey, en el estado de Nuevo León en México.
+
+
+[Wikioo.org](https://wikioo.org/paintings.php?refarticle=AQRBXZ&titlepainting=La%20Plaza%20de%20Toros%20Sunday%20Morning%20in%20Monterey&artistname=Charles%20Christian%20Nahl) - The Encyclopedia of Fine Arts - Painting, Artwork by Charles Christian Nahl - La Plaza de Toros Sunday Morning in Monterey
+
 [![The_FandanGo](
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Fandango.JPG/1024px-The_Fandango.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Fandango.JPG/1280px-The_Fandango.JPG "Redirect to homepage").
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Fandango.JPG/1280px-The_Fandango.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Fandango.JPG/1280px-The_Fandango.JPG "Redirect to homepage")
 
 [CharlesChristianNahl](https://americanart.si.edu/artist/charles-christian-nahl-5806)
 Born Kassel, Germany 1818-died [San_Francisco](https://www.marincounty.gov/), [CA](https://www.ca.gov/) 1878
@@ -62,12 +104,7 @@ Born Kassel, Germany 1818-died [San_Francisco](https://www.marincounty.gov/), [C
         <div></div>
 </div>
 
-{% highlight ruby %} 
-1 # HOLE_TO_ANOTHER_UNiVERSE############################## 
-2 # TO#################################################### 
-3 # ANOTHER##########https://s.id/1kmbG################### 
-4 # UNiVERSE####################################CORaL##### 
-{% endhighlight %}
+
 
 <div class="megan">
         <div></div>
