@@ -23,6 +23,21 @@ carousels:
         <div></div>
 </div>
 
+{% highlight ruby %} 
+1 # HOLE_TO_ANOTHER_UNiVERSE############################## 
+2 # TO#################################################### 
+3 # ANOTHER##########https://s.id/1kmbG################### 
+4 # UNiVERSE####################################CORaL##### 
+{% endhighlight %}
+
+<div class="megan">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+</div>
+
 <embed width="100%" height="300"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/740893540&color=%23f2e205&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
 <div class="megan">
@@ -41,12 +56,318 @@ carousels:
 </div>
 
 
+ <div class="glass-content">
+  <div class="glass-item">
+
+  This is a doc­u­ment I cre­ated to share with my cowork­ers how I have been cre­at­ing and man­ag­ing my duties to build LDOMS. If you have not heard, LDoms or as they are now know as Ora­cle VM Server for SPARC is a fan­tas­tic hyper­vi­sor tech­nol­ogy that allows the user to par­ti­tion a mul­ti­core sparc based server into a bunch of lit­tle servers :) . One thing to be cau­tious of is assign­ing an uneven num­ber of cores to an LDom this can cause an LDom to per­form very badly in some cases.
+
+—–
 {% highlight ruby %} 
-1 # HOLE_TO_ANOTHER_UNiVERSE############################## 
-2 # TO#################################################### 
-3 # ANOTHER##########https://s.id/1kmbG################### 
-4 # UNiVERSE####################################CORaL##### 
+Build­ing LDOMS and pro­vi­sion­ing storage
+
+A pre­req­ui­site of build­ing out LDOMS is to make sure the server is at the lat­est ver­sion of its firmware, Ldom soft­ware is installed and a cur­rent match­ing ver­sion of Ora­cle Solaris is being used on guest and host.
+
+Below is a list­ing of a sta­ble ldom platform
+
+Firmware
+
+T5140 OBP 4.32.2 2010/​10/​29 15:36
+
+T5120 OBP 4.32.2.b 2010/​12/​21 20:20
+
+OS ver­sion
+
+Ora­cle Solaris 10 9/​10 s10s_​u9wos_​14a SPARC
+
+Vir­tu­al­iza­tion Platform
+
+Ora­cle VM Server for SPARC (2.0 release)
+
+Ver­sion 2.1 is avail­able and should go into test­ing as soon as all ldom host are updated to the base­line I have set. You can down­load it here
+
+http://​www​.ora​cle​.com/​t​e​c​h​n​e​t​w​o​r​k​/​s​e​r​v​e​r​-​s​t​o​r​a​g​e​/​v​m​/​d​o​w​n​l​o​a​d​s​/​i​n​d​e​x​.​h​t​m​l​?​s​s​S​o​u​r​c​e​S​i​t​e​I​d​=​o​c​o​men
+
+after installing make sure ser­vice svc:/ldoms/ldmd:default is run­ning.
+
+Lat­est patch bundle
+
+/​manna/​Solaris10-​​Supplies/​MAR112011
+
+Now that the envi­ron­ment is in place. Net­work­ing must be setup for the phys­i­cal por­tion of the instal­la­tion. The T5120/​40s both con­tain 4 net­work ports. These can be used for NIC team­ing to improve through­put and per­for­mance, they can also be assigned to indi­vid­ual domains, and lastly you can route all traf­fic through a sin­gle NIC.
+
+Now that we have net­work­ing the next area of con­cern is stor­age. Cur­rently (6/​27/​2011) all fiber con­nected nodes are con­nected to the fab­ric via Qlogic 23xx series HBAs. The dri­vers are built into recent ver­sions of Solaris. To pro­vi­sion stor­age for LDOMS sim­ply apply the cor­rect zon­ing within the cisco fab­ric man­ager. An instance can be found at fiber​man​.core​.gtri​.org. This is a win­dows 2008 server. Use the pass­word for Cassini-​​a to start it up which can be found in Nova.
+
+After stor­age has been pro­vi­sioned. We have to approach the choice of how to han­dle the stor­age.
+
+A: Allow the host to man­age the zvols for the guest.
+
+B: Directly attach luns to guest for guest to management.
+
+The method I have found effec­tive to man­age these things and make them easy to move is to allow the host to man­age all stor­age for the guest as in this example
+
+ 
+
+NAME VOLUME OPTIONS MPGROUP DEVICE
+
+primary-​​vds1 
+
+regor-​​boot /​dev/​zvol/​dsk/​LDOM-​​regor/​boot_​vol
+
+regor-​​3 /​dev/​zvol/​dsk/​Regor-​​DB-​​Pool/​regor3 
+
+regor-​​2 /​dev/​zvol/​dsk/​Regor-​​DB-​​Pool/​regor2 
+
+regor-​​1 /​dev/​zvol/​dsk/​Regor-​​DB-​​Pool/​regor1 
+
+regor-​​0 /​dev/​zvol/​dsk/​Regor-​​DB-​​Pool/​regor0 
+
+regor-​​exports /​dev/​zvol/​dsk/​Regor-​​EX-​​Pool/​regor-​​exports
+
+regor-​​live /​dev/​zvol/​dsk/​Regor-​​Live-​​Pool/​regor-​​live
+
+regor-​​redo1 /​dev/​zvol/​dsk/​Regor-​​Redo1-​​Pool/​regor-​​redo1 
+
+regor-​​redo2 /​dev/​zvol/​dsk/​Regor-​​Redo2-​​Pool/​regor-​​redo2 
+
+The vol­umes are all ZFS filesys­tems man­aged by the host. The way to pro­vi­sion space on the host to be exported to the guest is to first cre­ate a pool
+
+zpool cre­ate LDOM-​​ixion c2t207000C0FFD82697d233 
+
+Then cre­ate a dataset within the pool
+
+zfs cre­ate –V 57G LDOM-​​ixion/​ixion_​boot
+
+The –V option spec­i­fies the size. You need to do this to be able to use the allo­cated stor­age on the guest.
+
+Note the pools on this host
+
+root@ariel:/manna/Solaris10-Supplies# zpool list
+
+NAME SIZE ALLOC FREE CAP HEALTH ALTROOT
+
+LDOM-​​ixion 65G 4.72G 60.3G 7% ONLINE -
+
+LDOM-​​lamb 67G 5.07G 61.9G 7% ONLINE -
+
+LDOM-​​regor 69.5G 27.9G 41.6G 40% ONLINE -
+
+LDOM-​​swan 69.5G 6.15G 63.4G 8% ONLINE -
+
+LDOM-​​swift 60.5G 4.96G 55.5G 8% ONLINE -
+
+Lamb-​​EX-​​Pool 280G 1.76M 280G 0% ONLINE -
+
+Lamb-​​Redo1-​​Pool 111G 2.30M 111G 0% ONLINE -
+
+Regor-​​DB-​​Pool 928G 644G 284G 69% ONLINE -
+
+Regor-​​EX-​​Pool 168G 152G 16.0G 90% ONLINE -
+
+Regor-​​Live-​​Pool 278G 168G 110G 60% ONLINE -
+
+Regor-​​Redo1-​​Pool 74G 10.0G 64.0G 13% ONLINE -
+
+Regor-​​Redo2-​​Pool 65G 10.0G 55.0G 15% ONLINE -
+
+ariel_​zpool 68G 9.68G 58.3G 14% ONLINE -
+
+Pools with the LDOM pre­fix indi­cate that the boot disk is con­tained here. When on any host {hostname}_zpool is always the root par­ti­tion this makes it easy to iden­tify when writ­ing scripts The other pools are for the guest resid­ing within the host. Some instal­la­tions such as that of ora­cle require mul­ti­ple pools. It is also easy enough to allo­cate stor­age and attach it directly to the guest as men­tioned before.
+
+To attach a zvol to a guest
+
+ldm add-​​vdsdev /​dev/​zvol/​dsk/​LDOM-​​ixion/​ixion_​boot host­name–boot@vds–host­name
+
+To add a raw lun
+
+ldm add-​​vdsdev /​dev/​dsk/​c3t5000402101F45935d86s2 hostname-redo1@vds-hostname
+
+here are the basic com­mands to build an LDOM
+
+Primary is typ­i­cally your con­trol domain and will take care of all other LDOMS.
+
+Now it’s time to install Vir­tual I/​O to pri­mary con­trol domain.
+
+Vir­tual ser­vice for disk server — ldm add-​​vds vds-​​ldomname primary
+Vir­tual net­work ter­mi­nal server — ldm add-​​vcc port-range=5000–5006  vcc-​​console pri­mary The amount is really depen­dant on how many LDoms you plan to pro­vi­sion
+Vir­tual ser­vice for net­work switch — ldm add-​​vsw net-dev=nxge0 sub-​​20 primary
+Ver­ify what you did — ldm list-​​services
+Pri­mary by default has all of the server’s resources, to allo­cate some to it and free oth­ers for guest Ldoms use the com­mands below.
+
+Cryp­to­graphic engine — ldm set-​​mau N primary
+Vir­tual CPU — ldm set-​​vcpu N pri­mary (Note two vcpus should be given to the pri­mary domain and the remain­ing vcpus should be divided among the amount of LDoms you want the sys­tem to host. In best prac­tice LDom amount should be lim­ited to the amount of MAUs avail­able)
+Mem­ory — ldm set-​​memory N(G,M) pri­mary mem­ory can be issued in Gigs or megs if you need to get really specific
+All this make pri­mary to be in delayed con­fig­u­ra­tion, so save con­fig­u­ra­tion first and poweroff/​poweron.
+
+Check con­fig­u­ra­tion — ldm list-​​spconfig
+Add con­fig­u­ra­tion — ldm add-​​spconfig name —— IF YOU DO NOT DO THIS YOU WILL REGRET IT! When the sys­tem is pow­ered off it will lose all of the con­fig that you have worked so hard to plan and implement.
+ver­ify resources are allo­cated to pri­mary — ldm list
+Power off — init 0 
+One note here — “init 5” behaives as “init 6”, strange. So I “init 0” and from ALOM do poweroff
+To cre­ate a Guest domain
+
+Cre­ate guest LDom — ldm add-​​domain ${LDOM}
+
+Add vcpu — ldm add-​​vcpu 16 ${LDOM}
+Add RAM — ldm add-​​memory 8g ${LDOM}
+Add MAU — ldm add-​​mau 2 ${LDOM}
+Add vir­tual net­work device on net switch — ldm add-​​vnet vnet0 ${NET} ${LDOM}
+Add vir­tual disk DEVICE to be sys­tem disk for LDom– ldm add-​​vdsdev /dev/zvol/dsk/${SPACE}/${LDOM} zdisk@vds-${LDOM}
+Add vir­tual DISK — ldm add-​​vdisk zdisk0 zdisk@vds-${LDOM} ${LDOM}
+Set auto­boot to false — ldm set-​​variable auto-boot\?=false ${LDOM}
+Point to vir­tual disk device as boot device — ldm set-​​variable boot-device=/virtual-devices@100/channel-devices@200/disk@0 ${LDOM}
+Bind LDom — ldm bind-​​domain ${LDOM}
+Start LDom — ldm start-​​domain ${LDOM}
+Now that the LDOM is cre­ated you still need an OS. Jump­start­ing is an option but there is no work­ing jump­start server currently.
+
+Stop and unbind the domain
+
+Add the vir­tual disk service
+
+ldm add-​​vdiskserverdevice /export/home/rkelly3/sol-10-u9-ga-sparc-dvd.iso iso@vds-hostname
+
+ldm add-​​vdisk iso iso@vds-hostname LDOMname
+
+Now bind and start the new domain:
+
+# ldm bind-​​domain LDOM­name
+# ldm start-​​domain LDOM­name
+LDom LDOM­name started
+
+# tel­net local­host 5001
+
+Try­ing 127.0.0.1…
+Con­nected to local­host.
+Escape char­ac­ter is ‘^]’.
+
+Con­nect­ing to con­sole “LDOM­name″ in group “LDOM­name″ ….
+Press ~? for con­trol options ..
+
+{0} ok show-​​disks
+a) /virtual-devices@100/channel-devices@200/disk@1
+b) /virtual-devices@100/channel-devices@200/disk@0
+q) NO SELECTION
+Enter Selec­tion, q to quit: a
+/virtual-devices@100/channel-devices@200/disk@1 has been selected.
+Type ^Y ( Control-​​Y ) to insert it in the com­mand line.
+e.g. ok nvalias mydev ^Y
+for cre­at­ing devalias mydev for
+/virtual-devices@100/channel-devices@200/disk@1
+{0} ok devalias
+iso /virtual-devices@100/channel-devices@200/disk@1
+vdisk3 /virtual-devices@100/channel-devices@200/disk@5
+
+vdisk2 /virtual-devices@100/channel-devices@200/disk@4 
+
+vdisk1 /virtual-devices@100/channel-devices@200/disk@3 
+
+vdisk5 /virtual-devices@100/channel-devices@200/disk@2 
+
+vdisk­boot /virtual-devices@100/channel-devices@200/disk@1 
+
+vnet0 /virtual-devices@100/channel-devices@200/network@0 
+
+net /virtual-devices@100/channel-devices@200/network@0 
+
+disk /virtual-devices@100/channel-devices@200/disk@1 
+
+virtual-​​console /virtual-devices/console@1 
+
+name aliases
+
+Boot from the vir­tu­al­ized iso image append­ing the :f (this is to spec­ify the slice 6 of the DVD/​ISO image). This can also be done using boot iso:f
+
+{0} ok boot /virtual-devices@100/channel-devices@200/disk@1:f
+Boot device: /virtual-devices@100/channel-devices@200/disk@1:f File
+and args:
+SunOS Release 5.10 Ver­sion Generic_​127127-​​11 64-​​bit
+Copy­right 1983–2008 Sun Microsys­tems, Inc. All rights reserved.
+Use is sub­ject to license terms.
+Con­fig­ur­ing devices.
+Using RPC Boot­params for net­work con­fig­u­ra­tion infor­ma­tion.
+Attempt­ing to con­fig­ure inter­face vnet0…
+Skipped inter­face vnet0
+Set­ting up Java. Please wait…
+Extract­ing win­dow­ing sys­tem. Please wait…
+Begin­ning sys­tem identification…
 {% endhighlight %}
+
+I got some of the core info from</div>
+  <div class="glass-item">              <div> <img src="https://deadline.com/wp-content/uploads/2024/03/normani-dopamine-fifth-harmony.jpg?w=681&h=383&crop=1">
+ <p>1፤ ሰማይና ምድር ሠራዊታቸውም ሁሉ ተፈጸሙ።
+
+2፤ እግዚአብሔርም የሠራውን ሥራ በሰባተኛው ቀን ፈጸመ፤ በሰባተኛውም ቀን ከሠራው ሥራ ሁሉ ዐረፈ።
+
+3፤ እግዚአብሔርም ሰባተኛውን ቀን ባረከው ቀደሰውም፤ እግዚአብሔር ሊያደርገው ከፈጠረው ሥራ ሁሉ በእርሱ ዐርፎአልና።
+
+
+4፤ እግዚአብሔር አምላክ ሰማይንና ምድርን ባደረገ አምላክ ሰማይንና ምድርን ቀን፥ በተፈጠሩ ጊዜ የሰማይና የምድር ልደት ይህ ነው።
+
+5፤ የሜዳ ቁጥቋጦ ሁሉ በምድር ላይ ገና አልነበረም፤ የሜዳውም ቡቃያ ሁሉ ገና አልበቀለም ነበር፤ እግዚአብሔር አምላክ ምድር ላይ አላዘነበም ነበርና፥ ምድርንም የሚሠራባት ሰው አልነበረም፤
+
+6፤ ነገር ግን ጉም ከምድር ትወጣ ነበር፥ የምድርንም ፊት ሁሉ ታጠጣ ነበር።
+
+7፤ እግዚአብሔር አምላክም ሰውን ከምድር አፈር አበጀው፤ በአፍንጫውም የሕይወት እስትንፋስን እፍ አለበት፤ ሰውም ሕያው ነፍስ ያለው ሆነ።
+
+8፤ እግዚአብሔር አምላክም በምሥራቅ በዔድን ገነትን ተከለ የፈጠረውንም ሰው ከዚያው አኖረው።
+
+9፤ እግዚአብሔር አምላክም ለማየት ደስ የሚያሰኘውን፥ ለመብላትም መልካም የሆነውን ዛፍ ሁሉ ከምድር አበቀለ፤ በገነትም መካከል የሕይወትን ዛፍ፥ መልካምንና ክፉን የሚያስታውቀውንም ዛፍ አበቀለ።
+
+10፤ ወንዝም ገነትን ያጠጣ ዘንድ ከዔድን ይወጣ ነበር፤ ከዚያም ለአራት ክፍል ይከፈል ነበር።
+
+11፤ የአንደኛው ወንዝ ስም ፊሶን ነው፤ እርሱም ወርቅ የሚገኝበትን የኤውላጥ ምድርን ይከብባል፤ የዚያም ምድር ወርቅ ጥሩ ነው፤
+
+12፤ ከዚያም ሉልና የከበረ ድንጋይ ይገኛል።
+
+13፤ የሁለተኛውም ወንዝ ስም ግዮን ነው፤ እርሱም የኢትዮጵያን ምድር ሁሉ ይከብባል።
+
+14፤ የሦስተኛውም ወንዝ ስም ጤግሮስ ነው፤ እርሱም በአሦር ምሥራቅ የሚሄድ ነው።
+
+15፤ አራተኛውም ወንዝ ኤፍራጥስ ነው። እግዚአብሔር አምላክም ሰውን ወስዶ ያበጃትም ይጠብቃትም ዘንድ በዔድን ገነት አኖረው።
+
+16፤ እግዚአብሔር አምላክም ሰውን እንዲህ ብሎ አዘዘው። ከገነት ዛፍ ሁሉ ትበላለህ፤
+<figure>
+        <p>
+          <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg" alt="The ENIAC" /></a>
+        <figcaption>Scale model of the
+          Eiffel tower in
+          Parc Mini-France</figcaption>
+      </figure>
+    <a href="https://pbs.twimg.com/media/GOI90rAaUAA6rls?format=jpg&name=medium"> <img src="https://pbs.twimg.com/media/GOI90rAaUAA6rls?format=jpg&name=medium" style="width:250px;height:280px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
+17፤ ነገር ግን መልካምንና ክፉን ከሚያስታውቀው ዛፍ አትብላ፤ ከእርሱ በበላህ ቀን ሞትን ትሞታለህና።
+
+18፤ እግዚአብሔር አምላክም አለ። ሰው ብቻውን ይሆን ዘንድ መልካም አይደለም፤ የሚመቸውን ረዳት እንፍጠርለት።
+
+19፤ እግዚአብሔር አምላክም የምድር አራዊትንና የሰማይ ወፎችን ሁሉ ከመሬት አደረገ፤ በምን ስም እንደሚጠራቸውም ያይ ዘንድ ወደ አዳም አመጣቸው፤ አዳምም ሕያው ነፍስ ላለው ሁሉ በስሙ እንደ ጠራው ስሙ ያው ሆነ።
+
+20፤ አዳምም ለእንስሳት ሁሉ፥ ለሰማይ ወፎችም ሁሉ፥ ለምድር አራዊትም ሁሉ ስም አወጣላቸው፤ ነገር ግን ለአዳም እንደ እርሱ ያለ ረዳት አልተገኘለትም ነበር።
+
+21፤ እግዚአብሔር አምላክም በአዳም ከባድ እንቅልፍን ጣለበት፥ አንቀላፋም፤ ከጎኑም አንዲት አጥንትን ወስዶ ስፍራውን በሥጋ ዘጋው።
+
+22፤ እግዚአብሔር አምላክም ከአዳም የወሰዳትን አጥንት ሴት አድርጎ ሠራት፤ ወደ አዳምም አመጣት።
+
+23፤ አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።
+
+24፤ ስለዚህ ሰው አባቱንና እናቱን ይተዋል፥ በሚስቱም ይጣበቃል፤ ሁለቱም አንድ ሥጋ ይሆናሉ።
+
+25፤ አዳምና ሚስቱ ሁለቱም ዕራቁታቸውን ነበሩ፥ አይተፋፈሩም ነበር።</p>
+    </div></div>
+  <div class="glass-item">
+      
+        <embed type="video/mp4" scr="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/ae7e4945-7ee7-466f-ac94-26f2889a8038.mp4" />
+
+  <video controls width="500" src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/ae7e4945-7ee7-466f-ac94-26f2889a8038.mp4" type="video/mp4" />
+
+  Download the
+  <a href="/media/cc0-videos/flower.webm">WEBM</a>
+  or
+  <a href="/media/cc0-videos/flower.mp4">MP4</a>
+  video.
+  </video></div>
+ 
+
+</div>
+
+
 
 <div class="oncall">
 <div></div>
@@ -110,9 +431,9 @@ http://funkysite.com/?p=4974
 Now you see the post title or page name in the URL. Tech­ni­cal peo­ple refer to them as ‘SLUGS’. Not the lit­tle shell-​​less snail-​​like crea­tures that come out at night. No, slugs are reader friendly ver­sions of URLs. In them the date, post name, cat­e­gory etc can be cus­tomized to be placed inside your URL struc­ture. It is very impor­tant for any small busi­ness web­site. It really sep­a­rates you from peo­ple that are just toss­ing up a site to make a few quick bucks. So many lit­tle things to note when putting a busi­ness up on the web. Not to men­tion the fact that slugs affect your page rank and peo­ples desire to inves­ti­gate your care­fully writ­ten page. What would you click first if you were search­ing for recipes to cook beans and rice?
 
 
-| :---------------- | :------: | ----: |
-| http://funkysite.com/?p=4974        |   OR  | http://funkysite.com/food/Beans-and-Rice ? |
-> 
+
+## | ```http://funkysite.com/?p=4974```        |   OR  | ```http://funkysite.com/food/Beans-and-Rice ?``` |
+ 
 
 
 

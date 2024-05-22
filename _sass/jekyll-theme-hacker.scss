@@ -2317,3 +2317,35 @@ border: 1px solid #c9ff23;
 #a-title {
   text-decoration: none;
 }
+
+
+.glass-content {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-flow: row nowrap;
+  
+  
+}
+.glass-item {
+   scrollbar-color: #595959 #262626;
+scrollbar-width: thin;
+  flex: 1 0 80vw;
+    padding: 1em;
+
+  min-height: 50px;
+  max-height: 100vh;
+  background-color: rgba(255, 255, 255, 0.7);
+  text-align: center;
+  margin: 2vmin;
+  padding: 2vmin;
+  background-color: #fce4ec; /* for testing*/
+    max-width: 60vw;
+background: hsla(0,0%,100%,.25) border-box;
+overflow: auto;
+
+box-shadow: 0 0 0 1px hsla(0,0%,100%,.3) inset,
+      0 .5em 1em rgba(0, 0, 0, 0.6);
+text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
+}
