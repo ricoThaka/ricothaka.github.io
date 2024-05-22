@@ -15,6 +15,7 @@ carousels:
     - image: /uploads/slider/image4.jpg 
 ---
 
+![The_Fandango](https://en.m.wikipedia.org/wiki/File:The_Fandango.JPG)
 ![Kalen_Bree](https://pbs.twimg.com/media/GOJIhWJa4AAc5WC?format=jpg&name=large)
 <div class="strawberry">
         <div></div>
