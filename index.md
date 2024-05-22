@@ -15,6 +15,36 @@ carousels:
     - image: /uploads/slider/image4.jpg 
 ---
 
+
+<div class="strawberry">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+<div class="strawberry">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/goeswestabiconus-00p64um-sMay%2021,%202024%20-%2021_36%20UTC-eMay%2021,%202024%20-%2023_11%20UTC.gif?raw=true" alt="BUBBLEGUM_POP">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/goeseastabiconus-daycloudphase-sMay%2021,%202024%20-%2016_06%20UTC-eMay%2021,%202024%20-%2017_41%20UTC.gif?raw=true" alt="Girlinajacket">
+
+  </div>
+  </div>
+  </div>
+</div>
 <div class="megan">
         <div></div>
         <div></div>
@@ -38,7 +68,9 @@ carousels:
         <div></div>
 </div>
 
-<embed width="100%" height="300"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/740893540&color=%23f2e205&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+<embed width="100%" height="300"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/856935166&color=%23485a28&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+
 
 <div class="megan">
 <div></div>
@@ -47,6 +79,9 @@ carousels:
 <div></div>
 <div></div>
 </div>
+
+  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/goeseastabiconus-daycloudphase-sMay%2021,%202024%20-%2016_06%20UTC-eMay%2021,%202024%20-%2017_41%20UTC.gif?raw=true" alt="Girlinajacket">
+
 <div class="megan">
 <div></div>
 <div></div>
@@ -297,6 +332,7 @@ I got some of the core info from
 </div>
 
 
+<embed width="100%" height="300"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/740893540&color=%23f2e205&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
 
 <div class="glass-item">              
@@ -381,21 +417,7 @@ https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/goesw
 
 
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/goeswestabiconus-00p64um-sMay%2021,%202024%20-%2021_36%20UTC-eMay%2021,%202024%20-%2023_11%20UTC.gif?raw=true" alt="BUBBLEGUM_POP">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/goeseastabiconus-daycloudphase-sMay%2021,%202024%20-%2016_06%20UTC-eMay%2021,%202024%20-%2017_41%20UTC.gif?raw=true" alt="Girlinajacket">
 
-  </div>
-  </div>
-  </div>
-</div>
 
 
 <div class="oncall">
