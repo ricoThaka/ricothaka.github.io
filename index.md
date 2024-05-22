@@ -16,6 +16,23 @@ carousels:
 ---
 
 <div class="megan">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+</div>
+
+<embed width="100%" height="300"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/740893540&color=%23f2e205&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+<div class="megan">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+<div class="megan">
 <div></div>
 <div></div>
 <div></div>
@@ -24,7 +41,12 @@ carousels:
 </div>
 
 
-{% highlight ruby %} 1 # HOLE_TO_ANOTHER_UNiVERSE############################## 2 # TO#################################################### 3 # ANOTHER##########https://s.id/1kmbG################### 4 # UNiVERSE####################################CORaL##### {% endhighlight %}
+{% highlight ruby %} 
+1 # HOLE_TO_ANOTHER_UNiVERSE############################## 
+2 # TO#################################################### 
+3 # ANOTHER##########https://s.id/1kmbG################### 
+4 # UNiVERSE####################################CORaL##### 
+{% endhighlight %}
 
 <div class="oncall">
 <div></div>
@@ -39,14 +61,14 @@ carousels:
 and args:
 SunOS Release 5.10 Ver­sion Generic_​127127-​​11 64-​​bit
 
-[night](https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/goeswestabiconus-00p64um-sMay%2021,%202024%20-%2021_36%20UTC-eMay%2021,%202024%20-%2023_11%20UTC.gif?raw=true)
+![night](https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/goeswestabiconus-00p64um-sMay%2021,%202024%20-%2021_36%20UTC-eMay%2021,%202024%20-%2023_11%20UTC.gif?raw=true)
 
 
 [![homepage](
 https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/goeswestabiconus-00p64um-sMay%2021,%202024%20-%2021_36%20UTC-eMay%2021,%202024%20-%2023_11%20UTC.gif?raw=true)](https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/goeswestabiconus-00p64um-sMay%2021,%202024%20-%2021_36%20UTC-eMay%2021,%202024%20-%2023_11%20UTC.gif?raw=true "Redirect to homepage")
 
 
-![CAssini](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-24-15-54-32.jpg)
+
 
 
 <div class='twoPanelSpread'>
@@ -65,26 +87,7 @@ https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/goesw
   </div>
 </div>
 
-<div class="megan">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-</div>
 
-
-
-
-<embed width="100%" height="300"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/740893540&color=%23f2e205&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
-
-<div class="megan">
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-</div>
 <div class="oncall">
 <div></div>
 <div></div>
@@ -100,25 +103,28 @@ https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/goesw
 
 Don’t you think its fun to add a new tool to your tool box no mat­ter how small it may seem? Well I sim­ply love my sexy new URLs. My links look so much bet­ter. Most impor­tantly it helps peo­ple get a pre­view with­out actu­ally view­ing the page. It also helps search engines index your con­tent. This is how my links used to look…
 
+```
 http://funkysite.com/?p=4974
+```
 
 Now you see the post title or page name in the URL. Tech­ni­cal peo­ple refer to them as ‘SLUGS’. Not the lit­tle shell-​​less snail-​​like crea­tures that come out at night. No, slugs are reader friendly ver­sions of URLs. In them the date, post name, cat­e­gory etc can be cus­tomized to be placed inside your URL struc­ture. It is very impor­tant for any small busi­ness web­site. It really sep­a­rates you from peo­ple that are just toss­ing up a site to make a few quick bucks. So many lit­tle things to note when putting a busi­ness up on the web. Not to men­tion the fact that slugs affect your page rank and peo­ples desire to inves­ti­gate your care­fully writ­ten page. What would you click first if you were search­ing for recipes to cook beans and rice?
 
-http://funkysite.com/?p=4974
 
-OR
+| :---------------- | :------: | ----: |
+| http://funkysite.com/?p=4974        |   OR  | http://funkysite.com/food/Beans-and-Rice ? |
+> 
 
-http://funkysite.com/food/Beans-and-Rice
+
 
 Basi­cally all that has to be done is to change the perma­link appear­ance inside of word­press to cus­tom stuc­ture. I sim­ply used /%postname%/ for mine and then mod­i­fied the .htac­cess file to read as follows
 
 ### BEGIN WordPress
 
-RewriteEngine On
-RewriteBase /
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
+> RewriteEngine On
+> RewriteBase /
+> RewriteCond %{REQUEST_FILENAME} !-f
+> RewriteCond %{REQUEST_FILENAME} !-d
+> RewriteRule . /index.php [L]
 
  
 
@@ -2646,3 +2652,5 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
 ![itsRashardAKATHAKA](https://pbs.twimg.com/media/GIL3LJIbMAAe1PV?format=jpg&name=small)
+
+![CAssini](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-24-15-54-32.jpg)
