@@ -56,8 +56,10 @@ carousels:
 </div>
 
 
- <div class="glass-content">
-  <div class="glass-item">
+<div class="glass-content">
+
+
+<div class="glass-item">
 
   This is a doc­u­ment I cre­ated to share with my cowork­ers how I have been cre­at­ing and man­ag­ing my duties to build LDOMS. If you have not heard, LDoms or as they are now know as Ora­cle VM Server for SPARC is a fan­tas­tic hyper­vi­sor tech­nol­ogy that allows the user to par­ti­tion a mul­ti­core sparc based server into a bunch of lit­tle servers :) . One thing to be cau­tious of is assign­ing an uneven num­ber of cores to an LDom this can cause an LDom to per­form very badly in some cases.
 
@@ -291,9 +293,17 @@ Extract­ing win­dow­ing sys­tem. Please wait…
 Begin­ning sys­tem identification…
 {% endhighlight %}
 
-I got some of the core info from</div>
-  <div class="glass-item">              <div> <img src="https://deadline.com/wp-content/uploads/2024/03/normani-dopamine-fifth-harmony.jpg?w=681&h=383&crop=1">
- <p>1፤ ሰማይና ምድር ሠራዊታቸውም ሁሉ ተፈጸሙ።
+I got some of the core info from
+</div>
+
+
+
+
+<div class="glass-item">              
+
+<a href="https://deadline.com/wp-content/uploads/2024/03/normani-dopamine-fifth-harmony.jpg?w=681&h=383&crop=1"> <img src="https://deadline.com/wp-content/uploads/2024/03/normani-dopamine-fifth-harmony.jpg?w=681&h=383&crop=1" style="width:250px;height:280px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
+
+## 1፤ ሰማይና ምድር ሠራዊታቸውም ሁሉ ተፈጸሙ።
 
 2፤ እግዚአብሔርም የሠራውን ሥራ በሰባተኛው ቀን ፈጸመ፤ በሰባተኛውም ቀን ከሠራው ሥራ ሁሉ ዐረፈ።
 
@@ -350,19 +360,7 @@ I got some of the core info from</div>
 24፤ ስለዚህ ሰው አባቱንና እናቱን ይተዋል፥ በሚስቱም ይጣበቃል፤ ሁለቱም አንድ ሥጋ ይሆናሉ።
 
 25፤ አዳምና ሚስቱ ሁለቱም ዕራቁታቸውን ነበሩ፥ አይተፋፈሩም ነበር።</p>
-    </div></div>
-  <div class="glass-item">
-      
-        <embed type="video/mp4" scr="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/ae7e4945-7ee7-466f-ac94-26f2889a8038.mp4" />
-
-  <video controls width="500" src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/ae7e4945-7ee7-466f-ac94-26f2889a8038.mp4" type="video/mp4" />
-
-  Download the
-  <a href="/media/cc0-videos/flower.webm">WEBM</a>
-  or
-  <a href="/media/cc0-videos/flower.mp4">MP4</a>
-  video.
-  </video></div>
+    </div>
  
 
 </div>

@@ -2324,7 +2324,7 @@ border: 1px solid #c9ff23;
   margin: 0;
   padding: 0;
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: column nowrap;
   
   
 }
@@ -2335,9 +2335,9 @@ scrollbar-width: thin;
     padding: 1em;
 
   min-height: 50px;
-  max-height: 100vh;
+  max-height: 40vh;
   background-color: rgba(255, 255, 255, 0.7);
-  text-align: center;
+  text-align: left;
   margin: 2vmin;
   padding: 2vmin;
   background-color: #fce4ec; /* for testing*/
