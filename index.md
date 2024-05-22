@@ -14,7 +14,32 @@ carousels:
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg 
 ---
-https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/goeswestabiconus-00p64um-sMay%2021,%202024%20-%2021_36%20UTC-eMay%2021,%202024%20-%2023_11%20UTC.gif?raw=true
+
+<div class="megan">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+
+{% highlight ruby %} 1 # HOLE_TO_ANOTHER_UNiVERSE############################## 2 # TO#################################################### 3 # ANOTHER##########https://s.id/1kmbG################### 4 # UNiVERSE####################################CORaL##### {% endhighlight %}
+
+<div class="oncall">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+>{0} ok boot /virtual-devices@100/channel-devices@200/disk@1:f
+>Boot device: /virtual-devices@100/channel-devices@200/disk@1:f File
+and args:
+SunOS Release 5.10 Ver­sion Generic_​127127-​​11 64-​​bit
+
+[night](https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/goeswestabiconus-00p64um-sMay%2021,%202024%20-%2021_36%20UTC-eMay%2021,%202024%20-%2023_11%20UTC.gif?raw=true)
 
 
 [![homepage](
