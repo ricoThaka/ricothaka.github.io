@@ -14,8 +14,13 @@ carousels:
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg 
 ---
+# Charles Christian Nahl
+[![The_FandanGo](
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Fandango.JPG/1024px-The_Fandango.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Fandango.JPG/1280px-The_Fandango.JPG "Redirect to homepage").
 
-![The_Fandango](https://en.m.wikipedia.org/wiki/File:The_Fandango.JPG)
+[CharlesChristianNahl](https://americanart.si.edu/artist/charles-christian-nahl-5806)
+Born Kassel, Germany 1818-died [San_Francisco](https://www.marincounty.gov/), [CA](https://www.ca.gov/) 1878
+
 ![Kalen_Bree](https://pbs.twimg.com/media/GOJIhWJa4AAc5WC?format=jpg&name=large)
 <div class="strawberry">
         <div></div>
