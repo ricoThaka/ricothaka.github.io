@@ -301,9 +301,9 @@ I got some of the core info from
 
 <div class="glass-item">              
 
-<a href="https://deadline.com/wp-content/uploads/2024/03/normani-dopamine-fifth-harmony.jpg?w=681&h=383&crop=1"> <img src="https://deadline.com/wp-content/uploads/2024/03/normani-dopamine-fifth-harmony.jpg?w=681&h=383&crop=1" style="width:250px;height:280px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
-
-## 1፤ ሰማይና ምድር ሠራዊታቸውም ሁሉ ተፈጸሙ።
+<img src="https://deadline.com/wp-content/uploads/2024/03/normani-dopamine-fifth-harmony.jpg?w=681&h=383&crop=1"  alt="Pineapple" /> 
+<p>
+1፤ ሰማይና ምድር ሠራዊታቸውም ሁሉ ተፈጸሙ።
 
 2፤ እግዚአብሔርም የሠራውን ሥራ በሰባተኛው ቀን ፈጸመ፤ በሰባተኛውም ቀን ከሠራው ሥራ ሁሉ ዐረፈ።
 
@@ -335,14 +335,7 @@ I got some of the core info from
 15፤ አራተኛውም ወንዝ ኤፍራጥስ ነው። እግዚአብሔር አምላክም ሰውን ወስዶ ያበጃትም ይጠብቃትም ዘንድ በዔድን ገነት አኖረው።
 
 16፤ እግዚአብሔር አምላክም ሰውን እንዲህ ብሎ አዘዘው። ከገነት ዛፍ ሁሉ ትበላለህ፤
-<figure>
-        <p>
-          <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg" alt="The ENIAC" /></a>
-        <figcaption>Scale model of the
-          Eiffel tower in
-          Parc Mini-France</figcaption>
-      </figure>
-    <a href="https://pbs.twimg.com/media/GOI90rAaUAA6rls?format=jpg&name=medium"> <img src="https://pbs.twimg.com/media/GOI90rAaUAA6rls?format=jpg&name=medium" style="width:250px;height:280px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
+
 17፤ ነገር ግን መልካምንና ክፉን ከሚያስታውቀው ዛፍ አትብላ፤ ከእርሱ በበላህ ቀን ሞትን ትሞታለህና።
 
 18፤ እግዚአብሔር አምላክም አለ። ሰው ብቻውን ይሆን ዘንድ መልካም አይደለም፤ የሚመቸውን ረዳት እንፍጠርለት።
@@ -360,10 +353,8 @@ I got some of the core info from
 24፤ ስለዚህ ሰው አባቱንና እናቱን ይተዋል፥ በሚስቱም ይጣበቃል፤ ሁለቱም አንድ ሥጋ ይሆናሉ።
 
 25፤ አዳምና ሚስቱ ሁለቱም ዕራቁታቸውን ነበሩ፥ አይተፋፈሩም ነበር።</p>
-    </div>
- 
-
 </div>
+ </div>
 
 
 
