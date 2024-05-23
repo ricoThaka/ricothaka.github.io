@@ -23,10 +23,6 @@ carousels:
 
 <embed width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/895314484&color=%23e2ad5d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
-
-![businesswoman](https://pbs.twimg.com/media/GNo_vF_aQAMlQzy?format=png&name=large)
-
-
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -41,6 +37,11 @@ carousels:
   </div>
   </div>
 </div>
+
+![businesswoman](https://pbs.twimg.com/media/GNo_vF_aQAMlQzy?format=png&name=large)
+
+
+
 
 <div class='twoPanelSpread'>
   <div class='row'>
