@@ -27,6 +27,20 @@ carousels:
 ![businesswoman](https://pbs.twimg.com/media/GNo_vF_aQAMlQzy?format=png&name=large)
 
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://pbs.twimg.com/media/GILGPz_a8AEmMph?format=jpg&name=medium" alt="BUBBLEGUM_POP">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://pbs.twimg.com/media/GILbCjibwAAudKE?format=jpg&name=medium" alt="Girlinajacket">
+  </div>
+  </div>
+  </div>
+</div>
 
 <div class='twoPanelSpread'>
   <div class='row'>
