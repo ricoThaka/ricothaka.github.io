@@ -14,6 +14,96 @@ carousels:
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg 
 ---
+{% highlight ruby %} 
+1 # HOLE_TO_ANOTHER_UNiVERSE####################Normani?## 
+2 # TO#######################################Erika?####### 
+3 # ANOTHER##########https://s.id/1kmbG################### 
+4 # UNiVERSE####################################CORaL##### 
+{% endhighlight %}
+
+
+
+![businesswoman](https://pbs.twimg.com/media/GNo_vF_aQAMlQzy?format=png&name=large)
+
+![iloveyou](https://pbs.twimg.com/media/GILGPz_a8AEmMph?format=jpg&name=medium)
+
+![Pronified](https://pbs.twimg.com/media/GILbCjibwAAudKE?format=jpg&name=medium)
+
+![Normani](https://pbs.twimg.com/media/GCd2EtYbQAAEJYL?format=png&name=small)
+
+# Mayor Karen? 
+![Dear_Karen](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_576x159_/public/2022-12/52538848189_f852a5947e_o.jpg.webp?itok=W0Cj0BNL)
+## can you flip through these images when you get a chance its some important documents like the LA County excerpt on what the [Mayor](#Mayor)'s Jobrole is and her Hiring and Firing abilities. The CoronaVirus Patent from Emeryville's Chiron Corp is also there. Thats where i married Erika, Alameda County and i did not know she had a past in Prositituibn. Baptism washes away all the sins... I never thought id be a victim! [LaReina](https://archive.org/details/lareinalosangele00hill) is a book of Losangles history, but it starts in 1929 it was written by a financial institution and it omits the presence of Agriculture, like the Citrus groves of beverlyhills! The Egyptian, that theater in hollywood, there is a shop across the street [Abyssinia Gifts from Africa](https://hollywoodpartnership.com/go/abyssinia-gifts-from-africa) that has a ton of architechtual clues to the takeover. Longs Peir was destroyed and others along the coast and history is constantly blotted out after sex parties! I put the Kingdom Hall in Avondale Estates up bc i knew a lot of women from there and Erika as well and I have to be prepared bc The Quran is their native book and after Sex trafficking folds i can expect 3-5 brides at once and i dont know what to do bc im being tortured for just knowing them and we are constantly growing in similar dierctions and need freedom to talk without being poisoned and stalked
+
+
+<div class="pinupImage expandingGallery">
+  <img src="https://pbs.twimg.com/media/GGk_-sAbEAAzy6b?format=png&name=900x900" />
+   <img src="https://pbs.twimg.com/media/GMM6F-tacAAqY9X?format=png&name=small" />
+<img src="https://pbs.twimg.com/media/GGk_9YfbcAAfHg_?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GGk_-sAbEAAzy6b?format=png&name=900x900" />
+<img src="https://pbs.twimg.com/media/GGlAAJXacAAKuq7?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GMdIeSdbMAAM5BD?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GMm_T0tb0AAiu4e?format=jpg&name=medium" />
+
+<img src="https://pbs.twimg.com/media/GAdZ964bEAAee2r?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GMrtkciasAAE5v3?format=png&name=360x360" />
+<img src="https://pbs.twimg.com/media/GMhRocYaYAA4A_G?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GOD1fqAa4AAAF-C?format=jpg&name=large" />
+</div>
+
+<hr>
+
+![MagicCity](https://pbs.twimg.com/media/GGf-hqtbYAAn2Nv?format=jpg&name=large)
+<a href="https://upload.wikimedia.org/wikipedia/en/9/9a/Yoshi%27s_Island_%28Super_Mario_World_2%29_box_art.jpg"> <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Yoshi%27s_Island_%28Super_Mario_World_2%29_box_art.jpg" style="width:378px;height:263px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
+
+Super Mario World 2: Yoshi's Island[a] is a 1995 platform game developed and published by Nintendo for the Super Nintendo Entertainment System (SNES). It is the sequel follow-up to Super Mario World. The player controls Yoshi, a friendly dinosaur, on a quest to reunite baby Mario with his brother Luigi, who has been kidnapped by Kamek. As a Super Mario series platformer, Yoshi runs and jumps to reach the end of the level while solving puzzles and collecting items with Mario's help. The game has a hand-drawn aesthetic and was the first in the franchise to have Yoshi as its main character, where it introduces his signature flutter jump and egg spawning abilities
+After four years of development, Yoshi's Island was released in Japan in August 1995 and worldwide two months later....[ReadMore](https://en.wikipedia.org/wiki/Yoshi%27s_Island) src=https://en.wikipedia.org/wiki/Yoshi%27s_Island [SuperMarioWiki](https://www.mariowiki.com/Super_Mario_World_2:_Yoshi%27s_Island) [YoshiWiki](https://yoshi.fandom.com/wiki/Super_Mario_World_2:_Yoshi%27s_Island) [Play](https://www.smbgames.be/mario-world-2-yoshis-island.php) [Play](https://www.retrogames.onl/2017/03/super-mario-world-2-snes.html)
+
+![monaleo](https://pbs.twimg.com/media/F0_hr_2WYAAHaO-?format=jpg&name=medium) 
+
+NBA Jam
+![monaleo](https://pbs.twimg.com/media/GMrVIeSasAARkGO?format=jpg&name=large)
+[play](https://www.retrogames.cc/arcade-games/nba-jam-rev-3-01-4-07-93.html) NBA Jam is a basketball video game developed and published by Midway for arcades in 1993. 
+
+{% highlight ruby %} 
+1 # ///////////////////////////////////////////////////
+2 # HOLE_TO_ANOTHER_UNiVERSE########################### 
+3 # ANOTHER##########https://s.id/1kmbG################### 
+4 # UNiVERSE####################################CORaL##### 
+{% endhighlight %}
+
+
+ <div class="pinupImage pinupgallery expandingGallery">
+<img src="https://pbs.twimg.com/media/GDrT9UDbYAA5ue9?format=jpg&name=large" />
+   <img src="https://pbs.twimg.com/media/GDrSn71bsAA7NSt?format=jpg&name=large" />
+   </div>
+ <div class="pinupImage pinupgallery expandingGallery">
+
+ <img src="https://pbs.twimg.com/media/GMmVaMkboAAugJ4?format=jpg&name=medium" />
+  <img src="https://pbs.twimg.com/media/GMmVcjxawAAvDJP?format=jpg&name=small" />
+
+</div>
+
+![KlaX](https://pbs.twimg.com/media/GMnZkFcaEAAjORw?format=jpg&name=large)
+
+# Perfect BLue
+## Anime 
+![PerfectBlue](https://pbs.twimg.com/media/GMHMHoobEAAJ34v?format=jpg&name=large)
+[PerfectBlue](https://archive.org/details/perfect-blue-jolli)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/elonmusk?ref_src=twsrc%5Etfw">@elonmusk</a> u played <a href="https://twitter.com/hashtag/YoshiIsland2?src=hash&amp;ref_src=twsrc%5Etfw">#YoshiIsland2</a>? its the <a href="https://twitter.com/hashtag/Followup?src=hash&amp;ref_src=twsrc%5Etfw">#Followup</a> to <a href="https://twitter.com/hashtag/SuperMarioWorld?src=hash&amp;ref_src=twsrc%5Etfw">#SuperMarioWorld</a> <a href="https://twitter.com/hashtag/SNES?src=hash&amp;ref_src=twsrc%5Etfw">#SNES</a> <a href="https://twitter.com/NintendoAmerica?ref_src=twsrc%5Etfw">@NintendoAmerica</a> <a href="https://twitter.com/hashtag/devopsbreak?src=hash&amp;ref_src=twsrc%5Etfw">#devopsbreak</a> ~ <a href="https://twitter.com/hashtag/iusedthewordkillmeimready?src=hash&amp;ref_src=twsrc%5Etfw">#iusedthewordkillmeimready</a>... <a href="https://twitter.com/hashtag/devops?src=hash&amp;ref_src=twsrc%5Etfw">#devops</a> <a href="https://twitter.com/hashtag/dev?src=hash&amp;ref_src=twsrc%5Etfw">#dev</a> <a href="https://twitter.com/hashtag/ops?src=hash&amp;ref_src=twsrc%5Etfw">#ops</a> <a href="https://t.co/q96YcdXLvX">https://t.co/q96YcdXLvX</a>, erika was always mean so <a href="https://twitter.com/girlsinrap?ref_src=twsrc%5Etfw">@girlsinrap</a> made a <a href="https://twitter.com/hashtag/relaysystem?src=hash&amp;ref_src=twsrc%5Etfw">#relaysystem</a> <a href="https://twitter.com/hashtag/ladiesroom?src=hash&amp;ref_src=twsrc%5Etfw">#ladiesroom</a> to keep me workin an healthy <a href="https://t.co/o7vVZagVDM">pic.twitter.com/o7vVZagVDM</a></p>&mdash; BubbleGumPop626 (@BubbleGumPop626) <a href="https://twitter.com/BubbleGumPop626/status/1748095078193934781?ref_src=twsrc%5Etfw">January 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+# Toxic DRM
+![No_Flashback]
+(https://pbs.twimg.com/media/GMCUKVuacAAVcqR?format=jpg&name=small)
+# Los AngeleS!
+![LA](https://pbs.twimg.com/media/GMM6F-tacAAqY9X?format=png&name=small)
+
+
+![MarsNormani](https://pbs.twimg.com/media/GMM-5OdakAAy7aK?format=jpg&name=large)
+
+![HomePark](https://pbs.twimg.com/media/GMbfKQUa8AA5eSa?format=jpg&name=large)
 
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE####################Normani?## 
@@ -21,6 +111,68 @@ carousels:
 3 # ANOTHER##########https://s.id/1kmbG################### 
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
+
+# Tweet
+## CommunicationRights
+@whitehouse
+do we respect #TheCaliforniaConstitution?how do #CascadingPoliticsWork #PoliticalScienceStudent from
+@nasajpl
+SEC. 9.Every citizen may freely speak, write, and publish his sentiments https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf  #freespeech
+@spacex
+@normani
+pasadena https://x.com/RicoThaka/status/1787935693387559357
+![speak](https://pbs.twimg.com/media/GNAGCQCbEAAOVIT?format=jpg&name=large)
+![SS2](https://pbs.twimg.com/media/GNAgmj4bcAErw4G?format=jpg&name=large)
+![RealTimeTweets](https://pbs.twimg.com/media/GNAfVw0bcAAPUcL?format=jpg&name=large)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/hashtag/REALITY%E9%85%8D%E4%BF%A1%E8%80%85%E3%81%A8%E7%B9%8B%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84?src=hash&amp;ref_src=twsrc%5Etfw">#REALITY配信者と繋がりたい</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/DeKalbCountyPD?ref_src=twsrc%5Etfw">@DeKalbCountyPD</a> <a href="https://twitter.com/MagicCity?ref_src=twsrc%5Etfw">@magiccity</a> // <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> <a href="https://twitter.com/LACo_DPSS?ref_src=twsrc%5Etfw">@LACo_DPSS</a> <a href="https://t.co/NTSNXswGW4">https://t.co/NTSNXswGW4</a> <a href="https://twitter.com/hashtag/Where_is_Coral?src=hash&amp;ref_src=twsrc%5Etfw">#Where_is_Coral</a> ? <a href="https://twitter.com/SecuritasTechUS?ref_src=twsrc%5Etfw">@SecuritasTechUS</a> <a href="https://twitter.com/DHSgov?ref_src=twsrc%5Etfw">@DHSgov</a> plz talk to <a href="https://twitter.com/hashtag/Jamie_Mantel?src=hash&amp;ref_src=twsrc%5Etfw">#Jamie_Mantel</a> <a href="https://twitter.com/hashtag/robin_Obrien?src=hash&amp;ref_src=twsrc%5Etfw">#robin_Obrien</a> of <a href="https://twitter.com/MarsCuriosity?ref_src=twsrc%5Etfw">@MarsCuriosity</a> + <a href="https://twitter.com/NASAJuno?ref_src=twsrc%5Etfw">@NASAJuno</a> <a href="https://twitter.com/PasadenaFD?ref_src=twsrc%5Etfw">@PasadenaFD</a> hi <a href="https://twitter.com/hashtag/Jpl_Fire?src=hash&amp;ref_src=twsrc%5Etfw">#Jpl_Fire</a> <a href="https://t.co/DMaO25OERw">pic.twitter.com/DMaO25OERw</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1787538124966613225?ref_src=twsrc%5Etfw">May 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ <div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GGk_9YfbcAAfHg_?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GGk_-sAbEAAzy6b?format=png&name=900x900" />
+<img src="https://pbs.twimg.com/media/GGlAAJXacAAKuq7?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GFr3hVJagAAm7la?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GHi26hTasAAOD99?format=jpg&name=large" />
+<img src="https://i1.sndcdn.com/artworks-000327590304-xr9ecf-t500x500.jpg" />
+<img src="https://pbs.twimg.com/media/F_zwoXjasAA5Vun?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/F_zw9nuaoAAtmI1?format=jpg&name=small" />
+
+
+</div>
+
+![normani](https://pbs.twimg.com/media/GNqPWJtboAAjyNx?format=jpg&name=large)
+
+[SistuHKellayNastay](https://pbs.twimg.com/media/GGKxOvtakAA8YCF?format=jpg&name=360x360)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://pbs.twimg.com/media/GGlEao0aYAESePd?format=png&name=900x900" alt="BUBBLEGUM_POP">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://pbs.twimg.com/media/GGlEao0aYAESePd?format=png&name=900x900" alt="Girlinajacket">
+
+  </div>
+  </div>
+  </div>
+</div>
+
+![css3](https://pbs.twimg.com/media/GN5KdZaa4AAygGS?format=png&name=large)
+
+[![NormaniBottom](
+https://pbs.twimg.com/media/GN5KzxZacAAGGzW?format=jpg&name=large)](https://pbs.twimg.com/media/GN5KzxZacAAGGzW?format=jpg&name=large "Redirect to homepage")
+
+# Cybersecurity Awareness
+## TwitterHacks
+### AccountLocked 
+[AccountLocks](https://pbs.twimg.com/media/GNqEHx7bEAABRBY?format=jpg&name=large)
+[![NightPhysics](
+https://pbs.twimg.com/media/GODUOGlaUAA7Hu7?format=jpg&name=large)](https://pbs.twimg.com/media/GODUOGlaUAA7Hu7?format=jpg&name=large "Redirect to homepage")
+
+  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/goeseastabiconus-daycloudphase-sMay%2021,%202024%20-%2016_06%20UTC-eMay%2021,%202024%20-%2017_41%20UTC.gif?raw=true" alt="Girlinajacket">
 
 # File:Dance in a Subterranean Roundhouse at [Clear_Lake](https://www.clearlake.ca.us/), California.jpg
 [![Sunday-Morning-in-Monterey](
@@ -124,7 +276,7 @@ Born Kassel, Germany 1818-died [San_Francisco](https://www.marincounty.gov/), [C
 <div></div>
 </div>
 
-  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/goeseastabiconus-daycloudphase-sMay%2021,%202024%20-%2016_06%20UTC-eMay%2021,%202024%20-%2017_41%20UTC.gif?raw=true" alt="Girlinajacket">
+![ZFS](https://pbs.twimg.com/media/GNo-pYIbYAEMJrI?format=png&name=large)
 
 <div class="megan">
 <div></div>
@@ -3026,7 +3178,17 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
   </div>
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
-
+![screen](https://pbs.twimg.com/media/GMrFFHrasAMQVDD?format=jpg&name=large)
+![homegirl](https://pbs.twimg.com/media/GMxIIEibwAAzzwf?format=jpg&name=large)
 ![itsRashardAKATHAKA](https://pbs.twimg.com/media/GIL3LJIbMAAe1PV?format=jpg&name=small)
-
-![CAssini](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-24-15-54-32.jpg)
+![Coral](https://pbs.twimg.com/media/GNaGWK1aAAABmui?format=jpg&name=large)
+![CAssini](https://pbs.twimg.com/media/GNaJcn9bMAALrwb?format=jpg&name=large)
+![love](https://pbs.twimg.com/media/GNA3JE6acAAUL15?format=png&name=900x900)
+![Love](https://pbs.twimg.com/media/GNA3Kb3bgAAtoNo?format=jpg&name=large)
+![LOVER](https://pbs.twimg.com/media/GMrFS7RasAQDSXD?format=jpg&name=large)
+![MoonLover](https://pbs.twimg.com/media/GMhzyZRbsAAim0d?format=jpg&name=small)
+![SaveRLover](https://pbs.twimg.com/media/GNVSB_iaEAAXHyP?format=jpg&name=medium)
+![erika](https://pbs.twimg.com/media/GIWFZRVbcAAR3GG?format=jpg&name=large)
+[muna](https://pbs.twimg.com/media/GIMFUlpaEAA-XTZ?format=jpg&name=large)
+![muna](https://pbs.twimg.com/media/GIQCWdWWQAA6RAB?format=jpg&name=large)
+![Muna](https://pbs.twimg.com/media/GIMHuJqaYAAnqmE?format=jpg&name=large)
