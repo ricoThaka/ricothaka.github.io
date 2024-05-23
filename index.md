@@ -27,12 +27,12 @@ carousels:
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <img src="https://pbs.twimg.com/media/GILGPz_a8AEmMph?format=jpg&name=medium" alt="BUBBLEGUM_POP">
+        <img src="https://pbs.twimg.com/media/GILbCjibwAAudKE?format=jpg&name=medium" alt="NormaniKordei">
       </div>
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-        <img src="https://pbs.twimg.com/media/GILbCjibwAAudKE?format=jpg&name=medium" alt="Girlinajacket">
+        <img src="https://pbs.twimg.com/media/GILGPz_a8AEmMph?format=jpg&name=medium" alt="Kardashian">
   </div>
   </div>
   </div>
