@@ -21,13 +21,31 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+<embed width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/895314484&color=%23e2ad5d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
 
 ![businesswoman](https://pbs.twimg.com/media/GNo_vF_aQAMlQzy?format=png&name=large)
 
-![iloveyou](https://pbs.twimg.com/media/GILGPz_a8AEmMph?format=jpg&name=medium)
 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+
+![iloveyou](https://pbs.twimg.com/media/GILGPz_a8AEmMph?format=jpg&name=medium)        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        
 ![Pronified](https://pbs.twimg.com/media/GILbCjibwAAudKE?format=jpg&name=medium)
+  </div>
+  </div>
+  </div>
+</div>
+
+
 
 ![Normani](https://pbs.twimg.com/media/GCd2EtYbQAAEJYL?format=png&name=small)
 
@@ -143,7 +161,7 @@ pasadena https://x.com/RicoThaka/status/1787935693387559357
 
 ![normani](https://pbs.twimg.com/media/GNqPWJtboAAjyNx?format=jpg&name=large)
 
-[SistuHKellayNastay](https://pbs.twimg.com/media/GGKxOvtakAA8YCF?format=jpg&name=360x360)
+![SistuHKellayNastay](https://pbs.twimg.com/media/GGKxOvtakAA8YCF?format=jpg&name=360x360)
 
 <div class='twoPanelSpread'>
   <div class='row'>
