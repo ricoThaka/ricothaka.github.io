@@ -21,7 +21,238 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-<embed width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/895314484&color=%23e2ad5d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+![NintendoPower](https://pbs.twimg.com/media/GOTYvV9bQAA94lC?format=jpg&name=large)
+[NinTendoPower](https://archive.org/details/NintendoPower1988-2004/Nintendo%20Power%20Issue%20065%20%28October%201994%29/page/n7/mode/2up) 
+
+<a href="https://pbs.twimg.com/media/GOTRtT7bYAA27oV?format=jpg&name=large"> <img src="https://pbs.twimg.com/media/GOTRtT7bYAA27oV?format=jpg&name=large" style="width:300px;height:400px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> </a>
+
+# Hi Chloe
+
+I wrote you a [letter](https://thakasartu.github.io/chloe/) a bout a year ago about the fact that alot of folks done got hurt in California! I claimed you as my wife bc I was told to call ppl i know my wife by Muna in some distorted Kidnap Message. NBAYOUNGBOY girl got kidnapped too! Do you read 2600_Magazine? Likely not its kinda hard to come across,  began reading whenI was at Savannah Tech at the Old Mall Barnes an Noble there was a lot of high powered computer science students at the local military base. Now that Im in Los Angeles with you! Did you know that Nasa is our local military? #Smartcities. If you mad i called you my wife just cross out my graffiti next time i tag on a Hollywood curb. Here are some impotant tweets that can affect you, Coral is still missing an @Normani is Manessa from FamilyServices like yall got intersecting lives professionally in my personal life and vice versa. Im super clean shawtay!
+
+## Important Tweets for 
+innocent [dance411](https://www.yelp.com/biz/dance-411-atlanta?start=60) people
+```
+https://x.com/RicoThaka/status/1779242374008627646
+https://x.com/MooNLOVER404/status/1787931912746729476
+https://x.com/BubbleGumPop510/status/1723475724487794917
+https://x.com/BubbleGumPop510/status/1724607518507463110
+https://x.com/MooNLOVER404/status/1787540718044815693
+https://x.com/RicoThaka/status/1787543806445068779
+https://x.com/BubbleGumPop510/status/1786842953903992879
+https://x.com/BubbleGumPop510/status/1786114448224317834
+https://x.com/BubbleGumPop626/status/1785767427898495199
+https://x.com/BubbleGumPop510/status/1737673741470212416
+https://x.com/RicoThaka/status/1784290786898805232
+```
+
+![NintendoPower](https://pbs.twimg.com/media/GOTYvV9bQAA94lC?format=jpg&name=large)
+[NinTendoPower](https://archive.org/details/NintendoPower1988-2004/Nintendo%20Power%20Issue%20065%20%28October%201994%29/page/n7/mode/2up) 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://pbs.twimg.com/media/GOTaROZagAAGr4i?format=jpg&name=large"><img src="https://pbs.twimg.com/media/GOTaROZagAAGr4i?format=jpg&name=large" alt=""> </a>
+</div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://pbs.twimg.com/media/GOTbLJXasAACnNn?format=jpg&name=large"><img src="https://pbs.twimg.com/media/GOTbLJXasAACnNn?format=jpg&name=large" alt=""> </a>
+  </div>
+  </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<!-- Simple video example -->
+<!-- 'Big Buck Bunny' licensed under CC 3.0 by the Blender foundation. Hosted by archive.org -->
+<!-- Poster from peach.blender.org -->
+<video playsinline autoplay loop muted
+  controls
+  src="https://vossenwheels.com/wp-content/uploads/2022/09/Carbon-Series-TEST-956x764-.mov"
+  poster="https://vossenwheels.com/wp-content/uploads/2022/09/Gallery-slider-VossenS21-01_Carbon-Wheel-Detail-04.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://vossenwheels.com/wheel/s21-01-carbon/">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+</div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
+							<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" type="video/mp4" />
+              
+						</video>
+  </div>
+  </div>
+  </div>
+</div>
+
+# [Mars Science Laboratory: Curiosity Raw Images](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl)
+
+<video controls width="100%" height="auto" poster="https://mars.nasa.gov/system/resources/detail_files/27698_e2-PIA26042-Curiosity's-Path-Beyond-Gediz-Vallis-Ridge-still-web.jpg">
+    
+<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+## Normani... I love you
+
+<div class="panel4-container">
+
+  <div class="item1">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
+  </div>
+
+  <div class="item2">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
+  </div>
+
+  <div class="item3">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
+  </div>
+
+  <div class="item4">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
+  </div>
+
+</div>
+
+
+  
+
+
+<div class="panel4-container">
+
+  <div class="item1">
+    <video width="250" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item2">
+    <video width="300" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item3">
+    <video width="300" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item4">
+    <video width="250" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+</div>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" class="background">
+<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-2956x764-1.mov" type="video/mp4" />
+<source src="https://vossenwheels.com/wp-content/uploads/2020/01/HF6-3-956x764-.mp4" type="video/mp4" />
+<source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
+						</video>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
+							<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" type="video/mp4" />
+              <source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
+						</video>
+  </div>
+  </div>
+  </div>
+</div>
+
+  
+# Sartu
+I saw you last night. Its criminal what they do to us ya know. Just know I know yah mean what you mean and I always do what you say...
+[Kidz Bop 37 - Friends](https://www.youtube.com/watch?v=Huwu_gXRV24) 
+[KIDZ BOP Kids - Let Me Love You (Official Lyric Video) [KIDZ BOP 34]](https://www.youtube.com/watch?v=0FPaoznHujA)
+
+<div class="expandingGallery">
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+</div>
+
+## APPLESEED
+<!-- BEGIN_CODE_BLOCK -->
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<div id="rollovercontainer">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+<a href="https://youtu.be/m32kuG5HcBQ" class="rollover">
+            <img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
+            <img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+          </a>
+        </div>
+      </div>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://youtu.be/BzW45zDDQRA" class="rollover">
+<img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+           
+<img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<!-- END_CODE_BLOCK -->
+
+[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
 
 <div class='twoPanelSpread'>
   <div class='row'>
