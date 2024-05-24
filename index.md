@@ -21,6 +21,23 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+## [Life_oF_PosH](https://www.youtube.com/@IAMPOSH)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://pbs.twimg.com/media/DcE3MBTVAAA9Q5F?format=jpg&name=large"><img src="https://pbs.twimg.com/media/DcE3MBTVAAA9Q5F?format=jpg&name=large" alt=""> </a>
+</div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://pbs.twimg.com/media/DcE3MBTVAAA9Q5F?format=jpg&name=large"><img src="https://pbs.twimg.com/media/DcE3MBTVAAA9Q5F?format=jpg&name=large" alt=""> </a>
+  </div>
+  </div>
+  </div>
+</div>
+
 <video playsinline  loop 
   controls
   src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4"
@@ -97,7 +114,6 @@ https://x.com/RicoThaka/status/1784290786898805232
 <!-- 'Big Buck Bunny' licensed under CC 3.0 by the Blender foundation. Hosted by archive.org -->
 <!-- Poster from peach.blender.org -->
 <video playsinline autoplay loop muted
-  controls
   src="https://vossenwheels.com/wp-content/uploads/2022/09/Carbon-Series-TEST-956x764-.mov"
   poster="https://vossenwheels.com/wp-content/uploads/2022/09/Gallery-slider-VossenS21-01_Carbon-Wheel-Detail-04.jpg"
   >
