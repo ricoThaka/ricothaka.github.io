@@ -128,7 +128,7 @@ https://x.com/RicoThaka/status/1784290786898805232
 <!-- Simple video example -->
 <!-- 'Big Buck Bunny' licensed under CC 3.0 by the Blender foundation. Hosted by archive.org -->
 <!-- Poster from peach.blender.org -->
-<video playsinline autoplay loop muted
+<video playsinline autoplay loop muted preload="auto"
   src="https://vossenwheels.com/wp-content/uploads/2022/09/Carbon-Series-TEST-956x764-.mov"
   poster="https://vossenwheels.com/wp-content/uploads/2022/09/Gallery-slider-VossenS21-01_Carbon-Wheel-Detail-04.jpg"
   >
@@ -141,7 +141,7 @@ https://x.com/RicoThaka/status/1784290786898805232
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-<video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
+<video playsinline autoplay loop muted preload="auto" poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
 							<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" type="video/mp4" />
               
 						</video>
