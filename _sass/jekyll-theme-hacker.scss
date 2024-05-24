@@ -845,19 +845,17 @@ border: 1px solid #c9ff23;
 
 
 .swatch {
-  display: grid;
-  grid-gap: 1px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
-/*  display: grid;
-  grid-template-columns: repeat(9, 1fr); */
-  flex-wrap: wrap;
-  width: 90vw;
-  height: 4vh;
+
+    /*display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+   
+    opacity: 1;
     max-width: max-content;
-
-}
-
-
+  }
 
 
 .swatch div {
