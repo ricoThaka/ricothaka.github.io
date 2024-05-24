@@ -22,6 +22,21 @@ carousels:
 {% endhighlight %}
 
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://pbs.twimg.com/media/GOYFeICaIAA3Xi4?format=jpg&name=large"><img src="https://pbs.twimg.com/media/GOYFeICaIAA3Xi4?format=jpg&name=large" alt=""> </a>
+</div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://pbs.twimg.com/media/GOYFeICaIAA3Xi4?format=jpg&name=large"><img src="https://pbs.twimg.com/media/GOYFeICaIAA3Xi4?format=jpg&name=large" alt=""> </a>
+  </div>
+  </div>
+  </div>
+</div>
+
 ## [Life_oF_PosH](https://www.youtube.com/@IAMPOSH)
 <div class='twoPanelSpread'>
   <div class='row'>
