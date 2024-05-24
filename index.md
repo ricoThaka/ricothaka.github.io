@@ -21,7 +21,7 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-<video playsinline autoplay loop muted
+<video playsinline  loop 
   controls
   src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4"
   poster="https://pbs.twimg.com/media/GJ3oD4vacAADC3A?format=jpg&name=large"
