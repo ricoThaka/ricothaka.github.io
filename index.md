@@ -21,6 +21,64 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+## APPLESEED
+<!-- BEGIN_CODE_BLOCK -->
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<div id="rollovercontainer">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+<a href="https://youtu.be/m32kuG5HcBQ" class="rollover">
+            <img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
+            <img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+          </a>
+        </div>
+      </div>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://youtu.be/BzW45zDDQRA" class="rollover">
+<img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+           
+<img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<!-- END_CODE_BLOCK -->
+## DRY_BONES_IN_THE_VALLEY
+<!-- BEGIN_CODE_BLOCK -->
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<div id="rollovercontainer">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+          <a href="https://youtu.be/n7hU4bbgwQ8" class="rollover">
+            <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
+            <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg" class="second" />
+          </a>
+        </div>
+      </div>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
+                        <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg" class="second" />
+           
+<img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<!-- END_CODE_BLOCK -->
+
+
 
 ![NintendoPower](https://pbs.twimg.com/media/GOTYvV9bQAA94lC?format=jpg&name=large)
 [NinTendoPower](https://archive.org/details/NintendoPower1988-2004/Nintendo%20Power%20Issue%20065%20%28October%201994%29/page/n7/mode/2up) 
@@ -223,34 +281,9 @@ I saw you last night. Its criminal what they do to us ya know. Just know I know 
   <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
 </div>
 
-## APPLESEED
-<!-- BEGIN_CODE_BLOCK -->
-<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
-<div id="rollovercontainer">
-  <div class='twoPanelSpread'>
-    <div class='row'>
-      <div class='panelColumn'>
-        <div class='leftColumn'>
-<a href="https://youtu.be/m32kuG5HcBQ" class="rollover">
-            <img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
-            <img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
-          </a>
-        </div>
-      </div>
-      <div class='panelColumn'>
-        <div class='rightColumn'>
-          <a href="https://youtu.be/BzW45zDDQRA" class="rollover">
-<img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
-           
-<img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
-<!-- END_CODE_BLOCK -->
+
+
+
 
 [For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
 
