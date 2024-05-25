@@ -21,6 +21,12 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+### 5/25/2024 QuiKLinKS 
+[LeaVerouPatternGallery](https://projects.verou.me/css3patterns/#)
+[inline_block](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+[FlexBoxGenerator](https://angrytools.com/css-flex/)
+
+[ImTheOnlyWoman_MJB](https://www.youtube.com/watch?v=8ANWvYj5hzg)
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
 <video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
