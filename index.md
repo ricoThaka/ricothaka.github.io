@@ -21,6 +21,50 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+# Marvel Super Heroes 1967
+In 1966, Marvel Comics hired animation company Grantray-Laurence to create "The Marvel Superheroes", a series of daily cartoons based on their titles Captain America, Thor, Hulk, Iron Man, and the Sub-Mariner. As it was Marvel's first foray into television animation, the producers stretched out the budget by using existing stories and artwork. Original comic art pages were Xeroxed and used as key frames, with animators adding only mouth and limb animation. Body movement was often accomplished by animating still images across a background. 
+
+Fortunately for comic fans, this cost-cutting move preserved for all time the original artwork of Gene Colon, Don Heck, and Jack "King" Kirby, and the dialog of Stan Lee. It was exactly what readers have always asked TV and movie makers to do: just film the comics. 
+
+<video playsinline  loop 
+  controls
+  src="https://archive.org/download/marvel-super-heroes/Marvel%20Super%20Heroes%2001.Secret%20Origins.mp4"
+  poster="https://bcdbimages.s3.amazonaws.com/other6/marvel_superheroes1.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/marvel-super-heroes">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://archive.org/details/arcade_msh"><img src="https://i.ebayimg.com/images/g/fbAAAOSwDndkFOLy/s-l1200.webp" alt=""> </a>
+</div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://m.media-amazon.com/images/M/MV5BMTVjNTI2NTYtN2NjMS00NmJmLTk4MTQtOWM0Y2QyN2UzZTM3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"><img src="https://m.media-amazon.com/images/M/MV5BMTVjNTI2NTYtN2NjMS00NmJmLTk4MTQtOWM0Y2QyN2UzZTM3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt=""> </a>
+  </div>
+  </div>
+  </div>
+</div>
+<a href="https://archive.org/download/marvel-super-heroes"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" class="crt" /></a>
+
+## [https://archive.org/details/arcade_msh](https://archive.org/details/arcade_msh)
+
+{% highlight css %} 
+.crt {
+  padding: 50px;
+  background: black;
+}
+img.crt {
+  padding: 50px;
+  background: black;
+}
+{% endhighlight %}
+
 ### 5/25/2024 QuiKLinKS 
 [LeaVerouPatternGallery](https://projects.verou.me/css3patterns/#)
 [inline_block](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
