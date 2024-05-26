@@ -21,6 +21,9 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+<div class="section_hr">
+  ./HoleToAnotherUniverse/Archive.org
+</div>
 # Marvel Super Heroes 1967
 In 1966, Marvel Comics hired animation company Grantray-Laurence to create "The Marvel Superheroes", a series of daily cartoons based on their titles Captain America, Thor, Hulk, Iron Man, and the Sub-Mariner. As it was Marvel's first foray into television animation, the producers stretched out the budget by using existing stories and artwork. Original comic art pages were Xeroxed and used as key frames, with animators adding only mouth and limb animation. Body movement was often accomplished by animating still images across a background. 
 
@@ -51,6 +54,15 @@ Fortunately for comic fans, this cost-cutting move preserved for all time the or
   </div>
 </div>
 <a href="https://archive.org/download/marvel-super-heroes"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" class="crt" /></a>
+
+<video playsinline autoplay loop muted preload="auto"
+  src="https://va.media.tumblr.com/tumblr_rx2bdqR9Or1zhx4f1.mp4"
+  poster="https://64.media.tumblr.com/96cfc8022383a52f2e4577be212af360/41b33d0c817917ac-26/s1280x1920/6ed6ea030518a05705c474fd70c5c11e28c43d10.png"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://vossenwheels.com/wheel/s21-01-carbon/">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 ## [https://archive.org/details/arcade_msh](https://archive.org/details/arcade_msh)
 
