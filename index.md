@@ -22,12 +22,15 @@ carousels:
 {% endhighlight %}
 
 
+
+[Thats_when_Ya_Lost_RMX_Souls_of_mischief](https://youtu.be/yp-g_iwGKww?si=OOINwd6rVrMkjviC)
+
 <div class="section_hr">
-  ./HoleToAnotherUniverse/donald.sh
+  ./HoleToAnotherUniverse/tv.sh
 </div> 
 
 ## Graffiti Rock
-Hip-hop based series that was intended as an ongoing series. The show only received one pilot episode. Features [Run-D.M.C.](https://youtu.be/kOBDEhxd_WU?si=DqueIPf6KdWN82Dp), [Shannon](https://youtu.be/_-0sUuGufmw?si=7pIrLqX8UFPdezzH), [The New York City Breakers](https://youtu.be/_-0sUuGufmw?si=7pIrLqX8UFPdezzH), DJ Jimmie Jazz, [Kool Moe Dee](https://youtu.be/am9C2_DZ7s4?si=cxEnbXjIhCPnMHki) and Special K of the Treacherous Three... [imdb](https://www.imdb.com/title/tt0422342/plotsummary/?ref_=tt_ov_pl) [GraffitiRock](https://en.wikipedia.org/wiki/Graffiti_Rock)
+Hip-hop based series that was intended as an ongoing series. The show only received one pilot episode. Features [Run-D.M.C.](https://youtu.be/kOBDEhxd_WU?si=DqueIPf6KdWN82Dp), [Shannon](https://youtu.be/_-0sUuGufmw?si=7pIrLqX8UFPdezzH), [The New York City Breakers](https://youtu.be/Y36aBTuRr1o?si=VPGzXTVlBg54343b), DJ Jimmie Jazz, [Kool Moe Dee](https://youtu.be/am9C2_DZ7s4?si=cxEnbXjIhCPnMHki) and Special K of the Treacherous Three... [imdb](https://www.imdb.com/title/tt0422342/plotsummary/?ref_=tt_ov_pl) [GraffitiRock](https://en.wikipedia.org/wiki/Graffiti_Rock)
 [fab5freddy_graffiti_rock_interview](Michael Holman and Fab Five Freddy discuss Graffiti Rock and Wild Style screenings)
 
 <video playsinline  loop 
