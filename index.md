@@ -21,6 +21,32 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+<div class="section_hr">
+  ./HoleToAnotherUniverse/donald.sh
+</div> 
+
+## The Vanishing Private
+The war continues in the 1942 [Disney_Shorts](https://www.disneyplus.com/editorial/shorts) with one of my absolute favorites – The Vanishing Private. Donald Duck, who normally plays the role of frustrated working man, gets an upgrade to be the antagonist of this short, playing off of Pete. And he does it all while enlisted in the Army, as we saw in Donald Gets Drafted. - [ReadMorE](http://www.disneyfilmproject.com/2010/09/vanishing-private.html) - [disneyfilmproject](http://www.disneyfilmproject.com/)
+
+<video playsinline  loop 
+  controls
+  src="https://archive.org/download/duck00001/09.The.Vanishing.Private.1942.DVDRip.XViD-MRC.mp4"
+  poster="https://m.media-amazon.com/images/M/MV5BYjRkNGZiNzItNzE1Zi00MDg2LTg2OTMtNDkwMzc5Mzc4OTI4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/duck00001">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+[Donald Fauntleroy Duck] is an American cartoon character from The Walt Disney Company. Donald is a white anthropomorphic duck with a yellow-orange bill, legs, and feet. He usually wears a sailor shirt, cap, and a red bow tie, but no trousers. Donald’s most famous personality trait is his easily provoked and explosive temper. Donald Duck has been officially honored as the third most popular cartoon character of all time with Bugs Bunny of Warner Bros. Looney Tunes/Merrie Melodies at number two and fellow Disney creation Mickey Mouse who is number one.
+
+[Evolution_oF_a_DucK](https://www.waltdisney.org/blog/evolution-duck)
+
+``` https://walkoffame.com/donald-duck/ ```
+
+[98_DonaldDuck_Ep](https://archive.org/details/duck00001)
+
 <div class="section_hr">
   ./HoleToAnotherUniverse/Archive.org
 </div>
@@ -2218,6 +2244,26 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" alt="CuriosityOnMArs">
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg" alt="martianLandscape">
 
+
+
+![screen](https://pbs.twimg.com/media/GMrFFHrasAMQVDD?format=jpg&name=large)
+![homegirl](https://pbs.twimg.com/media/GMxIIEibwAAzzwf?format=jpg&name=large)
+![itsRashardAKATHAKA](https://pbs.twimg.com/media/GIL3LJIbMAAe1PV?format=jpg&name=small)
+![Coral](https://pbs.twimg.com/media/GNaGWK1aAAABmui?format=jpg&name=large)
+![CAssini](https://pbs.twimg.com/media/GNaJcn9bMAALrwb?format=jpg&name=large)
+![love](https://pbs.twimg.com/media/GNA3JE6acAAUL15?format=png&name=900x900)
+![Love](https://pbs.twimg.com/media/GNA3Kb3bgAAtoNo?format=jpg&name=large)
+![LOVER](https://pbs.twimg.com/media/GMrFS7RasAQDSXD?format=jpg&name=large)
+![MoonLover](https://pbs.twimg.com/media/GMhzyZRbsAAim0d?format=jpg&name=small)
+![SaveRLover](https://pbs.twimg.com/media/GNVSB_iaEAAXHyP?format=jpg&name=medium)
+![erika](https://pbs.twimg.com/media/GIWFZRVbcAAR3GG?format=jpg&name=large)
+![muna](https://pbs.twimg.com/media/GIMFUlpaEAA-XTZ?format=jpg&name=large)
+![muna](https://pbs.twimg.com/media/GIQCWdWWQAA6RAB?format=jpg&name=large)
+![Muna](https://pbs.twimg.com/media/GIMHuJqaYAAnqmE?format=jpg&name=large)
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+
+<hr />
+
 <div class="swatch">
     <div></div>
     <div></div>
@@ -3552,19 +3598,3 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
     <div></div>
   
   </div>
-
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
-![screen](https://pbs.twimg.com/media/GMrFFHrasAMQVDD?format=jpg&name=large)
-![homegirl](https://pbs.twimg.com/media/GMxIIEibwAAzzwf?format=jpg&name=large)
-![itsRashardAKATHAKA](https://pbs.twimg.com/media/GIL3LJIbMAAe1PV?format=jpg&name=small)
-![Coral](https://pbs.twimg.com/media/GNaGWK1aAAABmui?format=jpg&name=large)
-![CAssini](https://pbs.twimg.com/media/GNaJcn9bMAALrwb?format=jpg&name=large)
-![love](https://pbs.twimg.com/media/GNA3JE6acAAUL15?format=png&name=900x900)
-![Love](https://pbs.twimg.com/media/GNA3Kb3bgAAtoNo?format=jpg&name=large)
-![LOVER](https://pbs.twimg.com/media/GMrFS7RasAQDSXD?format=jpg&name=large)
-![MoonLover](https://pbs.twimg.com/media/GMhzyZRbsAAim0d?format=jpg&name=small)
-![SaveRLover](https://pbs.twimg.com/media/GNVSB_iaEAAXHyP?format=jpg&name=medium)
-![erika](https://pbs.twimg.com/media/GIWFZRVbcAAR3GG?format=jpg&name=large)
-[muna](https://pbs.twimg.com/media/GIMFUlpaEAA-XTZ?format=jpg&name=large)
-![muna](https://pbs.twimg.com/media/GIQCWdWWQAA6RAB?format=jpg&name=large)
-![Muna](https://pbs.twimg.com/media/GIMHuJqaYAAnqmE?format=jpg&name=large)
