@@ -28,7 +28,7 @@ i wonder y she she sing so strong... its amazing #texTStrings
 
 
 [![NormaniRaiden](
-https://pbs.twimg.com/media/GOs0s4wakAAVFfh?format=jpg&name=large)](https://pbs.twimg.com/media/GOs0s4wakAAVFfh?format=jpg&name=large "Redirect to homepage")
+https://pbs.twimg.com/media/GOs0s4wakAAVFfh?format=jpg&name=large)](https://www.retrogames.cc/arcade-games/mortal-kombat-ii-rev-l3-1.html "Redirect to homepage")
    <div class="vert-container">
 
    <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/android528/mk2/sartugreen.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/android528/mk2/sartugreen.jpg" /></a></div>
@@ -37,7 +37,7 @@ https://pbs.twimg.com/media/GOs0s4wakAAVFfh?format=jpg&name=large)](https://pbs.
            <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/mk2/tumblr_422574a2a84fdc1f84143fbb4fb4e451_f9d1ed33_1280.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/mk2/tumblr_422574a2a84fdc1f84143fbb4fb4e451_f9d1ed33_1280.png?raw=true" /></a>
         </a></div>
            <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/mk2/tumblr_b7ec0181314aca1ff2262730a0d3085a_587e241e_1280.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/mk2/tumblr_b7ec0181314aca1ff2262730a0d3085a_587e241e_1280.png?raw=true" /></a>
-        </a></div>
+        </div>
 
    </div>
   <div class="border"> </div>

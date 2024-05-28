@@ -686,6 +686,40 @@ embed {
 
 
 
+/* screenshots portriats works well for up to 5 on standard monitors*/
+.border {
+  border-bottom:1px solid #c9ff23;
+  display:block;
+}
+.vert-container {
+
+  display: flex;
+   align-items: stretch; 
+   flex-flow: row nowrap;  
+  flex-direction: row; 
+  flex-wrap: nowrap; 
+  justify-content: center;
+  align-content: stretch;
+  padding: 15px;
+  gap: 5px;
+
+}
+
+.vert-container > div{
+
+  border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 8px;
+}
+
+.vert-container > img {
+object-fit: contain;
+max-width: 100%;
+border: 1px solid #c9ff23;
+  border-radius:0px
+
+}
+
 /* FLEX_BOX_FOR_3_IMAGES */
 .flex-container {
   align-items: stretch;
