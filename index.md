@@ -30,11 +30,11 @@ i wonder y she she sing so strong... its amazing #texTStrings
 
 <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/android528/mk2/sartugreen.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/android528/mk2/sartugreen.jpg" /></a></div>
          <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/tumblr_ffad01a5efeab38bd059ca55252599d8_b4ac91b9_1280.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/tumblr_ffad01a5efeab38bd059ca55252599d8_b4ac91b9_1280.png?raw=true" /></a>
-      </a></div>
+      </div>
            <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/twitterlocks.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/twitterlocks.png?raw=true" /></a>
-        </a></div>
+        </div>
            <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/twitterlock.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/twitterlock.png?raw=true" /></a>
- </a></div>
+</div>
 
 </div>
 
