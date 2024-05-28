@@ -26,6 +26,24 @@ carousels:
   ./HoleToAnotherUniverse/donald.sh
 </div> 
 
+## Graffiti Rock
+Hip-hop based series that was intended as an ongoing series. The show only received one pilot episode. Features [Run-D.M.C.](https://youtu.be/kOBDEhxd_WU?si=DqueIPf6KdWN82Dp), [Shannon](https://youtu.be/_-0sUuGufmw?si=7pIrLqX8UFPdezzH), [The New York City Breakers](https://youtu.be/_-0sUuGufmw?si=7pIrLqX8UFPdezzH), DJ Jimmie Jazz, [Kool Moe Dee](https://youtu.be/am9C2_DZ7s4?si=cxEnbXjIhCPnMHki) and Special K of the Treacherous Three... [imdb](https://www.imdb.com/title/tt0422342/plotsummary/?ref_=tt_ov_pl) [GraffitiRock](https://en.wikipedia.org/wiki/Graffiti_Rock)
+[fab5freddy_graffiti_rock_interview](Michael Holman and Fab Five Freddy discuss Graffiti Rock and Wild Style screenings)
+
+<video playsinline  loop 
+  controls
+  src="https://archive.org/download/graffiti.-rock.-1984.-dvdrip.x-264-handjob/Graffiti.Rock.1984.DVDRip.x264-HANDJOB.mp4"
+  poster="https://m.media-amazon.com/images/M/MV5BMTcxOTAzYmUtN2VmZi00NDdhLWJlMDQtYmY3OGZjMmI0NGI1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/graffiti.-rock.-1984.-dvdrip.x-264-handjob">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+<div class="section_hr">
+  ./HoleToAnotherUniverse/donald.sh
+</div> 
+
 ## The Vanishing Private
 The war continues in the 1942 [Disney_Shorts](https://www.disneyplus.com/editorial/shorts) with one of my absolute favorites – The Vanishing Private. Donald Duck, who normally plays the role of frustrated working man, gets an upgrade to be the antagonist of this short, playing off of Pete. And he does it all while enlisted in the Army, as we saw in Donald Gets Drafted. - [ReadMorE](http://www.disneyfilmproject.com/2010/09/vanishing-private.html) - [disneyfilmproject](http://www.disneyfilmproject.com/)
 
@@ -39,7 +57,7 @@ The war continues in the 1942 [Disney_Shorts](https://www.disneyplus.com/editori
   and watch it with your favorite video player!
 </video>
 
-[Donald Fauntleroy Duck] is an American cartoon character from The Walt Disney Company. Donald is a white anthropomorphic duck with a yellow-orange bill, legs, and feet. He usually wears a sailor shirt, cap, and a red bow tie, but no trousers. Donald’s most famous personality trait is his easily provoked and explosive temper. Donald Duck has been officially honored as the third most popular cartoon character of all time with Bugs Bunny of Warner Bros. Looney Tunes/Merrie Melodies at number two and fellow Disney creation Mickey Mouse who is number one.
+[Donald_Fauntleroy_Duck](https://americanhistory.si.edu/explore/stories/donald-duck-american-diplomat) is an American cartoon character from The Walt Disney Company. Donald is a white anthropomorphic duck with a yellow-orange bill, legs, and feet. He usually wears a sailor shirt, cap, and a red bow tie, but no trousers. Donald’s most famous personality trait is his easily provoked and explosive temper. Donald Duck has been officially honored as the third most popular cartoon character of all time with Bugs Bunny of Warner Bros. Looney Tunes/Merrie Melodies at number two and fellow Disney creation Mickey Mouse who is number one.
 
 [Evolution_oF_a_DucK](https://www.waltdisney.org/blog/evolution-duck)
 
