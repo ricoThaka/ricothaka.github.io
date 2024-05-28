@@ -21,8 +21,14 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+[Im_ThE_OnLY1_mjb](https://youtu.be/8ANWvYj5hzg)
+i wonder y she she sing so strong... its amazing #texTStrings 
 
 <div class="border"> </div>
+
+
+[![NormaniRaiden](
+https://pbs.twimg.com/media/GOs0s4wakAAVFfh?format=jpg&name=large)](https://pbs.twimg.com/media/GOs0s4wakAAVFfh?format=jpg&name=large "Redirect to homepage")
    <div class="vert-container">
 
    <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/android528/mk2/sartugreen.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/android528/mk2/sartugreen.jpg" /></a></div>
