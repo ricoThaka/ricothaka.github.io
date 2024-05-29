@@ -35,7 +35,9 @@ carousels:
 
 ---
 
-{% include carousel.html height="100" unit="%" duration="4" number="1" %}
+{% include carousel.html height="300" unit="px" duration="4" number="1" %}
+{% include carousel.html height="400" unit="px" duration="4" number="2" %}
+{% include carousel.html height="400" unit="px" duration="4" number="3" %}
 
 ---
 
@@ -3691,4 +3693,4 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
     <div></div>
   
   </div>
-{% include carousel.html height="100" unit="%" duration="4" number="3" %}
+{% include carousel.html height="400" unit="px" duration="4" number="3" %}
