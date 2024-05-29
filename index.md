@@ -14,7 +14,16 @@ carousels:
     - image: /uploads/androiddemo/image8.png 
     - image: /uploads/androiddemo/image9.png
     - image: /uploads/androiddemo/rayman.png
-
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg
+  - images: 
+    - image: /uploads/slider/image5.jpg
+    - image: /uploads/slider/image6.jpg
+    - image: /uploads/slider/image7.jpg
+    - image: /uploads/slider/image8.jpg
 ---
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE####################Normani?## 
@@ -26,13 +35,22 @@ carousels:
 
 ---
 
-{% include carousel.html height="400" unit="px" duration="4" number="1" %}
+{% include carousel.html height="100" unit="%" duration="4" number="1" %}
 
 ---
 
+  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+--- 
+  {% include carousel.html height="100" unit="%" duration="7" number="2" %}
 
 ### <(‘’<) <( ‘ ‘ )> (> ‘’)>
 
+![Your_Child](https://i.discogs.com/nnKJ-pRunE3VWHlGkI72uEOFeQMzTbHIHeriSlhbMU8/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI3/NTItMTQzMjc0Njk4/My02MTExLmpwZWc.jpeg)
+
+[discogs](https://www.discogs.com/release/1642752-Mary-J-Blige-Your-Child) [Mary J Blige* – Your Child](https://www.youtube.com/watch?v=k0XzO2jCOHI)
+
+
+Your Child]
 [Ghostface Killah - Here I Go Again (feat. AZ & Rell) [Official Lyric Video]](https://youtu.be/ExXt21DDDY8?si=o68m_MSbH4jZLpZz) [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?si=8V7L0ICEWzp26qcb)
 
 <div class="vert-container">
