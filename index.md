@@ -20,10 +20,10 @@ carousels:
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg
   - images: 
-    - image: /uploads/slider/image5.jpg
-    - image: /uploads/slider/image6.jpg
-    - image: /uploads/slider/image7.jpg
-    - image: /uploads/slider/image8.jpg
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg
 ---
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE####################Normani?## 
@@ -33,6 +33,26 @@ carousels:
 {% endhighlight %}
 
 
+<div class="section_hr">
+ [./HoleToAnotherUniverse/a_beat_for_glo.sh](https://youtu.be/m7HcYPX_OUc?si=mCm_IF63PvxfSlpA) 
+[Elle_GagaZinE:GLoRiLLA](https://www.elle.com/culture/music/a44190985/glorilla-interview-2023/)
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://hips.hearstapps.com/hmg-prod/images/elm080123fobcover-glorilla-digital-64b0537e94e9a.jpg?resize=768:*"><img src="https://hips.hearstapps.com/hmg-prod/images/elm080123fobcover-glorilla-digital-64b0537e94e9a.jpg?resize=768:*" alt="BUBBLEGUM_POP"> </a>
+</div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://hips.hearstapps.com/hmg-prod/images/glorilla-q557-tha-elle-fj8a0065-fnl-64a6e8955c392.jpg?resize=980:*"><img src="https://hips.hearstapps.com/hmg-prod/images/glorilla-q557-tha-elle-fj8a0065-fnl-64a6e8955c392.jpg?resize=980:*" alt="BUBBLEGUM_POP"> </a>
+  </div>
+  </div>
+  </div>
+</div>
+
+[Beats_4_GLO1](https://youtu.be/m7HcYPX_OUc?si=mCm_IF63PvxfSlpA)
 ---
 
 {% include carousel.html height="300" unit="px" duration="4" number="1" %}
