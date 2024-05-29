@@ -32,9 +32,9 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-{% include carousel.html height="50" unit="%" duration="4" number="1" %}
+{% include carousel.html height="400" unit="px" duration="4" number="1" %}
 {% include carousel.html height="50" unit="%" duration="2" number="2" %}
-{% include carousel.html height="300" unit="px" duration="1" number="3" %}
+{% include carousel.html height="99" unit="vh" duration="1" number="3" %}
 
 <(‘’<) <( ‘ ‘ )> (> ‘’)>
 
