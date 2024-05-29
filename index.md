@@ -36,8 +36,7 @@ carousels:
 ---
 
 {% include carousel.html height="300" unit="px" duration="4" number="1" %}
-{% include carousel.html height="400" unit="px" duration="4" number="2" %}
-{% include carousel.html height="400" unit="px" duration="4" number="3" %}
+
 
 ---
 
