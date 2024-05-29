@@ -4,6 +4,17 @@ title: Archive
 mermaid: true
 carousels:
   - images: 
+    - image: /uploads/androiddemo/image1.jpg
+    - image: /uploads/androiddemo/image2.png
+    - image: /uploads/androiddemo/image3.jpg
+    - image: /uploads/androiddemo/image4.jpg 
+    - image: /uploads/androiddemo/image5.jpg
+    - image: /uploads/androiddemo/image6.png
+    - image: /uploads/androiddemo/image7.jpg
+    - image: /uploads/androiddemo/image8.png 
+    - image: /uploads/androiddemo/image9.png
+    - image: /uploads/androiddemo/rayman.png
+  - images: 
     - image: /uploads/slider/image1.jpg
     - image: /uploads/slider/image2.jpg
     - image: /uploads/slider/image3.jpg
@@ -21,6 +32,8 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+  {% include carousel.html height="100" unit="%" duration="4" number="1" %}
+  
 <div class="vert-container">
  <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" /></a>
         </a></div>
@@ -2086,7 +2099,7 @@ print(Normani ride with me ...)
 <div></div>
 <div></div>
 </div>
-  {% include carousel.html height="100" unit="%" duration="1" number="1" %}
+  {% include carousel.html height="100" unit="%" duration="1" number="3" %}
 
   
 <div class="gullies">
