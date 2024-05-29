@@ -32,7 +32,7 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-{% include carousel.html height="100" unit="%" duration="4" number="1" %}
+{% include carousel.html height=40vw unit="%" duration="4" number="1" %}
 
 [Ghostface Killah - Here I Go Again (feat. AZ & Rell) [Official Lyric Video]](https://youtu.be/ExXt21DDDY8?si=o68m_MSbH4jZLpZz)
 
