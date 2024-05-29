@@ -25,16 +25,9 @@ carousels:
     - image: /uploads/androiddemo/tumblr_dea0d4d88d4188754bb9ead09c409b71_a3aec79d_1280.jpg 
     - image: /uploads/androiddemo/image9.png
     - image: /uploads/androiddemo/rayman.png
-    - image: /uploads/androiddemo/image1.jpg
-    - image: /uploads/androiddemo/image2.png
-    - image: /uploads/androiddemo/image3.jpg
     - image: /uploads/androiddemo/image4.jpg 
-    - image: /uploads/androiddemo/image5.jpg
-    - image: /uploads/androiddemo/image6.png
-    - image: /uploads/androiddemo/image7.jpg
-    - image: /uploads/androiddemo/image8.png 
     - image: /uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg
-    - image: /uploads/androiddemo/rayman.png
+
   - images: 
     - image: /uploads/slider/image1.jpg
     - image: /uploads/slider/image2.jpg
@@ -96,20 +89,20 @@ carousels:
 
    <div class="vert-container">
 
-   <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg" /></a>
+   <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg" /></a>
   </div>
 
-   <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_7901ff85b01c020b5c9c084f76c7c127_14871557_1280.png" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_7901ff85b01c020b5c9c084f76c7c127_14871557_1280.png" /></a>
+   <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_7901ff85b01c020b5c9c084f76c7c127_14871557_1280.png" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_7901ff85b01c020b5c9c084f76c7c127_14871557_1280.png" /></a>
   </div>
-   <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_1e307ec0bb310e31228bff7148c22776_c356b7c5_640.jpg" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_1e307ec0bb310e31228bff7148c22776_c356b7c5_640.jpg" /></a>
+   <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_1e307ec0bb310e31228bff7148c22776_c356b7c5_640.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_1e307ec0bb310e31228bff7148c22776_c356b7c5_640.jpg" /></a>
   </div>
-   <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_f325c0f4f1995bcca9145de125d0f0ce_5d59c7e2_640.jpg" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_f325c0f4f1995bcca9145de125d0f0ce_5d59c7e2_640.jpg" /></a>
+   <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_f325c0f4f1995bcca9145de125d0f0ce_5d59c7e2_640.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_f325c0f4f1995bcca9145de125d0f0ce_5d59c7e2_640.jpg" /></a>
   </div>
 
 </div>
 
    <div class="vert-container">
- <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" /></a>
+ <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" /></a>
         </a></div>
   <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/lbpl.jpg?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/lbpl.jpg?raw=true" /></a>
         </a></div>
