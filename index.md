@@ -32,8 +32,8 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-  {% include carousel.html height="100" unit="%" duration="4" number="1" %}
-  
+{% include carousel.html height="100" unit="%" duration="4" number="1" %}
+
 <div class="vert-container">
  <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" /></a>
         </a></div>
