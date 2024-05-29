@@ -33,10 +33,17 @@ carousels:
 {% endhighlight %}
 
 {% include carousel.html height="400" unit="px" duration="4" number="1" %}
-{% include carousel.html height="50" unit="%" duration="2" number="2" %}
+
+---
+
+{% include carousel.html height="500" unit="px" duration="2" number="2" %}
+---
+
 {% include carousel.html height="1000" unit="px" duration="1" number="3" %}
 
-<(‘’<) <( ‘ ‘ )> (> ‘’)>
+---
+
+### <(‘’<) <( ‘ ‘ )> (> ‘’)>
 
 [Ghostface Killah - Here I Go Again (feat. AZ & Rell) [Official Lyric Video]](https://youtu.be/ExXt21DDDY8?si=o68m_MSbH4jZLpZz) [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?si=8V7L0ICEWzp26qcb)
 
