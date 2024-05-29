@@ -15,18 +15,12 @@ carousels:
     - image: /uploads/androiddemo/image8.png 
     - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
     - image: /uploads/androiddemo/tumblr_aba4cd3b21a9d48d365fc9b727d1215c_b8a1a281_1280.jpg
-    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
-    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
     - image: /uploads/androiddemo/tumblr_0483a8a9542d927ee0726efe1268f0cc_58ddf713_1280.jpg
     - image: /uploads/androiddemo/tumblr_feb852c475578ac7dbad8b2222d5a16c_e722dde0_1280.png 
-    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
-    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
-    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
     - image: /uploads/androiddemo/tumblr_dea0d4d88d4188754bb9ead09c409b71_a3aec79d_1280.jpg 
     - image: /uploads/androiddemo/image9.png
     - image: /uploads/androiddemo/rayman.png
     - image: /uploads/androiddemo/image4.jpg 
-    - image: /uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg
 
   - images: 
     - image: /uploads/slider/image1.jpg
@@ -45,11 +39,24 @@ carousels:
 3 # ANOTHER##########https://s.id/1kmbG################### 
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
+
+
+<div class="section_hr">
+  ./HoleToAnotherUniverse/garfield.sh
+</div> 
+<video playsinline autoplay loop muted preload="auto"
+  src="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move/Garfield%20S00M06%20Garfield%20Goes%20Hollywood%20%281987%20360p%20re-dvdrip%29.mp4"
+  poster="https://64.media.tumblr.com/96cfc8022383a52f2e4577be212af360/41b33d0c817917ac-26/s1280x1920/6ed6ea030518a05705c474fd70c5c11e28c43d10.png"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://vossenwheels.com/wheel/s21-01-carbon/">download it</a>
+  and watch it with your favorite video player!
+</video>
 <div class="section_hr">
   ./HoleToAnotherUniverse/astronomy.sh
 </div> 
 
-[![MarsRover](https://photojournal.jpl.nasa.gov/archive/PIA06268.gif)](https://photojournal.jpl.nasa.gov/archive/PIA06268.gif "Redirect to homepage")
+[![MarsRover](https://photojournal.jpl.nasa.gov/archive/PIA06268.gif)](https://photojournal.jpl.nasa.gov/keywords/animation "Redirect to homepage")
 
 [Jupiter_Pics](https://photojournal.jpl.nasa.gov/keywords/animation)
 [Mars James E. Tillman](https://www-k12.atmos.washington.edu/k12/resources/mars_data-information/mars_overview.html)
@@ -85,28 +92,36 @@ carousels:
 
 ---
 
+<div class="section_hr">
+  ./HoleToAnotherUniverse/android.sh
+</div> 
+
+---
+
+{% include carousel.html height="350" unit="px" duration="4" number="1" %}
+
+---
+
  <div class="border"> </div>
 
    <div class="vert-container">
 
-   <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg" /></a>
+  <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/uploads/androiddemo/tumblr_5817b4497ce7b8f070ceec823011272c_22cb1753_640.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/uploads/androiddemo/tumblr_5817b4497ce7b8f070ceec823011272c_22cb1753_640.jpg" /></a>
   </div>
+     
+     
 
-   <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_7901ff85b01c020b5c9c084f76c7c127_14871557_1280.png" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_7901ff85b01c020b5c9c084f76c7c127_14871557_1280.png" /></a>
-  </div>
-   <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_1e307ec0bb310e31228bff7148c22776_c356b7c5_640.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_1e307ec0bb310e31228bff7148c22776_c356b7c5_640.jpg" /></a>
-  </div>
-   <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_f325c0f4f1995bcca9145de125d0f0ce_5d59c7e2_640.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_f325c0f4f1995bcca9145de125d0f0ce_5d59c7e2_640.jpg" /></a>
+        <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/uploads/androiddemo/tumblr_1e307ec0bb310e31228bff7148c22776_c356b7c5_640.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/uploads/androiddemo/tumblr_1e307ec0bb310e31228bff7148c22776_c356b7c5_640.jpg" /></a>
   </div>
 
 </div>
-
-   <div class="vert-container">
- <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" /></a>
-        </a></div>
+<div class="vert-container">
+ <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" /></a>
+        </div>
   <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/lbpl.jpg?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/lbpl.jpg?raw=true" /></a>
-        </a></div>
+        </div>
  </div>
+  <div class="border"> </div>
   <div class="border"> </div>
 
 [DeKAy_FReeAGEnTS FlipTheScript](https://youtu.be/Zg9H7urB3kk)
@@ -262,14 +277,7 @@ Fortunately for comic fans, this cost-cutting move preserved for all time the or
 </div>
 <a href="https://archive.org/download/marvel-super-heroes"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" class="crt" /></a>
 
-<video playsinline autoplay loop muted preload="auto"
-  src="https://va.media.tumblr.com/tumblr_rx2bdqR9Or1zhx4f1.mp4"
-  poster="https://64.media.tumblr.com/96cfc8022383a52f2e4577be212af360/41b33d0c817917ac-26/s1280x1920/6ed6ea030518a05705c474fd70c5c11e28c43d10.png"
-  >
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://vossenwheels.com/wheel/s21-01-carbon/">download it</a>
-  and watch it with your favorite video player!
-</video>
+
 
 ## [https://archive.org/details/arcade_msh](https://archive.org/details/arcade_msh)
 
