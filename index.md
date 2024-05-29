@@ -47,7 +47,8 @@ carousels:
 
 ![Your_Child](https://i.discogs.com/nnKJ-pRunE3VWHlGkI72uEOFeQMzTbHIHeriSlhbMU8/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI3/NTItMTQzMjc0Njk4/My02MTExLmpwZWc.jpeg)
 
-[discogs](https://www.discogs.com/release/1642752-Mary-J-Blige-Your-Child) [Mary J Blige* – Your Child](https://www.youtube.com/watch?v=k0XzO2jCOHI)
+[Mary J Blige* – Your Child](https://www.youtube.com/watch?v=k0XzO2jCOHI)
+[discogs](https://www.discogs.com/release/1642752-Mary-J-Blige-Your-Child) 
 
 
 Your Child]
