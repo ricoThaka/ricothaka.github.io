@@ -14,16 +14,7 @@ carousels:
     - image: /uploads/androiddemo/image8.png 
     - image: /uploads/androiddemo/image9.png
     - image: /uploads/androiddemo/rayman.png
-  - images: 
-    - image: /uploads/slider/image1.jpg
-    - image: /uploads/slider/image2.jpg
-    - image: /uploads/slider/image3.jpg
-    - image: /uploads/slider/image4.jpg
-  - images: 
-    - image: /uploads/slider/image1.jpg
-    - image: /uploads/slider/image2.jpg
-    - image: /uploads/slider/image3.jpg
-    - image: /uploads/slider/image4.jpg 
+
 ---
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE####################Normani?## 
@@ -38,11 +29,6 @@ carousels:
 {% include carousel.html height="400" unit="px" duration="4" number="1" %}
 
 ---
-
-{% include carousel.html height="500" unit="px" duration="2" number="2" %}
----
-
-{% include carousel.html height="1000" unit="px" duration="1" number="3" %}
 
 ---
 
