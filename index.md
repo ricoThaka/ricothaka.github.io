@@ -34,7 +34,7 @@ carousels:
 
 
 
-[./HoleToAnotherUniverse/a_beat_for_glo.sh](https://youtu.be/m7HcYPX_OUc?si=P53s0fMKEtNf8y3R&t=82) 
+[./HoleToAnotherUniverse/a_beat_for_glo.sh](https://youtu.be/m7HcYPX_OUc?si=P53s0fMKEtNf8y3R&t=82) loop/cut/sample should start @1:22 
 [Elle_MagaZinE : GLoRiLLA](https://www.elle.com/culture/music/a44190985/glorilla-interview-2023/)
 
 <div class='twoPanelSpread'>
