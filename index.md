@@ -32,6 +32,9 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+---
+
 {% include carousel.html height="400" unit="px" duration="4" number="1" %}
 
 ---
