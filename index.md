@@ -6,13 +6,34 @@ carousels:
   - images: 
     - image: /uploads/androiddemo/image1.jpg
     - image: /uploads/androiddemo/image2.png
+    - image: /uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg
+    - image: /uploads/androiddemo/image3.jpg
+    - image: /uploads/androiddemo/tumblr_a7f56774257feced420cba4124160034_35959076_1280.jpg 
+    - image: /uploads/androiddemo/image5.jpg
+    - image: /uploads/androiddemo/image6.png
+    - image: /uploads/androiddemo/image7.jpg
+    - image: /uploads/androiddemo/image8.png 
+    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
+    - image: /uploads/androiddemo/tumblr_aba4cd3b21a9d48d365fc9b727d1215c_b8a1a281_1280.jpg
+    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
+    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
+    - image: /uploads/androiddemo/tumblr_0483a8a9542d927ee0726efe1268f0cc_58ddf713_1280.jpg
+    - image: /uploads/androiddemo/tumblr_feb852c475578ac7dbad8b2222d5a16c_e722dde0_1280.png 
+    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
+    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
+    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
+    - image: /uploads/androiddemo/tumblr_dea0d4d88d4188754bb9ead09c409b71_a3aec79d_1280.jpg 
+    - image: /uploads/androiddemo/image9.png
+    - image: /uploads/androiddemo/rayman.png
+    - image: /uploads/androiddemo/image1.jpg
+    - image: /uploads/androiddemo/image2.png
     - image: /uploads/androiddemo/image3.jpg
     - image: /uploads/androiddemo/image4.jpg 
     - image: /uploads/androiddemo/image5.jpg
     - image: /uploads/androiddemo/image6.png
     - image: /uploads/androiddemo/image7.jpg
     - image: /uploads/androiddemo/image8.png 
-    - image: /uploads/androiddemo/image9.png
+    - image: /uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg
     - image: /uploads/androiddemo/rayman.png
   - images: 
     - image: /uploads/slider/image1.jpg
@@ -31,8 +52,14 @@ carousels:
 3 # ANOTHER##########https://s.id/1kmbG################### 
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
+<div class="section_hr">
+  ./HoleToAnotherUniverse/astronomy.sh
+</div> 
 
+[![MarsRover](https://photojournal.jpl.nasa.gov/archive/PIA06268.gif)](https://photojournal.jpl.nasa.gov/archive/PIA06268.gif "Redirect to homepage")
 
+[Jupiter_Pics](https://photojournal.jpl.nasa.gov/keywords/animation)
+[Mars James E. Tillman](https://www-k12.atmos.washington.edu/k12/resources/mars_data-information/mars_overview.html)
 
 [./HoleToAnotherUniverse/a_beat_for_glo.sh](https://youtu.be/m7HcYPX_OUc?si=P53s0fMKEtNf8y3R&t=82) loop/cut/sample should start @1:22 
 [Elle_MagaZinE : GLoRiLLA](https://www.elle.com/culture/music/a44190985/glorilla-interview-2023/)
@@ -51,14 +78,46 @@ carousels:
   </div>
   </div>
 </div>
+
 [./HoleToAnotherUniverse/a_beat_for_glo.sh](https://youtu.be/m7HcYPX_OUc?si=mCm_IF63PvxfSlpA) 
 [Elle_GagaZinE:GLoRiLLA](https://www.elle.com/culture/music/a44190985/glorilla-interview-2023/)
+
+<div class="section_hr">
+  ./HoleToAnotherUniverse/android.sh
+</div> 
+
 ---
 
-{% include carousel.html height="300" unit="px" duration="4" number="1" %}
-
+{% include carousel.html height="350" unit="px" duration="4" number="1" %}
 
 ---
+
+ <div class="border"> </div>
+
+   <div class="vert-container">
+
+   <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg" /></a>
+  </div>
+
+   <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_7901ff85b01c020b5c9c084f76c7c127_14871557_1280.png" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_7901ff85b01c020b5c9c084f76c7c127_14871557_1280.png" /></a>
+  </div>
+   <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_1e307ec0bb310e31228bff7148c22776_c356b7c5_640.jpg" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_1e307ec0bb310e31228bff7148c22776_c356b7c5_640.jpg" /></a>
+  </div>
+   <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_f325c0f4f1995bcca9145de125d0f0ce_5d59c7e2_640.jpg" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/uploads/androiddemo/tumblr_f325c0f4f1995bcca9145de125d0f0ce_5d59c7e2_640.jpg" /></a>
+  </div>
+
+</div>
+
+   <div class="vert-container">
+ <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" /></a>
+        </a></div>
+  <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/lbpl.jpg?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/lbpl.jpg?raw=true" /></a>
+        </a></div>
+ </div>
+  <div class="border"> </div>
+
+[DeKAy_FReeAGEnTS FlipTheScript](https://youtu.be/Zg9H7urB3kk)
+[FredArribaObituary](https://www.legacy.com/us/obituaries/sacbee/name/fred-arriba-obituary?id=2055185)
 
 
 
@@ -74,12 +133,7 @@ carousels:
 [Not Lookin'](https://youtu.be/AHz1Ap_a51U?si=xdRhxgNjEl1C_z_d)
 [Ghostface Killah - Here I Go Again (feat. AZ & Rell) [Official Lyric Video]](https://youtu.be/ExXt21DDDY8?si=o68m_MSbH4jZLpZz) [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?si=8V7L0ICEWzp26qcb)
 
-<div class="vert-container">
- <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/deban.png?raw=true" /></a>
-        </a></div>
-  <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/lbpl.jpg?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/lbpl.jpg?raw=true" /></a>
-        </a></div>
- </div>
+
 {% include carousel.html height="100" unit="%" duration="4" number="2" %}
 
 [Mars James E. Tillman](https://www-k12.atmos.washington.edu/k12/resources/mars_data-information/mars_overview.html)
