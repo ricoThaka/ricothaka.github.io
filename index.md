@@ -32,7 +32,11 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-{% include carousel.html height="40" unit="%" duration="4" number="1" %}
+{% include carousel.html height="50" unit="%" duration="4" number="1" %}
+{% include carousel.html height="50" unit="%" duration="2" number="2" %}
+{% include carousel.html height="300" unit="px" duration="1" number="3" %}
+
+<(‘’<) <( ‘ ‘ )> (> ‘’)>
 
 [Ghostface Killah - Here I Go Again (feat. AZ & Rell) [Official Lyric Video]](https://youtu.be/ExXt21DDDY8?si=o68m_MSbH4jZLpZz) [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?si=8V7L0ICEWzp26qcb)
 
@@ -1988,7 +1992,7 @@ C --> D
 ![Atlanta](https://pbs.twimg.com/media/GIMEpczbsAAvCuT?format=jpg&name=large)
 ![M_R_O](https://pbs.twimg.com/media/GIMDGNkbUAAMRGy?format=jpg&name=large)
 
-{% include carousel.html height="50" unit="%" duration="2" number="2" %}
+
 
 # <(''<)  <( ' ' )>  (> '')>
 
@@ -2101,7 +2105,7 @@ print(Normani ride with me ...)
 <div></div>
 <div></div>
 </div>
-  {% include carousel.html height="100" unit="%" duration="1" number="3" %}
+
 
   
 <div class="gullies">
