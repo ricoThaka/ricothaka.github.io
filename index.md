@@ -50,8 +50,9 @@ carousels:
 [Mary J Blige* – Your Child](https://www.youtube.com/watch?v=k0XzO2jCOHI)
 [discogs](https://www.discogs.com/release/1642752-Mary-J-Blige-Your-Child) 
 
+![Mary1999Japanese](https://i.discogs.com/SY8CgXqK0niVqjwbRMJCIqTLb2taMZPosP1snDRpGNE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQx/NTktMTM3MDc1MTQ5/OC03Mjk3LmpwZWc.jpeg)
 
-Your Child]
+[Not Lookin'](https://youtu.be/AHz1Ap_a51U?si=xdRhxgNjEl1C_z_d)
 [Ghostface Killah - Here I Go Again (feat. AZ & Rell) [Official Lyric Video]](https://youtu.be/ExXt21DDDY8?si=o68m_MSbH4jZLpZz) [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?si=8V7L0ICEWzp26qcb)
 
 <div class="vert-container">
