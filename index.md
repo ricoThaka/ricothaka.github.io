@@ -61,7 +61,7 @@ carousels:
 
 ## Education for Death: The Making of the Nazi (1943)
 
-<a href="https://upload.wikimedia.org/wikipedia/en/e/ed/EducationforDeath.jpg"> <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/EducationforDeath.jpg" style="width:300px;height:400px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> </a>
+
 
 #### i could not share the [Defcon video](https://media.defcon.org/) i think its the `%` in the [URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL) So... 
 <video controls 
@@ -230,7 +230,7 @@ Jon, Garfield and Odie audition for the talent show "Pet Search" in hopes of win
 [Ghostface Killah - Here I Go Again (feat. AZ & Rell) [Official Lyric Video]](https://youtu.be/ExXt21DDDY8?si=o68m_MSbH4jZLpZz) [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?si=8V7L0ICEWzp26qcb)
 
 
-{% include carousel.html height="100" unit="%" duration="4" number="4" %}
+{% include carousel.html height="350" unit="px" duration="4" number="4" %}
 
 [Mars James E. Tillman](https://www-k12.atmos.washington.edu/k12/resources/mars_data-information/mars_overview.html)
 [Im_ThE_OnLY1_mjb](https://youtu.be/8ANWvYj5hzg)
