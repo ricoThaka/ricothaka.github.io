@@ -42,16 +42,19 @@ carousels:
 
 
 <div class="section_hr">
-  ./HoleToAnotherUniverse/garfield.sh
+  < href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/garfield.sh</a>
 </div> 
 <video playsinline autoplay loop muted preload="auto"
   src="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move/Garfield%20S00M06%20Garfield%20Goes%20Hollywood%20%281987%20360p%20re-dvdrip%29.mp4"
-  poster="https://64.media.tumblr.com/96cfc8022383a52f2e4577be212af360/41b33d0c817917ac-26/s1280x1920/6ed6ea030518a05705c474fd70c5c11e28c43d10.png"
+  poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/garfield-dancing-goes-to-hollywood-ynhpyk8y15cx1ong.gif"
   >
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://vossenwheels.com/wheel/s21-01-carbon/">download it</a>
+  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">download it</a>
   and watch it with your favorite video player!
 </video>
+
+## Garfield Goes Hollywood
+Jon, Garfield and Odie audition for the talent show "Pet Search" in hopes of winning the $1000 prize and a chance at the finals in Hollywood. - [imdb](https://www.imdb.com/title/tt0166203/)   < <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/garfield.sh</a>
 <div class="section_hr">
   ./HoleToAnotherUniverse/astronomy.sh
 </div> 
