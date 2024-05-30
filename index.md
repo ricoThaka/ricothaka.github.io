@@ -43,11 +43,27 @@ carousels:
 
 
 <div class="section_hr">
-  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/landsat8.sh</a>
+  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/Hack_A_Sat.sh</a>
 </div>
 
 ## /DEF CON 31/Hack_a_sat
+### Html/MarKdown
+I put two entries up. I think [MarkDown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
+## MarkDown Hack-A-Sat
 ![Hack-A-Sat](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20team/DEF%20CON%2031%20-%20Hack-a-Sat%20Finals%20Interview%20-%20video%20team.mp4)
+
+[![Hack-A-Sat](https://pbs.twimg.com/media/GO2gdyLaQAIHBCB?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20team/DEF%20CON%2031%20-%20Hack-a-Sat%20Finals%20Interview%20-%20video%20team.mp4)
+
+## HTML Hack_-_A_-_Sat
+<video controls preload="auto"
+  src="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20team/DEF%20CON%2031%20-%20Hack-a-Sat%20Finals%20Interview%20-%20video%20team.mp4"
+  poster="https://pbs.twimg.com/media/GO2gdyLaQAIHBCB?format=jpg&name=large"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 
 <div class="section_hr">
   <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/androidsideways.sh</a>
