@@ -50,6 +50,7 @@ carousels:
 
 ## exploitation in the era of formal verification
 ![WaterProof](https://www.sandia.gov/app/uploads/sites/81/2024/05/fluid.gif)
+[DEF CON 30 - Ionut Cernica - Deanonymization of TOR HTTP Hidden Services.txt](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Ionut%20Cernica%20-%20Deanonymization%20of%20TOR%20HTTP%20Hidden%20Services.mp4)
 [Electrical circuits encased in fluid may reshape data-center design](https://www.sandia.gov/labnews/2024/05/30/hpc-cooling/)
 [Why Patients Should Be Encouraged to Hack Med Tech](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Cory%20Doctorow%2C%20Christian%20Dameff%2C%20%26%20Jeff%20Tully%20MD%20-%20Literal%20Self-Pwning%20-%20Why%20Patients%20Should%20Be%20Encouraged%20to%20Hack%20Med%20Tech.mp4)
 
