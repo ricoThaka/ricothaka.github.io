@@ -64,7 +64,18 @@ carousels:
 <a href="https://upload.wikimedia.org/wikipedia/en/e/ed/EducationforDeath.jpg"> <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/EducationforDeath.jpg" style="width:300px;height:400px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> </a>
 
 #### i could not share the [Defcon video](https://media.defcon.org/) i think its the `%` in the [URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL) So... 
-Education for Death: The Making of the Nazi is an American animated propaganda short film produced by Walt Disney Productions and released on January 15, 1943, by RKO Radio Pictures, shown in theaters with Fighting Frontier. The film is directed by Clyde Geronimi and principally animated by Milt Kahl, Ward Kimball, Frank Thomas, and Bill Tytla.[2] The short is based on the non-fiction book of the same name[3] by American author Gregor Ziemer. The film features the story of Hans, a boy born and raised in Nazi Germany, his indoctrination in the Hitlerjugend, and his eventual march to war. - [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Education_for_Death) [ReadMoreOnIMDB](https://www.imdb.com/title/tt0035836/)
+<video controls 
+  src="https://archive.org/download/youtube-l14WDZCnz-w/Education_for_Death_-_The_Making_of_the_Nazi_1943_-_WW2_Animated_Propaganda_Film_by_Walt_Disney-l14WDZCnz-w.mp4"
+  poster="https://compendium.ilsollazzo.com/disney/images/articles/EducationForDeath/01.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/youtube-l14WDZCnz-w">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+Education for Death: The Making of the Nazi is an American animated propaganda short film produced by Walt Disney Productions and released on January 15, 1943, by RKO Radio Pictures, shown in theaters with Fighting Frontier. The film is directed by Clyde Geronimi and principally animated by Milt Kahl, Ward Kimball, Frank Thomas, and Bill Tytla.[2] The short is based on the non-fiction book of the same name[3] by American author Gregor Ziemer. The film features the story of Hans, a boy born and raised in Nazi Germany, his indoctrination in the Hitlerjugend, and his eventual march to war. - [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Education_for_Death) [ReadMoreOnIMDB](https://www.imdb.com/title/tt0035836/) [cspan](https://www.c-span.org/video/?464005-2/education-death)
+
+![MarriageErika](https://npr.brightspotcdn.com/dims4/default/e495eef/2147483647/strip/true/crop/4950x3049+0+1337/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F69%2F925bee304b05b831d78e861024f0%2Fhitlers-children-gregor-ziemer-papers-image1.jpg)
 ---
 <video controls 
   src="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4"
@@ -79,6 +90,10 @@ Education for Death: The Making of the Nazi (1943) - WW2 Animated Propaganda Fil
 <div class="section_hr">
   <a href="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/">./HoleToAnotherUniverse/uber.sh</a>
 </div>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/e/ed/EducationforDeath.jpg"> <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/EducationforDeath.jpg" style="width:300px;height:400px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
+
+https://ximage.c-spanvideo.org/eyJidWNrZXQiOiJwaWN0dXJlcy5jLXNwYW52aWRlby5vcmciLCJrZXkiOiJGaWxlc1wvZjIxXC8yMDE5MDkwNzE1NDYwMDAwM19oZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJoZWlnaHQiOjYzMCwid2lkdGgiOjEyMDB9fX0=
 
 ## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
 there were civil suits and it actually
