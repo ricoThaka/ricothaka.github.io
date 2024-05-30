@@ -14,6 +14,7 @@ carousels:
     - image: /uploads/androiddemo/image9.png
     - image: /uploads/androiddemo/rayman.png
     - image: /uploads/androiddemo/image4.jpg 
+  - images: 
     - image: /uploads/androiddemo/tumblr_aba4cd3b21a9d48d365fc9b727d1215c_b8a1a281_1280.jpg
     - image: /uploads/androiddemo/tumblr_0483a8a9542d927ee0726efe1268f0cc_58ddf713_1280.jpg
     - image: /uploads/androiddemo/tumblr_feb852c475578ac7dbad8b2222d5a16c_e722dde0_1280.png 
@@ -128,7 +129,7 @@ Jon, Garfield and Odie audition for the talent show "Pet Search" in hopes of win
 <div class="section_hr">
   ./HoleToAnotherUniverse/android.sh
 </div> 
-
+{% include carousel.html height="350" unit="px" duration="4" number="2" %}
 
 <div class="section_hr">
   ./HoleToAnotherUniverse/android.sh
@@ -136,7 +137,7 @@ Jon, Garfield and Odie audition for the talent show "Pet Search" in hopes of win
 
 ---
 
-{% include carousel.html height="350" unit="px" duration="4" number="1" %}
+{% include carousel.html height="350" unit="px" duration="4" number="3" %}
 
 ---
 
@@ -180,7 +181,7 @@ Jon, Garfield and Odie audition for the talent show "Pet Search" in hopes of win
 [Ghostface Killah - Here I Go Again (feat. AZ & Rell) [Official Lyric Video]](https://youtu.be/ExXt21DDDY8?si=o68m_MSbH4jZLpZz) [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?si=8V7L0ICEWzp26qcb)
 
 
-{% include carousel.html height="100" unit="%" duration="4" number="2" %}
+{% include carousel.html height="100" unit="%" duration="4" number="4" %}
 
 [Mars James E. Tillman](https://www-k12.atmos.washington.edu/k12/resources/mars_data-information/mars_overview.html)
 [Im_ThE_OnLY1_mjb](https://youtu.be/8ANWvYj5hzg)
@@ -3805,4 +3806,4 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
     <div></div>
   
   </div>
-{% include carousel.html height="400" unit="px" duration="4" number="3" %}
+
