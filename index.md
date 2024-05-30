@@ -43,7 +43,6 @@ carousels:
 {% endhighlight %}
 
 
-[Electrical circuits encased in fluid may reshape data-center design](https://www.sandia.gov/labnews/2024/05/30/hpc-cooling/)
 
 <div class="section_hr">
   <a href="https://archive.org/search?query=subject%3A%22Disney%22&and%5B%5D=mediatype%3A%22movies%22">./HoleToAnotherUniverse/cybersecurity.sh</a>
@@ -51,8 +50,10 @@ carousels:
 
 ## exploitation in the era of formal verification
 ![WaterProof](https://www.sandia.gov/app/uploads/sites/81/2024/05/fluid.gif)
+[Electrical circuits encased in fluid may reshape data-center design](https://www.sandia.gov/labnews/2024/05/30/hpc-cooling/)
+[Why Patients Should Be Encouraged to Hack Med Tech](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Cory%20Doctorow%2C%20Christian%20Dameff%2C%20%26%20Jeff%20Tully%20MD%20-%20Literal%20Self-Pwning%20-%20Why%20Patients%20Should%20Be%20Encouraged%20to%20Hack%20Med%20Tech.mp4)
 
-[Coming up next, we've got a talk on ADA, exploitation in the era of formal verification, a peek at a new frontier with AdaCore Spark. So please help me welcome to the stage, Alex and Adam. Hello everyone, and welcome to the presentation... ClickMe](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Adam%20Zabrocki%2C%20Alex%20Tereshkin%20-%20Exploitation%20in%20the%20era%20of%20Formal%20Verification%20-%20A%20Peek%20at%20a%20New%20Frontier%20with%20AdaCore-Spark.mp4)
+## [Coming up next, we've got a talk on ADA, exploitation in the era of formal verification, a peek at a new frontier with AdaCore Spark. So please help me welcome to the stage, Alex and Adam. Hello everyone, and welcome to the presentation... ClickMe](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Adam%20Zabrocki%2C%20Alex%20Tereshkin%20-%20Exploitation%20in%20the%20era%20of%20Formal%20Verification%20-%20A%20Peek%20at%20a%20New%20Frontier%20with%20AdaCore-Spark.mp4)
 
 
 <div class="section_hr">
@@ -77,14 +78,6 @@ Education for Death: The Making of the Nazi is an American animated propaganda s
 
 ![MarriageErika](https://npr.brightspotcdn.com/dims4/default/e495eef/2147483647/strip/true/crop/4950x3049+0+1337/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F69%2F925bee304b05b831d78e861024f0%2Fhitlers-children-gregor-ziemer-papers-image1.jpg)
 ---
-<video controls 
-  src="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4"
-  poster="https://pbs.twimg.com/media/GO25T_4aQAAqj5E?format=jpg&name=large"
-  >
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">download it</a>
-  and watch it with your favorite video player!
-</video>
 Education for Death: The Making of the Nazi (1943) - WW2 Animated Propaganda Film by Walt Disney
 [The Best Film Archives](https://archive.org/search?query=creator%3A%22The+Best+Film+Archives%22)
 <div class="section_hr">
@@ -93,21 +86,12 @@ Education for Death: The Making of the Nazi (1943) - WW2 Animated Propaganda Fil
 
 <a href="https://upload.wikimedia.org/wikipedia/en/e/ed/EducationforDeath.jpg"> <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/EducationforDeath.jpg" style="width:300px;height:400px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
 
-https://ximage.c-spanvideo.org/eyJidWNrZXQiOiJwaWN0dXJlcy5jLXNwYW52aWRlby5vcmciLCJrZXkiOiJGaWxlc1wvZjIxXC8yMDE5MDkwNzE1NDYwMDAwM19oZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJoZWlnaHQiOjYzMCwid2lkdGgiOjEyMDB9fX0=
 
 ## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
-there were civil suits and it actually
+> there were civil suits and it actually
 resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
-that was good. - `Joe Sullivan.mp4`
+that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4)
 
-<video controls 
-  src="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4"
-  poster="https://pbs.twimg.com/media/GO25T_4aQAAqj5E?format=jpg&name=large"
-  >
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">download it</a>
-  and watch it with your favorite video player!
-</video>
 
 
 <div class="section_hr">
@@ -115,9 +99,7 @@ that was good. - `Joe Sullivan.mp4`
 </div>
 
 ## /DEF CON 31/Hack_a_sat
-### Html/MarKdown
- I think [MarkDown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)... is great
-## MarkDown Hack-A-Sat
+I think [MarkDown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)... is great
 
 [![Hack-A-Sat](https://pbs.twimg.com/media/GO2gdyLaQAIHBCB?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20team/DEF%20CON%2031%20-%20Hack-a-Sat%20Finals%20Interview%20-%20video%20team.mp4)
 
