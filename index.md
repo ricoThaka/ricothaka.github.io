@@ -43,6 +43,15 @@ carousels:
 {% endhighlight %}
 
 <div class="section_hr">
+  <a href="https://archive.org/search?query=subject%3A%22Disney%22&and%5B%5D=mediatype%3A%22movies%22">./HoleToAnotherUniverse/cybersecurity.sh</a>
+</div>
+## exploitation in the era of formal verification
+![WaterProof](https://www.sandia.gov/app/uploads/sites/81/2024/05/fluid.gif)
+
+[Coming up next, we've got a talk on ADA, exploitation in the era of formal verification, a peek at a new frontier with AdaCore Spark. So please help me welcome to the stage, Alex and Adam. Hello everyone, and welcome to the presentation... ClickMe](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Adam%20Zabrocki%2C%20Alex%20Tereshkin%20-%20Exploitation%20in%20the%20era%20of%20Formal%20Verification%20-%20A%20Peek%20at%20a%20New%20Frontier%20with%20AdaCore-Spark.mp4)
+
+
+<div class="section_hr">
   <a href="https://archive.org/search?query=subject%3A%22Disney%22&and%5B%5D=mediatype%3A%22movies%22">./HoleToAnotherUniverse/us_history.sh</a>
 </div>
 
