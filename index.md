@@ -41,6 +41,24 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+<div class="section_hr">
+  <a href="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/">./HoleToAnotherUniverse/uber.sh</a>
+</div>
+
+## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
+there were civil suits and it actually
+resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
+that was good. - `Joe Sullivan.mp4`
+
+<video controls 
+  src="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4"
+  poster="https://pbs.twimg.com/media/GO25T_4aQAAqj5E?format=jpg&name=large"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 
 <div class="section_hr">
   <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/Hack_A_Sat.sh</a>
@@ -48,20 +66,10 @@ carousels:
 
 ## /DEF CON 31/Hack_a_sat
 ### Html/MarKdown
-I put two entries up. I think [MarkDown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)...
+ I think [MarkDown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)... is great
 ## MarkDown Hack-A-Sat
 
 [![Hack-A-Sat](https://pbs.twimg.com/media/GO2gdyLaQAIHBCB?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20team/DEF%20CON%2031%20-%20Hack-a-Sat%20Finals%20Interview%20-%20video%20team.mp4)
-
-## HTML Hack_A_Sat
-<video controls 
-  src="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20team/DEF%20CON%2031%20-%20Hack-a-Sat%20Finals%20Interview%20-%20video%20team.mp4"
-  poster="https://pbs.twimg.com/media/GO2gdyLaQAIHBCB?format=jpg&name=large"
-  >
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">download it</a>
-  and watch it with your favorite video player!
-</video>
 
 
 <div class="section_hr">
