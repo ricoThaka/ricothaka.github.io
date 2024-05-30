@@ -48,14 +48,13 @@ carousels:
 
 ## /DEF CON 31/Hack_a_sat
 ### Html/MarKdown
-I put two entries up. I think [MarkDown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
+I put two entries up. I think [MarkDown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)...
 ## MarkDown Hack-A-Sat
-![Hack-A-Sat](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20team/DEF%20CON%2031%20-%20Hack-a-Sat%20Finals%20Interview%20-%20video%20team.mp4)
 
 [![Hack-A-Sat](https://pbs.twimg.com/media/GO2gdyLaQAIHBCB?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20team/DEF%20CON%2031%20-%20Hack-a-Sat%20Finals%20Interview%20-%20video%20team.mp4)
 
-## HTML Hack_-_A_-_Sat
-<video controls preload="auto"
+## HTML Hack_A_Sat
+<video controls 
   src="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20team/DEF%20CON%2031%20-%20Hack-a-Sat%20Finals%20Interview%20-%20video%20team.mp4"
   poster="https://pbs.twimg.com/media/GO2gdyLaQAIHBCB?format=jpg&name=large"
   >
@@ -77,7 +76,7 @@ I put two entries up. I think [MarkDown](https://learn.microsoft.com/en-us/train
 <div class="section_hr">
   <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/garfield.sh</a>
 </div> 
-<video controls preload="auto"
+<video controls 
   src="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move/Garfield%20S00M06%20Garfield%20Goes%20Hollywood%20%281987%20360p%20re-dvdrip%29.mp4"
   poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/garfield-dancing-goes-to-hollywood-ynhpyk8y15cx1ong.gif"
   >
