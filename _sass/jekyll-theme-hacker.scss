@@ -594,8 +594,8 @@ video {
               #595959 25%, #262626 0, #262626 50%,
               #595959 0, #595959 75%, #262626 0);
 background-size: 280.4px 280.4px;
-
-  transition: 4s cubic-bezier(.25,.1,.2,3);
+transition: 4s cubic-bezier(0.1, 0.2, 0.3, 0.4);
+/*  transition: 4s cubic-bezier(.25,.1,.2,3); */
 }
 
 
