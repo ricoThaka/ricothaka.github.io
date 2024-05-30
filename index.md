@@ -129,7 +129,7 @@ Jon, Garfield and Odie audition for the talent show "Pet Search" in hopes of win
 
 [DeKAy_FReeAGEnTS FlipTheScript](https://youtu.be/Zg9H7urB3kk)
 [FredArribaObituary](https://www.legacy.com/us/obituaries/sacbee/name/fred-arriba-obituary?id=2055185)
-
+[CssTransitions_Link](https://www.joshwcomeau.com/animation/css-transitions/)
 
 
 ### <(‘’<) <( ‘ ‘ )> (> ‘’)>
