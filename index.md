@@ -42,6 +42,7 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
 <div class="section_hr">
   <a href="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/">./HoleToAnotherUniverse/uber.sh</a>
 </div>
@@ -51,14 +52,21 @@ there were civil suits and it actually
 resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
 that was good. - `Joe Sullivan.mp4`
 
-<video controls 
-  src="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4"
-  poster="https://pbs.twimg.com/media/GO25T_4aQAAqj5E?format=jpg&name=large"
-  >
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">download it</a>
-  and watch it with your favorite video player!
-</video>
+<video controls=""><source src="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4" poster="https://pbs.twimg.com/media/GO25T_4aQAAqj5E?format=jpg&name=large" type="video/mp4"> Download the <a href="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4">MP4</a> video.</video> 
+
+<div>
+  <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%23595959&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
+  <figcaption>
+    Kashdoll is a moniker that gets passed around in real work sex work... slavery. I really miss her, she mentions me by name in the first song "soundcloud context"
+  </figcaption>
+<video controls=""><source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4"> Download the <a href="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4">MP4</a> video.</video> 
+  <h2>Astronomy Picture of the Day</h2>
+  <p>2023 June 27<br>
+  <a href="https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png"><img alt="See Explanation. Clicking on the picture will download the highest resolution version available." src="https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png" style="max-width:100%"></a> <b>MAVEN's Ultraviolet Mars</b><br>
+  <b>Image Credit:</b> <a href="http://www.nasa.gov/mission_pages/maven/team/index.html">MAVEN</a>, <a href="http://lasp.colorado.edu/home/maven/">Laboratory for Atmospheric and Space Physics, Univ. Colorado</a>, <a href="http://www.nasa.gov/">NASA</a></p>
+  <p><b>Explanation:</b> <a href="https://www.nasa.gov/feature/goddard/2023/nasa-s-maven-spacecraft-stuns-with-ultraviolet-views-of-red-planet">These two global views of Mars</a> were captured at ultraviolet wavelengths, <a href="https://science.nasa.gov/ems/01_intro">beyond the spectrum</a> visible to human eyes. Recorded by the <a href="https://www.nasa.gov/mission_pages/maven/main/index.html">MAVEN spacecraft's</a> Imaging Ultraviolet Spectrograph instrument in July 2022 (left) and January 2023, three otherwise invisible ultraviolet bands are mapped into red, green, and blue colors. That color scheme presents the <a href="https://solarsystem.nasa.gov/planets/mars/in-depth/">Red Planet's surface</a> features in shades of tan and green. Haze and clouds appear white or blue, while high altitude ozone takes on a dramatic purple hue. On the left, Mars' south polar ice cap is in brilliant white at the bottom but shrinking during the southern hemisphere's <a href="https://www.planetary.org/articles/mars-calendar">summer season</a>. On the right, the northern hemisphere's polar region is seen shrouded in clouds and atmospheric ozone. Known to some as the Mars Atmosphere and Volatile EvolutioN spacecraft, MAVEN has been exploring Mars' tenuous upper atmosphere, ionosphere, and its interactions with the Sun and solar wind <a href="ap140926.html">since 2014</a>.</p>
+  <p></p>
+  <hr>
 
 
 <div class="section_hr">
@@ -450,7 +458,7 @@ https://x.com/RicoThaka/status/1784290786898805232
 
 
 
-
+<embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1148981710&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
 
 
@@ -2311,19 +2319,7 @@ print(Normani ride with me ...)
 ![CellphoneGraphicOfMyLOVERtag](https://scontent-lax3-1.xx.fbcdn.net/v/t1.18169-9/26166952_155363241773849_1559317249801482595_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lYYO5qeBB_8Q7kNvgFX09aG&_nc_ht=scontent-lax3-1.xx&oh=00_AYBrtYSpH4vOBASBZhMX_CUgfcSyhC6UJbTK_pMExdtBnw&oe=6664D6AD)
 ![Apollo 9 Astronaut David Scott’s Spacewalk](https://www.nasa.gov/wp-content/uploads/2024/03/as09-20-3064orig.jpg)
 
-<div>
-  <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%23595959&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
-  <figcaption>
-    Kashdoll is a moniker that gets passed around in real work sex work... slavery. I really miss her, she mentions me by name in the first song "soundcloud context"
-  </figcaption>
-<video controls=""><source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4"> Download the <a href="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4">MP4</a> video.</video> <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1148981710&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
-  <h2>Astronomy Picture of the Day</h2>
-  <p>2023 June 27<br>
-  <a href="https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png"><img alt="See Explanation. Clicking on the picture will download the highest resolution version available." src="https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png" style="max-width:100%"></a> <b>MAVEN's Ultraviolet Mars</b><br>
-  <b>Image Credit:</b> <a href="http://www.nasa.gov/mission_pages/maven/team/index.html">MAVEN</a>, <a href="http://lasp.colorado.edu/home/maven/">Laboratory for Atmospheric and Space Physics, Univ. Colorado</a>, <a href="http://www.nasa.gov/">NASA</a></p>
-  <p><b>Explanation:</b> <a href="https://www.nasa.gov/feature/goddard/2023/nasa-s-maven-spacecraft-stuns-with-ultraviolet-views-of-red-planet">These two global views of Mars</a> were captured at ultraviolet wavelengths, <a href="https://science.nasa.gov/ems/01_intro">beyond the spectrum</a> visible to human eyes. Recorded by the <a href="https://www.nasa.gov/mission_pages/maven/main/index.html">MAVEN spacecraft's</a> Imaging Ultraviolet Spectrograph instrument in July 2022 (left) and January 2023, three otherwise invisible ultraviolet bands are mapped into red, green, and blue colors. That color scheme presents the <a href="https://solarsystem.nasa.gov/planets/mars/in-depth/">Red Planet's surface</a> features in shades of tan and green. Haze and clouds appear white or blue, while high altitude ozone takes on a dramatic purple hue. On the left, Mars' south polar ice cap is in brilliant white at the bottom but shrinking during the southern hemisphere's <a href="https://www.planetary.org/articles/mars-calendar">summer season</a>. On the right, the northern hemisphere's polar region is seen shrouded in clouds and atmospheric ozone. Known to some as the Mars Atmosphere and Volatile EvolutioN spacecraft, MAVEN has been exploring Mars' tenuous upper atmosphere, ionosphere, and its interactions with the Sun and solar wind <a href="ap140926.html">since 2014</a>.</p>
-  <p></p>
-  <hr>
+
   <h2 class="neon">Lorem ipsum</h2>
   <figure>
     <p><a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg"><img alt="The ENIAC" src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg"></a></p>
