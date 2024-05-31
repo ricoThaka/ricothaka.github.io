@@ -6,33 +6,35 @@ carousels:
   - images: 
     - image: /uploads/androiddemo/image1.jpg
     - image: /uploads/androiddemo/image2.png
-    - image: /uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg
     - image: /uploads/androiddemo/image3.jpg
-    - image: /uploads/androiddemo/tumblr_a7f56774257feced420cba4124160034_35959076_1280.jpg 
     - image: /uploads/androiddemo/image5.jpg
     - image: /uploads/androiddemo/image6.png
     - image: /uploads/androiddemo/image7.jpg
     - image: /uploads/androiddemo/image8.png 
-    - image: /uploads/androiddemo/tumblr_4abee2dd7029667e24f8e99068c9d7c0_999fbe97_1280.jpg
+    - image: /uploads/androiddemo/image9.png
+    - image: /uploads/androiddemo/rayman.png
+    - image: /uploads/androiddemo/image4.jpg 
+  - images: 
     - image: /uploads/androiddemo/tumblr_aba4cd3b21a9d48d365fc9b727d1215c_b8a1a281_1280.jpg
     - image: /uploads/androiddemo/tumblr_0483a8a9542d927ee0726efe1268f0cc_58ddf713_1280.jpg
     - image: /uploads/androiddemo/tumblr_feb852c475578ac7dbad8b2222d5a16c_e722dde0_1280.png 
     - image: /uploads/androiddemo/tumblr_dea0d4d88d4188754bb9ead09c409b71_a3aec79d_1280.jpg 
-    - image: /uploads/androiddemo/image9.png
-    - image: /uploads/androiddemo/rayman.png
-    - image: /uploads/androiddemo/image4.jpg 
+    - image: /uploads/androiddemo/tumblr_538a9b1456ed7cc27991401e0aa2c3bd_438b98eb_1280.jpg
+    - image: /uploads/androiddemo/tumblr_a7f56774257feced420cba4124160034_35959076_1280.jpg 
+ 
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg
 
-  - images: 
-    - image: /uploads/slider/image1.jpg
-    - image: /uploads/slider/image2.jpg
-    - image: /uploads/slider/image3.jpg
-    - image: /uploads/slider/image4.jpg
-  - images: 
-    - image: /uploads/slider/image1.jpg
-    - image: /uploads/slider/image2.jpg
-    - image: /uploads/slider/image3.jpg
-    - image: /uploads/slider/image4.jpg
 ---
+
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE####################Normani?## 
 2 # TO#######################################Erika?####### 
@@ -40,11 +42,89 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+<div class="section_hr">
+  <a href="https://archive.org/search?query=subject%3A%22Disney%22&and%5B%5D=mediatype%3A%22movies%22">./HoleToAnotherUniverse/cybersecurity.sh --debug \</a><br>
+ exploitation in the era of formal verification
+</div>
 
+[Blame](https://github.com/ricoThaka/ricothaka.github.io/blame/master/index.md)
+
+[![Hackers_Journalist](https://pbs.twimg.com/media/GO3R9FXbsAA2BgP?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+
+[![Threats](https://pbs.twimg.com/media/GO3T_1fa8AAT_mY?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
+
+![WaterProof](https://www.sandia.gov/app/uploads/sites/81/2024/05/fluid.gif)
+[DEF CON 30 - Ionut Cernica - Deanonymization of TOR HTTP Hidden Services.txt](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Ionut%20Cernica%20-%20Deanonymization%20of%20TOR%20HTTP%20Hidden%20Services.mp4)
+[Electrical circuits encased in fluid may reshape data-center design](https://www.sandia.gov/labnews/2024/05/30/hpc-cooling/)
+[Why Patients Should Be Encouraged to Hack Med Tech](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Cory%20Doctorow%2C%20Christian%20Dameff%2C%20%26%20Jeff%20Tully%20MD%20-%20Literal%20Self-Pwning%20-%20Why%20Patients%20Should%20Be%20Encouraged%20to%20Hack%20Med%20Tech.mp4)
+
+## [Coming up next, we've got a talk on ADA, exploitation in the era of formal verification, a peek at a new frontier with AdaCore Spark. So please help me welcome to the stage, Alex and Adam. Hello everyone, and welcome to the presentation... ClickMe](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20video%20and%20slides/DEF%20CON%2030%20-%20Adam%20Zabrocki%2C%20Alex%20Tereshkin%20-%20Exploitation%20in%20the%20era%20of%20Formal%20Verification%20-%20A%20Peek%20at%20a%20New%20Frontier%20with%20AdaCore-Spark.mp4)
+
+
+<div class="section_hr">
+  <a href="https://archive.org/search?query=subject%3A%22Disney%22&and%5B%5D=mediatype%3A%22movies%22">./HoleToAnotherUniverse/us_history.sh</a>
+</div>
+
+## Education for Death: The Making of the Nazi (1943)
+
+
+
+#### i could not share the [Defcon video](https://media.defcon.org/) i think its the `%` in the [URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL) So... 
+<video controls 
+  src="https://archive.org/download/youtube-l14WDZCnz-w/Education_for_Death_-_The_Making_of_the_Nazi_1943_-_WW2_Animated_Propaganda_Film_by_Walt_Disney-l14WDZCnz-w.mp4"
+  poster="https://compendium.ilsollazzo.com/disney/images/articles/EducationForDeath/01.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/youtube-l14WDZCnz-w">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+Education for Death: The Making of the Nazi is an American animated propaganda short film produced by Walt Disney Productions and released on January 15, 1943, by RKO Radio Pictures, shown in theaters with Fighting Frontier. The film is directed by Clyde Geronimi and principally animated by Milt Kahl, Ward Kimball, Frank Thomas, and Bill Tytla.[2] The short is based on the non-fiction book of the same name[3] by American author Gregor Ziemer. The film features the story of Hans, a boy born and raised in Nazi Germany, his indoctrination in the Hitlerjugend, and his eventual march to war. - [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Education_for_Death) [ReadMoreOnIMDB](https://www.imdb.com/title/tt0035836/) [cspan](https://www.c-span.org/video/?464005-2/education-death)
+
+![MarriageErika](https://npr.brightspotcdn.com/dims4/default/e495eef/2147483647/strip/true/crop/4950x3049+0+1337/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F69%2F925bee304b05b831d78e861024f0%2Fhitlers-children-gregor-ziemer-papers-image1.jpg)
+---
+Education for Death: The Making of the Nazi (1943) - WW2 Animated Propaganda Film by Walt Disney
+[The Best Film Archives](https://archive.org/search?query=creator%3A%22The+Best+Film+Archives%22)
+<div class="section_hr">
+  <a href="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/">./HoleToAnotherUniverse/uber.sh</a>
+</div>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/e/ed/EducationforDeath.jpg"> <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/EducationforDeath.jpg" style="width:300px;height:400px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
+
+
+## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
+> there were civil suits and it actually
+resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
+that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4)
+
+
+
+<div class="section_hr">
+  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/Hack_A_Sat.sh</a>
+</div>
+
+## /DEF CON 31/Hack_a_sat
+I think [MarkDown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)... is great
+
+[![Hack-A-Sat](https://pbs.twimg.com/media/GO2gdyLaQAIHBCB?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20team/DEF%20CON%2031%20-%20Hack-a-Sat%20Finals%20Interview%20-%20video%20team.mp4)
+
+
+<div class="section_hr">
+  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/androidsideways.sh</a>
+</div>
+
+---
+
+{% include carousel.html height="350" unit="px" duration="4" number="1" %}
+
+---
 <div class="section_hr">
   <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/garfield.sh</a>
 </div> 
-<video controls preload="auto"
+<video controls 
   src="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move/Garfield%20S00M06%20Garfield%20Goes%20Hollywood%20%281987%20360p%20re-dvdrip%29.mp4"
   poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/garfield-dancing-goes-to-hollywood-ynhpyk8y15cx1ong.gif"
   >
@@ -88,12 +168,7 @@ Jon, Garfield and Odie audition for the talent show "Pet Search" in hopes of win
 <div class="section_hr">
   ./HoleToAnotherUniverse/android.sh
 </div> 
-
----
-
-{% include carousel.html height="350" unit="px" duration="4" number="1" %}
-
----
+{% include carousel.html height="350" unit="px" duration="4" number="2" %}
 
 <div class="section_hr">
   ./HoleToAnotherUniverse/android.sh
@@ -101,7 +176,7 @@ Jon, Garfield and Odie audition for the talent show "Pet Search" in hopes of win
 
 ---
 
-{% include carousel.html height="350" unit="px" duration="4" number="1" %}
+{% include carousel.html height="350" unit="px" duration="4" number="3" %}
 
 ---
 
@@ -145,7 +220,7 @@ Jon, Garfield and Odie audition for the talent show "Pet Search" in hopes of win
 [Ghostface Killah - Here I Go Again (feat. AZ & Rell) [Official Lyric Video]](https://youtu.be/ExXt21DDDY8?si=o68m_MSbH4jZLpZz) [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?si=8V7L0ICEWzp26qcb)
 
 
-{% include carousel.html height="100" unit="%" duration="4" number="2" %}
+{% include carousel.html height="350" unit="px" duration="4" number="4" %}
 
 [Mars James E. Tillman](https://www-k12.atmos.washington.edu/k12/resources/mars_data-information/mars_overview.html)
 [Im_ThE_OnLY1_mjb](https://youtu.be/8ANWvYj5hzg)
@@ -2275,19 +2350,7 @@ print(Normani ride with me ...)
 ![CellphoneGraphicOfMyLOVERtag](https://scontent-lax3-1.xx.fbcdn.net/v/t1.18169-9/26166952_155363241773849_1559317249801482595_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lYYO5qeBB_8Q7kNvgFX09aG&_nc_ht=scontent-lax3-1.xx&oh=00_AYBrtYSpH4vOBASBZhMX_CUgfcSyhC6UJbTK_pMExdtBnw&oe=6664D6AD)
 ![Apollo 9 Astronaut David Scott’s Spacewalk](https://www.nasa.gov/wp-content/uploads/2024/03/as09-20-3064orig.jpg)
 
-<div>
-  <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%23595959&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
-  <figcaption>
-    Kashdoll is a moniker that gets passed around in real work sex work... slavery. I really miss her, she mentions me by name in the first song "soundcloud context"
-  </figcaption>
-<video controls=""><source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4"> Download the <a href="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4">MP4</a> video.</video> <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1148981710&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
-  <h2>Astronomy Picture of the Day</h2>
-  <p>2023 June 27<br>
-  <a href="https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png"><img alt="See Explanation. Clicking on the picture will download the highest resolution version available." src="https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png" style="max-width:100%"></a> <b>MAVEN's Ultraviolet Mars</b><br>
-  <b>Image Credit:</b> <a href="http://www.nasa.gov/mission_pages/maven/team/index.html">MAVEN</a>, <a href="http://lasp.colorado.edu/home/maven/">Laboratory for Atmospheric and Space Physics, Univ. Colorado</a>, <a href="http://www.nasa.gov/">NASA</a></p>
-  <p><b>Explanation:</b> <a href="https://www.nasa.gov/feature/goddard/2023/nasa-s-maven-spacecraft-stuns-with-ultraviolet-views-of-red-planet">These two global views of Mars</a> were captured at ultraviolet wavelengths, <a href="https://science.nasa.gov/ems/01_intro">beyond the spectrum</a> visible to human eyes. Recorded by the <a href="https://www.nasa.gov/mission_pages/maven/main/index.html">MAVEN spacecraft's</a> Imaging Ultraviolet Spectrograph instrument in July 2022 (left) and January 2023, three otherwise invisible ultraviolet bands are mapped into red, green, and blue colors. That color scheme presents the <a href="https://solarsystem.nasa.gov/planets/mars/in-depth/">Red Planet's surface</a> features in shades of tan and green. Haze and clouds appear white or blue, while high altitude ozone takes on a dramatic purple hue. On the left, Mars' south polar ice cap is in brilliant white at the bottom but shrinking during the southern hemisphere's <a href="https://www.planetary.org/articles/mars-calendar">summer season</a>. On the right, the northern hemisphere's polar region is seen shrouded in clouds and atmospheric ozone. Known to some as the Mars Atmosphere and Volatile EvolutioN spacecraft, MAVEN has been exploring Mars' tenuous upper atmosphere, ionosphere, and its interactions with the Sun and solar wind <a href="ap140926.html">since 2014</a>.</p>
-  <p></p>
-  <hr>
+
   <h2 class="neon">Lorem ipsum</h2>
   <figure>
     <p><a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg"><img alt="The ENIAC" src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg"></a></p>
@@ -3770,4 +3833,4 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
     <div></div>
   
   </div>
-{% include carousel.html height="400" unit="px" duration="4" number="3" %}
+
