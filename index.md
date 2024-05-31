@@ -112,10 +112,10 @@ https://x.com/MooNLOVER404/status/1796593108639236604
 [Sonic The Hedgehog 2](https://www.allsonicgames.net/) [Sonic The Hedgehog 2](https://www.retrogames.cz/play_219-Genesis.php) 
 
 <div class="border"> </div>
-<div class="section_hr">
-<embed width="50%" height="300"  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1573822360&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+<div class="section_hr"> <a href="https://www.reelblack.com/"> #!~> nice -10 ./HoleToAnotherUniverse/fallback.sh -k</a>  </div>
+<embed width="100%" height="300"  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1573822360&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
-<a href="https://www.reelblack.com/">./HoleToAnotherUniverse/reelblack.sh -v</a>
+
 
 ## [መጽሐፈ ምሳሌ](https://www.wordproject.org/bibles/am/20/31.htm)
 29 መልካም ያደረጉ ብዙ ሴቶች አሉ፥ አንቺ ግን ከሁሉ ትበልጫለሽ።
@@ -130,7 +130,7 @@ https://x.com/MooNLOVER404/status/1796593108639236604
 29 መልካም ያደረጉ ብዙ ሴቶች አሉ፥ አንቺ ግን ከሁሉ ትበልጫለሽ።
 30 ውበት ሐሰት ነው፥ ደም ግባትም ከንቱ ነው፤ እግዚአብሔርን የምትፈራ ሴት ግን እርስዋ ትመሰገናለች።
 31 ከእጅዋ ፍሬ ስጡአት፥ ሥራዎችዋም በሸንጎ ያመስግኑአት።
-</div>
+
 
 # [Thanks ReelBlack](https://www.reelblack.com/)
 ![reelBlack](https://images.squarespace-cdn.com/content/v1/5e646dc015b8f434bc5e299c/1586064629833-MSOQ4VWORF5LEC7YVDOZ/thumbnail.jpeg?format=1000w)
