@@ -42,6 +42,45 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+# Erika
+![HappyAnniversary](https://pbs.twimg.com/media/GO8c6JTa4AASM9N?format=jpg&name=large)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<video
+  controls playsinline autoplay loop
+  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/https:/github.com/ricoThaka/ricothaka.github.io/blob/master/assets/video/trunkmusic.mp4"
+  poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg"
+  width="100%">
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+</div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<video
+  controls playsinline autoplay loop
+  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/https:/github.com/ricoThaka/ricothaka.github.io/blob/master/assets/video/novalauncher.mp4"
+  poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg"
+  width="100%">
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+  </div>
+  </div>
+  </div>
+</div>
+
+
+
+
+
+
 ![https://nescartdb.com/images/700/460f00cb422faa8003b0f08d4766a238.jpg](https://nescartdb.com/images/700/460f00cb422faa8003b0f08d4766a238.jpg)
 
 # [yeahGlo](https://www.glorillaofficial.com/)
