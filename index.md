@@ -47,25 +47,11 @@ carousels:
 ![HappyAnniversary](https://pbs.twimg.com/media/GO8c6JTa4AASM9N?format=jpg&name=large)
 
 
-<video
-  controls 
-  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/https:/github.com/ricoThaka/ricothaka.github.io/blob/master/assets/video/trunkmusic.mp4"
+https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/https:/github.com/ricoThaka/ricothaka.github.io/blob/master/assets/video/trunkmusic.mp4
 
-  width="100%">
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
+ 
+https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/https:/github.com/ricoThaka/ricothaka.github.io/blob/master/assets/video/novalauncher.mp4"
 
-<video
-  controls 
-  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/https:/github.com/ricoThaka/ricothaka.github.io/blob/master/assets/video/novalauncher.mp4"
-
-  width="100%">
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
 
 
 
