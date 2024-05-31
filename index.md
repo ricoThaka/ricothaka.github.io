@@ -42,6 +42,34 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+# [yeahGlo](https://www.glorillaofficial.com/)
+![YeahGlo](https://pbs.twimg.com/media/GO3Jhg4aMAAZzyW?format=jpg&name=large)
+
+<embed width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1741860180&color=%23b5e853&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+![threats to my life](https://pbs.twimg.com/media/GO3T_1fa8AAT_mY?format=jpg&name=large)
+
+# tweets
+![Droid](https://pbs.twimg.com/media/GOtUQbSa0AA3oVx?format=jpg&name=large
+)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/MayorOfLA?ref_src=twsrc%5Etfw">@MayorOfLA</a> im <a href="https://twitter.com/LBCityLibrary?ref_src=twsrc%5Etfw">@LBCityLibrary</a> an someone is <a href="https://twitter.com/hashtag/HAckingMyWorkstation?src=hash&amp;ref_src=twsrc%5Etfw">#HAckingMyWorkstation</a> <a href="https://twitter.com/hashtag/Windows10?src=hash&amp;ref_src=twsrc%5Etfw">#Windows10</a> <a href="https://twitter.com/msdev?ref_src=twsrc%5Etfw">@msdev</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://t.co/0DwyZXOoeM">https://t.co/0DwyZXOoeM</a> <a href="https://twitter.com/hashtag/losAngeles?src=hash&amp;ref_src=twsrc%5Etfw">#losAngeles</a> <a href="https://twitter.com/hashtag/WeDemandBetter?src=hash&amp;ref_src=twsrc%5Etfw">#WeDemandBetter</a> <a href="https://twitter.com/hashtag/weddingdecor?src=hash&amp;ref_src=twsrc%5Etfw">#weddingdecor</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> <a href="https://t.co/dMKNg01aiU">pic.twitter.com/dMKNg01aiU</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1795903565887648017?ref_src=twsrc%5Etfw">May 29, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@Essence</a> is this erika in a different lifetime <a href="https://twitter.com/hashtag/Akire?src=hash&amp;ref_src=twsrc%5Etfw">#Akire</a> <a href="https://twitter.com/SanBernardinoPD?ref_src=twsrc%5Etfw">@SanBernardinoPD</a> <a href="https://twitter.com/TanyaAChristian?ref_src=twsrc%5Etfw">@TanyaAChristian</a> <a href="https://t.co/fwZ3PFBCbo">https://t.co/fwZ3PFBCbo</a> <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/girlsinrap?ref_src=twsrc%5Etfw">@girlsinrap</a> <a href="https://twitter.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a> <a href="https://twitter.com/GloTheofficial?ref_src=twsrc%5Etfw">@GloTheofficial</a> <a href="https://twitter.com/hashtag/relationshipAdvice?src=hash&amp;ref_src=twsrc%5Etfw">#relationshipAdvice</a> &gt;? ? ? ? <a href="https://t.co/i8Z4Q2ytiA">https://t.co/i8Z4Q2ytiA</a> <a href="https://twitter.com/hashtag/VickysTown?src=hash&amp;ref_src=twsrc%5Etfw">#VickysTown</a> <a href="https://twitter.com/hashtag/EastLos?src=hash&amp;ref_src=twsrc%5Etfw">#EastLos</a> <a href="https://twitter.com/hashtag/BoyleHeights?src=hash&amp;ref_src=twsrc%5Etfw">#BoyleHeights</a> <a href="https://twitter.com/hashtag/LincolnHeights?src=hash&amp;ref_src=twsrc%5Etfw">#LincolnHeights</a> <a href="https://twitter.com/hashtag/ivf?src=hash&amp;ref_src=twsrc%5Etfw">#ivf</a> <a href="https://t.co/85zAVJ0PUn">pic.twitter.com/85zAVJ0PUn</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1770191958994002092?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://twitter.com/staceyabrams?ref_src=twsrc%5Etfw">@staceyabrams</a> can u look <a href="https://twitter.com/hashtag/webSites?src=hash&amp;ref_src=twsrc%5Etfw">#webSites</a>? <a href="https://t.co/l8ZcMPJFix">https://t.co/l8ZcMPJFix</a> thats <a href="https://twitter.com/Dance411?ref_src=twsrc%5Etfw">@dance411</a> i really fell in love, when erika was on drugs with <a href="https://twitter.com/AllCityMurals?ref_src=twsrc%5Etfw">@allcitymurals</a> them girls pretty jankey but they loving! plz dont judge me <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> is <a href="https://twitter.com/hashtag/Nakeisha?src=hash&amp;ref_src=twsrc%5Etfw">#Nakeisha</a> an she recorded <a href="https://twitter.com/hashtag/CovidSound?src=hash&amp;ref_src=twsrc%5Etfw">#CovidSound</a> <a href="https://t.co/WLXzkG4QIS">https://t.co/WLXzkG4QIS</a>❤️‍🔥 <a href="https://t.co/nLuCMHBcDN">pic.twitter.com/nLuCMHBcDN</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1778591872749125961?ref_src=twsrc%5Etfw">April 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![MyChile](https://pbs.twimg.com/media/GNVTS12bwAA3yb3?format=jpg&name=small)](https://pbs.twimg.com/media/GNVTS12bwAA3yb3?format=jpg&name=small "Redirect to homepage")
+
+<div class="flex-container">
+   <div class="flex-items">  <a href="https://pbs.twimg.com/media/GNVRbWTb0AAj_q9?format=jpg&name=large">
+        <img src="https://pbs.twimg.com/media/GNVRbWTb0AAj_q9?format=jpg&name=large" />
+</a></div>
+   <div class="flex-items">  <a href="https://pbs.twimg.com/media/GNVRbrmbsAA-k0n?format=jpg&name=large">
+<img src="https://pbs.twimg.com/media/GNVRbrmbsAA-k0n?format=jpg&name=large" alt="North Hollywood" />
+</a></div>
+</div>
+
+[![MyChile](https://pbs.twimg.com/media/GNVPQiAbUAAEkff?format=jpg&name=large)](https://pbs.twimg.com/media/GNVPQiAbUAAEkff?format=jpg&name=large "Redirect to homepage")
+
+![Normani](https://pbs.twimg.com/media/GGZ7CawaEAAEZRs?format=jpg&name=large)
 
 [1973 SPECIAL REPORT: "BRONX STREET GANGS"](https://youtu.be/KWL6p6hxy3Q?si=_y2564k52ukPlC7r)
 # Street Fighter II The Animated Movie UNCENSORED (1994)
