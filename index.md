@@ -43,6 +43,26 @@ carousels:
 {% endhighlight %}
 
 <div class="section_hr">
+<a href="https://archive.org/details/BattletoadsCompleteSeries">./HoleToAnotherUniverse/mame.sh --debug \</a>
+</div>
+[!BattleToads](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+## BattleToadS
+by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retrogames.cc/arcade-games/battletoads.html)
+
+### ᕙ(⇀‸↼‶)ᕗ
+
+<div class="pinupImage expandingGallery">
+<img src="https://pbs.twimg.com/media/GO3eDMIasAAUHMp?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3ePDIaAAA18IW?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3fAfpaQAAmoqn?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3ffBoa8AAuqsh?format=jpg&name=large" />
+
+ </div>
+ 
+ ![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
+
+<div class="section_hr">
   <a href="https://archive.org/search?query=subject%3A%22Disney%22&and%5B%5D=mediatype%3A%22movies%22">./HoleToAnotherUniverse/cybersecurity.sh --debug \</a><br>
  exploitation in the era of formal verification
 </div>
