@@ -54,7 +54,7 @@ carousels:
 </video>
 
 [Digital Media Rights](https://www.linkedin.com/company/digital-media-rights) you vandalized the opening of this movie you people are crazy!
-
+[Street Fighter II: The Animated Series](https://myanimelist.net/anime/876/Street_Fighter_II_V?cat=anime)
 [Street Fighter II V (Includes ADV dub)](https://archive.org/details/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107)
 [Street Fighter: The Animated Series 1-26](https://archive.org/details/18FaceOfFury)
 [Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
