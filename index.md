@@ -42,11 +42,38 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+<div class="border"> </div>
+<div class="section_hr">
+<a href="https://www.reelblack.com/">./HoleToAnotherUniverse/reelblack.sh -v</a>
+</div>
+
+# [Thanks ReelBlack](https://www.reelblack.com/)
+![reelBlack](https://images.squarespace-cdn.com/content/v1/5e646dc015b8f434bc5e299c/1586064629833-MSOQ4VWORF5LEC7YVDOZ/thumbnail.jpeg?format=1000w)
+[1986 SPECIAL REPORT:"THE VANISHING BLACK FAMILY"](https://www.youtube.com/watch?v=_vrw416MnJ8&t=801s)
+[1979-1986 SPECIAL REPORT: "WORLD OF STREET WALKERS"](https://www.youtube.com/watch?v=kCClFgcis40)
+[1984 SPECIAL REPORT: "MAN SHARING"](https://www.youtube.com/watch?v=WzfStzyU8Tw)
+[1983 SPECIAL REPORT: "BLACK ADULT ENTERTAINMENT"](https://youtu.be/TN2QH1CTKp4?si=PCumyQjqaTe8W1LC)
+[1973-76 SPECIAL REPORT: "PIMPS & PROSTITUTION"](https://www.youtube.com/watch?v=mQOFcp2G_lk)
+[MUSiC::QUeens4 Mixtape](https://youtu.be/PQuaztBuTuw?si=cvS06DTF9cZurCJI)
+[Being A Stripper Transformed My Relationships With Men Forever](https://www.youtube.com/watch?v=vEyPpMstjAw)
+[Janika La'Shae](https://www.youtube.com/channel/UCl1l_7dOl8BMfP7d-TUZLUA)
+   <div class="vert-container">
+
+
+         <div class="vert-items"> <a href="https://pbs.twimg.com/media/F3vpzfGXAAE6MHB?format=jpg&name=large" > <img src="https://pbs.twimg.com/media/F3vpzfGXAAE6MHB?format=jpg&name=large" /></a>
+  </div>
+           <div class="vert-items"> <a href="https://pbs.twimg.com/media/Fg6FN_7VQAAyTjw?format=jpg&name=large" > <img src="https://pbs.twimg.com/media/Fg6FN_7VQAAyTjw?format=jpg&name=large" /></a>
+</div>
+           <div class="vert-items"> <a href="https://pbs.twimg.com/media/EltfLCqU0AAeSny?format=jpg&name=large" > <img src="https://pbs.twimg.com/media/EltfLCqU0AAeSny?format=jpg&name=large" /></a>
+        </div>
+
+   </div>
+  <div class="border"> </div>
 <div class="section_hr">
 <a href="https://archive.org/details/BattletoadsCompleteSeries">./HoleToAnotherUniverse/mame.sh --debug \</a>
 </div>
 
-![BattleToads](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)
+[![BattleToads](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)
 
 ## BattleToadS
 by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retrogames.cc/arcade-games/battletoads.html)
