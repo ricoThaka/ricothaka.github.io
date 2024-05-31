@@ -42,6 +42,35 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+<a href="https://thetshirtlady.com/wp-content/uploads/2023/05/TTSLSon-768x398.png"> <img src="https://thetshirtlady.com/wp-content/uploads/2023/05/TTSLSon-768x398.png" style="width:300px;height:400px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
+
+# [Street Fighter III 3rd Strike: Fight For The Future (USA 990608)](https://www.retrogames.cc/arcade-games/street-fighter-iii-3rd-strike:-fight-for-the-future-usa-990608.html)
+
+## Dear_Cardi(https://www.cardibofficial.com/)
+I dont know if you are Bia but i like the song fallback and i was wondering if its you. anyway i found a [Street Fighter 3 Strategy Video](https://www.youtube.com/watch?v=ISOoypQTO2M) im scared to ebed the thing bc webpages foded with incoming content from another place is a security hole and ppl slow down the website. Do you remember [TeeShirt](https://linktr.ee/thetshirtlady) in the villiage ? [The_Tshirt_Lady](https://thetshirtlady.com/) i never really made it back to EastATL after Erika got kidnapped, it was a nightmare caring for coral! Like now that i know [MagicCity staff](https://www.magiccity.com/) is working at [DFCS](https://dfcs.georgia.gov/) im trying to figure out where my bullying began bc even with the vibrator story Manessa is [Janika Lashae](https://www.imdb.com/name/nm11743788/) and wrote down the vibrator was non sexual in use. An she was cutting me off talking about i am always saying innaporpriate things. She formed a physical relationship with me i need to resolve bc its distracting... I am really confused physically bc all the names you guys use to navigate sex tourism... [Normani is on the street man](https://x.com/MooNLOVER404/status/1714401375726219655) I found her in this [Los Angeles HoStroll](https://youtu.be/jUnxQNFSeHA?si=T0vsGpLwIcNrWEtQ) TTyl soon pages will be like [GeoCities](https://www.reddit.com/r/forgottenwebsites/comments/r2icam/a_collection_of_old_geocities_websites_1990s2000s/) research hotlinking for your business growth. i hope that dont get me arrested im in an active twitter exchange with [the secratary of defense](https://www.defense.gov/About/Secretary-of-Defense/), [NasaJPl](https://www.jpl.nasa.gov/virtual-tour/), [LA_City_council](https://lacity.gov/government/elected-officials/city-council) and [Karen Bass](https://www.congress.gov/member/karen-bass/B001270?q=%7B%22search%22%3A%22karen+bass%22%7D&s=1&r=1)! She is a [Congressmember](https://www.house.gov/representatives/find-your-representative) that looks after our district in addition to being mayor so i dont know who have more responsibility but [Senator Bill](https://www.nasa.gov/people/nasa-administrator-bill-nelson/) that is responsible for [Nasa](https://www.bing.com/news/search?q=nasa+news&FORM=HDRSC7) may be her peer, what is a Rep vs a Senator? 
+
+[American Government 101: Difference Between House and Senate](https://online.maryville.edu/blog/difference-between-house-and-senate/#article1)
+[The Legislative Branch](https://www.whitehouse.gov/about-the-white-house/our-government/the-legislative-branch/) Last thing, how is the little girl? you know coral is an ivf baby so i wonder if her mom is fighting rn bc [Reproductive health care](https://reproductiverights.gov/) is big news right now
+
+<a href="https://static.billboard.com/files/2020/12/Cardi-B-bb17-2020-billboard-1500-1606919411-compressed.jpg"> <img src="https://static.billboard.com/files/2020/12/Cardi-B-bb17-2020-billboard-1500-1606919411-compressed.jpg" style="width:300px;height:400px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> </a>
+
+### importantTweets
+```
+https://vimeo.com/396000267
+https://x.com/RicoThaka/status/1787543806445068779
+https://x.com/MooNLOVER404/status/1796607728569467224
+https://x.com/MooNLOVER404/status/1796608990174179364
+https://x.com/MooNLOVER404/status/1796604261352268232 <~ #ReeferMadness
+https://x.com/MooNLOVER404/status/1796602219250544686
+https://x.com/MooNLOVER404/status/1796601565832470835
+https://x.com/MooNLOVER404/status/1796600506670096666
+https://x.com/MooNLOVER404/status/1796594741049774334
+https://x.com/MooNLOVER404/status/1796594538192175392
+https://x.com/MooNLOVER404/status/1796593108639236604
+```
+
+
+
 ![Sonic2](https://ia600705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg)
 
 [![Sonic2](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/uploads/androiddemo/image8.png)](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/uploads/androiddemo/image8.png "Redirect to homepage")
@@ -51,7 +80,7 @@ carousels:
 
 <div class="border"> </div>
 <div class="section_hr">
-<embed width="100%" height="300"  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1573822360&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+<embed width="50%" height="300"  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1573822360&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
 <a href="https://www.reelblack.com/">./HoleToAnotherUniverse/reelblack.sh -v</a>
 </div>
