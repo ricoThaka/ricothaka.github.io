@@ -36,14 +36,23 @@ carousels:
 ---
 
 {% highlight ruby %} 
-1 # HOLE_TO_ANOTHER_UNiVERSE##################JanikaLesHae 
+1 # HOLE_TO_ANOTHER_UNiVERSE##################Normani 
 2 # TO#######################################Erika?####### 
 3 # ANOTHER##########https://s.id/1kmbG################### 
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+![Sonic2](https://ia600705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg)
+
+[![Sonic2](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/uploads/androiddemo/image8.png)](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/uploads/androiddemo/image8.png "Redirect to homepage")
+[Sonic the Hedgehog 2 Launch (Sonic 2sDay) - Part 1 USA](https://youtu.be/GTMKAq-abSE?si=lLGdGZQI7ila7_i6)
+## Play Sonic2 
+[Sonic The Hedgehog 2](https://www.allsonicgames.net/) [Sonic The Hedgehog 2](https://www.retrogames.cz/play_219-Genesis.php) 
+
 <div class="border"> </div>
 <div class="section_hr">
+<embed width="100%" height="300"  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1573822360&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
 <a href="https://www.reelblack.com/">./HoleToAnotherUniverse/reelblack.sh -v</a>
 </div>
 
