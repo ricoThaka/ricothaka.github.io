@@ -42,11 +42,44 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-<a href="https://thetshirtlady.com/wp-content/uploads/2023/05/TTSLSon-768x398.png"> <img src="https://thetshirtlady.com/wp-content/uploads/2023/05/TTSLSon-768x398.png" style="width:300px;height:400px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
+# Street Fighter II The Animated Movie UNCENSORED (1994)
+
+<video controls 
+  src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4"
+  poster="https://pbs.twimg.com/media/GO74NpcboAA0mRN?format=jpg&name=medium"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/youtube-l14WDZCnz-w">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+[Digital Media Rights](https://www.linkedin.com/company/digital-media-rights) you vandalized the opening of this movie you people are crazy!
+
+[Street Fighter II V (Includes ADV dub)](https://archive.org/details/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107)
+[Street Fighter: The Animated Series 1-26](https://archive.org/details/18FaceOfFury)
+[Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
+
+![StreetFighterOnLaserDisc](https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp)
+<div class="pinupImage expandingGallery">
+<img src="https://i.ebayimg.com/images/g/45sAAOSwl8NkWpYB/s-l1600.webp" />
+<img src="https://i.ebayimg.com/images/g/liYAAOSwKUNkWpYC/s-l960.webp" />
+<img src="https://i.ebayimg.com/images/g/m2UAAOSw3whkWpYD/s-l960.webp" />
+<img src="https://i.ebayimg.com/images/g/cPAAAOSwQmdkWpYF/s-l960.webp" />
+</div>
+
+<div class="pinupImage expandingGallery">
+<img src="https://pbs.twimg.com/media/GO7wAqIbEAIdTOo?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO7vsNvbEAQVnpl?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO7w2bRbEAIbDDS?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO7xsp2aUAAVm5-?format=jpg&name=large" />
+
+</div>
+<img src="https://pbs.twimg.com/media/GO7v9QDaAAED8Vq?format=jpg&name=large" />
+<a href="https://thetshirtlady.com/wp-content/uploads/2023/05/TTSLSon-768x398.png"> <img src="https://thetshirtlady.com/wp-content/uploads/2023/05/TTSLSon-768x398.png" style="width:384px;height:199px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
 
 # [Street Fighter III 3rd Strike: Fight For The Future (USA 990608)](https://www.retrogames.cc/arcade-games/street-fighter-iii-3rd-strike:-fight-for-the-future-usa-990608.html)
 
-## Dear_Cardi(https://www.cardibofficial.com/)
+## [Dear_Cardi](https://www.cardibofficial.com/)
 I dont know if you are Bia but i like the song fallback and i was wondering if its you. anyway i found a [Street Fighter 3 Strategy Video](https://www.youtube.com/watch?v=ISOoypQTO2M) im scared to ebed the thing bc webpages foded with incoming content from another place is a security hole and ppl slow down the website. Do you remember [TeeShirt](https://linktr.ee/thetshirtlady) in the villiage ? [The_Tshirt_Lady](https://thetshirtlady.com/) i never really made it back to EastATL after Erika got kidnapped, it was a nightmare caring for coral! Like now that i know [MagicCity staff](https://www.magiccity.com/) is working at [DFCS](https://dfcs.georgia.gov/) im trying to figure out where my bullying began bc even with the vibrator story Manessa is [Janika Lashae](https://www.imdb.com/name/nm11743788/) and wrote down the vibrator was non sexual in use. An she was cutting me off talking about i am always saying innaporpriate things. She formed a physical relationship with me i need to resolve bc its distracting... I am really confused physically bc all the names you guys use to navigate sex tourism... [Normani is on the street man](https://x.com/MooNLOVER404/status/1714401375726219655) I found her in this [Los Angeles HoStroll](https://youtu.be/jUnxQNFSeHA?si=T0vsGpLwIcNrWEtQ) TTyl soon pages will be like [GeoCities](https://www.reddit.com/r/forgottenwebsites/comments/r2icam/a_collection_of_old_geocities_websites_1990s2000s/) research hotlinking for your business growth. i hope that dont get me arrested im in an active twitter exchange with [the secratary of defense](https://www.defense.gov/About/Secretary-of-Defense/), [NasaJPl](https://www.jpl.nasa.gov/virtual-tour/), [LA_City_council](https://lacity.gov/government/elected-officials/city-council) and [Karen Bass](https://www.congress.gov/member/karen-bass/B001270?q=%7B%22search%22%3A%22karen+bass%22%7D&s=1&r=1)! She is a [Congressmember](https://www.house.gov/representatives/find-your-representative) that looks after our district in addition to being mayor so i dont know who have more responsibility but [Senator Bill](https://www.nasa.gov/people/nasa-administrator-bill-nelson/) that is responsible for [Nasa](https://www.bing.com/news/search?q=nasa+news&FORM=HDRSC7) may be her peer, what is a Rep vs a Senator? 
 
 [American Government 101: Difference Between House and Senate](https://online.maryville.edu/blog/difference-between-house-and-senate/#article1)
@@ -83,6 +116,20 @@ https://x.com/MooNLOVER404/status/1796593108639236604
 <embed width="50%" height="300"  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1573822360&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
 <a href="https://www.reelblack.com/">./HoleToAnotherUniverse/reelblack.sh -v</a>
+
+## [መጽሐፈ ምሳሌ](https://www.wordproject.org/bibles/am/20/31.htm)
+29 መልካም ያደረጉ ብዙ ሴቶች አሉ፥ አንቺ ግን ከሁሉ ትበልጫለሽ።
+30 ውበት ሐሰት ነው፥ ደም ግባትም ከንቱ ነው፤ እግዚአብሔርን የምትፈራ ሴት ግን እርስዋ ትመሰገናለች።
+31 ከእጅዋ ፍሬ ስጡአት፥ ሥራዎችዋም በሸንጎ ያመስግኑአት።
+29 መልካም ያደረጉ ብዙ ሴቶች አሉ፥ አንቺ ግን ከሁሉ ትበልጫለሽ።
+30 ውበት ሐሰት ነው፥ ደም ግባትም ከንቱ ነው፤ እግዚአብሔርን የምትፈራ ሴት ግን እርስዋ ትመሰገናለች።
+31 ከእጅዋ ፍሬ ስጡአት፥ ሥራዎችዋም በሸንጎ ያመስግኑአት።
+29 መልካም ያደረጉ ብዙ ሴቶች አሉ፥ አንቺ ግን ከሁሉ ትበልጫለሽ።
+30 ውበት ሐሰት ነው፥ ደም ግባትም ከንቱ ነው፤ እግዚአብሔርን የምትፈራ ሴት ግን እርስዋ ትመሰገናለች።
+31 ከእጅዋ ፍሬ ስጡአት፥ ሥራዎችዋም በሸንጎ ያመስግኑአት።
+29 መልካም ያደረጉ ብዙ ሴቶች አሉ፥ አንቺ ግን ከሁሉ ትበልጫለሽ።
+30 ውበት ሐሰት ነው፥ ደም ግባትም ከንቱ ነው፤ እግዚአብሔርን የምትፈራ ሴት ግን እርስዋ ትመሰገናለች።
+31 ከእጅዋ ፍሬ ስጡአት፥ ሥራዎችዋም በሸንጎ ያመስግኑአት።
 </div>
 
 # [Thanks ReelBlack](https://www.reelblack.com/)
