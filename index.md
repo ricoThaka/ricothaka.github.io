@@ -36,21 +36,49 @@ carousels:
 ---
 
 {% highlight ruby %} 
-1 # HOLE_TO_ANOTHER_UNiVERSE##################Normani 
-2 # TO#######################################Erika?####### 
+1 # HOLE_TO_ANOTHER_UNiVERSE################NormaniLaShaE?# 
+2 # TO#####Erika#######Happy_Anniversary ##################
 3 # ANOTHER##########https://s.id/1kmbG################### 
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
+
+
+<div class="flex-container">
+   <div class="flex-items"> 
+   
+  <video controls 
+  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/trunkmusic.mp4" >
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/trunkmusic.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+   
+   
+   </div>
+   <div class="flex-items">
+   <video controls 
+  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/novalauncher.mp4"  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/trunkmusic.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+   
+   </div>
+</div>
+
+
+
+
 
 # Erika
 
 ![HappyAnniversary](https://pbs.twimg.com/media/GO8c6JTa4AASM9N?format=jpg&name=large)
 
 
-https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/https:/github.com/ricoThaka/ricothaka.github.io/blob/master/assets/video/trunkmusic.mp4
 
- 
-https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/https:/github.com/ricoThaka/ricothaka.github.io/blob/master/assets/video/novalauncher.mp4"
+
+"
 
 
 
