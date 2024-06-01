@@ -43,6 +43,45 @@ carousels:
 {% endhighlight %}
 
 
+<div class="flex-container">
+
+
+   <div class="flex-items"> 
+   
+  <video controls 
+  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/androidSat/sartuzeemotorola.mp4" >
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/androidSat/sartuzeemotorola.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+   
+   
+   </div>
+   <div class="flex-items"> 
+   
+  <video controls 
+  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/trunkmusic.mp4" >
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/trunkmusic.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+   
+   
+   </div>
+
+   <div class="flex-items">
+   <video controls 
+  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/novalauncher.mp4"  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/trunkmusic.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+   
+   </div>
+</div>
+
 
 
 # Erika
