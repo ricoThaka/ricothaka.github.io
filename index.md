@@ -49,7 +49,9 @@ carousels:
 
 ![HappyAnniversary](https://pbs.twimg.com/media/GO8c6JTa4AASM9N?format=jpg&name=large)
 
+### [The Launch of the Nintendo 64 (1996) | Classic Gaming Quarterly](https://youtu.be/CeHk5ujpZ2s?si=G96t1hyYENme8OHS)
 
+![n64 kevins healthy renee moved birthday gift i think akeeva akire connie](https://i.etsystatic.com/20657893/r/il/441882/2412612498/il_fullxfull.2412612498_ruxv.jpg)
 
 
 "
