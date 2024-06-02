@@ -43,6 +43,85 @@ carousels:
 {% endhighlight %}
 
 
+<div class="section_hr">
+  <a href="https://www.b98.tv/videos_categories/studios/">./HoleToAnotherUniverse/TheFlintStones.sh</a>
+</div> 
+
+![PebblesCoral](https://media1.tenor.com/m/JObiYxQ1epcAAAAC/sleep-good-night.gif)
+
+## [Pebbles’ Birthday Party](https://www.b98.tv/video/pebbles-birthday-party/)
+13629 views
+Fred makes arrangements for Pebbles’ first birthday and the Water Buffalo Lodge parties. Trouble ensues when the only caterer in town muddles the parties, including sending a children’s clown to the Water Buffalo Lodge and dancing girls to the babies’ party, and Fred gets blamed for it. Teaser is again a scene from the middle of the episode. [B98tv CArtoons](https://www.b98.tv/video/pebbles-birthday-party)
+
+<div class="section_hr">
+  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/TheFlintStones.sh</a>
+</div> 
+<video controls 
+  src="https://ia600506.us.archive.org/24/items/youtube-UFrWljsz9eo/UFrWljsz9eo.mp4"
+  poster="https://i.ytimg.com/vi/82lOD6znIic/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCAnPUsERsRLGZl5bj3qCpecKRrRA"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/youtube-UFrWljsz9eo/UFrWljsz9eo.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+## [ABC Network](https://abc.com/) - The Flintstones - "Fred's Flying Lesson" (Promo, 1965)
+Here (from an original 2" Quad tape) is a promo for The Flintstones episode "Fred's Flying Lesson," to air at 7:30pm (6:30pm Central time).
+
+This promo starts with a "swinging" RCA TK-60 black-and-white camera with an 'abc' sticker on the side (this was their ID between 1964 and 1966). Also, although this promo was in black-and-white, The Flintstones itself aired in color by this point on the network (one of the very few prior to their increasing color programming in the 1965-66 season).
+
+Ending voiceover by ??
+
+This promo aired on local Chicago TV on Friday, January 1st 1965 at about 6:29pm.
+
+About The Museum of Classic Chicago Television: - [imdb](https://www.imdb.com/title/tt0166203/)  
+[Pebbles' Birthday Party (1964)](https://www.imdb.com/title/tt0580218/fullcredits)
+[theFlinTstones Pebbles Birthday](https://tubitv.com/tv-shows/596255/s05-e04-pebbles-birthday-party)
+[Top_Cartoons_Tv:Pebbles’ Birthday Party](https://www.topcartoons.tv/cartoons/pebbles-birthday-party/)
+
+
+
+![https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large](https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/PiDayChallengeLateEntry?src=hash&amp;ref_src=twsrc%5Etfw">#PiDayChallengeLateEntry</a> ? wassup wit this hole <a href="https://twitter.com/Ford?ref_src=twsrc%5Etfw">@ford</a> <a href="https://twitter.com/steedaautosport?ref_src=twsrc%5Etfw">@steedaautosport</a> <a href="https://twitter.com/americanmuscle?ref_src=twsrc%5Etfw">@americanmuscle</a> <a href="https://twitter.com/FalkenTire?ref_src=twsrc%5Etfw">@FalkenTire</a> <a href="https://twitter.com/MonsterEnergy?ref_src=twsrc%5Etfw">@MonsterEnergy</a> <a href="https://twitter.com/123klan?ref_src=twsrc%5Etfw">@123klan</a> whats up wit repair, does the <a href="https://twitter.com/hashtag/MarsRover?src=hash&amp;ref_src=twsrc%5Etfw">#MarsRover</a> just conk out and become a <a href="https://twitter.com/hashtag/stationarylander?src=hash&amp;ref_src=twsrc%5Etfw">#stationarylander</a> if the wheels all broke <a href="https://twitter.com/iamcardib?ref_src=twsrc%5Etfw">@iamcardib</a> im not playing with you <a href="https://twitter.com/hashtag/EastAtlanta?src=hash&amp;ref_src=twsrc%5Etfw">#EastAtlanta</a> <a href="https://t.co/qgKsmn4fJA">pic.twitter.com/qgKsmn4fJA</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1769068912577323504?ref_src=twsrc%5Etfw">March 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### [commited](https://github.com/ThakaRashard/thakarashard.github.io/actions/runs/9341297882/job/25707899081)
+
+# [Malaika Jabali](https://x.com/MalaikaJabali)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The last stop on my book tour is TODAY in Milwaukee, a city with perhaps the biggest socialist history in the US. <br><br>I lived there while writing just about all of this book and it’s very dear to me. <br><br>Come througghhh! <a href="https://t.co/P4xPEzQD3m">pic.twitter.com/P4xPEzQD3m</a></p>&mdash; Malaika Jabali (@MalaikaJabali) <a href="https://twitter.com/MalaikaJabali/status/1724414138854617330?ref_src=twsrc%5Etfw">November 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">hi! <a href="https://twitter.com/hashtag/ItsRashard?src=hash&amp;ref_src=twsrc%5Etfw">#ItsRashard</a> listen <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> removed my kid, <a href="https://twitter.com/TanyaAChristian?ref_src=twsrc%5Etfw">@tanyaachristian</a> wrote an article im a <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@NASAMars</a> <a href="https://twitter.com/hashtag/missionOperator?src=hash&amp;ref_src=twsrc%5Etfw">#missionOperator</a> or something(<a href="https://twitter.com/hashtag/unix?src=hash&amp;ref_src=twsrc%5Etfw">#unix</a>) im safe <a href="https://twitter.com/hashtag/Help?src=hash&amp;ref_src=twsrc%5Etfw">#Help</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <br># <a href="https://t.co/Ob38gitFWe">https://t.co/Ob38gitFWe</a><br># <a href="https://t.co/Airq2rjpk9">https://t.co/Airq2rjpk9</a> <a href="https://twitter.com/StateDept?ref_src=twsrc%5Etfw">@StateDept</a> <a href="https://twitter.com/DeptofDefense?ref_src=twsrc%5Etfw">@DeptofDefense</a> //<a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/SecDef?ref_src=twsrc%5Etfw">@SecDef</a> im not flirting <a href="https://t.co/JEkXiWmFfr">pic.twitter.com/JEkXiWmFfr</a></p>&mdash; BubbleGumPop626 (@BubbleGumPop626) <a href="https://twitter.com/BubbleGumPop626/status/1797376539790905626?ref_src=twsrc%5Etfw">June 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# [MobzWorld://girlblog](https://x.com/MobzWorld)
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="sl" dir="ltr">Mílagro 👅 <a href="https://t.co/0TiFeXmDBX">pic.twitter.com/0TiFeXmDBX</a></p>&mdash; Mílagro (@MobzWorld) <a href="https://twitter.com/MobzWorld/status/1687835233712807936?ref_src=twsrc%5Etfw">August 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# Cardi
+you told me to call you charity... hi im scared yall toE up!!!!!!!!!!
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Cardi B threatens to SUE Bia after the rapper allegedly accused the Bronx rapper of cheating on husband Offset. <br><br>This was revealed in a snippet of a diss track from Bia that Cardi got her hands on and played for the internet. <br><br>Cardi implied that she recorded a 36 minute… <a href="https://t.co/sbHHN3o285">pic.twitter.com/sbHHN3o285</a></p>&mdash; Mílagro (@MobzWorld) <a href="https://twitter.com/MobzWorld/status/1797075029160550592?ref_src=twsrc%5Etfw">June 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">There are a lot of ppl I don’t even engage with, or even follow because I know I’m seen as Millie The Menace to some &amp; I don’t want them dry associated with me/my thoughts. <br><br>Long story short, after knowing who Paris is for idk how long I was like, I like her let me follow. <br><br>Two… <a href="https://t.co/pKD654sRz1">pic.twitter.com/pKD654sRz1</a></p>&mdash; Mílagro (@MobzWorld) <a href="https://twitter.com/MobzWorld/status/1797289523627372568?ref_src=twsrc%5Etfw">June 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Chile, they be knowing who you are. <a href="https://t.co/m601W0mZpz">pic.twitter.com/m601W0mZpz</a></p>&mdash; Mílagro (@MobzWorld) <a href="https://twitter.com/MobzWorld/status/1797287054302154834?ref_src=twsrc%5Etfw">June 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Cardi B’s social media liaison took to X to defend the rapper’s actions. <br><br>The blogger reiterated that New York is a one party consent state and implied to a known NM supporter that Bia was recorded saying some unsavory things about the superstar.<br><br>“Also, y’all might wanna stop… <a href="https://t.co/rCmpA3C5kZ">pic.twitter.com/rCmpA3C5kZ</a></p>&mdash; Mílagro (@MobzWorld) <a href="https://twitter.com/MobzWorld/status/1797180519378985110?ref_src=twsrc%5Etfw">June 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+# FaceBook checkin
+  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>  
+  <div class="fb-post" 
+      data-href="https://www.facebook.com/CaptainOfJoy/videos/1825108517650797"
+      data-width="750"></div>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0EoSWjvFS3D3D1Qqiqcx7JSwMR4iaJ2rSKqNaq5i9CkSiY44nzpVby92atYyLj8oNl%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0j2pzZkdWvXhTK8wpLccvGRbQrsuEd56p4bERm2Te1NW7vzKE5eAhRNgEhskuK1aYl%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0d4QxJtcQ8nLcawQrfRmdJbDWQrzGNPaT3PmHK1cYL5haQYAZzRaX2d1iV5RP6gsGl%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid026PvfsDrSCqApe48aus8iAgZHSbjUZLH3CMtHqtHcnVncpCBypUjLqkdqbSfQ6XRXl%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid032TnVidK5QWwAKHXesLh8t6TNdaedLcoAKMvTjUcgXm9yuKoB9JPboxGDXjb7oBR1l%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02G8KimNgcBBNiP3kPeM8JAuuggPY5G9ysDmS8dBVvR8hwva1YCmHiCjbxMLBEZLTEl%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="667" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02fKuEJSmncshKTVtHL7Fv5kM4Jj8rFAdNKn3Je5ViHmPGwQmAu4nB7TNkYXAK5iT5l%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0ByWu9iPiZ2EkeKpa2t3BJQu8XTQZc9NdCptK55qTuLWcSH4pGwsPnBz3YwFVyDzBl%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02dLTzgE21LEnAdkPnBsWnzjVfSfHqXKyGqJ58U35fdn4me1jDKz4nuGwBLCBZ2SSbl%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="564" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0KoPoXEiAhS9LGfzdTaYntd7c7e7aXQbwiwf4dbsFazXe8yQp6J6fagPuenZZissFl%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
 <div class="flex-container">
 
 
