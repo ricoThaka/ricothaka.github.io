@@ -42,6 +42,31 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+<div class="section_hr">
+  <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/TheFlintStones.sh</a>
+</div> 
+<video controls 
+  src="https://ia600506.us.archive.org/24/items/youtube-UFrWljsz9eo/UFrWljsz9eo.mp4"
+  poster="https://i.ytimg.com/vi/82lOD6znIic/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCAnPUsERsRLGZl5bj3qCpecKRrRA"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/youtube-UFrWljsz9eo/UFrWljsz9eo.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+## [ABC Network](https://abc.com/) - The Flintstones - "Fred's Flying Lesson" (Promo, 1965)
+Here (from an original 2" Quad tape) is a promo for The Flintstones episode "Fred's Flying Lesson," to air at 7:30pm (6:30pm Central time).
+
+This promo starts with a "swinging" RCA TK-60 black-and-white camera with an 'abc' sticker on the side (this was their ID between 1964 and 1966). Also, although this promo was in black-and-white, The Flintstones itself aired in color by this point on the network (one of the very few prior to their increasing color programming in the 1965-66 season).
+
+Ending voiceover by ??
+
+This promo aired on local Chicago TV on Friday, January 1st 1965 at about 6:29pm.
+
+About The Museum of Classic Chicago Television: - [imdb](https://www.imdb.com/title/tt0166203/)  
+
+### [commited](https://github.com/ThakaRashard/thakarashard.github.io/actions/runs/9341297882/job/25707899081)
+
 # [Malaika Jabali](https://x.com/MalaikaJabali)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The last stop on my book tour is TODAY in Milwaukee, a city with perhaps the biggest socialist history in the US. <br><br>I lived there while writing just about all of this book and it’s very dear to me. <br><br>Come througghhh! <a href="https://t.co/P4xPEzQD3m">pic.twitter.com/P4xPEzQD3m</a></p>&mdash; Malaika Jabali (@MalaikaJabali) <a href="https://twitter.com/MalaikaJabali/status/1724414138854617330?ref_src=twsrc%5Etfw">November 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
