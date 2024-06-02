@@ -43,6 +43,16 @@ carousels:
 {% endhighlight %}
 
 <div class="section_hr">
+  <a href="https://www.b98.tv/videos_categories/studios/">./HoleToAnotherUniverse/TheFlintStones.sh</a>
+</div> 
+
+![PebblesCoral](https://media1.tenor.com/m/JObiYxQ1epcAAAAC/sleep-good-night.gif)
+
+## [Pebbles’ Birthday Party](https://www.b98.tv/video/pebbles-birthday-party/)
+13629 views
+Fred makes arrangements for Pebbles’ first birthday and the Water Buffalo Lodge parties. Trouble ensues when the only caterer in town muddles the parties, including sending a children’s clown to the Water Buffalo Lodge and dancing girls to the babies’ party, and Fred gets blamed for it. Teaser is again a scene from the middle of the episode. [B98tv CArtoons](https://www.b98.tv/video/pebbles-birthday-party)
+
+<div class="section_hr">
   <a href="https://archive.org/download/garfield-s-01-e-09-the-binky-show-keeping-cool-dont-move">./HoleToAnotherUniverse/TheFlintStones.sh</a>
 </div> 
 <video controls 
@@ -64,6 +74,9 @@ Ending voiceover by ??
 This promo aired on local Chicago TV on Friday, January 1st 1965 at about 6:29pm.
 
 About The Museum of Classic Chicago Television: - [imdb](https://www.imdb.com/title/tt0166203/)  
+[Pebbles' Birthday Party (1964)](https://www.imdb.com/title/tt0580218/fullcredits)
+[theFlinTstones Pebbles Birthday](https://tubitv.com/tv-shows/596255/s05-e04-pebbles-birthday-party)
+[Top_Cartoons_Tv:Pebbles’ Birthday Party](https://www.topcartoons.tv/cartoons/pebbles-birthday-party/)
 
 ### [commited](https://github.com/ThakaRashard/thakarashard.github.io/actions/runs/9341297882/job/25707899081)
 
