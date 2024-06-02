@@ -42,6 +42,14 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+
+
+# FaceBook checkin
+  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>  
+  <div class="fb-post" 
+      data-href="https://www.facebook.com/CaptainOfJoy/videos/1825108517650797"
+      data-width="750"></div>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0EoSWjvFS3D3D1Qqiqcx7JSwMR4iaJ2rSKqNaq5i9CkSiY44nzpVby92atYyLj8oNl%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0j2pzZkdWvXhTK8wpLccvGRbQrsuEd56p4bERm2Te1NW7vzKE5eAhRNgEhskuK1aYl%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0d4QxJtcQ8nLcawQrfRmdJbDWQrzGNPaT3PmHK1cYL5haQYAZzRaX2d1iV5RP6gsGl%26id%3D100084464911565&show_text=true&width=500&preview=comet_preview" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
