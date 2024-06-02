@@ -42,6 +42,7 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
 <div class="section_hr">
   <a href="https://www.b98.tv/videos_categories/studios/">./HoleToAnotherUniverse/TheFlintStones.sh</a>
 </div> 
@@ -77,6 +78,12 @@ About The Museum of Classic Chicago Television: - [imdb](https://www.imdb.com/ti
 [Pebbles' Birthday Party (1964)](https://www.imdb.com/title/tt0580218/fullcredits)
 [theFlinTstones Pebbles Birthday](https://tubitv.com/tv-shows/596255/s05-e04-pebbles-birthday-party)
 [Top_Cartoons_Tv:Pebbles’ Birthday Party](https://www.topcartoons.tv/cartoons/pebbles-birthday-party/)
+
+
+
+![https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large](https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/PiDayChallengeLateEntry?src=hash&amp;ref_src=twsrc%5Etfw">#PiDayChallengeLateEntry</a> ? wassup wit this hole <a href="https://twitter.com/Ford?ref_src=twsrc%5Etfw">@ford</a> <a href="https://twitter.com/steedaautosport?ref_src=twsrc%5Etfw">@steedaautosport</a> <a href="https://twitter.com/americanmuscle?ref_src=twsrc%5Etfw">@americanmuscle</a> <a href="https://twitter.com/FalkenTire?ref_src=twsrc%5Etfw">@FalkenTire</a> <a href="https://twitter.com/MonsterEnergy?ref_src=twsrc%5Etfw">@MonsterEnergy</a> <a href="https://twitter.com/123klan?ref_src=twsrc%5Etfw">@123klan</a> whats up wit repair, does the <a href="https://twitter.com/hashtag/MarsRover?src=hash&amp;ref_src=twsrc%5Etfw">#MarsRover</a> just conk out and become a <a href="https://twitter.com/hashtag/stationarylander?src=hash&amp;ref_src=twsrc%5Etfw">#stationarylander</a> if the wheels all broke <a href="https://twitter.com/iamcardib?ref_src=twsrc%5Etfw">@iamcardib</a> im not playing with you <a href="https://twitter.com/hashtag/EastAtlanta?src=hash&amp;ref_src=twsrc%5Etfw">#EastAtlanta</a> <a href="https://t.co/qgKsmn4fJA">pic.twitter.com/qgKsmn4fJA</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1769068912577323504?ref_src=twsrc%5Etfw">March 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### [commited](https://github.com/ThakaRashard/thakarashard.github.io/actions/runs/9341297882/job/25707899081)
 
