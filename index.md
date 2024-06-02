@@ -42,8 +42,8 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-
-
+# [MobzWorld://girlblog](https://x.com/MobzWorld)
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="sl" dir="ltr">Mílagro 👅 <a href="https://t.co/0TiFeXmDBX">pic.twitter.com/0TiFeXmDBX</a></p>&mdash; Mílagro (@MobzWorld) <a href="https://twitter.com/MobzWorld/status/1687835233712807936?ref_src=twsrc%5Etfw">August 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 # Cardi
 you told me to call you charity... hi im scared yall toE up!!!!!!!!!!
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Cardi B threatens to SUE Bia after the rapper allegedly accused the Bronx rapper of cheating on husband Offset. <br><br>This was revealed in a snippet of a diss track from Bia that Cardi got her hands on and played for the internet. <br><br>Cardi implied that she recorded a 36 minute… <a href="https://t.co/sbHHN3o285">pic.twitter.com/sbHHN3o285</a></p>&mdash; Mílagro (@MobzWorld) <a href="https://twitter.com/MobzWorld/status/1797075029160550592?ref_src=twsrc%5Etfw">June 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
