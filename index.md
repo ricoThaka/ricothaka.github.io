@@ -44,6 +44,15 @@ carousels:
 
 
 
+# Cardi
+you told me to call you charity... hi im scared yall toE up!!!!!!!!!!
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Cardi B threatens to SUE Bia after the rapper allegedly accused the Bronx rapper of cheating on husband Offset. <br><br>This was revealed in a snippet of a diss track from Bia that Cardi got her hands on and played for the internet. <br><br>Cardi implied that she recorded a 36 minute… <a href="https://t.co/sbHHN3o285">pic.twitter.com/sbHHN3o285</a></p>&mdash; Mílagro (@MobzWorld) <a href="https://twitter.com/MobzWorld/status/1797075029160550592?ref_src=twsrc%5Etfw">June 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">There are a lot of ppl I don’t even engage with, or even follow because I know I’m seen as Millie The Menace to some &amp; I don’t want them dry associated with me/my thoughts. <br><br>Long story short, after knowing who Paris is for idk how long I was like, I like her let me follow. <br><br>Two… <a href="https://t.co/pKD654sRz1">pic.twitter.com/pKD654sRz1</a></p>&mdash; Mílagro (@MobzWorld) <a href="https://twitter.com/MobzWorld/status/1797289523627372568?ref_src=twsrc%5Etfw">June 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Chile, they be knowing who you are. <a href="https://t.co/m601W0mZpz">pic.twitter.com/m601W0mZpz</a></p>&mdash; Mílagro (@MobzWorld) <a href="https://twitter.com/MobzWorld/status/1797287054302154834?ref_src=twsrc%5Etfw">June 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Cardi B’s social media liaison took to X to defend the rapper’s actions. <br><br>The blogger reiterated that New York is a one party consent state and implied to a known NM supporter that Bia was recorded saying some unsavory things about the superstar.<br><br>“Also, y’all might wanna stop… <a href="https://t.co/rCmpA3C5kZ">pic.twitter.com/rCmpA3C5kZ</a></p>&mdash; Mílagro (@MobzWorld) <a href="https://twitter.com/MobzWorld/status/1797180519378985110?ref_src=twsrc%5Etfw">June 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 
 # FaceBook checkin
   <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>  
