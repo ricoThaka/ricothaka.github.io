@@ -42,6 +42,20 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JgCoHhsW2Is?si=QjEYQOd-tGnxsrZ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Gucci Mane Freestyle ft. OJ Da Juiceman, Kourtney Money & Dg Yola |Shot By @HoodffairsTv](https://www.youtube.com/watch?v=Tthu77cAOdE)
+[OJ Da Juiceman on Being Around Gucci Mane During Jeezy Beef ](https://youtu.be/jk_tuAnQdm0?si=Vlir14-eTBtNVFM6)
+[T.I. Goes Sneaker Shopping With Complex](https://youtu.be/oeC2NsKrg2A?si=fWiLQB5Go5LJndxW)
+[Ice Spice Goes Sneaker Shopping With Complex](https://www.youtube.com/watch?v=LaQu_ZmlTlc)
+[Sexyy Red Goes Sneaker Shopping With Complex](https://youtu.be/0dRy38lcWBw?si=fciQgNFH_GdZG7cE)
+[Katt Williams Expose How Diddy Force Out Kriss Kross From Hollywood](https://youtu.be/2mpvx9q_cL4?si=PpTWEdd2dYsTMaEg)
+
+
+
+
 {% include toolsdocs.html %}
 
 <div class="section_hr">
