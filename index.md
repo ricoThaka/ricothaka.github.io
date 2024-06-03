@@ -42,6 +42,28 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+# Pussy Talk (feat. Doja Cat)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/843506032&color=%23e53774&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thecitygirls" title="City Girls" target="_blank" style="color: #cccccc; text-decoration: none;">City Girls</a> · <a href="https://soundcloud.com/thecitygirls/pussy-talk-feat-doja-cat" title="Pussy Talk (feat. Doja Cat)" target="_blank" style="color: #cccccc; text-decoration: none;">Pussy Talk (feat. Doja Cat)</a></div>
+
+## Yung Miami & [Skilla Baby](https://www.youtube.com/channel/UC4OWd0CnbvaiaozgLZO-L4Q) - CFWM | From The Block Performance 🎙 (Miami)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5gZWdgSbhM?si=Ogv-taRNh7xaLmJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JgCoHhsW2Is?si=QjEYQOd-tGnxsrZ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Gucci Mane Freestyle ft. OJ Da Juiceman, Kourtney Money & Dg Yola |Shot By @HoodffairsTv](https://www.youtube.com/watch?v=Tthu77cAOdE)
+[OJ Da Juiceman on Being Around Gucci Mane During Jeezy Beef ](https://youtu.be/jk_tuAnQdm0?si=Vlir14-eTBtNVFM6)
+[T.I. Goes Sneaker Shopping With Complex](https://youtu.be/oeC2NsKrg2A?si=fWiLQB5Go5LJndxW)
+[Ice Spice Goes Sneaker Shopping With Complex](https://www.youtube.com/watch?v=LaQu_ZmlTlc)
+[Sexyy Red Goes Sneaker Shopping With Complex](https://youtu.be/0dRy38lcWBw?si=fciQgNFH_GdZG7cE)
+[Katt Williams Expose How Diddy Force Out Kriss Kross From Hollywood](https://youtu.be/2mpvx9q_cL4?si=PpTWEdd2dYsTMaEg)
+[Gucci Mane - Glockumentry (Trap-A-Thon DVD)](https://youtu.be/iS68nVIGJl8?si=WYzqdRxaBZTsH6t9)
+[Ex-makeup artist for Diddy and Cassie: I have kept this secret for 14 years](https://youtu.be/dioyfeZPxjM?si=kNIUdpdJjMcKjg9l)
+
+
+
+
+
+{% include toolsdocs.html %}
 
 <div class="section_hr">
   <a href="https://www.b98.tv/videos_categories/studios/">./HoleToAnotherUniverse/TheFlintStones.sh</a>
