@@ -42,6 +42,14 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+[Birdman, Lil Wayne - Stuntin' Like My Daddy (Official Music Video)](https://youtu.be/_hDPUoUi6_s?si=2-KOuhMx_GrST83X)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_hDPUoUi6_s?si=QkHpTIm_WJz5R2zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Yung Miami
+![YunG MaiMi](https://i.ytimg.com/vi/RiyASZgnwb0/maxresdefault.jpg)
+Yung Miami was born on 11 February 1994 in Miami, Florida, USA. She is a music artist and actress, known for You People (2023), Bad Boys for Life (2020) and Diddy Feat. Bryson Tiller, Ashanti, Yung Miami: Gotta Move On (2022) - [imdb](https://www.imdb.com/name/nm10128953/)
+### [Trina Talks The Rap Game, Her Love Life, Being From Miami, The City Girls & More | Caresha Please](https://youtu.be/n0eL2CzEnhc?si=JOXfZy6YmLVh-vbg)
+## [Yung Miami On Diddy, JT, Caresha Please, Acting in BMF, Marriage & More | The Jason Lee Show](https://youtu.be/RiyASZgnwb0?si=1CMX0NLZ0_JctRX7)
 
 ![Birdman ResPecK](https://s3.us-east-2.amazonaws.com/dsr-website/posts/respeck.gif)
 [Birdman Goes Off On The Breakfast Club Power 105.1 (04/22/2016)](https://youtu.be/4jLT7GQYNhI?si=GfwhmLck3_1pZZwY)
