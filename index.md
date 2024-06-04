@@ -50,14 +50,14 @@ carousels:
 <div class="panel4-container">
 
   <div class="item1">
-    <video width="250" autoplay="" loop="" muted="">
+    <video width="500" autoplay="" loop="" muted="">
       <source src="https://science.nasa.gov/wp-content/uploads/2024/03/30414_msl20120808_malinheatshield-640.mp4" type="video/mp4" />
 
       Your browser does not support the video tag.
     </video>
   </div>
   </div>
-  
+
 <embed  src="https://www.youtube.com/embed/4czjS9h4Fpg?si=Dhkd5gau1VRbYA_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
 [Take A Tour](https://www.jpl.nasa.gov/virtual-tour/)
 
