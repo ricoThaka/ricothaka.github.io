@@ -42,6 +42,7 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+### [Succa Proof - Nipsey Hussle, Victory Lap [Official Audio]](https://youtu.be/rQEuF5QI0Q8?si=po6HyAj41Pa_iIjM)
 
 # Pussy Talk (feat. Doja Cat)
 
