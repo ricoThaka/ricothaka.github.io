@@ -1,6 +1,24 @@
+[cv]({{ site.baseurl }}/cv)
+{{ site.baseurl }}/cv
 
+<img src="https://mars.nasa.gov/system/resources/detail_files/26822_E1-PIA25368-Curiositys_Mastcam_Views_Flaky_Streambed_Rocks-web.jpg" />
+
+<img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />   
+
+## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
+<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+
+<source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
+<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
 
 [Jekyll’s site.url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/)
+
 {{ '/images/dog.jpeg' | relative_url }}
 
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
@@ -56,18 +74,24 @@ NASA/JPL-Caltech</p>
 <a href="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4">MP4</a>
         video.
 </video>    
-      <img src="https://mars.nasa.gov/system/resources/detail_files/26822_E1-PIA25368-Curiositys_Mastcam_Views_Flaky_Streambed_Rocks-web.jpg" />
-      <video controls width="100%" height="auto" poster="https://mars.nasa.gov/system/resources/detail_files/27698_e2-PIA26042-Curiosity's-Path-Beyond-Gediz-Vallis-Ridge-still-web.jpg">
-    
- <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+
+<img src="https://mars.nasa.gov/system/resources/detail_files/26822_E1-PIA25368-Curiositys_Mastcam_Views_Flaky_Streambed_Rocks-web.jpg" />
+
+<img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />   
+
+## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
+<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+
+<source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
+<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
       
         Download the
         or
         <a href="">MP4</a>
         video.
-      </video>
+</video>
 
-  <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />    
+<img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />    
       
  <title>js-dos api</title>
         <style type="text/css">
@@ -75,7 +99,7 @@ NASA/JPL-Caltech</p>
           .dosbox-container > .dosbox-overlay { background: url(https://i.ebayimg.com/images/g/OTgAAOSwYINj50PW/s-l1200.webp); }
         </style>
     
- <body>
+<body>
         <div id="dosbox"></div>
         <br/>
         <button onclick="dosbox.requestFullScreen();">Make fullscreen</button>
@@ -92,10 +116,10 @@ NASA/JPL-Caltech</p>
             }
           });
         </script>  
-
+</body>
 <video controls >
 
-  <source src="" type="video/mp4" />
+  <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6085_sol_200_autonav.mp4" type="video/mp4" />
 
   Download the
 
