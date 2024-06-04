@@ -43,9 +43,11 @@ carousels:
 {% endhighlight %}
 
 
-
 ![Birdman ResPecK](https://s3.us-east-2.amazonaws.com/dsr-website/posts/respeck.gif)
 [Birdman Goes Off On The Breakfast Club Power 105.1 (04/22/2016)](https://youtu.be/4jLT7GQYNhI?si=GfwhmLck3_1pZZwY)
+[Common & Pete Rock On Nas vs Biggie, Ye's Genius, Drake & Kendrick, New Album & More | Drink Champs](https://youtu.be/yqH9Vb72M_E?si=0dsX53DpZyOoeuvu)
+[CooleyHigh](https://youtu.be/ANrXC2HArXA?si=xyhyIT8c0Kt0aacV)
+
 ## Convo with a killer
 <div style="padding:216.7% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
