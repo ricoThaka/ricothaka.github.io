@@ -44,6 +44,18 @@ carousels:
 
 
 [Hubble on Flickr](https://www.flickr.com/photos/nasahubble/albums/)
+
+[Jekyll’s site.url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/)
+
+{{ '/images/dog.jpeg' | relative_url }}
+
+[All Mars Resources](https://science.nasa.gov/mars/resources/?pageno=9&search=perseverance&types=videos&content_list=true)
+
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+
+
 ## [Nipsey Hussle - Mailbox Money (Full Mixtape)](https://youtu.be/I7q-HOvGABQ?si=sbdAmlbJehUWEK7a)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/396999048&color=%235c5454&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nipseyhussle" title="Nipsey Hussle" target="_blank" style="color: #cccccc; text-decoration: none;">Nipsey Hussle</a> · <a href="https://soundcloud.com/nipseyhussle/track-8" title="Status Symbol 3 (feat. Buddy)" target="_blank" style="color: #cccccc; text-decoration: none;">Status Symbol 3 (feat. Buddy)</a></div>

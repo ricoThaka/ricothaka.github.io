@@ -1,6 +1,12 @@
+
+
+[Jekyll’s site.url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/)
+{{ '/images/dog.jpeg' | relative_url }}
+
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
     </object>
-  [All Mars Resources](https://science.nasa.gov/mars/resources/?pageno=9&search=perseverance&types=videos&content_list=true)
+
+[All Mars Resources](https://science.nasa.gov/mars/resources/?pageno=9&search=perseverance&types=videos&content_list=true)
 
 # 6/4/2020 checking in 
 
