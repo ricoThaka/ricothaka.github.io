@@ -43,6 +43,10 @@ carousels:
 {% endhighlight %}
 
 
+## Convo with a killer
+<div style="padding:216.7% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
 
 ## Perseverance Rover’s Descent and Touchdown on Mars
 ### Official NASA Video
@@ -54,10 +58,10 @@ carousels:
       <source src="https://science.nasa.gov/wp-content/uploads/2024/03/30414_msl20120808_malinheatshield-640.mp4" type="video/mp4" />
 
       Your browser does not support the video tag.
-    </video>
+  </video>
   </div>
   </div>
-
+<br>
 <embed  src="https://www.youtube.com/embed/4czjS9h4Fpg?si=Dhkd5gau1VRbYA_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
 [Take A Tour](https://www.jpl.nasa.gov/virtual-tour/)
 
