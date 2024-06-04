@@ -42,6 +42,9 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/396999048&color=%235c5454&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nipseyhussle" title="Nipsey Hussle" target="_blank" style="color: #cccccc; text-decoration: none;">Nipsey Hussle</a> · <a href="https://soundcloud.com/nipseyhussle/track-8" title="Status Symbol 3 (feat. Buddy)" target="_blank" style="color: #cccccc; text-decoration: none;">Status Symbol 3 (feat. Buddy)</a></div>
+
 ### [Succa Proof - Nipsey Hussle, Victory Lap [Official Audio]](https://youtu.be/rQEuF5QI0Q8?si=po6HyAj41Pa_iIjM)
 
 # Pussy Talk (feat. Doja Cat)
