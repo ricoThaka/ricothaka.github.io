@@ -42,6 +42,28 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+
+## Perseverance Rover’s Descent and Touchdown on Mars
+### Official NASA Video
+
+<div class="panel4-container">
+
+  <div class="item1">
+    <video width="250" autoplay="" loop="" muted="">
+      <source src="https://science.nasa.gov/wp-content/uploads/2024/03/30414_msl20120808_malinheatshield-640.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  </div>
+  
+<embed  src="https://www.youtube.com/embed/4czjS9h4Fpg?si=Dhkd5gau1VRbYA_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
+[Take A Tour](https://www.jpl.nasa.gov/virtual-tour/)
+
+## Convo with a killer
+<div style="padding:216.7% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 # Pussy Talk (feat. Doja Cat)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/843506032&color=%23e53774&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thecitygirls" title="City Girls" target="_blank" style="color: #cccccc; text-decoration: none;">City Girls</a> · <a href="https://soundcloud.com/thecitygirls/pussy-talk-feat-doja-cat" title="Pussy Talk (feat. Doja Cat)" target="_blank" style="color: #cccccc; text-decoration: none;">Pussy Talk (feat. Doja Cat)</a></div>
@@ -305,11 +327,6 @@ https://x.com/MooNLOVER404/status/1796593108639236604
 [Sonic The Hedgehog 2](https://www.allsonicgames.net/) [Sonic The Hedgehog 2](https://www.retrogames.cz/play_219-Genesis.php) 
 
 
-## Perseverance Rover’s Descent and Touchdown on Mars
-### Official NASA Video
-
-<embed  src="https://www.youtube.com/embed/4czjS9h4Fpg?si=Dhkd5gau1VRbYA_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
-[Take A Tour](https://www.jpl.nasa.gov/virtual-tour/)
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@NASAMars</a> <a href="https://twitter.com/hashtag/JAmie?src=hash&amp;ref_src=twsrc%5Etfw">#JAmie</a> <a href="https://twitter.com/NASAJuno?ref_src=twsrc%5Etfw">@NASAJuno</a> im not sure wht happened but you need to talk to <a href="https://twitter.com/hashtag/George?src=hash&amp;ref_src=twsrc%5Etfw">#George</a> (<a href="https://twitter.com/hashtag/DeKAe?src=hash&amp;ref_src=twsrc%5Etfw">#DeKAe</a> <a href="https://twitter.com/Handselecta?ref_src=twsrc%5Etfw">@Handselecta</a> <a href="https://twitter.com/handstyler?ref_src=twsrc%5Etfw">@handstyler</a> <a href="https://twitter.com/12ozProphet?ref_src=twsrc%5Etfw">@12ozProphet</a>) i went to <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> dance class an got taken advantage of bc i shit artwork in they world bc i have progressive <a href="https://twitter.com/hashtag/workingmanhobbies?src=hash&amp;ref_src=twsrc%5Etfw">#workingmanhobbies</a> so its always new <a href="https://t.co/jbRO6bnQzA">pic.twitter.com/jbRO6bnQzA</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1782924062664331350?ref_src=twsrc%5Etfw">April 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -2139,8 +2156,7 @@ Total records: 15
 
 <a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
 
-## Convo with a killer
-<div style="padding:216.7% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 # Android as a Linux device
 <video
