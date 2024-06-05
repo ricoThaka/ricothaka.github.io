@@ -43,6 +43,7 @@ carousels:
 {% endhighlight %}
 
 [SaveState](ricoThaka/ricothaka.github.io/mshvsfa.save)
+
 ![EastLosSaveStateSesh](https://pbs.twimg.com/media/GPVBHV7aYAAcBKB?format=jpg&name=large)
 
 [Marvel Super Heroes vs Street Fighter (970625 Asia)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-asia.html)
