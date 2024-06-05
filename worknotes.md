@@ -173,10 +173,48 @@ NASA/JPL-Caltech</p>
   </div>
 </div>
 
+![itsRashardAKATHAKA](https://pbs.twimg.com/media/GIL3LJIbMAAe1PV?format=jpg&name=small)
+
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
+
+
+
+
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani">
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.graffiti.org/sfb/refa2002oakland04.jpg" alt="BUBBLEGUM_POP">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://mars.nasa.gov/system/resources/detail_files/27288_PIA25708.jpg" alt="Girlinajacket">
+
+  </div>
+  </div>
+  </div>
+</div>
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" alt="CuriosityOnMArs">
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg" alt="martianLandscape">
+
 
 ![screen](https://pbs.twimg.com/media/GMrFFHrasAMQVDD?format=jpg&name=large)
 ![homegirl](https://pbs.twimg.com/media/GMxIIEibwAAzzwf?format=jpg&name=large)
-![itsRashardAKATHAKA](https://pbs.twimg.com/media/GIL3LJIbMAAe1PV?format=jpg&name=small)
+
 ![Coral](https://pbs.twimg.com/media/GNaGWK1aAAABmui?format=jpg&name=large)
 ![CAssini](https://pbs.twimg.com/media/GNaJcn9bMAALrwb?format=jpg&name=large)
 ![love](https://pbs.twimg.com/media/GNA3JE6acAAUL15?format=png&name=900x900)
