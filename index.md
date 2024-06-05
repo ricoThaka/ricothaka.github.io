@@ -43,9 +43,10 @@ carousels:
 {% endhighlight %}
 
 
-[Hubble on Flickr](https://www.flickr.com/photos/nasahubble/albums/)
+[![MyChile](https://pbs.twimg.com/media/GPRK95paAAAG5Bk?format=jpg&name=large)](https://pbs.twimg.com/media/GPRK95paAAAG5Bk?format=jpg&name=large "Redirect to homepage")
+[Henri Cartier-Bresson TheDecisive Moment](https://www.icp.org/files/ICP_HCB%20Decisive%20Moment%20press%20images%20May%202018.pdf)
 
-[Jekyll’s site.url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/)
+[Hubble on Flickr](https://www.flickr.com/photos/nasahubble/albums/) [Jekyll’s site.url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/)
 
 {{ '/images/dog.jpeg' | relative_url }}
 
