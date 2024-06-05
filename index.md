@@ -43,6 +43,11 @@ carousels:
 {% endhighlight %}
 
 
+[![MyChile](https://d7hftxdivxxvm.cloudfront.net/?height=434&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FFTsni5VEukRSlm6s2wLGyQ%2Flarge.jpg&width=640)](https://d7hftxdivxxvm.cloudfront.net/?height=434&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FFTsni5VEukRSlm6s2wLGyQ%2Flarge.jpg&width=640 "Redirect to homepage")
+[Henri Cartier-Bresson TheDecisive Moment](https://www.icp.org/files/ICP_HCB%20Decisive%20Moment%20press%20images%20May%202018.pdf)
+
+>Cartier-Bresson, Henri, 1908-2004. (1945, 20th century). Russian Child Leaves the Concentration Camp in Dessau, Germany, Alternative title: Un enfant russe sort du camp de concentration de Dessau, Allemagne. [Photograph]. Retrieved from https://library.artstor.org/asset/32653514
+
 [![MyChile](https://pbs.twimg.com/media/GPRK95paAAAG5Bk?format=jpg&name=large)](https://pbs.twimg.com/media/GPRK95paAAAG5Bk?format=jpg&name=large "Redirect to homepage")
 [Henri Cartier-Bresson TheDecisive Moment](https://www.icp.org/files/ICP_HCB%20Decisive%20Moment%20press%20images%20May%202018.pdf)
 
