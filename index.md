@@ -42,6 +42,26 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+<div class="section_hr">
+  <a href="https://archive.org/details/sdf-macross-episode-8-longest-birthday-adv-dub_202108">./HoleToAnotherUniverse/MechShiT.py</a>
+</div> 
+
+## Robot Jox
+Dear Normani/Janika/Vanessa/Sartu/Imani(im not mad if its malaika) I cant talk about your movies or Chloe no more... I think you would laugh at how serious i still take this silly by my standards post 12ozProphet, so you guys can make those movies and i will be more accepting to what you do in hollywood professionally.
+
+<video controls 
+  src="https://archive.org/download/robotjox/Robot%20Jox.mp4"
+  poster="https://canvas-bridge02.tubitv.com/qLl8WbcPCCpxDRYJ7Hxj8icq2Xc=/1920x1080/smart/img.adrise.tv/ad076aa3-6c8c-4812-b385-7d6fab43a0d5.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/robotjox/Robot%20Jox.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+Robot Jox is a 1990 American post-apocalyptic Mecha science-fiction film directed by Stuart Gordon and starring Gary Graham, Anne-Marie Johnson and Paul Koslo. Co-written by science-fiction author Joe Haldeman, the film's plot follows Achilles, one of the "robot jox" who pilot giant machines that fight international battles to settle territorial disputes in a dystopian, post-apocalyptic world...[ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Robot_Jox) [imdb](https://www.imdb.com/title/tt0102800/) [Robot Jox on Tubi](https://en.wikipedia.org/wiki/Robot_Jox)
+
+[![LongBeachSaveStateSesh](https://pbs.twimg.com/media/GPVhC-sa8AAiAvb?format=jpg&name=large)](https://pbs.twimg.com/media/GPVhC-sa8AAiAvb?format=jpg&name=large "Redirect to homepage")
+
 [![EastLosSaveStateSesh](https://pbs.twimg.com/media/GPVBHV7aYAAcBKB?format=jpg&name=large)](https://pbs.twimg.com/media/GPVBHV7aYAAcBKB?format=jpg&name=large "Redirect to homepage")
 
 [SaveState](ricothaka.github.io/mshvsfa.save) [Marvel Super Heroes vs Street Fighter (970625 Asia)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-asia.html)
