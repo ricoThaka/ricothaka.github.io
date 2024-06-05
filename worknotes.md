@@ -1,4 +1,37 @@
 
+![FamilyLife](https://pbs.twimg.com/media/GO7qRggbEAMhCEp?format=jpg&name=large)
+### ~> ThatTweet ~>
+```
+https://x.com/MooNLOVER404/status/1796629849072861473
+```
+### [Dear_Jamie](https://science.nasa.gov/mars/)
+While i was in atlanta A childhood sweetheart walked backinto my life. She did not tell me she was a sex slave. Alot of what I hear in the [Immigration Reform](https://www.americanimmigrationcouncil.org/topics/immigration-reform) headlines and [topics](https://www.congress.gov/bill/99th-congress/senate-bill/1200) (S.1200 - Immigration Reform and Control Act of 1986) would protect her from being sold on the street. But im wondering about how I can stay safe. Theres about 7 women all my age possibly 9 bc they have disquses like [Sartu](https://x.com/sartuadem) is also [Normani The Popstar](https://people.com/normani-calls-boyfriend-dk-metcalf-an-answered-prayer-8658837) so Get this! Erika has a deep history in East Los Angeles. I found a documenary on [Vicky's Town Chronicles](https://www.youtube.com/@VickysTownChronicles) called [Gangster Girls 1999 East LA](https://youtu.be/CIRxStt5jqI?si=SYGl2AUtd1DIZxzx) so she hid that from me, she was stalking me on [OkayPlayer]
+(https://www.okayplayer.com/new-summer-albums-june) and [12ozProphet](https://forum.12ozprophet.com/forum/6-brick-slayers/) and those were not secret but segmented lives when I was a JehovahsWitness! So The confusion i have is that [Prostitution is illegal here!](https://www.keglawyers.com/prostitution-and-solicitation-penal-code-647b#:~:text=California%20Penal%20Code%20647). I never told you but a big part of the black community dont like me working here... I have been tortured and sabotaged eversince month 2 of my employment post [Mori Associates](https://moriassociates.com/) [Mori on Linkedin](https://www.linkedin.com/company/mori-associates) and when [Jose Pi](https://community.pmi.org/profile/josempi#_=_) ![JosePi](https://static.projectmanagement.com/images/profile-photos/46666245_120718014114_p.jpg) told me i could not come back, i was coming in later than 8am bc i was troubleshooting [AirQuality](https://eospso.nasa.gov/earth-observer-archive) which is normal when your wife is having seizurs and your 3 year old is waking up in pools of blood!~ like it was serious! So now i understand that for the Pornography mob to take a family they havce to disable the breadwinner. Erika suggested we live outside, but that was a set up to dump me and i held on to the child as long as possible taking remote, devops and any position that would get me to the next meal with the kid and whatever i needed to keep her mother from running out in front of a car (YuppieSex). So The brown girl in the photo looks like #Muna_Ahmed from atlanta it could be Normani but we had a serious sexual relationship in georgia and she wanted to grow with a stable partner. And Coral was not a blacck Eye for a relationship bc She was happy and had dreadlocks the brown girls were from Africa so they loved me as a father and wanted to have a baby and We just continue. Then Muna died and Normani stepped in as Sartu at Muna funeral. I ended up back in California after someone saw Normani or Muna leave my East Atlanta Cottage (631 moreland ave) my life fell apart. Dwayne_Gooden of IonicSecurity and [USMC](https://www.marines.mil/) Started bullying me and saying Ethiopian girls are hard to get. He brought me in his office to talk about nightlife an i was questioned on "fuckinBitchiz" its a foriegn concept bc those prostitutes aka groupies are like stage children in regular population and being a JehovahsWitness stage child im a quick go to after they done murdered some pimp or something! And I want a peacful life. The guys that buy them for sex often molest children or turn a blind eye to it, so what do I do? i never bought anyone for sex or raped or even took advantage of anyone, maybe erika a little bit bc deepdown i knew we were just friends... 
+
+### THE CRIME OF PROSTITUTION UNDER CALIFORNIA PC 647(B)
+California Penal Code 647(b) PC prohibits someone from both engaging in prostitution and soliciting, which means requesting, encouraging, or offering to pay for sex.
+
+WHAT MUST BE PROVEN FOR A PC 647(B) PROSTITUTION CONVICTION?
+In order for a prosecutor to obtain a conviction against you for soliciting prostitution in violation of PC 647(b), they must prove:
+
+You requested that someone engage in the act of prostitution
+You had intent to actually engage in an act of prostitution
+The other person actually received the communication with the request
+It should be noted there must be some form of an overt act, such as:
+
+Discussion of money in exchange for sexual act, or
+Making an ATM money withdraw or sex
+What is considered a lewd act?
+
+A “lewd act” includes sexual intercourse or some type of lewd conduct, including:
+
+Touching the genitals, or
+Buttocks, or
+Female breast, with;
+The intent to arouse or sexual gratification
+
+[Decades of Reform: Prostitutes, Feminists, and the War on White Slavery](https://www.uvm.edu/sites/default/files/S13_Thesis_Masotta.pdf)
+
 [Mighty Healthy · Ghostface Killah](https://youtu.be/XnCAIEN-OVc?si=2i7UHzAQ97ZPXKSn)
 
 Supreme Clientele
@@ -12,6 +45,7 @@ Producer: Mathematics
 ![CareerGrowth](https://pbs.twimg.com/media/GPQnXGiboAA21pe?format=jpg&name=large)
 ![Sec2intheNew](https://pbs.twimg.com/media/GPP663haYAE0u8_?format=jpg&name=large)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/26Y4xQUiqJ">https://t.co/26Y4xQUiqJ</a> <a href="https://twitter.com/hashtag/DigitalBroadcast?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalBroadcast</a> <a href="https://twitter.com/hashtag/SystemsSupportEngineer?src=hash&amp;ref_src=twsrc%5Etfw">#SystemsSupportEngineer</a> <a href="https://twitter.com/hashtag/PartTime?src=hash&amp;ref_src=twsrc%5Etfw">#PartTime</a> ? ? ?<a href="https://twitter.com/josempi?ref_src=twsrc%5Etfw">@josempi</a> r u really <a href="https://twitter.com/USNavy?ref_src=twsrc%5Etfw">@USNavy</a> ? do u have authority over my <a href="https://twitter.com/hashtag/assignment?src=hash&amp;ref_src=twsrc%5Etfw">#assignment</a> since <a href="https://twitter.com/SSS_gov?ref_src=twsrc%5Etfw">@SSS_gov</a> has my <a href="https://twitter.com/hashtag/DraftAgreement?src=hash&amp;ref_src=twsrc%5Etfw">#DraftAgreement</a>??<a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/hashtag/SocialMediaManager?src=hash&amp;ref_src=twsrc%5Etfw">#SocialMediaManager</a> i dont want a job that break my <a href="https://twitter.com/hashtag/HoneyDoPromises?src=hash&amp;ref_src=twsrc%5Etfw">#HoneyDoPromises</a> <a href="https://twitter.com/hashtag/imLooking?src=hash&amp;ref_src=twsrc%5Etfw">#imLooking</a> <a href="https://t.co/HEaz5tWwaR">pic.twitter.com/HEaz5tWwaR</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1798103082838180120?ref_src=twsrc%5Etfw">June 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DigitalBroadcast?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalBroadcast</a> Systems Support Engineer<br>$68k-$101k<a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasaJPL</a> is an <a href="https://twitter.com/hashtag/EqualOpportunityEmployer?src=hash&amp;ref_src=twsrc%5Etfw">#EqualOpportunityEmployer</a>. <a href="https://t.co/e8YX53Rxnl">https://t.co/e8YX53Rxnl</a> its my job 2share things wit u <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@NASAMars</a> understand <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> things r always movin <a href="https://twitter.com/MarsCuriosity?ref_src=twsrc%5Etfw">@MarsCuriosity</a> can die so i want to spread myself out <a href="https://t.co/AItxCDGKqQ">https://t.co/AItxCDGKqQ</a> <a href="https://t.co/vgttcpDszx">pic.twitter.com/vgttcpDszx</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1798105852630765999?ref_src=twsrc%5Etfw">June 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
