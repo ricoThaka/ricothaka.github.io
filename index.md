@@ -43,6 +43,12 @@ carousels:
 {% endhighlight %}
 
 
+### ~> ThatTweet ~>
+```
+https://x.com/MooNLOVER404/status/1798491342202626461
+https://x.com/MooNLOVER404/status/1796629849072861473
+```
+[Exif Viewer](https://onlineexifviewer.com/) Great tool!!! 
 [detroit](https://ia601306.us.archive.org/31/items/detrmi-Census_2020_-_Kash_Doll/Census_2020_-_Kash_Doll.mp4)
 
 [12oz Twist THR aka Barry McGee Mega-Thread (Official Version)](https://forum.12ozprophet.com/topic/83530-twist-thr-aka-barry-mcgee-mega-thread-official-version/#comment-6545774)
