@@ -42,6 +42,13 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+[Dichlorodiphenyltrichloroethane (DDT):](https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.02110125) 
+
+Due to uncontrolled use for several decades, dichlorodiphenyltrichloroethane (DDT), probably
+the best known and most useful insecticide in the world, has damaged wildlife and might have
+negative effects on human health. This review gives a brief history of the use of DDT
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fposts%2Fpfbid02TvRAPpuGqjNuPUZpDeV35MZEKaosBQomcqwLwshbrKTWK94RgCKoxbDKAX37x1dsl&show_text=true&width=500&preview=comet_preview" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [![MyChile](https://d7hftxdivxxvm.cloudfront.net/?height=434&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FFTsni5VEukRSlm6s2wLGyQ%2Flarge.jpg&width=640)](https://d7hftxdivxxvm.cloudfront.net/?height=434&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FFTsni5VEukRSlm6s2wLGyQ%2Flarge.jpg&width=640 "Redirect to homepage")

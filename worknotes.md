@@ -1,5 +1,13 @@
+
+
+
 [cv]({{ site.baseurl }}/cv)
 {{ site.baseurl }}/cv
+[Dichlorodiphenyltrichloroethane (DDT):](https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.02110125) 
+
+Due to uncontrolled use for several decades, dichlorodiphenyltrichloroethane (DDT), probably
+the best known and most useful insecticide in the world, has damaged wildlife and might have
+negative effects on human health. This review gives a brief history of the use of DDT
 
 <img src="https://mars.nasa.gov/system/resources/detail_files/26822_E1-PIA25368-Curiositys_Mastcam_Views_Flaky_Streambed_Rocks-web.jpg" />
 
