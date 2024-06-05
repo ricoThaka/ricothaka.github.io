@@ -1,5 +1,10 @@
 
 
+![CareerGrowth](https://pbs.twimg.com/media/GPQnXGiboAA21pe?format=jpg&name=large)
+![Sec2intheNew](https://pbs.twimg.com/media/GPP663haYAE0u8_?format=jpg&name=large)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DigitalBroadcast?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalBroadcast</a> Systems Support Engineer<br>$68k-$101k<a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasaJPL</a> is an <a href="https://twitter.com/hashtag/EqualOpportunityEmployer?src=hash&amp;ref_src=twsrc%5Etfw">#EqualOpportunityEmployer</a>. <a href="https://t.co/e8YX53Rxnl">https://t.co/e8YX53Rxnl</a> its my job 2share things wit u <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@NASAMars</a> understand <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> things r always movin <a href="https://twitter.com/MarsCuriosity?ref_src=twsrc%5Etfw">@MarsCuriosity</a> can die so i want to spread myself out <a href="https://t.co/AItxCDGKqQ">https://t.co/AItxCDGKqQ</a> <a href="https://t.co/vgttcpDszx">pic.twitter.com/vgttcpDszx</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1798105852630765999?ref_src=twsrc%5Etfw">June 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 [cv]({{ site.baseurl }}/cv)
 {{ site.baseurl }}/cv
