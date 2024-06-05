@@ -42,6 +42,10 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+
+[12oz Twist THR aka Barry McGee Mega-Thread (Official Version)](https://forum.12ozprophet.com/topic/83530-twist-thr-aka-barry-mcgee-mega-thread-official-version/#comment-6545774)
+
 <div class="section_hr">
   <a href="https://archive.org/details/sdf-macross-episode-8-longest-birthday-adv-dub_202108">./HoleToAnotherUniverse/MechShiT.py</a>
 </div> 
