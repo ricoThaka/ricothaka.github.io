@@ -42,11 +42,9 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-[SaveState](ricoThaka/ricothaka.github.io/mshvsfa.save)
+[![EastLosSaveStateSesh](https://pbs.twimg.com/media/GPVBHV7aYAAcBKB?format=jpg&name=large)](https://pbs.twimg.com/media/GPVBHV7aYAAcBKB?format=jpg&name=large "Redirect to homepage")
 
-![EastLosSaveStateSesh](https://pbs.twimg.com/media/GPVBHV7aYAAcBKB?format=jpg&name=large)
-
-[Marvel Super Heroes vs Street Fighter (970625 Asia)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-asia.html)
+[SaveState](ricothaka.github.io/mshvsfa.save) [Marvel Super Heroes vs Street Fighter (970625 Asia)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-asia.html)
 
 # [Dichlorodiphenyltrichloroethane (DDT):](https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.02110125) 
 
