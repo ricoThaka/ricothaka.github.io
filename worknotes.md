@@ -1,5 +1,14 @@
 
+[Mighty Healthy · Ghostface Killah](https://youtu.be/XnCAIEN-OVc?si=2i7UHzAQ97ZPXKSn)
 
+Supreme Clientele
+
+℗ 1999 Razor Sharp Records LLC
+
+Released on: 2000-02-08
+
+Composer, Lyricist: Dennis Coles
+Producer: Mathematics
 ![CareerGrowth](https://pbs.twimg.com/media/GPQnXGiboAA21pe?format=jpg&name=large)
 ![Sec2intheNew](https://pbs.twimg.com/media/GPP663haYAE0u8_?format=jpg&name=large)
 
