@@ -78,6 +78,15 @@ So you are down one [media channel](https://www.activecampaign.com/glossary/medi
 [![VirtualBoy](https://pbs.twimg.com/media/GB1Aw_laYAAmtOP?format=jpg&name=medium)](https://pbs.twimg.com/media/GB1Aw_laYAAmtOP?format=jpg&name=medium "Redirect to homepage")
 [![VirtualBoy](https://pbs.twimg.com/media/GB1AxL2bkAAKRfI?format=jpg&name=medium)](https://pbs.twimg.com/media/GB1AxL2bkAAKRfI?format=jpg&name=medium "Redirect to homepage")
 [![VirtualBoy](https://pbs.twimg.com/media/GPaZNl_aEAEahaL?format=jpg&name=large)](https://pbs.twimg.com/media/GPaZNl_aEAEahaL?format=jpg&name=large "Redirect to homepage")
+[![WipeOUt_XL](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large)](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large "Redirect to homepage")
+
+
+<embed  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217049673&color=%23ea27c2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+## Barbie Drip by Nicki Minaj
+
+  <audio controls src="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3"></audio>
+  <a href="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3"> Download audio </a>
 
 
 [![WipeOUt_XL](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large)](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large "Redirect to homepage")
@@ -210,13 +219,6 @@ Dear Normani/Janika/Vanessa/Sartu/Imani(im not mad if its malaika) I cant talk a
 Robot Jox is a 1990 American post-apocalyptic Mecha science-fiction film directed by Stuart Gordon and starring Gary Graham, Anne-Marie Johnson and Paul Koslo. Co-written by science-fiction author Joe Haldeman, the film's plot follows Achilles, one of the "robot jox" who pilot giant machines that fight international battles to settle territorial disputes in a dystopian, post-apocalyptic world...[ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Robot_Jox) [imdb](https://www.imdb.com/title/tt0102800/) [Robot Jox on Tubi](https://en.wikipedia.org/wiki/Robot_Jox)
 
 
-<figure>
-  <figcaption>
-## Barbie Drip by Nicki Minaj
-</figcaption>
-  <audio controls src="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3"></audio>
-  <a href="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3"> Download audio </a>
-</figure>
 
 
 ![StrainTable](https://camo.githubusercontent.com/1087f9448b2e18b179bd14d5ee678c33e393b049abfebfc065a90c65df0081f5/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f44553462777945553841414a6432512e6a7067)
