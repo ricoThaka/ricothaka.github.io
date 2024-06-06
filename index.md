@@ -42,6 +42,56 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+![WipeOUt_XL]()
+[![WipeOUt_XL](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large)](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large "Redirect to homepage")
+
+# Manessa?
+do ppl at [RedBull3Style](https://www.redbull.com/us-en/events/red-bull-3style-world-final) well.. [Oracle](https://www.oracle.com/redbullracing/) is into racing so i dont know where you stand, since a lot of the Dance Sex partners are moving forward, how long will these guys take ? I belive you are [Normani](https://www.tiktok.com/@normani?lang=en) & [KashDoll...KayDEE!!](https://www.instagram.com/kashdoll/) 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Theft?src=hash&amp;ref_src=twsrc%5Etfw">#Theft</a>! <a href="https://twitter.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a> <a href="https://twitter.com/hashtag/yo?src=hash&amp;ref_src=twsrc%5Etfw">#yo</a> <a href="https://twitter.com/hashtag/JuryBOWX?src=hash&amp;ref_src=twsrc%5Etfw">#JuryBOWX</a> <a href="https://t.co/Og8rftyMvK">https://t.co/Og8rftyMvK</a> <a href="https://twitter.com/hashtag/Blacktwitter?src=hash&amp;ref_src=twsrc%5Etfw">#Blacktwitter</a> <a href="https://twitter.com/hashtag/GirlsInRap?src=hash&amp;ref_src=twsrc%5Etfw">#GirlsInRap</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> she got <a href="https://twitter.com/hashtag/robbd?src=hash&amp;ref_src=twsrc%5Etfw">#robbd</a> <a href="https://twitter.com/MagicCity?ref_src=twsrc%5Etfw">@MagicCity</a> u some bum ass <a href="https://twitter.com/hashtag/LLC?src=hash&amp;ref_src=twsrc%5Etfw">#LLC</a>? <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> i found manesssah jEERYBOWX <a href="https://twitter.com/FGTV?ref_src=twsrc%5Etfw">@FGTV</a> ~&gt; <a href="https://twitter.com/LAPDHQ?ref_src=twsrc%5Etfw">@LAPDHQ</a> <a href="https://twitter.com/hashtag/reward?src=hash&amp;ref_src=twsrc%5Etfw">#reward</a> <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@essence</a> <a href="https://t.co/8u9LwCE5Mh">https://t.co/8u9LwCE5Mh</a> <a href="https://t.co/LaVBXXzbdq">pic.twitter.com/LaVBXXzbdq</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1798793748002033784?ref_src=twsrc%5Etfw">June 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+   <div class="vert-container">
+
+   <div class="vert-items"> <a href="https://pbs.twimg.com/media/GB2WF_JbQAAmmB_?format=jpg&name=large" > <img src="https://pbs.twimg.com/media/GB2WF_JbQAAmmB_?format=jpg&name=large" /></a></div>
+         <div class="vert-items"> <a href="https://pbs.twimg.com/media/GB2WGaHbsAAfCHM?format=jpg&name=large" > <img src="https://pbs.twimg.com/media/GB2WGaHbsAAfCHM?format=jpg&name=large" /></a>
+  </div>
+           <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/mk2/tumblr_422574a2a84fdc1f84143fbb4fb4e451_f9d1ed33_1280.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/mk2/tumblr_422574a2a84fdc1f84143fbb4fb4e451_f9d1ed33_1280.png?raw=true" /></a>
+</div>
+           <div class="vert-items"> <a href="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/mk2/tumblr_b7ec0181314aca1ff2262730a0d3085a_587e241e_1280.png?raw=true" > <img src="https://github.com/ricoThaka/ricothaka.github.io/blob/master/assets/images/android528/mk2/tumblr_b7ec0181314aca1ff2262730a0d3085a_587e241e_1280.png?raw=true" /></a>
+        </div>
+
+   </div>
+  <div class="border"> </div>
+
+[DeKAy_FReeAGEnTS FlipTheScript](https://youtu.be/Zg9H7urB3kk)
+<!-- BEGIN_CODE_BLOCK -->
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<div id="rollovercontainer">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+<a href="https://soundcloud.com/ivthe4" class="rollover">
+            <img src="https://pbs.twimg.com/media/GB1AMG6bAAEcCZz?format=jpg&name=medium" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
+            <img src="https://pbs.twimg.com/media/GB1ALqWacAAnDph?format=jpg&name=medium" class="second" />
+          </a>
+        </div>
+      </div>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://www.ellamai.com/" class="rollover">
+<img src="https://pbs.twimg.com/media/GB1AMG6bAAEcCZz?format=jpg&name=medium" class="second" />
+           
+<img src="https://pbs.twimg.com/media/GB1ALqWacAAnDph?format=jpg&name=medium" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<!-- END_CODE_BLOCK -->
 [Wu Tang Collection - 60 SECOND ASSASSIN AKA(My Life's on the Line) & Dumb Boxer](https://www.youtube.com/watch?v=5Hg-WTb86rM)
 
 ### [SONG People Under the Stairs - Acid Raindrops](https://youtu.be/Dm6hcG5GT24?si=ZCPd1U52-YT6NeDE)
@@ -886,6 +936,8 @@ i wonder y she she sing so strong... its amazing #texTStrings
 
 [![NormaniRaiden](
 https://pbs.twimg.com/media/GOs0s4wakAAVFfh?format=jpg&name=large)](https://www.retrogames.cc/arcade-games/mortal-kombat-ii-rev-l3-1.html "Redirect to homepage")
+
+
    <div class="vert-container">
 
    <div class="vert-items"> <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/android528/mk2/sartugreen.jpg" > <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/android528/mk2/sartugreen.jpg" /></a></div>
