@@ -1,5 +1,6 @@
 
-![https://www.lpi.usra.edu/lpi/meteorites/alh3.gif]
+![Martian meteorite ALH 84001](https://www.lpi.usra.edu/lpi/meteorites/alh3.gif)
+
 Martian meteorite ALH 84001 at Johnson Space Center, after being returned from Antarctica. For scale, the black cube is 1 cm on a side. The outside of ALH 84001 is partially coated with black fusion crust. The interior is a uniform greenish gray. Photo c/o NASA Johnson Space Center. [A. What is ALH 84001, the Mars meteorite with the possible fossils?](https://www.lpi.usra.edu/lpi/meteorites/The_Meteorite.shtml#:~:text=ALH%2084001%20formed%20originally%20from,from%20lava%20inside%20the%20Earth.) 
 
 ![ALH84001](https://www.lpi.usra.edu/lpi/meteorites/metonice.gif)
