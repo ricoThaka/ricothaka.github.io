@@ -169,7 +169,7 @@
       </ul>
       <a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
         {% assign owner_first_name = site.owner | split: " " %}
-        {{ owner_first_name[0] | downcase }}@home:~$
+        {{ owner_first_name[0] | downcase }}localhost.localdomain
         </a>
     </div>
     {{ content }}
