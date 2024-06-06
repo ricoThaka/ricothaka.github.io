@@ -42,6 +42,17 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+![FraggleRock](https://upload.wikimedia.org/wikipedia/commons/2/2e/Jim_Henson%27s_Fraggle_Rock_Logo.png)
+# [FraggleRock](https://archive.org/details/MashSeries)
+### the dozers
+<video controls 
+  src="https://archive.org/download/MashSeries/Fraggle%20Rock%20Season%201/Fraggle%20Rock%20S01%20E19%20-%20The%20Great%20Radish%20Famine.mp4"
+  poster="https://canvas-bridge02.tubitv.com/qLl8WbcPCCpxDRYJ7Hxj8icq2Xc=/1920x1080/smart/img.adrise.tv/ad076aa3-6c8c-4812-b385-7d6fab43a0d5.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/MashSeries/Fraggle%20Rock%20Season%201/Fraggle%20Rock%20S01%20E19%20-%20The%20Great%20Radish%20Famine.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
 <div class="section_hr">
   <a href="https://archive.org/details/sdf-macross-episode-8-longest-birthday-adv-dub_202108">./HoleToAnotherUniverse/MechShiT.py</a>
 </div> 
