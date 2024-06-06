@@ -43,6 +43,9 @@ carousels:
 {% endhighlight %}
 
 ### [SONG People Under the Stairs - Acid Raindrops](https://youtu.be/Dm6hcG5GT24?si=ZCPd1U52-YT6NeDE)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="cs" dir="ltr"><a href="https://t.co/kkk4AmN6nE">https://t.co/kkk4AmN6nE</a> <a href="https://twitter.com/hashtag/hint?src=hash&amp;ref_src=twsrc%5Etfw">#hint</a> <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/coi_leray?ref_src=twsrc%5Etfw">@coi_leray</a> <a href="https://twitter.com/BIABIA?ref_src=twsrc%5Etfw">@BIABIA</a> <a href="https://twitter.com/ellamai?ref_src=twsrc%5Etfw">@ellamai</a> <a href="https://twitter.com/hashtag/feelgoodfreestyle?src=hash&amp;ref_src=twsrc%5Etfw">#feelgoodfreestyle</a> what can u doo <a href="https://twitter.com/TinyMajorMama?ref_src=twsrc%5Etfw">@TinyMajorMama</a> si=lIDsU2V3fgFdm3ew… <a href="https://twitter.com/hashtag/westcoast?src=hash&amp;ref_src=twsrc%5Etfw">#westcoast</a> <a href="https://twitter.com/hashtag/beats?src=hash&amp;ref_src=twsrc%5Etfw">#beats</a> <a href="https://twitter.com/Official_Tink?ref_src=twsrc%5Etfw">@Official_Tink</a> <a href="https://twitter.com/AsianDaBrattt?ref_src=twsrc%5Etfw">@AsianDaBrattt</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1798783211742613689?ref_src=twsrc%5Etfw">June 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![FraggleRock](https://upload.wikimedia.org/wikipedia/commons/2/2e/Jim_Henson%27s_Fraggle_Rock_Logo.png)
 # [FraggleRock](https://archive.org/details/MashSeries)
 ### the dozers
