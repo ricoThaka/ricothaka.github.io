@@ -42,7 +42,9 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-
+<div class="section_hr">
+  <a href="https://archive.org/details/sdf-macross-episode-8-longest-birthday-adv-dub_202108">./HoleToAnotherUniverse/MechShiT.py</a>
+</div> 
 
 ## APPLESEED
 <!-- BEGIN_CODE_BLOCK -->
@@ -72,6 +74,22 @@ carousels:
 </div>
 <!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
 <!-- END_CODE_BLOCK -->
+
+## Robot Jox
+Dear Normani/Janika/Vanessa/Sartu/Imani(im not mad if its malaika) I cant talk about your movies or Chloe no more... I think you would laugh at how serious i still take this silly by my standards post 12ozProphet, so you guys can make those movies and i will be more accepting to what you do in hollywood professionally.
+
+<video controls 
+  src="https://archive.org/download/robotjox/Robot%20Jox.mp4"
+  poster="https://canvas-bridge02.tubitv.com/qLl8WbcPCCpxDRYJ7Hxj8icq2Xc=/1920x1080/smart/img.adrise.tv/ad076aa3-6c8c-4812-b385-7d6fab43a0d5.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/robotjox/Robot%20Jox.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+Robot Jox is a 1990 American post-apocalyptic Mecha science-fiction film directed by Stuart Gordon and starring Gary Graham, Anne-Marie Johnson and Paul Koslo. Co-written by science-fiction author Joe Haldeman, the film's plot follows Achilles, one of the "robot jox" who pilot giant machines that fight international battles to settle territorial disputes in a dystopian, post-apocalyptic world...[ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Robot_Jox) [imdb](https://www.imdb.com/title/tt0102800/) [Robot Jox on Tubi](https://en.wikipedia.org/wiki/Robot_Jox)
+
+
 <figure>
   <figcaption>
 ## Barbie Drip by Nicki Minaj
@@ -92,7 +110,7 @@ carousels:
 ---
 ## {{ site.url }}{{ site.baseurl }} 
 ---
-{% include_relative worknotes.md %}
+
 
 ### Breakadawn De La Soul 
 <div class='twoPanelSpread'>
@@ -113,20 +131,6 @@ carousels:
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1453747483&color=%231f9c6f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/wearedelasoul" title="De La Soul" target="_blank" style="color: #cccccc; text-decoration: none;">De La Soul</a> · <a href="https://soundcloud.com/wearedelasoul/breakadawn-3" title="Breakadawn" target="_blank" style="color: #cccccc; text-decoration: none;">Breakadawn</a></div> 
 [DisCogs](https://www.discogs.com/it/release/3048332-De-La-Soul-Breakadawn-En-Focus)
 
-## Robot Jox
-Dear Normani/Janika/Vanessa/Sartu/Imani(im not mad if its malaika) I cant talk about your movies or Chloe no more... I think you would laugh at how serious i still take this silly by my standards post 12ozProphet, so you guys can make those movies and i will be more accepting to what you do in hollywood professionally.
-
-<video controls 
-  src="https://archive.org/download/robotjox/Robot%20Jox.mp4"
-  poster="https://canvas-bridge02.tubitv.com/qLl8WbcPCCpxDRYJ7Hxj8icq2Xc=/1920x1080/smart/img.adrise.tv/ad076aa3-6c8c-4812-b385-7d6fab43a0d5.jpg"
-  >
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/robotjox/Robot%20Jox.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
-
-Robot Jox is a 1990 American post-apocalyptic Mecha science-fiction film directed by Stuart Gordon and starring Gary Graham, Anne-Marie Johnson and Paul Koslo. Co-written by science-fiction author Joe Haldeman, the film's plot follows Achilles, one of the "robot jox" who pilot giant machines that fight international battles to settle territorial disputes in a dystopian, post-apocalyptic world...[ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Robot_Jox) [imdb](https://www.imdb.com/title/tt0102800/) [Robot Jox on Tubi](https://en.wikipedia.org/wiki/Robot_Jox)
-
 
 <iframe src="https://archive.org/embed/IndianaJonesandtheLastCrusade" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -140,9 +144,7 @@ https://x.com/MooNLOVER404/status/1796629849072861473
 
 [12oz Twist THR aka Barry McGee Mega-Thread (Official Version)](https://forum.12ozprophet.com/topic/83530-twist-thr-aka-barry-mcgee-mega-thread-official-version/#comment-6545774)
 
-<div class="section_hr">
-  <a href="https://archive.org/details/sdf-macross-episode-8-longest-birthday-adv-dub_202108">./HoleToAnotherUniverse/MechShiT.py</a>
-</div> 
+
 
 [![LongBeachSaveStateSesh](https://pbs.twimg.com/media/GPVhC-sa8AAiAvb?format=jpg&name=large)](https://pbs.twimg.com/media/GPVhC-sa8AAiAvb?format=jpg&name=large "Redirect to homepage")
 
@@ -4435,3 +4437,4 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
   
   </div>
 
+{% include_relative worknotes.md %}
