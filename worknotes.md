@@ -1,3 +1,10 @@
+# [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
+
+## Curiosity Views Gediz Vallis Ridge
+
+![Gediz Vallis Ridge](https://science.nasa.gov/wp-content/uploads/2024/03/27696_PIA26019-web.jpg)
+
+>NASA’s Curiosity Mars rover captured this 360-degree panorama while parked below Gediz Vallis Ridge (the hill-like slope at right). After three attempts over the course of three years, the rover finally reached the ridge on its fourth try on Aug. 14, 2023, the 3,923rd Martian day, or sol, of the mission.
 
 ## Mars James E. Tillman
 [Introduction; Mars features and Earth -- Mars comparisons](https://www-k12.atmos.washington.edu/k12/resources/mars_data-information/mars_overview.html)
