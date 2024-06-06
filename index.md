@@ -42,20 +42,24 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+### Breakadawn De La Soul 
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+             <a href="https://i.discogs.com/oYU8GwNWf8ZpRc7eN87uNLbFsbulqSWPhNaXwoIZ7AU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDgz/MzItMTYxNDM1MDA4/MC0yODk0LmpwZWc.jpeg"> <img src="https://i.discogs.com/oYU8GwNWf8ZpRc7eN87uNLbFsbulqSWPhNaXwoIZ7AU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDgz/MzItMTYxNDM1MDA4/MC0yODk0LmpwZWc.jpeg" alt="1945 dessau" ></a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+             <a href="https://i.discogs.com/v-Cg1YnLvFbYdkUXeQE3yYaGpuqrVo4kxHNbdGKSl6w/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDgz/MzItMTYxNDM1MDA4/MC02MDYxLmpwZWc.jpeg"> <img src="https://i.discogs.com/v-Cg1YnLvFbYdkUXeQE3yYaGpuqrVo4kxHNbdGKSl6w/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDgz/MzItMTYxNDM1MDA4/MC02MDYxLmpwZWc.jpeg" alt="LE DDT A DESSAU" ></a>
+   </div>
+  </div>    
+ </div>
+</div>
 
-### ~> ThatTweet ~>
-```
-https://x.com/MooNLOVER404/status/1798491342202626461
-https://x.com/MooNLOVER404/status/1796629849072861473
-```
-[Exif Viewer](https://onlineexifviewer.com/) Great tool!!! 
-[detroit](https://ia601306.us.archive.org/31/items/detrmi-Census_2020_-_Kash_Doll/Census_2020_-_Kash_Doll.mp4)
-
-[12oz Twist THR aka Barry McGee Mega-Thread (Official Version)](https://forum.12ozprophet.com/topic/83530-twist-thr-aka-barry-mcgee-mega-thread-official-version/#comment-6545774)
-
-<div class="section_hr">
-  <a href="https://archive.org/details/sdf-macross-episode-8-longest-birthday-adv-dub_202108">./HoleToAnotherUniverse/MechShiT.py</a>
-</div> 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1453747483&color=%231f9c6f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/wearedelasoul" title="De La Soul" target="_blank" style="color: #cccccc; text-decoration: none;">De La Soul</a> · <a href="https://soundcloud.com/wearedelasoul/breakadawn-3" title="Breakadawn" target="_blank" style="color: #cccccc; text-decoration: none;">Breakadawn</a></div> 
+[DisCogs](https://www.discogs.com/it/release/3048332-De-La-Soul-Breakadawn-En-Focus)
 
 ## Robot Jox
 Dear Normani/Janika/Vanessa/Sartu/Imani(im not mad if its malaika) I cant talk about your movies or Chloe no more... I think you would laugh at how serious i still take this silly by my standards post 12ozProphet, so you guys can make those movies and i will be more accepting to what you do in hollywood professionally.
@@ -70,6 +74,23 @@ Dear Normani/Janika/Vanessa/Sartu/Imani(im not mad if its malaika) I cant talk a
 </video>
 
 Robot Jox is a 1990 American post-apocalyptic Mecha science-fiction film directed by Stuart Gordon and starring Gary Graham, Anne-Marie Johnson and Paul Koslo. Co-written by science-fiction author Joe Haldeman, the film's plot follows Achilles, one of the "robot jox" who pilot giant machines that fight international battles to settle territorial disputes in a dystopian, post-apocalyptic world...[ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Robot_Jox) [imdb](https://www.imdb.com/title/tt0102800/) [Robot Jox on Tubi](https://en.wikipedia.org/wiki/Robot_Jox)
+
+
+<iframe src="https://archive.org/embed/IndianaJonesandtheLastCrusade" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+### ~> ThatTweet ~>
+```
+https://x.com/MooNLOVER404/status/1798491342202626461
+https://x.com/MooNLOVER404/status/1796629849072861473
+```
+[Exif Viewer](https://onlineexifviewer.com/) Great tool!!! 
+[detroit](https://ia601306.us.archive.org/31/items/detrmi-Census_2020_-_Kash_Doll/Census_2020_-_Kash_Doll.mp4)
+
+[12oz Twist THR aka Barry McGee Mega-Thread (Official Version)](https://forum.12ozprophet.com/topic/83530-twist-thr-aka-barry-mcgee-mega-thread-official-version/#comment-6545774)
+
+<div class="section_hr">
+  <a href="https://archive.org/details/sdf-macross-episode-8-longest-birthday-adv-dub_202108">./HoleToAnotherUniverse/MechShiT.py</a>
+</div> 
 
 [![LongBeachSaveStateSesh](https://pbs.twimg.com/media/GPVhC-sa8AAiAvb?format=jpg&name=large)](https://pbs.twimg.com/media/GPVhC-sa8AAiAvb?format=jpg&name=large "Redirect to homepage")
 
