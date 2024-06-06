@@ -47,7 +47,7 @@ carousels:
 </div> 
 
 [ROUJIN Z - Full Movie [HD] English Subs (1991) 老人Z](https://youtu.be/X5i0JU_NsZU?si=5Gc_KArc6yFLWf4c)
-[Fatal Fury The Motion Picture (English Dubbed) [VHS]](https://youtu.be/3zL3sHYkxeQ?si=eFCVYYrjEXamXnmx) [Fatal Fury - Legend of the Hungry Wolf (English Dubbed) [VHS]](https://youtu.be/zjqRT8z6kck?si=2K4LJaDB0aIZbtFg) [Metal Skin Panic MADOX- 01 (1987)](https://youtu.be/PUi6RPZv7hw?si=Wxfmsv2lL1Tw1d_H) [Dominion: Tank Police | ドミニオン | Episodes 1-4 | 1988](https://youtu.be/5jeKkbfvId4?si=sxkbyJ22PiIRNjkL)
+[Fatal Fury The Motion Picture (English Dubbed) [VHS]](https://youtu.be/3zL3sHYkxeQ?si=eFCVYYrjEXamXnmx) [Fatal Fury - Legend of the Hungry Wolf (English Dubbed) [VHS]](https://youtu.be/zjqRT8z6kck?si=2K4LJaDB0aIZbtFg) [Metal Skin Panic MADOX- 01 (1987)](https://youtu.be/PUi6RPZv7hw?si=Wxfmsv2lL1Tw1d_H) [Dominion: Tank Police | ドミニオン | Episodes 1-4 | 1988](https://youtu.be/5jeKkbfvId4?si=sxkbyJ22PiIRNjkL) [The Show Documentary (1995)](https://youtu.be/YL18g4yHVYY?si=0W35kNuuzEuhh8Uw)
 
 ## APPLESEED
 <!-- BEGIN_CODE_BLOCK -->
