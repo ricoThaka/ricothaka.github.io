@@ -45,7 +45,8 @@ carousels:
 ## Jehovah’s Witnesses— INSIDE The Organization behind the *Name* [Full length]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hThVzMExULQ?si=7OuW6UmEPlAVQbDf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[The Dark Secret at the Heart of the Jehovah’s Witnesses | Informer](https://youtu.be/THfpDRdsQhs?si=Bh1fvf72_1hNch1E)
+
+[The Dark Secret at the Heart of the Jehovah’s WitnessesInformer](https://youtu.be/THfpDRdsQhs?si=Bh1fvf72_1hNch1E)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xUDNMmbYtkw?si=fUq2tGtAzodru__0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
