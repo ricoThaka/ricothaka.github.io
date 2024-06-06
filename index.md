@@ -42,6 +42,13 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+[![WipeOUt_XL](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large)](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large "Redirect to homepage")
+
+
+<embed  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217049673&color=%23ea27c2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/C0GRMIKEpw">https://t.co/C0GRMIKEpw</a> hi guys im studying <a href="https://twitter.com/hashtag/ThePlanetMars?src=hash&amp;ref_src=twsrc%5Etfw">#ThePlanetMars</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> from <a href="https://twitter.com/hashtag/satelitteOffice?src=hash&amp;ref_src=twsrc%5Etfw">#satelitteOffice</a> <a href="https://twitter.com/LBCityLibrary?ref_src=twsrc%5Etfw">@LBCityLibrary</a> <a href="https://twitter.com/hashtag/thanks?src=hash&amp;ref_src=twsrc%5Etfw">#thanks</a> <a href="https://twitter.com/AEBeach_High?ref_src=twsrc%5Etfw">@AEBeach_High</a> <a href="https://twitter.com/SCADdotedu?ref_src=twsrc%5Etfw">@SCADdotedu</a> <a href="https://twitter.com/SavTech?ref_src=twsrc%5Etfw">@SavTech</a> <a href="https://twitter.com/hashtag/KingdomHall?src=hash&amp;ref_src=twsrc%5Etfw">#KingdomHall</a> <a href="https://twitter.com/hashtag/SeyHey?src=hash&amp;ref_src=twsrc%5Etfw">#SeyHey</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/GloTheofficial?ref_src=twsrc%5Etfw">@GloTheofficial</a> <a href="https://t.co/0Cs0WHiiJX">pic.twitter.com/0Cs0WHiiJX</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1798843477545156615?ref_src=twsrc%5Etfw">June 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Jehovah’s Witnesses— INSIDE The Organization behind the *Name* [Full length]
@@ -71,6 +78,12 @@ So you are down one [media channel](https://www.activecampaign.com/glossary/medi
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Theft?src=hash&amp;ref_src=twsrc%5Etfw">#Theft</a>! <a href="https://twitter.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a> <a href="https://twitter.com/hashtag/yo?src=hash&amp;ref_src=twsrc%5Etfw">#yo</a> <a href="https://twitter.com/hashtag/JuryBOWX?src=hash&amp;ref_src=twsrc%5Etfw">#JuryBOWX</a> <a href="https://t.co/Og8rftyMvK">https://t.co/Og8rftyMvK</a> <a href="https://twitter.com/hashtag/Blacktwitter?src=hash&amp;ref_src=twsrc%5Etfw">#Blacktwitter</a> <a href="https://twitter.com/hashtag/GirlsInRap?src=hash&amp;ref_src=twsrc%5Etfw">#GirlsInRap</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> she got <a href="https://twitter.com/hashtag/robbd?src=hash&amp;ref_src=twsrc%5Etfw">#robbd</a> <a href="https://twitter.com/MagicCity?ref_src=twsrc%5Etfw">@MagicCity</a> u some bum ass <a href="https://twitter.com/hashtag/LLC?src=hash&amp;ref_src=twsrc%5Etfw">#LLC</a>? <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> i found manesssah jEERYBOWX <a href="https://twitter.com/FGTV?ref_src=twsrc%5Etfw">@FGTV</a> ~&gt; <a href="https://twitter.com/LAPDHQ?ref_src=twsrc%5Etfw">@LAPDHQ</a> <a href="https://twitter.com/hashtag/reward?src=hash&amp;ref_src=twsrc%5Etfw">#reward</a> <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@essence</a> <a href="https://t.co/8u9LwCE5Mh">https://t.co/8u9LwCE5Mh</a> <a href="https://t.co/LaVBXXzbdq">pic.twitter.com/LaVBXXzbdq</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1798793748002033784?ref_src=twsrc%5Etfw">June 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Barbie Drip by Nicki Minaj
+
+  <audio controls src="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3"></audio>
+  <a href="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3"> Download audio </a>
+
+
 ## KASHDOLL ROBBED IN LA!!!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6s4slL3_jtI?si=yaD8RfZzy_yX1Nod" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -81,12 +94,6 @@ So you are down one [media channel](https://www.activecampaign.com/glossary/medi
 [![WipeOUt_XL](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large)](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large "Redirect to homepage")
 
 
-<embed  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217049673&color=%23ea27c2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
-
-## Barbie Drip by Nicki Minaj
-
-  <audio controls src="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3"></audio>
-  <a href="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3"> Download audio </a>
 
 
 [![WipeOUt_XL](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large)](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large "Redirect to homepage")
