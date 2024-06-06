@@ -43,6 +43,8 @@ carousels:
 {% endhighlight %}
 
 
+{{ site.url }}{{ site.baseurl }} 
+
 {% include_relative worknotes.md %}
 
 ### Breakadawn De La Soul 
