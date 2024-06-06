@@ -47,7 +47,7 @@ carousels:
 ### the dozers
 <video controls 
   src="https://archive.org/download/MashSeries/Fraggle%20Rock%20Season%201/Fraggle%20Rock%20S01%20E19%20-%20The%20Great%20Radish%20Famine.mp4"
-  poster="https://canvas-bridge02.tubitv.com/qLl8WbcPCCpxDRYJ7Hxj8icq2Xc=/1920x1080/smart/img.adrise.tv/ad076aa3-6c8c-4812-b385-7d6fab43a0d5.jpg"
+  poster="https://th.bing.com/th/id/R.931b92c10e6f6c4a88d761939e30e02f?rik=jPOZroQ7QyMY1A&pid=ImgRaw&r=0"
   >
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="https://archive.org/download/MashSeries/Fraggle%20Rock%20Season%201/Fraggle%20Rock%20S01%20E19%20-%20The%20Great%20Radish%20Famine.mp4">download it</a>
