@@ -42,6 +42,7 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+[SONG People Under the Stairs - Acid Raindrops](https://youtu.be/Dm6hcG5GT24?si=ZCPd1U52-YT6NeDE)
 ![FraggleRock](https://upload.wikimedia.org/wikipedia/commons/2/2e/Jim_Henson%27s_Fraggle_Rock_Logo.png)
 # [FraggleRock](https://archive.org/details/MashSeries)
 ### the dozers
@@ -67,20 +68,6 @@ carousels:
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/NasaJpl?src=hash&amp;ref_src=twsrc%5Etfw">#NasaJpl</a> I&#39;m trying to complete my <a href="https://twitter.com/hashtag/LocationLog?src=hash&amp;ref_src=twsrc%5Etfw">#LocationLog</a> I need a <a href="https://twitter.com/hashtag/RootableAndroid?src=hash&amp;ref_src=twsrc%5Etfw">#RootableAndroid</a> really I just need a <a href="https://twitter.com/hashtag/AndroidDev?src=hash&amp;ref_src=twsrc%5Etfw">#AndroidDev</a> <a href="https://twitter.com/hashtag/Sdk?src=hash&amp;ref_src=twsrc%5Etfw">#Sdk</a> and a <a href="https://twitter.com/hashtag/laptop?src=hash&amp;ref_src=twsrc%5Etfw">#laptop</a> <a href="https://twitter.com/hashtag/stockmarketcrash?src=hash&amp;ref_src=twsrc%5Etfw">#stockmarketcrash</a> <a href="https://t.co/ruMzD3sDnL">pic.twitter.com/ruMzD3sDnL</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1737624739907289154?ref_src=twsrc%5Etfw">December 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![FraggleRock](https://upload.wikimedia.org/wikipedia/commons/2/2e/Jim_Henson%27s_Fraggle_Rock_Logo.png)
-# [FraggleRock](https://archive.org/details/MashSeries)
-### the dozers
-<video controls 
-  src="https://archive.org/download/MashSeries/Fraggle%20Rock%20Season%201/Fraggle%20Rock%20S01%20E19%20-%20The%20Great%20Radish%20Famine.mp4"
-  poster="https://th.bing.com/th/id/R.931b92c10e6f6c4a88d761939e30e02f?rik=jPOZroQ7QyMY1A&pid=ImgRaw&r=0"
-  >
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/MashSeries/Fraggle%20Rock%20Season%201/Fraggle%20Rock%20S01%20E19%20-%20The%20Great%20Radish%20Famine.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
-
-[ROUJIN Z - Full Movie [HD] English Subs (1991) 老人Z](https://youtu.be/X5i0JU_NsZU?si=5Gc_KArc6yFLWf4c)
-[Fatal Fury The Motion Picture (English Dubbed) [VHS]](https://youtu.be/3zL3sHYkxeQ?si=eFCVYYrjEXamXnmx) [Fatal Fury - Legend of the Hungry Wolf (English Dubbed) [VHS]](https://youtu.be/zjqRT8z6kck?si=2K4LJaDB0aIZbtFg) [Metal Skin Panic MADOX- 01 (1987)](https://youtu.be/PUi6RPZv7hw?si=Wxfmsv2lL1Tw1d_H) [Dominion: Tank Police | ドミニオン | Episodes 1-4 | 1988](https://youtu.be/5jeKkbfvId4?si=sxkbyJ22PiIRNjkL) [The Show Documentary (1995)](https://youtu.be/YL18g4yHVYY?si=0W35kNuuzEuhh8Uw)
 
 
 <div class="section_hr">
