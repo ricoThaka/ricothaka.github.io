@@ -42,6 +42,9 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+{% include_relative worknotes.md %}
+
 ### Breakadawn De La Soul 
 <div class='twoPanelSpread'>
         <div class='row'>
