@@ -117,6 +117,16 @@ Robot Jox is a 1990 American post-apocalyptic Mecha science-fiction film directe
 
 <embed  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217049673&color=%23ea27c2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
+
+# Arcading
+[![LongBeachSaveStateSesh](https://pbs.twimg.com/media/GPVhC-sa8AAiAvb?format=jpg&name=large)](https://pbs.twimg.com/media/GPVhC-sa8AAiAvb?format=jpg&name=large "Redirect to homepage")
+
+[![EastLosSaveStateSesh](https://pbs.twimg.com/media/GPVBHV7aYAAcBKB?format=jpg&name=large)](https://pbs.twimg.com/media/GPVBHV7aYAAcBKB?format=jpg&name=large "Redirect to homepage")
+
+[SaveState](ricothaka.github.io/mshvsfa.save) [Marvel Super Heroes vs Street Fighter (970625 Asia)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-asia.html)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/lN5NaRvIhX">https://t.co/lN5NaRvIhX</a> <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@NASAMars</a> <a href="https://twitter.com/hashtag/Robin?src=hash&amp;ref_src=twsrc%5Etfw">#Robin</a> <a href="https://twitter.com/hashtag/re?src=hash&amp;ref_src=twsrc%5Etfw">#re</a> <a href="https://twitter.com/hashtag/meteorology?src=hash&amp;ref_src=twsrc%5Etfw">#meteorology</a> thats <a href="https://twitter.com/hashtag/PathFinder?src=hash&amp;ref_src=twsrc%5Etfw">#PathFinder</a> <a href="https://twitter.com/hashtag/Viking?src=hash&amp;ref_src=twsrc%5Etfw">#Viking</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> can u team with <a href="https://twitter.com/OReillyMedia?ref_src=twsrc%5Etfw">@OReillyMedia</a> to stock <a href="https://twitter.com/LACountyLibrary?ref_src=twsrc%5Etfw">@LACountyLibrary</a> and <a href="https://twitter.com/LAPublicLibrary?ref_src=twsrc%5Etfw">@LAPublicLibrary</a> <a href="https://twitter.com/SMPublicLibrary?ref_src=twsrc%5Etfw">@SMPublicLibrary</a> and <a href="https://twitter.com/LBCityLibrary?ref_src=twsrc%5Etfw">@LBCityLibrary</a> i never want to stop l3arning! <a href="https://twitter.com/hashtag/astronomy?src=hash&amp;ref_src=twsrc%5Etfw">#astronomy</a> <a href="https://twitter.com/hashtag/blackexcellence?src=hash&amp;ref_src=twsrc%5Etfw">#blackexcellence</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/vzxLWcqIMa">pic.twitter.com/vzxLWcqIMa</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1777401550077374969?ref_src=twsrc%5Etfw">April 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 
 # {{ site.baseurl }}
@@ -159,12 +169,6 @@ https://x.com/MooNLOVER404/status/1796629849072861473
 [12oz Twist THR aka Barry McGee Mega-Thread (Official Version)](https://forum.12ozprophet.com/topic/83530-twist-thr-aka-barry-mcgee-mega-thread-official-version/#comment-6545774)
 
 
-
-[![LongBeachSaveStateSesh](https://pbs.twimg.com/media/GPVhC-sa8AAiAvb?format=jpg&name=large)](https://pbs.twimg.com/media/GPVhC-sa8AAiAvb?format=jpg&name=large "Redirect to homepage")
-
-[![EastLosSaveStateSesh](https://pbs.twimg.com/media/GPVBHV7aYAAcBKB?format=jpg&name=large)](https://pbs.twimg.com/media/GPVBHV7aYAAcBKB?format=jpg&name=large "Redirect to homepage")
-
-[SaveState](ricothaka.github.io/mshvsfa.save) [Marvel Super Heroes vs Street Fighter (970625 Asia)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-asia.html)
 
 # [Dichlorodiphenyltrichloroethane (DDT):](https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.02110125) 
 
