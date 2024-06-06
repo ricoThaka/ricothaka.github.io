@@ -1,5 +1,9 @@
+![ALH84001,0](https://cdn.sci.esa.int/documents/33745/35367/1567220704329-i_screenimage_26756.gif)
+### MARS METEORITE ALH 84001
+Date: 05 April 2001
+Copyright: NASA/JSC
 
-
+This Martian meteorite is thought by some scientists to contain evidence of life on Mars. The rock is designated ALH84001, after the Allan Hills in Antarctica where it was found. [EuropeanSpaceAgency](https://sci.esa.int/web/mars-express/-/26756-mars-meteorite-alh-84001)
 
 ### Terrestrial Age
 The “terrestrial age” of a meteorite is how long ago the meteorite fell to Earth. If people witnessed the meteorite’s fall, then its terrestrial age is obvious. But most meteorites, and all Antarctic meteorites like ALH 84001, fell without being noticed by people. Fortunately, terrestrial ages of meteorites can also be calculated from the abundances of some naturally occurring radioactive isotopes of chemical elements. These radioactive isotopes are formed in a meteorite, in space, as it is bombarded by cosmic rays (high-energy elementary particles). After a meteorite lands on Earth, it isn’t hit by cosmic rays any more, no more of the radioactive isotopes form, and the ones already in the rock continue decaying away. So, the more of these isotopes in a meteorite, the less time it has spent on Earth. Terrestrial ages are usually determined from isotopes of the elements carbon (14C), beryllium (10Be), and chlorine (36Cl).
