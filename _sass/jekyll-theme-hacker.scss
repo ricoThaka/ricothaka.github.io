@@ -608,7 +608,29 @@ embed {
 
   }
 
-
+  audio {
+    -webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+    -moz-box-shadow: 2px 2px 4px 0px #006773;
+    -webkit-box-shadow: 2px 2px 4px 0px #006773;
+    box-shadow: 2px 2px 4px 0px #006773;
+    -moz-border-radius: 7px 7px 7px 7px;
+    -webkit-border-radius: 7px 7px 7px 7px;
+    border-radius: 7px 7px 7px 7px;
+  }
+  
+  audio:hover,
+  audio:focus,
+  audio:active {
+    -webkit-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    transform: scale(1.05);
+  }
 /* Image + PageLayout s */
 .panel4-container {
 
@@ -785,6 +807,48 @@ border: 1px solid #c9ff23;
 
   flex: var(--magnifier);
 }
+
+
+
+/* ROLLOVER */ 
+.rollovercontainer {
+  margin: auto;
+  width: 500px;
+}
+
+
+
+/* image effect */
+.rollover {
+  position: relative;
+  display: inline-block;
+}
+.rollover img {
+  transition: opacity 1.5s ease-in-out;
+  backface-visibility: hidden;
+}
+.rollover .first {
+  top: 0;
+  left: 0;
+}
+.rollover .second {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+.rollover:hover .first {
+  opacity: 0;
+}
+.rollover:hover .second {
+  opacity: 1;
+}
+
+
+
+
+
+
 /** LIGHTBOX MARKUP **/
 
 .lightbox {

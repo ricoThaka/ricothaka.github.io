@@ -43,8 +43,55 @@ carousels:
 {% endhighlight %}
 
 
-{{ site.url }}{{ site.baseurl }} 
 
+## APPLESEED
+<!-- BEGIN_CODE_BLOCK -->
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<div id="rollovercontainer">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+<a href="https://archive.org/details/appleseed1988cat" class="rollover">
+            <img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
+            <img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+          </a>
+        </div>
+      </div>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://archive.org/details/appleseed1988cat" class="rollover">
+<img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+           
+<img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<!-- END_CODE_BLOCK -->
+<figure>
+  <figcaption>
+## Barbie Drip by Nicki Minaj
+</figcaption>
+  <audio controls src="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3"></audio>
+  <a href="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3"> Download audio </a>
+</figure>
+
+
+![StrainTable](https://camo.githubusercontent.com/1087f9448b2e18b179bd14d5ee678c33e393b049abfebfc065a90c65df0081f5/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f44553462777945553841414a6432512e6a7067)
+
+<embed  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217049673&color=%23ea27c2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+---
+
+# {{ site.baseurl }}
+
+---
+## {{ site.url }}{{ site.baseurl }} 
+---
 {% include_relative worknotes.md %}
 
 ### Breakadawn De La Soul 
