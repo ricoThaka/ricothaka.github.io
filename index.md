@@ -42,6 +42,13 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+# [Geisha - JodiCobb](https://www.jodicobb.com/portfolio/G00002GbAqpURBhA)
+[![The sealed lips of a geisha woman in Japan](https://showme.missouri.edu/wp-content/uploads/2019/10/NGM199510_98.jpg)](https://showme.missouri.edu/wp-content/uploads/2019/10/NGM199510_98.jpg "Redirect to homepage")
+>The sealed lips of a geisha woman in Japan represented for Cobb a potent symbol of a secret world hidden from outsiders. It also led to a three-year project that pulled back the curtain on the geishas, culminating in a book nominated for the Pulitzer Prize.
+
+[Through the lens of Jodi Cobb](https://showme.missouri.edu/2019/through-the-lens-of-jodi-cobb/) [JodiCobbDoc](https://m.facebook.com/thesmithcenter/videos/as-national-geographics-first-female-staff-in-field-photographer-jodi-cobb-infil/1205963793249956/) [Global Speakers Series: National Geographic Photographer Jodi Cobb Awes Students](https://www.newarka.edu/news-detail_no-photo?pk=1333705) Jodi Cobb has spent three decades as a staff photographer with National Geographic, working in more than sixty countries—[Jodi Cobb](https://thephotosociety.org/member/jodi-cobb/) [Henri Cartier-Bresson magnumprofile](https://www.magnumphotos.com/photographer/henri-cartier-bresson/) [Bruce Davidson magnumprofile](https://www.magnumphotos.com/photographer/bruce-davidson/) [Elliot Erwitt magnumprofile](https://www.magnumphotos.com/photographer/elliott-erwitt/)
+
 [![WipeOUt_XL](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large)](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large "Redirect to homepage")
 
 
