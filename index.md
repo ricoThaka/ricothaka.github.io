@@ -42,8 +42,14 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+[E=MC2 (Instrumental)](https://youtu.be/QPghMQJNslI?si=fK03a5gnFaohLnxD)
 
-![WipeOUt_XL]()
+[![VirtualBoy](https://pbs.twimg.com/media/GB1AwzYbMAAfdl7?format=jpg&name=medium)](https://pbs.twimg.com/media/GB1AwzYbMAAfdl7?format=jpg&name=medium "Redirect to homepage")
+[![VirtualBoy](https://pbs.twimg.com/media/GB1Aw_laYAAmtOP?format=jpg&name=medium)](https://pbs.twimg.com/media/GB1Aw_laYAAmtOP?format=jpg&name=medium "Redirect to homepage")
+[![VirtualBoy](https://pbs.twimg.com/media/GB1AxL2bkAAKRfI?format=jpg&name=medium)](https://pbs.twimg.com/media/GB1AxL2bkAAKRfI?format=jpg&name=medium "Redirect to homepage")
+[![VirtualBoy](https://pbs.twimg.com/media/GPaZNl_aEAEahaL?format=jpg&name=large)](https://pbs.twimg.com/media/GPaZNl_aEAEahaL?format=jpg&name=large "Redirect to homepage")
+
+
 [![WipeOUt_XL](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large)](https://pbs.twimg.com/media/GB2WGN8bEAAfbCx?format=jpg&name=large "Redirect to homepage")
 
 # Manessa?
