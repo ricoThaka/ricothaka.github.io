@@ -44,7 +44,8 @@ carousels:
 
 
 
-
+# Vanessa, im convinced its you
+![Vanessa, im convinced its you](https://pbs.twimg.com/media/GPf8SyoaIAEEz1X?format=jpg&name=large)
 <video controls 
   src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
   poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
