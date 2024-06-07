@@ -45,7 +45,14 @@ carousels:
 
 
 
-
+<video controls 
+  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
+  poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/youtube-l14WDZCnz-w">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 
 ## [JoeMontana Sports Talk Football ](https://retrogames.cc/genesis-games/joe-montana-ii-sports-talk-football-world-rev-a.html)
