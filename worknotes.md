@@ -20,7 +20,7 @@
 [Mars 2020: Perseverance Rover](https://science.nasa.gov/mission/mars-2020-perseverance/)
 [![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
 Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbiter show a dramatic change in the planet's appearance when haze raised by dust-storm activity in the south became globally distributed.
-[NASA/JPL-Caltech/MSSS](https://www.jpl.nasa.gov/news/new-interactive-mosaic-uses-nasa-imagery-to-show-mars-in-vivid-detail)
+[NASA/JPL-Caltech/MSSS](https://www.jpl.nasa.gov/news/new-interactive-mosaic-uses-nasa-imagery-to-show-mars-in-vivid-detail) [NasaJPL on Youtube](https://www.youtube.com/@NASAJPL)
 
 ### Odyssey’s THEMIS Views the Horizon of Mars
 [![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png)](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png "Redirect to homepage")
