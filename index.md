@@ -62,7 +62,10 @@ An American scientist is able to contact and communicate with Mars with shatteri
 [![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
     </object>
-
+    
+[Electronic Gaming Monthly 58](https://archive.org/details/Electronic_Gaming_Monthly_58)
+[GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993)
+[GamePro Issue 056 March 1994 NBAJAM(s)](https://archive.org/details/GamePro_Issue_056_March_1994)
 ### [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
 
 The Bruce Murray Laboratory for Planetary Visualization has completed a 5.7 terapixel mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
