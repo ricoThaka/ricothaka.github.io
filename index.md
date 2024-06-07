@@ -58,6 +58,22 @@ An American scientist is able to contact and communicate with Mars with shatteri
 
 [![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
 [![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
+[![MurrayLabs](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large)](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large "Redirect to homepage")
+[![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+### [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
+
+The Bruce Murray Laboratory for Planetary Visualization has completed a 5.7 terapixel mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+
+We emphasize transparency both in how the mosaic was generated and for users to understand where data in the mosaic come from. We have developed a Python-based pipeline that incorporates non-destructive image processing techniques that preserve all information about the original data that comprise the mosaic and map all seams.. [LearnMore](https://murray-lab.caltech.edu/CTX/index.html)
+![MarsSpaceFlight](https://mars.asu.edu/img/msff-logo.png)
+[Mars:SpaceFlightFacility](https://mars.asu.edu/) [Themis Mars Imageviewer](https://viewer.mars.asu.edu/viewer/themis#T=0) [Themis MArs Odyssey](https://global-data.mars.asu.edu/bin/themis.pl?res=32&clat=-51.956467&clon=34.130493&ids=I18584006&day_night=2&rel=0)
+
+### [Thermal Emission Imaging System](https://en.wikipedia.org/wiki/Thermal_Emission_Imaging_System)
+![THEMiS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tesvsthemis-med.jpg/1024px-Tesvsthemis-med.jpg)
+[The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
 
 # [Fine Ho, Stay](https://www.rcarecords.com/news/flo-milli-announces-new-album-fine-ho-stay/)
 [![FloMilli](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png)](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png "Redirect to homepage")
@@ -121,18 +137,7 @@ Sega's in-house pro football sim - a YACEG series that
 
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
-[The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
 
-[![MurrayLabs](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large)](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large "Redirect to homepage")
-[![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
-<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
-    </object>
-
-### [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
-
-The Bruce Murray Laboratory for Planetary Visualization has completed a 5.7 terapixel mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
-
-We emphasize transparency both in how the mosaic was generated and for users to understand where data in the mosaic come from. We have developed a Python-based pipeline that incorporates non-destructive image processing techniques that preserve all information about the original data that comprise the mosaic and map all seams.. [LearnMore](https://murray-lab.caltech.edu/CTX/index.html)
 
 <blockquote class="twitter-tweet"><p lang="qme" dir="ltr"><a href="https://twitter.com/hashtag/AbiyMustGo?src=hash&amp;ref_src=twsrc%5Etfw">#AbiyMustGo</a> <a href="https://twitter.com/hashtag/FreeOromia?src=hash&amp;ref_src=twsrc%5Etfw">#FreeOromia</a><a href="https://twitter.com/hashtag/JawarMahammad?src=hash&amp;ref_src=twsrc%5Etfw">#JawarMahammad</a><a href="https://twitter.com/hashtag/FreeBekalaGarba?src=hash&amp;ref_src=twsrc%5Etfw">#FreeBekalaGarba</a><a href="https://twitter.com/hashtag/FreeAllPoliticalprisoners?src=hash&amp;ref_src=twsrc%5Etfw">#FreeAllPoliticalprisoners</a> <a href="https://t.co/0ObrotbNh5">pic.twitter.com/0ObrotbNh5</a></p>&mdash; sartu Adem (@SartuAdem) <a href="https://twitter.com/SartuAdem/status/1290832418618904577?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Mood: <a href="https://t.co/CON2tLgY9b">pic.twitter.com/CON2tLgY9b</a></p>&mdash; GloRilla 🦍 (@GloTheofficial) <a href="https://twitter.com/GloTheofficial/status/1780637563163648270?ref_src=twsrc%5Etfw">April 17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
