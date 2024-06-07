@@ -42,6 +42,46 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+
+
+
+
+
+## [JoeMontana Sports Talk Football ](https://retrogames.cc/genesis-games/joe-montana-ii-sports-talk-football-world-rev-a.html)
+# Dear_Coral 
+i was a #GeorgiaDomeChild #Sports #StemEducation @ChloeBailey
+ an the other girls from #Dance411 was just like #Dreamgirls an they were my destined #EternalFriends bc iMade a wish to 
+[AtlantaFalcons #CheerLeaders!](https://www.atlantafalcons.com/cheerleaders/)
+[Play_Here](https://retrogames.cc/genesis-games/joe-montana-ii-sports-talk-football-world-rev-a.html)
+### Excerpt from Genesis Game Guide by The Scribe
+Sega's in-house pro football sim - a YACEG series that
+                  went with Joe Montana as its spokesman until the 1996
+                  release, when the decision was made to use Deion Sanders
+                  instead.  The second, NFL Sportstalk Football, was the
+                  very first videogame to feature a running commentary, and
+                  was the subject of a special feature on the British
+                  television program Tomorrow's World. [Read_More](http://backup.segakore.fr/genesiscollective/ShowPage00000000028B686721.htm)
+
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+             <a href="https://pbs.twimg.com/media/GNJ1ZpGa4AAA7UB?format=jpg&name=medium"> <img src="https://pbs.twimg.com/media/GNJ1ZpGa4AAA7UB?format=jpg&name=medium" alt="1945 dessau" ></a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+             <a href="https://pbs.twimg.com/media/GNJ1bsgaAAEOeM0?format=jpg&name=900x900"> <img src="https://pbs.twimg.com/media/GNJ1bsgaAAEOeM0?format=jpg&name=900x900" alt="LE DDT A DESSAU" ></a>
+   </div>
+  </div>    
+ </div>
+</div>
+
+[Play_Here](https://retrogames.cc/genesis-games/joe-montana-ii-sports-talk-football-world-rev-a.html)
+
+
+
 # smmokers only 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Proposition64?src=hash&amp;ref_src=twsrc%5Etfw">#Proposition64</a>:<a href="https://twitter.com/hashtag/TheAdultUseofMarijuanaAct?src=hash&amp;ref_src=twsrc%5Etfw">#TheAdultUseofMarijuanaAct</a> <a href="https://t.co/jzFfPyUG4T">https://t.co/jzFfPyUG4T</a> <a href="https://t.co/80xOq7YMNM">https://t.co/80xOq7YMNM</a> <a href="https://twitter.com/hashtag/SacramentoKings?src=hash&amp;ref_src=twsrc%5Etfw">#SacramentoKings</a> <a href="https://t.co/y6ySzNeMwu">https://t.co/y6ySzNeMwu</a> <a href="https://twitter.com/UCBerkeley?ref_src=twsrc%5Etfw">@UCBerkeley</a> <a href="https://twitter.com/UCLAHealth?ref_src=twsrc%5Etfw">@UCLAHealth</a> said i was on <a href="https://twitter.com/hashtag/opiods?src=hash&amp;ref_src=twsrc%5Etfw">#opiods</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> i want to <a href="https://twitter.com/hashtag/renew?src=hash&amp;ref_src=twsrc%5Etfw">#renew</a> and get connected to a <a href="https://twitter.com/hashtag/SafeDispensary?src=hash&amp;ref_src=twsrc%5Etfw">#SafeDispensary</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/BIABIA?ref_src=twsrc%5Etfw">@BIABIA</a> <a href="https://twitter.com/ThegirlJT?ref_src=twsrc%5Etfw">@ThegirlJT</a> <a href="https://twitter.com/NASA?ref_src=twsrc%5Etfw">@nasa</a> <a href="https://t.co/Gq5sH1FdjE">pic.twitter.com/Gq5sH1FdjE</a></p>&mdash; BubbleGumPop626 (@BubbleGumPop626) <a href="https://twitter.com/BubbleGumPop626/status/1780751404942127144?ref_src=twsrc%5Etfw">April 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
