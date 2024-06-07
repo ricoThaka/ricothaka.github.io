@@ -56,6 +56,9 @@ An American scientist is able to contact and communicate with Mars with shatteri
 
 [Full text of "The book of Mars"](https://archive.org/stream/bookofmars00glas/bookofmars00glas_djvu.txt)
 
+[![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
+[![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
+
 # [Fine Ho, Stay](https://www.rcarecords.com/news/flo-milli-announces-new-album-fine-ho-stay/)
 [![FloMilli](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png)](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png "Redirect to homepage")
 <embed  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1772831295&color=%2300ffc8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
