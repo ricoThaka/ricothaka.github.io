@@ -2,12 +2,32 @@
 
 
 
+
+
+[![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
+[![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
+
+### SchoolSupplies
+[ERIC ED460023: What To Make of Mars. Smithsonian in Your Classroom.](https://archive.org/details/ERIC_ED460023)
+[Degradation at the InSight Landing Site, Homestead Hollow,
+Mars: Constraints From Rock Heights and Shapes](https://web.archive.org/web/20220426130810id_/https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021EA001953)
+
+# Now Reading 
+[Martian summer : robot arms, cowboy spacemen and my 90 days with the Phoenix Mars Mission](https://archive.org/details/martiansummerrob0000kess_m5t7)
+[A Writer's 'Martian Summer' On Earth](https://www.npr.org/2011/04/16/135464282/a-writers-martian-summer-on-earth)
+[Smithsonian book of Mars](https://archive.org/details/smithsonianbooko00boyc)
+[Mars by Birch, Robin](https://archive.org/details/mars0000birc_r5s2/page/n39/mode/2up)
+
 [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
 
 [![MurrayLabs](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large)](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large "Redirect to homepage")
-[![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
+
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
     </object>
+
+
+
+[![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
 
 ### [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
 
