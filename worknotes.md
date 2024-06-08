@@ -1,6 +1,8 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
+### LateForWork
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/cVDHHvvuIg">https://t.co/cVDHHvvuIg</a> <a href="https://twitter.com/MsNormani?ref_src=twsrc%5Etfw">@msnormani</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> <a href="https://twitter.com/hashtag/Lebron?src=hash&amp;ref_src=twsrc%5Etfw">#Lebron</a> understand iWas@ her studio <a href="https://twitter.com/hashtag/EverySaturday?src=hash&amp;ref_src=twsrc%5Etfw">#EverySaturday</a> she is still a <a href="https://twitter.com/hashtag/SharedWoman?src=hash&amp;ref_src=twsrc%5Etfw">#SharedWoman</a> plz dont hurt me, when you guys bully me you look like matt // <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@Essence</a> <a href="https://twitter.com/brooklynrwhite?ref_src=twsrc%5Etfw">@brooklynrwhite</a> <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> She a <a href="https://twitter.com/hashtag/cheerleader?src=hash&amp;ref_src=twsrc%5Etfw">#cheerleader</a> an that shit sticky😢 <a href="https://t.co/TRwSCxG1k4">pic.twitter.com/TRwSCxG1k4</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1799494986914046284?ref_src=twsrc%5Etfw">June 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
