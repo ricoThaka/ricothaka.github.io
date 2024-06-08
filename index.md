@@ -45,6 +45,7 @@ carousels:
 
 
 ![SS2_NEOGEO]9https://pbs.twimg.com/media/GPgQv_vaIAEupzP?format=jpg&name=large)
+[Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
 [Index of /~duncjo01/archive/patterns/windows/ancestry](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/)
 ![PrarieWind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/My%20Pictures/Sample.jpg)
 [parie wind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/Prairie%20Wind.bmp) <~ tile>
