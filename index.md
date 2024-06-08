@@ -68,7 +68,7 @@ Loosely based on the popular television series of the 80's, this movie brings th
 ![PrarieWind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/My%20Pictures/Sample.jpg)
 [parie wind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/Prairie%20Wind.bmp) <~ tile>
 
-[Copy.sh/windows5nt]https://copy.sh/v86/
+[Copy.sh/windows5nt](https://copy.sh/v86/)
 
 ### The Red Planet Mars
 An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
