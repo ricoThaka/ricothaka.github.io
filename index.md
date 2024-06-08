@@ -44,17 +44,19 @@ carousels:
 
 
 ## Anime 
-### [Berserk (1997) ベルセルク (English Dub)](https://archive.org/details/berserk-episode-16)
 
-I tried the book in [Palmdale](https://www.cityofpalmdaleca.gov/318/Palmdale-City-Library) Erika... Normani it was when i was in that recoupe center
+### Sailor Moon The Movies VHS English Edited Version
 
-Berserk (Japanese: ベルセルク, Hepburn: Beruseruku) is a 2016 anime television series based on Kentaro Miura's manga series of the same name and an acting sequel to the Golden Age Arc film trilogy. [imdb](https://www.imdb.com/title/tt0110273/) . [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Berserk_(2016_TV_series))
+### [Sailor Moon The Movies Special Uncut Subtitled Edition VHS](https://archive.org/details/sailor-moon-the-movies-special-uncut-subtitled-edition-vhs_202109)
+
+These are from the official uncut subtitled edition VHS tapes released by Pioneer Entertainment
+ . [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Sailor_Moon)
 <video controls 
-  src="https://archive.org/download/berserk-episode-16/Berserk%20Episode%2001.mp4"
-  poster="https://giffiles.alphacoders.com/190/190140.gif">
+  src="https://archive.org/download/sailor-moon-the-movies-special-uncut-subtitled-edition-vhs_202109/Sailor%20Moon%20R%20The%20Movie%20Special%20Uncut%20Subtitled%20Edition%20VHS.mp4"
+  poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm51ZDhkdDR1MHh5YjVxMHg2aXI0a25ydWU1MjM5M3ZvN2hoMnl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Djk6OV5llwUb6/giphy.webp">
 
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/berserk-episode-16/Berserk%20Episode%2001.mp4">download it</a>
+  <a href="https://archive.org/download/sailor-moon-the-movies-special-uncut-subtitled-edition-vhs_202109/Sailor%20Moon%20R%20The%20Movie%20Special%20Uncut%20Subtitled%20Edition%20VHS.mp4">download it</a>
   and watch it with your favorite video player!
 </video>
 
