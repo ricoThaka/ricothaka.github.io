@@ -93,7 +93,7 @@ Based on the X-Men comic book, it is the first fighting game produced by Capcom 
 
 The gameplay has much in common with Capcom's previous fighting games, Super Street Fighter II Turbo and Darkstalkers. Children of the Atom adds a combo system that features long combos that can even be performed in mid-air. Also featured in the game are various tactical maneuvers, including the ability for characters to roll. Children of the Atom introduced multi-tiered fighting environments in which the ground would crumble and characters would fall into lower parts of the level. These concepts and the fast pace of the game would provide the basis for Capcom's Marvel vs. Capcom series, which started with the game's successor X-Men vs. Street Fighter.
 
-Ports of the game were released for Sega Saturn, PlayStation and personal computer. Of these, the PlayStation version was not as well received as the other versions, suffering from slowdown and missing frames of animation.
+Ports of the game were released for Sega Saturn, PlayStation and personal computer. Of these, the PlayStation version was not as well received as the other versions, suffering from slowdown and missing frames of animation. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/X-Men:_Children_of_the_Atom_%28video_game%29)
 [SaveState](ricothaka.github.io/xmcotau.save)
 [PlayHere](https://www.retrogames.cc/arcade-games/x-men-children-of-the-atom-950105-usa.html#)
 ![omega red](https://pbs.twimg.com/media/GPlqaWGaQAA9f2X?format=jpg&name=large)
