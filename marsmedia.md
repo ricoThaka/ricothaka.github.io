@@ -1,5 +1,6 @@
 ## MArs Media
 Im collecting things ppl watch bc it helps get a grasp on what they are thinking about when they disable us . . .
+![MRO](https://pbs.twimg.com/media/GPlPbf5bMAA7-rl?format=jpg&name=large)
 ![Mars](https://science.nasa.gov/wp-content/uploads/2024/03/26715_PIA25233-web.jpg?w=1024&format=webp)
 [The Martian Chronicles](https://archive.org/details/The_Martian_Chronicles)
 [My Favorite Martian Season 1 Episode 1 (1963) My Favorite Martin](https://www.youtube.com/watch?v=9bg9AGmYv84)
