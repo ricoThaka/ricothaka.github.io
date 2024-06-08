@@ -1,9 +1,17 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
+# IT_CERTS
+[![Microsoft Certification](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096)](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096 "Redirect to homepage")
+
+[Microsoft Certification Exams Now Available Online](https://mcsecertexam.wordpress.com/2014/12/10/microsoft-certification-exams-now-available-online/)
+[![Horizon of Mars](https://pbs.twimg.com/media/GPk14IOacAAy0vC?format=jpg&name=large)](https://pbs.twimg.com/media/GPk14IOacAAy0vC?format=jpg&name=large "Redirect to homepage")
+
+I took this exam for [Windows 2000](https://archive.org/details/win-2000-pro) and was pursuing MCSE but i decided to pursue a [RedHat Education](https://www.redhat.com/en/services/training-and-certification) I do still love [WinAmp](https://en.wikipedia.org/wiki/Winamp) 
 
 
 [Hypanis_2020_v2.pdf](https://marsnext.jpl.nasa.gov/workshops/2015_08/39_Hypanis_2020_v2.pdf)
 ![ESP_040579_1920](https://static.uahirise.org/images/2015/details/cut/ESP_040579_1920.jpg)
+
 ## [Planetary Data System](https://atmos.nmsu.edu/data_and_services/atmospheres_data/Mars/Mars.html) 
 [This page is no longer being actively updated. Please visit out current Mars page at https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/data_archive.html](https://atmos.nmsu.edu/data_and_services/atmospheres_data/Mars/Mars.html)
 
