@@ -42,9 +42,12 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+
+![SS2_NEOGEO]9https://pbs.twimg.com/media/GPgQv_vaIAEupzP?format=jpg&name=large)
 [Index of /~duncjo01/archive/patterns/windows/ancestry](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/)
-![PrarieWind](https://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/My%20Pictures/Sample.jpg)
-[parie wind](https://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/Prairie%20Wind.bmp) <~ tile>
+![PrarieWind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/My%20Pictures/Sample.jpg)
+[parie wind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/Prairie%20Wind.bmp) <~ tile>
 
 https://copy.sh/v86/
 
