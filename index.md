@@ -43,7 +43,14 @@ carousels:
 {% endhighlight %}
 
 
-
+ <div class="mro_banner">
+  <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
+  <div class="innertext-block">
+    <h4>Los Angeles</h4>
+    <p>hole to another universe</p>
+  </div>
+</div>   
+ 
 ![SS2_NEOGEO]9https://pbs.twimg.com/media/GPgQv_vaIAEupzP?format=jpg&name=large)
 [Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
 [Index of /~duncjo01/archive/patterns/windows/ancestry](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/)

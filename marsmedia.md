@@ -1,3 +1,11 @@
+ <div class="mro_banner">
+  <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
+  <div class="innertext-block">
+    <h4>Los Angeles</h4>
+    <p>hole to another universe</p>
+  </div>
+</div>   
+ 
 ## MArs Media
 Im collecting things ppl watch bc it helps get a grasp on what they are thinking about when they disable us . . .
 ![MRO](https://pbs.twimg.com/media/GPlPbf5bMAA7-rl?format=jpg&name=large)

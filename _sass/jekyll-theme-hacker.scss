@@ -2512,3 +2512,54 @@ text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
   flex: 1 1 200px;
   padding: 0px;
 }
+
+
+/* banner styles */ 
+.mro_banner {
+  position: relative;
+    background-image: linear-gradient(to right, rgb(0 0 0 / 150%), rgb(255 255 255 / 0%)), url(https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg), url(bubbles.png)
+    ;
+  font-family: Arial;
+}
+
+.innertext-block {
+  position: relative;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.multi-bg-example {
+  width: 100%;
+  height: 100px;
+  background-image: linear-gradient(to right, rgb(0 0 0 / 150%), rgb(255 255 255 / 0%)), url(https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg), url(bubbles.png)
+    ;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position:
+     
+    right;
+  background-size:100%;
+}
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.heading {
+  display: block;
+  padding: 0%;
+  text-align: left;
+  color: white;
+  background: transparent
+    url(https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg);
+  
+  
+}
