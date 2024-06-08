@@ -42,6 +42,9 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+[Index of /~duncjo01/archive/patterns/windows/ancestry](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/)
+![PrarieWind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/My%20Pictures/Sample.jpg)
+[parie wind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/Prairie%20Wind.bmp) <~ tile>
 
 ### The Red Planet Mars
 An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
