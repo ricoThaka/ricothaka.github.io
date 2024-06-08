@@ -43,6 +43,17 @@ carousels:
 {% endhighlight %}
 
 
+### Knight Rider 2010 (1994)
+Loosely based on the popular television series of the 80's, this movie brings the story into an apocalyptic time and a new "KITT". [imdb](https://www.imdb.com/title/tt0110273/) /////// Knight Rider 2010 is a 1994 American science fiction action television film directed by Sam Pillsbury and written by John Leekley, loosely based on the television series Knight Rider. The film stars Richard Joseph Paul, Heidi Leick, Michael Beach, and Don McManus. It aired in syndication in the United States on February 13, 1994, as part of Universal Television's Action Pack programming block. [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Knight_Rider_2010)
+<video controls 
+  src="https://archive.org/download/knight-rider-2010-1994/Knight%20Rider%202010-%201994.mp4"
+  poster="https://m.media-amazon.com/images/M/MV5BMjJiYjYyZTAtM2ViMi00Yjg3LWJmZjItYTNhNjI5YzUzYmQxXkEyXkFqcGdeQXVyMjQ4Nzk0MDU@._V1_FMjpg_UX1000_.jpg">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/knight-rider-2010-1994/Knight%20Rider%202010-%201994.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
  <div class="mro_banner">
   <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
   <div class="innertext-block">
@@ -51,13 +62,13 @@ carousels:
   </div>
 </div>   
  
-![SS2_NEOGEO](9)https://pbs.twimg.com/media/GPgQv_vaIAEupzP?format=jpg&name=large)
+![SS2_NEOGEO](https://pbs.twimg.com/media/GPgQv_vaIAEupzP?format=jpg&name=large)
 [Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
 [Index of /~duncjo01/archive/patterns/windows/ancestry](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/)
 ![PrarieWind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/My%20Pictures/Sample.jpg)
 [parie wind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/Prairie%20Wind.bmp) <~ tile>
 
-https://copy.sh/v86/
+[Copy.sh/windows5nt]https://copy.sh/v86/
 
 ### The Red Planet Mars
 An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
