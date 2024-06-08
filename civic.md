@@ -1,0 +1,2 @@
+[Seal of Los Angeles County, California](https://en.wikipedia.org/wiki/Seal_of_Los_Angeles_County,_California)
+![SVG LOS ANGELES](https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg)
