@@ -8,7 +8,7 @@ Im collecting things ppl watch bc it helps get a grasp on what they are thinking
 [Full text of "The book of Mars"](https://archive.org/stream/bookofmars00glas/bookofmars00glas_djvu.txt)
 [The Gods Of Eden: The Chilling Truth About Extraterrestrial Infiltration   And Conspiracy To Keep Humankind In Chains by WILLIAM BRAMLEY](https://archive.org/details/gods-of-eden)
 [The Martian tales trilogy by Burroughs, Edgar Rice, 1875-1950](https://archive.org/details/martiantalestril0000burr)
-
+![BabbaGes](https://th.bing.com/th/id/OIP._wucSXCQnZm0Y7h0xOe8xgHaB1?rs=1&pid=ImgDetMain)
 [Mars_Odessy](https://store.playstation.com/en-us/concept/233712)
 ![MArs](https://media.gamestop.com/i/gamestop/10176124/Mars-Odyssey---PlayStation-4?$pdp2x$)
 ![Mars](https://media.gamestop.com/i/gamestop/10176124_SCR07/Mars-Odyssey---PlayStation-4?$screen$)
