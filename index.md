@@ -44,7 +44,10 @@ carousels:
 
 
 ## Anime 
-### Berserk (1997) ベルセルク (English Dub)
+### [Berserk (1997) ベルセルク (English Dub)](https://archive.org/details/berserk-episode-16)
+
+I tried the book in [Palmdale](https://www.cityofpalmdaleca.gov/318/Palmdale-City-Library) Erika... Normani it was when i was in that recoupe center
+
 Berserk (Japanese: ベルセルク, Hepburn: Beruseruku) is a 2016 anime television series based on Kentaro Miura's manga series of the same name and an acting sequel to the Golden Age Arc film trilogy. [imdb](https://www.imdb.com/title/tt0110273/) . [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Berserk_(2016_TV_series))
 <video controls 
   src="https://archive.org/download/berserk-episode-16/Berserk%20Episode%2001.mp4"
