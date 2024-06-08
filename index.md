@@ -43,6 +43,21 @@ carousels:
 {% endhighlight %}
 
 
+## Anime 
+### Berserk (1997) ベルセルク (English Dub)
+Loosely based on the popular television series of the 80's, this movie brings the story into an apocalyptic time and a new "KITT". [imdb](https://www.imdb.com/title/tt0110273/) /////// Knight Rider 2010 is a 1994 American science fiction action television film directed by Sam Pillsbury and written by John Leekley, loosely based on the television series Knight Rider. The film stars Richard Joseph Paul, Heidi Leick, Michael Beach, and Don McManus. It aired in syndication in the United States on February 13, 1994, as part of Universal Television's Action Pack programming block. [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Knight_Rider_2010)
+<video controls 
+  src="https://archive.org/download/berserk-episode-16/Berserk%20Episode%2001.mp4"
+  poster="https://giffiles.alphacoders.com/190/190140.gif">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/berserk-episode-16/Berserk%20Episode%2001.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+[CrunchyRoll](https://www.crunchyroll.com/series/GYX04955R/berserk) [imdb](https://www.imdb.com/title/tt5847454/)
+
+## Live Action 
 ### Knight Rider 2010 (1994)
 Loosely based on the popular television series of the 80's, this movie brings the story into an apocalyptic time and a new "KITT". [imdb](https://www.imdb.com/title/tt0110273/) /////// Knight Rider 2010 is a 1994 American science fiction action television film directed by Sam Pillsbury and written by John Leekley, loosely based on the television series Knight Rider. The film stars Richard Joseph Paul, Heidi Leick, Michael Beach, and Don McManus. It aired in syndication in the United States on February 13, 1994, as part of Universal Television's Action Pack programming block. [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Knight_Rider_2010)
 <video controls 
