@@ -1,5 +1,16 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
+
+## [Planetary Data System](https://atmos.nmsu.edu/data_and_services/atmospheres_data/Mars/Mars.html) 
+[This page is no longer being actively updated. Please visit out current Mars page at https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/data_archive.html](https://atmos.nmsu.edu/data_and_services/atmospheres_data/Mars/Mars.html)
+
+Welcome to the Mars Archive Page!
+MSL DATASETS:
+
+Mars Science Lab (MSL, Curiosity) Rover Environmental Monitoring Station
+(REMS) raw data (EDR, mslrem_0001) and reduced data (RDR, mslrem_1001).
+These volumes currently contain the first 938 sols of landed data from the REMS instrument. mslrem_0001, mslrem_1001
+
 {% include_relative books.md %}
 
 ### Coming to Campus a badidea anyway MissinControL?
