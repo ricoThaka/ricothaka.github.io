@@ -1,5 +1,5 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
-
+{% include_relative marsmedia.md %}
 # IT_CERTS
 [![Microsoft Certification](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096)](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096 "Redirect to homepage")
 
@@ -7,6 +7,7 @@
 [![Horizon of Mars](https://pbs.twimg.com/media/GPk14IOacAAy0vC?format=jpg&name=large)](https://pbs.twimg.com/media/GPk14IOacAAy0vC?format=jpg&name=large "Redirect to homepage")
 
 I took this exam for [Windows 2000](https://archive.org/details/win-2000-pro) and was pursuing MCSE but i decided to pursue a [RedHat Education](https://www.redhat.com/en/services/training-and-certification) I do still love [WinAmp](https://en.wikipedia.org/wiki/Winamp) 
+[Virtual X86](https://copy.sh/v86/) is a great place to sample that era of operating systems. Since many of you are computer science students an i realize some ppl never had a computer before being recruited for a mission .. .long story short, i know there is a population that never touched windows b4
 
 
 [Hypanis_2020_v2.pdf](https://marsnext.jpl.nasa.gov/workshops/2015_08/39_Hypanis_2020_v2.pdf)
@@ -30,6 +31,7 @@ NASA/JPL-Caltech/Univ of Arizona
 ![cloudy.png](https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/images/cloudy.png)
 
 {% include_relative books.md %}
+
 
 ### Coming to Campus a badidea anyway MissinControL?
 [FEBRUARY 8, 2024 BY EVAN GOUGH](https://ca.linkedin.com/in/evan-gough-31674560)
