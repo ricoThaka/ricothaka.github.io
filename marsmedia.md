@@ -1,5 +1,6 @@
 ## MArs Media
 Im collecting things ppl watch bc it helps get a grasp on what they are thinking about when they disable us . . .
+![Mars](https://science.nasa.gov/wp-content/uploads/2024/03/26715_PIA25233-web.jpg?w=1024&format=webp)
 [The Martian Chronicles](https://archive.org/details/The_Martian_Chronicles)
 [My Favorite Martian Season 1 Episode 1 (1963) My Favorite Martin](https://www.youtube.com/watch?v=9bg9AGmYv84)
 [My Favorite Martian Full Episodes Season 1 E20 - My Nephew The Artist](https://www.dailymotion.com/video/x822j08)
@@ -7,3 +8,8 @@ Im collecting things ppl watch bc it helps get a grasp on what they are thinking
 [Full text of "The book of Mars"](https://archive.org/stream/bookofmars00glas/bookofmars00glas_djvu.txt)
 [The Gods Of Eden: The Chilling Truth About Extraterrestrial Infiltration   And Conspiracy To Keep Humankind In Chains by WILLIAM BRAMLEY](https://archive.org/details/gods-of-eden)
 [The Martian tales trilogy by Burroughs, Edgar Rice, 1875-1950](https://archive.org/details/martiantalestril0000burr)
+
+[Mars_Odessy](https://store.playstation.com/en-us/concept/233712)
+![MArs](https://media.gamestop.com/i/gamestop/10176124/Mars-Odyssey---PlayStation-4?$pdp2x$)
+![Mars](https://media.gamestop.com/i/gamestop/10176124_SCR07/Mars-Odyssey---PlayStation-4?$screen$)
+Mars Odyssey is a single player simulator experience that is VR and non-VR compatible. Land on the red planet. Walk the surface of Mars in your living room and interact with full-scale, realistic NASA Landers and Rovers. Learn about the Red Planet, its history, and its geography in this interactive experience.
