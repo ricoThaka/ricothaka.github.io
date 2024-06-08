@@ -59,8 +59,14 @@ These are from the official uncut subtitled edition VHS tapes released by Pionee
   <a href="https://archive.org/download/sailor-moon-the-movies-special-uncut-subtitled-edition-vhs_202109/Sailor%20Moon%20R%20The%20Movie%20Special%20Uncut%20Subtitled%20Edition%20VHS.mp4">download it</a>
   and watch it with your favorite video player!
 </video>
+<a href="https://upload.wikimedia.org/wikipedia/en/1/15/Pretty_Soldier_Sailor_Moon_arcade_flyer.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/1/15/Pretty_Soldier_Sailor_Moon_arcade_flyer.jpg" style="width:266px;height:375px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
 
-[CrunchyRoll](https://www.crunchyroll.com/series/GYX04955R/berserk) [imdb](https://www.imdb.com/title/tt5847454/)
+### [Sailor Moon Laserdisc Vol 1-3](https://archive.org/details/sailor-moon-ld-vol-2) [imdb](https://www.imdb.com/title/tt0103369/)
+## Pretty Soldier Sailor Moon (Ver. 95-03-22B Europe)
+### hit tab to configure keyys
+ ~> [Quick guide on how to play on the Internet Arcade](https://armchairarcade.com/perspectives/2014/11/06/quick-guide-on-how-to-play-on-the-internet-arcade/)
+ Pretty Soldier Sailor Moon[a] is a side-scrolling beat 'em up arcade video game developed by Gazelle and released on March 22, 1995. It was published by Banpresto.[2][3] It is the first game to be created by Gazelle, one of the offshoots of defunct developer Toaplan that were founded after they declared bankruptcy in 1994, and one of the few titles based upon Naoko Takeuchi's Sailor Moon shōjo manga and anime series that had an official international release, and it also has been compared with other titles in the same genre such as Capcom's Final Fight and Technōs Japan's Double Dragon.[4][5][ReadMoreoNWikiPedia](https://en.wikipedia.org/wiki/Pretty_Soldier_Sailor_Moon_(arcade_game))
+<iframe src="https://archive.org/embed/arcade_sailormn" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Live Action 
 ### Knight Rider 2010 (1994)
