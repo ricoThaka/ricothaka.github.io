@@ -2517,9 +2517,10 @@ text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
 /* banner styles */ 
 .mro_banner {
   position: relative;
-    background-image: linear-gradient(to right, rgb(0, 0, 0, / 150%), rgb(255, 255, 255, / 0%)), url(https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg), url(bubbles.png)
-    ;
-  font-family: Arial;
+    background-image: linear-gradient(90deg, rgba(0,0,0,0) 150%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%), url(https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg), url(bubbles.png);
+    
+    font-family: Arial;
+
 }
 
 .innertext-block {
@@ -2535,7 +2536,7 @@ text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
 .multi-bg-example {
   width: 100%;
   height: 100px;
-  background-image: linear-gradient(to right, rgb(0, 0, 0, / 150%), rgb(255, 255, 255, / 0%)), url(https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg), url(bubbles.png)
+  background-image: linear-gradient(90deg, rgba(0,0,0,0) 150%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%), url(https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg), url(bubbles.png)
     ;
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position:
