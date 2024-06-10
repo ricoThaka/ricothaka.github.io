@@ -43,9 +43,16 @@ carousels:
 {% endhighlight %}
 
 # AndroidArchive
-Sartu, Vanessa, Normani whatever you go by,The mayor is supposed to be at [CentralLibrary]()
-![Mayor Karen Bass](https://www.discoverlosangeles.com/sites/default/files/images/2024-06/Upright%20Citizens%20Brigade%20Juneteenth%202024.jpg?width=1600&height=686&fit=crop&quality=78&auto=webp)
+
 <iframe src="https://archive.org/embed/tumblr-rtxuqx-fij-q-1zhx-4f-1-1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+Sartu, Vanessa, Normani whatever you go by,The mayor might be bullied by that group participating in The [Coup of LosAngeles](https://www.google.com/search?sca_esv=6ff7ee4f5c0b1e29&rlz=1CASLJZ_enUS1113&sxsrf=ADLYWILNPFUnj-3wzC-9tpZb7tcOV3MmWQ:1718052799915&q=los+angeles+riots&tbm=nws&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfblMs7eBu5zPnhtGsrETMyhOqzWtfgc_pCzrf4BYocXLJaX0gJBEKL77s1Ay-4tHfnMqP5vC_ZT8lpSywyzIaNxlK3h27DKyjP4cAIPUhzalTbEILgzj9kP6BqoP0xWu6yYBTYByfUljVA60k5fyr5AlSneg&sa=X&sqi=2&ved=2ahUKEwikruC29dGGAxUbL0QIHVtnA3AQ0pQJegQIDRAB&biw=960&bih=945&dpr=1) [LA 92 (natGeo)](https://www.nationalgeographic.com/tv/movies-and-specials/dab898d3-4259-4f15-bdc8-1ed62c7cfc5e) hollywood must be on some strange [vpn](https://www.nsa.gov/cybersecurity/)! 
+
+### coup d'é·tat
+## /ˌko͞o dāˈtä/
+A coup d'état (/ˌkuːdeɪˈtɑː/ ⓘ; French: [ku deta]; lit. 'stroke of state'),[1] or simply a coup, is typically an illegal and overt attempt by a military organization or other government elites to unseat an incumbent leadership.[2][3] A self-coup is when a leader, having come to power through legal means, tries to stay in power through illegal means.[3] [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat)
+![Mayor Karen Bass](https://www.discoverlosangeles.com/sites/default/files/images/2024-06/Upright%20Citizens%20Brigade%20Juneteenth%202024.jpg?width=1600&height=686&fit=crop&quality=78&auto=webp)
+
 
 ## Anime 
 
