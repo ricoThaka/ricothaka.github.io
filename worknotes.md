@@ -1,6 +1,22 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
 
+## M_R_O CheckiN
+### Dear_Robin_Obrien
+You told me to study the weather on mars ... [The Last Report](https://www.msss.com/science-images/mars-valentine-2024.php) has no weather updates, whas that your baby ? Im concenred bc it was a really big deal at the time... Maybe it moved? idk but listen Erika is at Harolds Chicken sometimes. She won a grammy for a [nasty song](https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png) you can play it here [Latto - Big Energy (Official Lyric Video)](https://www.youtube.com/watch?v=IpHPBIdrak4) but youtube dont like me so my [lightbox](https://jekyllcodex.org/without-plugin/lightbox/) might not work <a href="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png"> <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png" style="width:250px;height:250px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
+
+[MRO MARCI WEATHER REPORT FOR THE WEEK OF 10 JANUARY 2022 – 16 JANUARY 2022](https://www.msss.com/msss_images/2022/01/19/)
+<video controls 
+  src="https://www.msss.com/msss_images/2022/01/19/map_movie_220110_220116.mp4"
+  poster="http://www.msss.com/msss_images/icons/mars_map1.jpg">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://www.msss.com/msss_images/2022/01/19/map_movie_220110_220116.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+
 ## The scientific eyes of NASA’s Perseverance rover
 [Perssevere](https://mastcamz.asu.edu/wp-content/uploads/2020/07/2.1_Graphic5_PIA23314-768x480.jpg)
 Mastcam-Z is a multi-color, stereo imaging system on NASA’s Perseverance rover. Mastcam-Z can zoom from wide angle to telephoto, take 3-D images and videos, and take photos in up to 11 unique colors, including “human-like” red/green/blue. For those who want more technical details and background about the Mastcam-Z cameras and science investigation, these pages provide lots more information about the goals, design, testing, and performance of the cameras. [TechnicalDetails](https://mastcamz.asu.edu/cameras/tech-specs/)
