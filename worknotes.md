@@ -8,7 +8,15 @@
   </div>
 </div>   
 
+# [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flex-wrap) by [Chris Coyier](https://css-tricks.com/author/chriscoyier/)
+![Flex-wrap](https://css-tricks.com/wp-content/uploads/2018/10/flex-wrap.svg)
+By default, flex items will all try to fit onto one line. You can change that and allow the items to wrap as needed with this property. [flex-wrap Examples](https://css-tricks.com/almanac/properties/f/flex-wrap/)
 
+```
+.container {
+  flex-wrap: nowrap | wrap | wrap-reverse;
+}
+```
 
 # Climate tool 4L8tR
 ![NEO](https://neo.gsfc.nasa.gov/about/globes_banner.jpg)
