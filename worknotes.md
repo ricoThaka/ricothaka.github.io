@@ -17,7 +17,12 @@ By default, flex items will all try to fit onto one line. You can change that an
   flex-wrap: nowrap | wrap | wrap-reverse;
 }
 ```
-
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="OJYxwWw" data-pen-title="flex-wrap demp @css-tricks im following from your article" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/OJYxwWw">
+  flex-wrap demp @css-tricks im following from your article</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 # Climate tool 4L8tR
 ![NEO](https://neo.gsfc.nasa.gov/about/globes_banner.jpg)
  [Welcome to NASA Earth Observations (NEO)](https://neo.gsfc.nasa.gov/)
