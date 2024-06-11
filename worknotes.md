@@ -1,5 +1,21 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
+
+## The scientific eyes of NASA’s Perseverance rover
+[Perssevere](https://mastcamz.asu.edu/wp-content/uploads/2020/07/2.1_Graphic5_PIA23314-768x480.jpg)
+Mastcam-Z is a multi-color, stereo imaging system on NASA’s Perseverance rover. Mastcam-Z can zoom from wide angle to telephoto, take 3-D images and videos, and take photos in up to 11 unique colors, including “human-like” red/green/blue. For those who want more technical details and background about the Mastcam-Z cameras and science investigation, these pages provide lots more information about the goals, design, testing, and performance of the cameras. [TechnicalDetails](https://mastcamz.asu.edu/cameras/tech-specs/)
+![mastcamz](https://mastcamz.asu.edu/wp-content/uploads/2020/07/2.0_Headline1_DSC00130-1024x640.jpg)
+![Sol2715](https://pbs.twimg.com/media/GP0vVihXoAAt7lx?format=jpg&name=large) Sol 2715: [Mars Descent Imager (MARDI)](https://www.msss.com/all_projects/msl-mardi.php)
+This image was taken by Mars Descent Imager (MARDI) onboard NASA's Mars rover Curiosity on Sol 2715 (2020-03-26 23:24:45 UTC).
+### MARS RECONNAISSANCE ORBITER (MRO) MARS COLOR IMAGER (MARCI)
+![MarO](https://www.msss.com/images/science/MARCI140_cb.jpg)
+
+
+### [What is CERES?](https://ceres.larc.nasa.gov/)
+Climate is controlled by the amount of sunlight absorbed by Earth and the amount of infrared energy emitted to space. These quantities–together with their difference–define Earth’s radiation budget (ERB). [Get_Environment_Data](https://ceres.larc.nasa.gov/data/)
+![ceres data set](https://pbs.twimg.com/media/GP03qjvacAA0nTo?format=jpg&name=large)
+
+
  <div class="mro_banner">
   <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
   <div class="innertext-block">
@@ -7,6 +23,7 @@
     <p>hole to another universe</p>
   </div>
 </div>   
+
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"># <a href="https://twitter.com/MayorOfLA?ref_src=twsrc%5Etfw">@MayorOfLA</a> i thik <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/hashtag/NeoNazi?src=hash&amp;ref_src=twsrc%5Etfw">#NeoNazi</a> boyfriend <a href="https://twitter.com/AllCityMurals?ref_src=twsrc%5Etfw">@AllCityMurals</a> <a href="https://twitter.com/hashtag/MATT?src=hash&amp;ref_src=twsrc%5Etfw">#MATT</a> <a href="https://twitter.com/hashtag/LETRS?src=hash&amp;ref_src=twsrc%5Etfw">#LETRS</a> <a href="https://twitter.com/BombingScience?ref_src=twsrc%5Etfw">@BombingScience</a> took this photo! i was normal black person like <a href="https://twitter.com/hashtag/TheFreemanBrothers?src=hash&amp;ref_src=twsrc%5Etfw">#TheFreemanBrothers</a> on the boondoks <a href="https://twitter.com/kcrw?ref_src=twsrc%5Etfw">@kcrw</a> <a href="https://twitter.com/mbeKCRW?ref_src=twsrc%5Etfw">@mbeKCRW</a> <a href="https://twitter.com/nprpolitics?ref_src=twsrc%5Etfw">@nprpolitics</a> <a href="https://twitter.com/nprmusic?ref_src=twsrc%5Etfw">@nprmusic</a> the kids was getting humiliated in graff so i gave them pointers <a href="https://twitter.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> <a href="https://t.co/04qk0r4cRc">pic.twitter.com/04qk0r4cRc</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1718385330523664452?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
