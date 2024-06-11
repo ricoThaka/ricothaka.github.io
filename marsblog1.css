@@ -67,11 +67,13 @@ html {
   background-size: cover;
   
 }
-a,
+
 a:hover,
 a:visited a:hover {
   color: #c9ff23;
   padding: 10px;
+  font-size:140%;
+  transition: all 0.1s ease-in-out;
 }
 
 a {
