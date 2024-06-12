@@ -42,6 +42,12 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+![Pico](https://mksd.jp/poco.gif)
+![pico](https://mksd.jp/pico2.gif)
+![Twitter](https://logopoppin.com/wp-content/uploads/2023/05/Twitter-logo-2010-768x154.webp)
+![Twitter](https://logopoppin.com/wp-content/uploads/2023/05/Twitter-logo-1024x381.webp)
+[Twitter Logo: A Brief Look Into the History of Iconic Emblem](https://logopoppin.com/blog/twitter-logo/) [ManiaCkeRs[fonts]](https://mksd.jp/designfont.html)
+
 [The Chemical Brothers - Dig Your Own Hole (Full Album)](https://www.youtube.com/watch?v=2UafeQIkj5c)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m depressed... <a href="https://twitter.com/hashtag/goodtimes?src=hash&amp;ref_src=twsrc%5Etfw">#goodtimes</a> got removed. It&#39;s so hard to complete anything <a href="https://twitter.com/hashtag/patient?src=hash&amp;ref_src=twsrc%5Etfw">#patient</a> <a href="https://twitter.com/hashtag/x?src=hash&amp;ref_src=twsrc%5Etfw">#x</a> <a href="https://twitter.com/hashtag/iloveu?src=hash&amp;ref_src=twsrc%5Etfw">#iloveu</a> ~ <a href="https://twitter.com/hashtag/%E3%81%84%E3%81%84%E3%81%8A%E3%81%AA%E3%81%8B%E3%81%AE%E6%97%A5?src=hash&amp;ref_src=twsrc%5Etfw">#いいおなかの日</a> <a href="https://twitter.com/MsNormani?ref_src=twsrc%5Etfw">@MsNormani</a> I&#39;m sick. <a href="https://twitter.com/MTV?ref_src=twsrc%5Etfw">@mtv</a> may not be responsible. It&#39;s personal. As soon as I get excited it&#39;s taken away. <a href="https://twitter.com/hashtag/evilJehovahsWitness?src=hash&amp;ref_src=twsrc%5Etfw">#evilJehovahsWitness</a> <a href="https://twitter.com/hashtag/CultControlBehavior?src=hash&amp;ref_src=twsrc%5Etfw">#CultControlBehavior</a> <a href="https://twitter.com/hashtag/rabbitheadmad?src=hash&amp;ref_src=twsrc%5Etfw">#rabbitheadmad</a>💯 <a href="https://t.co/I1cpjJCOeM">pic.twitter.com/I1cpjJCOeM</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1722111533042553052?ref_src=twsrc%5Etfw">November 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
