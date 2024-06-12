@@ -43,6 +43,9 @@ carousels:
 {% endhighlight %}
 
 
+
+
+![TWitterLogo](https://upload.wikimedia.org/wikipedia/fr/0/08/Twitter_logo_2010.svg)
 [ManiackErs Design](https://www.flickr.com/photos/mksd/)
 
 "Twitter" Logo Type by Maniackers Design Font "Pico" 2006-2010.09
