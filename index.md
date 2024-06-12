@@ -54,34 +54,13 @@ Maniackers Design Font Seires No.100
 ### [Pico Black - ALPHABET](https://mksd.jp/pico.html)
 
 Font Designer : Masayuki Sato (Maniackers Design)
-
 Design Year : 2001
-
 Version UP : 2007, 2008
 
 www2.wind.ne.jp/maniackers/pico.html
-
- 
-
-Masayuki Sato
-
-Twitter : twitter.com/mksdsato
-
- 
-
-A font family of "Pico -Alphabet Black & White" is Pop and Cute!!
-
-There are some different letters between small letters and big letters .
-
-Its version was upgraded 2007,on July 2008. Version 3.0 now. I add a postscript.
-
-I have received numerous inquiries,which about "Pico-Black" is similar to the logo of "Twitter".
-
-Without any doubt, this logo is designed using "Pico-Black".
-
-not merely "Similar". this font is used directly for "t,w,i,r". ("t" is the design of old version)
-
-"e"is other fonts.
+### Masayuki Sato
+Twitter : `twitter.com/mksdsato`
+A font family of "Pico -Alphabet Black & White" is Pop and Cute!! There are some different letters between small letters and big letters .Its version was upgraded 2007,on July 2008. Version 3.0 now. I add a postscript. I have received numerous inquiries,which about "Pico-Black" is similar to the logo of "Twitter". Without any doubt, this logo is designed using "Pico-Black". not merely "Similar". this font is used directly for "t,w,i,r". ("t" is the design of old version) "e"is other fonts.
 ![Twitter](https://live.staticflickr.com/3320/3654981510_8928d2d554_b.jpg)
 ![Pico](https://mksd.jp/poco.gif)
 ![pico](https://mksd.jp/pico2.gif)
