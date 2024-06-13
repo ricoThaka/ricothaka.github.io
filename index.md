@@ -42,9 +42,9 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+{% include_relative watchlist.md %}
 
-
-![SVG Editor](https://yqnn.github.io/svg-path-editor/)
+[SVG Editor](https://yqnn.github.io/svg-path-editor/)
 ![TWitterLogo](https://upload.wikimedia.org/wikipedia/fr/0/08/Twitter_logo_2010.svg)
 [ManiackErs Design](https://www.flickr.com/photos/mksd/)
 
