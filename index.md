@@ -1639,4 +1639,6 @@ Sega's in-house pro football sim - a YACEG series that
   
   </div>
 
+![NormaniMyWifeVanessa](https://pbs.twimg.com/media/GP0a8R9agAAN84K?format=jpg&name=4096x4096)
 {% include_relative worknotes.md %}
+{% include_relative civic.md %}
