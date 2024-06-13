@@ -1,4 +1,10 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
+
+
+### Git fetch
+The git fetch command downloads commits, files, and refs from a remote repository into your local repo
+
+[Git remote](https://www.atlassian.com/git/tutorials/syncing) [Git CheatSheet](file:///C:/Users/pac/Downloads/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 ![today](https://pbs.twimg.com/media/GP1lEqSboAA8lhy?format=jpg&name=large)
 [Mars Global Surveyor: 7 Years in Orbit!](https://www.msss.com/mars_images/moc/2004/09/12/)
 ## M_R_O CheckiN
