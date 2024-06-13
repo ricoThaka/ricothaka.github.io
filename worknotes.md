@@ -1,6 +1,6 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
-
+[https://www.svgviewer.dev/](https://www.svgviewer.dev/) [How to add border/outline/stroke to SVG elements in CSS?](https://stackoverflow.com/questions/18330344/how-to-add-border-outline-stroke-to-svg-elements-in-css)
 ## W3C's Editor
 Amaya is a Web editor, i.e. a tool used to create and update documents directly on the Web. Browsing features are seamlessly integrated with the editing and remote access features in a uniform environment. This follows the original vision of the Web as a space for collaboration and not just a one-way publishing medium...[LearNMoreAMAYA](https://www.w3.org/Amaya/)
 [Aphex Twin - Selected Ambient Works 85-92](https://youtu.be/Xw5AiRVqfqk?si=faGGKO8xltY4SwS-)
