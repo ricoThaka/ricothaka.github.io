@@ -609,13 +609,14 @@ embed {
   }
 
   audio {
+    background: darkgrey;
     -webkit-transition: all 0.5s linear;
     -moz-transition: all 0.5s linear;
     -o-transition: all 0.5s linear;
     transition: all 0.5s linear;
-    -moz-box-shadow: 2px 2px 4px 0px #006773;
-    -webkit-box-shadow: 2px 2px 4px 0px #006773;
-    box-shadow: 2px 2px 4px 0px #006773;
+    -moz-box-shadow: 2px 2px 4px 0px cyan;
+    -webkit-box-shadow: 2px 2px 4px 0px white;
+    box-shadow: 2px 2px 4px 0px whitesmoke;
     -moz-border-radius: 7px 7px 7px 7px;
     -webkit-border-radius: 7px 7px 7px 7px;
     border-radius: 7px 7px 7px 7px;

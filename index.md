@@ -42,6 +42,36 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+<div class="normani">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/CdTJAbf0XaFB8PMUWrDCnP939rjCDXIFHkSFqvM2Jtg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NTctMTcwMzc3Mjc3/NC01Njg5LmpwZWc.jpeg" alt="Aaliyah ">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/27cY4rEVm2D3MxpRXi8hhsa8EGZJNM99Nt053yirj4k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NTctMTcwMzc3Mjc3/NS03NzgyLmpwZWc.jpeg" alt="R.i.p. Aaliyah">
+
+  </div>
+  </div>
+  </div>
+</div>
+<audio controls  loop autoplay>
+                   <source src="https://archive.org/download/aaliyah-2001/Aaliyah/03-Rock%20The%20Boat.mp3" type="audio/mpeg">
+                   Your browser dose not Support the audio Tag
+</audio>
+
+[Discogs](https://www.discogs.com/release/1223557-Aaliyah-Rock-The-Boat) [BlAcKiE_Beats Hiphop Collection](https://archive.org/details/blackiebeatscollection)
+
+
 {% include_relative watchlist.md %}
 
 [SVG Editor](https://yqnn.github.io/svg-path-editor/)
