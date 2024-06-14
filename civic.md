@@ -11,11 +11,11 @@
 
 
 [Expedition 66 Astronaut Tom Marshburn Answers Los Angeles Student Questions - March 21, 2022](https://images.nasa.gov/details/iss066m260801629_Expedition_66_Education_Inflight_Orville_Wright%20_Middle_School_STEAM_220321)
-Aboard the International Space Station, NASA Expedition 66 Flight Engineer Tom Marshburn answered pre-recorded questions about life and work on the orbital laboratory during an in-flight event March 21 with the [Orville Wright STEAM Middle School in Las Angeles, California](https://www.wrightms.org/apps/pages/index.jsp?uREC_ID=450492&type=d). Marshburn is in the midst of a planned six-month mission living and working aboard the microgravity laboratory to advance scientific knowledge and demonstrate new technologies for future human and robotic exploration missions as part of NASA’s Moon and Mars exploration approach, including lunar missions through [NASA’s Artemis program.](https://www.nasa.gov/humans-in-space/artemis/)
+Aboard the International Space Station, NASA Expedition 66 Flight Engineer Tom Marshburn answered pre-recorded questions about life and work on the orbital laboratory during an in-flight event March 21 with the [Orville Wright STEAM Middle School in Las Angeles, California](https://www.wrightms.org/apps/pages/index.jsp?uREC_ID=450492&type=d). Marshburn is in the midst of a planned six-month mission living and working aboard the microgravity laboratory to advance scientific knowledge and demonstrate new technologies for future human and robotic exploration missions as part of NASA’s Moon and Mars exploration approach, including lunar missions through [NASA’s Artemis program.](https://www.nasa.gov/humans-in-space/artemis/) [Orville Wright](https://www.wrightms.org/apps/pages/index.jsp?uREC_ID=464041&type=d)
 
 <video controls 
   src="images-assets.nasa.gov/video/iss066m260801629_Expedition_66_Education_Inflight_Orville_Wright _Middle_School_STEAM_220321/iss066m260801629_Expedition_66_Education_Inflight_Orville_Wright _Middle_School_STEAM_220321~orig.mp4"
-  poster="https://pbs.twimg.com/media/GP_VBuEbEAEmjbi?format=jpg&name=large">
+  poster="https://www.wrightms.org/ourpages/auto/2020/6/10/48713956/unknown-1.jpg?rnd=1591790917462">
 
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="images-assets.nasa.gov/video/iss066m260801629_Expedition_66_Education_Inflight_Orville_Wright _Middle_School_STEAM_220321/iss066m260801629_Expedition_66_Education_Inflight_Orville_Wright _Middle_School_STEAM_220321~orig.mp4">download it</a>
