@@ -8,6 +8,10 @@
   </div>
 </div>
 
+
+
+# UrbanTypeface or Fashion ? 
+![https://www.typedifferent.com/fonts/bd-ritmic](https://cdn.fontdue.com/typedifferent/images/1442048128344834548/bd_ritmic_3.png?v=63846092734)
 ![NasaJPL](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)
 
 ### Divide and Conquer (film)
