@@ -8,6 +8,10 @@
   </div>
 </div>
 
+
+[Cambodian Genocide](https://sfi.usc.edu/collections/cambodian-genocide)
+In 1975, a communist regime known as the Khmer Rouge conquered the Cambodian capital of Phnom Penh. The occupation set in motion a four-year campaign of genocide that would wipe out 2 million people – a quarter of the country’s population. Developed through a partnership between USC Shoah Foundation and the Documentation Center of Cambodia, the Cambodian Genocide Collection offers testimonies of survivors who escaped the killings from 1975 to 1979...[ReadMoreatUSC](https://vha.usc.edu/home)
+
 ![Mars_Pathfinder](https://burodestruct.net/1997/mars/gfx/snowmars3.gif)
 
 # UrbanTypeface or Fashion ? 
