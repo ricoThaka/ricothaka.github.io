@@ -667,6 +667,7 @@ I started warming up my Solaris world skills online [DistroSea](https://distrose
 ![Coral](https://pbs.twimg.com/media/GNaGWK1aAAABmui?format=jpg&name=large)
 ![CAssini](https://pbs.twimg.com/media/GNaJcn9bMAALrwb?format=jpg&name=large)
 ![love](https://pbs.twimg.com/media/GNA3JE6acAAUL15?format=png&name=900x900)
+![M_R_O](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sun-Logo.svg/2560px-Sun-Logo.svg.png)
 ![LOVER](https://pbs.twimg.com/media/GMrFS7RasAQDSXD?format=jpg&name=large)
 ![MoonLover](https://pbs.twimg.com/media/GMhzyZRbsAAim0d?format=jpg&name=small)
 ![SheWillBeBack](https://pbs.twimg.com/media/GPbXWtNaIAATqec?format=jpg&name=large)
@@ -678,3 +679,4 @@ I started warming up my Solaris world skills online [DistroSea](https://distrose
 ![iminlove](https://pbs.twimg.com/media/GP0a8R9agAAN84K?format=jpg&name=4096x4096)
 ![iwannaworkoffcamera!](https://pbs.twimg.com/media/GPlFZApbAAAv1lu?format=jpg&name=large)
 ![Rashard_iman_kelly_Thaka_Selassie_ERikaMoonaNormaniGloElaaCardiMeganHusband](https://pbs.twimg.com/media/GAdZ_8ubQAEz0ME?format=jpg&name=large)
+![NasaJPL](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)
