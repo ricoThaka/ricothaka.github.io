@@ -47,9 +47,10 @@ carousels:
  <iframe class="audio" src="https://archive.org/embed/beastie-boys-hello-nasty" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ### DotGrid 
-<p class="dotgrid">
-
 ## ምዕራፍ 23
+<div class="dotgrid">
+
+
 የዳዊት መዝሙር።
 እግዚአብሔር እረኛዬ ነው፥ የሚያሳጣኝም የለም።
 2 በለመለመ መስክ ያሳድረኛል፤ በዕረፍት ውኃ ዘንድ ይመራኛል።
@@ -57,7 +58,7 @@ carousels:
 4 በሞት ጥላ መካከል እንኳ ብሄድ አንተ ከእኔ ጋር ነህና ክፉን አልፈራም፤ በትርህና ምርኵዝህ እነርሱ ያጸናኑኛል።
 5 በፊቴ ገበታን አዘጋጀህልኝ በጠላቶቼ ፊት ለፊት ራሴን በዘይት ቀባህ፥ ጽዋዬም የተረፈ ነው።
 6 ቸርነትህና ምሕረትህ በሕይወቴ ዘመን ሁሉ ይከተሉኛል፥ በእግዚአሔርም ቤት ለዘላለም እኖራለሁ።
-</p>
+</div>
 
 <div class="normani">
     <div></div>
