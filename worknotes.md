@@ -1,5 +1,29 @@
+ <div class="mro_banner">
+  <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
+  <div class="innertext-block">
+    <h4>Los Angeles</h4>
+    <p>hole to another universe</p>
+  </div>
+</div>   
+
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/xbZnL3G8jS">https://t.co/xbZnL3G8jS</a> Video:Tracking <a href="https://twitter.com/hashtag/IllegalFishing?src=hash&amp;ref_src=twsrc%5Etfw">#IllegalFishing</a> &amp; Protecting <a href="https://twitter.com/hashtag/Marine?src=hash&amp;ref_src=twsrc%5Etfw">#Marine</a> <a href="https://twitter.com/hashtag/Ecosystems?src=hash&amp;ref_src=twsrc%5Etfw">#Ecosystems</a> with GIS <a href="https://twitter.com/NASAClimate?ref_src=twsrc%5Etfw">@NASAClimate</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/SenBillNelson?ref_src=twsrc%5Etfw">@SenBillNelson</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/hashtag/informationPolicy?src=hash&amp;ref_src=twsrc%5Etfw">#informationPolicy</a> , <a href="https://twitter.com/Esri?ref_src=twsrc%5Etfw">@Esri</a> say our data is classified <a href="https://t.co/ssf8S4ZJ9t">https://t.co/ssf8S4ZJ9t</a><a href="https://twitter.com/CassiniSaturn?ref_src=twsrc%5Etfw">@CassiniSaturn</a> <a href="https://twitter.com/KarenBassLA?ref_src=twsrc%5Etfw">@KarenBassLA</a> am i violating? <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/9kssynNErs">pic.twitter.com/9kssynNErs</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1801706200339464441?ref_src=twsrc%5Etfw">June 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/Esri?ref_src=twsrc%5Etfw">@Esri</a> <a href="https://twitter.com/hashtag/Porno?src=hash&amp;ref_src=twsrc%5Etfw">#Porno</a> took over los angeles and a lot of <a href="https://twitter.com/hashtag/academia?src=hash&amp;ref_src=twsrc%5Etfw">#academia</a> got shuffled around <a href="https://twitter.com/KaitlinOlson?ref_src=twsrc%5Etfw">@KaitlinOlson</a> <a href="https://twitter.com/VoteKatieOlson?ref_src=twsrc%5Etfw">@VoteKatieOlson</a> im watching a video on <a href="https://twitter.com/EsriBlog?ref_src=twsrc%5Etfw">@EsriBlog</a> an if someone from <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@nasamars</a> <a href="https://twitter.com/MarsCuriosity?ref_src=twsrc%5Etfw">@MarsCuriosity</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> reach out to u tellem know <a href="https://twitter.com/hashtag/RashardWasOnTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#RashardWasOnTwitter</a> 4 <a href="https://twitter.com/hashtag/OnlineDating?src=hash&amp;ref_src=twsrc%5Etfw">#OnlineDating</a> an it did not work out <a href="https://t.co/4NL8sK3b45">pic.twitter.com/4NL8sK3b45</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1801707183937359935?ref_src=twsrc%5Etfw">June 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/DA5DY9kBTZ">https://t.co/DA5DY9kBTZ</a> <a href="https://twitter.com/CENTCOM?ref_src=twsrc%5Etfw">@CENTCOM</a> <a href="https://twitter.com/CodePen?ref_src=twsrc%5Etfw">@codepen</a> i embedded this pen <a href="https://t.co/Ld19s5ld5y">https://t.co/Ld19s5ld5y</a><a href="https://t.co/5FwcPDapc7">https://t.co/5FwcPDapc7</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/Jeezy?ref_src=twsrc%5Etfw">@jeezy</a> impostor was in <a href="https://twitter.com/LBCityLibrary?ref_src=twsrc%5Etfw">@LBCityLibrary</a> get control of those ppl <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> they broke my work blog <a href="https://twitter.com/hashtag/nbafinals?src=hash&amp;ref_src=twsrc%5Etfw">#nbafinals</a> <a href="https://twitter.com/NBCSCeltics?ref_src=twsrc%5Etfw">@NBCSCeltics</a> <a href="https://twitter.com/nuggets?ref_src=twsrc%5Etfw">@nuggets</a> who all fukked <a href="https://twitter.com/dreamdoll?ref_src=twsrc%5Etfw">@dreamdoll</a> ? <a href="https://t.co/O7kCdQki1K">pic.twitter.com/O7kCdQki1K</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1801724511710269914?ref_src=twsrc%5Etfw">June 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
+[Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
+{% include_relative civic.md %}
+
+[SVG Editor](https://yqnn.github.io/svg-path-editor/)
+![TWitterLogo](https://upload.wikimedia.org/wikipedia/fr/0/08/Twitter_logo_2010.svg)
+[ManiackErs Design](https://www.flickr.com/photos/mksd/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/8Zt5VWhumn">https://t.co/8Zt5VWhumn</a> <a href="https://twitter.com/LACity?ref_src=twsrc%5Etfw">@lacity</a> <a href="https://twitter.com/LACountyRRCC?ref_src=twsrc%5Etfw">@LACountyRRCC</a> <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a>/ <a href="https://twitter.com/MayorOfLA?ref_src=twsrc%5Etfw">@MayorOfLA</a> <br>my work notes page i have to keep updated for <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> my family is in pornography, this is not fair <a href="https://twitter.com/hashtag/SammyDavisJr?src=hash&amp;ref_src=twsrc%5Etfw">#SammyDavisJr</a> <a href="https://twitter.com/hashtag/JamesBaldwin?src=hash&amp;ref_src=twsrc%5Etfw">#JamesBaldwin</a> <a href="https://twitter.com/Playboy?ref_src=twsrc%5Etfw">@playboy</a> when do it stop <a href="https://twitter.com/hashtag/uncletoms?src=hash&amp;ref_src=twsrc%5Etfw">#uncletoms</a> ? <a href="https://t.co/VdcvFnQDzb">https://t.co/VdcvFnQDzb</a> <a href="https://t.co/3eBGEBy5dN">pic.twitter.com/3eBGEBy5dN</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1801768215401611563?ref_src=twsrc%5Etfw">June 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![Mars_Pathfinder](https://burodestruct.net/1997/mars/gfx/snowmars3.gif)
 
@@ -66,13 +90,7 @@ Climate is controlled by the amount of sunlight absorbed by Earth and the amount
 ![ceres data set](https://pbs.twimg.com/media/GP03qjvacAA0nTo?format=jpg&name=large)
 
 
- <div class="mro_banner">
-  <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
-  <div class="innertext-block">
-    <h4>Los Angeles</h4>
-    <p>hole to another universe</p>
-  </div>
-</div>   
+
 
 
 
@@ -664,7 +682,7 @@ I started warming up my Solaris world skills online [DistroSea](https://distrose
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1390084471&color=%23afad88&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/waystoloveu" title="waystoloveu" target="_blank" style="color: #cccccc; text-decoration: none;">waystoloveu</a> · <a href="https://soundcloud.com/waystoloveu/sza-ctrl-full-album" title="Sza - Ctrl Full Album" target="_blank" style="color: #cccccc; text-decoration: none;">Sza - Ctrl Full Album</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1791761652&color=%2300ffc8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/flomilli" title="Flo Milli" target="_blank" style="color: #cccccc; text-decoration: none;">Flo Milli</a> · <a href="https://soundcloud.com/flomilli/sets/fine-ho-stay" title="Fine Ho, Stay" target="_blank" style="color: #cccccc; text-decoration: none;">Fine Ho, Stay</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1413792211&color=%23185676&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/waystoloveu" title="waystoloveu" target="_blank" style="color: #cccccc; text-decoration: none;">waystoloveu</a> · <a href="https://soundcloud.com/waystoloveu/sza-sos-full-album" title="SZA - Sos Full Album" target="_blank" style="color: #cccccc; text-decoration: none;">SZA - Sos Full Album</a></div>
-{% include_relative civic.md %}
+
 
 [LateForWork](https://youtu.be/eyPhtl5VChE?si=RFBj5U4HrlSXNm4c0)
 
