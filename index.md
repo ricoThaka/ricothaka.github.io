@@ -42,13 +42,6 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="QWROBro" data-pen-title="Untitled" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/QWROBro">
-  Untitled</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
 ![HelloNasty](https://crypticrock.com/wp-content/uploads/2023/09/hello-nasty-25th-slide.jpg)
  <iframe class="audio" src="https://archive.org/embed/beastie-boys-hello-nasty" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
