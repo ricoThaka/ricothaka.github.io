@@ -98,7 +98,7 @@ carousels:
   </div>
   </div>
 </div>
-<audio controls  loop autoplay>
+<audio controls  loop >
                    <source src="https://archive.org/download/aaliyah-2001/Aaliyah/03-Rock%20The%20Boat.mp3" type="audio/mpeg">
                    Your browser dose not Support the audio Tag
 </audio>
