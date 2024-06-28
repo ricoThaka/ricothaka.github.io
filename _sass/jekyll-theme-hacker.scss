@@ -582,17 +582,19 @@ hr {
 
 /* Buttons
 */
-
-a,
 a:hover,
 a:visited a:hover {
   color: #c9ff23;
+  padding: 10px;
+  font-size: 150%;
 }
 
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  transition: 0.2s;
 }
+
 
 video {
   height: 400px;

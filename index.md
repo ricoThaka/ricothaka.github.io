@@ -59,8 +59,7 @@ carousels:
 
 ![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
 [Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
-{% include_relative worknotes.md %}
-{% include_relative civic.md %}
+
 
 
 ### DotGrid 
