@@ -41,6 +41,13 @@ carousels:
 3 # ANOTHER##########https://s.id/1kmbG################### 
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
+
+#TGiF
+
+<embed scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1383362185&color=%23d4d943&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><a href="https://soundcloud.com/devin-the-dude-official" title="Devin The Dude" target="_blank" style="color: #cccccc; text-decoration: none;">Devin The Dude</a> · <a href="https://soundcloud.com/devin-the-dude-official/you-so-real-1" title="You So Real" target="_blank" style="color: #cccccc; text-decoration: none;">You So Real</a>
+
+`https://x.com/RicoThaka/status/1805691715132809394`
+
 <embed allowfullscreen src="https://archive.org/embed/DontBeASucker-U.S.WarDepartment1943" />
 <div class="viking">
         <div></div>
