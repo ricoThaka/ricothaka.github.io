@@ -1,0 +1,537 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+html body {
+margin: 0;
+padding: 0;
+}
+
+html {
+  font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+  background: url(https://i.etsystatic.com/12076554/r/il/2f06c1/1710869594/il_1140xN.1710869594_g3ef.jpg)
+    no-repeat center center fixed;
+  line-height: 1.5;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+
+}
+
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+
+ margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+justify-content: flex-start
+  padding: 20px;
+  height: 70vh;
+  overflow-x: auto;
+  margin : auto; 	
+  border: 19px solid #262626;
+  text-align:left; 
+  voice-family:inherit;
+  box-shadow: rgba(38,38,38, 0.4) 5px 5px, rgba(38,38,38, 0.3) 10px 10px, rgba(38,38,38, 0.2) 15px 15px, rgba(38,38,38, 0.1) 20px 20px, rgba(38,38,38, 0.05) 25px 25px;
+line-height: 1.5;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ border-radius: 31px 31px 31px 31px;
+  width: 70vw; 
+  scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
+
+}
+
+        .flex-content {
+          width: 100%;
+          margin: 0;
+          padding: 0;
+          display: flex;
+          flex-flow: row nowrap;
+
+
+        }
+        .flex-item {
+           scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
+          flex: 1 0 40vw;
+            padding: 0em;
+
+          min-height: 50px;
+          max-height: 100vh;
+          background-color: rgba(255, 255, 255, 0.7);
+          text-align: center;
+          border-radius: 15px;
+          margin: 2vmin;
+          padding: 2vmin;
+          background-color: #fce4ec; /* for testing*/
+            max-width: 43em;
+  background: hsla(0,0%,100%,.25) border-box;
+  overflow: auto;
+
+  box-shadow: 0 0 0 1px hsla(0,0%,100%,.3) inset,
+              0 .5em 1em rgba(0, 0, 0, 0.6);
+  text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
+ }
+
+
+
+.logo {
+  writing-mode: vertical-rl;
+
+  float: top;
+  background-color:black;
+  display:inline;
+}
+
+#navcontainer
+{
+  height:100vh;
+margin: 0px 0 0 0px;
+padding: 0;
+display: table; 
+  background-color:black;
+  position:fixed;
+  color:white;
+
+}
+
+#navcontainer ul
+{
+writing-mode: vertical-rl;
+text-orientation: upright;
+border: 0;
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+}
+#navcontainer ul li
+{
+display: block;
+float: left;
+text-align: center;
+padding: 0;
+margin: 0;
+}
+
+
+#navcontainer ul li a
+{
+background: #fff;
+border-top: 1px solid #2E97F2;
+border-left: px solid #f5d7b4;
+border-bottom: 1px solid #262626;
+border-right: 1px solid #262626;
+padding: 0;
+margin: 0 0 0px 0;
+color: #A6A6A6;
+text-decoration: none;
+display: block;
+text-align: center;
+}
+
+
+#navcontainer ul li a:hover
+{
+color: #F2F2F2;
+background: #262626;
+}
+
+#navcontainer a:active
+{
+background: #262626;
+color: #fff;
+}
+
+#navcontainer li#active a
+{
+background: #262626;
+border-right: 4px solid #2E97F2;
+color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------- #StartStyle */
+body {
+
+}
+pre {padding:15px;
+color:white;}
+
+
+
+
+
+a,
+a:hover,
+a:visited a:hover {
+  color: #c9ff23;
+  padding: 10px;
+}
+
+a {
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+/* contentDiv */
+
+
+
+
+
+embed {
+border-radius: 15px;
+height: 100%;
+width: 100%;
+scrollbar-color: #595959 #262626;
+scrollbar-width: thin;
+
+}
+
+object {
+
+height: 300px;
+  width: 100%;
+
+
+}
+.split {
+
+  columns: 2;
+
+}
+
+video {
+
+  width: 100%;
+  display: block;
+  background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/MOSHED-2024-4-24-15-54-32.jpg);
+transition: 4s cubic-bezier(.25,.1,.2,3);
+}
+
+
+figcaption {
+  font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+
+
+}
+figure {
+  min-width: 150px;
+}
+figure {
+
+  vertical-align: top;
+    float: right;
+  width: 100%;
+  text-indent: 0;
+  border-bottom: thin silver solid;
+  padding: 1px;
+  margin: 10px;
+}
+
+
+.dosbox-container { width: 100%; height: 400px; }
+.dosbox-container > .dosbox-overlay { background: url(https://i.ebayimg.com/images/g/OTgAAOSwYINj50PW/s-l1200.webp); }
+
+.twoPanelSpread {
+
+
+  /* For browsers that do not support gradients */
+  /* background-image: linear-gradient(to right, #e66250, #ff80cc); */
+  margin: 0px;
+  padding: 0px;
+  background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
+    center repeat;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+#headerMargins 
+{
+  margin-bottom:-27px;
+
+}
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+
+.leftColumn {
+/*  background-color: #2470FF; */
+  width: 100%;
+}
+
+.leftColumn img {
+
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+
+}
+
+.rightColumn {
+
+}
+.rightColumn img { 
+
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+
+/* FLEX_BOX_FOR_3_IMAGES */
+.flex-container {
+
+    display: flex;
+     align-items: stretch; 
+     flex-flow: row nowrap;  
+    flex-direction: row; 
+    flex-wrap: nowrap; 
+    justify-content: center;
+    align-content: stretch;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+
+  }
+
+  .flex-container > div{
+
+    border: 1px solid #c9ff23;
+    border-radius: 1px;
+    padding: 8px;
+  }
+
+#row_image  {
+  /* position: fixed; */ /* border-radius: 55px 55px 0px 0px; */
+  width: 100%;
+  display: flex;
+  border-bottom: 10px solid #DB362D; 
+  justify-content: center;
+   max-width: 100%;
+  padding: 0px;
+  max-height: 100%;
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp");
+    background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
+    center repeat;
+  background-repeat: repeat;
+  }
+
+
+#round {border-radius: 31px 31px 0px 0px;}
+img {
+
+}
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border-bottom: 10px solid #DB362D;
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
+
+.firstcharacter {
+  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+  float: left;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 7px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.neonText {
+  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+
+}
+
+gradient-text {
+
+  box-shadow: rgba(219,54,45, 0.4) 5px 5px, rgba(219,54,45, 0.3) 10px 10px, rgba(219,54,45, 0.2) 15px 15px, rgba(219,54,45, 0.1) 20px 20px, rgba(219,54,45, 0.05) 25px 25px;
+
+}
+svg {
+  filter: drop-shadow(11px 1px 1px rgb(38 38 38 / 0.6));
+}
+
+.header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1117.5em;
+  background: #DB362D;
+}
+
+.social-links {
+  border-bottom: solid 1px #DB362D;
+  margin-bottom: 15px;
+}
+.social-links li {
+  width: 25%;
+  border-left: solid 1px #DB362D;
+}
+.social-links li:first-child {
+  border: none;
+}
+.social-links a {
+  display: block;
+  height: 5.5em;
+  text-align: center;
+  color: white;
+  font: 0.75em/5.5em "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+
+}
+.social-links a:hover {
+  color: #DB362D;
+}
+.list-hover-slide li {
+  position: relative;
+  overflow: hidden;
+}
+.list-hover-slide a {
+  display: block;
+  position: relative;
+  z-index: 1;
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  background-image: url("https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00443/ids/edr/browse/fcam/FLF_0443_0706278634_263ECM_N0250214FHAZ02008_10_085J01_1200.jpg");
+  transition: 0.35s ease color;
+}
+.list-hover-slide a:before {
+  content: '';
+  display: block;
+  z-index: -1;
+  position: absolute;
+  left: -100%;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border-right: solid 5px #c9ff23;
+  background: #DB360D;
+  transition: 0.35s ease left;
+}
+.list-hover-slide a.is-current:before, .list-hover-slide a:hover:before {
+  left: 0;
+}
+
+
+
+.pinupGallery {
+  display:table-column;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px;
+   object-fit: contain;
+}
+.pinupImage {
+  width: 50px;
+  flex: 1 0 auto;
+}
+.featured-pinupImage {
+  flex: 0 1 50%;
+
+}
+:root {
+  --magnifier: 8;
+  --gap: 0vmax;
+  --transition: 0.5s;
+}
+img {width:100%;
+}
+.expandingGallery {
+  width: 100%;
+  margin:0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap);
+}
+
+.expandingGallery > img {
+  --brightness: 0.75;
+  --grayscale: 1;
+  transition: flex var(--transition), filter var(--transition);
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  flex: 1;
+}
+
+.expandingGallery > img:hover {
+
+  flex: var(--magnifier);
+}
+
+

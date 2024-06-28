@@ -1,0 +1,136 @@
+#main {
+    margin:0 auto;
+      width: 50vw;
+      height: 100vh;
+    margin: auto;}
+    p {
+      display:block;
+    
+      text-align: center;
+      color:white;
+        background: transparent
+        url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+        center repeat;
+    }
+    
+    hr {
+      height: 0;
+      border: 0;
+      border-bottom: 1px dashed #b5e853;
+      color: #b5e853;
+    }
+    
+        @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+        html {
+        height: 100%;
+        width: 100%;
+       
+        font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+      }
+    
+    
+    
+        body {
+          height: 100vh;
+          color: #29F247;
+          text-shadow: 0 0 8px #FFFFFF;
+           margin: 0;
+           background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif) no-repeat center center fixed; 
+           -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+          
+        }
+    .logo {
+      
+      float: left;
+      background-color:black;
+      display:block;
+      
+    }
+    
+    ul {
+      padding: 0;
+      margin: 0;
+      color: white;
+    }
+    
+    li {
+      display: inline;
+      position: relative;
+      color: white;
+    }
+    
+    ul ul {
+      position: absolute;
+      display: none;
+      
+    }
+    
+    li:hover ul {
+      display: block;
+    }
+    
+    
+    
+    #navcontainer {
+      padding: 0;
+      
+      height: 20px;
+      display: flex;
+      background-color:black;
+      position:fixed;
+      color:white;
+      top: 0;
+    }
+    
+    #navcontainer ul {
+      border: 0;
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+      text-align: center;
+    }
+    
+    #navcontainer ul li {
+      display: block;
+    
+      float: right;
+      text-align: center;
+      padding: 0px;
+      margin: 0;
+    }
+    
+    #navcontainer ul li a {
+      width: 100px;
+      height: 20px;
+      background: #262626;
+      border-left: px solid #f5d7b4;
+      border-bottom: 1px solid #262626;
+      border-right: 1px solid #262626;
+      padding: 0;
+      margin: 0 0 0px 0;
+      color: #a6a6a6;
+      text-decoration: none;
+      display: block;
+      text-align: center;
+    
+    }
+    
+    #navcontainer ul li a:hover {
+      color: #f2f2f2;
+      background: #262626;
+    }
+    
+    #navcontainer a:active {
+      background: #262626;
+      color: #fff;
+    }
+    
+    #navcontainer li#active a {
+      background: #262626;
+      border-right: 4px solid #2e97f2;
+      color: #fff;
+    }
+    
