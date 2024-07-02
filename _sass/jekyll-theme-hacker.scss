@@ -215,14 +215,15 @@ p {
   color: white;
   background: transparent
     url(https://t4.ftcdn.net/jpg/01/11/31/93/360_F_111319320_3gSczDAUKn9b5DAbQdkILWgvA28p4lrx.jpg);
-  background-size: contain;
-  background-repeat: repeat;
+  background-size: cover;
+  background-repeat: repeat; 
 }
 ::selection {
   color: #aaff00;
   background: #454b1b;
 }
 
+/*
 p::first-letter {
   font-size: 2rem;
   font-weight: bold;
@@ -232,7 +233,10 @@ p::first-letter {
 p:first-of-type {
   animation-duration: 3s;
   animation-name: slidein;
-}
+} 
+
+*/
+
 .firstcharacter {
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
@@ -583,16 +587,60 @@ hr {
 /* Buttons
 */
 a:hover,
-a:visited a:hover {
+a:visited a:hover :not(img){
   color: #c9ff23;
   padding: 10px;
   font-size: 150%;
 }
 
 a {
+  display:block;
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  transition: 0.2s;
+  transition: 0.3s;
+}
+
+
+h1 {
+  font-size: 170%;
+  color: white;
+  /* background: linear-gradient(45deg, 
+ #F2D338 25%, #262626 0, #262626 50%,
+ #F2D338 0, #F2D338 75%, #262626 0);
+background-size: 80.4px 80.4px; */
+  font-family: "VT323", monospace;
+
+  background: linear-gradient(to top, transparent, #b1b1b1 100%),
+    #262626
+      repeating-linear-gradient(
+        45deg,
+        transparent,
+        transparent 35px,
+        rgba(255, 255, 255, 0.5) 35px,
+        rgba(255, 255, 255, 0.5) 70px
+      );
+  background-clip: padding-box;
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 0px 1px 3px 1px #969494;
+  background-attachment: fixed;
+}
+
+h2 {
+  background: transparent
+    url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
+  font-size: 140%;
+  color: white;
+}
+
+/* Buttons
+*/
+
+dt {
+  font-style: italic;
+  font-weight: bold;
+  background: transparent
+    url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
 }
 
 
