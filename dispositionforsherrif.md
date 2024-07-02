@@ -119,25 +119,29 @@ Hi Im still learning how to structure letters! I am Rashard Kelly as my document
 She plays [OverWatch](https://overwatch.blizzard.com/en-us/) and does not talk much but she is a singer now, thats how playboy control thier image. She is not in Rabbit Ears in [ThisVideo](https://www.youtube.com/watch?v=MuNx-_dqM90) but other girls are. I could not listen to the Jehovhas witnesses sexually bc the girls i was in field service with or Hospitality when my "Daddy" gave talks started breaking into my East Atlanta [CraftsmanBungalow](https://www.zillow.com/homedetails/631-Moreland-Ave-SE-Atlanta-GA-30316/35832458_zpid/)
 ![631Moreland](https://photos.zillowstatic.com/fp/e4047d7d1fcfcca0f0a8b0be2c694f27-cc_ft_768.webp) I was renting it from [Renters Warehouse](https://www.renterswarehouse.com/)
 , Then my life started falling apart, they were having sex with me, I thought I was dreaming, then thier porno friends and dance ppl from hollywood started being mean to me... 
-<a href="https://pbs.twimg.com/profile_images/1711903655501438976/EHEDOh4s_400x400.jpg"><img src="https://pbs.twimg.com/profile_images/1711903655501438976/EHEDOh4s_400x400.jpg" style="width:180px;height:252px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> </a>
+<a href="https://pbs.twimg.com/profile_images/1711903655501438976/EHEDOh4s_400x400.jpg"><img src="https://pbs.twimg.com/profile_images/1711903655501438976/EHEDOh4s_400x400.jpg" style="width:180px;height:180px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> </a>
 [MoreLater](https://thakarashard.github.io/ricothaka/twitters.html) This was after i left [The San Gabriel Valley](https://en.wikivoyage.org/wiki/San_Gabriel_Valley)!
 
-I was working for [NasaJPL](https://www.jpl.nasa.gov/social) and caring for a small child. I know people from [Santa Anita Park](https://parks.lacounty.gov/arcadia-community-regional-park/) remember me palying with her everyday after work. Her mom started a sexual relationship at some point in the tiemline that I did not know about! We were driving a red mustang. I remember some guys in a Blue Grand MArquis rolled up on us in Van Nuys. Erika said i should quit working for a while and Grow. This was after a woman i thought was my mother died! Erika was never nice to me. She is family and I would never hurt her. She ran away when I hit her back. She was abusive bc after [Jehovahs Witnesses fell apart she felt stuck. ](https://x.com/Essence/status/1248047995804884992). I have no problem with her relationship status, but it left me crippled fiscally and immobile, i was 3 weeks late on my car payment and her boyfriend stole my honda fit. I had to let the mustang go for a Title loan bc the car was getting poisoned and i could not afford to commute in it. At least i would have the warranty with the new car. I had no carpayment b4. I get fired as soon as i get comfortable. Since i have a past with NAsa its hard to get work bc im not into porn. But I was advised that I was [Mars Mission Staff](https://github.com/nasa)! The people at the library are stingy with Computer time but the military is doing a silent workforce healing because we can be tracked via [GitHub](https://www.github.careers/careers-home) if im working on Github and creating usable code im healthy with my employer. I have a contractor issue. Mori's Jose M Pi told me that I could not come back to the Military Base because I was late too often. Our Extended Stay room was getting poisoned and I was taking care of my child fulltime and had worked things out with the mission. I put her in a holistic daycare in Altedena with ponys and had a schedule to make sure she played outside. I have workedd Development Opeerations(Devops) most of my life and a computer is like your radio. Im isolated ive always depended on my employer for a steady connection to the internet, and my life organically grew around it. [Read about my victimization](https://thakarashard.github.io/ricothaka/worknotes#Mori) and bullying by the world of Criminal sex and striptease after I took a year off. No one ever belived I worked! And im always kicked off of social media and no one will talk to me. I think the lady in this video who is [removing my child](https://www.facebook.com/CaptainOfJoy/videos/1826699194158396) is a local sex slave. She is my friend at the very least. Here is the [DekalbCounty Court](https://www.facebook.com/CaptainOfJoy/videos/1826699224158393) removing my child with no notice! I was tossed in the Mental hospital about 3 months later. I was made homeless in stages! Im sacred and need help! 
+I was working for [NasaJPL](https://www.jpl.nasa.gov/social) and caring for a small child. I know people from [Santa Anita Park](https://parks.lacounty.gov/arcadia-community-regional-park/) remember me palying with her everyday after work. Her mom started a sexual relationship at some point in the tiemline that I did not know about! We were driving a red mustang. I remember some guys in a Blue Grand MArquis rolled up on us in Van Nuys. Erika said i should quit working for a while and Grow. This was after a woman i thought was my mother died! Erika was never nice to me. She is family and I would never hurt her. She ran away when I hit her back. She was abusive bc after [Jehovahs Witnesses fell apart she felt stuck. ](https://x.com/Essence/status/1248047995804884992). I have no problem with her relationship status, but it left me crippled fiscally and immobile, i was 3 weeks late on my car payment and her boyfriend stole my honda fit. I had to let the mustang go for a Title loan bc the car was getting poisoned and i could not afford to commute in it. At least i would have the warranty with the new car. I had no carpayment b4. I get fired as soon as i get comfortable. Since i have a past with NAsa its hard to get work bc im not into porn. But I was advised that I was [Mars Mission Staff](https://github.com/nasa)! The people at the library are stingy with Computer time but the military is doing a silent workforce healing because we can be tracked via [GitHub](https://www.github.careers/careers-home) 
+
 <a href="https://lasd.org/wp-content/uploads/2024/04/Captain-Kusayanagi-Chris_300-240x300.jpg"><img src="https://lasd.org/wp-content/uploads/2024/04/Captain-Kusayanagi-Chris_300-240x300.jpg" style="width:240px;height:300px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
 
+If im working on Github and creating usable code im healthy with my employer. I have a contractor issue. Mori's Jose M Pi told me that I could not come back to the Military Base because I was late too often. Our Extended Stay room was getting poisoned and I was taking care of my child fulltime and had worked things out with the mission. I put her in a holistic daycare in Altedena with ponys and had a schedule to make sure she played outside. I have workedd Development Opeerations(Devops) most of my life and a computer is like your radio. Im isolated ive always depended on my employer for a steady connection to the internet, and my life organically grew around it. [Read about my victimization](https://thakarashard.github.io/ricothaka/worknotes#Mori) and bullying by the world of Criminal sex and striptease after I took a year off. No one ever belived I worked! And im always kicked off of social media and no one will talk to me. I think the lady in this video who is [removing my child](https://www.facebook.com/CaptainOfJoy/videos/1826699194158396) is a local sex slave. She is my friend at the very least. Here is the [DekalbCounty Court](https://www.facebook.com/CaptainOfJoy/videos/1826699224158393) removing my child with no notice! I was tossed in the Mental hospital about 3 months later. I was made homeless in stages! Im sacred and need help! [here is some of the story i compiled for Arcadia Police](https://thakarashard.github.io/compiling/Update-Arcadia-Police). Im getting wordy but The girl that took my child, i think it's [Normani](https://www.huffpost.com/entry/normani-cancels-bet-awards-performance-injury_n_6682d314e4b038babc7c6b01). I dont know to what extent but im intimate with her. Erika left me... And Normani has been life coaching me in certain areas. I signed a contract with her under the name Dyneesha... She goes by Kashdoll sometimes and keeps a check on my libraries and other things she getpoints for. Kinda like you guys and speeding tickets [Mashonga](https://www.facebook.com/photo.php?fbid=1826797320815250&set=pb.100004549987965.-2207520000&type=3)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6s4slL3_jtI?si=BUA07DnDx6hVEkGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-![Decatur Home with small Child](https://pbs.twimg.com/media/GRLW1y8akAAyt0B?format=jpg&name=small)
-![Couple](https://pbs.twimg.com/media/GRBsIqZbcAASMkV?format=jpg&name=medium)
-
-
-
-
-
+ ![Normani](https://pbs.twimg.com/media/GPfTvnWaIAEuIRh?format=jpg&name=large)
+https://x.com/MooNLOVER404/status/1799143139263066343
 
 
 
 
+
+
+
+![mental health](https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/135512017_1824356684392647_7096673000844616796_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=5beAaIZ09y8Q7kNvgFjrnHo&_nc_ht=scontent-lax3-1.xx&oh=00_AYC6vNaKH33yS9-iyjusDJf2dfaHiy3j7MXaSDxQG-V_ZQ&oe=66ABCB79)
+
+![removal](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134633672_1824384381056544_6826260051553130430_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=_bxda0X3q1IQ7kNvgFBG9g3&_nc_ht=scontent-lax3-2.xx&oh=00_AYD9Nt1flQgzB4p0PxIYTZjfHdLGfJo6UElvj7IFxto5og&oe=66ABDDEA)
 
 
 
@@ -160,12 +164,21 @@ I was working for [NasaJPL](https://www.jpl.nasa.gov/social) and caring for a sm
 </ul>
 </nav>
 
+
+
+![Decatur Home with small Child](https://pbs.twimg.com/media/GRLW1y8akAAyt0B?format=jpg&name=small)
+![Couple](https://pbs.twimg.com/media/GRBsIqZbcAASMkV?format=jpg&name=medium)
+![Erika Coral and Connie](https://pbs.twimg.com/media/GPfVd4AbAAAn0Hb?format=jpg&name=large)
+![kidnappingVictims](https://pbs.twimg.com/media/GQUO25ua0AAIHeS?format=jpg&name=large)
+![kashdoll](https://pbs.twimg.com/media/GQUN_6baIAADLwH?format=jpg&name=large)
+
 https://www.jpl.nasa.gov/
 
 
 ![itsRashardAKATHAKA](https://pbs.twimg.com/media/GIL3LJIbMAAe1PV?format=jpg&name=small)
 ![Coral](https://pbs.twimg.com/media/GNaGWK1aAAABmui?format=jpg&name=large)
 ![CAssini](https://pbs.twimg.com/media/GNaJcn9bMAALrwb?format=jpg&name=large)
+![obey](https://pbs.twimg.com/media/GQZoZJcaIAM2LOy?format=jpg&name=large)
 ![love](https://pbs.twimg.com/media/GNA3JE6acAAUL15?format=png&name=900x900)
 ![Love](https://pbs.twimg.com/media/GNA3Kb3bgAAtoNo?format=jpg&name=large)
 ![LOVER](https://pbs.twimg.com/media/GMrFS7RasAQDSXD?format=jpg&name=large)
