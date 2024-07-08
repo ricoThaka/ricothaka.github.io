@@ -43,6 +43,8 @@ carousels:
 {% endhighlight %}
 
 
+
+<iframe src="https://archive.org/embed/psx_strider2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ![PlayStationLogo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Playstation_logo_colour.svg)
 ![PlayStation](https://upload.wikimedia.org/wikipedia/commons/9/95/PSX-Console-wController.png)
 ### [Console Living Room: Playstation (PSX) internet archive](https://archive.org/details/psxgames)
