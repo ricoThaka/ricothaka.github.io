@@ -42,6 +42,11 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+### SVG
+
+![PS2 SVG](https://upload.wikimedia.org/wikipedia/commons/7/76/PlayStation_2_logo.svg)
+
+### png
 
 ![PS2](https://upload.wikimedia.org/wikipedia/commons/a/af/PlayStation_2_logo.png)
 
