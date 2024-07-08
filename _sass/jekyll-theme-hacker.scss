@@ -5108,3 +5108,85 @@ embed {
 #a-title {
   text-decoration: none;
 }
+
+
+
+
+.playlist {
+  display:flex;
+  flex-flow: row wrap;
+  flex-direction: row;
+  
+} 
+
+.track {
+ margin: 1px;
+  overflow:hidden;
+  flex: 1 1 200px;
+border-radius: 0.3em;
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+	box-shadow: 0 0 0 1px hsla(0,9%,1%,.3) outset
+	            0 .5em 1em rgba(0, 0, 0, 0.1);
+	text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp");
+    background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
+    center repeat;
+  background-repeat: repeat;
+}
+
+.track:hover, .track:focus, .track:active
+{
+  
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.09);
+}
+
+.track {
+
+}
+
+.container-audio {
+ 
+    padding: 0px;
+ 	
+
+}
+.track>img { width:100%;
+
+   -webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+}
+
+audio {
+  
+    
+ 
+
+    -webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+
+	text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
+  background: hsla(0,0%,100%,.9) border-box;
+}
+audio:nth-child(2), audio:nth-child(4), audio:nth-child(6) {
+    margin: 0;
+}
+
+
+audio:hover, audio:focus, audio:active 
+{
+
+
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
+}
+
