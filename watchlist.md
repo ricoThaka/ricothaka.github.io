@@ -1,7 +1,7 @@
 
 
 ### Mobile Suit Gundam 0083 Stardust Memory   Episode Irregulats in Albion   Subtitled English [watch](https://archive.org/details/Mobile_Suit_Gundam_0083_Stardust_Memory_Episode_Irregulats_in_Albion_Subtitled_E)
-
+[Mobile Suit Gundam: The Witch from Mercury Ep. 1 | DUB | The Witch and the bride](https://www.youtube.com/watch?v=DF8aTKLYouw) 
 ### They Live
 
 ### [They Live 1989 VHS](https://archive.org/details/they-live-1989-vhs)
