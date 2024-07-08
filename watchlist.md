@@ -1,7 +1,7 @@
 
 
 ### Mobile Suit Gundam 0083 Stardust Memory   Episode Irregulats in Albion   Subtitled English [watch](https://archive.org/details/Mobile_Suit_Gundam_0083_Stardust_Memory_Episode_Irregulats_in_Albion_Subtitled_E)
-[Mobile Suit Gundam: The Witch from Mercury Ep. 1 | DUB | The Witch and the bride](https://www.youtube.com/watch?v=DF8aTKLYouw) [LiveAction GUNDAM :netflix:](https://youtu.be/s_fNP-ipgJA?si=TPxldMjjMzNYbPYP)
+[Mobile Suit Gundam: The Witch from Mercury Ep. 1 | DUB | The Witch and the bride](https://www.youtube.com/watch?v=DF8aTKLYouw) [LiveAction GUNDAM :netflix:](https://youtu.be/s_fNP-ipgJA?si=TPxldMjjMzNYbPYP) [imdb](https://www.imdb.com/title/tt0159172/) [Mobile Suit Gundam](https://www.crunchyroll.com/series/GKEH2G9XV/mobile-suit-gundam)
 
 
 
