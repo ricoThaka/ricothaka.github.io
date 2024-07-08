@@ -58,6 +58,9 @@ carousels:
 ### Japanese: プレイステーション
 ![PSX Console](https://pbs.twimg.com/media/GR_IFofbYAAzXaT?format=jpg&name=large)
 
+[The original PlayStation logo with the grey colored consoles were my favorite. What’s everyone’s favorite logo?](https://www.reddit.com/r/playstation/comments/18dgp5h/the_original_playstation_logo_with_the_grey/?rdt=33446&onetap_auto=true&one_tap=true)
+![LogoHistory](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ftbox4ajhm05c1.jpeg)
+
 
 [Invasion Of Privacy](https://archive.org/details/cardi-b-invasion-of-privacy/Invasion+Of+Privacy/09-Money+Bag.mp3)
 <audio controls  loop >
