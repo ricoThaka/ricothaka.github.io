@@ -42,6 +42,27 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+             <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frank_Lloyd_Wright_portrait.jpg/564px-Frank_Lloyd_Wright_portrait.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frank_Lloyd_Wright_portrait.jpg/564px-Frank_Lloyd_Wright_portrait.jpg" alt="1945 dessau" ></a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+             <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frank_Lloyd_Wright_portrait.jpg/564px-Frank_Lloyd_Wright_portrait.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frank_Lloyd_Wright_portrait.jpg/564px-Frank_Lloyd_Wright_portrait.jpg" alt="LE DDT A DESSAU" ></a>
+   </div>
+  </div>    
+ </div>
+</div>
+
+[Frank Lloyd Wright Sr.](https://franklloydwright.org/) (June 8, 1867 – April 9, 1959) was an American architect, designer, writer, and educator. He designed more than 1,000 structures over a creative period of 70 years. Wright played a key role in the architectural movements of the twentieth century, influencing architects worldwide through his works and mentoring hundreds of apprentices in his Taliesin Fellowship.[1][2] Wright believed in designing in harmony with humanity and the environment, a philosophy he called organic architecture. This philosophy was exemplified in [Fallingwater (1935)](https://fallingwater.org/), which has been called "the best all-time work of American architecture" [WikiPedia](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright) [MoMA](https://www.moma.org/calendar/exhibitions/1660)
+
+![FallingWater](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fallingwater3.jpg/640px-Fallingwater3.jpg) [Frank Lloyd Wright's Fallingwater: Inside the House That Forever Changed Architecture](https://www.youtube.com/watch?v=mwGz58GIFYQ)
+
+
 ### SVG
 
 ![PS2 SVG](https://upload.wikimedia.org/wikipedia/commons/7/76/PlayStation_2_logo.svg)
