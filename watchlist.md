@@ -1,9 +1,12 @@
 
 
 ### Mobile Suit Gundam 0083 Stardust Memory   Episode Irregulats in Albion   Subtitled English [watch](https://archive.org/details/Mobile_Suit_Gundam_0083_Stardust_Memory_Episode_Irregulats_in_Albion_Subtitled_E)
-[Mobile Suit Gundam: The Witch from Mercury Ep. 1 | DUB | The Witch and the bride](https://www.youtube.com/watch?v=DF8aTKLYouw) [LiveAction GUNDAM :netflix:](https://youtu.be/s_fNP-ipgJA?si=TPxldMjjMzNYbPYP) [imdb](https://www.imdb.com/title/tt0159172/) [Mobile Suit Gundam](https://www.crunchyroll.com/series/GKEH2G9XV/mobile-suit-gundam) [Synopsis](https://myanimelist.net/anime/80/Kidou_Senshi_Gundam) It is year 0079 of the Universal Century. Mankind has moved to space, living in colony clusters known as "Sides." One of these Sides declares itself the "Principality of Zeon" and declares war on the Earth Federation, the governmental body currently ruling Earth. Using powerful humanoid robots known as "mobile suits," Zeon quickly gains the upper hand. [r/MobileSuitGundam](https://www.reddit.com/r/MobileSuitGundam/)
+[Mobile Suit Gundam: The Witch from Mercury Ep. 1 | DUB | The Witch and the bride](https://www.youtube.com/watch?v=DF8aTKLYouw) [LiveAction GUNDAM :netflix:](https://youtu.be/s_fNP-ipgJA?si=TPxldMjjMzNYbPYP) [imdb](https://www.imdb.com/title/tt0159172/) [Mobile Suit Gundam](https://www.crunchyroll.com/series/GKEH2G9XV/mobile-suit-gundam) [Synopsis](https://myanimelist.net/anime/80/Kidou_Senshi_Gundam) It is year 0079 of the Universal Century. Mankind has moved to space, living in colony clusters known as "Sides." One of these Sides declares itself the "Principality of Zeon" and declares war on the Earth Federation, the governmental body currently ruling Earth. Using powerful humanoid robots known as "mobile suits," Zeon quickly gains the upper hand. [r/MobileSuitGundam](https://www.reddit.com/r/MobileSuitGundam/) 
+[This Year’s Special Animation Program: Mobile Suit Gundam　 The First-Ever Major Screening Occasion to Showcase the Monumental Works!](https://2015.tiff-jp.net/news/en/?p=8906)
 
+[[ 47] Mobile Suit Gundam Wing](https://archive.org/details/47-mobile-suit-gundam-wing)
 
+<iframe src="https://archive.org/embed/47-mobile-suit-gundam-wing" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 ### They Live
