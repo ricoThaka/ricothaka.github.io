@@ -36,8 +36,8 @@ carousels:
 ---
 
 {% highlight ruby %} 
-1 # HOLE_TO_ANOTHER_UNiVERSE################NormaniLaShaE?# 
-2 # TO#####Erika#######Happy_Anniversary ##################
+1 # HOLE_TO_ANOTHER_UNiVERSE################Normani 
+2 # TO###Erika#######Happy_Anniversary #####/MunA6/9/19🖕🏾###
 3 # ANOTHER##########https://s.id/1kmbG################### 
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
