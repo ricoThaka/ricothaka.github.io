@@ -43,7 +43,11 @@ carousels:
 {% endhighlight %}
 
 
-
+![PlayStationLogo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Playstation_logo_colour.svg)
+![PlayStation](https://upload.wikimedia.org/wikipedia/commons/9/95/PSX-Console-wController.png)
+### [Console Living Room: Playstation (PSX) internet archive](https://archive.org/details/psxgames)
+### Japanese: プレイステーション
+![PSX Console](https://pbs.twimg.com/media/GR_IFofbYAAzXaT?format=jpg&name=large)
 
 
 [Invasion Of Privacy](https://archive.org/details/cardi-b-invasion-of-privacy/Invasion+Of+Privacy/09-Money+Bag.mp3)
