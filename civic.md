@@ -36,20 +36,11 @@
   <embed src="https://player.vimeo.com/video/398873298?h=86b3bc6046&color=ff0179" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
 <p><a href="https://vimeo.com/398873298">Hevetica</a> from <a href="https://vimeo.com/pkprojects">PK-Projects</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
 <p>Helvetica the movie - English subtitles</p>
+
 [Seal of Los Angeles County, California](https://en.wikipedia.org/wiki/Seal_of_Los_Angeles_County,_California)
 
 [Expedition 66 Astronaut Tom Marshburn Answers Los Angeles Student Questions - March 21, 2022](https://images.nasa.gov/details/iss066m260801629_Expedition_66_Education_Inflight_Orville_Wright%20_Middle_School_STEAM_220321)
 Aboard the International Space Station, NASA Expedition 66 Flight Engineer Tom Marshburn answered pre-recorded questions about life and work on the orbital laboratory during an in-flight event March 21 with the [Orville Wright STEAM Middle School in Las Angeles, California](https://www.wrightms.org/apps/pages/index.jsp?uREC_ID=450492&type=d). Marshburn is in the midst of a planned six-month mission living and working aboard the microgravity laboratory to advance scientific knowledge and demonstrate new technologies for future human and robotic exploration missions as part of NASA’s Moon and Mars exploration approach, including lunar missions through [NASA’s Artemis program.](https://www.nasa.gov/humans-in-space/artemis/) [Orville Wright](https://www.wrightms.org/apps/pages/index.jsp?uREC_ID=464041&type=d)
-
-<video controls 
-  src="images-assets.nasa.gov/video/iss066m260801629_Expedition_66_Education_Inflight_Orville_Wright _Middle_School_STEAM_220321/iss066m260801629_Expedition_66_Education_Inflight_Orville_Wright _Middle_School_STEAM_220321~orig.mp4"
-  poster="https://www.wrightms.org/ourpages/auto/2020/6/10/48713956/unknown-1.jpg?rnd=1591790917462">
-
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="images-assets.nasa.gov/video/iss066m260801629_Expedition_66_Education_Inflight_Orville_Wright _Middle_School_STEAM_220321/iss066m260801629_Expedition_66_Education_Inflight_Orville_Wright _Middle_School_STEAM_220321~orig.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
-
 
 [Mapping Makes an Impact in the Fight to Reduce Child Exploitation](https://www.esri.com/about/newsroom/blog/mapping-to-reduce-child-exploitation/)
 The surreptitious nature of child sex trafficking, with offenders keeping children on the move and crossing jurisdictional lines, makes it difficult to locate and protect children and track down those who exploit them. The National Center for Missing & Exploited Children (NCMEC) takes a data-centric approach that empowers cross-agency collaboration. [Esri_BLOG](https://www.esri.com/about/newsroom/esri-blog/overview/)
@@ -90,12 +81,6 @@ fostering distrust and enmity between local rulers
 encouraging meaningless expenditures that reduce the capability for political and military spending [Read<oreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_rule) [imdb](https://www.imdb.com/title/tt0173769/)
 
 [Murphy Ranch Road Trail](https://trails.lacounty.gov/Trail/311/murphy-ranch-road-trail) [Murphy’s Ranch: Abandoned Nazi Camp in Santa Monica](https://californiathroughmylens.com/murphys-ranch-abandoned-nazi-camp-in-santa-monica/)
-
-
-<embed src="https://archive.org/embed/0176_Divide_and_Conquer_19_00_41_00"  frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen />  
-<embed src="https://archive.org/embed/Dividean1943_2"  frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<embed src="https://archive.org/embed/Dividean1943_3"  frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<embed src="https://archive.org/embed/Dividean1943_4" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 
