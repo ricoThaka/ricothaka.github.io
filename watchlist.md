@@ -1,4 +1,16 @@
 
+### [Jonny Quest ](https://archive.org/download/jonny-quest-60s-complete)
+
+<iframe src="https://archive.org/embed/jonny-quest-60s-complete" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![https://upload.wikimedia.org/wikipedia/en/f/f7/Jonny-quest-logo.jpg](https://upload.wikimedia.org/wikipedia/en/f/f7/Jonny-quest-logo.jpg)
+Jonathan "Jonny" Quest is the son of Dr. Benton Quest and often accompanies him on his scientific investigations. Jonny has an adoptive brother and best friend, Hadji, and mentor/tutor, Race Bannon. He also has a pet dog named Bandit.[johnnyquest.fandom](https://jonnyquest.fandom.com/wiki/Jonny_Quest_(character)) [Jonny Quest/Doug Wildey “Where Does It Come From ” Pt 7](https://trekkercomic.com/2015/08/06/jonny-questdoug-wildey-where-does-it-come-from-pt-7/)
+![JohnnyQuest](https://trekkercomic.com/wp-content/uploads/2015/08/JQ_SignedStatOfTeam_Medium.jpg)
+
+![JohnnyBravo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Johnny_Bravo_series_logo.png/800px-Johnny_Bravo_series_logo.png)
+
+<iframe src="https://archive.org/embed/johnnybravo1997" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+[https://Johnny_Bravo](https://en.wikipedia.org/wiki/Johnny_Bravo)
 
 ### Mobile Suit Gundam 0083 Stardust Memory   Episode Irregulats in Albion   Subtitled English [watch](https://archive.org/details/Mobile_Suit_Gundam_0083_Stardust_Memory_Episode_Irregulats_in_Albion_Subtitled_E)
 [Mobile Suit Gundam: The Witch from Mercury Ep. 1 | DUB | The Witch and the bride](https://www.youtube.com/watch?v=DF8aTKLYouw) [LiveAction GUNDAM :netflix:](https://youtu.be/s_fNP-ipgJA?si=TPxldMjjMzNYbPYP) [imdb](https://www.imdb.com/title/tt0159172/) [Mobile Suit Gundam](https://www.crunchyroll.com/series/GKEH2G9XV/mobile-suit-gundam) [Synopsis](https://myanimelist.net/anime/80/Kidou_Senshi_Gundam) It is year 0079 of the Universal Century. Mankind has moved to space, living in colony clusters known as "Sides." One of these Sides declares itself the "Principality of Zeon" and declares war on the Earth Federation, the governmental body currently ruling Earth. Using powerful humanoid robots known as "mobile suits," Zeon quickly gains the upper hand. [r/MobileSuitGundam](https://www.reddit.com/r/MobileSuitGundam/) 
