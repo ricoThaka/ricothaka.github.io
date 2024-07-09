@@ -55,7 +55,7 @@ carousels:
 </video>
 
 
-  <div class="playlist">
+<div class="playlist">
      <blockquote>
       "How could you?
 How could you move on so fast?
@@ -63,21 +63,21 @@ Forget about what we had
 Honestly thought we would last, oh baby, oh
 You mean to tell me this wasn't love?"
       
-      <footer>--
+  <footer>--
         <cite>
           Normani Kordei Wicked written 2016, 
           Dont say I Didnt Warn You
         </cite>
        
-      </footer>
+  </footer>
 
-      </blockquote>
+</blockquote>
   
     
 <div class="playlist">
   
   
-    <div class=" track">
+<div class=" track">
        
    <IMG src="https://archive.org/download/grand-puba-2000/2000/a.jpg">
         <audio controls  loop >
@@ -85,6 +85,8 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
+
+
   <div class=" track">
        
    <IMG src="https://ia801707.us.archive.org/26/items/big-pun-capital-punishment/Capital%20Punishment/cover.jpg?cnt=0">
@@ -93,6 +95,8 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
+
+
  <div class=" track">
        
    <IMG src="https://archive.org/download/digable-planets-rebirth-of-slick-cool-like-dat/Rebirth%20Of%20Slick%20(Cool%20Like%20Dat)/1.jpg">
@@ -101,6 +105,8 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
+
+
  <div class=" track">
        
    <IMG src="https://archive.org/download/datpiff-mixtape-m6098c34/00%20-%20Schoolboy_Q_2_Chainz_Schoolboy_Q_Feat_2_Chainz--front-large.jpg">
@@ -109,6 +115,8 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
+
+
  <div class=" track">
        
    <IMG src="https://dn720703.ca.archive.org/0/items/datpiff-mixtape-m04c171f/00%20-%20Lil_Baby_Too_Hard-front-large.jpg">
@@ -117,6 +125,8 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
+
+
  <div class=" track">
        
    <IMG src="https://archive.org/download/beyoncemusicoggvorbis/Beyonc%C3%A9%20-%20Music%20%5BOgg%20Vorbis%5D/4/Beyonc%C3%A9%20-%20Party%20%28ft%20Andr%C3%A9%203000%29_spectrogram.png">
@@ -125,6 +135,8 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
+
+
  <div class=" track">
        
    <IMG src="https://dn720306.ca.archive.org/0/items/nas-kigs-disease/I/a.jpg">
@@ -133,6 +145,8 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
+
+
  <div class=" track">
        
    <IMG src="https://ia903201.us.archive.org/31/items/gfk-ironman/Album/cover.jpg">
@@ -141,6 +155,8 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
+
+
  <div class=" track">
        
    <IMG src="https://ia801304.us.archive.org/13/items/wu-tang-clan-wu-tang-forever_202401/cover.jpg">
@@ -149,6 +165,8 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
+
+
  <div class=" track">
        
    <IMG src="https://i.discogs.com/cMf-QmjL4Ehi1vXOYRkJhRbGj2SBc20GqqJEM5dkKw4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzY0/Mi0xNDQzMzU4NDAx/LTk1MzcuanBlZw.jpeg">
@@ -165,6 +183,8 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
 </div>
+
+
 <div class="  track">
         <IMG src="https://ia601808.us.archive.org/12/items/01-live-from-planet-x/MF%20DOOM/King%20Geedorah%20-%20Take%20Me%20To%20Your%20Leader/cover.jpg">
                 <audio controls  loop >
@@ -189,6 +209,8 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
+
+
          <div class=" track">
        
    <IMG src="https://upload.wikimedia.org/wikipedia/commons/4/40/Glorilla_2023.png">
@@ -197,7 +219,9 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
-      <div class=" track">
+
+
+  <div class=" track">
         
    <IMG src="https://archive.org/download/nicki-minaj-barbie-drip/barbie%20drip.jpg">
         <audio controls  loop >
@@ -205,7 +229,9 @@ You mean to tell me this wasn't love?"
                    Your browser dose not Support the audio Tag
                </audio>
     </div>
-        <div class="  track">
+
+
+<div class="  track">
         
    <IMG src="https://upload.wikimedia.org/wikipedia/en/9/93/Megan_Thee_Stallion_-_B.I.T.C.H.jpeg">
         <audio controls  loop >
@@ -215,7 +241,7 @@ You mean to tell me this wasn't love?"
     </div>
   
   
-  </div>
+</div>
 
 
 
@@ -256,6 +282,7 @@ You mean to tell me this wasn't love?"
 
 ![PlayStationLogo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Playstation_logo_colour.svg)
 ![PlayStation](https://upload.wikimedia.org/wikipedia/commons/9/95/PSX-Console-wController.png)
+
 ### [Console Living Room: Playstation (PSX) internet archive](https://archive.org/details/psxgames)
 ### Japanese: プレイステーション
 ![PSX Console](https://pbs.twimg.com/media/GR_IFofbYAAzXaT?format=jpg&name=large)
