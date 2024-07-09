@@ -1,3 +1,6 @@
+### Who's The Man 1993
+
+
 
 ### [Jonny Quest ](https://archive.org/download/jonny-quest-60s-complete)
 
@@ -62,7 +65,7 @@ These are from the official uncut subtitled edition VHS tapes released by Pionee
 ### hit tab to configure keyys
  ~> [Quick guide on how to play on the Internet Arcade](https://armchairarcade.com/perspectives/2014/11/06/quick-guide-on-how-to-play-on-the-internet-arcade/)
  Pretty Soldier Sailor Moon[a] is a side-scrolling beat 'em up arcade video game developed by Gazelle and released on March 22, 1995. It was published by Banpresto.[2][3] It is the first game to be created by Gazelle, one of the offshoots of defunct developer Toaplan that were founded after they declared bankruptcy in 1994, and one of the few titles based upon Naoko Takeuchi's Sailor Moon shōjo manga and anime series that had an official international release, and it also has been compared with other titles in the same genre such as Capcom's Final Fight and Technōs Japan's Double Dragon.[4][5][ReadMoreoNWikiPedia](https://en.wikipedia.org/wiki/Pretty_Soldier_Sailor_Moon_(arcade_game))
-<iframe src="https://archive.org/embed/arcade_sailormn" width="100%" height="450px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/arcade_sailormn"  height="450px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Live Action 
 ### Knight Rider 2010 (1994)

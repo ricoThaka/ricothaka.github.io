@@ -1,6 +1,6 @@
 
 ### [FlexBox Demo](https://codepen.io/thakarashard/pen/WNBVzWr)
-<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GRg4rl4b0AMgXF2?format=jpg&name=large">
+<video controls  height="auto" poster="https://pbs.twimg.com/media/GRg4rl4b0AMgXF2?format=jpg&name=large">
 
 <source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />    
 <source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />
@@ -201,36 +201,10 @@ You mean to tell me this wasn't love?"
 </div>
 
 
-
-
-
-
-
-
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://i.discogs.com/CdTJAbf0XaFB8PMUWrDCnP939rjCDXIFHkSFqvM2Jtg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NTctMTcwMzc3Mjc3/NC01Njg5LmpwZWc.jpeg" alt="Aaliyah ">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://i.discogs.com/27cY4rEVm2D3MxpRXi8hhsa8EGZJNM99Nt053yirj4k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NTctMTcwMzc3Mjc3/NS03NzgyLmpwZWc.jpeg" alt="R.i.p. Aaliyah">
-
-  </div>
-  </div>
-  </div>
 </div>
-<audio controls  loop >
-                   <source src="https://archive.org/download/aaliyah-2001/Aaliyah/03-Rock%20The%20Boat.mp3" type="audio/mpeg">
-                   Your browser dose not Support the audio Tag
-</audio>
 
-### The Story Behind Aaliyah’s Final Act
 
-On the “Rock the Boat” video’s 20th anniversary, Aaliyah’s stylist, choreographer, and dancer look back on three days spent shooting what would become the musician’s last performance.- by [Maxine Wally](https://www.linkedin.com/in/maxine-wally-60042b42?original_referer=https%3A%2F%2Fwww.google.com%2F) [ReadMore](https://www.wmagazine.com/culture/aaliyah-rock-the-boat-music-video-making-of-interview) 
+[Maxine Wally](https://www.linkedin.com/in/maxine-wally-60042b42?original_referer=https%3A%2F%2Fwww.google.com%2F) [ReadMore](https://www.wmagazine.com/culture/aaliyah-rock-the-boat-music-video-making-of-interview) 
 
 [Discogs](https://www.discogs.com/release/1223557-Aaliyah-Rock-The-Boat) [BlAcKiE_Beats Hiphop Collection](https://archive.org/details/blackiebeatscollection)
 [Wiki](https://en.wikipedia.org/wiki/Rock_the_Boat_(Aaliyah_song))
