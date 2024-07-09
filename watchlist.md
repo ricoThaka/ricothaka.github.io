@@ -39,6 +39,7 @@ They Live is a 1988 American science fiction action horror film[b] written and d
 
 
 [![BubbleGumPop_Sartu_Normani](https://pbs.twimg.com/media/GP-49yYbEAEUvTf?format=jpg&name=medium)](https://pbs.twimg.com/media/GP-49yYbEAEUvTf?format=jpg&name=medium "Redirect to homepage")
+## Anime 
 
 ### Sailor Moon The Movies VHS English Edited Version
 
@@ -52,5 +53,25 @@ These are from the official uncut subtitled edition VHS tapes released by Pionee
 
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="https://archive.org/download/sailor-moon-the-movies-special-uncut-subtitled-edition-vhs_202109/Sailor%20Moon%20R%20The%20Movie%20Special%20Uncut%20Subtitled%20Edition%20VHS.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+<a href="https://upload.wikimedia.org/wikipedia/en/1/15/Pretty_Soldier_Sailor_Moon_arcade_flyer.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/1/15/Pretty_Soldier_Sailor_Moon_arcade_flyer.jpg" style="width:266px;height:375px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
+
+### [Sailor Moon Laserdisc Vol 1-3](https://archive.org/details/sailor-moon-ld-vol-2) [imdb](https://www.imdb.com/title/tt0103369/)
+## Pretty Soldier Sailor Moon (Ver. 95-03-22B Europe)
+### hit tab to configure keyys
+ ~> [Quick guide on how to play on the Internet Arcade](https://armchairarcade.com/perspectives/2014/11/06/quick-guide-on-how-to-play-on-the-internet-arcade/)
+ Pretty Soldier Sailor Moon[a] is a side-scrolling beat 'em up arcade video game developed by Gazelle and released on March 22, 1995. It was published by Banpresto.[2][3] It is the first game to be created by Gazelle, one of the offshoots of defunct developer Toaplan that were founded after they declared bankruptcy in 1994, and one of the few titles based upon Naoko Takeuchi's Sailor Moon shōjo manga and anime series that had an official international release, and it also has been compared with other titles in the same genre such as Capcom's Final Fight and Technōs Japan's Double Dragon.[4][5][ReadMoreoNWikiPedia](https://en.wikipedia.org/wiki/Pretty_Soldier_Sailor_Moon_(arcade_game))
+<iframe src="https://archive.org/embed/arcade_sailormn" width="100%" height="450px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Live Action 
+### Knight Rider 2010 (1994)
+Loosely based on the popular television series of the 80's, this movie brings the story into an apocalyptic time and a new "KITT". [imdb](https://www.imdb.com/title/tt0110273/) /////// Knight Rider 2010 is a 1994 American science fiction action television film directed by Sam Pillsbury and written by John Leekley, loosely based on the television series Knight Rider. The film stars Richard Joseph Paul, Heidi Leick, Michael Beach, and Don McManus. It aired in syndication in the United States on February 13, 1994, as part of Universal Television's Action Pack programming block. [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Knight_Rider_2010)
+<video controls 
+  src="https://archive.org/download/knight-rider-2010-1994/Knight%20Rider%202010-%201994.mp4"
+  poster="https://m.media-amazon.com/images/M/MV5BMjJiYjYyZTAtM2ViMi00Yjg3LWJmZjItYTNhNjI5YzUzYmQxXkEyXkFqcGdeQXVyMjQ4Nzk0MDU@._V1_FMjpg_UX1000_.jpg">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/knight-rider-2010-1994/Knight%20Rider%202010-%201994.mp4">download it</a>
   and watch it with your favorite video player!
 </video>
