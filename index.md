@@ -46,6 +46,7 @@ carousels:
 {% include_relative playlist.md %}
 {% include_relative watchlist.md %}
 
+![Roujinz](https://pbs.twimg.com/media/GR__msgaQAAvhdp?format=jpg&name=large)
 
 [Street Fighter: The Movie (V1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html)
 [The Chemical Brothers - Dig Your Own Hole (Full Album)](https://www.youtube.com/watch?v=2UafeQIkj5c)
