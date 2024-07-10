@@ -1,6 +1,30 @@
 ### Who's The Man 1993
 
+### Divide and Conquer (film)
+[Divide and Conquer (1943)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm) is the third film of Frank Capra's Why We Fight propaganda film series and deals with the Nazi conquest of Western Europe in 1940. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_Conquer_(film))
 
+<video controls 
+  src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm"
+  poster="https://pbs.twimg.com/media/GP_VBuEbEAEmjbi?format=jpg&name=large">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+### [Divide and Conquer](https://commons.wikimedia.org/wiki/File:U.S._War_Department_-_Divide_and_Conquer_(1943).webm)
+
+Divide and rule policy (Latin: divide et impera), or divide and conquer, in politics and sociology is gaining and maintaining power divisively. This includes the exploitation of existing divisions within a political group by its political opponents, and also the deliberate creation or strengthening of such divisions.
+
+The strategy, but not the phrase, applies in many ancient cases: the example of Aulus Gabinius exists, parting the Jewish nation into five conventions, reported by Flavius Josephus in Book I, 169–170 of The Jewish War (De bello Judaico).[1] Strabo also reports in Geographica, 8.7.3[2] that the Achaean League was gradually dissolved when it became part of the Roman province of Macedonia, as the Romans treated the various states differently, wishing to preserve some and to destroy others.[citation needed]
+
+Elements of this technique involve: [citation needed]
+
+creating or encouraging divisions among the subjects to prevent alliances that could challenge the sovereign and distributing forces so that they overpower each other.
+aiding and promoting those who are willing to cooperate with the sovereign
+fostering distrust and enmity between local rulers
+encouraging meaningless expenditures that reduce the capability for political and military spending [Read<oreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_rule) [imdb](https://www.imdb.com/title/tt0173769/)
 
 ### [Jonny Quest ](https://archive.org/download/jonny-quest-60s-complete)
 
