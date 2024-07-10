@@ -1,11 +1,5 @@
 ![SVG LOS ANGELES](https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg)
- <div class="mro_banner">
-  <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
-  <div class="innertext-block">
-    <h4>Los Angeles</h4>
-    <p>hole to another universe</p>
-  </div>
-</div>
+
 
 
 ## Proposition 64: The Adult Use of Marijuana Act
@@ -23,7 +17,13 @@ Effective November 9, 2016, Proposition 64 legalizes specified personal use and 
 ![FiRMS](https://pbs.twimg.com/media/GR6v9VpaUAAraWG?format=jpg&name=large) 
 [Nasa_FiRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-116.6,34.8,6.9z) [US/Canada FireMaps](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.0z)
 
-
+ <div class="mro_banner">
+  <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
+  <div class="innertext-block">
+    <h4>Los Angeles</h4>
+    <p>hole to another universe</p>
+  </div>
+</div>
 <div class='twoPanelSpread'>
         <div class='row'>
           <div class='panelColumn'>
@@ -39,10 +39,27 @@ Effective November 9, 2016, Proposition 64 legalizes specified personal use and 
  </div>
 </div>
 
-[Frank Lloyd Wright Sr.](https://franklloydwright.org/) (June 8, 1867 – April 9, 1959) was an American architect, designer, writer, and educator. He designed more than 1,000 structures over a creative period of 70 years. Wright played a key role in the architectural movements of the twentieth century, influencing architects worldwide through his works and mentoring hundreds of apprentices in his Taliesin Fellowship.[1][2] Wright believed in designing in harmony with humanity and the environment, a philosophy he called organic architecture. This philosophy was exemplified in [Fallingwater (1935)](https://fallingwater.org/), which has been called "the best all-time work of American architecture" [WikiPedia](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright) [MoMA](https://www.moma.org/calendar/exhibitions/1660)
+[Frank Lloyd Wright Sr.](https://franklloydwright.org/) (June 8, 1867 – April 9, 1959) was an American architect, designer, writer, and educator. He designed more than 1,000 structures over a creative period of 70 years. Wright played a key role in the architectural movements of the twentieth century, influencing architects worldwide through his works and mentoring hundreds of apprentices in his Taliesin Fellowship.[1][2] Wright believed in designing in harmony with humanity and the environment, a philosophy he called organic architecture. 
+[Hollyhock House, 4800 Hollywood Boulevard, Los Angeles, Los Angeles County, CA](https://www.loc.gov/resource/hhh.ca0231.photos/)
 
-![FallingWater](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fallingwater3.jpg/640px-Fallingwater3.jpg) [Frank Lloyd Wright's Fallingwater: Inside the House That Forever Changed Architecture](https://www.youtube.com/watch?v=mwGz58GIFYQ)
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+             <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0200/ca0231/photos/012065pv.jpg"> <img src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0200/ca0231/photos/012065pv.jpg" alt="HollyHockHouse " ></a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+             <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0200/ca0231/photos/012063pv.jpg"> <img src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0200/ca0231/photos/012063pv.jpg" alt="LE DDT A DESSAU" ></a>
+   </div>
+  </div>    
+ </div>
+</div>
 
+This philosophy was exemplified in [Fallingwater (1935)](https://fallingwater.org/), which has been called "the best all-time work of American architecture" [WikiPedia](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright) [MoMA](https://www.moma.org/calendar/exhibitions/1660)
+![HollyHock](https://d1y502jg6fpugt.cloudfront.net/39863/archive/thumbnails/2e3c7ec0468d485fafe216928de8b6f1.jpg?Expires=1721260800&Signature=XDemaQtYYKrpWNXub57cEesK%7EJrURjPXKERaQAR5liG89UZJsIrvvATzQKZSX6Df5hNhDAnKRlE5jVkqzUkaOpS0Qiafvfc%7EFdY9VYatUdcHFlCqWwQWA1hZvFbVFDwyrK00gFFzcHuZ5NaYCeCcq29TghI1BGFap4CIm-0J%7EGvEEUEeg9S7uUNG-%7E1rkoAYaWbMLrf8JnAxlYIMb82Zz2%7EOubxJiaqHEc-przty56DfawYvpTe03uDG9o2REXuhncdUvtq2WU%7EehkeGSV8k5Ax%7Ej53rb2S3cUCMz3CBzR7KpdgbdXk814SIPv6-Y-gdsqxZf3UpSSzCJudVtW5ZUw__&Key-Pair-Id=K6UGZS9ZTDSZM)
+![FallingWater](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fallingwater3.jpg/640px-Fallingwater3.jpg) [Frank Lloyd Wright's Fallingwater: Inside the House That Forever Changed Architecture](https://www.youtube.com/watch?v=mwGz58GIFYQ) 
 
 ![Helvetica](https://pbs.twimg.com/media/GQD9pDwaQAEU-bs?format=jpg&name=large)
   <embed src="https://player.vimeo.com/video/398873298?h=86b3bc6046&color=ff0179" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />

@@ -32,7 +32,16 @@ You mean to tell me this wasn't love?"
   
     
 <div class="playlist">
- 
+   <figure class=" track">
+    <IMG src="https://archive.org/download/super-cat-don-dada/Don%20Dada/a.jpg">
+
+    <figcaption>Supa Cat: Nuff Man E Dead
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
  <div class=" track">
        
    <IMG src="https://upload.wikimedia.org/wikipedia/en/5/52/Cyhi_the_Prynce_No_Dope_on_Sundays.jpg">
