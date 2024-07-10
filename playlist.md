@@ -32,7 +32,115 @@ You mean to tell me this wasn't love?"
   
     
 <div class="playlist">
+ <figure class=" track">
+    <IMG src="https://ia601908.us.archive.org/10/items/gfk-36seasons/cover.jpg?cnt=0">
 
+    <figcaption>Ghostface ft AZ - Here We Go Again
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/gfk-36seasons/03-Here%20I%20Go%20Again%20%28Ft.%20AZ%20%26%20Rell%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://m.media-amazon.com/images/I/51jwiIjfj5L._UF1000,1000_QL80_.jpg">
+
+    <figcaption>Heavy D - Got Me Waiting
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/heavy-d-and-the-boyz-heavy-hitz/Heavy%20Hitz/10-Got%20Me%20Waiting.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/group-home-livin-proof/Album/a.jpg">
+
+    <figcaption>Group Home - SupaStar
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/group-home-livin-proof/Album/CD%201%20Album/13-Supa%20Star.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/az-do-or-die/1995/1.jpg">
+
+    <figcaption>Sugar Hill AZ feat Miss Jones
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/az-do-or-die/1995/07-Sugar%20Hill%20%28Ft.%20Miss%20Jones%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20(The%20Soundtrack)/a.jpg">
+
+    <figcaption>WuWear Garment Renissance Capadonna RZA Meth
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20%28The%20Soundtrack%29/03-RZA-Wu-Wear%20The%20Garment%20Renaissance%20%28Ft.%20Method%20Man%20%26%20Cappadonna%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20(The%20Soundtrack)/a.jpg">
+
+    <figcaption>LiL KiM : Queen Bitch
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20%28The%20Soundtrack%29/08-Lil%27%20Kim-Queen%20Bitch.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/eric-b-and-rakim-let-the-rhythm-hit-em/Album/a.jpg">
+
+    <figcaption>Eric B. And Rakim: Mahogany
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/eric-b-and-rakim-let-the-rhythm-hit-em/Album/08-Mahogany.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/alicia-keys-songs-in-a-minor/Songs%20In%20A%20Minor/a.jpg">
+
+    <figcaption>Alicia Keys : Troubles
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/alicia-keys-songs-in-a-minor/Songs%20In%20A%20Minor/05-Troubles.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://ia902309.us.archive.org/19/items/fugees-fu-gee-la/Fu-Gee-La/cover.jpg?cnt=0">
+
+    <figcaption>Fu-Gee-La : The Fugees
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/fugees-fu-gee-la/Fu-Gee-La/01-Fu-Gee-La%20%28Album%20Version%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://i.discogs.com/VT5O9kwbZBH05HsfqXEtbsdNyMWVDxeuJ4a2JvZhtOc/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTY0/NzctMTYzNzkxNzI3/Mi05Mzc5LmpwZWc.jpeg">
+
+    <figcaption>Tribe Call Quest : The Low End Theory - Show Bizness
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/atcqthelowendtheory/The%20Low%20End%20Theory/06-Show%20Business.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
  <figure class=" track">
     <IMG src="https://archive.org/download/camp-lo-luchini-aka-this-is-it/Luchini%20Aka%20(This%20Is%20It)/a.jpg">
 
@@ -46,7 +154,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://archive.org/download/prince-paul-a-prince-among-thieves/A%20Prince%20Among%20Thieves/a.jpg">
 
-    <figcaption>A Prince Among Thieves
+<figcaption>A Prince Among Thieves
       by Prince Paul
     </figcaption>
     <audio controls loop>
@@ -67,7 +175,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://archive.org/download/super-cat-don-dada/Don%20Dada/a.jpg">
 
-    <figcaption>Supa Cat: Nuff Man E Dead
+  <figcaption>Supa Cat: Nuff Man E Dead
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3">
@@ -77,7 +185,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://ia601509.us.archive.org/31/items/outkast-stankonia/Stankonia/cover.jpg?cnt=0">
 
-    <figcaption>OutKast ft Gangstaboo ill call b4 iCum
+  <figcaption>OutKast ft Gangstaboo ill call b4 iCum
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/outkast-stankonia/Stankonia/10-I%27ll%20Call%20B4%20I%20Cum%20%28Ft.%20Gangsta%20Boo%20%26%20Eco%29.mp3">
@@ -88,16 +196,7 @@ You mean to tell me this wasn't love?"
 
 
 
-   <figure class=" track">
-    <IMG src="https://archive.org/download/super-cat-don-dada/Don%20Dada/a.jpg">
 
-  <figcaption>Supa Cat: Nuff Man E Dead
-    </figcaption>
-    <audio controls loop>
-      <source src="https://archive.org/download/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3">
-      Your browser dose not Support the audio Tag
-    </audio>
-  </figure>
  <div class=" track">
        
    <IMG src="https://upload.wikimedia.org/wikipedia/en/5/52/Cyhi_the_Prynce_No_Dope_on_Sundays.jpg">
