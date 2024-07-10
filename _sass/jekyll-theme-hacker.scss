@@ -608,7 +608,7 @@ figure {
   display: flex;
   flex-flow: column;
   padding: 5px;
-  max-width: 220px;
+  flex-grow: 3;
   margin: auto;
   background: linear-gradient(
     45deg,
@@ -621,7 +621,7 @@ figure {
   );
   background-size: 80.4px 80.4px;
   background-attachment: fixed;
-  border-radius: 10px;
+  border-radius: 0px;
 }
 
 figure:hover,
@@ -969,6 +969,7 @@ embed {
   background: #f2b29b;
   border-radius: 1px;
 }
+
 
 .swatch {
   /*display: grid;

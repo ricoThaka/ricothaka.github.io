@@ -113,7 +113,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 
 
 
-<div class="strawberry heading"><img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png">
+<div class="strawberry heading"><img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" />
         <div></div>
         <div></div>
         <div></div>

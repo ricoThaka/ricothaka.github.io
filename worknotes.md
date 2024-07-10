@@ -29,11 +29,6 @@
 [ Source Code Viewer](https://iplocation.io/view-html-source-code)
 # Good Afternoon Cafeteria 
 im working on a little something cool. Its like that wrist watch flavor on any screen! I think i can make the tweets tile like tumblrs often do with [CSS3 Multi-Column Layout](https://dev.opera.com/articles/css3-multi-column-layout/) ! If thats not the case its still really usable for newspaper style layout for that type of reading ! [csstricksarticle](https://css-tricks.com/techniques-for-a-newspaper-layout-with-css-grid-and-border-lines-between-elements/) 
- <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="bGyYMYN" data-pen-title="Untitled" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/bGyYMYN">
-  Untitled</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
 
 
 [https://www.svgviewer.dev/](https://www.svgviewer.dev/) [How to add border/outline/stroke to SVG elements in CSS?](https://stackoverflow.com/questions/18330344/how-to-add-border-outline-stroke-to-svg-elements-in-css)
@@ -60,14 +55,7 @@ You told me to study the weather on mars ... [The Last Report](https://www.msss.
   and watch it with your favorite video player!
 </video>
 
-<video controls 
-  src="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4"
-  poster="http://www.msss.com/msss_images/icons/mars_map1.jpg">
 
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
 
 
 ## The scientific eyes of NASA’s Perseverance rover
@@ -79,6 +67,14 @@ This image was taken by Mars Descent Imager (MARDI) onboard NASA's Mars rover Cu
 ### MARS RECONNAISSANCE ORBITER (MRO) MARS COLOR IMAGER (MARCI)
 ![MarO](https://www.msss.com/images/science/MARCI140_cb.jpg)
 
+<video controls 
+  src="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4"
+  poster="http://www.msss.com/msss_images/icons/mars_map1.jpg">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 ### [What is CERES?](https://ceres.larc.nasa.gov/)
 Climate is controlled by the amount of sunlight absorbed by Earth and the amount of infrared energy emitted to space. These quantities–together with their difference–define Earth’s radiation budget (ERB). [Get_Environment_Data](https://ceres.larc.nasa.gov/data/)
@@ -125,7 +121,7 @@ Martian surface frost, made up largely of carbon dioxide, appears blueish-white 
 
 ## Game - [Mars_Odessy](https://store.playstation.com/en-us/concept/233712)
 
-{% include_relative marsmedia.md %}
+
 # IT_CERTS
 [![Microsoft Certification](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096)](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096 "Redirect to homepage")
 
@@ -233,6 +229,7 @@ The Bruce Murray Laboratory for Planetary Visualization has completed a 5.7 tera
 We emphasize transparency both in how the mosaic was generated and for users to understand where data in the mosaic come from. We have developed a Python-based pipeline that incorporates non-destructive image processing techniques that preserve all information about the original data that comprise the mosaic and map all seams.. [LearnMore](https://murray-lab.caltech.edu/CTX/index.html)
 
 ## [Perseverance Rover's Descent and Touchdown on Mars](https://svs.gsfc.nasa.gov/31250) 
+
 ### [Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
 
 >NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
