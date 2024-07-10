@@ -3,7 +3,7 @@
 
 Dear MAyor (Karen Bass)
 
-
+[Allied Universal to hire 450 security officers, mostly in LA County](https://www.dailynews.com/2021/03/25/allied-universal-to-hire-450-security-officers-mostly-in-la-county/?clearUserState=true)
 ![Tacticon](https://i0.wp.com/tacticon.com/wp-content/uploads/2021/01/BATTLE-VEST-BLACK-WEB-scaled.jpg?resize=510%2C510&ssl=1)
 [BODY ARMOR FOR THE SECURITY INDUSTRY](https://www.safeguardclothing.com/blogs/articles/body-armor-for-the-security-industry)
 ![SVG LOS ANGELES](https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg)
