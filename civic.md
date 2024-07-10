@@ -7,6 +7,11 @@
   </div>
 </div>
 
+## Proposition 64: The Adult Use of Marijuana Act
+Overview
+Effective November 9, 2016, Proposition 64 legalizes specified personal use and cultivation of marijuana for adults 21 years of age or older; reduces criminal penalties for specified marijuana-related offenses for adults and juveniles; and authorizes resentencing or dismissal and sealing of prior, eligible marijuana-related convictions. The proposition includes provisions on regulation, licensing, and taxation of legalized use. [California Courts](https://www.courts.ca.gov/prop64.htm)
+
+
 ## WildFireS
 ![FiRMS](https://pbs.twimg.com/media/GR6v9VpaUAAraWG?format=jpg&name=large) 
 [Nasa_FiRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-116.6,34.8,6.9z) [US/Canada FireMaps](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.0z)
