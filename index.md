@@ -43,6 +43,13 @@ carousels:
 {% endhighlight %}
 
 
+![headATL](https://geocities.ws/sb202us/optimized/Atl_carac.jpg)
+![Alfredo](https://geocities.ws/sb202us/poemtitles/thinkofher.gif)
+![kaeHock](https://geocities.ws/sb202us/poemtitles/untitled1.gif)
+![Tiana phenix](https://geocities.ws/sb202us/poemtitles/44lines.gif)
+![comfortjidenma](https://geocities.ws/sb202us/poemtitles/whaticantsay.gif)
+![om3](https://geocities.ws/sb202us/optimized/vol3head.jpg)
+![vanessa](https://geocities.ws/sb202us/poemtitles/fantasy2.gif)
 [Goodie Mob SoulFood](https://www.youtube.com/watch?v=q6-SFIAzFnA)
 
 [It Doesn't Matter ](https://youtu.be/6s3ufTanUMo?si=eyW3DExTI8CTqGhv)
