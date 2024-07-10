@@ -43,6 +43,10 @@ carousels:
 {% endhighlight %}
 
 
+
+
+{% include_relative playlist.md %}
+
 ![om1](https://geocities.ws/sb202us/optimized/volueonehead.jpg)
 ![TYME](https://geocities.ws/sb202us/optimized/TYME.jpg)
 ![deshavious](https://geocities.ws/sb202us/poemtitles/bottled.gif)
@@ -58,7 +62,6 @@ carousels:
 
 [It Doesn't Matter ](https://youtu.be/6s3ufTanUMo?si=eyW3DExTI8CTqGhv)
 
-{% include_relative playlist.md %}
 {% include_relative watchlist.md %}
 
 ![Roujinz](https://pbs.twimg.com/media/GR__msgaQAAvhdp?format=jpg&name=large)

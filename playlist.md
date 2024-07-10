@@ -32,6 +32,89 @@ You mean to tell me this wasn't love?"
   
     
 <div class="playlist">
+  <figure class=" track">
+    <IMG src="https://archive.org/download/2pac-the-don-killuminati-the-7-day-theory-enhanced-cd-rip-1411-wav/Cover%20Enhanced%20CD.jpeg">
+
+    <figcaption>2pac The Don : White ManZ World
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/2pac-the-don-killuminati-the-7-day-theory-enhanced-cd-rip-1411-wav/White%20Man%E2%80%99z%20World.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://archive.org/download/gang-starr-hard-to-earn/Hard%20To%20Earn/1.jpg">
+
+    <figcaption>Gang Starr : Mass Appeal
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/gang-starr-hard-to-earn/Hard%20To%20Earn/11-Mass%20Appeal.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://ia801408.us.archive.org/21/items/pete-rock-and-c.l.-smooth-mecca-and-the-soul-brother/Album/cover.jpg?cnt=0">
+
+    <figcaption>The Basement : PeteRock+CL_SMooTH
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/pete-rock-and-c.l.-smooth-mecca-and-the-soul-brother/Album/CD%201%20Original%20Full%20Length%20Album/14-The%20Basement%20%28Ft.%20Heavy%20D%2C%20Rob-O%2C%20Grap%20Luva%20%26%20Deda%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://ia803108.us.archive.org/17/items/cd_internal-affairs_pharoahe-monch/cd_internal-affairs_pharoahe-monch_itemimage.png?cnt=0">
+
+    <figcaption>The Truth : Common Pharoahe MoncH Kweli
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/pharoahe-monch-internal-affairs/Internal%20Affairs/14-The%20Truth%20%28Ft.%20Common%20%26%20Talib%20Kweli%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://ia601408.us.archive.org/2/items/buju-banton-til-shiloh/%27Til%20Shiloh/cover.jpg?cnt=0">
+
+    <figcaption>Buju Banton - I just Wanna Be Loved
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/buju-banton-til-shiloh/%27Til%20Shiloh/11-Wanna%20Be%20Loved.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://ia801408.us.archive.org/31/items/outkast-southernplayalisticadillacmuzik/Album/cover.jpg?cnt=0">
+
+    <figcaption>Outkast : Krumblin hErB
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/outkast-southernplayalisticadillacmuzik/Album/14-Crumblin%27%20Erb.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://ia601403.us.archive.org/0/items/ol-dirty-bastard-return-to-the-36-chambers-the-dirty-version/Return%20To%20The%2036%20Chambers%20The%20Dirty%20Version/cover.jpg?cnt=0">
+
+    <figcaption>Return To The 36 Chambers Ole Dirty Bastard : The Stomp
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/ol-dirty-bastard-return-to-the-36-chambers-the-dirty-version/Return%20To%20The%2036%20Chambers%20The%20Dirty%20Version/CD%201%20Album/09-The%20Stomp.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://ia600505.us.archive.org/1/items/cypress-hill-black-sunday-30th-anniversary-expanded-edition/Black%20Sunday%20%2830th%20Anniversary%20Expanded%20Edition%29/cover.jpg?cnt=0">
+
+    <figcaption>Cypress Hill - Hits fron The Bong
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/cypress-hill-black-sunday-30th-anniversary-expanded-edition/Black%20Sunday%20%2830th%20Anniversary%20Expanded%20Edition%29/10-Hits%20from%20the%20Bong.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
  <figure class=" track">
     <IMG src="https://ia601908.us.archive.org/10/items/gfk-36seasons/cover.jpg?cnt=0">
 

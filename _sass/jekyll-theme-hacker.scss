@@ -136,14 +136,25 @@ table {
 }
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Silkscreen:wght@400;700&family=Trade+Winds&display=swap");
-html {
-  font: normal 10px/18px "IBM Plex Sans", "Lucida Sans Unicode", verdana, lucida,
+ html {
+  font: normal 10px/18px "VT323","IBM Plex Sans", "Lucida Sans Unicode", verdana, lucida,
     sans-serif;
 
   height: 100%;
   width: 100%;
   background: transparent;
-} /*url(https://eoimages.gsfc.nasa.gov/images/imagerecords/91000/91578/CrevassedGlacier1_dms_2017301_lrg.JPG)
+  background: linear-gradient(
+    45deg,
+    #262626 25%,
+    #595959 0,
+    #595959 50%,
+    #262626 0,
+    #262626 75%,
+    #595959 0
+  );
+  background-size: 80.4px 80.4px;
+  background-attachment: fixed;
+} url(https://eoimages.gsfc.nasa.gov/images/imagerecords/91000/91578/CrevassedGlacier1_dms_2017301_lrg.JPG)
     center repeat;
   background-attachment: fixed;
 } 
@@ -158,14 +169,14 @@ html {
   background: linear-gradient(45deg, 
   #595959 25%, #262626 0, #262626 50%,
   #595959 0, #595959 75%, #262626 0);
-background-size: 280.4px 280.4px;
+background-size: 80.4px 80.4px;
 
-transition: 4s cubic-bezier(.25,.1,.2,3);
+transition: 2s cubic-bezier(.25,.1,.2,3);
 
   background-attachment: fixed;
 }
 
-html:hover {
+html:active {
 
   background: linear-gradient(45deg, 
               #262626 25%, #595959 0, #595959 50%,
@@ -174,8 +185,8 @@ background-size: 80.4px 80.4px;
   background-attachment: fixed;
 
 }
-*/
 
+*/
 h1,
 h2,
 h3,
@@ -194,18 +205,7 @@ body {
   text-shadow: 0 0 8px #ffffff;
   font-size: 140%;
   color: white;
-  background: linear-gradient(
-    45deg,
-    #262626 25%,
-    #595959 0,
-    #595959 50%,
-    #262626 0,
-    #262626 75%,
-    #595959 0
-  );
-  background-size: 80.4px 80.4px;
-  font-family: "VT323", monospace;
-  background-attachment: fixed;
+
 }
 
 p {
@@ -215,15 +215,14 @@ p {
   color: white;
   background: transparent
     url(https://t4.ftcdn.net/jpg/01/11/31/93/360_F_111319320_3gSczDAUKn9b5DAbQdkILWgvA28p4lrx.jpg);
-  background-size: cover;
-  background-repeat: repeat; 
+  background-size: contain;
+  background-repeat: repeat;
 }
 ::selection {
   color: #aaff00;
   background: #454b1b;
 }
 
-/*
 p::first-letter {
   font-size: 2rem;
   font-weight: bold;
@@ -233,10 +232,7 @@ p::first-letter {
 p:first-of-type {
   animation-duration: 3s;
   animation-name: slidein;
-} 
-
-*/
-
+}
 .firstcharacter {
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
@@ -257,8 +253,32 @@ p:first-of-type {
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     repeat;
+  background: linear-gradient(45deg,
+    #08a0e9 25%,
+    #e8f5fd 0,
+    #e8f5fd 50%,
+    #08a0e9 0,
+    #08a0e9 75%,
+    #e8f5fd 0);
+  background-size: 80.4px 80.4px;
+  font-family: "VT323", monospace;
+  background-attachment: fixed;
 }
-
+#content {
+  padding: 10px;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(45deg,
+      #08a0e9 25%,
+      #e8f5fd 0,
+      #e8f5fd 50%,
+      #08a0e9 0,
+      #08a0e9 75%,
+      #e8f5fd 0);
+  background-size: 80.4px 80.4px;
+  font-family: "VT323", monospace;
+  background-attachment: fixed;
+}
 /*
 #heading {
 
@@ -586,119 +606,17 @@ hr {
 
 /* Buttons
 */
+
+a,
 a:hover,
-a:visited a:hover :not(img){
+a:visited a:hover {
   color: #c9ff23;
-  padding: 10px;
-  font-size: 130%;
-  display:block;
 }
 
 a {
-  display:block;
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  transition: 0.3s;
 }
-
-
-figure {
-  transition: all 0.5s linear;
-  border: thin #c0c0c0 solid;
-  display: flex;
-  flex-flow: column;
-  padding: 5px;
-  flex-grow: 3;
-  margin: auto;
-  background: linear-gradient(
-    45deg,
-    #db362d 25%,
-    #e8f5fd 0,
-    #e8f5fd 50%,
-    #db362d 0,
-    #db362d 75%,
-    #e8f5fd 0
-  );
-  background-size: 80.4px 80.4px;
-  background-attachment: fixed;
-  border-radius: 0px;
-}
-
-figure:hover,
-figure:focus,
-figure:active {
-  background: linear-gradient(
-    45deg,
-    #db362d 25%,
-    #e8f5fd 0,
-    #e8f5fd 50%,
-    #db362d 0,
-    #db362d 75%,
-    #e8f5fd 0
-  );
-  background-size: 480.4px 480.4px;
-  background-attachment: fixed;
-  border-radius: 10px;
-  transform: scale(1.05);
-}
-figure {
-}
-
-
-
-figcaption {
-  background-color: #222;
-  color: #fff;
-  padding: 3px;
-  text-align: center;
-  transition: all 0.5s linear;
-}
-
-figcaption:hover {
-  transform: scale(1.05);
-}
-
-h1 {
-  font-size: 170%;
-  color: white;
-  /* background: linear-gradient(45deg, 
- #F2D338 25%, #262626 0, #262626 50%,
- #F2D338 0, #F2D338 75%, #262626 0);
-background-size: 80.4px 80.4px; */
-  
-  background: linear-gradient(to bottom, transparent, #b1b1b1 100%),
-    #262626
-      repeating-linear-gradient(
-        45deg,
-        transparent,
-        transparent 35px,
-        rgba(255, 255, 255, 0.5) 35px,
-        rgba(255, 255, 255, 0.5) 70px
-      );
-  background-clip: padding-box;
-  border-left: 1px solid rgba(255, 255, 255, 0.3);
-  border-top: 1px solid rgba(255, 255, 255, 0.7);
-  box-shadow: 0px 1px 3px 1px #969494;
-  background-attachment: fixed;
-}
-
-h2 {
-  background: transparent
-    url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
-  font-size: 110%;
-  color: white;
-}
-
-/* Buttons
-*/
-
-dt {
-  font-style: italic;
-  font-weight: bold;
-  background: transparent
-    url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
-}
-
 
 video {
   height: 400px;
@@ -970,16 +888,15 @@ embed {
   border-radius: 1px;
 }
 
-
 .swatch {
   /*display: grid;
   grid-gap: 5px;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
-  display: grid;
-  grid-template-columns: repeat(9, 1fr);
+
+  display: flex;
   flex-wrap: wrap;
-  width: 70vw;
-  height: 50vh;
+  
+  height: 5%;
   max-width: max-content;
 }
 
@@ -5085,6 +5002,9 @@ embed {
   padding: 0px;
 }
 
+#a-title {
+  text-decoration: none;
+}
 
 .megan {
   /*display: grid;
@@ -5121,7 +5041,7 @@ embed {
   flex-wrap: nowrap;
   width: 100%;
   height: 80px;
-  
+
 }
 .viking div:nth-child(1) { background: #F2F2F2;}
 .viking div:nth-child(2) { background: #73463C;}
@@ -5134,7 +5054,7 @@ embed {
   flex: 0 1 200px;
   flex: 1 1 200px;
   padding: 0px;
-  
+
 }
 
 
@@ -5146,7 +5066,7 @@ embed {
   flex-wrap: nowrap;
   width: 100%;
   height: 80px;
-  
+
 }
 .vikingbright div:nth-child(1) { background: #F2F2F2;}
 .vikingbright div:nth-child(2) { background: #D9AA71;}
@@ -5159,7 +5079,7 @@ embed {
   flex: 0 1 200px;
   flex: 1 1 200px;
   padding: 0px;
-  
+
 }
 
 #a-title {
@@ -5173,7 +5093,7 @@ embed {
   display:flex;
   flex-flow: row wrap;
   flex-direction: row;
-  
+
 } 
 
 .track {
@@ -5185,9 +5105,9 @@ border-radius: 0.3em;
 -moz-transition:all 0.5s linear;
 -o-transition:all 0.5s linear;
 transition:all 0.5s linear;
-	box-shadow: 0 0 0 1px hsla(0,9%,1%,.3) outset
-	            0 .5em 1em rgba(0, 0, 0, 0.1);
-	text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
+  box-shadow: 0 0 0 1px hsla(0,9%,1%,.3) outset
+              0 .5em 1em rgba(0, 0, 0, 0.1);
+  text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
   background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp");
     background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
     center repeat;
@@ -5196,7 +5116,7 @@ transition:all 0.5s linear;
 
 .track:hover, .track:focus, .track:active
 {
-  
+
 -webkit-transform: scale(1.05);
 -moz-transform: scale(1.05);
 transform: scale(1.09);
@@ -5207,9 +5127,9 @@ transform: scale(1.09);
 }
 
 .container-audio {
- 
+
     padding: 0px;
- 	
+
 
 }
 .track>img { width:100%;
@@ -5221,16 +5141,16 @@ transition:all 0.5s linear;
 }
 
 audio {
-  
-    
- 
+
+
+
 
     -webkit-transition:all 0.5s linear;
 -moz-transition:all 0.5s linear;
 -o-transition:all 0.5s linear;
 transition:all 0.5s linear;
 
-	text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
+  text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
   background: hsla(0,0%,100%,.9) border-box;
 }
 audio:nth-child(2), audio:nth-child(4), audio:nth-child(6) {
@@ -5246,4 +5166,3 @@ audio:hover, audio:focus, audio:active
 -moz-transform: scale(1.05);
 transform: scale(1.05);
 }
-
