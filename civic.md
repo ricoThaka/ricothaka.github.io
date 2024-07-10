@@ -62,7 +62,7 @@ This philosophy was exemplified in [Fallingwater (1935)](https://fallingwater.or
 ![FallingWater](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fallingwater3.jpg/640px-Fallingwater3.jpg) [Frank Lloyd Wright's Fallingwater: Inside the House That Forever Changed Architecture](https://www.youtube.com/watch?v=mwGz58GIFYQ) 
 
 ![Helvetica](https://pbs.twimg.com/media/GQD9pDwaQAEU-bs?format=jpg&name=large)
-  <embed src="https://player.vimeo.com/video/398873298?h=86b3bc6046&color=ff0179" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
+  <embed src="https://player.vimeo.com/video/398873298?h=86b3bc6046&color=ff0179"  />
 <p><a href="https://vimeo.com/398873298">Hevetica</a> from <a href="https://vimeo.com/pkprojects">PK-Projects</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
 <p>Helvetica the movie - English subtitles</p>
 
@@ -83,7 +83,31 @@ In 1975, a communist regime known as the Khmer Rouge conquered the Cambodian cap
 ![https://www.typedifferent.com/fonts/bd-ritmic](https://cdn.fontdue.com/typedifferent/images/1442048128344834548/bd_ritmic_3.png?v=63846092734)
 ![NasaJPL](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)
 
+### Divide and Conquer (film)
+[Divide and Conquer (1943)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm) is the third film of Frank Capra's Why We Fight propaganda film series and deals with the Nazi conquest of Western Europe in 1940. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_Conquer_(film))
 
+<video controls 
+  src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm"
+  poster="https://pbs.twimg.com/media/GP_VBuEbEAEmjbi?format=jpg&name=large">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+### [Divide and Conquer](https://commons.wikimedia.org/wiki/File:U.S._War_Department_-_Divide_and_Conquer_(1943).webm)
+
+Divide and rule policy (Latin: divide et impera), or divide and conquer, in politics and sociology is gaining and maintaining power divisively. This includes the exploitation of existing divisions within a political group by its political opponents, and also the deliberate creation or strengthening of such divisions.
+
+The strategy, but not the phrase, applies in many ancient cases: the example of Aulus Gabinius exists, parting the Jewish nation into five conventions, reported by Flavius Josephus in Book I, 169–170 of The Jewish War (De bello Judaico).[1] Strabo also reports in Geographica, 8.7.3[2] that the Achaean League was gradually dissolved when it became part of the Roman province of Macedonia, as the Romans treated the various states differently, wishing to preserve some and to destroy others.[citation needed]
+
+Elements of this technique involve: [citation needed]
+
+creating or encouraging divisions among the subjects to prevent alliances that could challenge the sovereign and distributing forces so that they overpower each other.
+aiding and promoting those who are willing to cooperate with the sovereign
+fostering distrust and enmity between local rulers
+encouraging meaningless expenditures that reduce the capability for political and military spending [Read<oreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_rule) [imdb](https://www.imdb.com/title/tt0173769/)
 
 [Murphy Ranch Road Trail](https://trails.lacounty.gov/Trail/311/murphy-ranch-road-trail) [Murphy’s Ranch: Abandoned Nazi Camp in Santa Monica](https://californiathroughmylens.com/murphys-ranch-abandoned-nazi-camp-in-santa-monica/)
 
