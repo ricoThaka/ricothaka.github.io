@@ -1,10 +1,10 @@
 
 ![attack on metro](https://pbs.twimg.com/media/GSJPBzKbIAAFflY?format=jpg&name=large)
 
+Dear MAyor (Karen Bass)
 
 
-
-
+![Tacticon](https://i0.wp.com/tacticon.com/wp-content/uploads/2021/01/BATTLE-VEST-BLACK-WEB-scaled.jpg?resize=510%2C510&ssl=1)
 [BODY ARMOR FOR THE SECURITY INDUSTRY](https://www.safeguardclothing.com/blogs/articles/body-armor-for-the-security-industry)
 ![SVG LOS ANGELES](https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg)
 
