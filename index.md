@@ -44,8 +44,6 @@ carousels:
 
 [It Doesn't Matter ](https://youtu.be/6s3ufTanUMo?si=eyW3DExTI8CTqGhv)
 
-<iframe src="https://archive.org/embed/gwingw" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
 {% include_relative playlist.md %}
 {% include_relative watchlist.md %}
 

@@ -590,7 +590,8 @@ a:hover,
 a:visited a:hover :not(img){
   color: #c9ff23;
   padding: 10px;
-  font-size: 150%;
+  font-size: 130%;
+  display:block;
 }
 
 a {
@@ -601,6 +602,62 @@ a {
 }
 
 
+figure {
+  transition: all 0.5s linear;
+  border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 220px;
+  margin: auto;
+  background: linear-gradient(
+    45deg,
+    #db362d 25%,
+    #e8f5fd 0,
+    #e8f5fd 50%,
+    #db362d 0,
+    #db362d 75%,
+    #e8f5fd 0
+  );
+  background-size: 80.4px 80.4px;
+  background-attachment: fixed;
+  border-radius: 10px;
+}
+
+figure:hover,
+figure:focus,
+figure:active {
+  background: linear-gradient(
+    45deg,
+    #db362d 25%,
+    #e8f5fd 0,
+    #e8f5fd 50%,
+    #db362d 0,
+    #db362d 75%,
+    #e8f5fd 0
+  );
+  background-size: 480.4px 480.4px;
+  background-attachment: fixed;
+  border-radius: 10px;
+  transform: scale(1.05);
+}
+figure {
+}
+
+
+
+figcaption {
+  background-color: #222;
+  color: #fff;
+  padding: 3px;
+  text-align: center;
+  transition: all 0.5s linear;
+}
+
+figcaption:hover {
+  transform: scale(1.05);
+}
+
 h1 {
   font-size: 170%;
   color: white;
@@ -608,9 +665,8 @@ h1 {
  #F2D338 25%, #262626 0, #262626 50%,
  #F2D338 0, #F2D338 75%, #262626 0);
 background-size: 80.4px 80.4px; */
-  font-family: "VT323", monospace;
-
-  background: linear-gradient(to top, transparent, #b1b1b1 100%),
+  
+  background: linear-gradient(to bottom, transparent, #b1b1b1 100%),
     #262626
       repeating-linear-gradient(
         45deg,
@@ -629,7 +685,7 @@ background-size: 80.4px 80.4px; */
 h2 {
   background: transparent
     url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
-  font-size: 140%;
+  font-size: 110%;
   color: white;
 }
 

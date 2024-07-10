@@ -32,7 +32,58 @@ You mean to tell me this wasn't love?"
   
     
 <div class="playlist">
-  
+ 
+ <div class=" track">
+       
+   <IMG src="https://upload.wikimedia.org/wikipedia/en/5/52/Cyhi_the_Prynce_No_Dope_on_Sundays.jpg">
+        <audio controls  loop >
+                   <source src="https://archive.org/download/cyhi-the-prynce-no-dope-on-sundays/No%20Dope%20On%20Sundays/01-Amen%20%28Intro%29.mp3">
+                   Your browser dose not Support the audio Tag
+               </audio>
+    </div>
+
+
+  <figure class=" track">
+    <IMG src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdibGhpeWY2eWN5cmpweDE2N2h0aGR4bmM5bXQya2J3Y2d5N2cwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6MbaH9LYlaVpHWBa/giphy.webp">
+
+    <figcaption>Try Again by Aaliyah
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/aaliyah-2001/Aaliyah/15-Try%20Again.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://images.genius.com/c7e784a2c7b31686c16fcd36431574f8.929x929x1.jpg">
+
+    <figcaption>Verbal Intercourse
+      Song by Ghostface Killah, Nas, and Raekwon
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/raekwon-only-built-4-cuban-linx-album/Album/12-Verbal%20Intercourse%20%28Ft.%20Nas%20%26%20Ghostface%20Killah%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://images.genius.com/7744f0768629d8a143c0c7c80654c893.1000x1000x1.jpg">
+
+    <figcaption>Black Sheep - Flavor Of The Month</figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/black-sheep-a-wolf-in-a-sheeps-clothing/A%20Wolf%20In%20Sheep%27s%20Clothing/11-Flavor%20Of%20The%20Month.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://upload.wikimedia.org/wikipedia/en/c/c6/Outkast-atliens.jpg">
+
+    <figcaption>OutKast - Mainstream</figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/outkast-atliens/Album/10-Mainstream%20%28Ft.%20T-Mo%20%26%20Khujo%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure> 
   
 <div class=" track">
        
