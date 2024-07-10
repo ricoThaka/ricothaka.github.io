@@ -43,6 +43,8 @@ carousels:
 {% endhighlight %}
 
 
+![deshavious](https://geocities.ws/sb202us/poemtitles/bottled.gif)
+![om2](https://geocities.ws/sb202us/optimized/vol2head.jpg)
 ![headATL](https://geocities.ws/sb202us/optimized/Atl_carac.jpg)
 ![Alfredo](https://geocities.ws/sb202us/poemtitles/thinkofher.gif)
 ![kaeHock](https://geocities.ws/sb202us/poemtitles/untitled1.gif)
