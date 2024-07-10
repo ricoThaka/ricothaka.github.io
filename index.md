@@ -42,6 +42,9 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+[Goodie Mob SoulFood](https://www.youtube.com/watch?v=q6-SFIAzFnA)
+
 [It Doesn't Matter ](https://youtu.be/6s3ufTanUMo?si=eyW3DExTI8CTqGhv)
 
 {% include_relative playlist.md %}

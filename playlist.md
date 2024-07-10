@@ -32,10 +32,66 @@ You mean to tell me this wasn't love?"
   
     
 <div class="playlist">
-   <figure class=" track">
+
+ <figure class=" track">
+    <IMG src="https://archive.org/download/camp-lo-luchini-aka-this-is-it/Luchini%20Aka%20(This%20Is%20It)/a.jpg">
+
+    <figcaption>Camp_Lo Swing
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/camp-lo-luchini-aka-this-is-it/Luchini%20Aka%20%28This%20Is%20It%29/02-Swing%20%28Radio%20Edit%29%20%28Ft.%20Ish%20Aka%20Butterfly%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://archive.org/download/prince-paul-a-prince-among-thieves/A%20Prince%20Among%20Thieves/a.jpg">
+
+    <figcaption>A Prince Among Thieves
+      by Prince Paul
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/prince-paul-a-prince-among-thieves/A%20Prince%20Among%20Thieves/22-More%20Than%20U%20Know%20%28Ft.%20De%20La%20Soul%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://m.media-amazon.com/images/I/91kzMX+zHPL._UF1000,1000_QL80_.jpg">
+
+    <figcaption>Q-Tip, Tash & Mos Def – Body Rock
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/mos-def-body-rock/Body%20Rock/03-Body%20Rock%20%28Street%29%20%28Ft.%20Q-Tip%20%26%20Tash%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
     <IMG src="https://archive.org/download/super-cat-don-dada/Don%20Dada/a.jpg">
 
     <figcaption>Supa Cat: Nuff Man E Dead
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://ia601509.us.archive.org/31/items/outkast-stankonia/Stankonia/cover.jpg?cnt=0">
+
+    <figcaption>OutKast ft Gangstaboo ill call b4 iCum
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/outkast-stankonia/Stankonia/10-I%27ll%20Call%20B4%20I%20Cum%20%28Ft.%20Gangsta%20Boo%20%26%20Eco%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
+
+
+   <figure class=" track">
+    <IMG src="https://archive.org/download/super-cat-don-dada/Don%20Dada/a.jpg">
+
+  <figcaption>Supa Cat: Nuff Man E Dead
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3">
