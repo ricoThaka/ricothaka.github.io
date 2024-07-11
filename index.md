@@ -43,9 +43,9 @@ carousels:
 {% endhighlight %}
 
 {% include_relative playlist.md %}
-[Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7)  <h2 id="oncall">OnCall</h2>
+[Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7)  
 
-          <div class="oncall">
+<div class="oncall">
             <div></div>
             <div></div>
             <div></div>
@@ -53,14 +53,8 @@ carousels:
             <div></div>
           </div>
 
-          <div class="swatch">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-          </div>
-          <div class="gullies">
+
+<div class="swatch">
             <div></div>
             <div></div>
             <div></div>
@@ -68,6 +62,20 @@ carousels:
             <div></div>
           </div>
 
+<div class="gullies">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
+<div class="latto">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
 
 
 ![om1](https://geocities.ws/sb202us/optimized/volueonehead.jpg)

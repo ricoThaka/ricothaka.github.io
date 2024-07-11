@@ -586,14 +586,14 @@ a:hover,
 a:visited a:hover {
   font-size: 140%;
   color: #c9ff23;
-  display: block;
+  display: inline-block;
 }
 
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   transition: all .2s ease-out;
-  display: block;
+  display: inline-block;
   
 }
 
