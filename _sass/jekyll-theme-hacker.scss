@@ -137,7 +137,7 @@ table {
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Silkscreen:wght@400;700&family=Trade+Winds&display=swap");
  html {
-  font: normal 10px/18px "VT323","IBM Plex Sans", "Lucida Sans Unicode", verdana, lucida,
+  font: normal 10px/18px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
     sans-serif;
 
   height: 100%;
@@ -153,9 +153,6 @@ table {
     #595959 0
   );
   background-size: 80.4px 80.4px;
-  background-attachment: fixed;
-} url(https://eoimages.gsfc.nasa.gov/images/imagerecords/91000/91578/CrevassedGlacier1_dms_2017301_lrg.JPG)
-    center repeat;
   background-attachment: fixed;
 } 
 /* Buttons
