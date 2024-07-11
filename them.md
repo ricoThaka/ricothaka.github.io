@@ -2,3 +2,4 @@
 
 [Discogs](https://www.discogs.com/release/1223557-Aaliyah-Rock-The-Boat) [BlAcKiE_Beats Hiphop Collection](https://archive.org/details/blackiebeatscollection)
 [Wiki](https://en.wikipedia.org/wiki/Rock_the_Boat_(Aaliyah_song))
+[Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7)

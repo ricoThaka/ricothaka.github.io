@@ -9,7 +9,25 @@
 
 Dear MAyor (Karen Bass)
 
+Hi, Its Rasahrd from NasaJpl the [YA](https://www.reddit.com/r/YAlit/comments/18xxv05/is_there_a_list_of_must_read_ya_books_especially/) Somali that takes short naps on the back portch of [city hall](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/). I am following your instructions in the 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6vyx1ofc0mM?si=TJxwNPGkD_J6JtzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
+
+### Is private security endangering those in California homeless shelters? [Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/)
+
+>In Southern California, homeless people have sued over a range of alleged sexual abuses, from rape to strip searches;
+
+>In the Bay Area, residents of a government-run tent city said in court that contract workers dealt drugs and harassed women;
+
+>In Fresno and Los Angeles, families sued for wrongful death after homeless loved ones were shot by a guard or stabbed by a fellow shelter resident despite an on-duty guard. 
+
+[How big is California’s homelessness crisis? Inside the massive, statewide effort to find out](https://calmatters.org/housing/homelessness/2024/01/california-homeless-point-in-time-count-2024/)
+[Meth, death and abuse: Inside the private security forces patrolling California’s homeless](https://calmatters.org/housing/homelessness/2024/04/homeless-shelter-private-security/)
+The former hairdresser had spent years sleeping in her car and parks around Anaheim, near the suburban salons where she used to work. One day a social worker told Powitzky about an old piano shop recently converted into a shelter. 
+
+![Lauren Hepler](https://i0.wp.com/calmatters.org/wp-content/uploads/2024/03/Homeless-Security_AH_CM_01-scaled.jpg?resize=1024%2C683&ssl=1)
 ### ‘A really scary feeling’: Private security firm accused of using force against UCLA protesters
 ![UCLA](https://ca-times.brightspotcdn.com/dims4/default/88641ff/2147483647/strip/true/crop/3627x2725+0+0/resize/1024x770!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2Fdf%2Ffd9085364ec8b4eeab70601f955b%2F1445716-me-ucla-protest-aftermath-07-mjc.jpg) When authorities launched the first of many flash-bang-style devices early on the morning of May 2, it shattered the relative calm of UCLA’s pro-Palestinian encampment and drove a stream of protesters running toward makeshift barricades that blocked the exits.[ReadmorE](https://www.latimes.com/california/story/2024-05-23/private-security-firm-apex-ucla-protest)
 

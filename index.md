@@ -43,7 +43,7 @@ carousels:
 {% endhighlight %}
 
 
-
+[Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7)
 
 {% include_relative playlist.md %}
 
