@@ -7,7 +7,7 @@
       </div>
 
 
-[Psychological impact of false accusations of sexual abuse]  (https://www.youtube.com/watch?v=scSQc9iauuw)    
+[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
 ![attack on metro](https://pbs.twimg.com/media/GSJPBzKbIAAFflY?format=jpg&name=large)
 ![Allied Universal](https://www.aus.com/sites/default/files/Allied%20Universal%20Tagline_1.png)
 
