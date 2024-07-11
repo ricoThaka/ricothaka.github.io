@@ -42,9 +42,6 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-{% include_relative playlist.md %}
-[Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7)  
-
 <div class="oncall">
             <div></div>
             <div></div>
@@ -76,6 +73,13 @@ carousels:
             <div></div>
             <div></div>
           </div>
+
+  <img src="https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/MarbleMadness_marquee_23.5-x-5.25_dedicated.jpg?fit=1200%2C268&ssl=1" />
+  <embed src="https://archive.org/embed/arcade_marble" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen />
+{% include_relative playlist.md %}
+[Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7)  
+
+
 
 
 ![om1](https://geocities.ws/sb202us/optimized/volueonehead.jpg)
