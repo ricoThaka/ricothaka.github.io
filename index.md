@@ -42,7 +42,7 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
-
+{% include_relative playlist.md %}
 [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7)  <h2 id="oncall">OnCall</h2>
 
           <div class="oncall">
@@ -68,7 +68,7 @@ carousels:
             <div></div>
           </div>
 
-{% include_relative playlist.md %}
+
 
 ![om1](https://geocities.ws/sb202us/optimized/volueonehead.jpg)
 ![TYME](https://geocities.ws/sb202us/optimized/TYME.jpg)
