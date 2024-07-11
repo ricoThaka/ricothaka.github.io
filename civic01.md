@@ -9,6 +9,13 @@
 
 Dear MAyor (Karen Bass)
 
+
+
+![vest robbing crew](https://media.nbclosangeles.com/2024/07/north-hollywood-burglaries.jpg?quality=85&strip=all&resize=850%2C478)
+Members of a burglary ring dressing as construction workers in Los Angeles may have traded hard hats for handcuffs.
+
+The group, dubbed the "Reflector Vest Crew," was arrested in a joint operation of North Hollywood Division detectives and the LA County Sheriff’s Department, the Los Angeles Police Department announced on Tuesday.
+[Burglars posing as construction workers in reflector vests arrested in North Hollywood](https://www.nbclosangeles.com/news/local/burglars-posing-as-construction-workers-in-reflector-vests-arrested-in-north-hollywood/3455500/)[3 men killed in weekend shooting at homeless encampment near Los Angeles, police say](https://www.newsday.com/news/nation/downey-california-homeless-encampment-shooting-a89812)['Bringing a gun to a knife fight': LAPD continues to shoot people holding 'edged weapon' during mental crisis, analysis shows](https://www.yahoo.com/news/bringing-gun-knife-fight-lapd-100021139.html)[Los Angeles’ best new residential designs selected for 2024 AIA|LA Residential Architecture Awards](https://archinect.com/news/bustler/9910/los-angeles-best-new-residential-designs-selected-for-2024-aia-la-residential-architecture-awards)[Here are 10 L.A. projects to watch in 2024](https://la.urbanize.city/post/here-are-10-la-projects-watch-2024)
 [Allied Filling Jobs](https://labusinessjournal.com/technology/allied-universal-struggles-fill-thousands-security/)
 [ LA Local News Judge Orders Arbitration of Allied Security Guard's Harassment Suit](https://kfiam640.iheart.com/featured/la-local-news/content/2024-01-10-judge-orders-arbitration-of-allied-security-guards-harassment-suit/)]
 [BMO Stadium selects Allied Universal as preferred event services provider](https://www.securityinfowatch.com/security-executives/protective-operations-guard-services/press-release/53099143/allied-universal-bmo-stadium-selects-allied-universal-as-preferred-event-services-provider)
