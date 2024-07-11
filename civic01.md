@@ -6,6 +6,7 @@
         <div></div>
       </div>
 ![attack on metro](https://pbs.twimg.com/media/GSJPBzKbIAAFflY?format=jpg&name=large)
+![Allied Universal](https://www.aus.com/sites/default/files/Allied%20Universal%20Tagline_1.png)
 
 Dear MAyor (Karen Bass)
 
@@ -18,10 +19,17 @@ Its hard to explin everything in one quick note. But basically I was in Atlanta 
 
 I eat at [St_Francis](https://www.stfranciscenterla.org/) once a day and [Reality Church in Hollywood](https://realityla.com/) 5 days a week since i got suspended from [Long Beach's Billie Jean Library](https://www.longbeach.gov/library/locations/main-library/)... So i need you to look at this conversation. Its the kidnapper of my wife#2/3 [She is no longer you wife](https://vimeo.com/396000267)
 
+im always running from ppl bc she is in the entertainment industry. They have an infrastructure that cuts the girls off from contact outside a [Streaming Media Cult](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) 
 
-[DownLoad LA EMERGENCY GUiDE .PDF County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf) [The Phenomenology of Group Stalking (‘Gang-Stalking’): A Content Analysis of Subjective Experiences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7178134/)
+anyway last night [June 9th](https://www.amoeba.com/our-stores/store-news/469/the-2024-la-pride-parade-block-party-in-hollywood-sunday-june-9th-469/) a gaurd with [Allied Universal](https://ausnewsroom.aus.com/) The guy with scruffy hair. Hes white he called this South American Assasin and he cahsed me with a holstered gun and bullet proof [Tactical Vest](https://www.blackhawk.com/tactical-nylon/tactical-vests/) out of the [subway](https://ktla.com/news/local-news/pedestrian-suffers-major-injuries-after-being-hit-by-l-a-subway-train/)  more later
+
+
+[DownLoad LA EMERGENCY GUiDE .PDF County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf) [The Phenomenology of Group Stalking (‘Gang-Stalking’): A Content Analysis of Subjective Experiences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7178134/) [TikTok Explores New Streaming Studios in LA to Facilitate Live Shopping Push](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) [Rooftop Gunman Opens Fire In Marina Del Rey While Live Streaming](https://patch.com/california/los-angeles/rooftop-gunman-opens-fire-marina-del-rey-while-live-streaming) Early Sunday, police arrested a chef who climbed atop a building and fired dozens of rounds from [AR-15](https://www.independent.co.uk/topic/ar-15) rifles, sheriff's officials said. [Are civilians allowed to own AR-15?](https://giffords.org/lawcenter/state-laws/assault-weapons-in-california/#:~:text=With%20limited%20exceptions%2C%20California%20prohibits,DOJ%E2%80%9D) ![https://cdn.prgloo.com/media/f218aec8b2d24fe68cca165f5a8ae3dc.jpg?width=968&height=1452](https://ausnewsroom.aus.com/)
+
+![https://www.blackhawk.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-shootAccessory-master-catalog/default/dw75816a98/images/large/BH_90SAFV_R_Patches_front.jpg?sw=300&sh=300&sm=fit](https://www.blackhawk.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-shootAccessory-master-catalog/default/dw75816a98/images/large/BH_90SAFV_R_Patches_front.jpg?sw=300&sh=300&sm=fit)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6vyx1ofc0mM?si=TJxwNPGkD_J6JtzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
 
 ### Is private security endangering those in California homeless shelters? [Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/)
