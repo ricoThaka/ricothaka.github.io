@@ -3,3 +3,5 @@
 [Discogs](https://www.discogs.com/release/1223557-Aaliyah-Rock-The-Boat) [BlAcKiE_Beats Hiphop Collection](https://archive.org/details/blackiebeatscollection)
 [Wiki](https://en.wikipedia.org/wiki/Rock_the_Boat_(Aaliyah_song))
 [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7) [A Timeee Was Had: Missy Elliott Celebrates Birthday With Supa Dupa Sneaker Soirée During Essence Fest; Jill Scott, Jermaine Dupri, Ari Lennox & More Attend](https://bossip.com/2369900/missy-elliott-star-studded-sneaker-ball-birthday-bash-essence-fest/)
+
+[Normani - Insomnia (Audio)](https://youtu.be/A7iWX2excWw?si=0tTzNJKSucAJGA2l)
