@@ -43,6 +43,7 @@ carousels:
 {% endhighlight %}
 
 
+{% include_relative current.md %}
 
 ![paperboy](https://i.ebayimg.com/images/g/x04AAOSwAKxWXh6v/s-l1600.jpg)
 <iframe src="https://archive.org/embed/arcade_paperboy" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
