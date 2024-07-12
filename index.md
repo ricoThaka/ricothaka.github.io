@@ -104,7 +104,27 @@ Yeah, that way
 The doll way
 {% endhighlight %}
 
-[Full Pilot Episode! | The Lady In The Bottle | Season 1 Ep 1 | I Dream Of Jeannie](https://www.youtube.com/watch?v=F41Y37XTZck)
+[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
+## BattleToadS
+by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retrogames.cc/arcade-games/battletoads.html) [Sega Genesis](https://archive.org/details/Battletoads_World.md)
+
+[![BattleToads](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)
+
+
+
+### ᕙ(⇀‸↼‶)ᕗ
+
+<div class="pinupImage expandingGallery">
+<img src="https://pbs.twimg.com/media/GO3eDMIasAAUHMp?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3ePDIaAAA18IW?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3fAfpaQAAmoqn?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3ffBoa8AAuqsh?format=jpg&name=large" />
+
+ </div>
+ 
+ ![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
 
 ## Marble Madness by Atari Games
 ![Marble Madness by Atari Games](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/MarbleMadness_marquee_23.5-x-5.25_dedicated.jpg?fit=1200%2C268&ssl=1) Marble Madness is an arcade video game designed by Mark Cerny, and published by Atari Games in 1984. It is a platform game in which the player must guide an onscreen marble
@@ -124,26 +144,6 @@ The doll way
             <div></div>
           </div>
 
-<img src="https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/MarbleMadness_marquee_23.5-x-5.25_dedicated.jpg?fit=1200%2C268&ssl=1" />
-<embed src="https://archive.org/embed/arcade_marble" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen />
-
-
-[![BattleToads](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)
-
-## BattleToadS
-by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retrogames.cc/arcade-games/battletoads.html)
-
-### ᕙ(⇀‸↼‶)ᕗ
-
-<div class="pinupImage expandingGallery">
-<img src="https://pbs.twimg.com/media/GO3eDMIasAAUHMp?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3ePDIaAAA18IW?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3fAfpaQAAmoqn?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3ffBoa8AAuqsh?format=jpg&name=large" />
-
- </div>
- 
- ![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
 
 
 {% include_relative playlist.md %}
@@ -329,22 +329,6 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
   </div>
 </div>   
 
-### The Red Planet Mars
-An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
-<video controls 
-  src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
-  poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
-
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
-
-
-[My Favorite Martian Season 1 Episode 1 (1963) My Favorite Martin](https://www.youtube.com/watch?v=9bg9AGmYv84)
-[My Favorite Martian Full Episodes Season 1 E20 - My Nephew The Artist](https://www.dailymotion.com/video/x822j08)
-[My Favorite Martian Full Episodes Season 3 E23 - When A Martian Makes His Violin Cry](https://www.dailymotion.com/video/x81hpd9)
-[Full text of "The book of Mars"](https://archive.org/stream/bookofmars00glas/bookofmars00glas_djvu.txt)
 
 [![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
 [![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")

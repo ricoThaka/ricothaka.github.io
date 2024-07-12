@@ -1,3 +1,19 @@
+### The Red Planet Mars
+An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
+<video controls 
+  src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
+  poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+[My Favorite Martian Season 1 Episode 1 (1963) My Favorite Martin](https://www.youtube.com/watch?v=9bg9AGmYv84)
+[My Favorite Martian Full Episodes Season 1 E20 - My Nephew The Artist](https://www.dailymotion.com/video/x822j08)
+[My Favorite Martian Full Episodes Season 3 E23 - When A Martian Makes His Violin Cry](https://www.dailymotion.com/video/x81hpd9)
+[Full text of "The book of Mars"](https://archive.org/stream/bookofmars00glas/bookofmars00glas_djvu.txt)
 
 
 [Street Fighter II: The Animated Series](https://myanimelist.net/anime/876/Street_Fighter_II_V?cat=anime)
