@@ -5,12 +5,141 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>replit</title>
+  <title>htua</title>
   <link href="htau.css" rel="stylesheet" type="text/css" />
       <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-    </style>
+
+
+  <style>
+
+
+audio,
+img {
+  margin: 0;
+  padding: 0;
+}
+
+figure {
+  transition: all 0.5s linear;
+  border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 220px;
+  margin: auto;
+  background: linear-gradient(
+    45deg,
+    #db362d 25%,
+    #e8f5fd 0,
+    #e8f5fd 50%,
+    #db362d 0,
+    #db362d 75%,
+    #e8f5fd 0
+  );
+  background-size: 80.4px 80.4px;
+  background-attachment: fixed;
+  border-radius: 10px;
+}
+
+figure:hover,
+figure:focus,
+figure:active {
+  background: linear-gradient(
+    45deg,
+    #db362d 25%,
+    #e8f5fd 0,
+    #e8f5fd 50%,
+    #db362d 0,
+    #db362d 75%,
+    #e8f5fd 0
+  );
+  background-size: 480.4px 480.4px;
+  background-attachment: fixed;
+  border-radius: 10px;
+  transform: scale(1.05);
+}
+figure {
+}
+
+img {
+  border-radius: 10px 10px 0px 0px;
+  max-width: 220px;
+  max-height: auto;
+  transition: all 0.5s linear;
+}
+
+img:hover {
+  transform: scale(1.05);
+}
+
+figcaption {
+  background-color: #222;
+  color: #fff;
+  padding: 3px;
+  text-align: center;
+  transition: all 0.5s linear;
+}
+
+figcaption:hover {
+  transform: scale(1.05);
+}
+audio {
+  background: white;
+  border-radius: 0px 0px 10px 10px;
+}
+
+#playlist {
+  display: flex;
+  flex-flow: row wrap;
+  flex-direction: row;
+}
+
+.track figure figcaption {
+  margin: 1px;
+  overflow: hidden;
+  flex: 1 1 200px;
+  border-radius: 0.3em;
+  transition: all 0.5s linear;
+  box-shadow: 0 0 0 1px hsla(0, 9%, 1%, 0.3) outset 0 0.5em 1em
+    rgba(0, 0, 0, 0.1);
+  text-shadow: 0 1px 1px hsla(0, 0%, 100%, 0.3);
+}
+
+.track:hover,
+.track:focus,
+.track:active {
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  transform: scale(1.09);
+}
+
+.track {
+}
+
+.track > img {
+  width: 100%;
+
+  transition: all 0.5s linear;
+}
+
+audio {
+  max-width: 100%;
+  transition: all 0.5s linear;
+}
+
+audio:hover,
+audio:focus,
+audio:active {
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+    
+  </style>
+    
 </head>
 
 <body>
@@ -24,6 +153,338 @@
   </div>
 
   <div id="main">
+
+    <iframe src="https://archive.org/embed/screen-recording-2024-07-12-11.02.22-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+    <div id="playlist">
+
+  <figure class=" track">
+    <IMG src="https://ia804607.us.archive.org/4/items/snoop-lion-reincarnated-2013/Snoop%20Lion/Reincarnated/cover.jpg?cnt=0">
+
+    <figcaption>07-Fruit Juice (Ft. Mr. Vegas).mp3
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/snoop-lion-reincarnated-2013/Snoop%20Lion/Reincarnated/07-Fruit%20Juice%20%28Ft.%20Mr.%20Vegas%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+<figure class=" track">
+    <IMG src="https://i.discogs.com/JBP5x6QqVHFpzLsvrAwkSr2OBihxpjcrgQwbi7MacCw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTM5/MjU3LTE2ODQ2NjAw/NjktNzcyMS5qcGVn.jpeg">
+
+    <figcaption>SZA - Too Late
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/sza-sos/SOS/17-Too%20Late.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://i1.sndcdn.com/artworks-Da8aLAjFA6KEY6z4-biSzMw-t500x500.jpg">
+
+    <figcaption>Megan Thee Stallion feat Latto - Budget
+    </figcaption>
+    <audio controls loop>
+      <source src="https://ia601406.us.archive.org/11/items/cover-1_202208/04.%20Budget%20%28feat.%20Latto%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
+  <figure class=" track">
+    <iframe src="https://archive.org/embed/ranma-1-2-subtitled-edition-vhs" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+    <figcaption>ranma
+    </figcaption>
+
+  </figure>
+  <figure class=" track">
+    <IMG src="https://archive.org/download/2pac-the-don-killuminati-the-7-day-theory-enhanced-cd-rip-1411-wav/Cover%20Enhanced%20CD.jpeg">
+
+    <figcaption>2pac The Don : White ManZ World
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/2pac-the-don-killuminati-the-7-day-theory-enhanced-cd-rip-1411-wav/White%20Man%E2%80%99z%20World.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://archive.org/download/gang-starr-hard-to-earn/Hard%20To%20Earn/1.jpg">
+
+    <figcaption>Gang Starr : Mass Appeal
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/gang-starr-hard-to-earn/Hard%20To%20Earn/11-Mass%20Appeal.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://ia801408.us.archive.org/21/items/pete-rock-and-c.l.-smooth-mecca-and-the-soul-brother/Album/cover.jpg?cnt=0">
+
+    <figcaption>The Basement : PeteRock+CL_SMooTH
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/pete-rock-and-c.l.-smooth-mecca-and-the-soul-brother/Album/CD%201%20Original%20Full%20Length%20Album/14-The%20Basement%20%28Ft.%20Heavy%20D%2C%20Rob-O%2C%20Grap%20Luva%20%26%20Deda%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://ia803108.us.archive.org/17/items/cd_internal-affairs_pharoahe-monch/cd_internal-affairs_pharoahe-monch_itemimage.png?cnt=0">
+
+    <figcaption>The Truth : Common Pharoahe MoncH Kweli
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/pharoahe-monch-internal-affairs/Internal%20Affairs/14-The%20Truth%20%28Ft.%20Common%20%26%20Talib%20Kweli%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://ia601408.us.archive.org/2/items/buju-banton-til-shiloh/%27Til%20Shiloh/cover.jpg?cnt=0">
+
+    <figcaption>Buju Banton - I just Wanna Be Loved
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/buju-banton-til-shiloh/%27Til%20Shiloh/11-Wanna%20Be%20Loved.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://ia801408.us.archive.org/31/items/outkast-southernplayalisticadillacmuzik/Album/cover.jpg?cnt=0">
+
+    <figcaption>Outkast : Krumblin hErB
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/outkast-southernplayalisticadillacmuzik/Album/14-Crumblin%27%20Erb.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://ia601403.us.archive.org/0/items/ol-dirty-bastard-return-to-the-36-chambers-the-dirty-version/Return%20To%20The%2036%20Chambers%20The%20Dirty%20Version/cover.jpg?cnt=0">
+
+    <figcaption>Return To The 36 Chambers Ole Dirty Bastard : The Stomp
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/ol-dirty-bastard-return-to-the-36-chambers-the-dirty-version/Return%20To%20The%2036%20Chambers%20The%20Dirty%20Version/CD%201%20Album/09-The%20Stomp.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://ia600505.us.archive.org/1/items/cypress-hill-black-sunday-30th-anniversary-expanded-edition/Black%20Sunday%20%2830th%20Anniversary%20Expanded%20Edition%29/cover.jpg?cnt=0">
+
+    <figcaption>Cypress Hill - Hits fron The Bong
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/cypress-hill-black-sunday-30th-anniversary-expanded-edition/Black%20Sunday%20%2830th%20Anniversary%20Expanded%20Edition%29/10-Hits%20from%20the%20Bong.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://ia601908.us.archive.org/10/items/gfk-36seasons/cover.jpg?cnt=0">
+
+    <figcaption>Ghostface ft AZ - Here We Go Again
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/gfk-36seasons/03-Here%20I%20Go%20Again%20%28Ft.%20AZ%20%26%20Rell%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://m.media-amazon.com/images/I/51jwiIjfj5L._UF1000,1000_QL80_.jpg">
+
+    <figcaption>Heavy D - Got Me Waiting
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/heavy-d-and-the-boyz-heavy-hitz/Heavy%20Hitz/10-Got%20Me%20Waiting.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/group-home-livin-proof/Album/a.jpg">
+
+    <figcaption>Group Home - SupaStar
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/group-home-livin-proof/Album/CD%201%20Album/13-Supa%20Star.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/az-do-or-die/1995/1.jpg">
+
+    <figcaption>Sugar Hill AZ feat Miss Jones
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/az-do-or-die/1995/07-Sugar%20Hill%20%28Ft.%20Miss%20Jones%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20(The%20Soundtrack)/a.jpg">
+
+    <figcaption>WuWear Garment Renissance Capadonna RZA Meth
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20%28The%20Soundtrack%29/03-RZA-Wu-Wear%20The%20Garment%20Renaissance%20%28Ft.%20Method%20Man%20%26%20Cappadonna%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20(The%20Soundtrack)/a.jpg">
+
+    <figcaption>LiL KiM : Queen Bitch
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20%28The%20Soundtrack%29/08-Lil%27%20Kim-Queen%20Bitch.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/eric-b-and-rakim-let-the-rhythm-hit-em/Album/a.jpg">
+
+    <figcaption>Eric B. And Rakim: Mahogany
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/eric-b-and-rakim-let-the-rhythm-hit-em/Album/08-Mahogany.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/alicia-keys-songs-in-a-minor/Songs%20In%20A%20Minor/a.jpg">
+
+    <figcaption>Alicia Keys : Troubles
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/alicia-keys-songs-in-a-minor/Songs%20In%20A%20Minor/05-Troubles.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://ia902309.us.archive.org/19/items/fugees-fu-gee-la/Fu-Gee-La/cover.jpg?cnt=0">
+
+    <figcaption>Fu-Gee-La : The Fugees
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/fugees-fu-gee-la/Fu-Gee-La/01-Fu-Gee-La%20%28Album%20Version%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://i.discogs.com/VT5O9kwbZBH05HsfqXEtbsdNyMWVDxeuJ4a2JvZhtOc/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTY0/NzctMTYzNzkxNzI3/Mi05Mzc5LmpwZWc.jpeg">
+
+    <figcaption>Tribe Call Quest : The Low End Theory - Show Bizness
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/atcqthelowendtheory/The%20Low%20End%20Theory/06-Show%20Business.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://archive.org/download/camp-lo-luchini-aka-this-is-it/Luchini%20Aka%20(This%20Is%20It)/a.jpg">
+
+    <figcaption>Camp_Lo Swing
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/camp-lo-luchini-aka-this-is-it/Luchini%20Aka%20%28This%20Is%20It%29/02-Swing%20%28Radio%20Edit%29%20%28Ft.%20Ish%20Aka%20Butterfly%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://archive.org/download/prince-paul-a-prince-among-thieves/A%20Prince%20Among%20Thieves/a.jpg">
+
+    <figcaption>A Prince Among Thieves
+      by Prince Paul
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/prince-paul-a-prince-among-thieves/A%20Prince%20Among%20Thieves/22-More%20Than%20U%20Know%20%28Ft.%20De%20La%20Soul%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://m.media-amazon.com/images/I/91kzMX+zHPL._UF1000,1000_QL80_.jpg">
+
+    <figcaption>Q-Tip, Tash & Mos Def – Body Rock
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/mos-def-body-rock/Body%20Rock/03-Body%20Rock%20%28Street%29%20%28Ft.%20Q-Tip%20%26%20Tash%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://archive.org/download/super-cat-don-dada/Don%20Dada/a.jpg">
+
+    <figcaption>Supa Cat: Nuff Man E Dead
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/super-cat-don-dada/Don%20Dada/10-Nuff%20Man%20A%20Dead.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://ia601509.us.archive.org/31/items/outkast-stankonia/Stankonia/cover.jpg?cnt=0">
+
+    <figcaption>OutKast ft Gangstaboo ill call b4 iCum
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/outkast-stankonia/Stankonia/10-I%27ll%20Call%20B4%20I%20Cum%20%28Ft.%20Gangsta%20Boo%20%26%20Eco%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdibGhpeWY2eWN5cmpweDE2N2h0aGR4bmM5bXQya2J3Y2d5N2cwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6MbaH9LYlaVpHWBa/giphy.webp">
+
+    <figcaption>Try Again by Aaliyah
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/aaliyah-2001/Aaliyah/15-Try%20Again.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://images.genius.com/c7e784a2c7b31686c16fcd36431574f8.929x929x1.jpg">
+
+    <figcaption>Verbal Intercourse
+      Song by Ghostface Killah, Nas, and Raekwon
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/raekwon-only-built-4-cuban-linx-album/Album/12-Verbal%20Intercourse%20%28Ft.%20Nas%20%26%20Ghostface%20Killah%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+  <figure class=" track">
+    <IMG src="https://images.genius.com/7744f0768629d8a143c0c7c80654c893.1000x1000x1.jpg">
+
+    <figcaption>Black Sheep - Flavor Of The Month</figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/black-sheep-a-wolf-in-a-sheeps-clothing/A%20Wolf%20In%20Sheep%27s%20Clothing/11-Flavor%20Of%20The%20Month.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://upload.wikimedia.org/wikipedia/en/c/c6/Outkast-atliens.jpg">
+
+    <figcaption>OutKast - Mainstream</figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/outkast-atliens/Album/10-Mainstream%20%28Ft.%20T-Mo%20%26%20Khujo%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+</div>
+    <img src="https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg" />
+<img src="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg" />
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2UafeQIkj5c?si=mkc8Jrkmk-6J_LAB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/u4nTUDxE2c">https://t.co/u4nTUDxE2c</a> <a href="https://twitter.com/hashtag/Dear_KASHDOLL?src=hash&amp;ref_src=twsrc%5Etfw">#Dear_KASHDOLL</a> if u wanna understand my summer in nyc listen to this full album when u can concentrate on the structure&amp;how advanced it was i was leaning <a href="https://twitter.com/hashtag/Windows?src=hash&amp;ref_src=twsrc%5Etfw">#Windows</a> and <a href="https://twitter.com/CompTIA?ref_src=twsrc%5Etfw">@CompTIA</a> <a href="https://twitter.com/hashtag/ComputerRepair?src=hash&amp;ref_src=twsrc%5Etfw">#ComputerRepair</a> <a href="https://twitter.com/hashtag/EDM?src=hash&amp;ref_src=twsrc%5Etfw">#EDM</a> <a href="https://twitter.com/hashtag/HipHop50?src=hash&amp;ref_src=twsrc%5Etfw">#HipHop50</a> if i was <a href="https://twitter.com/TatscruStudio?ref_src=twsrc%5Etfw">@TatscruStudio</a> <a href="https://twitter.com/hashtag/jammin?src=hash&amp;ref_src=twsrc%5Etfw">#jammin</a> i impacted u 1999 <a href="https://t.co/JYp4xouQPy">pic.twitter.com/JYp4xouQPy</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1718404075010826330?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <a href=""https://soundcloud.com/bonobo/bambro-koyo-ganda-feat-innov-gnawa?in=bonobo/sets/bambro-koyo-ganda-1&si=53491a76f5f344f0adb8b82389b3e49a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" >CORAL_L5P~>#Braids</a>
