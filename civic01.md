@@ -1,10 +1,36 @@
-<div class="strawberry swatch">
+<div class="viking">
         <div></div>
         <div></div>
         <div></div>
         <div></div>
         <div></div>
       </div>
+
+
+### Metro LosAngeles 
+Please play with this map we made of the surface of mars! [NASAJPL/CalTech/MurrayLabs](https://murray-lab.caltech.edu/)
+
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+I shared with [[developer.metroGIS Data\]](https://developer.metro.net/) with Mission Control. Alot of us have problems with the bus, this is the thing its like the [Pentagon](https://www.defense.gov/Pentagon-Tours/) and since our role is to keep America safe without spilling blood its not common to pay fare! I am also in a domestic dispute with LocalPorn and Prostitution bc my wife vanished and she is here sold as a sex slave often under various aliases. Since [Allied Universal](https://www.securityinfowatch.com/security-executives/protective-operations-guard-services/press-release/53099143/allied-universal-bmo-stadium-selects-allied-universal-as-preferred-event-services-provider) protect them from sex criminals when they do work for BET they dont take into mind what the impact is [when they are being sold for sex in front of me](https://www.youtube.com/watch?v=xqE9nz-h5Qo)... The slick backs and some of the braiding stlyes indicate some of the ppl are in her life at least as a [fan](https://www.youtube.com/watch?v=K_3neT-KRRg). And since im a hardworking husband staying afloat by being healthy there is big friction because of the sexuality attached to [striptease](https://youtu.be/l7YnIzIxgPQ?si=zowxHN4vh6Q4yeE_) but if you play with the globe, understand, I need to ride the metro but the security forces have locked me out of everything based on [local porn gossip](https://youtu.be/uOq9PHp7MTo?si=Cff-Phiw3PeTjNvb)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UQfWY-vWy_s?si=G6T39KStP7-Q-fSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
+> there were civil suits and it actually
+resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
+that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4)
+
+
+
+[![Hackers_Journalist](https://pbs.twimg.com/media/GO3R9FXbsAA2BgP?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+
+[![Threats](https://pbs.twimg.com/media/GO3T_1fa8AAT_mY?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
 
 
 [Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
