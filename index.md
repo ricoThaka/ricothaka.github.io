@@ -1754,5 +1754,5 @@ We emphasize transparency both in how the mosaic was generated and for users to 
     <div></div>
   
   </div>
-
+![Coral](https://pbs.twimg.com/media/GO8ICQAakAA2mCh?format=jpg&name=medium)
 ![NormaniMyWifeVanessa](https://pbs.twimg.com/media/GP0a8R9agAAN84K?format=jpg&name=4096x4096)
