@@ -144,19 +144,19 @@ html {
 			to left,
 			transparent,
 			transparent 54px,
-			rgb(255, 255, 255 / 1.0) 55px,
-			rgb(255, 255, 255 / 1.0) 55px
+			black 55px,
+			black 55px
 		),
 		repeating-linear-gradient(
 			to bottom,
 			transparent,
 			transparent 54px,
-			rgb(255, 255, 255 / 1.0) 55px,
-			rgb(255, 255, 255 / 1.0) 55px
+			grey 55px,
+			grey 55px
 		),
 		linear-gradient(45deg, grey, black);
 	box-shadow: 10px 10px 20px grey;
-  background-attachment: fixed;
+	background-attachment:fixed;
 }
 
 h1,
