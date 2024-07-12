@@ -32,6 +32,7 @@ You mean to tell me this wasn't love?"
   
     
 <div class="playlist">
+
   <figure class=" track">
     <IMG src="https://ia804607.us.archive.org/4/items/snoop-lion-reincarnated-2013/Snoop%20Lion/Reincarnated/cover.jpg?cnt=0">
 
@@ -42,6 +43,28 @@ You mean to tell me this wasn't love?"
       Your browser dose not Support the audio Tag
     </audio>
   </figure>
+<figure class=" track">
+    <IMG src="https://i.discogs.com/JBP5x6QqVHFpzLsvrAwkSr2OBihxpjcrgQwbi7MacCw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTM5/MjU3LTE2ODQ2NjAw/NjktNzcyMS5qcGVn.jpeg">
+
+    <figcaption>SZA - Too Late
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/sza-sos/SOS/17-Too%20Late.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://i1.sndcdn.com/artworks-Da8aLAjFA6KEY6z4-biSzMw-t500x500.jpg">
+
+    <figcaption>Megan Thee Stallion feat Latto - Budget
+    </figcaption>
+    <audio controls loop>
+      <source src="https://ia601406.us.archive.org/11/items/cover-1_202208/04.%20Budget%20%28feat.%20Latto%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
 
   <figure class=" track">
     <iframe src="https://archive.org/embed/ranma-1-2-subtitled-edition-vhs" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
