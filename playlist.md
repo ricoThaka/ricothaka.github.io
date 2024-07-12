@@ -33,6 +33,24 @@ You mean to tell me this wasn't love?"
     
 <div class="playlist">
   <figure class=" track">
+    <IMG src="https://ia804607.us.archive.org/4/items/snoop-lion-reincarnated-2013/Snoop%20Lion/Reincarnated/cover.jpg?cnt=0">
+
+    <figcaption>07-Fruit Juice (Ft. Mr. Vegas).mp3
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/snoop-lion-reincarnated-2013/Snoop%20Lion/Reincarnated/07-Fruit%20Juice%20%28Ft.%20Mr.%20Vegas%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <iframe src="https://archive.org/embed/ranma-1-2-subtitled-edition-vhs" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+    <figcaption>ranma
+    </figcaption>
+
+  </figure>
+  <figure class=" track">
     <IMG src="https://archive.org/download/2pac-the-don-killuminati-the-7-day-theory-enhanced-cd-rip-1411-wav/Cover%20Enhanced%20CD.jpeg">
 
     <figcaption>2pac The Don : White ManZ World

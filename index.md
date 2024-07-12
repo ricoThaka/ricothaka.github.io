@@ -146,7 +146,7 @@ by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retro
 
 
 
-{% include_relative playlist.md %}
+
 
 [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7)  
 
