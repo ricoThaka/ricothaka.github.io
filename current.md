@@ -1,4 +1,4 @@
-
+# Currently Compiling
 
 ![Normani injured ?](https://cdn-p.smehost.net/sites/5b3bac59eb36401694af3a241173447f/wp-content/uploads/2024/06/Normani-imagen.jpeg)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/am9C2_DZ7s4?si=AiQIWZopsk5ZEKlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -6,7 +6,7 @@
 ![n00012813](https://solarsystem.nasa.gov/images/casJPGFullC43/N00012813.jpg)
 N00012813.jpg was taken on 2004-02-19 18:59 (PST) and received on Earth 2004-02-21 17:06 (PST). The camera was pointing toward Saturn, and the image was taken using the CL1 and MT2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System
 [Pryors Place](https://youtube.com/playlist?list=PLJC-pZxs0HrunzHxx2UMkfZYi4s1hIkIH&si=M8sG2PGSSHzJnPHM)
-[Richard Pryor Live on the Sunset Stip (audio)](https://youtu.be/-u5mwcMgh0Q?si=q4Ou_ZPbjP6EeFI2) [FiLES](https://archive.org/download/CM0916) [Richard Pryor Makes Emotional Return After Setting Himself on Fire | Carson Tonight Show](https://youtu.be/GQk2PteVpkY?si=YLov0T6GCT4byTNm)
+[Richard Pryor Live on the Sunset Stip (audio)](https://youtu.be/-u5mwcMgh0Q?si=q4Ou_ZPbjP6EeFI2) [FiLES](https://archive.org/download/CM0916) [Richard Pryor Makes Emotional Return After Setting Himself on Fire | Carson Tonight Show](https://youtu.be/GQk2PteVpkY?si=YLov0T6GCT4byTNm) [Richard Pryor on DVD](https://archive.org/details/pryor_202009)
 
 
 
