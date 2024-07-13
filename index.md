@@ -331,27 +331,11 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 </div>   
 
 
-[![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
-[![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
-[![MurrayLabs](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large)](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large "Redirect to homepage")
-[![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
-<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
-    </object>
 
 [Electronic Gaming Monthly 58](https://archive.org/details/Electronic_Gaming_Monthly_58)
 [GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993)
 [GamePro Issue 056 March 1994 NBAJAM(s)](https://archive.org/details/GamePro_Issue_056_March_1994)
-### [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
 
-The Bruce Murray Laboratory for Planetary Visualization has completed a 5.7 terapixel mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
-
-We emphasize transparency both in how the mosaic was generated and for users to understand where data in the mosaic come from. We have developed a Python-based pipeline that incorporates non-destructive image processing techniques that preserve all information about the original data that comprise the mosaic and map all seams.. [LearnMore](https://murray-lab.caltech.edu/CTX/index.html)
-![MarsSpaceFlight](https://mars.asu.edu/img/msff-logo.png)
-[Mars:SpaceFlightFacility](https://mars.asu.edu/) [Themis Mars Imageviewer](https://viewer.mars.asu.edu/viewer/themis#T=0) [Themis MArs Odyssey](https://global-data.mars.asu.edu/bin/themis.pl?res=32&clat=-51.956467&clon=34.130493&ids=I18584006&day_night=2&rel=0)
-
-### [Thermal Emission Imaging System](https://en.wikipedia.org/wiki/Thermal_Emission_Imaging_System)
-![THEMiS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tesvsthemis-med.jpg/1024px-Tesvsthemis-med.jpg)
-[The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
 
 # [Fine Ho, Stay](https://www.rcarecords.com/news/flo-milli-announces-new-album-fine-ho-stay/)
 [![FloMilli](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png)](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png "Redirect to homepage")

@@ -1,3 +1,10 @@
+## Computer Doc/Movie collection
+
+<iframe src="https://archive.org/embed/ComputerHackingDocumentriesMegaCollection" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Files for ComputerHackingDocumentriesMegaCollection](https://archive.org/download/ComputerHackingDocumentriesMegaCollection)
+---
+
 ### The Red Planet Mars
 An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
 <video controls 
