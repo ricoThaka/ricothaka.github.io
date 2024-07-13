@@ -577,14 +577,15 @@ hr {
 
 a:hover,
 a:visited a:hover {
-  font-size: 140%;
-  color:#b5e853 ;
-  
+  font-size: 130%;
+  color:#0dd9c4 ;
+  ;
 
 }
 
 a {
-  color: #3df28b;
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 
   transition: all .2s ease-out;
 
