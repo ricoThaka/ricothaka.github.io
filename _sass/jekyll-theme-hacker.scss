@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Silkscreen:wght@400;700&family=Trade+Winds&display=swap");
+
+
 html,
 body,
 div,
@@ -134,29 +138,29 @@ table {
 * {
   box-sizing: border-box;
 }
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Silkscreen:wght@400;700&family=Trade+Winds&display=swap");
+
 
 html {
-	font: normal 10px/18px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
+  font: normal 10px/18px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
     sans-serif;
   background: repeating-linear-gradient(
-			to left,
-			transparent,
-			transparent 54px,
-			black 55px,
-			black 55px
-		),
-		repeating-linear-gradient(
-			to bottom,
-			transparent,
-			transparent 54px,
-			grey 55px,
-			grey 55px
-		),
-		linear-gradient(45deg, grey, black);
-	
-	background-attachment:fixed;
+      to left,
+      transparent,
+      transparent 54px,
+      black 55px,
+      black 55px
+    ),
+    repeating-linear-gradient(
+      to bottom,
+      transparent,
+      transparent 54px,
+      grey 55px,
+      grey 55px
+    ),
+    linear-gradient(45deg, grey, black);
+  font-size:120%;
+
+  background-attachment:fixed;
 }
 
 h1,
@@ -174,20 +178,21 @@ h4 {
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
 body {
-  text-shadow: 0 0 8px #ffffff;
-  font-size: 140%;
+  /* seems resource heavy text-shadow: 0 0 11px #ffffff;
+  */
   color: white;
 
 }
 
 p {
   display: block;
-  padding: 2%;
+  padding: 0 0 0 2%;
   text-align: left;
   color: white;
-  background: rgb(2,0,36);
-  background: linear-gradient(90deg, rgba(2,0,36,0.654499299719888) 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%);
-  font-size:120%;
+  background: black;
+  background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%);
+  border-right: 1px solid grey;
+  border-left: 1px solid darkgrey;
 }
 ::selection {
   color: #aaff00;
@@ -195,7 +200,7 @@ p {
 }
 
 p::first-letter {
-  font-size: 2em;
+  font-size: 1.2em;
   font-weight: bold;
     color: cyan;
 }
@@ -220,14 +225,12 @@ p:first-of-type {
   width: 55vw;
   height: 99vh;
   margin: auto;
+  
 
 }
 #content {
-  
-  height: 100%;
-  width: 100%;
-    font-family: "VT323", monospace;
- 
+
+
 }
 /*
 #heading {
@@ -414,6 +417,7 @@ ul li {
 blockquote {
   color: aqua;
   padding-left: 10px;
+  margin-right:10px;
   border-left: 1px dotted yellow;
 }
 
@@ -555,21 +559,36 @@ hr {
 
 /* Buttons
 */
-
+.gullies div:nth-child(1) {
+  background: #3029f2;
+}
+.gullies div:nth-child(2) {
+  background: ;
+}
+.gullies div:nth-child(3) {
+  background: #3029f2;
+}
+.gullies div:nth-child(4) {
+  background: #0dd9c4;
+}
+.gullies div:nth-child(5) {
+  background: #3df28b;
+}
 
 a:hover,
 a:visited a:hover {
   font-size: 140%;
-  color: #c9ff23;
-  
+  color:#b5e853 ;
+  ;
+
 }
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  color: #3df28b;
+
   transition: all .2s ease-out;
- 
-  
+
+
 }
 
 video {
@@ -672,8 +691,8 @@ embed {
   /* flex-flow: row nowrap; */
   flex-direction: row;
   flex-wrap: nowrap;
-   
-  
+
+
   justify-content: center;
   align-content: stretch;
   display: grid;
@@ -681,16 +700,16 @@ embed {
 }
 
 .flex-container > div {
-  
-  
-  
+
+
+
 }
 
 .flex-container > img {
   object-fit: contain;
   max-width: 100%;
   border: 1px solid #c9ff23;
- 
+
 }
 
 :root {
@@ -854,7 +873,7 @@ embed {
 
   display: flex;
   flex-wrap: wrap;
-  
+
   height: 5%;
   max-width: max-content;
 }
