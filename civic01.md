@@ -7,6 +7,8 @@
       </div>
 
 
+
+https://youtube.com/playlist?list=PLJC-pZxs0HrunzHxx2UMkfZYi4s1hIkIH&si=M8sG2PGSSHzJnPHM
 ![attack on metro](https://pbs.twimg.com/media/GSJPBzKbIAAFflY?format=jpg&name=large)
 
 ![Karen wins Mayor of LA Election](https://cdn.kqed.org/wp-content/uploads/sites/10/2022/11/GettyImages-1244810051-scaled.jpg)
