@@ -21,8 +21,15 @@ An American scientist is able to contact and communicate with Mars with shatteri
 [Street Fighter II V (Includes ADV dub)](https://archive.org/details/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107)
 [Street Fighter: The Animated Series 1-26](https://archive.org/details/18FaceOfFury)
 [Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
+<video controls 
+  src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4"
+  poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
 
-![StreetFighterOnLaserDisc](https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp)
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 <div class="pinupImage expandingGallery">
 <img src="https://i.ebayimg.com/images/g/45sAAOSwl8NkWpYB/s-l1600.webp" />
 <img src="https://i.ebayimg.com/images/g/liYAAOSwKUNkWpYC/s-l960.webp" />
@@ -40,7 +47,7 @@ An American scientist is able to contact and communicate with Mars with shatteri
 <img src="https://pbs.twimg.com/media/GO7v9QDaAAED8Vq?format=jpg&name=large" />
 <a href="https://thetshirtlady.com/wp-content/uploads/2023/05/TTSLSon-768x398.png"> 
 
-[Pilot Episode | I, Darrin, Take This Witch, Samantha | S1E1 | Bewitched](https://youtu.be/oB_vXlgcCpw?si=O_TWnWDvSjS7-kYS)
+[Bewitched Pilot Episode I, Darrin, Take This Witch, Samantha  S1E1  ](https://youtu.be/oB_vXlgcCpw?si=O_TWnWDvSjS7-kYS)
 
 ### Divide and Conquer (film)
 [Divide and Conquer (1943)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm) is the third film of Frank Capra's Why We Fight propaganda film series and deals with the Nazi conquest of Western Europe in 1940. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_Conquer_(film))
