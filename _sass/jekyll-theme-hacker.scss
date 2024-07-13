@@ -559,21 +559,6 @@ hr {
 
 /* Buttons
 */
-.gullies div:nth-child(1) {
-  background: #3029f2;
-}
-.gullies div:nth-child(2) {
-  background: ;
-}
-.gullies div:nth-child(3) {
-  background: #3029f2;
-}
-.gullies div:nth-child(4) {
-  background: #0dd9c4;
-}
-.gullies div:nth-child(5) {
-  background: #3df28b;
-}
 
 a:hover,
 a:visited a:hover {
@@ -5085,8 +5070,7 @@ border-radius: 0.3em;
 -moz-transition:all 0.5s linear;
 -o-transition:all 0.5s linear;
 transition:all 0.5s linear;
-  box-shadow: 0 0 0 1px hsla(0,9%,1%,.3) outset
-              0 .5em 1em rgba(0, 0, 0, 0.1);
+
 
 }
 
