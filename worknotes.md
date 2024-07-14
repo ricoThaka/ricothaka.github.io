@@ -8,6 +8,10 @@
 
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
+
+# Dear_Metro
+I had a conversation with a passenger visiting an observatory. [NASAJPL](https://www.jpl.nasa.gov/missions/psyche) that was rashard, i forgot were they were heading but he recognized me!
+
 Is this a part of my job ? [ImageAclibration](https://solarsystem.nasa.gov/images/casJPGBrowseS86/N00231855.jpg)
 ```
 The camera was pointing toward LOGE, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System.
