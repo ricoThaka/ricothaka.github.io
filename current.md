@@ -1,5 +1,7 @@
 # Currently Compiling
 
+![Normani injured ?](https://cdn-p.smehost.net/sites/5b3bac59eb36401694af3a241173447f/wp-content/uploads/2024/06/Normani-imagen.jpeg)
+![itsRashardakaThaka](https://pbs.twimg.com/media/GIMFh1zbsAAv2WF?format=jpg&name=large)
 
 ![JW](https://pbs.twimg.com/media/GHNk9LkbsAAL-QD?format=jpg&name=large)
 ![gallery code](https://pbs.twimg.com/media/GJzIHYAasAA-d_o?format=jpg&name=large)
@@ -7,9 +9,10 @@
 ![Moon is next](https://pbs.twimg.com/media/GHXZxEJaYAAJjmm?format=jpg&name=large)
 [B-Rock & The Business Boyz "Hump 2 Da Sound" (1994)](https://www.youtube.com/watch?v=r_8xuSG01r0) [DG Yola Fea. Goodie Mob "Get Some Of Dat Yola"](https://www.youtube.com/watch?v=Rc1v8zcNhpI) [Normani - Still (Audio)](https://youtu.be/Shz79-CRyzc?si=3Af7_YgLyLKD59g9) [Pilot Episode | I, Darrin, Take This Witch, Samantha | S1E1 | Bewitched](https://youtu.be/oB_vXlgcCpw?si=O_TWnWDvSjS7-kYS) [Beenie Man, Mya - Girls Dem Sugar](https://youtu.be/sW_ePQRvrKI?si=4GAjeKLsolYJyoi_) [Super Cat - Ghetto Red Hot](https://youtu.be/KS6bVTYRh-w?si=CJlbSiWH8j60YBnB) [Let Him Go - BeenieMan](https://www.youtube.com/watch?v=eajzyXw1uuQ) [Patra - Queen of the Pack](https://youtu.be/Zxnlhy8c_ys?si=idorK_T35uzZvD7p)
 ![decatur](https://pbs.twimg.com/media/GIMGoD5asAAoBS-?format=jpg&name=large)
-![itsRashardakaThaka](https://pbs.twimg.com/media/GIMFh1zbsAAv2WF?format=jpg&name=large)
+
 ![ArtOfGettingOver](https://pbs.twimg.com/media/GLoOf-eacAAjRgj?format=jpg&name=large)
-![Normani injured ?](https://cdn-p.smehost.net/sites/5b3bac59eb36401694af3a241173447f/wp-content/uploads/2024/06/Normani-imagen.jpeg)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/am9C2_DZ7s4?si=AiQIWZopsk5ZEKlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![n00012813](https://solarsystem.nasa.gov/images/casJPGFullC43/N00012813.jpg)
