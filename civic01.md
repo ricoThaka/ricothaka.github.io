@@ -9,6 +9,13 @@
 
 
 
+
+
+![atlanta counties modeling urban growth](https://weather.ndc.nasa.gov/applied_science/urban_app1.jpg)
+[Centers for Disease Control and Prevention HELIX-Atlanta Project](https://weather.ndc.nasa.gov/applied_science/helix.html) [Modeling Urban Growth Atlanta Georgia](https://weather.ndc.nasa.gov/applied_science/urban_application.html)
+
+![atlanta](https://weather.ndc.nasa.gov/applied_science/animation.gif)
+
 ![SARS Patent](https://pbs.twimg.com/media/GLJtC2iaoAAspTD?format=jpg&name=large)
 
 ![LARiver](https://pbs.twimg.com/media/GMiK2zPacAABcJH?format=jpg&name=medium)
