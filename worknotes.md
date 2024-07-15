@@ -15,6 +15,7 @@ I was in the Meyer goldwyn branc and found these pages in the County Municipal .
 
 
 ![Mayor is Chief Executive](https://pbs.twimg.com/media/GGk_-sAbEAAzy6b?format=png&name=900x900)
+![Mayoral Duties](https://pbs.twimg.com/media/GGlAAJXacAAKuq7?format=jpg&name=medium)
 ![mayor](https://pbs.twimg.com/media/GGk_9YfbcAAfHg_?format=jpg&name=medium)
 
 
