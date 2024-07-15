@@ -11,7 +11,7 @@
 twitter status `You are over the daily limit for sending posts.` https://x.com/RicoThaka [i always feel like - TRU](https://youtu.be/8zr-v8RWQ1U?si=8kgARcG2KJCHFZgt)
 
 ### Dear Rep Karen,
-I was in the Meyer goldwyn branc and found these pages in the County Municipal ... Of your powers [RelatedTweet](https://x.com/BubbleGumPop510/status/1759007658462548349)
+I was in the Meyer goldwyn branc and found these pages in the County Municipal ... Of your powers [RelatedTweet](https://x.com/BubbleGumPop510/status/1759007658462548349) [Private security to patrol downtown Long Beach streets](https://youtu.be/5YrQ7fiNF9I?si=KJw2o841ifoP6Pe_)
 
 
 ![Mayor is Chief Executive](https://pbs.twimg.com/media/GGk_-sAbEAAzy6b?format=png&name=900x900)
@@ -27,7 +27,7 @@ I was in the Meyer goldwyn branc and found these pages in the County Municipal .
 
 
 ![Mike Childs Atlanta](https://pbs.twimg.com/media/GGerStDbQAAsS02?format=jpg&name=4096x4096)
-
+![security](https://pbs.twimg.com/media/GGQkcvAa4AAMadc?format=png&name=small)
 
 ![cv](https://pbs.twimg.com/media/GGevoZ5bYAA2hHL?format=jpg&name=medium)
 [VSCO LOS ANGELES COViD19 PHOTOS](https://vsco.co/rashardsartu/gallery)
