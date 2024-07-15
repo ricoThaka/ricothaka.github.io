@@ -9,7 +9,8 @@
 
 
 
-
+![Foster Care](https://pbs.twimg.com/media/GHTCRk-bUAA3WkK?format=jpg&name=large) FOSTER CARE INVESTIGATION: NCMEC Finds That 410 Children Reported Missing from DFCS Care in 5-Year Period Were Likely Victims of Child Sex Trafficking
+![Jon Ossoff](https://www.ossoff.senate.gov/wp-content/uploads/2021/06/JonOssoff-white.svg)
 
 ![atlanta counties modeling urban growth](https://weather.ndc.nasa.gov/applied_science/urban_app1.jpg)
 [Centers for Disease Control and Prevention HELIX-Atlanta Project](https://weather.ndc.nasa.gov/applied_science/helix.html) [Modeling Urban Growth Atlanta Georgia](https://weather.ndc.nasa.gov/applied_science/urban_application.html)
