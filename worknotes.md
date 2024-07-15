@@ -13,6 +13,8 @@
 ### Dear Rep Karen,
 I was in the Meyer goldwyn branc and found these pages in the County Municipal ... Of your powers 
 
+
+![Mayor is Chief Executive](https://pbs.twimg.com/media/GGk_-sAbEAAzy6b?format=png&name=900x900)
 ![mayor](https://pbs.twimg.com/media/GGk_9YfbcAAfHg_?format=jpg&name=medium)
 
 
