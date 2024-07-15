@@ -15,7 +15,8 @@ by Patt Morrison / photographs by Mark Lamonica / forewords by Julia Meltzer and
 Río L.A. Tales from the Los Angeles River poetically recounts, in dramatic words and even-more dramatic pictures, the history and lore of the once under-appreciated Los Angeles River. With attention focussed on the humble waterway by people and organizations throughout the country, the Los Angeles River is once again emerging as the heart of the region.
 
 When Río L.A. was first published at the beginning of the millennium, few people even regarded the river, but aided by Morrison’s and Lamonica’s bestselling book, the Los Angeles River was rediscovered and has become the center of the county’s master plan to reestablish the river as the heart of the city...[Buy_here](https://www.angelcitypress.com/products/lar2) [related tweet](https://x.com/RicoThaka/status/1785830607354040693)
-
+![SABER MSK AWR](https://pbs.twimg.com/media/GMiLWK-bYAAt1r9?format=png&name=900x900
+)
 https://youtube.com/playlist?list=PLJC-pZxs0HrunzHxx2UMkfZYi4s1hIkIH&si=M8sG2PGSSHzJnPHM
 ![attack on metro](https://pbs.twimg.com/media/GSJPBzKbIAAFflY?format=jpg&name=large)
 
