@@ -7,7 +7,11 @@
 ![Normani injured ?](https://cdn-p.smehost.net/sites/5b3bac59eb36401694af3a241173447f/wp-content/uploads/2024/06/Normani-imagen.jpeg)
 ![normani?](https://pbs.twimg.com/media/GG5PcOMbYAAbl4G?format=jpg&name=large)
 [Dial M For Murder 1954, Hitchcock](https://archive.org/download/dial.-m.-for.-murder.-1954.720p.-br-rip.x-264.-yify)
+
 <iframe src="https://archive.org/embed/dial.-m.-for.-murder.-1954.720p.-br-rip.x-264.-yify" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![instagram](https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small)
+
 ![itsRashardakaThaka](https://pbs.twimg.com/media/GIMFh1zbsAAv2WF?format=jpg&name=large)
 ![Amnija](https://pbs.twimg.com/media/GG0_nmMaMAAAuzR?format=jpg&name=large)
 ![JW](https://pbs.twimg.com/media/GHNk9LkbsAAL-QD?format=jpg&name=large)
