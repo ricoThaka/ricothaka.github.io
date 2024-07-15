@@ -11,7 +11,7 @@
 
 
 ### Dear Rep Karen,
-I was in the Meyer goldwyn branc and found these pages in the County Municipal ... Of your powers 
+I was in the Meyer goldwyn branc and found these pages in the County Municipal ... Of your powers [RelatedTweet](https://x.com/BubbleGumPop510/status/1759007658462548349)
 
 
 ![Mayor is Chief Executive](https://pbs.twimg.com/media/GGk_-sAbEAAzy6b?format=png&name=900x900)
