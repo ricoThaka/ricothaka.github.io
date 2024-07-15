@@ -1,6 +1,7 @@
 # Currently Compiling
 
 ![Normani injured ?](https://cdn-p.smehost.net/sites/5b3bac59eb36401694af3a241173447f/wp-content/uploads/2024/06/Normani-imagen.jpeg)
+![normani?](https://pbs.twimg.com/media/GG5PcOMbYAAbl4G?format=jpg&name=large)
 ![itsRashardakaThaka](https://pbs.twimg.com/media/GIMFh1zbsAAv2WF?format=jpg&name=large)
 ![Amnija](https://pbs.twimg.com/media/GG0_nmMaMAAAuzR?format=jpg&name=large)
 ![JW](https://pbs.twimg.com/media/GHNk9LkbsAAL-QD?format=jpg&name=large)
