@@ -1,5 +1,9 @@
 # Currently Compiling
 
+
+
+![Santa Monica](https://pbs.twimg.com/media/GGlEm4TaUAAba7e?format=png&name=900x900)
+[VSCO LOS ANGELES COViD19 PHOTOS](https://vsco.co/rashardsartu/gallery)
 ![Normani injured ?](https://cdn-p.smehost.net/sites/5b3bac59eb36401694af3a241173447f/wp-content/uploads/2024/06/Normani-imagen.jpeg)
 ![normani?](https://pbs.twimg.com/media/GG5PcOMbYAAbl4G?format=jpg&name=large)
 [Dial M For Murder 1954, Hitchcock](https://archive.org/download/dial.-m.-for.-murder.-1954.720p.-br-rip.x-264.-yify)

@@ -19,6 +19,8 @@ I was in the Meyer goldwyn branc and found these pages in the County Municipal .
 ![mayor](https://pbs.twimg.com/media/GGk_9YfbcAAfHg_?format=jpg&name=medium)
 
 
+[VSCO LOS ANGELES COViD19 PHOTOS](https://vsco.co/rashardsartu/gallery)
+![Santa Monica](https://pbs.twimg.com/media/GGlEm4TaUAAba7e?format=png&name=900x900)
 
 ![nasa](https://pbs.twimg.com/media/GG00UnjboAEi1vg?format=png&name=small)
 [![FloMilli Rashard Kelly](https://pbs.twimg.com/media/GHDn_XsbIAApHq5?format=jpg&name=medium)](https://ricothaka.github.io/cv/ "Redirect to homepage")
