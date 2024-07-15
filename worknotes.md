@@ -27,6 +27,9 @@ I was in the Meyer goldwyn branc and found these pages in the County Municipal .
 
 
 ![Mike Childs Atlanta](https://pbs.twimg.com/media/GGerStDbQAAsS02?format=jpg&name=4096x4096)
+
+
+![cv](https://pbs.twimg.com/media/GGevoZ5bYAA2hHL?format=jpg&name=medium)
 [VSCO LOS ANGELES COViD19 PHOTOS](https://vsco.co/rashardsartu/gallery)
 ![Santa Monica](https://pbs.twimg.com/media/GGlEm4TaUAAba7e?format=png&name=900x900)
 
