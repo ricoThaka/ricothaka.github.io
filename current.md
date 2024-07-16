@@ -1,6 +1,29 @@
 # Currently Compiling
 
 
+
+![Graffiti](https://pbs.twimg.com/media/GIMEla9bEAAeKlZ?format=jpg&name=large)
+
+<img src="https://pbs.twimg.com/media/GIMEpczbsAAvCuT?format=jpg&name=large" />
+
+<img src="https://pbs.twimg.com/media/GIMEndkbYAAoMbq?format=jpg&name=large" alt="erika blackbook in tuscon" />
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://pbs.twimg.com/media/GIMDiaIa8AAebTk?format=jpg&name=large" alt="BUBBLEGUM_POP">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://pbs.twimg.com/media/GIMDjmAbcAAJvVy?format=jpg&name=large" alt="Corals Plant Science PRogect Goal Victory">
+
+  </div>
+  </div>
+  </div>
+</div>
+
+
 ![My Computer](https://pbs.twimg.com/media/GIMDGNkbUAAMRGy?format=jpg&name=large)
 ![iEsha Dennis of Oakland Berkeley](https://pbs.twimg.com/media/GIMCbOqa4AAIkTy?format=jpg&name=medium)
 <img src="https://pbs.twimg.com/media/GIMBvN0agAA0MXs?format=jpg&name=medium" alt="Erika Johnson 5755 Los Angeles St.">
