@@ -7,7 +7,7 @@
       </div>
 
 
-
+![thee stallion](https://pbs.twimg.com/media/GKWeY5racAAMfpF?format=jpg&name=small)
 ![Atlanta Money Laundering](https://pbs.twimg.com/media/GIfK2tDbkAEqCoc?format=jpg&name=large)
 Dozens charged in Atlanta-based money laundering operation that funneled $30 million in proceeds from computer fraud schemes, romance scams, and retirement account fraud [Justice dOt gov](https://www.justice.gov/usao-ndga/pr/dozens-charged-atlanta-based-money-laundering-operation-funneled-30-million-proceeds) [Name iT After Me - Juicy J](https://youtu.be/5eysL68IoTI?si=c-zZh3N-371PqsPt)
 ![LA_MAYOR](https://pbs.twimg.com/media/GH71RMEbwAA5_dw?format=jpg&name=medium)
