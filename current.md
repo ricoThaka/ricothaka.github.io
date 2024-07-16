@@ -1,7 +1,21 @@
 # Currently Compiling
 
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://pbs.twimg.com/media/GIL_6MPbEAAHsLH?format=jpg&name=large" alt="BUBBLEGUM_POP">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://pbs.twimg.com/media/GIL_458aYAAMQeX?format=jpg&name=large" alt="Girlinajacket">
 
+  </div>
+  </div>
+  </div>
+</div>
 
 
 <img src="https://pbs.twimg.com/media/GIL-nvwbIAA11Dp?format=jpg&name=medium" />
