@@ -8,6 +8,9 @@
 
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
+
+![Bsd](https://pbs.twimg.com/media/GIftoX7aEAAzk0I?format=jpg&name=large) Why you should use a BSD style license for your Open Source Project [EducatingMySelf](https://docs.freebsd.org/en/articles/bsdl-gpl/)
+
 ![Mars Ice Cap](https://pbs.twimg.com/media/GQ3Q770bwAciNKg?format=jpg&name=4096x4096)
 ![Marta](https://pbs.twimg.com/media/GIL9jEQaEAEemAw?format=jpg&name=medium)
 ![Marta](https://pbs.twimg.com/media/GIL9kLyboAAQSND?format=jpg&name=medium)
