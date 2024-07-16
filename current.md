@@ -1,5 +1,10 @@
 # Currently Compiling
 
+
+
+[Triple Six Mafia - Underground Vol.1 1991-1994](https://www.youtube.com/watch?v=NWlGhqHT5tM)
+![Bill cosby Playboy at night](https://pbs.twimg.com/media/GI5yWb7akAArdPh?format=jpg&name=large)
+<iframe src="https://archive.org/embed/playboy-after-dark-s01e03-1968-08-08" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ![xml](https://pbs.twimg.com/media/GIlEzEebQAACahw?format=jpg&name=large)
 ![Muna are you Nicki](https://pbs.twimg.com/media/GIRSAHbbEAASebu?format=jpg&name=small)
 ![East Atlanta](https://pbs.twimg.com/media/GIRSAYFaUAAFLZF?format=jpg&name=small)
