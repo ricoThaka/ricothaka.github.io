@@ -3,7 +3,7 @@
 
 ![Coral](https://pbs.twimg.com/media/GIL8-ZSaIAA0T31?format=jpg&name=medium)
 
-[Mario64](https://youtu.be/1uDQ8mTYUHQ?si=p0dQbBDu6WLgUyaQ)
+[Mario64](https://youtu.be/1uDQ8mTYUHQ?si=p0dQbBDu6WLgUyaQ) [OST](https://youtu.be/C5fwP6pYXtk?si=H-uzFb4KVa8zvdLq)
 
 <video controls autoplay
   src="https://archive.org/download/tumblr_rtylmxBjam1zhx4f1/tumblr_rtylmxBjam1zhx4f1.mp4"
