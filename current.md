@@ -1,6 +1,82 @@
 # Currently Compiling
 
 
+![Coral](https://pbs.twimg.com/media/GIL8-ZSaIAA0T31?format=jpg&name=medium)
+
+[Mario64](https://youtu.be/1uDQ8mTYUHQ?si=p0dQbBDu6WLgUyaQ)
+
+<video controls autoplay
+  src="https://archive.org/download/tumblr_rtylmxBjam1zhx4f1/tumblr_rtylmxBjam1zhx4f1.mp4"
+  poster="https://pbs.twimg.com/media/F7dh62nbYAA8wS0?format=jpg&name=medium">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/tumblr_rtylmxBjam1zhx4f1/tumblr_rtylmxBjam1zhx4f1.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+![RayMan](https://pbs.twimg.com/media/F7ZU0jJaoAAOnhp?format=jpg&name=medium)
+![android wheres my phone](https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium)
+![Termux](https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium)
+![BMX](https://pbs.twimg.com/media/F6UzcaRa0AEqcqk?format=jpg&name=medium)
+![santa monica](https://pbs.twimg.com/media/F6UzdBPbMAA3HCV?format=jpg&name=medium)
+![Hollywood](https://pbs.twimg.com/media/F6UzcrrbIAA53y-?format=jpg&name=medium)
+![thee stallion](https://pbs.twimg.com/media/GKWeY5racAAMfpF?format=jpg&name=small)
+![Atlanta Money Laundering](https://pbs.twimg.com/media/GIfK2tDbkAEqCoc?format=jpg&name=large)
+Dozens charged in Atlanta-based money laundering operation that funneled $30 million in proceeds from computer fraud schemes, romance scams, and retirement account fraud [Justice dOt gov](https://www.justice.gov/usao-ndga/pr/dozens-charged-atlanta-based-money-laundering-operation-funneled-30-million-proceeds) [Name iT After Me - Juicy J](https://youtu.be/5eysL68IoTI?si=c-zZh3N-371PqsPt)
+![LA_MAYOR](https://pbs.twimg.com/media/GH71RMEbwAA5_dw?format=jpg&name=medium)
+![Dekalb Juvinile Court](https://pbs.twimg.com/media/GH7xSg0awAAOXhv?format=jpg&name=large)
+![Foster Care](https://pbs.twimg.com/media/GHTCRk-bUAA3WkK?format=jpg&name=large) FOSTER CARE INVESTIGATION: NCMEC Finds That 410 Children Reported Missing from DFCS Care in 5-Year Period Were Likely Victims of Child Sex Trafficking
+![Jon Ossoff](https://www.ossoff.senate.gov/wp-content/uploads/2021/06/JonOssoff-white.svg)
+![I think this is coral iris kelly](https://pbs.twimg.com/media/GHTCyrVawAANCPt?format=jpg&name=900x900)
+![atlanta counties modeling urban growth](https://weather.ndc.nasa.gov/applied_science/urban_app1.jpg)
+[Centers for Disease Control and Prevention HELIX-Atlanta Project](https://weather.ndc.nasa.gov/applied_science/helix.html) [Modeling Urban Growth Atlanta Georgia](https://weather.ndc.nasa.gov/applied_science/urban_application.html)
+
+![atlanta](https://weather.ndc.nasa.gov/applied_science/animation.gif)
+
+![SARS Patent](https://pbs.twimg.com/media/GLJtC2iaoAAspTD?format=jpg&name=large)
+
+![LARiver](https://pbs.twimg.com/media/GMiK2zPacAABcJH?format=jpg&name=medium)
+
+### Río L.A.
+Tales from the Los Angeles River
+by Patt Morrison / photographs by Mark Lamonica / forewords by Julia Meltzer and Kevin Starr
+Río L.A. Tales from the Los Angeles River poetically recounts, in dramatic words and even-more dramatic pictures, the history and lore of the once under-appreciated Los Angeles River. With attention focussed on the humble waterway by people and organizations throughout the country, the Los Angeles River is once again emerging as the heart of the region.
+
+When Río L.A. was first published at the beginning of the millennium, few people even regarded the river, but aided by Morrison’s and Lamonica’s bestselling book, the Los Angeles River was rediscovered and has become the center of the county’s master plan to reestablish the river as the heart of the city...[Buy_here](https://www.angelcitypress.com/products/lar2) [related tweet](https://x.com/RicoThaka/status/1785830607354040693)
+
+![SABER MSK AWR](https://pbs.twimg.com/media/GMiLWK-bYAAt1r9?format=png&name=900x900)
+https://youtube.com/playlist?list=PLJC-pZxs0HrunzHxx2UMkfZYi4s1hIkIH&si=M8sG2PGSSHzJnPHM
+![attack on metro](https://pbs.twimg.com/media/GSJPBzKbIAAFflY?format=jpg&name=large)
+
+![Karen wins Mayor of LA Election](https://cdn.kqed.org/wp-content/uploads/sites/10/2022/11/GettyImages-1244810051-scaled.jpg)
+![Allied Universal](https://www.aus.com/sites/default/files/Allied%20Universal%20Tagline_1.png)
+
+
+
+# Dear MAyor ([Karen Bass](https://www.kqed.org/news/11932548/karen-bass-wins-la-mayoral-race))
+
+Hi, Its Rasahrd from NasaJpl the [YA](https://www.reddit.com/r/YAlit/comments/18xxv05/is_there_a_list_of_must_read_ya_books_especially/) Somali that takes short naps on the back portch of [city hall](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/). I am following your instructions in the [County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf)
+
+it reads 
+
+>This Guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County. Our goal is to provide tips that assist you to be self-sufficient after a disaster
+
+<img src= "https://lacounty.gov/wp-content/uploads/2022/03/Emerg.Survival.Guide_-232x300.jpg" alt="Emergency Survival Guide"
+         align="left" />
+
+[This guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County.](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/)
+
+Its hard to explin everything in one quick note. But basically I was in Atlanta and [My Wife Vanished](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) and i got destituted by ppl throwing me in the mental hospital a girl i was told was my cousin [Kelly Danielle](https://www.instagram.com/daniellekellybjj/p/Cdw9_9nsfEe/?img_index=1) Renee Williams daughter by Winfred. My daughter was taken and i cannot even get a cellphone. 
+
+I eat at [St_Francis](https://www.stfranciscenterla.org/) once a day and [Reality Church in Hollywood](https://realityla.com/) 5 days a week since i got suspended from [Long Beach's Billie Jean Library](https://www.longbeach.gov/library/locations/main-library/)... So i need you to look at this conversation. Its the kidnapper of my wife#2/3 [She is no longer you wife](https://vimeo.com/396000267)
+
+im always running from ppl bc she is in the entertainment industry. They have an infrastructure that cuts the girls off from contact outside a [Streaming Media Cult](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) 
+
+anyway last night [June 9th](https://www.amoeba.com/our-stores/store-news/469/the-2024-la-pride-parade-block-party-in-hollywood-sunday-june-9th-469/) a gaurd with [Allied Universal](https://ausnewsroom.aus.com/) The guy with scruffy hair. Hes white he called this South American Assasin and he cahsed me with a holstered gun and bullet proof [Tactical Vest](https://www.blackhawk.com/tactical-nylon/tactical-vests/) out of the [subway](https://ktla.com/news/local-news/pedestrian-suffers-major-injuries-after-being-hit-by-l-a-subway-train/) 
+
+[Sheriff Statement](https://ricothaka.github.io/dispositionforsherrif)
+[Sheriff Statement](https://thakarashard.github.io/dispositionforsherrif)
 
 ![Coi on mars?](https://pbs.twimg.com/media/GJ3y5jQbcAAsZHe?format=jpg&name=large)
 ![Normani saw may desin](https://pbs.twimg.com/media/GJ3ykrCaEAAn258?format=jpg&name=large)
