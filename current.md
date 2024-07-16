@@ -1,7 +1,7 @@
 # Currently Compiling
 
 
-
+![My Computer](https://pbs.twimg.com/media/GIMDGNkbUAAMRGy?format=jpg&name=large)
 ![iEsha Dennis of Oakland Berkeley](https://pbs.twimg.com/media/GIMCbOqa4AAIkTy?format=jpg&name=medium)
 <img src="https://pbs.twimg.com/media/GIMBvN0agAA0MXs?format=jpg&name=medium" alt="Erika Johnson 5755 Los Angeles St.">
 
