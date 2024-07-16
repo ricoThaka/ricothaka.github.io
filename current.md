@@ -1,7 +1,7 @@
 # Currently Compiling
 
 
-
+![Vickye](https://pbs.twimg.com/media/GJxj546akAQgKHF?format=jpg&name=large)
 ![imperfectyourdoomed](https://pbs.twimg.com/media/GJxgeX5akAANQV9?format=jpg&name=large)
 [I'm perfect, you're doomed : tales from a Jehovah's Witness upbringing](https://archive.org/details/imperfectyouredo00abra/page/n15/mode/2up)
 ![exJW](https://pbs.twimg.com/media/GJxgYFzakAIGjXq?format=jpg&name=small)
