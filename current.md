@@ -1,10 +1,12 @@
 # Currently Compiling
 
-
-
+[I'm perfect, you're doomed : tales from a Jehovah's Witness upbringing](https://archive.org/details/imperfectyouredo00abra/page/n15/mode/2up)
+[exJW](https://pbs.twimg.com/media/GJxgYFzakAIGjXq?format=jpg&name=small)
 [Triple Six Mafia - Underground Vol.1 1991-1994](https://www.youtube.com/watch?v=NWlGhqHT5tM)
-![Bill cosby Playboy at night](https://pbs.twimg.com/media/GI5yWb7akAArdPh?format=jpg&name=large)
+![Bill cosby Playboy at night](https://pbs.twimg.com/media/GI5yXXCbAAAQ2Gk?format=jpg&name=large)
 <iframe src="https://archive.org/embed/playboy-after-dark-s01e03-1968-08-08" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![Bill cosby Playboy at night](https://pbs.twimg.com/media/GI5yWb7akAArdPh?format=jpg&name=large)
 ![xml](https://pbs.twimg.com/media/GIlEzEebQAACahw?format=jpg&name=large)
 ![Muna are you Nicki](https://pbs.twimg.com/media/GIRSAHbbEAASebu?format=jpg&name=small)
 ![East Atlanta](https://pbs.twimg.com/media/GIRSAYFaUAAFLZF?format=jpg&name=small)
