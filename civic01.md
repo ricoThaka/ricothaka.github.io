@@ -7,6 +7,9 @@
       </div>
 
 
+
+![Atlanta Money Laundering](https://pbs.twimg.com/media/GIfK2tDbkAEqCoc?format=jpg&name=large)
+Dozens charged in Atlanta-based money laundering operation that funneled $30 million in proceeds from computer fraud schemes, romance scams, and retirement account fraud [Justice dOt gov](https://www.justice.gov/usao-ndga/pr/dozens-charged-atlanta-based-money-laundering-operation-funneled-30-million-proceeds)
 ![LA_MAYOR](https://pbs.twimg.com/media/GH71RMEbwAA5_dw?format=jpg&name=medium)
 ![Dekalb Juvinile Court](https://pbs.twimg.com/media/GH7xSg0awAAOXhv?format=jpg&name=large)
 ![Foster Care](https://pbs.twimg.com/media/GHTCRk-bUAA3WkK?format=jpg&name=large) FOSTER CARE INVESTIGATION: NCMEC Finds That 410 Children Reported Missing from DFCS Care in 5-Year Period Were Likely Victims of Child Sex Trafficking
