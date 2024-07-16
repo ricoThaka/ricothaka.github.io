@@ -43,7 +43,7 @@ carousels:
 {% endhighlight %}
 
 
-![DopeNiggaz_constanciashouseSartuzeeAnDMe](https://pbs.twimg.com/media/GIMHVTZbIAAHFX8?format=jpg&name=large)
+
 
 {% include_relative current.md %}
 
