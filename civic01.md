@@ -8,7 +8,7 @@
 
 
 
-
+![Dekalb Juvinile Court](https://pbs.twimg.com/media/GH7xSg0awAAOXhv?format=jpg&name=large)
 ![Foster Care](https://pbs.twimg.com/media/GHTCRk-bUAA3WkK?format=jpg&name=large) FOSTER CARE INVESTIGATION: NCMEC Finds That 410 Children Reported Missing from DFCS Care in 5-Year Period Were Likely Victims of Child Sex Trafficking
 ![Jon Ossoff](https://www.ossoff.senate.gov/wp-content/uploads/2021/06/JonOssoff-white.svg)
 ![I think this is coral iris kelly](https://pbs.twimg.com/media/GHTCyrVawAANCPt?format=jpg&name=900x900)

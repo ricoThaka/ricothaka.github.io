@@ -1,6 +1,9 @@
 # Currently Compiling
 
 
+
+![sonicCD](https://pbs.twimg.com/media/GHjQ7OgakAAdhZ0?format=jpg&name=large)
+![Yoshiisland2](https://pbs.twimg.com/media/GHjO6Fsa4AAmfI0?format=jpg&name=large)
 [RawHide - Ole Dirty Bastard](https://youtu.be/K8kEVVeoj6E?si=TPciDstpzSSyIVyg) [Master P - Ghetto D GHETTO D](https://youtu.be/4N2qgn8QTWE?si=DD3tSx7kBUFIh3Vv)
 ![Coral iris Kelly](https://pbs.twimg.com/media/GIL9BCXaEAAS2wk?format=jpg&name=medium)
 ![s197](https://pbs.twimg.com/media/GIL8_-NaoAA_mi4?format=jpg&name=medium)
