@@ -1,7 +1,7 @@
 # Currently Compiling
 
 
-[Master P - Ghetto D GHETTO D](https://youtu.be/4N2qgn8QTWE?si=DD3tSx7kBUFIh3Vv)
+[RawHide - Ole Dirty Bastard](https://youtu.be/K8kEVVeoj6E?si=TPciDstpzSSyIVyg) [Master P - Ghetto D GHETTO D](https://youtu.be/4N2qgn8QTWE?si=DD3tSx7kBUFIh3Vv)
 ![Coral iris Kelly](https://pbs.twimg.com/media/GIL9BCXaEAAS2wk?format=jpg&name=medium)
 ![s197](https://pbs.twimg.com/media/GIL8_-NaoAA_mi4?format=jpg&name=medium)
 ![s197](https://pbs.twimg.com/media/GIL_8nzbUAAXnpO?format=jpg&name=medium)
