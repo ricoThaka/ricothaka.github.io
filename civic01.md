@@ -7,7 +7,7 @@
       </div>
 
 
-
+![santa monica](https://pbs.twimg.com/media/F6UzdBPbMAA3HCV?format=jpg&name=medium)
 ![Hollywood](https://pbs.twimg.com/media/F6UzcrrbIAA53y-?format=jpg&name=medium)
 ![thee stallion](https://pbs.twimg.com/media/GKWeY5racAAMfpF?format=jpg&name=small)
 ![Atlanta Money Laundering](https://pbs.twimg.com/media/GIfK2tDbkAEqCoc?format=jpg&name=large)
