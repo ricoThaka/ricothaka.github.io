@@ -1,4 +1,8 @@
 # Currently Compiling
+
+![Stranger Things Party?](https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6630545/strangerthingsgif.0.gif)
+[ITC Benguiat is a decorative serif typeface designed by Ed Benguiat and released by the International Typeface Corporation (ITC) in 1977.](https://www.linotype.com/576/itc-benguiat-family.html) The face is loosely based upon typefaces of the Art Nouveau period but is not considered an academic revival. The face follows ITC's design formulary of an extremely high x-height, combined with multiple widths and weights. The original version of 1977 contained numerous nonstandard ligatures (such as AB, AE, AH, AK, AR, LA, SS, TT) and alternate shapes for some letters which were not carried into the digital version. - TAKEN_FRON_WiKiPEDiA
+
 ## ANiMAL_FARM##ANiMATED##1954 
 [Animal Farm 1954](https://www.youtube.com/watch?v=XXkicQRl6vg)
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b0044674400667.5c2e83b770581.jpg">
