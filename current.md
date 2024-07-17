@@ -1,5 +1,9 @@
 # Currently Compiling
 
+
+
+![normani tryre](https://static.stereogum.com/uploads/2024/07/25614876-04EB-48B1-8E67-AA70D7B75F7A-1721156229-1000x1000.jpg)
+[Tayla Parx Calls Out Normani For Not Crediting Her Work On “Insomnia”](https://www.stereogum.com/2271890/talya-parx-calls-out-normani-for-not-crediting-her-work-on-insomnia/news/)
 ![Stranger Things Party?](https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6630545/strangerthingsgif.0.gif)
 [ITC Benguiat is a decorative serif typeface designed by Ed Benguiat and released by the International Typeface Corporation (ITC) in 1977.](https://www.linotype.com/576/itc-benguiat-family.html) The face is loosely based upon typefaces of the Art Nouveau period but is not considered an academic revival. The face follows ITC's design formulary of an extremely high x-height, combined with multiple widths and weights. The original version of 1977 contained numerous nonstandard ligatures (such as AB, AE, AH, AK, AR, LA, SS, TT) and alternate shapes for some letters which were not carried into the digital version. - TAKEN_FRON_WiKiPEDiA
 
