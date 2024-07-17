@@ -1,6 +1,17 @@
 # Currently Compiling
 
-[column-fill](https://developer.mozilla.org/en-US/docs/Web/CSS/column-fill) The column-fill CSS property controls how an element's contents are balanced when broken into columns.
+
+![normani wap](https://i.ytimg.com/vi/WxJyqa0IHTI/maxresdefault.jpg)
+[Guardian Heroes (Saturn)](https://www.retrogames.onl/2018/09/guardian-heroes-saturn.html) [POSTS BTS VIDEO OF NORMANI ON 'WAP'Dancing with 'Motivation'](https://www.tmz.com/2020/08/08/cardi-b-behind-the-scenes-wap-normani-dancing-fifth-harmony/) [CARDI B - WAP (FEAT. MEGAN THEE STALLION) | NORMANI BEHIND THE SCENE](https://youtu.be/WxJyqa0IHTI?si=FswWnWOP_lGzQ44s)
+
+![Columns](https://www.zonaarcade.com/fotos/capturas/Columns-Marquee-Restored-Mikonos1.jpg)
+<iframe src="https://archive.org/embed/arcade_columns" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+Columns ([コラムス](https://archive.org/details/gg_Columns_1991_Sega) Koramusu?) is a tile matching puzzle video game, first created in 1989 by Jay Geertsen. Early versions of the game were made and ported among early computer [platforms](https://zonaarcade.forumcommunity.net/?t=62468836), and then the Atari ST, until 1990, when Jay Geertsen sold the rights to Sega, where it was ported to several Sega consoles.
+
+[column-fill](https://developer.mozilla.org/en-US/docs/Web/CSS/column-fill) The column-fill CSS property controls how an element's contents are balanced when broken into columns.The column-fill property specifies how to fill columns, balanced or not.
+
+Tip: If you add a height to a multi-column element, you can control how the content fills the columns. The content can be balanced or filled sequentially. [w3schools](https://www.w3schools.com/cssref/css3_pr_column-fill.php) [Spanning and balancing columns](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_multicol_layout/Spanning_balancing_columns) In this guide, we look at how to make elements span across columns inside the multi-column (multicol) container and how to control how the columns are filled.[ColumnFill](https://css-tricks.com/almanac/properties/c/column-fill/)
 ### Normani: Dopamine, Growth & Tour | Apple Music
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IH5qyYd0-4I?si=ic3PnKM-uQCpXEwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
