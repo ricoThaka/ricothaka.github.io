@@ -1,5 +1,9 @@
 # Currently Compiling
 
+![klax](https://www.arcade-museum.com/images-game/28/klax-28594.jpg)
+[Klax (set 1)](https://archive.org/details/arcade_klax) Klax is a puzzle video game released in arcades in 1990 by Atari Games while Namco distributed the game in Japanese markets. It was designed and animated by Mark Stephen Pierce with the software engineering done by Dave Akers. The object is to catch colored blocks tumbling down a machine and arrange them in colored rows and patterns to make them disappear. Klax was originally published as a coin-op follow-up to Tetris, about which Atari Games was in a legal dispute at the time. [WikiPedia](https://en.wikipedia.org/wiki/Klax_(video_game)) [Klax](https://www.arcade-museum.com/Videogame/klax) Player must catch colored blocks rolling down a conveyer belt and stack them by color in vertical columns or, in higher levels, horizontal and diagonal rows. Higher levels also use more colors of blocks. A female voice announces each wave and offers praise for bonus points.[arcade museum](https://www.arcade-museum.com/Videogame/klax) [Sega genesis](https://www.retrogames.cc/genesis-games/klax-usa.html)
+![KLAX](https://i.ebayimg.com/images/g/eToAAOSwOtVapEBb/s-l1200.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jns2X7xYX9E?si=5qVOqjy1fDXe5oBN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![normani wap](https://i.ytimg.com/vi/WxJyqa0IHTI/maxresdefault.jpg)
 
