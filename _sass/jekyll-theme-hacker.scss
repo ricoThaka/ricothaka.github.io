@@ -186,20 +186,39 @@ body {
 
 }
 
+
 p {
-  display: block;
-  padding: 0 0 0 2%;
+  display: flex;
   text-align: left;
   color: white;
   background: black;
   background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%);
   border-left: 1px solid dodgerblue;
   border-right: 1px solid #582C83;
+  column-count: auto;
   column-fill: balance-all;
   word-break: break-all;
   hyphens: auto;
   display:block;
 }
+@keyframes slidein {
+  from {
+    margin-right: 100%;
+    width: 300%;
+        opacity: 0 ;
+    display: flex;
+  }
+
+
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+    opacity: 1;
+    display: flex;
+  }
+}
+
 ::selection {
   color: #aaff00;
   background: #454b1b;
@@ -211,9 +230,10 @@ p::first-letter {
     color: cyan;
 }
 p:first-of-type {
-  animation-duration: 3s;
+  animation-duration: 1s;
   animation-name: slidein;
 }
+
 .firstcharacter {
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
