@@ -1,6 +1,10 @@
 # Currently Compiling
 
 
+### Normani: Dopamine, Growth & Tour | Apple Music
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IH5qyYd0-4I?si=ic3PnKM-uQCpXEwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Normani On Debut Album Dopamine Possible Fifth Harmony Reunion  More Billboard News](https://youtu.be/Isjeg9yKpVw?si=NRctPfqWYP22vIfk) [Normani Talks About A Dream Collab with Rosalia, Her New Album 'Fair,' + More!](https://youtu.be/l97rZmkGiAE?si=avzLoGNffz8zulH2) [Normani “Wild Side” Official Lyrics & Meaning | Verified](https://www.youtube.com/watch?v=A-h9IAeoMw4)
 
 [![Engraving of "The Vision of The Valley of The Dry Bones" by Gustave Doré](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg/800px-The_Vision_of_The_Valley_of_The_Dry_Bones.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg/800px-The_Vision_of_The_Valley_of_The_Dry_Bones.jpg "Redirect to homepage")
 
