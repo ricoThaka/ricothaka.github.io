@@ -1,3 +1,37 @@
+
+![Atlanta Money Laundering](https://pbs.twimg.com/media/GIfK2tDbkAEqCoc?format=jpg&name=large)
+Dozens charged in Atlanta-based money laundering operation that funneled $30 million in proceeds from computer fraud schemes, romance scams, and retirement account fraud [Justice dOt gov](https://www.justice.gov/usao-ndga/pr/dozens-charged-atlanta-based-money-laundering-operation-funneled-30-million-proceeds) [Name iT After Me - Juicy J](https://youtu.be/5eysL68IoTI?si=c-zZh3N-371PqsPt)
+![LA_MAYOR](https://pbs.twimg.com/media/GH71RMEbwAA5_dw?format=jpg&name=medium)
+![Dekalb Juvinile Court](https://pbs.twimg.com/media/GH7xSg0awAAOXhv?format=jpg&name=large)
+![Foster Care](https://pbs.twimg.com/media/GHTCRk-bUAA3WkK?format=jpg&name=large) FOSTER CARE INVESTIGATION: NCMEC Finds That 410 Children Reported Missing from DFCS Care in 5-Year Period Were Likely Victims of Child Sex Trafficking
+![Jon Ossoff](https://www.ossoff.senate.gov/wp-content/uploads/2021/06/JonOssoff-white.svg)
+![I think this is coral iris kelly](https://pbs.twimg.com/media/GHTCyrVawAANCPt?format=jpg&name=900x900)
+![atlanta counties modeling urban growth](https://weather.ndc.nasa.gov/applied_science/urban_app1.jpg)
+[Centers for Disease Control and Prevention HELIX-Atlanta Project](https://weather.ndc.nasa.gov/applied_science/helix.html) [Modeling Urban Growth Atlanta Georgia](https://weather.ndc.nasa.gov/applied_science/urban_application.html)
+
+![atlanta](https://weather.ndc.nasa.gov/applied_science/animation.gif)
+
+![SARS Patent](https://pbs.twimg.com/media/GLJtC2iaoAAspTD?format=jpg&name=large)
+
+![LARiver](https://pbs.twimg.com/media/GMiK2zPacAABcJH?format=jpg&name=medium)
+
+### Río L.A.
+Tales from the Los Angeles River
+by Patt Morrison / photographs by Mark Lamonica / forewords by Julia Meltzer and Kevin Starr
+Río L.A. Tales from the Los Angeles River poetically recounts, in dramatic words and even-more dramatic pictures, the history and lore of the once under-appreciated Los Angeles River. With attention focussed on the humble waterway by people and organizations throughout the country, the Los Angeles River is once again emerging as the heart of the region.
+
+When Río L.A. was first published at the beginning of the millennium, few people even regarded the river, but aided by Morrison’s and Lamonica’s bestselling book, the Los Angeles River was rediscovered and has become the center of the county’s master plan to reestablish the river as the heart of the city...[Buy_here](https://www.angelcitypress.com/products/lar2) [related tweet](https://x.com/RicoThaka/status/1785830607354040693)
+
+![SABER MSK AWR](https://pbs.twimg.com/media/GMiLWK-bYAAt1r9?format=png&name=900x900)
+https://youtube.com/playlist?list=PLJC-pZxs0HrunzHxx2UMkfZYi4s1hIkIH&si=M8sG2PGSSHzJnPHM
+![attack on metro](https://pbs.twimg.com/media/GSJPBzKbIAAFflY?format=jpg&name=large)
+
+![Karen wins Mayor of LA Election](https://cdn.kqed.org/wp-content/uploads/sites/10/2022/11/GettyImages-1244810051-scaled.jpg)
+![Allied Universal](https://www.aus.com/sites/default/files/Allied%20Universal%20Tagline_1.png)
+
+
+
+
 <div class="gullies">
         <div></div>
         <div></div>
