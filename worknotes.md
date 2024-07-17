@@ -9,6 +9,10 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
 
+[GOES Satellite Network](https://science.nasa.gov/mission/goes/)
+![GOES](https://science.nasa.gov/wp-content/uploads/2023/07/goes-r-padded-withearthreflectioninsolarpanel-.webp?w=4096&format=png)
+Geostationary Operational Environmental Satellites (GOES) is a collaborative NOAA and NASA program providing continuous imagery and data on atmospheric conditions and solar activity ( space weather ). NASA builds and launches the GOES and NOAA operates them.Geostationary Operational Environmental Satellites (GOES) is a collaborative NOAA and NASA program providing continuous imagery and data on atmospheric conditions and solar activity ( space weather ). NASA builds and launches the GOES and NOAA operates them. [GOES Image Viewer](https://www.star.nesdis.noaa.gov/goes/index.php)
+
 ### Dear Rep Karen,
 I was in the Meyer goldwyn branc and found these pages in the County Municipal ... Of your powers [RelatedTweet](https://x.com/BubbleGumPop510/status/1759007658462548349)
 
