@@ -1,5 +1,8 @@
 # Currently Compiling
-
+# Sonic 
+![Sonic](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)
+[my sega fandom page](./sega.md) [List Of Sonic Games](https://sega.fandom.com/wiki/List_of_Sonic_games) [Sonic the Hedgehog](https://www.allsonicgames.net/sonic-the-hedgehog.php) [Sonic the Hedgehog Rev 1 Sonic the Hedgehog Rev 1](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en)
+<iframe src="https://archive.org/embed/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Chloe Bailey Makes a Splash at St. Lucia Carnival](https://www.bet.com/article/4elui5/chloe-bailey-st-lucia-carnival-viral) [Social Media Sends Bhad Bhabie Prayers After She Shared THIS Video Following Her Abuse Claims Against Le Vaughn (WATCH)](https://theshaderoom.com/social-media-reacts-bhad-bhabie-kissing-video-claims-against-le-vaughn-watch/) [Chlöe and Halle Bailey Share When They Feel Most Confident and Some Tips for a Viral Fashion Moment](https://www.eonline.com/news/1384354/chloee-and-halle-bailey-share-when-they-feel-most-confident-and-tips-for-a-viral-fashion-moment) [Don Cheadle, Chloe Bailey, Lori Harvey And More Added To Peacock’s ‘Fight Night’ As Series Continues To Add To Ensemble](https://www.yahoo.com/news/don-cheadle-chloe-bailey-lori-174629273.html) [Chloe Bailey shocked to know TikTok stream can help her make money](https://www.thenews.com.pk/latest/1165806-chloe-bailey-shocked-to-know-tiktok-stream-can-help-her-make-money) [Cardi B Reacts To Chloe Bailey’s ‘Be Careful’ Cover](https://www.bet.com/article/z7km74/cardi-b-reacts-to-chloe-bailey-s-be-careful-cover)
 
@@ -12,9 +15,7 @@
 
 <IMG src="http://i.kinja-img.com/gawker-media/image/upload/s--lS5cFdtL--/wrlpspsqwyzhmron7hgp.jpg">
 
-# Sonic 
-[Sonic](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)
-[my sega fandom page](./sega.md) [List Of Sonic Games](https://sega.fandom.com/wiki/List_of_Sonic_games) [Sonic the Hedgehog](https://www.allsonicgames.net/sonic-the-hedgehog.php)
+
 
 ### bereavmint
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/kLBNMhzn8VI" title="Immortal Technique - Toast to the Dead w/ lyrics HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Crooklyn Dodgers (Special Ed, Masta Ace & Buckshot) - Crooklyn (Official Video)](https://www.youtube.com/watch?v=a2pzmty3LVs) [HTAU](https://ricothaka.github.io/htau.html) [Beenie Man ‎– Crazy Notion](https://youtu.be/X1RgygADUpE?si=7YIc1LkItTQy0Sd0) [Old Dog - BeenieMAn reggae](https://youtu.be/7lLwcdoWvsY?si=tnw-Ro1XZ1G_TjbV) [Walt Disney Treasures - Hawaiian Holiday (1937)](https://youtu.be/SdIaEQCUVbk?si=-37tvaVyxT5oi72i)
