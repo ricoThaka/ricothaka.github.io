@@ -8,6 +8,7 @@
 
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
+[Rashards Mental Health](https://archive.org/details/@thakaserika_selassie_kelly) please look at these screenshares if you are concenered with how i use a computer archive.org Member [Thaka aka Rashard](https://archive.org/details/@thakaserika_selassie_kelly)
 
 [GOES Satellite Network](https://science.nasa.gov/mission/goes/)
 ![GOES](https://science.nasa.gov/wp-content/uploads/2023/07/goes-r-padded-withearthreflectioninsolarpanel-.webp?w=4096&format=png)
