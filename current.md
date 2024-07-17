@@ -1,5 +1,14 @@
 # Currently Compiling
 
+
+
+[![Engraving of "The Vision of The Valley of The Dry Bones" by Gustave Doré](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg/800px-The_Vision_of_The_Valley_of_The_Dry_Bones.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg/800px-The_Vision_of_The_Valley_of_The_Dry_Bones.jpg "Redirect to homepage")
+
+By <a href="https://en.wikipedia.org/wiki/en:Gustave_Dor%C3%A9" class="extiw" title="w:en:Gustave Doré"><span title="French illustrator and painter (1832–1883)">Gustave Doré</span></a> - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/49580580@N02/5340485342/">https://www.flickr.com/photos/49580580@N02/5340485342/</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=12656746">Link</a>
+
+[Vision of the Valley of Dry Bones](https://en.wikipedia.org/wiki/Vision_of_the_Valley_of_Dry_Bones) [Dry Bones In The Valley : Reverend B.W. Smith](https://www.youtube.com/watch?v=-14UEQ7A5dE)
+![Made with Sartu in decatur](https://pbs.twimg.com/media/GStdTdtacAAayA2?format=jpg&name=large)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3Mk9N2ICac?si=WNDrEKZzg9yANXZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![Coral](https://pbs.twimg.com/media/GIL8-ZSaIAA0T31?format=jpg&name=medium)
@@ -63,10 +72,9 @@ it reads
 
 >This Guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County. Our goal is to provide tips that assist you to be self-sufficient after a disaster
 
-<img src= "https://lacounty.gov/wp-content/uploads/2022/03/Emerg.Survival.Guide_-232x300.jpg" alt="Emergency Survival Guide"
-         align="left" />
+<img src= "https://lacounty.gov/wp-content/uploads/2022/03/Emerg.Survival.Guide_-232x300.jpg" alt="Emergency Survival Guide" style="width:232px;height:300px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
 
-[This guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County.](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/)
+ [This guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County.](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/)
 
 Its hard to explin everything in one quick note. But basically I was in Atlanta and [My Wife Vanished](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) and i got destituted by ppl throwing me in the mental hospital a girl i was told was my cousin [Kelly Danielle](https://www.instagram.com/daniellekellybjj/p/Cdw9_9nsfEe/?img_index=1) Renee Williams daughter by Winfred. My daughter was taken and i cannot even get a cellphone. 
 
