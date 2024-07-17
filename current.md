@@ -1,6 +1,6 @@
 # Currently Compiling
 
-[HTAU](https://ricothaka.github.io/htau.html)
+[HTAU](https://ricothaka.github.io/htau.html) [Beenie Man ‎– Crazy Notion](https://youtu.be/X1RgygADUpE?si=7YIc1LkItTQy0Sd0)
 
 ![normani tryre](https://static.stereogum.com/uploads/2024/07/25614876-04EB-48B1-8E67-AA70D7B75F7A-1721156229-1000x1000.jpg)
 [Tayla Parx Calls Out Normani For Not Crediting Her Work On “Insomnia”](https://www.stereogum.com/2271890/talya-parx-calls-out-normani-for-not-crediting-her-work-on-insomnia/news/)
