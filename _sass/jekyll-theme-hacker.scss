@@ -193,8 +193,12 @@ p {
   color: white;
   background: black;
   background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%);
-  border-right: 1px solid grey;
-  border-left: 1px solid darkgrey;
+  border-left: 1px solid dodgerblue;
+  border-right: 1px solid #582C83;
+  column-fill: balance-all;
+  word-break: break-all;
+  hyphens: auto;
+  display:block;
 }
 ::selection {
   color: #aaff00;
