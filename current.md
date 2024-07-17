@@ -2,9 +2,7 @@
 
 
 [Chloe Bailey Makes a Splash at St. Lucia Carnival](https://www.bet.com/article/4elui5/chloe-bailey-st-lucia-carnival-viral) [Social Media Sends Bhad Bhabie Prayers After She Shared THIS Video Following Her Abuse Claims Against Le Vaughn (WATCH)](https://theshaderoom.com/social-media-reacts-bhad-bhabie-kissing-video-claims-against-le-vaughn-watch/) [Chlöe and Halle Bailey Share When They Feel Most Confident and Some Tips for a Viral Fashion Moment](https://www.eonline.com/news/1384354/chloee-and-halle-bailey-share-when-they-feel-most-confident-and-tips-for-a-viral-fashion-moment) [Don Cheadle, Chloe Bailey, Lori Harvey And More Added To Peacock’s ‘Fight Night’ As Series Continues To Add To Ensemble](https://www.yahoo.com/news/don-cheadle-chloe-bailey-lori-174629273.html) [Chloe Bailey shocked to know TikTok stream can help her make money](https://www.thenews.com.pk/latest/1165806-chloe-bailey-shocked-to-know-tiktok-stream-can-help-her-make-money) [Cardi B Reacts To Chloe Bailey’s ‘Be Careful’ Cover](https://www.bet.com/article/z7km74/cardi-b-reacts-to-chloe-bailey-s-be-careful-cover)
-# Sonic 
-[Sonic](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)
-[my sega fandom page](./sega.md)
+
 ## Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address
 [Why Facebook Just Launched Its Own 'Dark Web' Site Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor).](https://www.wired.com/2014/10/facebook-tor-dark-site/)
 [Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address](https://thehackernews.com/2014/10/facebook-now-accessible-via-tor.html?_m=3n.009a.748.sk0aof3tqt.fmx)
@@ -13,6 +11,11 @@
 [FACEBOOK'S DARK WEB .ONION SITE REACHES 1 MILLION MONTHLY TOR USERS](https://www.inverse.com/article/14672-facebook-s-dark-web-onion-site-reaches-1-million-monthly-tor-users)
 
 <IMG src="http://i.kinja-img.com/gawker-media/image/upload/s--lS5cFdtL--/wrlpspsqwyzhmron7hgp.jpg">
+
+# Sonic 
+[Sonic](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)
+[my sega fandom page](./sega.md) [List Of Sonic Games](https://sega.fandom.com/wiki/List_of_Sonic_games) [Sonic the Hedgehog](https://www.allsonicgames.net/sonic-the-hedgehog.php)
+
 ### bereavmint
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/kLBNMhzn8VI" title="Immortal Technique - Toast to the Dead w/ lyrics HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Crooklyn Dodgers (Special Ed, Masta Ace & Buckshot) - Crooklyn (Official Video)](https://www.youtube.com/watch?v=a2pzmty3LVs) [HTAU](https://ricothaka.github.io/htau.html) [Beenie Man ‎– Crazy Notion](https://youtu.be/X1RgygADUpE?si=7YIc1LkItTQy0Sd0) [Old Dog - BeenieMAn reggae](https://youtu.be/7lLwcdoWvsY?si=tnw-Ro1XZ1G_TjbV) [Walt Disney Treasures - Hawaiian Holiday (1937)](https://youtu.be/SdIaEQCUVbk?si=-37tvaVyxT5oi72i)
  [Walt Disney Animation Studios - includes Steamboat Willie](https://youtube.com/playlist?list=PLA831BC0E127BC123&si=cttvuhgBj8j9wJ_v)
