@@ -8,7 +8,7 @@
 ![normani wap](https://i.ytimg.com/vi/WxJyqa0IHTI/maxresdefault.jpg)
 
 
-[Guardian Heroes (Saturn)](https://www.retrogames.onl/2018/09/guardian-heroes-saturn.html) [POSTS BTS VIDEO OF NORMANI ON 'WAP'Dancing with 'Motivation'](https://www.tmz.com/2020/08/08/cardi-b-behind-the-scenes-wap-normani-dancing-fifth-harmony/) [CARDI B - WAP (FEAT. MEGAN THEE STALLION) | NORMANI BEHIND THE SCENE](https://youtu.be/WxJyqa0IHTI?si=FswWnWOP_lGzQ44s)
+[Guardian Heroes (Saturn)](https://www.retrogames.onl/2018/09/guardian-heroes-saturn.html) [POSTS BTS VIDEO OF NORMANI dancing](https://www.tmz.com/2020/08/08/cardi-b-behind-the-scenes-wap-normani-dancing-fifth-harmony/) [CARDI B - WAP (FEAT. MEGAN THEE STALLION) | NORMANI BEHIND THE SCENE](https://youtu.be/WxJyqa0IHTI?si=FswWnWOP_lGzQ44s)
 
 ![Columns](https://www.zonaarcade.com/fotos/capturas/Columns-Marquee-Restored-Mikonos1.jpg)
 <iframe src="https://archive.org/embed/arcade_columns" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
