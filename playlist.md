@@ -33,7 +33,8 @@ You mean to tell me this wasn't love?"
     
 <div class="playlist">
 
-
+<figure class=" track">
+    <IMG src="https://ia804607.us.archive.org/2/items/immortal-technique-and-dj-green-lantern-the-3rd-world/Immortal%20Technique%20%26%20DJ%20Green%20Lantern/The%203rd%20World/cover.jpg?cnt=0">
 
 <figure class=" track">
     <IMG src="https://ia601709.us.archive.org/7/items/aesop-rock-skelethon/Skelethon/cover.jpg?cnt=0">
