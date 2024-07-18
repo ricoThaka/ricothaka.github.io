@@ -33,6 +33,22 @@ You mean to tell me this wasn't love?"
     
 <div class="playlist">
 
+
+
+<figure class=" track">
+    <IMG src="https://ia804509.us.archive.org/27/items/dj-khaled-major-key/Major%20Key/cover.jpg?cnt=0">
+
+ <figcaption>Major Key
+by DJ Khaled  08-Pick These Hoes Apart (Ft. Kodak Black, Jeezy & Frenxch Montana).mp3
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/dj-khaled-major-key/Major%20Key/08-Pick%20These%20Hoes%20Apart%20%28Ft.%20Kodak%20Black%2C%20Jeezy%20%26%20Frenxch%20Montana%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
+
 <figure class=" track">
     <IMG src="https://archive.org/download/3rdbassthecactusalbum/Album/1.jpg">
 
