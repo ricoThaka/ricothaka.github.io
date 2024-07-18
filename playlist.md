@@ -30,6 +30,21 @@ You mean to tell me this wasn't love?"
 
 </blockquote>
   
+
+<figure class=" track">
+    <IMG src="https://archive.org/download/de-la-soul-ego-trippin-pt.-two/Ego%20Trippin'/Pt.%20Two/1.jpg" />
+    
+ <figcaption> Ego Trippin' (Pt. Two)
+by De La Soul
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/de-la-soul-ego-trippin-pt.-two/Ego%20Trippin%27/Pt.%20Two/01-Ego%20Trippin%27%20%28Pt.%20Two%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
+
 <figure class=" track">
     <IMG src="https://ia801700.us.archive.org/28/items/black-thought-streams-of-thought-1/Vol.%201/cover.jpg?cnt=0" />
     
