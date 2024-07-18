@@ -34,6 +34,27 @@ You mean to tell me this wasn't love?"
 <div class="playlist">
 
 
+
+<figure class=" track">
+    <IMG src="https://ia601701.us.archive.org/2/items/busta-rhymes-when-disaster-strikes/When%20Disaster%20Strikes/cover.JPG?cnt=0">
+
+ <figcaption>10-There's Not A Problem My Squad Can't Fix (Ft. Jamal).mp3 
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/busta-rhymes-when-disaster-strikes/When%20Disaster%20Strikes/10-There%27s%20Not%20A%20Problem%20My%20Squad%20Can%27t%20Fix%20%28Ft.%20Jamal%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+<figure class=" track">
+    <IMG src="https://ia802302.us.archive.org/10/items/eve-let-there-be-eve-ruff-ryders-first-lady/Let%20There%20Be%20Eve...%20Ruff%20Ryders%20First%20Lady/cover.jpg?cnt=0">
+
+ <figcaption>EVE:GoTTaMaN
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/eve-let-there-be-eve-ruff-ryders-first-lady/Let%20There%20Be%20Eve...%20Ruff%20Ryders%20First%20Lady/03-Gotta%20Man.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
 <figure class=" track">
     <IMG src="https://archive.org/download/future-the-wizrd/The%20WIZRD/a.jpg">
 
