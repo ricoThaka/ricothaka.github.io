@@ -30,7 +30,16 @@ You mean to tell me this wasn't love?"
 
 </blockquote>
   
-
+<figure class=" track">
+    <IMG src="https://archive.org/download/dj-muggs-soul-assassins-chapter-I-1997/Chapter%20I/1.jpg" />
+    
+ <figcaption> Goodie Mob - \Decisions Decisions  
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/dj-muggs-soul-assassins-chapter-I-1997/Chapter%20I/03-Decisions%2C%20Decisions%20%28Ft.%20Goodie%20Mob%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
 
 <figure class=" track">
     <IMG src="https://archive.org/download/mobb-deep-temperatures-rising-give-up-the-goods/Temperature's%20Rising%20%EF%BC%8F%20Give%20Up%20The%20Goods/a.jpg" />
