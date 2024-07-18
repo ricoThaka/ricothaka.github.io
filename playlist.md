@@ -34,6 +34,19 @@ You mean to tell me this wasn't love?"
 <div class="playlist">
 
 
+
+<figure class=" track">
+    <IMG src="https://ia601709.us.archive.org/7/items/aesop-rock-skelethon/Skelethon/cover.jpg?cnt=0">
+
+ <figcaption>Aesop Rock: 04-Zero Dark Thirty.mp3
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/aesop-rock-skelethon/Skelethon/CD%201/04-Zero%20Dark%20Thirty.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
 <figure class=" track">
     <IMG src="https://ia801809.us.archive.org/16/items/common-one-day-itll-all-make-sense/One%20Day%20It%27ll%20All%20Make%20Sense/cover.jpg?cnt=0">
 
