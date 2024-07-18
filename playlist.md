@@ -35,6 +35,21 @@ You mean to tell me this wasn't love?"
 
 
 
+
+
+<figure class=" track">
+    <IMG src="https://archive.org/download/de-la-soul-art-official-intelligence-bionix/Bionix/1.jpg">
+
+ <figcaption>18-Trying People.mp3 by  De La Soul
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/de-la-soul-art-official-intelligence-bionix/Bionix/18-Trying%20People.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
+
 <figure class=" track">
     <IMG src="https://ia902907.us.archive.org/26/items/2chainzprettygirlsliketrapmusic/Pretty%20Girls%20Like%20Trap%20Music/cover.jpg?cnt=0">
 
