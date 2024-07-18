@@ -31,6 +31,19 @@ You mean to tell me this wasn't love?"
 </blockquote>
   
 
+
+<figure class=" track">
+    <IMG src="https://ia903402.us.archive.org/27/items/dilated-peoples-20-20/20%EF%BC%8F20/cover.jpg?cnt=0" />
+    
+ <figcaption> 06-Kindness For Weakness (Ft. Talib Kweli).mp3
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/dilated-peoples-20-20/20%EF%BC%8F20/06-Kindness%20For%20Weakness%20%28Ft.%20Talib%20Kweli%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
 <figure class=" track">
     <IMG src="https://archive.org/download/de-la-soul-ego-trippin-pt.-two/Ego%20Trippin'/Pt.%20Two/1.jpg" />
     
