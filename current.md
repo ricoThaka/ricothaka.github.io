@@ -1,8 +1,13 @@
 # Currently Compiling
 
+
+
+[An illustrated history of Los Angeles County, California](https://archive.org/details/illustratedhisto01lewi/page/575/mode/2up)
+<iframe src="https://archive.org/embed/illustratedhisto01lewi" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+[LaHistoryArchive](https://www.lahistoryarchive.org/) [East Los Angeles : history of a barrio](https://archive.org/details/eastlosangeleshi0000romo/page/n9/mode/2up) [Front page : 100 years of the Los Angeles times, 1881-1981](https://archive.org/details/frontpage100year0000unse/page/n9/mode/2up) 
 ### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
 
-[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf)
+[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf) 
 
 <iframe src="https://archive.org/embed/historyoflosange00wils" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
