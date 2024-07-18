@@ -31,6 +31,29 @@ You mean to tell me this wasn't love?"
 </blockquote>
   
 
+<figure class=" track">
+    <IMG src="https://ia902307.us.archive.org/14/items/epmd-unfinished-business/Unfinished%20Business/cover.jpg?cnt=0" />
+    
+ <figcaption> So Whatcha Sayin - EPMD 
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/epmd-unfinished-business/Unfinished%20Business/01-So%20Wat%20Cha%20Sayin%27.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
+
+<figure class=" track">
+    <IMG src="https://ia903408.us.archive.org/30/items/dilated-peoples-expansion-team/Expansion%20Team/cover.jpg?cnt=0" />
+    
+ <figcaption> Dilated Junkies  
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/dilated-peoples-expansion-team/Expansion%20Team/09-Dilated%20Junkies%20%28Ft.%20J.Rocc%2C%20DJ%20Rhettmatic%20%26%20Melo-D%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
 
 <figure class=" track">
     <IMG src="https://archive.org/download/da-bush-babees-gravity/Gravity/1.jpg" />
