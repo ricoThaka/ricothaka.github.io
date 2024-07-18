@@ -33,6 +33,17 @@ You mean to tell me this wasn't love?"
     
 <div class="playlist">
 
+
+  <figure class=" track">
+    <IMG src="https://archive.org/download/bone-thigs-n-harmony-e-1999-eternal/E.%201999%20Eternal/1.jpg">
+
+ <figcaption>Bone Thugs-N-Harmony : E. 1999 Eternal - Show Bizness
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/bone-thigs-n-harmony-e-1999-eternal/E.%201999%20Eternal/12-1st%20Of%20Tha%20Month.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
   <figure class=" track">
     <IMG src="https://ia804607.us.archive.org/4/items/snoop-lion-reincarnated-2013/Snoop%20Lion/Reincarnated/cover.jpg?cnt=0">
 
@@ -43,10 +54,36 @@ You mean to tell me this wasn't love?"
       Your browser dose not Support the audio Tag
     </audio>
   </figure>
+
+      <figure class=" track">
+        <IMG src="https://ia904608.us.archive.org/27/items/main-source-breaking-atoms/Breaking%20Atoms/cover.jpg?cnt=0">
+    
+        <figcaption>Main Source - Live At The BBQ feat Nas
+        </figcaption>
+        <audio controls loop>
+          <source src="https://archive.org/download/main-source-breaking-atoms/Breaking%20Atoms/10-Live%20At%20The%20Barbeque%20%28Ft.%20Nas%2C%20Akinyele%20%26%20Joe%20Fatal%29.mp3">
+          Your browser dose not Support the audio Tag
+        </audio>
+      </figure>
+    
+
+
+  <figure class=" track">
+    <IMG src="https://ia903400.us.archive.org/9/items/cyhi-the-prynce-no-dope-on-sundays/No%20Dope%20On%20Sundays/cover.jpg?cnt=0">
+
+    <figcaption>No Dope On Sundays by CyHi The Prynce
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/cyhi-the-prynce-no-dope-on-sundays/No%20Dope%20On%20Sundays/002-No%20Dope%20On%20Sundays%20%28Ft.%20Pusha%20T%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
 <figure class=" track">
     <IMG src="https://i.discogs.com/JBP5x6QqVHFpzLsvrAwkSr2OBihxpjcrgQwbi7MacCw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTM5/MjU3LTE2ODQ2NjAw/NjktNzcyMS5qcGVn.jpeg">
 
-    <figcaption>SZA - Too Late
+  <figcaption>SZA - Too Late
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/sza-sos/SOS/17-Too%20Late.mp3">
@@ -57,7 +94,18 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://i1.sndcdn.com/artworks-Da8aLAjFA6KEY6z4-biSzMw-t500x500.jpg">
 
-    <figcaption>Megan Thee Stallion feat Latto - Budget
+  <figcaption>Megan Thee Stallion feat Latto - Budget
+    </figcaption>
+    <audio controls loop>
+      <source src="https://ia601406.us.archive.org/11/items/cover-1_202208/04.%20Budget%20%28feat.%20Latto%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://i1.sndcdn.com/artworks-Da8aLAjFA6KEY6z4-biSzMw-t500x500.jpg">
+
+  <figcaption>Megan Thee Stallion feat Latto - Budget
     </figcaption>
     <audio controls loop>
       <source src="https://ia601406.us.archive.org/11/items/cover-1_202208/04.%20Budget%20%28feat.%20Latto%29.mp3">
@@ -69,14 +117,14 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <iframe src="https://archive.org/embed/ranma-1-2-subtitled-edition-vhs" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-    <figcaption>ranma
+  <figcaption>ranma
     </figcaption>
 
   </figure>
   <figure class=" track">
     <IMG src="https://archive.org/download/2pac-the-don-killuminati-the-7-day-theory-enhanced-cd-rip-1411-wav/Cover%20Enhanced%20CD.jpeg">
 
-    <figcaption>2pac The Don : White ManZ World
+  <figcaption>2pac The Don : White ManZ World
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/2pac-the-don-killuminati-the-7-day-theory-enhanced-cd-rip-1411-wav/White%20Man%E2%80%99z%20World.mp3">
@@ -86,7 +134,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://archive.org/download/gang-starr-hard-to-earn/Hard%20To%20Earn/1.jpg">
 
-    <figcaption>Gang Starr : Mass Appeal
+  <figcaption>Gang Starr : Mass Appeal
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/gang-starr-hard-to-earn/Hard%20To%20Earn/11-Mass%20Appeal.mp3">
@@ -96,10 +144,10 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://ia801408.us.archive.org/21/items/pete-rock-and-c.l.-smooth-mecca-and-the-soul-brother/Album/cover.jpg?cnt=0">
 
-    <figcaption>The Basement : PeteRock+CL_SMooTH
+   <figcaption>The Basement : PeteRock+CL_SMooTH
     </figcaption>
     <audio controls loop>
-      <source src="https://archive.org/download/pete-rock-and-c.l.-smooth-mecca-and-the-soul-brother/Album/CD%201%20Original%20Full%20Length%20Album/14-The%20Basement%20%28Ft.%20Heavy%20D%2C%20Rob-O%2C%20Grap%20Luva%20%26%20Deda%29.mp3">
+   <source src="https://archive.org/download/pete-rock-and-c.l.-smooth-mecca-and-the-soul-brother/Album/CD%201%20Original%20Full%20Length%20Album/14-The%20Basement%20%28Ft.%20Heavy%20D%2C%20Rob-O%2C%20Grap%20Luva%20%26%20Deda%29.mp3">
       Your browser dose not Support the audio Tag
     </audio>
   </figure>
@@ -107,7 +155,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://ia803108.us.archive.org/17/items/cd_internal-affairs_pharoahe-monch/cd_internal-affairs_pharoahe-monch_itemimage.png?cnt=0">
 
-    <figcaption>The Truth : Common Pharoahe MoncH Kweli
+  <figcaption>The Truth : Common Pharoahe MoncH Kweli
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/pharoahe-monch-internal-affairs/Internal%20Affairs/14-The%20Truth%20%28Ft.%20Common%20%26%20Talib%20Kweli%29.mp3">
@@ -127,7 +175,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://ia801408.us.archive.org/31/items/outkast-southernplayalisticadillacmuzik/Album/cover.jpg?cnt=0">
 
-    <figcaption>Outkast : Krumblin hErB
+   <figcaption>Outkast : Krumblin hErB
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/outkast-southernplayalisticadillacmuzik/Album/14-Crumblin%27%20Erb.mp3">
@@ -137,7 +185,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://ia601403.us.archive.org/0/items/ol-dirty-bastard-return-to-the-36-chambers-the-dirty-version/Return%20To%20The%2036%20Chambers%20The%20Dirty%20Version/cover.jpg?cnt=0">
 
-    <figcaption>Return To The 36 Chambers Ole Dirty Bastard : The Stomp
+   <figcaption>Return To The 36 Chambers Ole Dirty Bastard : The Stomp
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/ol-dirty-bastard-return-to-the-36-chambers-the-dirty-version/Return%20To%20The%2036%20Chambers%20The%20Dirty%20Version/CD%201%20Album/09-The%20Stomp.mp3">
@@ -148,7 +196,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://ia600505.us.archive.org/1/items/cypress-hill-black-sunday-30th-anniversary-expanded-edition/Black%20Sunday%20%2830th%20Anniversary%20Expanded%20Edition%29/cover.jpg?cnt=0">
 
-    <figcaption>Cypress Hill - Hits fron The Bong
+  <figcaption>Cypress Hill - Hits fron The Bong
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/cypress-hill-black-sunday-30th-anniversary-expanded-edition/Black%20Sunday%20%2830th%20Anniversary%20Expanded%20Edition%29/10-Hits%20from%20the%20Bong.mp3">
@@ -159,7 +207,7 @@ You mean to tell me this wasn't love?"
  <figure class=" track">
     <IMG src="https://ia601908.us.archive.org/10/items/gfk-36seasons/cover.jpg?cnt=0">
 
-    <figcaption>Ghostface ft AZ - Here We Go Again
+<figcaption>Ghostface ft AZ - Here We Go Again
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/gfk-36seasons/03-Here%20I%20Go%20Again%20%28Ft.%20AZ%20%26%20Rell%29.mp3">
@@ -170,7 +218,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://m.media-amazon.com/images/I/51jwiIjfj5L._UF1000,1000_QL80_.jpg">
 
-    <figcaption>Heavy D - Got Me Waiting
+  <figcaption>Heavy D - Got Me Waiting
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/heavy-d-and-the-boyz-heavy-hitz/Heavy%20Hitz/10-Got%20Me%20Waiting.mp3">
@@ -181,7 +229,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://archive.org/download/group-home-livin-proof/Album/a.jpg">
 
-    <figcaption>Group Home - SupaStar
+ <figcaption>Group Home - SupaStar
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/group-home-livin-proof/Album/CD%201%20Album/13-Supa%20Star.mp3">
@@ -189,10 +237,9 @@ You mean to tell me this wasn't love?"
     </audio>
   </figure>
 
-  <figure class=" track">
+<figure class=" track">
     <IMG src="https://archive.org/download/az-do-or-die/1995/1.jpg">
-
-    <figcaption>Sugar Hill AZ feat Miss Jones
+  <figcaption>Sugar Hill AZ feat Miss Jones
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/az-do-or-die/1995/07-Sugar%20Hill%20%28Ft.%20Miss%20Jones%29.mp3">
@@ -203,8 +250,8 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20(The%20Soundtrack)/a.jpg">
 
-    <figcaption>WuWear Garment Renissance Capadonna RZA Meth
-    </figcaption>
+<figcaption>WuWear Garment Renissance Capadonna RZA Meth
+  </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20%28The%20Soundtrack%29/03-RZA-Wu-Wear%20The%20Garment%20Renaissance%20%28Ft.%20Method%20Man%20%26%20Cappadonna%29.mp3">
       Your browser dose not Support the audio Tag
@@ -214,7 +261,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20(The%20Soundtrack)/a.jpg">
 
-    <figcaption>LiL KiM : Queen Bitch
+ <figcaption>LiL KiM : Queen Bitch
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/high-school-high-the-soundtrack/High%20School%20High%20%28The%20Soundtrack%29/08-Lil%27%20Kim-Queen%20Bitch.mp3">
@@ -225,7 +272,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://archive.org/download/eric-b-and-rakim-let-the-rhythm-hit-em/Album/a.jpg">
 
-    <figcaption>Eric B. And Rakim: Mahogany
+ <figcaption>Eric B. And Rakim: Mahogany
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/eric-b-and-rakim-let-the-rhythm-hit-em/Album/08-Mahogany.mp3">
@@ -236,7 +283,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://archive.org/download/alicia-keys-songs-in-a-minor/Songs%20In%20A%20Minor/a.jpg">
 
-    <figcaption>Alicia Keys : Troubles
+ <figcaption>Alicia Keys : Troubles
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/alicia-keys-songs-in-a-minor/Songs%20In%20A%20Minor/05-Troubles.mp3">
@@ -247,7 +294,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://ia902309.us.archive.org/19/items/fugees-fu-gee-la/Fu-Gee-La/cover.jpg?cnt=0">
 
-    <figcaption>Fu-Gee-La : The Fugees
+ <figcaption>Fu-Gee-La : The Fugees
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/fugees-fu-gee-la/Fu-Gee-La/01-Fu-Gee-La%20%28Album%20Version%29.mp3">
@@ -258,7 +305,7 @@ You mean to tell me this wasn't love?"
   <figure class=" track">
     <IMG src="https://i.discogs.com/VT5O9kwbZBH05HsfqXEtbsdNyMWVDxeuJ4a2JvZhtOc/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTY0/NzctMTYzNzkxNzI3/Mi05Mzc5LmpwZWc.jpeg">
 
-    <figcaption>Tribe Call Quest : The Low End Theory - Show Bizness
+ <figcaption>Tribe Call Quest : The Low End Theory - Show Bizness
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/atcqthelowendtheory/The%20Low%20End%20Theory/06-Show%20Business.mp3">
