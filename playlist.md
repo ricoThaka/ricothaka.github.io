@@ -35,6 +35,17 @@ You mean to tell me this wasn't love?"
 
 
 <figure class=" track">
+    <IMG src="https://ia804509.us.archive.org/18/items/nas-nasir/NASIR/cover.jpg?cnt=0">
+
+ <figcaption>Nas : Adam and Eve
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/nas-nasir/NASIR/06-Adam%20And%20Eve%20%28Ft.%20The-Dream%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+<figure class=" track">
     <IMG src="https://ia803405.us.archive.org/29/items/dilated-peoples-the-platform/Album/cover.jpg?cnt=0">
 
  <figcaption>Dialated Peoples: Triple Optics
