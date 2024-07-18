@@ -34,7 +34,16 @@ You mean to tell me this wasn't love?"
 <div class="playlist">
 
 
+<figure class=" track">
+    <IMG src="https://ia803405.us.archive.org/29/items/dilated-peoples-the-platform/Album/cover.jpg?cnt=0">
 
+ <figcaption>Dialated Peoples: Triple Optics
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/dilated-peoples-the-platform/Album/13-Triple%20Optics.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
 
 
 <figure class=" track">
