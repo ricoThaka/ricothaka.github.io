@@ -33,6 +33,17 @@ You mean to tell me this wasn't love?"
 
 
 <figure class=" track">
+    <IMG src="https://archive.org/download/mobb-deep-temperatures-rising-give-up-the-goods/Temperature's%20Rising%20%EF%BC%8F%20Give%20Up%20The%20Goods/a.jpg" />
+    
+ <figcaption> Temperature's Rising rmx - Mobb Deep 
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/mobb-deep-temperatures-rising-give-up-the-goods/Temperature%27s%20Rising%20%EF%BC%8F%20Give%20Up%20The%20Goods/01-Temperature%20Is%20Rising%20%28Remix%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+<figure class=" track">
     <IMG src="https://ia903402.us.archive.org/27/items/dilated-peoples-20-20/20%EF%BC%8F20/cover.jpg?cnt=0" />
     
  <figcaption> 06-Kindness For Weakness (Ft. Talib Kweli).mp3
