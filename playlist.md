@@ -82,7 +82,7 @@ You mean to tell me this wasn't love?"
   </figure> 
 
    <figure class=" track">
-    <IMG src="https://ia902307.us.archive.org/14/items/epmd-unfinished-business/Unfinished%20Business/cover.jpg?cnt=0" />
+    <IMG src="[https://ia902307.us.archive.org/14/items/epmd-unfinished-business/Unfinished%20Business/cover.jpg?cnt=0](https://images.genius.com/536c8d6134d025b74f19662078108e52.939x939x1.jpg)" />
     
  <figcaption> Gang Starr : 05-What's Real (Ft. Group Home & Royce Da 5'9).mp3
  
@@ -94,7 +94,7 @@ You mean to tell me this wasn't love?"
   </figure> 
 
   <figure class=" track">
-    <IMG src="https://ia902307.us.archive.org/14/items/epmd-unfinished-business/Unfinished%20Business/cover.jpg?cnt=0" />
+    <IMG src="https://i.discogs.com/IowGiEzsSvzl9wWRGk4t8XzOVpfFQHHDhfi14fqfNbU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDg3/NTYtMTYxOTIxMTU1/MS04OTgzLmpwZWc.jpeg" />
     
  <figcaption> Politics & Bullshit by Frankie Cutlass
  
