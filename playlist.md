@@ -30,6 +30,18 @@ You mean to tell me this wasn't love?"
 
 </blockquote>
   
+<figure class=" track">
+    <IMG src="https://ia801700.us.archive.org/28/items/black-thought-streams-of-thought-1/Vol.%201/cover.jpg?cnt=0" />
+    
+ <figcaption> 04-Making A Murderer (Ft. Styles P.).mp3 by Black Thought 
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/black-thought-streams-of-thought-1/Vol.%201/04-Making%20A%20Murderer%20%28Ft.%20Styles%20P.%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
 
 <figure class=" track">
     <IMG src="https://ia802302.us.archive.org/29/items/dj-snake-you-know-you-like-it/DJ%20Snake/You%20Know%20You%20Like%20It/cover.jpg?cnt=0" />
