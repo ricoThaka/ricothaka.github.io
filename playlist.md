@@ -32,6 +32,32 @@ You mean to tell me this wasn't love?"
 
 
    <figure class=" track">
+    <IMG src="https://archive.org/download/digable-planets-9th-wonder-blackitolism/12''/1.jpg" />
+    
+ <figcaption> 9th Wonder (Blackitolism) by Digable Planets
+ 
+</figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/digable-planets-9th-wonder-blackitolism/12%27%27/01-9th%20Wonder%20%28Elaine%20Brown%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure> 
+
+
+
+   <figure class=" track">
+    <IMG src="https://ia801709.us.archive.org/8/items/big-pun-im-not-a-player/I%27m%20Not%20A%20Player/cover.jpg?cnt=0" />
+    
+ <figcaption> Big Pun : im not a Player
+ 
+</figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/big-pun-im-not-a-player/I%27m%20Not%20A%20Player/01-I%27m%20Not%20A%20Player%20%28LP%20Version%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure> 
+
+   <figure class=" track">
     <IMG src="https://ia902307.us.archive.org/14/items/epmd-unfinished-business/Unfinished%20Business/cover.jpg?cnt=0" />
     
  <figcaption> Gang Starr : 05-What's Real (Ft. Group Home & Royce Da 5'9).mp3
