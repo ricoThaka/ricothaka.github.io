@@ -32,6 +32,18 @@ You mean to tell me this wasn't love?"
 
 
    <figure class=" track">
+    <IMG src="https://archive.org/download/cru-just-another-case/Just%20Another%20Case/1.jpg" />
+    
+ <figcaption> 01-Just Another Case (Radio Version) (Ft. Slick Rick).mp3
+ 
+</figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/cru-just-another-case/Just%20Another%20Case/01-Just%20Another%20Case%20%28Radio%20Version%29%20%28Ft.%20Slick%20Rick%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure> 
+
+   <figure class=" track">
     <IMG src="https://ia902307.us.archive.org/12/items/biz-markie-goin-off/Goin%27%20Off/cover.jpg?cnt=0" />
     
  <figcaption> 01-Pickin' Boogers.mp3
