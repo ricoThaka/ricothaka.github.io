@@ -35,6 +35,18 @@ You mean to tell me this wasn't love?"
 
 
 <figure class=" track">
+    <IMG src="https://ia801809.us.archive.org/16/items/common-one-day-itll-all-make-sense/One%20Day%20It%27ll%20All%20Make%20Sense/cover.jpg?cnt=0">
+
+ <figcaption>CommonsensE : 13-1'2 Many....png
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/common-one-day-itll-all-make-sense/One%20Day%20It%27ll%20All%20Make%20Sense/13-1%272%20Many....mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
+<figure class=" track">
     <IMG src="https://ia804509.us.archive.org/18/items/nas-nasir/NASIR/cover.jpg?cnt=0">
 
  <figcaption>Nas : Adam and Eve
