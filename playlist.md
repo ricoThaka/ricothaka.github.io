@@ -33,8 +33,22 @@ You mean to tell me this wasn't love?"
     
 <div class="playlist">
 
+
 <figure class=" track">
-    <IMG src="https://archive.org/download/nas-life-is-a-good/a.jpg>
+    <IMG src="https://archive.org/download/future-the-wizrd/The%20WIZRD/a.jpg">
+
+ <figcaption>The WIZRD 13-Servin' Killa Kam.mp3
+by Future 
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/future-the-wizrd/The%20WIZRD/13-Servin%27%20Killa%20Kam.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
+<figure class=" track">
+    <IMG src="https://archive.org/download/nas-life-is-a-good/a.jpg">
 
  <figcaption>Back When by Nas
     </figcaption>
