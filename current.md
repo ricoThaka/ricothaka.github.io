@@ -1,5 +1,10 @@
 # Currently Compiling
 
+### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
+
+[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf)
+
+<iframe src="https://archive.org/embed/historyoflosange00wils" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 El Pueblo de Nuestra Señora la Reina de los Ángeles del Río de Porciúncula (English: The town of Our Lady the Queen of the Angels of the River of the Porciuncula), shortened to Pueblo de los Ángeles, was the Spanish civilian pueblo settled in 1781, which became the [American metropolis of Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles#Government). The pueblo was built using labor from the adjacent village of Yaanga and was totally dependent on local Indigenous labor for its survival
 [Read LaReina PDF](https://ia601405.us.archive.org/14/items/lareinalosangele00hill/lareinalosangele00hill.pdf) [related tweet](https://x.com/RicoThaka/status/1785810853646021084) [WELCOME TO LA REINA](https://www.lareinala.com/our-history) [The History of Los Angeles](https://lacity.gov/government/history-los-angeles) Historically, the areas of present day Los Angeles was home to the Chumash and Tongva Native American tribes. On September 4, 1781 a group of settlers consisting of 14 families numbering 44 individuals of Native American, African and European heritage journeyed more than one-thousand miles across the desert from present-day northern Mexico and established a farming community in the area naming it "El Pueblo de Nuestra Señora la Reina de los Ángeles de Porciúncula" which in English translated to "The Town of Our Lady the Queen of the Angels of Porciúncula". Over time this community would grow under the flags of Spain, Mexico and eventually the United States to become one of the largest metropolitan cities in the world, the City of [Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles). 
