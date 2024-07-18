@@ -1,4 +1,35 @@
 
+## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
+> there were civil suits and it actually
+resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
+that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4)
+
+
+
+[![Hackers_Journalist](https://pbs.twimg.com/media/GO3R9FXbsAA2BgP?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+
+[![Threats](https://pbs.twimg.com/media/GO3T_1fa8AAT_mY?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
+
+
+[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
+
+[Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
+
+### Is private security endangering those in California homeless shelters? [Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/)
+
+>In Southern California, homeless people have sued over a range of alleged sexual abuses, from rape to strip searches;
+
+>In the Bay Area, residents of a government-run tent city said in court that contract workers dealt drugs and harassed women;
+
+>In Fresno and Los Angeles, families sued for wrongful death after homeless loved ones were shot by a guard or stabbed by a fellow shelter resident despite an on-duty guard. 
+
+[How big is California’s homelessness crisis? Inside the massive, statewide effort to find out](https://calmatters.org/housing/homelessness/2024/01/california-homeless-point-in-time-count-2024/)
+[Meth, death and abuse: Inside the private security forces patrolling California’s homeless](https://calmatters.org/housing/homelessness/2024/04/homeless-shelter-private-security/)
+The former hairdresser had spent years sleeping in her car and parks around Anaheim, near the suburban salons where she used to work. One day a social worker told Powitzky about an old piano shop recently converted into a shelter. 
+
 <img src= "https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg" alt="Emergency Survival Guide" style="width:322px;height:480px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
 
 [Classification 31: White Slave Traffic Act](https://www.archives.gov/research/investigations/fbi/classifications/031-white-slave-traffic.html) Investigation of white slave traffic is one of the oldest functions of the Bureau, dating from the passage of the White Slave Traffic Act (Mann Act) in 1910. Originally established as a separate records system, the white slave traffic act cases were incorporated into the central filing system that the Bureau adopted from the Justice Department in 1921. The act was codified in U.S. Code Title 18 and prohibited transportation of women or girls in interstate or foreign commerce for the purpose of prostitution, debauchery, or other immoral purposes, the coercion or enticement of women or girls for this purpose, and the coercion or enticement of female minors.
@@ -211,22 +242,7 @@ I shared with [[developer.metroGIS Data\]](https://developer.metro.net/) with Mi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UQfWY-vWy_s?si=G6T39KStP7-Q-fSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
-> there were civil suits and it actually
-resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
-that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4)
 
-
-
-[![Hackers_Journalist](https://pbs.twimg.com/media/GO3R9FXbsAA2BgP?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
-
-
-[![Threats](https://pbs.twimg.com/media/GO3T_1fa8AAT_mY?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
-
-### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
-
-
-[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
 
 <div class="viking">
         <div></div>
@@ -242,20 +258,6 @@ that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6vyx1ofc0mM?si=TJxwNPGkD_J6JtzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
-
-### Is private security endangering those in California homeless shelters? [Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/)
-
->In Southern California, homeless people have sued over a range of alleged sexual abuses, from rape to strip searches;
-
->In the Bay Area, residents of a government-run tent city said in court that contract workers dealt drugs and harassed women;
-
->In Fresno and Los Angeles, families sued for wrongful death after homeless loved ones were shot by a guard or stabbed by a fellow shelter resident despite an on-duty guard. 
-
-[How big is California’s homelessness crisis? Inside the massive, statewide effort to find out](https://calmatters.org/housing/homelessness/2024/01/california-homeless-point-in-time-count-2024/)
-[Meth, death and abuse: Inside the private security forces patrolling California’s homeless](https://calmatters.org/housing/homelessness/2024/04/homeless-shelter-private-security/)
-The former hairdresser had spent years sleeping in her car and parks around Anaheim, near the suburban salons where she used to work. One day a social worker told Powitzky about an old piano shop recently converted into a shelter. 
 
 ![Lauren Hepler](https://i0.wp.com/calmatters.org/wp-content/uploads/2024/03/Homeless-Security_AH_CM_01-scaled.jpg?resize=1024%2C683&ssl=1)
 ### ‘A really scary feeling’: Private security firm accused of using force against UCLA protesters
