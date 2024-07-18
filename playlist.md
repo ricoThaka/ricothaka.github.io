@@ -43,8 +43,17 @@ by Immortal Technique & DJ Green Lantern
       Your browser dose not Support the audio Tag
     </audio>
   </figure>
+
 <figure class=" track">
     <IMG src="https://ia601709.us.archive.org/7/items/aesop-rock-skelethon/Skelethon/cover.jpg?cnt=0">
+     <figcaption>Skelethon
+by Aesop Rock Zero Dark Thirty
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/aesop-rock-skelethon/Skelethon/CD%201/04-Zero%20Dark%20Thirty.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
 
 
 
