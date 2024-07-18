@@ -31,10 +31,11 @@ You mean to tell me this wasn't love?"
 </blockquote>
   
     
-<div class="playlist">
+
 
 <figure class=" track">
-    <IMG src="https://ia804607.us.archive.org/2/items/immortal-technique-and-dj-green-lantern-the-3rd-world/Immortal%20Technique%20%26%20DJ%20Green%20Lantern/The%203rd%20World/cover.jpg?cnt=0">
+    <IMG src="https://ia804607.us.archive.org/2/items/immortal-technique-and-dj-green-lantern-the-3rd-world/Immortal%20Technique%20%26%20DJ%20Green%20Lantern/The%203rd%20World/cover.jpg?cnt=0" />
+    
  <figcaption>The 3rd World
 by Immortal Technique & DJ Green Lantern
     </figcaption>
@@ -222,7 +223,7 @@ by Aaliyah
   <figure class=" track">
     <IMG src="https://ia804607.us.archive.org/4/items/snoop-lion-reincarnated-2013/Snoop%20Lion/Reincarnated/cover.jpg?cnt=0">
 
-    <figcaption>07-Fruit Juice (Ft. Mr. Vegas).mp3
+  <figcaption>07-Fruit Juice (Ft. Mr. Vegas).mp3
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/snoop-lion-reincarnated-2013/Snoop%20Lion/Reincarnated/07-Fruit%20Juice%20%28Ft.%20Mr.%20Vegas%29.mp3">
