@@ -33,6 +33,17 @@ You mean to tell me this wasn't love?"
     
 <div class="playlist">
 
+  <figure class=" track">
+    <IMG src="https://ia902304.us.archive.org/27/items/aaliyah-one-in-a-million/Album/cover.jpg?cnt=0">
+
+ <figcaption>08-4 Page Letter.mp3
+by Aaliyah
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/aaliyah-one-in-a-million/Album/08-4%20Page%20Letter.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
 
   <figure class=" track">
     <IMG src="https://archive.org/download/bone-thigs-n-harmony-e-1999-eternal/E.%201999%20Eternal/1.jpg">
