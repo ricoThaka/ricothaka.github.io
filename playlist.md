@@ -35,17 +35,18 @@ You mean to tell me this wasn't love?"
 
 <figure class=" track">
     <IMG src="https://ia804607.us.archive.org/2/items/immortal-technique-and-dj-green-lantern-the-3rd-world/Immortal%20Technique%20%26%20DJ%20Green%20Lantern/The%203rd%20World/cover.jpg?cnt=0">
-
-<figure class=" track">
-    <IMG src="https://ia601709.us.archive.org/7/items/aesop-rock-skelethon/Skelethon/cover.jpg?cnt=0">
-
- <figcaption>Aesop Rock: 04-Zero Dark Thirty.mp3
+ <figcaption>The 3rd World
+by Immortal Technique & DJ Green Lantern
     </figcaption>
     <audio controls loop>
-      <source src="https://archive.org/download/aesop-rock-skelethon/Skelethon/CD%201/04-Zero%20Dark%20Thirty.mp3">
+      <source src="https://archive.org/download/immortal-technique-and-dj-green-lantern-the-3rd-world/Immortal%20Technique%20%26%20DJ%20Green%20Lantern/The%203rd%20World/CD%201/08-The%203rd%20World.mp3">
       Your browser dose not Support the audio Tag
     </audio>
   </figure>
+<figure class=" track">
+    <IMG src="https://ia601709.us.archive.org/7/items/aesop-rock-skelethon/Skelethon/cover.jpg?cnt=0">
+
+
 
 
 <figure class=" track">
