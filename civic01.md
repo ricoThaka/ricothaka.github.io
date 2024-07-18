@@ -1,7 +1,7 @@
 
 
 
-
+[Editorial: Mayor Bass vetoed a police discipline ballot measure. Now she has to help create a new one](https://www.latimes.com/opinion/story/2024-07-17/editorial-mayor-bass-vetoed-police-discipline-ballot-measure-now-what) [COVID cases rising in L.A. County; Mayor Karen Bass tests positive](https://ktla.com/news/local-news/covid-cases-rising-in-l-a-county-mayor-karen-bass-tests-positive/) [Despite Covid surge, Los Angeles mayor considers mask ban at protests](https://www.theguardian.com/us-news/article/2024/jun/25/los-angeles-mask-ban-covid) [Faced with community complaints, Mayor Karen Bass retools her affordable housing strategy](https://www.latimes.com/california/newsletter/2024-07-06/la-on-the-record-bass-retools-her-affordable-housing-strategy-l-a-on-the-record)
 ![Mayor Karen Bass](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGsyb2ZmYzRpcmdiODdtNDFycTFobDR0dTZ3eGh0bjdkaTB1aWxyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kILkoRamLCiqRHqqoy/giphy.webp)
 # Dear MAyor ([Karen Bass](https://www.kqed.org/news/11932548/karen-bass-wins-la-mayoral-race))
 [Sheriff Statement](https://ricothaka.github.io/dispositionforsherrif) [Sheriff Statement](https://thakarashard.github.io/dispositionforsherrif)
