@@ -30,6 +30,20 @@ You mean to tell me this wasn't love?"
 
 </blockquote>
   
+
+<figure class=" track">
+    <IMG src="https://ia804609.us.archive.org/21/items/jaylib-champion-sound/Champion%20Sound/cover.jpg?cnt=0" />
+    
+ <figcaption> Champion Sound
+by Jaylib The Red (RemiX)  
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/jaylib-champion-sound/Champion%20Sound/CD%201%20Album/05-The%20Red%20%28Remix%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
 <figure class=" track">
     <IMG src="https://archive.org/download/dj-muggs-soul-assassins-chapter-I-1997/Chapter%20I/1.jpg" />
     
