@@ -30,10 +30,33 @@ You mean to tell me this wasn't love?"
 
 </blockquote>
   
+
+<figure class=" track">
+    <IMG src="https://ia802302.us.archive.org/29/items/dj-snake-you-know-you-like-it/DJ%20Snake/You%20Know%20You%20Like%20It/cover.jpg?cnt=0" />
+    
+ <figcaption>You Know You Like It
+by DJ Snake Aluna George Vocals 
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/dj-snake-you-know-you-like-it/DJ%20Snake/You%20Know%20You%20Like%20It/01-You%20Know%20You%20Like%20It%20%28Ft.%20ALUNAGEORGE%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+  <figure class=" track">
+    <IMG src="https://ia802303.us.archive.org/21/items/future-beastmode-2/2/cover.jpg?cnt=0" />
+    
+ <figcaption>Future : Wifi Lit 
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
     
 
 <figure class=" track">
-    <IMG src="https://ia804607.us.archive.org/2/items/immortal-technique-and-dj-green-lantern-the-3rd-world/Immortal%20Technique%20%26%20DJ%20Green%20Lantern/The%203rd%20World/cover.jpg?cnt=0" />
+    <IMG src="https://ia802303.us.archive.org/21/items/future-beastmode-2/2/cover.jpg?cnt=0" />
     
  <figcaption>Future : Wifi Lit 
     </figcaption>
