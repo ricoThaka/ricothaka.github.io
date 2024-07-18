@@ -33,6 +33,19 @@ You mean to tell me this wasn't love?"
     
 <div class="playlist">
 
+
+
+<figure class=" track">
+    <IMG src="https://ia902907.us.archive.org/26/items/2chainzprettygirlsliketrapmusic/Pretty%20Girls%20Like%20Trap%20Music/cover.jpg?cnt=0">
+
+ <figcaption>05-Door Swangin'.mp3 by 2chainzprettygirlsliketrapmusic
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/2chainzprettygirlsliketrapmusic/Pretty%20Girls%20Like%20Trap%20Music/05-Door%20Swangin%27.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
 <figure class=" track">
     <IMG src="https://archive.org/download/wu-tang-clan-can-it-be-all-so-simple-wu-tang-clan-aint-nuthing-ta-fuck-wit/Can%20It%20Be%20All%20So%20Simple%20%EF%BC%8F%20Wu-Tang%20Clan%20Ain't%20Nuthing%20Ta%20Fuck%20Wit/a.jpg">
 
