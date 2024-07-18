@@ -67,67 +67,6 @@ carousels:
           </div>
 
 
-![Kash Doll: Brat Mail](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg)
-<embed width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%2329f247&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" />
-
-# About Kash Doll and Me
-NasaJPL, I dont know what she is going by at the moment but she is my post erika wife forever girlfriend surrounding that. The name I was given origionally was Vanessa Walker. We were little kids here from africa that got kidnapped and moved east. She is still in some sort of human trafficking situation. To me she is a really important person and as some of you know my energy towards those in [UpperUnix] administration know how i look up to you. Its isolated bc im learning from you. She is similar. But she has a lot of identities and worst case I want you guys to know i never did any fruad with her. But know thats whats required of her. The character Normani, looks like an attempt for the girls to substitute for each other bc i still get her confused with Erika when she has the [LightComplexion](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg) bc they share similar features. Im also afraid bc she is ethiopian and i have not seen her dress traditionally in a long time... She still talkes to me, but she plays [minecraft](https://youtu.be/K4vtrzcqyg0?si=Bc-Alnd9YbOu90In) and communicates differnt from other girls
-
-
-## Intro (Brat Mail) [LyricS](https://genius.com/Kash-doll-intro-brat-mail-lyrics)
-
-{% highlight ruby %} 
-[Verse]
-Look, I be exploring the foreigns with more power than stars
-On my new new shit, like my name is Rashaad
-And my punchlines seasoned plenty minds like it's time
-So, if he ever tell you he ain't feelin' me, he lying'
-Shout out to me, all on BET
-I'm a very rich chick, on my Nene Leakes
-I'm a boss, every move gotta come through me
-Murder broads in my minks
-May they rest in peace
-And I'm still the top chick
-Any bitch think I drop dick get higher than Mariah
-And she like a five octave
-Stop it, please stop it
-Blowing money
-All in Neiman's in there Diddy bopping
-And you know I came to murder it
-My city watchin'
-I'm so humble, I'ma front like I don't do this often
-It's Kash Doll, bow down, and kiss the ring
-Soon as this paperwork done
-I'm touching everything
-A murder scene
-
-[Outro]
-Haha
-Yeah, that way
-The doll way
-{% endhighlight %}
-
-[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
-
-
-## BattleToadS
-by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retrogames.cc/arcade-games/battletoads.html) [Sega Genesis](https://archive.org/details/Battletoads_World.md)
-
-[![BattleToads](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)
-
-
-
-### ᕙ(⇀‸↼‶)ᕗ
-
-<div class="pinupImage expandingGallery">
-<img src="https://pbs.twimg.com/media/GO3eDMIasAAUHMp?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3ePDIaAAA18IW?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3fAfpaQAAmoqn?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3ffBoa8AAuqsh?format=jpg&name=large" />
-
- </div>
- 
- ![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
 
 ## Marble Madness by Atari Games
 ![Marble Madness by Atari Games](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/MarbleMadness_marquee_23.5-x-5.25_dedicated.jpg?fit=1200%2C268&ssl=1) Marble Madness is an arcade video game designed by Mark Cerny, and published by Atari Games in 1984. It is a platform game in which the player must guide an onscreen marble

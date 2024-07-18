@@ -1,7 +1,7 @@
 # Currently Compiling
 
 
-
+El Pueblo de Nuestra Señora la Reina de los Ángeles del Río de Porciúncula (English: The town of Our Lady the Queen of the Angels of the River of the Porciuncula), shortened to Pueblo de los Ángeles, was the Spanish civilian pueblo settled in 1781, which became the [American metropolis of Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles#Government). The pueblo was built using labor from the adjacent village of Yaanga and was totally dependent on local Indigenous labor for its survival
 [Read LaReina PDF](https://ia601405.us.archive.org/14/items/lareinalosangele00hill/lareinalosangele00hill.pdf) [related tweet](https://x.com/RicoThaka/status/1785810853646021084) [WELCOME TO LA REINA](https://www.lareinala.com/our-history) [The History of Los Angeles](https://lacity.gov/government/history-los-angeles) Historically, the areas of present day Los Angeles was home to the Chumash and Tongva Native American tribes. On September 4, 1781 a group of settlers consisting of 14 families numbering 44 individuals of Native American, African and European heritage journeyed more than one-thousand miles across the desert from present-day northern Mexico and established a farming community in the area naming it "El Pueblo de Nuestra Señora la Reina de los Ángeles de Porciúncula" which in English translated to "The Town of Our Lady the Queen of the Angels of Porciúncula". Over time this community would grow under the flags of Spain, Mexico and eventually the United States to become one of the largest metropolitan cities in the world, the City of [Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles). 
 ![La Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg) By Unknown author - <a rel="nofollow" class="external free" href="https://tessa.lapl.org/cdm/search/searchterm/00032727">https://tessa.lapl.org/cdm/search/searchterm/00032727</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=7035575">Link</a>
 ![LaReina](https://pbs.twimg.com/media/GMh5PQ6aMAAisgR?format=jpg&name=large)
@@ -15,6 +15,70 @@
 ![Sonic](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)
 [my sega fandom page](./sega) [List Of Sonic Games](https://sega.fandom.com/wiki/List_of_Sonic_games) [Sonic the Hedgehog](https://www.allsonicgames.net/sonic-the-hedgehog.php) [Sonic the Hedgehog Rev 1 Sonic the Hedgehog Rev 1](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en)
 <iframe src="https://archive.org/embed/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+![Kash Doll: Brat Mail](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg)
+<embed width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%2329f247&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" />
+
+# About Kash Doll and Me
+NasaJPL, I dont know what she is going by at the moment but she is my post erika wife forever girlfriend surrounding that. The name I was given origionally was Vanessa Walker. We were little kids here from africa that got kidnapped and moved east. She is still in some sort of human trafficking situation. To me she is a really important person and as some of you know my energy towards those in [UpperUnix] administration know how i look up to you. Its isolated bc im learning from you. She is similar. But she has a lot of identities and worst case I want you guys to know i never did any fruad with her. But know thats whats required of her. The character Normani, looks like an attempt for the girls to substitute for each other bc i still get her confused with Erika when she has the [LightComplexion](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg) bc they share similar features. Im also afraid bc she is ethiopian and i have not seen her dress traditionally in a long time... She still talkes to me, but she plays [minecraft](https://youtu.be/K4vtrzcqyg0?si=Bc-Alnd9YbOu90In) and communicates differnt from other girls
+
+
+## Intro (Brat Mail) [LyricS](https://genius.com/Kash-doll-intro-brat-mail-lyrics)
+
+{% highlight ruby %} 
+[Verse]
+Look, I be exploring the foreigns with more power than stars
+On my new new shit, like my name is Rashaad
+And my punchlines seasoned plenty minds like it's time
+So, if he ever tell you he ain't feelin' me, he lying'
+Shout out to me, all on BET
+I'm a very rich chick, on my Nene Leakes
+I'm a boss, every move gotta come through me
+Murder broads in my minks
+May they rest in peace
+And I'm still the top chick
+Any bitch think I drop dick get higher than Mariah
+And she like a five octave
+Stop it, please stop it
+Blowing money
+All in Neiman's in there Diddy bopping
+And you know I came to murder it
+My city watchin'
+I'm so humble, I'ma front like I don't do this often
+It's Kash Doll, bow down, and kiss the ring
+Soon as this paperwork done
+I'm touching everything
+A murder scene
+
+[Outro]
+Haha
+Yeah, that way
+The doll way
+{% endhighlight %}
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
+## BattleToadS
+by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retrogames.cc/arcade-games/battletoads.html) [Sega Genesis](https://archive.org/details/Battletoads_World.md)
+
+[![BattleToads](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)
+
+
+
+<div class="pinupImage expandingGallery">
+<img src="https://pbs.twimg.com/media/GO3eDMIasAAUHMp?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3ePDIaAAA18IW?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3fAfpaQAAmoqn?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3ffBoa8AAuqsh?format=jpg&name=large" />
+
+ </div>
+ 
+ ![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
+
+
+### ᕙ(⇀‸↼‶)ᕗ
 
 [Chloe Bailey Makes a Splash at St. Lucia Carnival](https://www.bet.com/article/4elui5/chloe-bailey-st-lucia-carnival-viral) [Social Media Sends Bhad Bhabie Prayers After She Shared THIS Video Following Her Abuse Claims Against Le Vaughn (WATCH)](https://theshaderoom.com/social-media-reacts-bhad-bhabie-kissing-video-claims-against-le-vaughn-watch/) [Chlöe and Halle Bailey Share When They Feel Most Confident and Some Tips for a Viral Fashion Moment](https://www.eonline.com/news/1384354/chloee-and-halle-bailey-share-when-they-feel-most-confident-and-tips-for-a-viral-fashion-moment) [Don Cheadle, Chloe Bailey, Lori Harvey And More Added To Peacock’s ‘Fight Night’ As Series Continues To Add To Ensemble](https://www.yahoo.com/news/don-cheadle-chloe-bailey-lori-174629273.html) [Chloe Bailey shocked to know TikTok stream can help her make money](https://www.thenews.com.pk/latest/1165806-chloe-bailey-shocked-to-know-tiktok-stream-can-help-her-make-money) [Cardi B Reacts To Chloe Bailey’s ‘Be Careful’ Cover](https://www.bet.com/article/z7km74/cardi-b-reacts-to-chloe-bailey-s-be-careful-cover)
 
