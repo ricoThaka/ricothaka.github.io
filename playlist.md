@@ -33,7 +33,16 @@ You mean to tell me this wasn't love?"
     
 <div class="playlist">
 
+<figure class=" track">
+    <IMG src="https://archive.org/download/wu-tang-clan-can-it-be-all-so-simple-wu-tang-clan-aint-nuthing-ta-fuck-wit/Can%20It%20Be%20All%20So%20Simple%20%EF%BC%8F%20Wu-Tang%20Clan%20Ain't%20Nuthing%20Ta%20Fuck%20Wit/a.jpg">
 
+ <figcaption>Can It Be All So Simple by Wu-Tang Clan
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/wu-tang-clan-can-it-be-all-so-simple-wu-tang-clan-aint-nuthing-ta-fuck-wit/Can%20It%20Be%20All%20So%20Simple%20%EF%BC%8F%20Wu-Tang%20Clan%20Ain%27t%20Nuthing%20Ta%20Fuck%20Wit/02-Can%20It%20Be%20All%20So%20Simple%20%28Album%20Version%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
 
 <figure class=" track">
     <IMG src="https://ia804509.us.archive.org/27/items/dj-khaled-major-key/Major%20Key/cover.jpg?cnt=0">
