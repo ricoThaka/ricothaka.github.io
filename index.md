@@ -95,17 +95,7 @@ carousels:
 
 
 
-![om1](https://geocities.ws/sb202us/optimized/volueonehead.jpg)
-![TYME](https://geocities.ws/sb202us/optimized/TYME.jpg)
-![deshavious](https://geocities.ws/sb202us/poemtitles/bottled.gif)
-![om2](https://geocities.ws/sb202us/optimized/vol2head.jpg)
-![headATL](https://geocities.ws/sb202us/optimized/Atl_carac.jpg)
-![Alfredo](https://geocities.ws/sb202us/poemtitles/thinkofher.gif)
-![kaeHock](https://geocities.ws/sb202us/poemtitles/untitled1.gif)
-![Tiana phenix](https://geocities.ws/sb202us/poemtitles/44lines.gif)
-![comfortjidenma](https://geocities.ws/sb202us/poemtitles/whaticantsay.gif)
-![om3](https://geocities.ws/sb202us/optimized/vol3head.jpg)
-![vanessa](https://geocities.ws/sb202us/poemtitles/fantasy2.gif)
+
 [Goodie Mob SoulFood](https://www.youtube.com/watch?v=q6-SFIAzFnA)
 
 [It Doesn't Matter ](https://youtu.be/6s3ufTanUMo?si=eyW3DExTI8CTqGhv)

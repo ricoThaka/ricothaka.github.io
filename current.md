@@ -1,5 +1,8 @@
 # Currently Compiling
 
+
+[Normani - Insomnia (Audio)](https://youtu.be/A7iWX2excWw?si=0tTzNJKSucAJGA2l) [Normani - Still (Audio)](https://youtu.be/Shz79-CRyzc?si=3Af7_YgLyLKD59g9) [Pilot Episode | I, Darrin, Take This Witch, Samantha | S1E1 | Bewitched](https://youtu.be/oB_vXlgcCpw?si=O_TWnWDvSjS7-kYS)
+
 The Port of Los Angeles: a History
 <iframe src="https://archive.org/embed/csmha_000279" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 

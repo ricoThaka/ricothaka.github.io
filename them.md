@@ -10,4 +10,16 @@
 [Wiki](https://en.wikipedia.org/wiki/Rock_the_Boat_(Aaliyah_song))
 [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7) [A Timeee Was Had: Missy Elliott Celebrates Birthday With Supa Dupa Sneaker Soirée During Essence Fest; Jill Scott, Jermaine Dupri, Ari Lennox & More Attend](https://bossip.com/2369900/missy-elliott-star-studded-sneaker-ball-birthday-bash-essence-fest/)
 
-[Normani - Insomnia (Audio)](https://youtu.be/A7iWX2excWw?si=0tTzNJKSucAJGA2l)
+[Normani - Insomnia (Audio)](https://youtu.be/A7iWX2excWw?si=0tTzNJKSucAJGA2l) [Normani - Still (Audio)](https://youtu.be/Shz79-CRyzc?si=3Af7_YgLyLKD59g9) [Pilot Episode | I, Darrin, Take This Witch, Samantha | S1E1 | Bewitched](https://youtu.be/oB_vXlgcCpw?si=O_TWnWDvSjS7-kYS)
+
+![om1](https://geocities.ws/sb202us/optimized/volueonehead.jpg)
+![TYME](https://geocities.ws/sb202us/optimized/TYME.jpg)
+![deshavious](https://geocities.ws/sb202us/poemtitles/bottled.gif)
+![om2](https://geocities.ws/sb202us/optimized/vol2head.jpg)
+![headATL](https://geocities.ws/sb202us/optimized/Atl_carac.jpg)
+![Alfredo](https://geocities.ws/sb202us/poemtitles/thinkofher.gif)
+![kaeHock](https://geocities.ws/sb202us/poemtitles/untitled1.gif)
+![Tiana phenix](https://geocities.ws/sb202us/poemtitles/44lines.gif)
+![comfortjidenma](https://geocities.ws/sb202us/poemtitles/whaticantsay.gif)
+![om3](https://geocities.ws/sb202us/optimized/vol3head.jpg)
+![vanessa](https://geocities.ws/sb202us/poemtitles/fantasy2.gif)
