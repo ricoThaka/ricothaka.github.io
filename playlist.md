@@ -33,7 +33,16 @@ You mean to tell me this wasn't love?"
     
 <div class="playlist">
 
+<figure class=" track">
+    <IMG src="https://archive.org/download/3rdbassthecactusalbum/Album/1.jpg">
 
+ <figcaption>3rd Bass 04-The Gas Face.mp3
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/3rdbassthecactusalbum/Album/04-The%20Gas%20Face.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
 
 <figure class=" track">
     <IMG src="https://ia601701.us.archive.org/2/items/busta-rhymes-when-disaster-strikes/When%20Disaster%20Strikes/cover.JPG?cnt=0">
