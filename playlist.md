@@ -29,7 +29,31 @@ You mean to tell me this wasn't love?"
   </footer>
 
 </blockquote>
-  
+
+
+   <figure class=" track">
+    <IMG src="https://ia902307.us.archive.org/14/items/epmd-unfinished-business/Unfinished%20Business/cover.jpg?cnt=0" />
+    
+ <figcaption> Gang Starr : 05-What's Real (Ft. Group Home & Royce Da 5'9).mp3
+ 
+</figcaption>
+    <audio controls loop>
+      <source src="https://dn720307.ca.archive.org/0/items/gang-starr-one-of-the-best-yet/Album/05-What%27s%20Real%20%28Ft.%20Group%20Home%20%26%20Royce%20Da%205%279%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure> 
+
+  <figure class=" track">
+    <IMG src="https://ia902307.us.archive.org/14/items/epmd-unfinished-business/Unfinished%20Business/cover.jpg?cnt=0" />
+    
+ <figcaption> Politics & Bullshit by Frankie Cutlass
+ 
+</figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/frankie-cutlass-politics-and-bullshit/Politics%20%26%20Bullshit/01-Puerto%20Rico%20%EF%BC%8F%20Black%20People.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
 
 <figure class=" track">
     <IMG src="https://ia902307.us.archive.org/14/items/epmd-unfinished-business/Unfinished%20Business/cover.jpg?cnt=0" />
