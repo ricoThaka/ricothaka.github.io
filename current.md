@@ -1,10 +1,13 @@
 # Currently Compiling
 
-
+The Port of Los Angeles: a History
+<iframe src="https://archive.org/embed/csmha_000279" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [An illustrated history of Los Angeles County, California](https://archive.org/details/illustratedhisto01lewi/page/575/mode/2up)
 <iframe src="https://archive.org/embed/illustratedhisto01lewi" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-[LaHistoryArchive](https://www.lahistoryarchive.org/) [East Los Angeles : history of a barrio](https://archive.org/details/eastlosangeleshi0000romo/page/n9/mode/2up) [Front page : 100 years of the Los Angeles times, 1881-1981](https://archive.org/details/frontpage100year0000unse/page/n9/mode/2up) 
+
+[LaHistoryArchive](https://www.lahistoryarchive.org/) [East Los Angeles : history of a barrio](https://archive.org/details/eastlosangeleshi0000romo/page/n9/mode/2up) [Front page : 100 years of the Los Angeles times, 1881-1981](https://archive.org/details/frontpage100year0000unse/page/n9/mode/2up) [The history of forgetting : Los Angeles and the erasure of memory](https://archive.org/details/historyofforgett0000klei)
+
 ### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
 
 [PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf) 
@@ -102,14 +105,15 @@ by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retro
 <IMG src="http://i.kinja-img.com/gawker-media/image/upload/s--lS5cFdtL--/wrlpspsqwyzhmron7hgp.jpg">
 
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/kLBNMhzn8VI" title="Immortal Technique - Toast to the Dead w/ lyrics HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-### bereavmint
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/kLBNMhzn8VI" title="Immortal Technique - Toast to the Dead w/ lyrics HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Crooklyn Dodgers (Special Ed, Masta Ace & Buckshot) - Crooklyn (Official Video)](https://www.youtube.com/watch?v=a2pzmty3LVs) [HTAU](https://ricothaka.github.io/htau.html) [Beenie Man ‎– Crazy Notion](https://youtu.be/X1RgygADUpE?si=7YIc1LkItTQy0Sd0) [Old Dog - BeenieMAn reggae](https://youtu.be/7lLwcdoWvsY?si=tnw-Ro1XZ1G_TjbV) [Walt Disney Treasures - Hawaiian Holiday (1937)](https://youtu.be/SdIaEQCUVbk?si=-37tvaVyxT5oi72i)
+[Crooklyn Dodgers (Special Ed, Masta Ace & Buckshot) - Crooklyn (Official Video)](https://www.youtube.com/watch?v=a2pzmty3LVs) [HTAU](https://ricothaka.github.io/htau.html) [Beenie Man ‎– Crazy Notion](https://youtu.be/X1RgygADUpE?si=7YIc1LkItTQy0Sd0) [Old Dog - BeenieMAn reggae](https://youtu.be/7lLwcdoWvsY?si=tnw-Ro1XZ1G_TjbV) [Walt Disney Treasures - Hawaiian Holiday (1937)](https://youtu.be/SdIaEQCUVbk?si=-37tvaVyxT5oi72i)
  [Walt Disney Animation Studios - includes Steamboat Willie](https://youtube.com/playlist?list=PLA831BC0E127BC123&si=cttvuhgBj8j9wJ_v)
 
 ![normani tryre](https://static.stereogum.com/uploads/2024/07/25614876-04EB-48B1-8E67-AA70D7B75F7A-1721156229-1000x1000.jpg)
 [Tayla Parx Calls Out Normani For Not Crediting Her Work On “Insomnia”](https://www.stereogum.com/2271890/talya-parx-calls-out-normani-for-not-crediting-her-work-on-insomnia/news/)
 ![Stranger Things Party?](https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6630545/strangerthingsgif.0.gif)
+
 [ITC Benguiat is a decorative serif typeface designed by Ed Benguiat and released by the International Typeface Corporation (ITC) in 1977.](https://www.linotype.com/576/itc-benguiat-family.html) The face is loosely based upon typefaces of the Art Nouveau period but is not considered an academic revival. The face follows ITC's design formulary of an extremely high x-height, combined with multiple widths and weights. The original version of 1977 contained numerous nonstandard ligatures (such as AB, AE, AH, AK, AR, LA, SS, TT) and alternate shapes for some letters which were not carried into the digital version. - TAKEN_FRON_WiKiPEDiA
 
 ## ANiMAL_FARM##ANiMATED##1954 
@@ -117,8 +121,6 @@ by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retro
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b0044674400667.5c2e83b770581.jpg">
 <img src="https://3.bp.blogspot.com/-0zhGOWFFSkc/XEWmH1y360I/AAAAAAAAFxA/9ugKLf2Vod8tIlyHlX8iys2uhHX473MNwCLcBGAs/s640/arada-vol-2.jpg">
 
-![dodgers](https://milkcanindustries.com/cdn/shop/products/1024dodgers_1200x1200.jpg?v=1625936600)
-[Brooklyn Dodgers T Shirt- 1955](https://milkcanindustries.com/products/brooklyn-dodgers-1955)
 ![klax](https://www.arcade-museum.com/images-game/28/klax-28594.jpg)
 [Klax (set 1)](https://archive.org/details/arcade_klax) Klax is a puzzle video game released in arcades in 1990 by Atari Games while Namco distributed the game in Japanese markets. It was designed and animated by Mark Stephen Pierce with the software engineering done by Dave Akers. The object is to catch colored blocks tumbling down a machine and arrange them in colored rows and patterns to make them disappear. Klax was originally published as a coin-op follow-up to Tetris, about which Atari Games was in a legal dispute at the time. [WikiPedia](https://en.wikipedia.org/wiki/Klax_(video_game)) [Klax](https://www.arcade-museum.com/Videogame/klax) Player must catch colored blocks rolling down a conveyer belt and stack them by color in vertical columns or, in higher levels, horizontal and diagonal rows. Higher levels also use more colors of blocks. A female voice announces each wave and offers praise for bonus points.[arcade museum](https://www.arcade-museum.com/Videogame/klax) [Sega genesis](https://www.retrogames.cc/genesis-games/klax-usa.html)
 ![KLAX](https://i.ebayimg.com/images/g/eToAAOSwOtVapEBb/s-l1200.jpg)
@@ -165,35 +167,6 @@ By <a href="https://en.wikipedia.org/wiki/en:Gustave_Dor%C3%A9" class="extiw" ti
   and watch it with your favorite video player!
 </video>
 
-
-![RayMan](https://pbs.twimg.com/media/F7ZU0jJaoAAOnhp?format=jpg&name=medium)
-![android wheres my phone](https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium)
-![Termux](https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium)
-![BMX](https://pbs.twimg.com/media/F6UzcaRa0AEqcqk?format=jpg&name=medium)
-![santa monica](https://pbs.twimg.com/media/F6UzdBPbMAA3HCV?format=jpg&name=medium)
-![Hollywood](https://pbs.twimg.com/media/F6UzcrrbIAA53y-?format=jpg&name=medium)
-![thee stallion](https://pbs.twimg.com/media/GKWeY5racAAMfpF?format=jpg&name=small)
-
-
-# Dear MAyor ([Karen Bass](https://www.kqed.org/news/11932548/karen-bass-wins-la-mayoral-race))
-
-Hi, Its Rasahrd from NasaJpl the [YA](https://www.reddit.com/r/YAlit/comments/18xxv05/is_there_a_list_of_must_read_ya_books_especially/) Somali that takes short naps on the back portch of [city hall](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/). I am following your instructions in the [County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf)
-
-it reads 
-
->This Guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County. Our goal is to provide tips that assist you to be self-sufficient after a disaster
-
-<img src= "https://lacounty.gov/wp-content/uploads/2022/03/Emerg.Survival.Guide_-232x300.jpg" alt="Emergency Survival Guide" style="width:232px;height:300px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
-
- [This guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County.](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/)
-
-Its hard to explin everything in one quick note. But basically I was in Atlanta and [My Wife Vanished](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) and i got destituted by ppl throwing me in the mental hospital a girl i was told was my cousin [Kelly Danielle](https://www.instagram.com/daniellekellybjj/p/Cdw9_9nsfEe/?img_index=1) Renee Williams daughter by Winfred. My daughter was taken and i cannot even get a cellphone. 
-
-I eat at [St_Francis](https://www.stfranciscenterla.org/) once a day and [Reality Church in Hollywood](https://realityla.com/) 5 days a week since i got suspended from [Long Beach's Billie Jean Library](https://www.longbeach.gov/library/locations/main-library/)... So i need you to look at this conversation. Its the kidnapper of my wife#2/3 [She is no longer you wife](https://vimeo.com/396000267)
-
-im always running from ppl bc she is in the entertainment industry. They have an infrastructure that cuts the girls off from contact outside a [Streaming Media Cult](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) 
-
-anyway last night [June 9th](https://www.amoeba.com/our-stores/store-news/469/the-2024-la-pride-parade-block-party-in-hollywood-sunday-june-9th-469/) a gaurd with [Allied Universal](https://ausnewsroom.aus.com/) The guy with scruffy hair. Hes white he called this South American Assasin and he cahsed me with a holstered gun and bullet proof [Tactical Vest](https://www.blackhawk.com/tactical-nylon/tactical-vests/) out of the [subway](https://ktla.com/news/local-news/pedestrian-suffers-major-injuries-after-being-hit-by-l-a-subway-train/) 
 
 [Sheriff Statement](https://ricothaka.github.io/dispositionforsherrif)
 [Sheriff Statement](https://thakarashard.github.io/dispositionforsherrif)

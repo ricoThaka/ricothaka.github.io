@@ -1,4 +1,25 @@
 
+
+# Dear MAyor ([Karen Bass](https://www.kqed.org/news/11932548/karen-bass-wins-la-mayoral-race))
+
+Hi, Its Rasahrd from NasaJpl the [YA](https://www.reddit.com/r/YAlit/comments/18xxv05/is_there_a_list_of_must_read_ya_books_especially/) Somali that takes short naps on the back portch of [city hall](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/). I am following your instructions in the [County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf)
+
+it reads 
+
+>This Guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County. Our goal is to provide tips that assist you to be self-sufficient after a disaster
+
+<img src= "https://lacounty.gov/wp-content/uploads/2022/03/Emerg.Survival.Guide_-232x300.jpg" alt="Emergency Survival Guide" style="width:232px;height:300px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
+
+ [This guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County.](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/)
+
+Its hard to explin everything in one quick note. But basically I was in Atlanta and [My Wife Vanished](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) and i got destituted by ppl throwing me in the mental hospital a girl i was told was my cousin [Kelly Danielle](https://www.instagram.com/daniellekellybjj/p/Cdw9_9nsfEe/?img_index=1) Renee Williams daughter by Winfred. My daughter was taken and i cannot even get a cellphone. 
+
+I eat at [St_Francis](https://www.stfranciscenterla.org/) once a day and [Reality Church in Hollywood](https://realityla.com/) 5 days a week since i got suspended from [Long Beach's Billie Jean Library](https://www.longbeach.gov/library/locations/main-library/)... So i need you to look at this conversation. Its the kidnapper of my wife#2/3 [She is no longer you wife](https://vimeo.com/396000267)
+
+im always running from ppl bc she is in the entertainment industry. They have an infrastructure that cuts the girls off from contact outside a [Streaming Media Cult](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) 
+
+anyway last night [June 9th](https://www.amoeba.com/our-stores/store-news/469/the-2024-la-pride-parade-block-party-in-hollywood-sunday-june-9th-469/) a gaurd with [Allied Universal](https://ausnewsroom.aus.com/) The guy with scruffy hair. Hes white he called this South American Assasin and he cahsed me with a holstered gun and bullet proof [Tactical Vest](https://www.blackhawk.com/tactical-nylon/tactical-vests/) out of the [subway](https://ktla.com/news/local-news/pedestrian-suffers-major-injuries-after-being-hit-by-l-a-subway-train/) 
+
 ![Atlanta Money Laundering](https://pbs.twimg.com/media/GIfK2tDbkAEqCoc?format=jpg&name=large)
 Dozens charged in Atlanta-based money laundering operation that funneled $30 million in proceeds from computer fraud schemes, romance scams, and retirement account fraud [Justice dOt gov](https://www.justice.gov/usao-ndga/pr/dozens-charged-atlanta-based-money-laundering-operation-funneled-30-million-proceeds) [Name iT After Me - Juicy J](https://youtu.be/5eysL68IoTI?si=c-zZh3N-371PqsPt)
 ![LA_MAYOR](https://pbs.twimg.com/media/GH71RMEbwAA5_dw?format=jpg&name=medium)
