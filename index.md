@@ -47,8 +47,8 @@ carousels:
 
 {% include_relative current.md %}
 
-![paperboy](https://i.ebayimg.com/images/g/x04AAOSwAKxWXh6v/s-l1600.jpg)
-<iframe src="https://archive.org/embed/arcade_paperboy" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+[sonic](https://www.reddit.com/r/SonicTheHedgehog/comments/uoah0j/found_this_at_an_arcade_anyone_recognize_it_is_it/?rdt=33582)
+<iframe src="https://archive.org/embed/arcade_sonic" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <div class="oncall">
             <div></div>
             <div></div>
@@ -68,9 +68,7 @@ carousels:
 
 
 
-## Marble Madness by Atari Games
-![Marble Madness by Atari Games](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/MarbleMadness_marquee_23.5-x-5.25_dedicated.jpg?fit=1200%2C268&ssl=1) Marble Madness is an arcade video game designed by Mark Cerny, and published by Atari Games in 1984. It is a platform game in which the player must guide an onscreen marble
-<embed src="https://archive.org/embed/arcade_marble" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen />
+
 <div class="gullies">
             <div></div>
             <div></div>
@@ -94,134 +92,6 @@ carousels:
 
 
 
-
-
-[Goodie Mob SoulFood](https://www.youtube.com/watch?v=q6-SFIAzFnA)
-
-[It Doesn't Matter ](https://youtu.be/6s3ufTanUMo?si=eyW3DExTI8CTqGhv)
-
-{% include_relative watchlist.md %}
-
-![Roujinz](https://pbs.twimg.com/media/GR__msgaQAAvhdp?format=jpg&name=large)
-
-[Street Fighter: The Movie (V1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html)
-[The Chemical Brothers - Dig Your Own Hole (Full Album)](https://www.youtube.com/watch?v=2UafeQIkj5c)
-
-![https://pbs.twimg.com/media/GSAxNaUbAAAMOGf?format=jpg&name=large](https://pbs.twimg.com/media/GSAxNaUbAAAMOGf?format=jpg&name=large)
-
-### SVG
-
-![PS2 SVG](https://upload.wikimedia.org/wikipedia/commons/7/76/PlayStation_2_logo.svg)
-
-### png
-
-![PS2](https://upload.wikimedia.org/wikipedia/commons/a/af/PlayStation_2_logo.png)
-
-<iframe src="https://archive.org/embed/psx_strider2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-![PlayStationLogo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Playstation_logo_colour.svg)
-![PlayStation](https://upload.wikimedia.org/wikipedia/commons/9/95/PSX-Console-wController.png)
-
-### [Console Living Room: Playstation (PSX) internet archive](https://archive.org/details/psxgames)
-### Japanese: プレイステーション
-![PSX Console](https://pbs.twimg.com/media/GR_IFofbYAAzXaT?format=jpg&name=large)
-
-[The original PlayStation logo with the grey colored consoles were my favorite. What’s everyone’s favorite logo?](https://www.reddit.com/r/playstation/comments/18dgp5h/the_original_playstation_logo_with_the_grey/?rdt=33446&onetap_auto=true&one_tap=true)
-![LogoHistory](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ftbox4ajhm05c1.jpeg)
-
-
-[Invasion Of Privacy](https://archive.org/details/cardi-b-invasion-of-privacy/Invasion+Of+Privacy/09-Money+Bag.mp3)
-<audio controls  loop >
-                   <source src="https://ia801806.us.archive.org/26/items/cardi-b-invasion-of-privacy/Invasion%20Of%20Privacy/09-Money%20Bag.mp3" type="audio/mpeg">
-                   Your browser dose not Support the audio Tag
-</audio>
-
-#TGiF
-
-<embed scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1383362185&color=%23d4d943&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" /><a href="https://soundcloud.com/devin-the-dude-official" title="Devin The Dude" target="_blank" style="color: #cccccc; text-decoration: none;">Devin The Dude</a> · <a href="https://soundcloud.com/devin-the-dude-official/you-so-real-1" title="You So Real" target="_blank" style="color: #cccccc; text-decoration: none;">You So Real</a>
-
-`https://x.com/RicoThaka/status/1805691715132809394`
-
-<embed allowfullscreen src="https://archive.org/embed/DontBeASucker-U.S.WarDepartment1943" />
-<div class="viking">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-</div>
-<div class="vikingbright">
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    </div>
-
-![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
-[Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
-
-
-
-### DotGrid 
-## ምዕራፍ 23
-<div class="dotgrid">
-
-
-የዳዊት መዝሙር።
-እግዚአብሔር እረኛዬ ነው፥ የሚያሳጣኝም የለም።
-2 በለመለመ መስክ ያሳድረኛል፤ በዕረፍት ውኃ ዘንድ ይመራኛል።
-3 ነፍሴን መለሳት፥ ስለ ስሙም በጽድቅ መንገድ መራኝ።
-4 በሞት ጥላ መካከል እንኳ ብሄድ አንተ ከእኔ ጋር ነህና ክፉን አልፈራም፤ በትርህና ምርኵዝህ እነርሱ ያጸናኑኛል።
-5 በፊቴ ገበታን አዘጋጀህልኝ በጠላቶቼ ፊት ለፊት ራሴን በዘይት ቀባህ፥ ጽዋዬም የተረፈ ነው።
-6 ቸርነትህና ምሕረትህ በሕይወቴ ዘመን ሁሉ ይከተሉኛል፥ በእግዚአሔርም ቤት ለዘላለም እኖራለሁ።
-</div>
-
-<div class="normani">
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    </div>
-
-
-
-
-
-[SVG Editor](https://yqnn.github.io/svg-path-editor/)
-![TWitterLogo](https://upload.wikimedia.org/wikipedia/fr/0/08/Twitter_logo_2010.svg)
-[ManiackErs Design](https://www.flickr.com/photos/mksd/)
-
-"Twitter" Logo Type by Maniackers Design Font "Pico" 2006-2010.09
-Maniackers Design Font Seires No.100
-
-### [Pico Black - ALPHABET](https://mksd.jp/pico.html)
-
-Font Designer : Masayuki Sato (Maniackers Design)
-Design Year : 2001
-Version UP : 2007, 2008
-
-www2.wind.ne.jp/maniackers/pico.html
-### Masayuki Sato
-Twitter : `twitter.com/mksdsato`
-A font family of "Pico -Alphabet Black & White" is Pop and Cute!! There are some different letters between small letters and big letters .Its version was upgraded 2007,on July 2008. Version 3.0 now. I add a postscript. I have received numerous inquiries,which about "Pico-Black" is similar to the logo of "Twitter". Without any doubt, this logo is designed using "Pico-Black". not merely "Similar". this font is used directly for "t,w,i,r". ("t" is the design of old version) "e"is other fonts.
-![Twitter](https://live.staticflickr.com/3320/3654981510_8928d2d554_b.jpg)
-![Pico](https://mksd.jp/poco.gif)
-![pico](https://mksd.jp/pico2.gif)
-[Twitter Logo: A Brief Look Into the History of Iconic Emblem](https://logopoppin.com/blog/twitter-logo/) [ManiaCkeRs[fonts]](https://mksd.jp/designfont.html)
-
-
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291313240&color=%23b5e853&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/kerala" title="Kerala" target="_blank" style="color: #cccccc; text-decoration: none;">Kerala</a></div>
-
-
-
-# AndroidArchive
-
-<iframe src="https://archive.org/embed/tumblr-rtxuqx-fij-q-1zhx-4f-1-1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-Sartu, Vanessa, Normani whatever you go by,The mayor might be bullied by that group participating in The [Coup of LosAngeles](https://www.google.com/search?sca_esv=6ff7ee4f5c0b1e29&rlz=1CASLJZ_enUS1113&sxsrf=ADLYWILNPFUnj-3wzC-9tpZb7tcOV3MmWQ:1718052799915&q=los+angeles+riots&tbm=nws&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5MIFhvnvU242yFxzEEp3BfblMs7eBu5zPnhtGsrETMyhOqzWtfgc_pCzrf4BYocXLJaX0gJBEKL77s1Ay-4tHfnMqP5vC_ZT8lpSywyzIaNxlK3h27DKyjP4cAIPUhzalTbEILgzj9kP6BqoP0xWu6yYBTYByfUljVA60k5fyr5AlSneg&sa=X&sqi=2&ved=2ahUKEwikruC29dGGAxUbL0QIHVtnA3AQ0pQJegQIDRAB&biw=960&bih=945&dpr=1) [LA 92 (natGeo)](https://www.nationalgeographic.com/tv/movies-and-specials/dab898d3-4259-4f15-bdc8-1ed62c7cfc5e) hollywood must be on some strange [vpn](https://www.nsa.gov/cybersecurity/)! 
-
 ### coup d'é·tat
 ## /ˌko͞o dāˈtä/
 A coup d'état (/ˌkuːdeɪˈtɑː/ ⓘ; French: [ku deta]; lit. 'stroke of state'),[1] or simply a coup, is typically an illegal and overt attempt by a military organization or other government elites to unseat an incumbent leadership.[2][3] A self-coup is when a leader, having come to power through legal means, tries to stay in power through illegal means.[3] [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat)
@@ -242,16 +112,6 @@ The gameplay has much in common with Capcom's previous fighting games, Super Str
 Ports of the game were released for Sega Saturn, PlayStation and personal computer. Of these, the PlayStation version was not as well received as the other versions, suffering from slowdown and missing frames of animation. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/X-Men:_Children_of_the_Atom_%28video_game%29)
 [SaveState](ricothaka.github.io/xmcotau.save)
 [PlayHere](https://www.retrogames.cc/arcade-games/x-men-children-of-the-atom-950105-usa.html#)
-![omega red](https://pbs.twimg.com/media/GPlqaWGaQAA9f2X?format=jpg&name=large)
- ![xmcota](https://pbs.twimg.com/media/GPlqXMWaUAABpid?format=jpg&name=large)
-![SS2_NEOGEO](https://pbs.twimg.com/media/GPgQv_vaIAEupzP?format=jpg&name=large)
-[Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
-[Index of /~duncjo01/archive/patterns/windows/ancestry](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/)
-![PrarieWind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/My%20Pictures/Sample.jpg)
-[parie wind](http://cs.gettysburg.edu/~duncjo01/archive/patterns/windows/ancestry/Prairie%20Wind.bmp) <~ tile>
-
-[Copy.sh/windows5nt](https://copy.sh/v86/)
-
 
  <div class="mro_banner">
   <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
@@ -263,9 +123,7 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 
 
 
-[Electronic Gaming Monthly 58](https://archive.org/details/Electronic_Gaming_Monthly_58)
-[GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993)
-[GamePro Issue 056 March 1994 NBAJAM(s)](https://archive.org/details/GamePro_Issue_056_March_1994)
+[Electronic Gaming Monthly 58](https://archive.org/details/Electronic_Gaming_Monthly_58) [GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993) [GamePro Issue 056 March 1994 NBAJAM(s)](https://archive.org/details/GamePro_Issue_056_March_1994)
 
 
 # [Fine Ho, Stay](https://www.rcarecords.com/news/flo-milli-announces-new-album-fine-ho-stay/)
