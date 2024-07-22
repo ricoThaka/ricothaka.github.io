@@ -1,5 +1,8 @@
 # Currently Compiling
 
+
+<iframe src="https://eyes.nasa.gov/apps/solar-system/#/sc_juice/compare?id=sc_hubble_space_telescope&interactPrompt=true&surfaceMapTiling=true&hd=true&lighting=flood" allowfullscreen ></iframe>
+
 [Electronic Gaming Monthly 58](https://archive.org/details/Electronic_Gaming_Monthly_58) [GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993) [GamePro Issue 056 March 1994 NBAJAM(s)](https://archive.org/details/GamePro_Issue_056_March_1994)
 
 people are taking over [my sessions](https://archive.org/details/screen-recording-2024-07-20-2.18.38-pm), i know i was hacked by you and ppl u know b4... but if u trying to keep up with me i have an [atom feed](https://ricothaka.github.io/compiling/atom) how do i see you, im so confused, im scared of getting killed. TTys i hope
