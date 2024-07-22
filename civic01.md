@@ -1,4 +1,9 @@
 
+[SKiD ROW](https://www.loc.gov/search/?fa=subject:skid+row) Dear_NasaJPL+ Mayor/Rep_Karen please take a look at SkidRow, whats changed about homel;essness is social media! More homeless people from [romance scams](https://www.youtube.com/watch?v=azYwHFUYOLA) [Romance scam victims speak out](https://www.youtube.com/watch?v=WqyhwPPVUCU) [Romance scammers turn victims into "money mules," creating a legal minefield for investigators](https://www.cbsnews.com/news/romance-scams-victims-money-mules/) [I hope y'all are watching CBS Sunday Morning today.](https://www.reddit.com/r/DatingOverSixty/comments/1c9ij01/romance_scams/?rdt=34374&onetap_auto=true&one_tap=true)
+
+![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
+![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 ## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
 > there were civil suits and it actually
 resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
