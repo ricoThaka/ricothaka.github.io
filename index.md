@@ -42,7 +42,11 @@ carousels:
 4 # UNiVERSE####################################CORaL### 
 {% endhighlight %}
 
+![baffled](https://pbs.twimg.com/media/GTC2RwkbwAAWolK?format=jpg&name=large) 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tMk_Y2p_oRY?si=gCGMLG4SS5GreSne" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Electronic Gaming Monthly 58](https://archive.org/details/Electronic_Gaming_Monthly_58) [GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993) [GamePro Issue 056 March 1994 NBAJAM(s)](https://archive.org/details/GamePro_Issue_056_March_1994)
 
 
 {% include_relative current.md %}
@@ -123,7 +127,6 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 
 
 
-[Electronic Gaming Monthly 58](https://archive.org/details/Electronic_Gaming_Monthly_58) [GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993) [GamePro Issue 056 March 1994 NBAJAM(s)](https://archive.org/details/GamePro_Issue_056_March_1994)
 
 
 # [Fine Ho, Stay](https://www.rcarecords.com/news/flo-milli-announces-new-album-fine-ho-stay/)
