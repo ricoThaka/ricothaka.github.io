@@ -51,6 +51,8 @@ carousels:
 
 {% include_relative current.md %}
 
+![bugs](https://pbs.twimg.com/media/GTHOJx_bcAIOjLv?format=jpg&name=large)
+
 [sonic](https://www.reddit.com/r/SonicTheHedgehog/comments/uoah0j/found_this_at_an_arcade_anyone_recognize_it_is_it/?rdt=33582)
 <iframe src="https://archive.org/embed/arcade_sonic" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <div class="oncall">
