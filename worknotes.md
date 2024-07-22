@@ -8,7 +8,67 @@
 
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
-[Rashards Mental Health](https://archive.org/details/@thakaserika_selassie_kelly) please look at these screenshares if you are concenered with how i use a computer archive.org Member [Thaka aka Rashard](https://archive.org/details/@thakaserika_selassie_kelly)
+
+[fair](https://media.cnn.com/api/v1/images/stellar/prod/e2-pia26367-curiosity-views-fascination-2500px.jpg?q=w_1015,c_fill/f_webp) [Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom/search/site)
+Welcome to the Central Intelligence Agency's Freedom of Information Act Electronic Reading Room. The FOIA Electronic Reading Room is provided as a public service by the Directorate of Digital Innovation's Information Management Services.  It has recently been enhanced and updated, and while many of the updates happened behind the scenes, we'd like to highlight several of the changes. [C.I.A UFO Collection](https://www.cia.gov/readingroom/search/site/?f%5B0%5D=im_field_taxonomy_keyword%3A477) [SECTION IV - TELEPATHIC BEHAVIOR MODIFICATION DST-1810S-387-75](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf)
+
+fair ? [Ashley Strickland](https://www.cnn.com/profiles/ashley-strickland-profile) [Moon cave that could shelter astronauts found beneath the Sea of Tranquility](https://www.cnn.com/2024/07/20/science/moon-cave-science-newsletter-wt/index.html) [Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say](https://www.cnn.com/2024/07/20/science/nasa-curiosity-rover-mars-sulfur-rocks/index.html) [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock) [Curiosity Cracked Open a Rock on Mars And Found a Huge Surprise Space dOt cOm](https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-huge-surprise)[NASA's Curiosity rover accidentally reveals ultra-rare sulfur crystals after crushing a rock on Mars](https://www.livescience.com/space/mars/nasas-curiosity-rover-accidentally-reveals-ultra-rare-sulfur-crystals-after-crushing-a-rock-on-mars) [NASA's Curiosity rover accidentally crushes a Mars rock to discover this rare thing!](https://timesofindia.indiatimes.com/etimes/trending/nasas-curiosity-rover-accidentally-crushes-a-mars-rock-to-discover-this-rare-thing/articleshow/111888014.cms)
+
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="qBzNmrq" data-pen-title="Accordion Image Gallery" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/qBzNmrq">
+  Accordion Image Gallery</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+[Rashards Mental Health](https://archive.org/details/@thakaserika_selassie_kelly) please look at these screenshares if you are concenered with how i use a computer archive.org Member [Thaka aka Rashard](https://archive.org/details/@thakaserika_selassie_kelly) 
+[Mission Control](https://www.jpl.nasa.gov/news/explore-nasas-jet-propulsion-laboratory-with-the-new-virtual-tour) [RepKAren](https://www.politico.com/news/2024/04/16/karen-bass-state-of-the-city-00152431) [Jamie and Robin of Nasa Mars](https://science.nasa.gov/mars/) [Normani of thatheifer aint takin care of that man east atlanta fame](https://www.usmagazine.com/entertainment/news/normani-reveals-accident-behind-canceled-bet-awards-performance/)
+
+Below is the place i was going on Linden an 3rd in LongBeach i just stopped going because my book/sleeping bag cart got vandalized an ppl steal while im eating. But they were managing a rough crowd from out east. Im at peace. They likely know Erikas Family, she had an aunt named Doris and another named Teresa that lived in Longbeach. Her Paternal family is from PAsadena pre yuppie colonization and got pushed out to sanbernadino after a patriarch died. What is homeless i just need to sleep and i would like to see the baby i spent my savings to make. What is housig ? In my situation. Erika is still missing! 
+
+
+![Christian OutReach Longbeach](https://pbs.twimg.com/profile_banners/1133901253446995968/1708980319/1500x500)
+[Christian Outreach in Action (COA)](https://linktr.ee/christianoutreachinaction) is a [501(c)(3) #nonprofit #organization](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations) dedicated to helping needy families and individuals in our community. 
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+              <img src="https://pbs.twimg.com/media/GNKLazeaAAIonNH?format=jpg&name=large" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+              <img src="https://pbs.twimg.com/media/GNKLazga0AErklB?format=jpg&name=large" alt="Girl in a jacket" >
+      
+   </div>
+  </div>    
+ </div>
+</div>
+
+
+[Sheriff Statement](https://ricothaka.github.io/dispositionforsherrif)
+[Sheriff Statement](https://thakarashard.github.io/dispositionforsherrif)
+
+
+![CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks 
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##########07/14/2024##########
+2 [@sawmac](https://github.com/sawmac) I checked your book out from [EastLosAngeles](https://x.com/eastlalibrary?lang=en) and have been doing probono work for some girls i got involved with while i was working at rentpath. Erika the one i brought to Park and Roll might be Vanessa Williams daughter, she put me out an her sister stole my cellphone after 20 years of marriage... I want to marry Nakeisha and help her deal with her baggage i work at NAsaJPL its like we worked the working thing out and it was just getting paid what do patrick think of me harassing Anderson Cooper @parkr
+
+img:nth-child(odd) {
+  float: right;
+}
+img:nth-child(even) {
+float: left;
+}
+
+
+3 # ANOTHER###############################################
+4 # UNiVERSE#####################iloveyounormani######
+{% endhighlight %}
+
 
 [GOES Satellite Network](https://science.nasa.gov/mission/goes/)
 ![GOES](https://science.nasa.gov/wp-content/uploads/2023/07/goes-r-padded-withearthreflectioninsolarpanel-.webp?w=4096&format=png)
