@@ -8,14 +8,17 @@
 
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
-
+[2nd Childhood](https://youtu.be/A5nM66F903I?si=hrqXLu-CYPuteESs) 
 
 ### [Erika in Atlanta]
 [Black Girl Lost - Nas #ost](https://youtu.be/ZMAoZrJVQKI?si=C7cWL5UU0rnIABEx)
 Latto at Opium ATL! Southside's CyberTruck, Yung Miami, Ari Pull Up, Birthday Bash After Party!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HPIZ0yF_cEs?si=YZ-82DAgV_1EHC0y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-[Nas - It Ain't Hard to Tell](https://youtu.be/3hOZaTGnHU4?si=8hCAI2YL52OzImn2)
+[Nas - It Ain't Hard to Tell](https://youtu.be/3hOZaTGnHU4?si=8hCAI2YL52OzImn2) [Illegal Business - Boogie Down Productions](https://youtu.be/yHeBotnrwEI?si=d1On7aJKibbpsiBx)[2nd Childhood](https://youtu.be/A5nM66F903I?si=hrqXLu-CYPuteESs) [Black Girl Lost - Nas #ost](https://youtu.be/ZMAoZrJVQKI?si=C7cWL5UU0rnIABEx)
+[Wild Wild West - Kool Moe Dee (willow+jaden `shade`)](https://youtu.be/auhwI00iKWg?si=XuzbjGWAtmM5KbF_) 
+
+---
 
 [Fire Marshall Bill In Space](https://youtu.be/BU7861MufFs?si=ZdpmPKIsr0idXTF1) [Nasa Mars $112k is what Jose Paid me](https://youtu.be/V6wtj04dJ_g?si=Bvgym0T5sRJ0istr)
 
