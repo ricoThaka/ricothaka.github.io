@@ -42,20 +42,11 @@ carousels:
 4 # UNiVERSE####################################CORaL### 
 {% endhighlight %}
 
+[Keep On Rockin It (feat. Charizma) - PeanutButterWolf My Vinyl Weighs a ton](https://youtu.be/klNiPcJMSvs?si=oKmDj7ekJrhweyyY)
 
-{% highlight html %}
-<img
-  src="https://assets.digitalocean.com/articles/alligator/css/object-fit/example-object-fit.jpg"
-  width="600"
-  height="337"
-  style="width: 600px; height: 337px;"
-  alt="Sample image of a turtle riding on top of an alligator that is swimming in the water - scaled to 600 x 337."
-/>
-<!-- ##CODE_TAKEN_CAUSE_DiGiTAL_OCEAN_HELPS_PEOPLE ## https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit -->
-{% endhighlight %}
 
-{% include_relative mixtapes.md %}
 {% include_relative current.md %}
+{% include_relative mixtapes.md %}
 
 ![bugs](https://pbs.twimg.com/media/GTHOJx_bcAIOjLv?format=jpg&name=large)
 
