@@ -1,19 +1,21 @@
 # Currently Compiling
 
+[Wild Wild West - Kool Moe Dee (willow+jaden `shade`)](https://youtu.be/auhwI00iKWg?si=XuzbjGWAtmM5KbF_)
 
 ![baffled](https://pbs.twimg.com/media/GTC2RwkbwAAWolK?format=jpg&name=large) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tMk_Y2p_oRY?si=gCGMLG4SS5GreSne" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+[Los Angeles City Hall, 200 North Spring Street, Los Angeles, Los Angeles County, CA](https://www.loc.gov/item/ca1261/#:~:text=Los%20Angeles%20City%20Hall%2C%20200,County%2C%20CA%20%7C%20Library%20of%20Congress) 
 
 ### a few songs
 
 [Kanday - LL CooL J*scifi*](https://youtu.be/1HbqZLqM39U?si=2VtJmiftUKAnW84p) [Just-Ice - Going Way Back ](https://www.youtube.com/watch?v=0MkP-x_QNRk) [SLICK RICK MONA LISA](https://youtu.be/hcYWVCM2RgY?si=bA6TXgJOQK211fFI) [The Symphony - MArley MArl](https://youtu.be/6SXw3JjOTkA?si=y5UP9uCxLWqoTPUR) [Run-DMC : SuckerMcS](https://youtu.be/7PMmOdeMSzo?si=s03O-oTl6CH09k4Y) [Run DMC - King Of Rock (Live Aid 1985)](https://youtu.be/0Mo_1MbosZ0?si=lzZI1oK0GJBKstbs) [Roc Raida killing it in Oakland](https://youtu.be/SxbzelWA6HY?si=dt_OrsJreAFHedGg) [Roc Raida Zoo York](https://youtu.be/EGSPDuwiAHM?si=_AYrqe3bOl8GX8AH) [Fat Boys Can You Feel It ](https://youtu.be/K2WhOdsaPsQ?si=xxFfu8g4lywsBJ6B)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lPpCx18F2RQ?si=6b9nZwUK_frNrfUr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Electronic Gaming Monthly 58](https://archive.org/details/Electronic_Gaming_Monthly_58) [GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993) [GamePro Issue 056 March 1994 NBAJAM(s)](https://archive.org/details/GamePro_Issue_056_March_1994) [Eyes On Solar Systerm](https://eyes.nasa.gov/apps/solar-system/#/sc_juice?time=2024-08-19T17:50:56.477+00:00)
-[Los Angeles City Hall, 200 North Spring Street, Los Angeles, Los Angeles County, CA](https://www.loc.gov/item/ca1261/#:~:text=Los%20Angeles%20City%20Hall%2C%20200,County%2C%20CA%20%7C%20Library%20of%20Congress) 
+
 
 <iframe src="https://eyes.nasa.gov/apps/solar-system/#/sc_juice/compare?id=sc_hubble_space_telescope&interactPrompt=true&surfaceMapTiling=true&hd=true&lighting=flood" allowfullscreen ></iframe>
 
