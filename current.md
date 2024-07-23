@@ -1,6 +1,6 @@
 # Currently Compiling
 
-[Wild Wild West - Kool Moe Dee (willow+jaden `shade`)](https://youtu.be/auhwI00iKWg?si=XuzbjGWAtmM5KbF_)
+[Wild Wild West - Kool Moe Dee (willow+jaden `shade`)](https://youtu.be/auhwI00iKWg?si=XuzbjGWAtmM5KbF_) [Trapped in the Closet: Chapters 1-12](https://youtu.be/pb7ot4NQ3sQ?si=g6rEbpBn3mMSmA5n)
 
 ![baffled](https://pbs.twimg.com/media/GTC2RwkbwAAWolK?format=jpg&name=large) 
 
@@ -10,7 +10,7 @@
 
 ### a few songs
 
-[Kanday - LL CooL J*scifi*](https://youtu.be/1HbqZLqM39U?si=2VtJmiftUKAnW84p) [Just-Ice - Going Way Back ](https://www.youtube.com/watch?v=0MkP-x_QNRk) [SLICK RICK MONA LISA](https://youtu.be/hcYWVCM2RgY?si=bA6TXgJOQK211fFI) [The Symphony - MArley MArl](https://youtu.be/6SXw3JjOTkA?si=y5UP9uCxLWqoTPUR) [Run-DMC : SuckerMcS](https://youtu.be/7PMmOdeMSzo?si=s03O-oTl6CH09k4Y) [Run DMC - King Of Rock (Live Aid 1985)](https://youtu.be/0Mo_1MbosZ0?si=lzZI1oK0GJBKstbs) [Roc Raida killing it in Oakland](https://youtu.be/SxbzelWA6HY?si=dt_OrsJreAFHedGg) [Roc Raida Zoo York](https://youtu.be/EGSPDuwiAHM?si=_AYrqe3bOl8GX8AH) [Fat Boys Can You Feel It ](https://youtu.be/K2WhOdsaPsQ?si=xxFfu8g4lywsBJ6B)
+[Kanday - LL CooL J*scifi*](https://youtu.be/1HbqZLqM39U?si=2VtJmiftUKAnW84p) [Just-Ice - Going Way Back ](https://www.youtube.com/watch?v=0MkP-x_QNRk) [SLICK RICK MONA LISA](https://youtu.be/hcYWVCM2RgY?si=bA6TXgJOQK211fFI) [The Symphony - MArley MArl](https://youtu.be/6SXw3JjOTkA?si=y5UP9uCxLWqoTPUR) [Run-DMC : SuckerMcS](https://youtu.be/7PMmOdeMSzo?si=s03O-oTl6CH09k4Y) [Run DMC - King Of Rock (Live Aid 1985)](https://youtu.be/0Mo_1MbosZ0?si=lzZI1oK0GJBKstbs) [Roc Raida killing it in Oakland](https://youtu.be/SxbzelWA6HY?si=dt_OrsJreAFHedGg) [Roc Raida Zoo York](https://youtu.be/EGSPDuwiAHM?si=_AYrqe3bOl8GX8AH) [Fat Boys Can You Feel It ](https://youtu.be/K2WhOdsaPsQ?si=xxFfu8g4lywsBJ6B) [Death Row Chronicles FULL Episode 1 - Suge Knight Partners With Dr. Dre To Change Hip Hop Forever](https://youtu.be/EpmMuQsbtv8?si=yEYuEr8evvENKkLz)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lPpCx18F2RQ?si=6b9nZwUK_frNrfUr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
