@@ -7,7 +7,7 @@
 </div>   
 
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
-[McDonalds Ronald McDonald and Mayor McCheese in Space, 1978](https://youtu.be/nmL6pMQMBBk?si=LSk6f74OXwuxsFkq) [Another bill again-Tony Rebel](https://www.youtube.com/watch?v=U9ZLAgyn2-Q) [Astronaut Chick](https://www.youtube.com/watch?v=6kAsPbbp8GI)
+[McDonalds Ronald McDonald and Mayor McCheese in Space, 1978](https://youtu.be/nmL6pMQMBBk?si=LSk6f74OXwuxsFkq) [Another bill again-Tony Rebel](https://www.youtube.com/watch?v=U9ZLAgyn2-Q) [Astronaut Chick](https://www.youtube.com/watch?v=6kAsPbbp8GI) [Truth Gonna Hurt You](https://youtu.be/WBxjt78PG3s?si=NMtQTDZ7_AZMERGy) <~ late for work ? idk 
 
 [2nd Childhood](https://youtu.be/A5nM66F903I?si=hrqXLu-CYPuteESs) 
 
