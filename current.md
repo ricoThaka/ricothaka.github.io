@@ -1,6 +1,9 @@
 # Currently Compiling
 
 
+[Mars](https://science.nasa.gov/mars/) is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited entirely by robots.
+![Mars](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01217/ids/edr/browse/fcam/FRF_1217_0774992354_159ECM_N0560000FHAZ00206_01_295J01_1200.jpg)
+
 Normani please look at this old post, it is a marker for how long i have been focused on Programming CSS 
 # SUNDAY, NOVEMBER 21TH, 2021
 # Im working on CSS
