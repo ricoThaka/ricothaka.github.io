@@ -1,6 +1,6 @@
 # Currently Compiling
 
-a few songs [Just-Ice - Going Way Back (Full Music Video)](https://youtu.be/eZekLIdcwLM?si=kaNmaRDBsZEtQ0Ko)
+a few songs [Just-Ice - Going Way Back ](https://www.youtube.com/watch?v=0MkP-x_QNRk)
 
 
 [Eyes On Solar Systerm](https://eyes.nasa.gov/apps/solar-system/#/sc_juice?time=2024-08-19T17:50:56.477+00:00)
