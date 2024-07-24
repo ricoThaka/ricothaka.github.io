@@ -1,6 +1,6 @@
 # Currently Compiling
 
-
+![rough mars](https://www.mars.asu.edu/data/mola_roughness/small/mola_roughness.png)
 ## [HiView Image Viewer - Software](https://pirlwww.lpl.arizona.edu/software/HiView/download.php)
 
 ### WHAT HiView DOES
