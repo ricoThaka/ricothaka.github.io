@@ -1,10 +1,11 @@
 # Currently Compiling
 
-![respiration]()
+![respiration](https://images.genius.com/4517fad00b6b761f9e95dad956c0ee30.1000x1000x1.jpg)
 
-"Respiration" is a song by American rappers Mos Def and Talib Kweli, collectively known as Black Star. It was released as the second single from the duo’s eponymously titled 1998 album (see 1998 in music). It features a guest verse from fellow American rapper Common and guitar playing by DeChown Jenkins. The song’s production was handled by Hi-Tek, who sampled "The Fox" as performed by Don Randi. In addition, the song's introduction samples a monologue from the hip hop documentary Style Wars. It is found on Best of Decade I: 1995-2005, a compilation of Rawkus Records' best songs. It can also be found on Howie B's compilation album Another Late Night: Howie B. The single reached #54 on the Billboard Hot R&B/Hip-Hop Songs chart.[Talk About it on WikiPedia](https://en.wikipedia.org/wiki/Talk:Respiration_(song))
+"Respiration" is a song by American rappers Mos Def and Talib Kweli, collectively known as Black Star. It was released as the second single from the duo’s eponymously titled 1998 album (see 1998 in music). It features a guest verse from fellow American rapper Common and guitar playing by DeChown Jenkins. The song’s production was handled by Hi-Tek, who sampled "The Fox" as performed by Don Randi. In addition, the song's introduction samples a monologue from the hip hop documentary Style Wars. It is found on Best of Decade I: 1995-2005, a compilation of Rawkus Records' best songs. It can also be found on Howie B's compilation album Another Late Night: Howie B. The single reached #54 on the Billboard Hot R&B/Hip-Hop Songs chart.[Talk About it on WikiPedia](https://en.wikipedia.org/wiki/Talk:Respiration_(song)) [GeniUs dOt cOm](https://genius.com/Black-star-respiration-lyrics)
 
-[Wikipedia Editing Tutorial - Video](https://youtu.be/eufDKt6Pkko?si=TdBKXKqo0doUbz0V) [The basics of MediaWiki Creating, Editing, Discussing Pages Working with the syntax text formatting](https://www.youtube.com/watch?v=F8irbbwNo2E)
+
+[Help:Introduction to editing with Wiki Markup/1](https://en.wikipedia.org/wiki/Help:Introduction_to_editing_with_Wiki_Markup/1)[Wikipedia Editing Tutorial - Video](https://youtu.be/eufDKt6Pkko?si=TdBKXKqo0doUbz0V) The markup language called wikitext, also known as wiki markup or wikicode, consists of the syntax and keywords used by the MediaWiki software to format a page. (Note the lowercase spelling of these terms.[a]) To learn how to see this hypertext markup,  [The basics of MediaWiki Creating, Editing, Discussing Pages Working with the syntax text formatting](https://www.youtube.com/watch?v=F8irbbwNo2E) [WikiText](https://en.wikipedia.org/wiki/Help:Wikitext)
 
 
 ![Css Books](https://daveshea.com/i/projects/zen-book/intro.jpg)
