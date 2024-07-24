@@ -1,6 +1,6 @@
 # Currently Compiling
 
-[JAY ELECTRONICACURRENCYMOS DEF - Jay Electronica (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md4ebe25) [Jay Electronica - Unreleased (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m8fca3ca) [Jay Electronica Discography](https://www.reddit.com/r/hiphop101/comments/1vbiju/jay_electronica_discography/?rdt=41981&onetap_auto=true&one_tap=true) [Act II: The Patents Of Nobility (The Turn)](https://archive.org/details/jay-electronica-act-II-the-patents-of-nobility-the-turn )
+[JAY ELECTRONICACURRENCYMOS DEF - Jay Electronica (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md4ebe25) [Jay Electronica - Unreleased (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m8fca3ca) [Jay Electronica Discography ?](https://www.reddit.com/r/hiphop101/comments/1vbiju/jay_electronica_discography/?rdt=41981&onetap_auto=true&one_tap=true) [Act II: The Patents Of Nobility (The Turn)](https://archive.org/details/jay-electronica-act-II-the-patents-of-nobility-the-turn ) [Jay Electronica - Act 1 The Eternal Sunshine the (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md1d01fd)
 
 <iframe src="https://archive.org/embed/jay-electronica-act-II-the-patents-of-nobility-the-turn" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
