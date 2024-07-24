@@ -42,7 +42,7 @@ carousels:
 4 # UNiVERSE####################################CORaL### 
 {% endhighlight %}
 
-[Keep On Rockin It (feat. Charizma) - PeanutButterWolf My Vinyl Weighs a ton](https://youtu.be/klNiPcJMSvs?si=oKmDj7ekJrhweyyY)
+ 
 
 
 {% include_relative current.md %}
@@ -91,7 +91,7 @@ carousels:
 
 
 
-[Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7)  
+
 
 
 
