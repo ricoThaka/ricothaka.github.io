@@ -1,5 +1,11 @@
 # Currently Compiling
 
+![respiration]()
+
+"Respiration" is a song by American rappers Mos Def and Talib Kweli, collectively known as Black Star. It was released as the second single from the duo’s eponymously titled 1998 album (see 1998 in music). It features a guest verse from fellow American rapper Common and guitar playing by DeChown Jenkins. The song’s production was handled by Hi-Tek, who sampled "The Fox" as performed by Don Randi. In addition, the song's introduction samples a monologue from the hip hop documentary Style Wars. It is found on Best of Decade I: 1995-2005, a compilation of Rawkus Records' best songs. It can also be found on Howie B's compilation album Another Late Night: Howie B. The single reached #54 on the Billboard Hot R&B/Hip-Hop Songs chart.[Talk About it on WikiPedia](https://en.wikipedia.org/wiki/Talk:Respiration_(song))
+
+[Wikipedia Editing Tutorial - Video](https://youtu.be/eufDKt6Pkko?si=TdBKXKqo0doUbz0V) [The basics of MediaWiki Creating, Editing, Discussing Pages Working with the syntax text formatting](https://www.youtube.com/watch?v=F8irbbwNo2E)
+
 
 ![Css Books](https://daveshea.com/i/projects/zen-book/intro.jpg)
 ![Zen](https://upload.wikimedia.org/wikipedia/en/3/39/The_Zen_of_CSS_Design-cover.jpeg) Normani, I dont know what to do to upgrade but the way our pens look on CodePen is easily achivable in [Jekyll](https://github.com/jekyll/jekyll/edit/master/docs/_docs/includes.md) and stack the shits check out [Ansterdam Chemistry Innovation Day](https://www.acid-event.nl/) idk what the backend looks like, but that sectioal look is what came from [MarkDown Includes](https://developer.lightbend.com/docs/paradox/current/directives/includes.html) and its emulated in html but \ [One Page Layouts](https://www.cssdesignawards.com/website-gallery?feature=one%20page) can be seen as a stackof lego bricks that talk to each other either informationally or dynaically via some interactive programming of some sort `The include tag allows you to include the content from another file stored in the _includes folder:` [includes](https://jekyllrb.com/docs/includes/)
