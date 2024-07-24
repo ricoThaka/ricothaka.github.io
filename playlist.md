@@ -1,17 +1,4 @@
 
-### [FlexBox Demo](https://codepen.io/thakarashard/pen/WNBVzWr)
-<video controls  height="auto" poster="https://pbs.twimg.com/media/GRg4rl4b0AMgXF2?format=jpg&name=large">
-
-<source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />    
-<source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
-
-
 <div class="playlist">
      <blockquote>
       "How could you?
@@ -29,6 +16,19 @@ You mean to tell me this wasn't love?"
   </footer>
 
 </blockquote>
+
+
+   <figure class=" track">
+    <IMG src="https://images.genius.com/4517fad00b6b761f9e95dad956c0ee30.1000x1000x1.jpg" />
+    
+ <figcaption> Respiration (Feat. Common).mp3 - BlackStar
+ 
+</figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/11.-respiration-feat.-common/Mos%20Def%20%26%20Talib%20Kweli%20Are%20Black%20Star/11.%20Respiration%20%28Feat.%20Common%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure> 
 
 
    <figure class=" track">
