@@ -1,5 +1,26 @@
 # Currently Compiling
 
+
+![Css Books](https://daveshea.com/i/projects/zen-book/intro.jpg)
+![Zen](https://upload.wikimedia.org/wikipedia/en/3/39/The_Zen_of_CSS_Design-cover.jpeg) Normani, I dont know what to do to upgrade but the way our pens look on CodePen is easily achivable in [Jekyll](https://github.com/jekyll/jekyll/edit/master/docs/_docs/includes.md) and stack the shits check out [Ansterdam Chemistry Innovation Day](https://www.acid-event.nl/) idk what the backend looks like, but that sectioal look is what came from [MarkDown Includes](https://developer.lightbend.com/docs/paradox/current/directives/includes.html) and its emulated in html but \ [One Page Layouts](https://www.cssdesignawards.com/website-gallery?feature=one%20page) can be seen as a stackof lego bricks that talk to each other either informationally or dynaically via some interactive programming of some sort `The include tag allows you to include the content from another file stored in the _includes folder:` [includes](https://jekyllrb.com/docs/includes/)
+
+
+
+
+### Passing parameters to includes
+
+You can also pass parameters to an include. For example, suppose you have a file called `note.html` in your `_includes` folder that contains this formatting:
+
+{% raw %}
+```liquid
+<div markdown="span" class="alert alert-info" role="alert">
+<i class="fa fa-info-circle"></i> <b>Note:</b>
+{{ include.content }}
+</div>
+```
+{% endraw %}
+
+
 [ALiSTAPART_The Bathing Ape Has No Clothes (and other notes on the distinction between style and design)](https://alistapart.com/article/bathingape/) [ALiSTAPART_Design Choices Can Cripple a Website](https://alistapart.com/article/designcancripple/) [ALiSTAPART_Good Designers Redesign, Great Designers Realign](https://alistapart.com/article/redesignrealign/) [ALiSTAPART_Designing Through the Storm](https://alistapart.com/article/throughthestorm/) [ALiSTAPART_Staying Motivated](https://alistapart.com/article/stayingmotivated/) [ALiSTAPART_Understanding Web Design](https://alistapart.com/article/understandingwebdesign/) [ALiSTAPART_Marry Your Clients](https://alistapart.com/article/marry-your-clients/) [ALiSTAPART_Personality in Design](https://alistapart.com/article/personality-in-design/) [ALiSTAPART_Before You Hire Designers](https://alistapart.com/article/before-you-hire-designers/) [ALiSTAPART_Planning for Accessibility](https://alistapart.com/article/planning-for-accessibility/) [ALiSTAPART_Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/) [ALiSTAPART_Immersive Content Strategy](https://alistapart.com/article/immersive-content-strategy/) [ALiSTAPART_Designing Inclusive Content Models](https://alistapart.com/article/designing-inclusive-content-models/) [NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html) [NYPL_STYLEGUiDE_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
 [Mars](https://science.nasa.gov/mars/) is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited entirely by robots.
 ![Mars](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01217/ids/edr/browse/fcam/FRF_1217_0774992354_159ECM_N0560000FHAZ00206_01_295J01_1200.jpg)
