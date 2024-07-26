@@ -525,7 +525,14 @@ hr {
 img {
   display: block;
   max-height: 100%;
+  max-width: 100%;
+}
+
+
+embed {
   width: 100%;
+  display: block;
+  text-align: center;
 }
 
 iframe {
