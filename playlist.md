@@ -18,7 +18,31 @@ You mean to tell me this wasn't love?"
 </blockquote>
 
 
-   <figure class=" track">
+
+<figure class=" track">
+    <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
+    
+ <figcaption>naS - wAR aGAINST lOVE
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/nas-the-lost-tapes-2/II/09-War%20Against%20Love.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+<figure class=" track">
+    <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
+    
+ <figcaption>naS - nO bAD eNERGY 
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/nas-the-lost-tapes-2/II/01-No%20Bad%20Energy.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
+
+<figure class=" track">
     <IMG src="https://images.genius.com/4517fad00b6b761f9e95dad956c0ee30.1000x1000x1.jpg" />
     
  <figcaption> Respiration (Feat. Common).mp3 - BlackStar
@@ -239,16 +263,7 @@ by DJ Snake Aluna George Vocals
   </figure>
     
 
-<figure class=" track">
-    <IMG src="https://ia802303.us.archive.org/21/items/future-beastmode-2/2/cover.jpg?cnt=0" />
-    
- <figcaption>Future : Wifi Lit 
-    </figcaption>
-    <audio controls loop>
-      <source src="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3">
-      Your browser dose not Support the audio Tag
-    </audio>
-  </figure>
+
 
 <figure class=" track">
     <IMG src="https://ia804607.us.archive.org/2/items/immortal-technique-and-dj-green-lantern-the-3rd-world/Immortal%20Technique%20%26%20DJ%20Green%20Lantern/The%203rd%20World/cover.jpg?cnt=0" />
