@@ -20,6 +20,17 @@ You mean to tell me this wasn't love?"
 
 
 <figure class=" track">
+    <IMG src="https://ia903208.us.archive.org/4/items/soulsofmischief93tilinfinity/Album/cover.jpg?cnt=0" />
+    
+ <figcaption> Tell Me Who Profits Erika?Femme?CardinalJerry 
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/soulsofmischief93tilinfinity/Album/13-Tell%20Me%20Who%20Profits.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+<figure class=" track">
     <IMG src="https://ia601802.us.archive.org/9/items/de-la-soul-stakes-is-high/Album/cover.jpg?cnt=0" />
     
  <figcaption> De La Soul Stakes iS High
