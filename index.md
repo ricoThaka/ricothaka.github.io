@@ -46,7 +46,7 @@ carousels:
 
 
 {% include_relative current.md %}
-{% include_relative mixtapes.md %}
+
 
 
 <a href="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg" style="width:213px;height:316px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
