@@ -20,6 +20,18 @@ You mean to tell me this wasn't love?"
 
 
 <figure class=" track">
+    <IMG src="https://ia601802.us.archive.org/9/items/de-la-soul-stakes-is-high/Album/cover.jpg?cnt=0" />
+    
+ <figcaption> De La Soul Stakes iS High
+    </figcaption>
+    <audio controls loop>
+      <source src="https://ia801802.us.archive.org/9/items/de-la-soul-stakes-is-high/Album/16-Stakes%20Is%20High.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
+<figure class=" track">
     <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
     
  <figcaption>naS - wAR aGAINST lOVE
