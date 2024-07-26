@@ -123,19 +123,6 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 
 
 
-# [Fine Ho, Stay](https://www.rcarecords.com/news/flo-milli-announces-new-album-fine-ho-stay/)
-[![FloMilli](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png)](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png "Redirect to homepage")
-<embed  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1772831295&color=%2300ffc8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
-
-
-[FloMilli](https://soundcloud.com/flomilli/cant-stay-mad?in=flomilli/sets/fine-ho-stay) [AILS-AC79-7007](https://archive.org/details/AILS-AC79-7007)
-
-# Vanessa, im convinced its you
-![Vanessa, im convinced its you](https://pbs.twimg.com/media/GPf8SyoaIAEEz1X?format=jpg&name=large)
-
-![NeedForSpeed latet 90s cover](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e101890a-5bee-4aa3-ab4a-4ea7f8609ebe/df687by-4df80805-257e-41e5-bce8-5a1cd3182760.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UxMDE4OTBhLTViZWUtNGFhMy1hYjRhLTRlYTdmODYwOWViZVwvZGY2ODdieS00ZGY4MDgwNS0yNTdlLTQxZTUtYmNlOC01YTFjZDMxODI3NjAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IQcnkEOH6C4wEBeLD6bMZA8MTwFbTCB82PVCk0lQgzM)
-[Need for Speed](https://archive.org/details/msdos_Need_for_Speed_The_1995)
-
 
  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/normaniswatch.PNG" alt="Normani">
 <div class="normani">
@@ -160,6 +147,7 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
   </div>
   </div>
 </div>
+
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" alt="CuriosityOnMArs">
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg" alt="martianLandscape">
 
