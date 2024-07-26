@@ -20,6 +20,18 @@ You mean to tell me this wasn't love?"
 
 
 <figure class=" track">
+    <IMG src="https://ia804607.us.archive.org/33/items/house-of-pain-jump-around-house-of-pain-anthem/Jump%20Around%20%EF%BC%8F%20House%20Of%20Pain%20Anthem/cover.jpg?cnt=0" />
+    
+ <figcaption> Jump Around ／ House Of Pain
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/house-of-pain-jump-around-house-of-pain-anthem/Jump%20Around%20%EF%BC%8F%20House%20Of%20Pain%20Anthem/01-Jump%20Around%20%28Original%20Mix%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+
+<figure class=" track">
     <IMG src="https://ia903208.us.archive.org/4/items/soulsofmischief93tilinfinity/Album/cover.jpg?cnt=0" />
     
  <figcaption> Tell Me Who Profits Erika?Femme?CardinalJerry 
