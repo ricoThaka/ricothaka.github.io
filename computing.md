@@ -1,5 +1,20 @@
 
 [CSS Box Sizing Module Level 3](https://www.w3.org/TR/css-sizing-3/#min-content)
+
+
+### [Tesla Coils at Griffith Observatory video](https://griffithobservatory.org/) 
+
+[Tesla coil is an electrical](https://en.wikipedia.org/wiki/Tesla_coil) resonant transformer circuit designed by inventor Nikola Tesla in 1891.[1] It is used to produce high-voltage, low-current, high-frequency alternating-current electricity.[2][3] Tesla experimented with a number of different configurations consisting of two, or sometimes three, coupled resonant electric circuits.
+
+<video controls 
+  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
+  poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/youtube-l14WDZCnz-w">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 ### [FlexBox Demo](https://codepen.io/thakarashard/pen/WNBVzWr)
 <video controls  height="auto" poster="https://pbs.twimg.com/media/GRg4rl4b0AMgXF2?format=jpg&name=large">
 

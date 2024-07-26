@@ -132,14 +132,6 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 
 # Vanessa, im convinced its you
 ![Vanessa, im convinced its you](https://pbs.twimg.com/media/GPf8SyoaIAEEz1X?format=jpg&name=large)
-<video controls 
-  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
-  poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
-  >
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/details/youtube-l14WDZCnz-w">download it</a>
-  and watch it with your favorite video player!
-</video>
 
 ![NeedForSpeed latet 90s cover](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e101890a-5bee-4aa3-ab4a-4ea7f8609ebe/df687by-4df80805-257e-41e5-bce8-5a1cd3182760.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UxMDE4OTBhLTViZWUtNGFhMy1hYjRhLTRlYTdmODYwOWViZVwvZGY2ODdieS00ZGY4MDgwNS0yNTdlLTQxZTUtYmNlOC01YTFjZDMxODI3NjAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IQcnkEOH6C4wEBeLD6bMZA8MTwFbTCB82PVCk0lQgzM)
 [Need for Speed](https://archive.org/details/msdos_Need_for_Speed_The_1995)
