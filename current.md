@@ -1,6 +1,25 @@
 # Currently Compiling
 
+
+### coup d'é·tat /ˌko͞o dāˈtä/
+
+A coup d'état (/ˌkuːdeɪˈtɑː/ ⓘ; French: [ku deta]; lit. 'stroke of state'),[1] or simply a coup, is typically an illegal and overt attempt by a military organization or other government elites to unseat an incumbent leadership.[2][3] A self-coup is when a leader, having come to power through legal means, tries to stay in power through illegal means.[3] [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat)
+![Mayor Karen Bass](https://www.discoverlosangeles.com/sites/default/files/images/2024-06/Upright%20Citizens%20Brigade%20Juneteenth%202024.jpg?width=1600&height=686&fit=crop&quality=78&auto=webp)
+
+
+<figure class=" track">
+    <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
+    
+ <figcaption>naS - wAR aGAINST lOVE
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/nas-the-lost-tapes-2/II/09-War%20Against%20Love.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
 ![rough mars](https://www.mars.asu.edu/data/mola_roughness/small/mola_roughness.png)
+
 ## [HiView Image Viewer - Software](https://pirlwww.lpl.arizona.edu/software/HiView/download.php)
 
 ### WHAT HiView DOES
@@ -20,7 +39,6 @@ HiView is a data explorer and image viewing application supporting the [JPEG2000
 
 ### Playlist Update 
 [playlist](ricothaka.github.io/playlist)
-![respiration](https://images.genius.com/4517fad00b6b761f9e95dad956c0ee30.1000x1000x1.jpg)
 <figure class=" track">
     <IMG src="https://images.genius.com/4517fad00b6b761f9e95dad956c0ee30.1000x1000x1.jpg" />
     
