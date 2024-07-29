@@ -14,8 +14,8 @@ layout : default
 # Currently Compiling
 
 
-The King of Fighters 2002 (NGM-2650 ~ NGH-2650)
-<iframe src="https://archive.org/embed/arcade_kof2002" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+The King of Fighters '97 (NGM-2320)
+<iframe src="https://archive.org/embed/arcade_kof97" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR)
 
