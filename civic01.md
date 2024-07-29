@@ -79,7 +79,23 @@ The doll way
 
 # LAP{D} image 
 
+![hollywood](https://pbs.twimg.com/media/GTmrQcoaQAAtAdK?format=jpg&name=large)
+ Those people in hollywood are protesting saying you kill people! i work [with you](https://ricothaka.github.io/dispositionforsherrif) not against you at [NasaJPl](https://ricothaka.github.io/worknotes)
 
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+             <a href="https://pbs.twimg.com/media/GTmqE3GbAAAkcUw?format=jpg&name=large"> <img src="https://pbs.twimg.com/media/GTmqE3GbAAAkcUw?format=jpg&name=large" alt="1945 dessau" ></a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+             <a href="https://pbs.twimg.com/media/GTmqbLIakAArjvL?format=jpg&name=medium"> <img src="https://pbs.twimg.com/media/GTYNWK-agAIgNrt?format=jpg&name=large" alt="LE DDT A DESSAU" ></a>
+   </div>
+  </div>    
+ </div>
+</div>
 
 ![Researchers on dash](https://pbs.twimg.com/media/GThXCK3aAAAvbhK?format=jpg&name=small)
 `https://x.com/MooNLOVER404/status/1817298621387485314` @RepKarenBass @CNNAshley  https://x.com/MooNLOVER404/status/1815514298342674449 im distracted a bit after being hacked and my blogs being destroyed  @SlashdotMedia @CNNAshley got my #MartianGeology story after iGot banned from the bus for having a cart https://ladottransit.com/dash/routes/obslf/obslf.html i have no income! @GADFCS @normani
