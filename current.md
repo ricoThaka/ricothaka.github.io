@@ -4,7 +4,7 @@ layout : default
 
 
 # Currently Compiling
-[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU)
+[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [Coi Leray - Bops](https://youtu.be/ttDtl94JNx0?si=riyfLgLTBbG4O1fh)
 
 
 ![Burning Man 2018](https://pbs.twimg.com/media/GO8FOmxbEAMWU9e?format=jpg&name=large)
