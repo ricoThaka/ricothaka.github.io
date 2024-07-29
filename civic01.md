@@ -1,5 +1,5 @@
 ![us](https://pbs.twimg.com/media/GTrN0w_aQAAC5HB?format=jpg&name=large)
-[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU)
+[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR)
 
 
 
@@ -78,9 +78,9 @@ The doll way
 [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
 
 # LAP{D} image 
-
+[Protestors converging on Oscars ceremony met by LAPD](https://www.youtube.com/watch?v=-6YXvzx4JsI) [LAPD declares "city-wide tactical alert" as officers move in on protesters at UCLA](https://www.youtube.com/watch?v=hdrvQ-5MnDM) [BODYCAM: Jacksonville Sheriff's Office arrests 3 in rapper Julio Foolio’s murder | Action News Jax](https://www.youtube.com/watch?v=BN3YxNtTvZM)
 ![hollywood](https://pbs.twimg.com/media/GTmrQcoaQAAtAdK?format=jpg&name=large)
- Those people in hollywood are protesting saying you kill people! i work [with you](https://ricothaka.github.io/dispositionforsherrif) not against you at [NasaJPl](https://ricothaka.github.io/worknotes)
+ Those people in hollywood are protesting saying you kill people! i work [with you](https://ricothaka.github.io/dispositionforsherrif) not against you at [NasaJPl](https://ricothaka.github.io/worknotes)! This game scares me bc our images are combined and i would never work with an institution that kills ppl with no regard for human life! [Future Cop LAPD](https://oldgamesdownload.com/future-cop-lapd/) was released under a different title like "Crime COps" or something. I am getting branded by sme ppl as a Rejected Gigalo, and im not! I am a really accomplished Minister at a Jehovahs Witness Ministerial Servant level, but i never gave a Public Talk and NasaJPL is more well rounbded in Community Care so im enjoying myself more contributing to the city in being a low end mod, i dont want to die... 
 
 <div class='twoPanelSpread'>
         <div class='row'>
