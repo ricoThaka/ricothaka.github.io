@@ -1,4 +1,21 @@
+
+[Smokey and the Bandit](https://lastchancepowerdrive.com/2019/08/10/smokey-and-the-bandit-filming-sites/)
+<video controls width="100%" height="auto" poster="https://www.salvationsouth.com/wp-content/uploads/2023/12/CONDENSED-bandit-cover-1024x576.jpg">
+
+  <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.ogv" type="video/ogg" />
+
+  Download the
+  or
+  <a href="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.mp4">MP4</a>
+  video.
+</video>
+
+[THE SOUTH WE SAW IN THE BANDIT](https://www.salvationsouth.com/the-south-we-thought-we-saw-in-smokey-and-the-bandit-ed-southern/) [Watch Stream On the InterNet Archive - Smokey and The Bandit](https://archive.org/details/SmokeyAndTheBandit)
+
 ## Computer Doc/Movie collection
+
+
 
 <iframe src="https://archive.org/embed/ComputerHackingDocumentriesMegaCollection" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
