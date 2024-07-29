@@ -1,4 +1,8 @@
 
+
+
+
+[Use Jekyll Front Matter Defaults to set your layouts](https://www.johanbleuzen.fr/blog/use-jekyll-front-matter-defaults-set-layouts)
 [#HTML5 <video> source examples </video>](https://codepen.io/thakarashard/pen/BagQQaR?editors=1000)
 [Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
 The CSS attribute selector matches elements based on the element having a given attribute explicitly set, with options for defining an attribute value or substring value match.[full article on mozilla_developer](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)

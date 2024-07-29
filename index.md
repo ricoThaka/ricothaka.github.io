@@ -35,12 +35,7 @@ carousels:
 
 ---
 
-{% highlight ruby %} 
-1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady #
-2 # TO####NEW_POSTS /worknotes /watchlist /civic01### #
-3 # ANOTHER##########https://s.id/1kmbG################# 
-4 # UNiVERSE#############################Hi####CORaL### 
-{% endhighlight %}
+
 
 
 {% include_relative current.md %}

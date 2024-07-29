@@ -2,6 +2,16 @@
 layout : default
 ---
 
+
+{% highlight ruby %} 
+1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady #
+2 # TO####NEW_POSTS /worknotes /watchlist /civic01### #
+3 # ANOTHER##########https://s.id/1kmbG################# 
+4 # UNiVERSE#############################Hi####CORaL### 
+{% endhighlight %}
+
+
+
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR)
 
 # Currently Compiling
