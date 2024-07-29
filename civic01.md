@@ -1,6 +1,39 @@
 
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU)
 
+
+
+inside City Hall this heterogeneous file sharing publicly and we live in a and we live in a [#pornoState](https://x.com/MooNLOVER404/status/1817857893523222929)
+
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+             <a href="https://pbs.twimg.com/media/GTpTOf6aYAA8ir3?format=jpg&name=medium"> <img src="https://pbs.twimg.com/media/GTpTOf6aYAA8ir3?format=jpg&name=medium" alt="1945 dessau" ></a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+             <a href="https://pbs.twimg.com/media/GTpTOgAaQAAWIwc?format=jpg&name=medium"> <img src="https://pbs.twimg.com/media/GTpTOgAaQAAWIwc?format=jpg&name=medium" alt="LE DDT A DESSAU" ></a>
+   </div>
+  </div>    
+ </div>
+</div>
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+             <a href="https://pbs.twimg.com/media/GTYNaoEagAEhgiA?format=jpg&name=large"> <img src="https://pbs.twimg.com/media/GTYNaoEagAEhgiA?format=jpg&name=large" alt="1945 dessau" ></a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+             <a href="https://pbs.twimg.com/media/GTYNWK-agAIgNrt?format=jpg&name=large"> <img src="https://pbs.twimg.com/media/GTYNWK-agAIgNrt?format=jpg&name=large" alt="LE DDT A DESSAU" ></a>
+   </div>
+  </div>    
+ </div>
+</div>
+
 # LAP{D} image 
 
 

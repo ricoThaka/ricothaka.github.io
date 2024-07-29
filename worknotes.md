@@ -8,8 +8,17 @@
 
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU)
 
+Dear Cnn at what leve3l are you covering [our work](https://murray-lab.caltech.edu/CTX/) ? 
+![mars rover](https://pbs.twimg.com/media/GTnLas-a8AEU0Da?format=jpg&name=large)
 
 ![l](https://pbs.twimg.com/media/GTrTgAeboAAQkX4?format=jpg&name=large)
+
+ [NASA’s Perseverance Rover Scientists Find Intriguing Mars Rock](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-scientists-find-intriguing-mars-rock)
+ 
+![baffled](https://pbs.twimg.com/media/GTC2RwkbwAAWolK?format=jpg&name=large) 
+![signage](https://pbs.twimg.com/media/GTW4G5kbEAAGTPr?format=jpg&name=medium)
+[Los Angeles City Hall, 200 North Spring Street, Los Angeles, Los Angeles County, CA](https://www.loc.gov/item/ca1261/#:~:text=Los%20Angeles%20City%20Hall%2C%20200,County%2C%20CA%20%7C%20Library%20of%20Congress) 
+
 
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 [McDonalds Ronald McDonald and Mayor McCheese in Space, 1978](https://youtu.be/nmL6pMQMBBk?si=LSk6f74OXwuxsFkq) [Another bill again-Tony Rebel](https://www.youtube.com/watch?v=U9ZLAgyn2-Q) [Astronaut Chick](https://www.youtube.com/watch?v=6kAsPbbp8GI) [Truth Gonna Hurt You](https://youtu.be/WBxjt78PG3s?si=NMtQTDZ7_AZMERGy) <~ late for work ? idk 

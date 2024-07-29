@@ -42,12 +42,6 @@ carousels:
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
- [NASA’s Perseverance Rover Scientists Find Intriguing Mars Rock](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-scientists-find-intriguing-mars-rock)
- 
-![baffled](https://pbs.twimg.com/media/GTC2RwkbwAAWolK?format=jpg&name=large) 
-![signage](https://pbs.twimg.com/media/GTW4G5kbEAAGTPr?format=jpg&name=medium)
-[Los Angeles City Hall, 200 North Spring Street, Los Angeles, Los Angeles County, CA](https://www.loc.gov/item/ca1261/#:~:text=Los%20Angeles%20City%20Hall%2C%20200,County%2C%20CA%20%7C%20Library%20of%20Congress) 
-
 
 {% include_relative current.md %}
 
