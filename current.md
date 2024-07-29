@@ -11,10 +11,15 @@ layout : default
 {% endhighlight %}
 
 
+# Currently Compiling
+
+
+The King of Fighters 2002 (NGM-2650 ~ NGH-2650)
+<iframe src="https://archive.org/embed/arcade_kof2002" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR)
 
-# Currently Compiling
+
 [RetroArch Tutoria](https://forums.libretro.com/t/retroarch-tutorial/24164) i was outside [CityHall Los Angles](https://mayor.lacity.gov/news/mayor-bass-signs-city-council-motion-fly-pride-flag-over-city-hall-first-time-ever) And wanted to play [Ridge Racer](https://en.wikipedia.org/wiki/Ridge_Racer_(1993_video_game)) at the last minute i forgot what i was doing but you can see that with Termux its a regular [PowerUser](https://techcommunity.microsoft.com/t5/windows-blog-archive/the-power-in-power-users/ba-p/723522) computer. "he Power Users group is able to install software, manage power and time-zone settings, and install ActiveX controls, actions that limited Users are denied." - [TechCommunityAPIAdminTechCommunityAPIAdmin](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/75284#profile) [Windows Blog Archive](https://techcommunity.microsoft.com/t5/windows-blog-archive/bg-p/Windows-Blog-Archive) [The Case of the Father-in-Law’s Scareware](https://techcommunity.microsoft.com/t5/windows-blog-archive/the-case-of-the-father-in-law-8217-s-scareware/ba-p/724376)
 
 <video controls poster="https://upload.wikimedia.org/wikipedia/en/d/d3/Ridge_Racer_Coverart.png">
