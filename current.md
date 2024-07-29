@@ -5,6 +5,8 @@ layout : default
 
 # Currently Compiling
 
+[Normani](https://glittermagazine.co/2024/06/18/normani-releases-new-debut-album-dopamine/normani-9/) [Discusses Her Traumatizing Time in Fifth Harmony](https://glittermagazine.co/2024/05/06/normani-discusses-her-traumatizing-time-in-fifth-harmony/) with [Shannay](https://www.linkedin.com/in/shannay-porter-582a301b2) [Porter](https://www.tiktok.com/@shannayporter)
+![Normani](https://pbs.twimg.com/media/GTrTfBkbQAAgBJS?format=jpg&name=small)
 [Android forensics : investigation, analysis, and mobile security for Google Android](https://archive.org/details/androidforensics0000hoog) [Android-Forensics-References](https://github.com/RealityNet/Android-Forensics-References)
 [Learning Android Forensics By Rohit Tamma, Donnie Tindall](https://books.google.com/books?id=hYnwCAAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
 [The Gods Of Eden: The Chilling Truth About Extraterrestrial Infiltration   And Conspiracy To Keep Humankind In Chains by WILLIAM BRAMLEY](https://archive.org/details/gods-of-eden)
