@@ -8,10 +8,13 @@
 ![us](https://pbs.twimg.com/media/GTrN0w_aQAAC5HB?format=jpg&name=large)
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR) [Magic City's 'Mr. Magic' Reveals How He Created ATL's #1 Strip Club | Sip 'N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s) [Dregs of the City: Los Angeles | Short Documentary](https://www.youtube.com/watch?v=dineEC_05fg) [I Explored LA's Mexican GANG Neighborhoods With A Real Life CHOLA](https://www.youtube.com/watch?v=Bl_jDpTZHmI) [The Most Controversial Street in Los Angeles - Figueroa St](https://www.youtube.com/watch?v=ZTYU5-TSqgY) [Buy You Some](https://www.youtube.com/watch?v=GunGHVuztJA)
 
+[About Samba](https://www.samba.org/)
+Samba is the standard Windows interoperability suite of programs for Linux and Unix. [https://www.samba.org/](https://www.reddit.com/r/unix/comments/qwklm4/is_macos_unix/?onetap_auto=true&one_tap=true) [How to share files with Samba](https://www.redhat.com/sysadmin/samba-file-sharing) 
 
+>The Samba project provides file sharing and print services for computers on a network. It uses the Server Message Block and Common Internet File System (SMB/CIFS) protocol, so the services created by running Samba are available to Linux, macOS, and Windows clients. It's an essential service to run in organizations that support multiple operating systems, and it's even useful on homogenous networks.
 
-inside City Hall this heterogeneous file sharing publicly and we live in a and we live in a [#pornoState](https://x.com/MooNLOVER404/status/1817857893523222929)
-![Coi_Leray](https://pbs.twimg.com/media/GRgyLXsaYAAmPXQ?format=jpg&name=large) @NASAJPL she is in my church tooFrom @dance411 say she wanna be together whatever That means 
+inside City Hall this heterogeneous file sharing publicly and we live in a and we live in a [#pornoState](https://x.com/MooNLOVER404/status/1817857893523222929) And With The Zoom_Clients its like something that needs to be discussed bc my child was taken over zoom!
+![Coi_Leray](https://pbs.twimg.com/media/GRgyLXsaYAAmPXQ?format=jpg&name=large) @NASAJPL she is in my church tooFrom Georgia say she wanna be together whatever That means 
 
 <div class='twoPanelSpread'>
         <div class='row'>
