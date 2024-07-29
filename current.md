@@ -4,6 +4,18 @@ layout : default
 
 
 # Currently Compiling
+[RetroArch Tutoria](https://forums.libretro.com/t/retroarch-tutorial/24164) i was outside [CityHall Los Angles](https://mayor.lacity.gov/news/mayor-bass-signs-city-council-motion-fly-pride-flag-over-city-hall-first-time-ever) And wanted to play [Ridge Racer](https://en.wikipedia.org/wiki/Ridge_Racer_(1993_video_game)) at the last minute i forgot what i was doing but you can see that with Termux its a regular [PowerUser](https://techcommunity.microsoft.com/t5/windows-blog-archive/the-power-in-power-users/ba-p/723522) computer. "he Power Users group is able to install software, manage power and time-zone settings, and install ActiveX controls, actions that limited Users are denied." - [TechCommunityAPIAdminTechCommunityAPIAdmin](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/75284#profile) [Windows Blog Archive](https://techcommunity.microsoft.com/t5/windows-blog-archive/bg-p/Windows-Blog-Archive) [The Case of the Father-in-Law’s Scareware](https://techcommunity.microsoft.com/t5/windows-blog-archive/the-case-of-the-father-in-law-8217-s-scareware/ba-p/724376)
+
+<video controls poster="https://upload.wikimedia.org/wikipedia/en/d/d3/Ridge_Racer_Coverart.png">
+    
+<source src="https://ia800602.us.archive.org/34/items/screenshot-20240728-051602/screen-20240727-125057.ia.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://ia800602.us.archive.org/34/items/screenshot-20240728-051602/screen-20240727-125057.ia.mp4">MP4</a>
+        video.
+</video> 
+
+
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [Coi Leray - Bops](https://youtu.be/ttDtl94JNx0?si=riyfLgLTBbG4O1fh) [Latto - Sunday Service (feat. Megan Thee Stallion & Flo Milli) [Remix]](https://www.youtube.com/watch?v=9gL0F1xIt2I) [Latto - Big Mama](https://www.youtube.com/watch?v=N79jE4q3b-M) [Krush GrooVe](https://youtu.be/GwK47zAL3eM?si=JD3Fy_61uJe6hT6k) [Sexyy Red ft. Chief Keef - Bow Bow Bow (F My Baby Dad) (Official Video)](https://www.youtube.com/watch?v=KsblGR2_fhI) [B.G.S. official video](https://www.youtube.com/watch?v=Ao-l4JmJ9cw) [18 African Countries Where BEAUTIFUL Women DESPERATELY Seek Men](https://www.youtube.com/watch?v=j7L8KA9cj20) [Welcome 2 WEST END Atlanta - Hood Vlogs](https://www.youtube.com/watch?v=8zYp_OqpPx8) [Jim Larer - T.I. - Atlanta Tour](https://www.youtube.com/watch?v=S9mYFMy1yvU) [My Block Atlanta - T.I. / 12.05.2005](https://www.youtube.com/watch?v=FFr6QB9v4dk) [T.I. & Lil' 3rd - Str8 Hood DVD Vol. 1 (2004)](https://www.youtube.com/watch?v=yVHKfkB5Pm8)
 
 ![Latto](https://pbs.twimg.com/media/GRLKjFCbcAAH3xv?format=jpg&name=large)
