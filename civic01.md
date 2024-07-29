@@ -96,9 +96,24 @@ The doll way
   </div>    
  </div>
 </div>
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+             <a href="https://pbs.twimg.com/media/GTe8puUbkAAkIT7?format=jpg&name=medium"> <img src="https://pbs.twimg.com/media/GTe8puUbkAAkIT7?format=jpg&name=medium" alt="1945 dessau" ></a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+             <a href="https://pbs.twimg.com/media/GTe8puVaAAAsUX6?format=png&name=medium"> <img src="https://pbs.twimg.com/media/GTe8puVaAAAsUX6?format=png&name=medium" alt="LE DDT A DESSAU" ></a>
+   </div>
+  </div>    
+ </div>
+</div>
 
 ![Researchers on dash](https://pbs.twimg.com/media/GThXCK3aAAAvbhK?format=jpg&name=small)
 `https://x.com/MooNLOVER404/status/1817298621387485314` @RepKarenBass @CNNAshley  https://x.com/MooNLOVER404/status/1815514298342674449 im distracted a bit after being hacked and my blogs being destroyed  @SlashdotMedia @CNNAshley got my #MartianGeology story after iGot banned from the bus for having a cart https://ladottransit.com/dash/routes/obslf/obslf.html i have no income! @GADFCS @normani
+
 ### coup d'é·tat
 ## /ˌko͞o dāˈtä/
 A coup d'état (/ˌkuːdeɪˈtɑː/ ⓘ; French: [ku deta]; lit. 'stroke of state'),[1] or simply a coup, is typically an illegal and overt attempt by a military organization or other government elites to unseat an incumbent leadership.[2][3] A self-coup is when a leader, having come to power through legal means, tries to stay in power through illegal means.[3] [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat)
