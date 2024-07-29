@@ -2,7 +2,6 @@
 layout : default
 ---
 
-
 # Currently Compiling
 [RetroArch Tutoria](https://forums.libretro.com/t/retroarch-tutorial/24164) i was outside [CityHall Los Angles](https://mayor.lacity.gov/news/mayor-bass-signs-city-council-motion-fly-pride-flag-over-city-hall-first-time-ever) And wanted to play [Ridge Racer](https://en.wikipedia.org/wiki/Ridge_Racer_(1993_video_game)) at the last minute i forgot what i was doing but you can see that with Termux its a regular [PowerUser](https://techcommunity.microsoft.com/t5/windows-blog-archive/the-power-in-power-users/ba-p/723522) computer. "he Power Users group is able to install software, manage power and time-zone settings, and install ActiveX controls, actions that limited Users are denied." - [TechCommunityAPIAdminTechCommunityAPIAdmin](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/75284#profile) [Windows Blog Archive](https://techcommunity.microsoft.com/t5/windows-blog-archive/bg-p/Windows-Blog-Archive) [The Case of the Father-in-Law’s Scareware](https://techcommunity.microsoft.com/t5/windows-blog-archive/the-case-of-the-father-in-law-8217-s-scareware/ba-p/724376)
 
