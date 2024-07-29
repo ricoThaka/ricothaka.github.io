@@ -91,7 +91,7 @@ The doll way
           </div>
           <div class='panelColumn'>
             <div class='rightColumn'>
-             <a href="https://pbs.twimg.com/media/GTmqbLIakAArjvL?format=jpg&name=medium"> <img src="https://pbs.twimg.com/media/GTYNWK-agAIgNrt?format=jpg&name=large" alt="LE DDT A DESSAU" ></a>
+             <a href="https://pbs.twimg.com/media/GTmqbLIakAArjvL?format=jpg&name=medium"> <img src="https://pbs.twimg.com/media/GTmqbLIakAArjvL?format=jpg&name=medium" alt="LE DDT A DESSAU" ></a>
    </div>
   </div>    
  </div>
