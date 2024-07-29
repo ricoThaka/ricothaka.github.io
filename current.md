@@ -4,7 +4,7 @@ layout : default
 
 
 # Currently Compiling
-[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [Coi Leray - Bops](https://youtu.be/ttDtl94JNx0?si=riyfLgLTBbG4O1fh)
+[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [Coi Leray - Bops](https://youtu.be/ttDtl94JNx0?si=riyfLgLTBbG4O1fh) [Latto - Sunday Service (feat. Megan Thee Stallion & Flo Milli) [Remix]](https://www.youtube.com/watch?v=9gL0F1xIt2I) [Latto - Big Mama](https://www.youtube.com/watch?v=N79jE4q3b-M)
 
 
 ![Burning Man 2018](https://pbs.twimg.com/media/GO8FOmxbEAMWU9e?format=jpg&name=large)
