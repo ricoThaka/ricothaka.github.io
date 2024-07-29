@@ -15,7 +15,8 @@ layout : default
 <a href="https://ia800602.us.archive.org/34/items/screenshot-20240728-051602/screen-20240727-125057.ia.mp4">MP4</a>
         video.
 </video> 
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/968932438&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/erick-chapa-villarreal" title="TREEKEL" target="_blank" style="color: #cccccc; text-decoration: none;">TREEKEL</a> · <a href="https://soundcloud.com/erick-chapa-villarreal/ridge-racer-psx-rare-hero-hq" title="Ridge Racer (PSX) - Rare Hero (HQ)" target="_blank" style="color: #cccccc; text-decoration: none;">Ridge Racer (PSX) - Rare Hero (HQ)</a></div>
+<iframe src="https://archive.org/embed/arcade_ridgerac" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [Coi Leray - Bops](https://youtu.be/ttDtl94JNx0?si=riyfLgLTBbG4O1fh) [Latto - Sunday Service (feat. Megan Thee Stallion & Flo Milli) [Remix]](https://www.youtube.com/watch?v=9gL0F1xIt2I) [Latto - Big Mama](https://www.youtube.com/watch?v=N79jE4q3b-M) [Krush GrooVe](https://youtu.be/GwK47zAL3eM?si=JD3Fy_61uJe6hT6k) [Sexyy Red ft. Chief Keef - Bow Bow Bow (F My Baby Dad) (Official Video)](https://www.youtube.com/watch?v=KsblGR2_fhI) [B.G.S. official video](https://www.youtube.com/watch?v=Ao-l4JmJ9cw) [18 African Countries Where BEAUTIFUL Women DESPERATELY Seek Men](https://www.youtube.com/watch?v=j7L8KA9cj20) [Welcome 2 WEST END Atlanta - Hood Vlogs](https://www.youtube.com/watch?v=8zYp_OqpPx8) [Jim Larer - T.I. - Atlanta Tour](https://www.youtube.com/watch?v=S9mYFMy1yvU) [My Block Atlanta - T.I. / 12.05.2005](https://www.youtube.com/watch?v=FFr6QB9v4dk) [T.I. & Lil' 3rd - Str8 Hood DVD Vol. 1 (2004)](https://www.youtube.com/watch?v=yVHKfkB5Pm8)
 
@@ -86,8 +87,7 @@ HiView is a data explorer and image viewing application supporting the [JPEG2000
 ![HiView](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
 
 ![DatPiFF](https://www.datpiff.com/assets/images/datpiff-logo-white.png)
-[JAY ELECTRONICACURRENCYMOS DEF - Jay Electronica (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md4ebe25) [Jay Electronica - Unreleased (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m8fca3ca) [Jay Electronica Discography ?](https://www.reddit.com/r/hiphop101/comments/1vbiju/jay_electronica_discography/?rdt=41981&onetap_auto=true&one_tap=true) [Act II: The Patents Of Nobility (The Turn)](https://archive.org/details/jay-electronica-act-II-the-patents-of-nobility-the-turn ) [Jay Electronica - Act 1 The Eternal Sunshine the (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md1d01fd) 
-[DATPIFF Hip-Hop Mixtape Archives](https://archive.org/details/datpiffarchives) [Keep On Rockin It (feat. Charizma) - PeanutButterWolf My Vinyl Weighs a ton](https://youtu.be/klNiPcJMSvs?si=oKmDj7ekJrhweyyY) [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7) [J A Y E L E C T R O N I C A - Letter to Falon](https://youtu.be/VtM62E7KZ6o?si=kfvh-38GJb2uc4sj)
+[JAY ELECTRONICACURRENCYMOS DEF - Jay Electronica (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md4ebe25) [Jay Electronica - Unreleased (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m8fca3ca) [Jay Electronica Discography ?](https://www.reddit.com/r/hiphop101/comments/1vbiju/jay_electronica_discography/?rdt=41981&onetap_auto=true&one_tap=true) [Act II: The Patents Of Nobility (The Turn)](https://archive.org/details/jay-electronica-act-II-the-patents-of-nobility-the-turn ) [Jay Electronica - Act 1 The Eternal Sunshine the (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md1d01fd) [DATPIFF Hip-Hop Mixtape Archives](https://archive.org/details/datpiffarchives) [Keep On Rockin It (feat. Charizma) - PeanutButterWolf My Vinyl Weighs a ton](https://youtu.be/klNiPcJMSvs?si=oKmDj7ekJrhweyyY) [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7) [J A Y E L E C T R O N I C A - Letter to Falon](https://youtu.be/VtM62E7KZ6o?si=kfvh-38GJb2uc4sj)
 
 
 
@@ -116,35 +116,6 @@ HiView is a data explorer and image viewing application supporting the [JPEG2000
 
 
 
-
-### Passing parameters to includes
-
-You can also pass parameters to an include. For example, suppose you have a file called `note.html` in your `_includes` folder that contains this formatting:
-
-{% raw %}
-```liquid
-<div markdown="span" class="alert alert-info" role="alert">
-<i class="fa fa-info-circle"></i> <b>Note:</b>
-{{ include.content }}
-</div>
-```
-{% endraw %}
-
-
-[ALiSTAPART_The Bathing Ape Has No Clothes (and other notes on the distinction between style and design)](https://alistapart.com/article/bathingape/) [ALiSTAPART_Design Choices Can Cripple a Website](https://alistapart.com/article/designcancripple/) [ALiSTAPART_Good Designers Redesign, Great Designers Realign](https://alistapart.com/article/redesignrealign/) [ALiSTAPART_Designing Through the Storm](https://alistapart.com/article/throughthestorm/) [ALiSTAPART_Staying Motivated](https://alistapart.com/article/stayingmotivated/) [ALiSTAPART_Understanding Web Design](https://alistapart.com/article/understandingwebdesign/) [ALiSTAPART_Marry Your Clients](https://alistapart.com/article/marry-your-clients/) [ALiSTAPART_Personality in Design](https://alistapart.com/article/personality-in-design/) [ALiSTAPART_Before You Hire Designers](https://alistapart.com/article/before-you-hire-designers/) [ALiSTAPART_Planning for Accessibility](https://alistapart.com/article/planning-for-accessibility/) [ALiSTAPART_Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/) [ALiSTAPART_Immersive Content Strategy](https://alistapart.com/article/immersive-content-strategy/) [ALiSTAPART_Designing Inclusive Content Models](https://alistapart.com/article/designing-inclusive-content-models/) [NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html) [NYPL_STYLEGUiDE_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
-[Mars](https://science.nasa.gov/mars/) is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited entirely by robots.
-![Mars](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01217/ids/edr/browse/fcam/FRF_1217_0774992354_159ECM_N0560000FHAZ00206_01_295J01_1200.jpg)
-
-Normani please look at this old post, it is a marker for how long i have been focused on Programming CSS 
-# SUNDAY, NOVEMBER 21TH, 2021
-# Im working on CSS
-
-Since I'm publishing using [##GiTHUB_PAGES](https://pages.github.com/), alot of administration needs are met from my [GiTHUB_ACCOUNT](https://github.com/ThakaRashard), I can focus on coding. [Cascading Style Sheets is a legit programming language for the browser](http://www.csszengarden.com/216/). Using the site David Shea Started, I can get this Jekyll account to another level. I really need this book [The Zen of CSS](https://www.goodreads.com/en/book/show/565.The_Zen_of_CSS_Design) he published. I have to create navigation to my resume and create a contact page. Im using [GiTHUB Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) to manage individual pages right now because it is a small site and I want [psychological separation](https://www.separationadvice.net/psychological-separation/) which social media does not provide. I was blackballed on Linkedin for just not knowing enough for my age, and my family+romance life. Every woman that committed to me was sold into sex slavery and kidnapped by ##INSTAGRAM_PiMPS_and_MARKETED_iN_FACEBOOK_BROTHELS. They are still trafficked as prostitutes. IT people in the DEVOPS generation often fool themselves into thinking prostitution is normal and the family which is affected is the problem. This view has left people with familes discriminated against in the ##IT_MARKETPLACE, but here in Los Angeles after 2 years of homelessness, I sense my luck changing... So Im working hard to clean up my image and reputation outside social media, which has brought me closer to my family 
-## I_FOUND_EVERYONE_ALiVE_HERE_IN_SOUTHER_CALIFORNIA.\
-I miss my friend, the explosive barritone lows of his voice coupled with cruck ass beat production will be missed dearly, I hope this wiki iframe does not break scrolling on cellphones. I cant test touch screens at this point from [Palmdale Public Library's](https://cityofpalmdale.org/318/Palmdale-City-Library) traditional [Optiplex desktops](https://www.dell.com/en-us/work/shop/desktops-all-in-one-pcs/optiplex-5040-series-desktops/spd/optiplex-5040-desktop) 
-[Memphis police release photos of 2 suspects wanted over Young Dolph's shooting death](https://www.npr.org/2021/11/19/1057194115/memphis-police-suspects-wanted-young-dolph-murder)
-
-[Another bill again-Tony Rebel](https://www.youtube.com/watch?v=U9ZLAgyn2-Q) [McDonalds Ronald McDonald and Mayor McCheese in Space, 1978](https://youtu.be/nmL6pMQMBBk?si=LSk6f74OXwuxsFkq) [Another bill again-Tony Rebel](https://www.youtube.com/watch?v=U9ZLAgyn2-Q) [Astronaut Chick](https://www.youtube.com/watch?v=6kAsPbbp8GI) [Truth Gonna Hurt You](https://youtu.be/WBxjt78PG3s?si=NMtQTDZ7_AZMERGy) <~ late for work ? idk 
 
 [2nd Childhood](https://youtu.be/A5nM66F903I?si=hrqXLu-CYPuteESs) 
 

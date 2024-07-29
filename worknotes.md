@@ -6,8 +6,7 @@
   </div>
 </div>   
 
-[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR)
-
+[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR) [Magic City's 'Mr. Magic' Reveals How He Created ATL's #1 Strip Club | Sip 'N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s)
 
 Dear Cnn at what leve3l are you covering [our work](https://murray-lab.caltech.edu/CTX/) ? 
 ![mars rover](https://pbs.twimg.com/media/GTnLas-a8AEU0Da?format=jpg&name=large)

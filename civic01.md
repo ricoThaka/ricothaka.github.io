@@ -1,5 +1,5 @@
 ![us](https://pbs.twimg.com/media/GTrN0w_aQAAC5HB?format=jpg&name=large)
-[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR)
+[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR) [Magic City's 'Mr. Magic' Reveals How He Created ATL's #1 Strip Club | Sip 'N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s)
 
 
 
