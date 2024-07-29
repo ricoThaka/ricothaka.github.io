@@ -1,4 +1,4 @@
-
+[MC Hammer BREAKS Silence And Exposes Diddy](https://www.youtube.com/watch?v=IUEeLnxT6-I)
 [Smokey and the Bandit](https://lastchancepowerdrive.com/2019/08/10/smokey-and-the-bandit-filming-sites/)
 <video controls width="100%" height="auto" poster="https://www.salvationsouth.com/wp-content/uploads/2023/12/CONDENSED-bandit-cover-1024x576.jpg">
 
