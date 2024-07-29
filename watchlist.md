@@ -13,6 +13,62 @@
 
 [THE SOUTH WE SAW IN THE BANDIT](https://www.salvationsouth.com/the-south-we-thought-we-saw-in-smokey-and-the-bandit-ed-southern/) [Watch Stream On the InterNet Archive - Smokey and The Bandit](https://archive.org/details/SmokeyAndTheBandit)
 
+
+### Who's the Man? Comedy · Crime · Mystery
+In this hip-hop whodunnit, Doctor Dré and Ed Lover play two barbers-turned-policemen who find themselves investigating their friend’s murder [TUBi](https://tubitv.com/movies/100000434/who-s-the-man) [TV_GUiDE](https://www.tvguide.com/movies/whos-the-man/2030109905/) [Yo! MTV Raps](https://en.wikipedia.org/wiki/Yo!_MTV_Raps) [https://plex](https://watch.plex.tv/movie/whos-the-man) [Who's the Man Soundtrack](https://youtube.com/playlist?list=PLvmdgH_DpOdI5xbuPGzzTVgTtr4XJneTq&si=g9KLLHPxeiLa0xVv) [ARCHiVE](https://archive.org/details/who-s-the-man-d-2-t-00) [Party AnD BullshiT](https://youtu.be/jX3bdJbo9ec?si=xRD48DfBGuc6UXL5)
+
+<video controls preload="auto" poster="https://m.media-amazon.com/images/M/MV5BNGIxNjY3ZTktMmNlOS00MDdmLWE3NTYtNGQ4N2I3MWNlNDg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg">
+    
+<source src="https://archive.org/download/who-s-the-man-d-2-t-00/WHO%27S%20THE%20MAN-D2_t00.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/who-s-the-man-d-2-t-00/WHO%27S%20THE%20MAN-D2_t00.mp4">MP4</a>
+        video.
+</video> 
+
+['Ranma ½: The Battle of Nekonron China! Fight to Break the Rules!!' (らんま½ 中国寝崑崙大決戦！掟やぶりの激闘篇！！](https://ranma.fandom.com/wiki/Big_Trouble_in_Nekonron,_China) [imdb](https://www.imdb.com/title/tt0101583/plotsummary/?ref_=tt_ov_pl) When Prince Kirin of the 7 Lucky Gods shows up at the Tendo dojo looking for his bride-to-be, guess who's accidentally holding the scroll that signifies his future mate? [blogspot](https://animeannoyances.blogspot.com/2018/12/recap-ranma-12-big-trouble-in-nekonron.html) [rotten tomatoes](https://www.rottentomatoes.com/m/ranma_12_the_movie_1_big_trouble_in_nekonron_china_1991) [ANN](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1534)
+
+<video controls width="100%" height="auto" poster="https://static.wikia.nocookie.net/ranma/images/6/69/SeriesMovie01.png/revision/latest?cb=20120928053559">
+
+<source src="https://dn720405.ca.archive.org/0/items/getvid_20220408/getvid.mp4" type="video/mp4" />    
+<source src="https://dn720405.ca.archive.org/0/items/getvid_20220408/getvid.mp4" type="video/mp4" />
+      
+Download the
+        or
+      <a href="https://dn720405.ca.archive.org/0/items/getvid_20220408/getvid.mp4">MP4</a>
+        video.
+</video>
+
+[Super Dimension Fortress: Macross Episodes](https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108)
+
+<video controls height="auto" poster="https://a.storyblok.com/f/178900/1280x720/6f9e6c0a89/sdf-macross-hero.jpg/m/1200x0/filters:quality(95)format(webp)">
+
+<source src="https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108/SDF%20Macross%20%20Episode%2001%20%20Booby%20Trap%20%20%28ADV%20Dub%29.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108/SDF%20Macross%20%20Episode%2001%20%20Booby%20Trap%20%20%28ADV%20Dub%29.mp4" type="video/mp4" />
+      
+Download the
+        or
+      <a href="https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108/SDF%20Macross%20%20Episode%2001%20%20Booby%20Trap%20%20%28ADV%20Dub%29.mp4">MP4</a>
+        video.
+</video>
+
+
+
+[Macross Plus [OVA] (English Dub) Home Video Master Transfer (Betacam)](https://archive.org/details/macross-plus-english-dub-master)
+Macross Plus (マクロスプラス, Makurosu Purasu) is a four-episode anime OVA and theatrical movie in the Macross series. It was the first sequel to the original Macross television series that took place in the official timeline (Macross II was quickly retconned by series creator Shōji Kawamori as a parallel world story in the Macross universe). Plus was a groundbreaking combination of traditional cel and computer-generated animation at the time of its release, paving the way for the incorporation of more computer-generated imagery in Japanese animation.[Wiki](https://en.wikipedia.org/wiki/Macross_Plus) [imdb](https://www.imdb.com/title/tt0110426/) [GFR](https://www.giantfreakinrobot.com/ent/macross-plus-anime-greatest-format.html) [My Anime List](https://myanimelist.net/anime/474/Macross_Plus) [OVA_FiLES](https://archive.org/download/macross-plus-english-dub-master)
+
+<video controls  height="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE1MG12eDB1MmNvMDdoa2JoMG1pbjBvYXJ4aGY0NWlqNzF1YjA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDQEzc4uJ2rwsbS/giphy.webp">
+
+<source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%201%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%201%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />
+      
+Download the
+        or
+      <a href="https://dn720405.ca.archive.org/0/items/getvid_20220408/getvid.mp4">MP4</a>
+        video.
+</video>
+
+
 ## Computer Doc/Movie collection
 
 
