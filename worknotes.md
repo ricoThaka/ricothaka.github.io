@@ -9,7 +9,7 @@
 ['Not just a sugar high': Initial buzz for Harris sets stage for rest of campaign](https://youtu.be/RBZtRlRyvV4?si=dqXowv2EW8Xtk2yh)
 
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR) 
-[Magic City's 'Mr. Magic' Reveals How He Created ATL's #1 Strip Club | Sip 'N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s) 
+[Magic Citys Mr Magic Reveals How He Created ATLs #1 Strip Club Sip N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s)
 [Pimp and Prostitutes Of America: Los Angeles Red Light District | Documentary](https://www.youtube.com/watch?v=EXQjtSO8QoA) [I Never Knew Atlanta, Georgia Was Like This. 🤩- Downtown - Nightlife - 2021 (MUST SEE)](https://youtu.be/uwwyk_MMdKI?si=9q6jQVhQTJ3P8451)
 
 Dear Cnn at what levl are you covering [our work](https://murray-lab.caltech.edu/CTX/) ? 
