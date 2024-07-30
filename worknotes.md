@@ -12,7 +12,7 @@
 [Magic City's 'Mr. Magic' Reveals How He Created ATL's #1 Strip Club | Sip 'N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s) 
 [Pimp and Prostitutes Of America: Los Angeles Red Light District | Documentary](https://www.youtube.com/watch?v=EXQjtSO8QoA) [I Never Knew Atlanta, Georgia Was Like This. 🤩- Downtown - Nightlife - 2021 (MUST SEE)](https://youtu.be/uwwyk_MMdKI?si=9q6jQVhQTJ3P8451)
 
-Dear Cnn at what leve3l are you covering [our work](https://murray-lab.caltech.edu/CTX/) ? 
+Dear Cnn at what levl are you covering [our work](https://murray-lab.caltech.edu/CTX/) ? 
 ![mars rover](https://pbs.twimg.com/media/GTnLas-a8AEU0Da?format=jpg&name=large)
 
 ![l](https://pbs.twimg.com/media/GTrTgAeboAAQkX4?format=jpg&name=large)

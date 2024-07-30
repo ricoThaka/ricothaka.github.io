@@ -10,9 +10,10 @@ layout : default
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
-
+[Take It In Blood - SonG](https://www.youtube.com/watch?v=pmmnzusZZMU)
 # Currently Compiling
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6lYDGzCvbgw?si=7AuHPFGSrlyb1hdb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Magic City's 'Mr. Magic' Reveals How He Created ATL's #1 Strip Club | Sip 'N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s)
 
 ### This is my injury report Richard Kelly NASA JPL Mars
