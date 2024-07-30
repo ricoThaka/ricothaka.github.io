@@ -12,6 +12,12 @@ layout : default
 
 
 # Currently Compiling
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6lYDGzCvbgw?si=7AuHPFGSrlyb1hdb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Magic City's 'Mr. Magic' Reveals How He Created ATL's #1 Strip Club | Sip 'N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s)
+
+### This is my injury report Richard Kelly NASA JPL Mars
+<iframe src="https://archive.org/embed/vid-20240730-093425" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [Jay-Z - Things That U Do (Feat. Mariah Carey)](https://www.youtube.com/watch?v=XRxItoK6wKc) [Tru Playaz](https://youtu.be/pPoFtP-65sM?si=A2jrbVpkfGIrovgy)
 [Play Retro SNK Neo Geo games online | NEOGEOFUN](https://www.neogeofun.com/)
 [Marvel Super Heroes Vs Street Fighter (970625 USA)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html#)
