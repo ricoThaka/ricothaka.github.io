@@ -13,9 +13,13 @@ layout : default
 
 # Currently Compiling
 
+[Play Retro SNK Neo Geo games online | NEOGEOFUN](https://www.neogeofun.com/)
+[Marvel Super Heroes Vs Street Fighter (970625 USA)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html#)
 
-The King of Fighters '97 (NGM-2320)
-<iframe src="https://archive.org/embed/arcade_kof97" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/screen-recording-2024-07-29-4.53.08-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+[Screen Recording 2024 07 29 4.53.08 PM](https://archive.org/details/screen-recording-2024-07-29-4.53.08-pm)
+
+
 
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR)
 
