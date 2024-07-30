@@ -98,7 +98,25 @@ background-color: #7575C1;
 }
   </style>
 
+
+
+![DownTownLosAngelesSkyline](https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24000:24076/full/pct:25/0/default.jpg)
+> -- <cite>Highsmith, Carol M, photographer. Skyline view of Los Angeles, California. United States Los Angeles California, 2013. Photograph. https://www.loc.gov/item/2013631254/.</cite>
+
 ### Rashard (Thaka) Iman Kelly(Selassie?) NASAJPL MRO PAsadena California
+<nav id="linkcontainer">
+<ul id="linklist">
+<li id="active"><a href="#" id="current">Item one</a></li>
+<li><a href="https://thakarashard.github.io/">FAiLOVER</a></li>
+           <li><a href="{{ site.url }}{{ site.baseurl }}.github.io/CV">CV</a></li>
+            <li><a href="https://thakasartu.github.io/thaka/">JustMe</a></li>
+            <li><a href="https://ricothaka.github.io/twitters.html">TwitterS</a></li>
+            <li><a href="https://moonlov3r.wordpress.com/blog-feed/">WordPress</a></li>
+            <li><a href="https://bubblegumpop01.tumblr.com/">BubbleGumPop01</a></li>
+            <li><a href="https://bubblegumfm01.tumblr.com/">BubbleGumFM</a></li>
+</ul>
+</nav>
+
 ![lasdhq](https://lasd.org/wp-content/uploads/2019/02/LASD-grve-small-square_rev.png)
 # [East Los Angeles Sheriff’s Station](https://lasd.org/east-los-angeles/)
 ### 45 CFR § 2554.4 - What is a statement?
@@ -110,6 +128,8 @@ oral or written verbal expression.
 
 ## dis·po·si·tion
 ### /ˌdispəˈziSH(ə)n/ [Libel and Slander - The Basic Law In California](https://www.stimmel-law.com/en/articles/libel-and-slander-basic-law-california) [The Complete Guide to California Defamation Law](https://www.minclaw.com/california-defamation-law-state-guide/)
+
+# Rashard Kelly Official Social Channels
 
 
 
