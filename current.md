@@ -10,7 +10,14 @@ layout : default
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
-[Take It In Blood - SonG](https://www.youtube.com/watch?v=pmmnzusZZMU) [Occupational Safety and Health Administration 200 Constitution Ave NW Washington, DC 20210](https://www.osha.gov/workers/) OSHA Worker Rights and Protections
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RM7lw0Ovzq0?si=T8LSvWg1nuwT3jUx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+JAY-Z - The Story of O.J.
+[Sevyn Streeter On 76ers Stopping Her From Wearing "We Matter" Shirt](https://youtu.be/nUa32C6LuDE?si=E23brWEiJBr4xfuk) [The Breakfast Club Classic - Jay Z Interview 2013](https://www.youtube.com/watch?v=Y2TbLohPKI0) [Sevyn Streeter Perfoms in We Matter Jersey](https://www.youtube.com/watch?v=SM9oFokxCKw)  [Media Upload ThakaSartu](https://x.com/thakasartu/media) [Thakasartu bulliten board of sorts on github [css archive]](https://thakasartu.github.io/) [Kevin Hart Exposes Disturbing Party Footage Of Diddy.. (Exclusive)](https://youtu.be/yS_GWY6B_y8?si=OgN1CE7OerTzRYUZ) [Jay-Z - Things That U Do (Feat. Mariah Carey)](https://www.youtube.com/watch?v=XRxItoK6wKc) [Tru Playaz](https://youtu.be/pPoFtP-65sM?si=A2jrbVpkfGIrovgy) 
+ #ivf [Likes on ThakaSartu](https://x.com/thakasartu/likes) 
+[ThakaRashard on Twitter](https://x.com/MooNLOVER404/) [Thakarashard.github.io/computer_dmz](https://thakarashard.github.io/computer_dmz) [HOLE_TO_ANOTHER_UNiVERSE watch Smokey and The Bandit](https://thakarashard.github.io/civic01) [@RicoThaka Follows US GovernMent Often on Twitter](https://x.com/RicoThaka/with_replies) [RicoThaka uploaded twitter Media](https://x.com/RicoThaka/media)
+[LocalLosAngeles](https://thakarashard.github.io/civic01) [Computing Notes](https://thakarashard.github.io/computer_dmz) [NewBits+Notes](https://thakarashard.github.io/news) [FamilyNotes](https://thakarashard.github.io/thefam_dmz)[Take It In Blood - SonG](https://www.youtube.com/watch?v=pmmnzusZZMU) [Occupational Safety and Health Administration 200 Constitution Ave NW Washington, DC 20210](https://www.osha.gov/workers/) OSHA Worker Rights and Protections [Psychological impact of false accusations of sexual abuse](https://youtu.be/scSQc9iauuw?si=1ZyjOYql9RLrm8cX) [Queens 5 (2024 Hottest Female Rappers - Cypher Like Mix)](https://youtu.be/Zn3N9aWmtF4?si=6EzHCpyRh6fjID9a) [Magic Mountain - EriC Burton and WAR [delasoulpotholes]](https://youtu.be/wgHvxnTN4Nk?si=O4ByUUq2YLUFieB_)
 
 # Currently Compiling
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6lYDGzCvbgw?si=7AuHPFGSrlyb1hdb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -20,7 +27,7 @@ layout : default
 ### This is my injury report Richard Kelly NASA JPL Mars
 <iframe src="https://archive.org/embed/vid-20240730-093425" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-[Jay-Z - Things That U Do (Feat. Mariah Carey)](https://www.youtube.com/watch?v=XRxItoK6wKc) [Tru Playaz](https://youtu.be/pPoFtP-65sM?si=A2jrbVpkfGIrovgy)
+
 [Play Retro SNK Neo Geo games online | NEOGEOFUN](https://www.neogeofun.com/)
 [Marvel Super Heroes Vs Street Fighter (970625 USA)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html#)
 
