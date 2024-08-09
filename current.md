@@ -10,8 +10,16 @@ layout : default
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
+
+![HiErika](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/) Latto Reveals 21-Song 'Sugar Honey Iced Tea' Tracklist Featuring Teezo Touchdown, Ciara, [Mariah The Scientist](https://www.mariahthescientist.com/) and more, the LP drops tomorrow
+[Drake Shares 100GB of Unreleased Content Including Collaborations With Young Thug, Latto & 21 Savage](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dm6hcG5GT24?si=nAlD52pc5xcsjsbx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[V-103 NUMARX MIXES-DJ SPEN AND THE NUMARX CREW - BroadCast](https://www.youtube.com/watch?v=6T1kMPTD0UQ)[Time Machine - Mind in a Spin](https://www.youtube.com/watch?v=HWwCVqWmgro) [Walters The World Famous Shoe & Clothing Store In Atlanta 4 Normani](https://www.youtube.com/watch?v=-5vJvjlgAYQ) [Sexyy Red EXPOSES What Actually Went Down In Doja Cat CONFRONTATION wireless festival??](https://www.youtube.com/watch?v=l4SjUdFHhpg)
 [D.A. Fani Willis on Donald Trump's Georgia Case And The YSL Rico Trial](https://www.youtube.com/watch?v=YOFE901DkEE)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TiFGCStjnik?si=d8lAdPPjvz2xBhFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Señor Kaos - "Automatic Classic" OFFICIAL VIDEO](https://youtu.be/TiFGCStjnik?si=2-g4QJ5-DUSHAHmw)
 [Time Machine - Mind in a Spin](https://www.youtube.com/watch?v=HWwCVqWmgro) [Walters The World Famous Shoe & Clothing Store In Atlanta 4 Normani](https://www.youtube.com/watch?v=-5vJvjlgAYQ) [Sexyy Red EXPOSES What Actually Went Down In Doja Cat CONFRONTATION wireless festival??](https://www.youtube.com/watch?v=l4SjUdFHhpg)
 [Compiling:TheBlog~NewPost[thakarashard.github.io dump 731]](https://ricothaka.github.io/compiling/thakarashard731)
