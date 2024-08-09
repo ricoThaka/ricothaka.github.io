@@ -10,8 +10,8 @@ layout : default
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
-
-![HiErika](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/) Latto Reveals 21-Song 'Sugar Honey Iced Tea' Tracklist Featuring Teezo Touchdown, Ciara, [Mariah The Scientist](https://www.mariahthescientist.com/) and more, the LP drops tomorrow
+[Wrecked community library defiant in face of violent UK riots](https://www.yahoo.com/news/wrecked-community-library-defiant-face-171427901.html)
+[HiErika](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/) Latto Reveals 21-Song 'Sugar Honey Iced Tea' Tracklist Featuring Teezo Touchdown, Ciara, [Mariah The Scientist](https://www.mariahthescientist.com/) and more, the LP drops tomorrow
 [Drake Shares 100GB of Unreleased Content Including Collaborations With Young Thug, Latto & 21 Savage](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dm6hcG5GT24?si=nAlD52pc5xcsjsbx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
