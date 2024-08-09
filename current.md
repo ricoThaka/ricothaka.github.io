@@ -10,11 +10,13 @@ layout : default
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
+[D.A. Fani Willis on Donald Trump's Georgia Case And The YSL Rico Trial](https://www.youtube.com/watch?v=YOFE901DkEE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TiFGCStjnik?si=d8lAdPPjvz2xBhFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Señor Kaos - "Automatic Classic" OFFICIAL VIDEO](https://youtu.be/TiFGCStjnik?si=2-g4QJ5-DUSHAHmw)
 [Time Machine - Mind in a Spin](https://www.youtube.com/watch?v=HWwCVqWmgro) [Walters The World Famous Shoe & Clothing Store In Atlanta 4 Normani](https://www.youtube.com/watch?v=-5vJvjlgAYQ) [Sexyy Red EXPOSES What Actually Went Down In Doja Cat CONFRONTATION wireless festival??](https://www.youtube.com/watch?v=l4SjUdFHhpg)
 [Compiling:TheBlog~NewPost[thakarashard.github.io dump 731]](https://ricothaka.github.io/compiling/thakarashard731)
 [Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RM7lw0Ovzq0?si=T8LSvWg1nuwT3jUx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 JAY-Z - The Story of O.J. [Jay Z Goes on Twitter Spree Thanking Influences After Songwriters Hall of Fame Induction](https://www.billboard.com/music/rb-hip-hop/jay-z-goes-thanks-influences-songwriters-hall-twitter-7833773/) 
 [Sevyn Streeter On 76ers Stopping Her From Wearing "We Matter" Shirt](https://youtu.be/nUa32C6LuDE?si=E23brWEiJBr4xfuk) [The Breakfast Club Classic - Jay Z Interview 2013](https://www.youtube.com/watch?v=Y2TbLohPKI0) [Sevyn Streeter Perfoms in We Matter Jersey](https://www.youtube.com/watch?v=SM9oFokxCKw)  [Media Upload ThakaSartu](https://x.com/thakasartu/media) [Thakasartu bulliten board of sorts on github [css archive]](https://thakasartu.github.io/) [Kevin Hart Exposes Disturbing Party Footage Of Diddy.. (Exclusive)](https://youtu.be/yS_GWY6B_y8?si=OgN1CE7OerTzRYUZ) [Jay-Z - Things That U Do (Feat. Mariah Carey)](https://www.youtube.com/watch?v=XRxItoK6wKc) [Tru Playaz](https://youtu.be/pPoFtP-65sM?si=A2jrbVpkfGIrovgy) 
