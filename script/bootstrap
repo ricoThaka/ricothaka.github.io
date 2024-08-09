@@ -2,5 +2,5 @@
 
 set -e
 # npm ci
-gem install bundler -v 3.0.0
+gem install bundler -v 2.5.17
 bundle install
