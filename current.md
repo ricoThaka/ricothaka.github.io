@@ -12,6 +12,8 @@ layout : default
 
 
 
+![Ntp](https://pbs.twimg.com/media/GUlEoJTa8AEv1wk?format=jpg&name=large) [Xujiaao Left Us The Global NTP fix in his Gist](https://gist.github.com/xujiaao/) i embedded it on [ThakaRashard.GitHuB.iO](thakarashard.github.io)
+
 ![Bundler-update](https://pbs.twimg.com/media/GUkmPTTaYAAwIGP?format=jpg&name=large)
 [BundlerUpdate ScreenShare](https://pbs.twimg.com/media/GUkmfSfa8AAGAeR?format=jpg&name=large)
 ### GitHub Pages Bundler Upgrade/date at Cahuenga Branch Library Los Angeles
