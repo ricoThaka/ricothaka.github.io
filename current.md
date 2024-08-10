@@ -10,6 +10,30 @@ layout : default
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
+
+
+![Bundler-update](https://pbs.twimg.com/media/GUkmPTTaYAAwIGP?format=jpg&name=large)
+[BundlerUpdate ScreenShare](https://pbs.twimg.com/media/GUkmfSfa8AAGAeR?format=jpg&name=large)
+### GitHub Pages Bundler Upgrade/date at Cahuenga Branch Library Los Angeles
+[Broken Github Commit](https://github.com/ricoThaka/ricothaka.github.io/actions/runs/10311579005/job/28545422112)
+<iframe src="https://archive.org/embed/screen-recording-2024-08-09-2.27.32-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+{% highlight ruby %}
+Resolving dependencies...
+Could not find compatible versions
+
+Because nokogiri = 1.16.2 depends on Ruby >= 3.0.0
+  and nokogiri >= 1.16.2, < 1.16.3 depends on Ruby >= 3.0, < 3.4.dev,
+  nokogiri >= 1.16.2, < 1.16.3 requires Ruby >= 3.0.0.
+So, because nokogiri = 1.16.3 depends on Ruby >= 3.0.0
+  and nokogiri >= 1.16.3, < 1.16.4 depends on Ruby >= 3.0, < 3.4.dev,
+  nokogiri >= 1.16.2, < 1.16.4 requires Ruby >= 3.0.0.
+Error: The process '/opt/hostedtoolcache/Ruby/2.7.8/x64/bin/bundle' failed with exit code 6
+{% endhighlight %}
+
+
+
+[Joe Gibbs And The Destroyers - Nevada Joe ( Amalgamated ).](https://youtu.be/M4qOp9K54DM?si=RQcxj1FkGkma0e7m)
 [Wrecked community library defiant in face of violent UK riots](https://www.yahoo.com/news/wrecked-community-library-defiant-face-171427901.html)
 [HiErika](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/) Latto Reveals 21-Song 'Sugar Honey Iced Tea' Tracklist Featuring Teezo Touchdown, Ciara, [Mariah The Scientist](https://www.mariahthescientist.com/) and more, the LP drops tomorrow
 [Drake Shares 100GB of Unreleased Content Including Collaborations With Young Thug, Latto & 21 Savage](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/)
