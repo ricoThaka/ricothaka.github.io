@@ -31,7 +31,7 @@ So, because nokogiri = 1.16.3 depends on Ruby >= 3.0.0
 Error: The process '/opt/hostedtoolcache/Ruby/2.7.8/x64/bin/bundle' failed with exit code 6
 {% endhighlight %}
 
-
+![RuBy](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/198px-Ruby_logo.svg.png?20101129171534)
 
 [Joe Gibbs And The Destroyers - Nevada Joe ( Amalgamated ).](https://youtu.be/M4qOp9K54DM?si=RQcxj1FkGkma0e7m)
 [Wrecked community library defiant in face of violent UK riots](https://www.yahoo.com/news/wrecked-community-library-defiant-face-171427901.html)
