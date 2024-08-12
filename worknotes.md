@@ -1,10 +1,50 @@
  <div class="mro_banner">
   <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
-  <div class="innertext-block">
-    <h4>Los Angeles</h4>
-    <p>hole to another universe</p>
+  <div class="innertext-block" markdown=1>
+    <h4>Los Angeles</h4>  
+    <p>hole to another universe</p> 
+    
+  [OutKast - Slump](https://youtu.be/pbqhRkG-NH4?si=bgmbb4I8uB08fmtE_)
   </div>
 </div>   
+
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s)
+
+# Planetary Data Sciences Update : : : M_R_O
+### August 1, 2024. The SHARAD radargrams from the SHARAD Science Team have been migrated to the PDS4 standard. See the PDS4 notes document for details.
+
+The PDS Geosciences Node Spectral Library is a database of laboratory spectra submitted by various data providers. It includes spectra from the Reflectance Experiment Laboratory (RELAB) at Brown University as well as XAS and reflectance spectra from the [PDS4 bundles below](https://pds-geosciences.wustl.edu/spectrallibrary/default.htm)... ~> 
+
+![M_R_O pds update](https://pbs.twimg.com/media/GUzSazybUAAaDMh?format=jpg&name=large)
+
+
+
+### This is my injury report Richard Kelly NASA JPL Mars
+<iframe src="https://archive.org/embed/vid-20240730-093425" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![Ntp](https://pbs.twimg.com/media/GUlEoJTa8AEv1wk?format=jpg&name=large) [Xujiaao Left Us The Global NTP fix in his Gist](https://gist.github.com/xujiaao/) i embedded it on [ThakaRashard.GitHuB.iO](thakarashard.github.io)
+
+![Bundler-update](https://pbs.twimg.com/media/GUkmPTTaYAAwIGP?format=jpg&name=large)
+[BundlerUpdate ScreenShare](https://pbs.twimg.com/media/GUkmfSfa8AAGAeR?format=jpg&name=large)
+
+### GitHub Pages Bundler Upgrade/date at Cahuenga Branch Library Los Angeles
+[Broken Github Commit](https://github.com/ricoThaka/ricothaka.github.io/actions/runs/10311579005/job/28545422112)
+<iframe src="https://archive.org/embed/screen-recording-2024-08-09-2.27.32-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+{% highlight ruby %}
+Resolving dependencies...
+Could not find compatible versions
+
+Because nokogiri = 1.16.2 depends on Ruby >= 3.0.0
+  and nokogiri >= 1.16.2, < 1.16.3 depends on Ruby >= 3.0, < 3.4.dev,
+  nokogiri >= 1.16.2, < 1.16.3 requires Ruby >= 3.0.0.
+So, because nokogiri = 1.16.3 depends on Ruby >= 3.0.0
+  and nokogiri >= 1.16.3, < 1.16.4 depends on Ruby >= 3.0, < 3.4.dev,
+  nokogiri >= 1.16.2, < 1.16.4 requires Ruby >= 3.0.0.
+Error: The process '/opt/hostedtoolcache/Ruby/2.7.8/x64/bin/bundle' failed with exit code 6
+{% endhighlight %}
+
+![RuBy](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/198px-Ruby_logo.svg.png?20101129171534)
 
 ['Not just a sugar high': Initial buzz for Harris sets stage for rest of campaign](https://youtu.be/RBZtRlRyvV4?si=dqXowv2EW8Xtk2yh)
 
