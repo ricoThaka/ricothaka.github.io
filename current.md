@@ -10,11 +10,47 @@ layout : default
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
+# Currently Compiling
+
+[Jeremy's Wing Review - Magic City Kitchen (Atlanta, GA)](https://www.youtube.com/watch?v=olFgFp00TTw) [Live from Atlanta's Magic City strip club with owner Mr. Magic, Juju, Lou Will and Spank](https://youtu.be/3VcZAtO-K_Y?si=z7q-MIEOgZpp-qI3) [Atlanta Georgia Nightlife - Mercedes Benz Stadium - Walking Tour 4k](https://www.youtube.com/watch?v=4KlIhf867ig)
+## Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address
+[Why Facebook Just Launched Its Own 'Dark Web' Site Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor).](https://www.wired.com/2014/10/facebook-tor-dark-site/)
+[Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address](https://thehackernews.com/2014/10/facebook-now-accessible-via-tor.html?_m=3n.009a.748.sk0aof3tqt.fmx)
+[Facebook opens up to anonymous Tor users with .onion address  THiS_Article is more than 7 years old ](https://www.theguardian.com/technology/2014/oct/31/facebook-anonymous-tor-users-onion)
+[facebookcorewwwi.onion is this a joke or something?](https://www.reddit.com/r/facebook/comments/kakwfk/facebookcorewwwionion_is_this_a_joke_or_something/)
+[FACEBOOK'S DARK WEB .ONION SITE REACHES 1 MILLION MONTHLY TOR USERS](https://www.inverse.com/article/14672-facebook-s-dark-web-onion-site-reaches-1-million-monthly-tor-users)
+
+<IMG src="http://i.kinja-img.com/gawker-media/image/upload/s--lS5cFdtL--/wrlpspsqwyzhmron7hgp.jpg">
+
 
 [Joe Gibbs And The Destroyers - Nevada Joe ( Amalgamated ).](https://youtu.be/M4qOp9K54DM?si=RQcxj1FkGkma0e7m)
 [Wrecked community library defiant in face of violent UK riots](https://www.yahoo.com/news/wrecked-community-library-defiant-face-171427901.html)
 [HiErika](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/) Latto Reveals 21-Song 'Sugar Honey Iced Tea' Tracklist Featuring Teezo Touchdown, Ciara, [Mariah The Scientist](https://www.mariahthescientist.com/) and more, the LP drops tomorrow
 [Drake Shares 100GB of Unreleased Content Including Collaborations With Young Thug, Latto & 21 Savage](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/)
+
+
+![ArtOfGettingOver](https://pbs.twimg.com/media/GLoOf-eacAAjRgj?format=jpg&name=large)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/am9C2_DZ7s4?si=AiQIWZopsk5ZEKlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+![n00012813](https://solarsystem.nasa.gov/images/casJPGFullC43/N00012813.jpg)
+N00012813.jpg was taken on 2004-02-19 18:59 (PST) and received on Earth 2004-02-21 17:06 (PST). The camera was pointing toward Saturn, and the image was taken using the CL1 and MT2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System
+<img src="https://solarsystem.nasa.gov/images/casJPGFullS83/N00223070.jpg" />
+
+Cassini Raw Images :: 
+[This gallery](https://solarsystem.nasa.gov/cassini-raw-images/) contains the full record of the Cassini spacecraft’s raw images taken from Feb. 20, 2004 to Cassini’s end of mission on Sept. 15, 2017. The archive will remain available to all as a historical record. [Computer Hacking Documentries Mega Collection](https://archive.org/details/ComputerHackingDocumentriesMegaCollection)
+
+[Pryors Place](https://youtube.com/playlist?list=PLJC-pZxs0HrunzHxx2UMkfZYi4s1hIkIH&si=M8sG2PGSSHzJnPHM)
+[Richard Pryor Live on the Sunset Stip (audio)](https://youtu.be/-u5mwcMgh0Q?si=q4Ou_ZPbjP6EeFI2) [FiLES](https://archive.org/download/CM0916) [Richard Pryor Makes Emotional Return After Setting Himself on Fire | Carson Tonight Show](https://youtu.be/GQk2PteVpkY?si=YLov0T6GCT4byTNm) [Richard Pryor on DVD](https://archive.org/details/pryor_202009)
+
+
+
+ [Spoonie GeeLove Rap](https://youtu.be/cv2ReNgW8I0?si=cr5W6_OKCA8lqaKn)  [Treacherous Three - Feel the heartbeat - 1981](https://www.youtube.com/watch?v=Hk_DBrjtH0s) [The New Rap Language](https://youtu.be/ppdQMWKQ2ok?si=NDZhEmaibyTDOn3_) [The Body Rock](https://www.youtube.com/watch?v=bo8u7aQEmUo) [Rappin and Rocking the House (Version B)](https://youtu.be/D1xnK3xVQY4?si=Tna8F65EJjIUcRxG) [Superrappin'](https://youtu.be/Up8zxybJNHQ?si=7vYe0Ilnux7jmSWd) [Time Machine-The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=sWlWNsKNUSS9GreM) [Yma Sumac – Mambo! (1955) - Latin Folk Jazz Exotica](https://youtu.be/T7kPRvm7X34?si=dlEsijdHgSHuhBDx) [Esquivel and his orchestra - Other worlds, other sounds LP: RCA Victor](https://youtube.com/playlist?list=PLCzdBMu_SA7HkBCfIrvVibp_1a_H5JGb6&si=D7nwcE3mDWRgPRUw) [Yma Sumac sings Taita Inty "Hymn of the Sun Virgin" 1950. The Colgate Comedy Hour.](https://youtu.be/5waBf-jzZmc?si=d672wz6zBUZtNEEA)
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dm6hcG5GT24?si=nAlD52pc5xcsjsbx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -34,7 +70,7 @@ JAY-Z - The Story of O.J. [Jay Z Goes on Twitter Spree Thanking Influences After
 [ThakaRashard on Twitter](https://x.com/MooNLOVER404/) [Thakarashard.github.io/computer_dmz](https://thakarashard.github.io/computer_dmz) [HOLE_TO_ANOTHER_UNiVERSE watch Smokey and The Bandit](https://thakarashard.github.io/civic01) [@RicoThaka Follows US GovernMent Often on Twitter](https://x.com/RicoThaka/with_replies) [RicoThaka uploaded twitter Media](https://x.com/RicoThaka/media)
 [LocalLosAngeles](https://thakarashard.github.io/civic01) [Computing Notes](https://thakarashard.github.io/computer_dmz) [NewBits+Notes](https://thakarashard.github.io/news) [FamilyNotes](https://thakarashard.github.io/thefam_dmz)[Take It In Blood - SonG](https://www.youtube.com/watch?v=pmmnzusZZMU) [Occupational Safety and Health Administration 200 Constitution Ave NW Washington, DC 20210](https://www.osha.gov/workers/) OSHA Worker Rights and Protections [Psychological impact of false accusations of sexual abuse](https://youtu.be/scSQc9iauuw?si=1ZyjOYql9RLrm8cX) [Queens 5 (2024 Hottest Female Rappers - Cypher Like Mix)](https://youtu.be/Zn3N9aWmtF4?si=6EzHCpyRh6fjID9a) [Magic Mountain - EriC Burton and WAR [delasoulpotholes]](https://youtu.be/wgHvxnTN4Nk?si=O4ByUUq2YLUFieB_) [Moneybagg Yo & Glorilla - Hate Me ft. Sexyy Red & 42 Dugg (Music Video) 2024](https://www.youtube.com/watch?v=CJBAurWDcdY)
 
-# Currently Compiling
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6lYDGzCvbgw?si=7AuHPFGSrlyb1hdb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Magic Citys Mr Magic Reveals How He Created ATLs #1 Strip Club Sip N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s)
@@ -178,73 +214,6 @@ HiView is a data explorer and image viewing application supporting the [JPEG2000
 
 <iframe src="https://eyes.nasa.gov/apps/solar-system/#/sc_juice/compare?id=sc_hubble_space_telescope&interactPrompt=true&surfaceMapTiling=true&hd=true&lighting=flood" allowfullscreen ></iframe>
 
-[Electronic Gaming Monthly 58](https://archive.org/details/Electronic_Gaming_Monthly_58) [GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993) [GamePro Issue 056 March 1994 NBAJAM(s)](https://archive.org/details/GamePro_Issue_056_March_1994)
-
-people are taking over [my sessions](https://archive.org/details/screen-recording-2024-07-20-2.18.38-pm), i know i was hacked by you and ppl u know b4... but if u trying to keep up with me i have an [atom feed](https://ricothaka.github.io/compiling/atom) how do i see you, im so confused, im scared of getting killed. TTys i hope
-
-Hi Coral, here are some of my notes from my job, i gotta blog about this discovery bc i cant find the pin in the raw files [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock?utm_source=TWITTER&utm_medium=NASA&utm_campaign=NASASocial&linkId=513448326) [Mars Science Laboratory: Curiosity Raw Images Filtering:Sol: 4245 to 4248](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=10&mission=msl&begin_date=2024-7-16&end_date=2024-7-19) [RelatedTweet](https://x.com/MooNLOVER404/status/1814371477732638922) [relatedtweet](https://x.com/MooNLOVER404/status/1814369090984915019) [Mars Science Laboratory: Curiosity Raw Images Filtering:Sol: 4247 to 4248](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=1&mission=msl&begin_date=2024-7-18&end_date=2024-7-19)
-
-![Curiosity](https://pbs.twimg.com/media/GS3wr4JaIAAgNwa?format=jpg&name=large)
-
-[![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
-
-[This image was taken by Chemistry & Camera (ChemCam)](https://mars.nasa.gov/raw_images/1355895/?site=msl) onboard NASA's Mars rover Curiosity on Sol 4249 (2024-07-19 21:03:02 UTC).
-# [Perseverance Rover's Descent and Touchdown on Mars](https://svs.gsfc.nasa.gov/31250) 
-
-[Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
-
->NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
-
-<video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
-    
-<source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
-         Download the
-        or
-<a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4">MP4</a>
-        video.
-</video>    
-
-[15 Second Clip of Parachute Deployment(MP4) (18.86 MB)](https://science.nasa.gov/wp-content/uploads/2024/03/45732_nasa_perseverance_parachute_deployment.mp4)
-
-[Scientific Visualisation Studio](https://svs.gsfc.nasa.gov/31250#section_credits)
-[Mars 2020: Perseverance Rover](https://science.nasa.gov/mission/mars-2020-perseverance/)
-[Fillmore Slim on Sleeping with His Prostitutes: "Each One Had a Night" (Part 5)](https://youtu.be/y2I7RAPm9fA?si=8BbfD2-BQ9uX8yNs) [Pimps Up Hoes Down 1990s Documentary](https://youtu.be/9GBoWpLvjMc?si=Shnq8loRfFNFaHMu) [CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks 
-[Jazzy Jeff House Party](https://x.com/i/broadcasts/1djxXrgPjLzGZ) [Felix The Cat (1919-1936)](https://felixthecat.fandom.com/wiki/Felix_the_Cat) [Washington DC Mayor requests National Guard assistance amid migrant crisis](https://youtu.be/tVOaE8qByNI) [WestSideAtlanta SnoWon The Bluff](https://youtu.be/hdcl1WVrBoI?si=fTAa-KNo8Skthwk0) [WestSideAtlanta](https://youtu.be/hdcl1WVrBoI?si=fTAa-KNo8Skthwk0) = [Snow on Tha Bluff](https://tubitv.com/movies/701577/snow-on-tha-bluff?=undefined&startPos=0) This movie is hard to get good quality. This is what Strip clubs do to a city.  [Kendrick Lamar vs Drake vs J cole how it started and ended full beef (parody)](https://youtu.be/2DjTqUjLbts?si=n14_p35_ChnTmODy) yall friend made a song [Kendrick Lamar - Not Like Us](https://youtu.be/H58vbez_m4E?si=X9Gdyiw78Q8yRHdb) [Rico Nasty - Smack A Bitch (Prod By Kenny Beats) [Official Music Video]](https://www.youtube.com/watch?v=-D4happ4TQU) [Rico Nasty - Poppin (Official Music Video)](https://www.youtube.com/watch?v=pOTfQ4NjIKs)
-
-<iframe src="https://archive.org/embed/screen-recording-2024-07-22-11.35.43-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-![They Got ME](https://pbs.twimg.com/media/GTC06Bta4AAonmF?format=jpg&name=medium)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yGdcJBC5FOA?si=Bl7e8tzWJEI0rsJL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-In this clip, Don "Magic" Juan talked about why prostitution will always be around and the reasons he believes a prostitute needs a pimp. He also spoke on his transition from pimping into a spiritual advisory role and how he uses his social media as a way to provide that for his followers. Bishop Don "Magic" Juan closed out by talking about maintaining his health, smoking weed since 12, and how he stayed away from all the other drugs. - [VLAD](https://www.youtube.com/@vladtv)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9GBoWpLvjMc?si=7lTS4hAFW7UNAVWf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-Zero Divide (ゼロ・ディバイド)[4] is a 3D fighting video game developed by Zoom that was released for the PlayStation in 1995
-<iframe src="https://archive.org/embed/psx_zerodiv" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-<iframe src="https://archive.org/embed/screen-recording-2024-07-20-5.15.27-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-![Sonic1 Not For Resale](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)" 
-[SegaSonic The Hedgehog (Japan, rev. C)](https://archive.org/details/arcade_sonic) [Felix The Cat (1919-1936)](https://felixthecat.fandom.com/wiki/Felix_the_Cat) [Twitter Anger In Real Time](https://archive.org/details/screen-recording-2024-07-19-3.44.19-pm) [The Chemical Brothers 1995 Exit Planet Dust](https://www.youtube.com/watch?v=gdGAGDMxQTg) [Psychological impact of false accusations of sexual abuse](https://youtu.be/scSQc9iauuw?si=1ZyjOYql9RLrm8cX) [Projeck A-Ko (English Dubbed) [VHS]](https://www.youtube.com/watch?v=JNSXBh0Gtv4) [Rasco - Unassisted](https://youtu.be/Nj2mbF1SrdU?si=4NjAZKu7SW4kXyaP)
-
-
-![painting](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg/800px-%22WHERE_SKILL_AND_COURAGE_COUNT%22_-_NARA_-_513698.jpg) By <a href="//commons.wikimedia.org/wiki/Category:Jes_Wilhelm_Schlaikjer" title="Category:Jes Wilhelm Schlaikjer">Jes Wilhelm Schlaikjer</a> - <a href="https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration" class="extiw" title="en:U.S. National Archives and Records Administration">U.S. National Archives and Records Administration</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=16927069">Link</a>
-
-Big Picture: The Eyes and Ears of the Army
-<iframe src="https://archive.org/embed/gov.archives.arc.2569462" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-# Sonic 
-![Sonic](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)
-[my sega fandom page](./sega) [List Of Sonic Games](https://sega.fandom.com/wiki/List_of_Sonic_games) [Sonic the Hedgehog](https://www.allsonicgames.net/sonic-the-hedgehog.php) [Sonic the Hedgehog Rev 1 Sonic the Hedgehog Rev 1](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en)
-<iframe src="https://archive.org/embed/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
 
 
 ## BattleToadS
@@ -269,15 +238,6 @@ by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retro
 
 [Chloe Bailey Makes a Splash at St. Lucia Carnival](https://www.bet.com/article/4elui5/chloe-bailey-st-lucia-carnival-viral) [Social Media Sends Bhad Bhabie Prayers After She Shared THIS Video Following Her Abuse Claims Against Le Vaughn (WATCH)](https://theshaderoom.com/social-media-reacts-bhad-bhabie-kissing-video-claims-against-le-vaughn-watch/) [Chlöe and Halle Bailey Share When They Feel Most Confident and Some Tips for a Viral Fashion Moment](https://www.eonline.com/news/1384354/chloee-and-halle-bailey-share-when-they-feel-most-confident-and-tips-for-a-viral-fashion-moment) [Don Cheadle, Chloe Bailey, Lori Harvey And More Added To Peacock’s ‘Fight Night’ As Series Continues To Add To Ensemble](https://www.yahoo.com/news/don-cheadle-chloe-bailey-lori-174629273.html) [Chloe Bailey shocked to know TikTok stream can help her make money](https://www.thenews.com.pk/latest/1165806-chloe-bailey-shocked-to-know-tiktok-stream-can-help-her-make-money) [Cardi B Reacts To Chloe Bailey’s ‘Be Careful’ Cover](https://www.bet.com/article/z7km74/cardi-b-reacts-to-chloe-bailey-s-be-careful-cover)
 
-## Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address
-[Why Facebook Just Launched Its Own 'Dark Web' Site Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor).](https://www.wired.com/2014/10/facebook-tor-dark-site/)
-[Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address](https://thehackernews.com/2014/10/facebook-now-accessible-via-tor.html?_m=3n.009a.748.sk0aof3tqt.fmx)
-[Facebook opens up to anonymous Tor users with .onion address  THiS_Article is more than 7 years old ](https://www.theguardian.com/technology/2014/oct/31/facebook-anonymous-tor-users-onion)
-[facebookcorewwwi.onion is this a joke or something?](https://www.reddit.com/r/facebook/comments/kakwfk/facebookcorewwwionion_is_this_a_joke_or_something/)
-[FACEBOOK'S DARK WEB .ONION SITE REACHES 1 MILLION MONTHLY TOR USERS](https://www.inverse.com/article/14672-facebook-s-dark-web-onion-site-reaches-1-million-monthly-tor-users)
-
-<IMG src="http://i.kinja-img.com/gawker-media/image/upload/s--lS5cFdtL--/wrlpspsqwyzhmron7hgp.jpg">
-
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/kLBNMhzn8VI" title="Immortal Technique - Toast to the Dead w/ lyrics HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
@@ -290,16 +250,6 @@ by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retro
 
 [ITC Benguiat is a decorative serif typeface designed by Ed Benguiat and released by the International Typeface Corporation (ITC) in 1977.](https://www.linotype.com/576/itc-benguiat-family.html) The face is loosely based upon typefaces of the Art Nouveau period but is not considered an academic revival. The face follows ITC's design formulary of an extremely high x-height, combined with multiple widths and weights. The original version of 1977 contained numerous nonstandard ligatures (such as AB, AE, AH, AK, AR, LA, SS, TT) and alternate shapes for some letters which were not carried into the digital version. - TAKEN_FRON_WiKiPEDiA
 
-## ANiMAL_FARM##ANiMATED##1954 
-[Animal Farm 1954](https://www.youtube.com/watch?v=XXkicQRl6vg)
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b0044674400667.5c2e83b770581.jpg">
-<img src="https://3.bp.blogspot.com/-0zhGOWFFSkc/XEWmH1y360I/AAAAAAAAFxA/9ugKLf2Vod8tIlyHlX8iys2uhHX473MNwCLcBGAs/s640/arada-vol-2.jpg">
-
-![klax](https://www.arcade-museum.com/images-game/28/klax-28594.jpg)
-[Klax (set 1)](https://archive.org/details/arcade_klax) Klax is a puzzle video game released in arcades in 1990 by Atari Games while Namco distributed the game in Japanese markets. It was designed and animated by Mark Stephen Pierce with the software engineering done by Dave Akers. The object is to catch colored blocks tumbling down a machine and arrange them in colored rows and patterns to make them disappear. Klax was originally published as a coin-op follow-up to Tetris, about which Atari Games was in a legal dispute at the time. [WikiPedia](https://en.wikipedia.org/wiki/Klax_(video_game)) [Klax](https://www.arcade-museum.com/Videogame/klax) Player must catch colored blocks rolling down a conveyer belt and stack them by color in vertical columns or, in higher levels, horizontal and diagonal rows. Higher levels also use more colors of blocks. A female voice announces each wave and offers praise for bonus points.[arcade museum](https://www.arcade-museum.com/Videogame/klax) [Sega genesis](https://www.retrogames.cc/genesis-games/klax-usa.html)
-![KLAX](https://i.ebayimg.com/images/g/eToAAOSwOtVapEBb/s-l1200.jpg)
-<iframe src="https://archive.org/embed/arcade_klax" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jns2X7xYX9E?si=5qVOqjy1fDXe5oBN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![normani wap](https://i.ytimg.com/vi/WxJyqa0IHTI/maxresdefault.jpg)
 
@@ -509,29 +459,6 @@ can i see coral?
 ![gallery code](https://pbs.twimg.com/media/GJzIHYAasAA-d_o?format=jpg&name=large)
 ![Marvel Super Heroes Title Screen](https://pbs.twimg.com/media/GHZCYysbIAAvHi1?format=jpg&name=large)
 ![Moon is next](https://pbs.twimg.com/media/GHXZxEJaYAAJjmm?format=jpg&name=large)
-
-
-![ArtOfGettingOver](https://pbs.twimg.com/media/GLoOf-eacAAjRgj?format=jpg&name=large)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/am9C2_DZ7s4?si=AiQIWZopsk5ZEKlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-![n00012813](https://solarsystem.nasa.gov/images/casJPGFullC43/N00012813.jpg)
-N00012813.jpg was taken on 2004-02-19 18:59 (PST) and received on Earth 2004-02-21 17:06 (PST). The camera was pointing toward Saturn, and the image was taken using the CL1 and MT2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System
-<img src="https://solarsystem.nasa.gov/images/casJPGFullS83/N00223070.jpg" />
-
-Cassini Raw Images :: 
-[This gallery](https://solarsystem.nasa.gov/cassini-raw-images/) contains the full record of the Cassini spacecraft’s raw images taken from Feb. 20, 2004 to Cassini’s end of mission on Sept. 15, 2017. The archive will remain available to all as a historical record. [Computer Hacking Documentries Mega Collection](https://archive.org/details/ComputerHackingDocumentriesMegaCollection)
-
-[Pryors Place](https://youtube.com/playlist?list=PLJC-pZxs0HrunzHxx2UMkfZYi4s1hIkIH&si=M8sG2PGSSHzJnPHM)
-[Richard Pryor Live on the Sunset Stip (audio)](https://youtu.be/-u5mwcMgh0Q?si=q4Ou_ZPbjP6EeFI2) [FiLES](https://archive.org/download/CM0916) [Richard Pryor Makes Emotional Return After Setting Himself on Fire | Carson Tonight Show](https://youtu.be/GQk2PteVpkY?si=YLov0T6GCT4byTNm) [Richard Pryor on DVD](https://archive.org/details/pryor_202009)
-
-
-
-
-
- [Spoonie GeeLove Rap](https://youtu.be/cv2ReNgW8I0?si=cr5W6_OKCA8lqaKn)  [Treacherous Three - Feel the heartbeat - 1981](https://www.youtube.com/watch?v=Hk_DBrjtH0s) [The New Rap Language](https://youtu.be/ppdQMWKQ2ok?si=NDZhEmaibyTDOn3_) [The Body Rock](https://www.youtube.com/watch?v=bo8u7aQEmUo) [Rappin and Rocking the House (Version B)](https://youtu.be/D1xnK3xVQY4?si=Tna8F65EJjIUcRxG) [Superrappin'](https://youtu.be/Up8zxybJNHQ?si=7vYe0Ilnux7jmSWd) [Time Machine-The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=sWlWNsKNUSS9GreM) [Yma Sumac – Mambo! (1955) - Latin Folk Jazz Exotica](https://youtu.be/T7kPRvm7X34?si=dlEsijdHgSHuhBDx) [Esquivel and his orchestra - Other worlds, other sounds LP: RCA Victor](https://youtube.com/playlist?list=PLCzdBMu_SA7HkBCfIrvVibp_1a_H5JGb6&si=D7nwcE3mDWRgPRUw) [Yma Sumac sings Taita Inty "Hymn of the Sun Virgin" 1950. The Colgate Comedy Hour.](https://youtu.be/5waBf-jzZmc?si=d672wz6zBUZtNEEA)
-
 
 
 [Normani这个Fifth Harmony"五美"出身的女艺人的事业简直太tm诡异了！看得明白很多人，唯独看不透她。](https://mp.weixin.qq.com/s?src=11&timestamp=1720829815&ver=5379&signature=i*KFU5iKdMxkE*BYJ-msrTbxHQ5NhHlHzLm3J0DgcQ00LTuc5IzagANdsuUJMXc94LZYXojvgv4ZQF93W4tFDB9hsThrP1IU6EAiwfibs7zGk*r0EFZXjP*ikpE3Fb9u&new=1)
