@@ -287,6 +287,7 @@ The git fetch command downloads commits, files, and refs from a remote repositor
 [Git remote](https://www.atlassian.com/git/tutorials/syncing) [Git CheatSheet](file:///C:/Users/pac/Downloads/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 ![today](https://pbs.twimg.com/media/GP1lEqSboAA8lhy?format=jpg&name=large)
 [Mars Global Surveyor: 7 Years in Orbit!](https://www.msss.com/mars_images/moc/2004/09/12/)
+
 ## M_R_O CheckiN
 ### Dear_Robin_Obrien
 You told me to study the weather on mars ... [The Last Report](https://www.msss.com/science-images/mars-valentine-2024.php) has no weather updates, whas that your baby ? Im concenred bc it was a really big deal at the time... Maybe it moved? idk but listen Erika is at Harolds Chicken sometimes. She won a grammy for a [nasty song](https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png) you can play it here [Latto - Big Energy (Official Lyric Video)](https://www.youtube.com/watch?v=IpHPBIdrak4) but youtube dont like me so my [lightbox](https://jekyllcodex.org/without-plugin/lightbox/) might not work <a href="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png"> <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png" style="width:250px;height:250px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
