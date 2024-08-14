@@ -181,20 +181,6 @@ I was in the Meyer goldwyn branc and found these pages in the County Municipal .
 
 
 
-![Mike Child](https://pbs.twimg.com/media/GGAlmBlawAAic9g?format=png&name=240x240)
-![Vanessa Walker](https://pbs.twimg.com/media/GGAlnCvaAAAVlWt?format=jpg&name=360x360)
-![Mike Childs Atlanta](https://pbs.twimg.com/media/GGerStDbQAAsS02?format=jpg&name=4096x4096)
-![Erika](https://pbs.twimg.com/media/GFxAVu2bYAMZlxr?format=jpg&name=medium)
-
-![me](https://pbs.twimg.com/media/GJ2urnia8AAjhNO?format=jpg&name=large)
-![Bsd](https://pbs.twimg.com/media/GIftoX7aEAAzk0I?format=jpg&name=large) Why you should use a BSD style license for your Open Source Project [EducatingMySelf](https://docs.freebsd.org/en/articles/bsdl-gpl/)
-
-![Mars Ice Cap](https://pbs.twimg.com/media/GQ3Q770bwAciNKg?format=jpg&name=4096x4096)
-![Marta](https://pbs.twimg.com/media/GIL9jEQaEAEemAw?format=jpg&name=medium)
-![Marta](https://pbs.twimg.com/media/GIL9kLyboAAQSND?format=jpg&name=medium)
-![Marta Elevator](https://pbs.twimg.com/media/GIL9nRdbIAAMuh8?format=jpg&name=medium)
-![HE_HOLMES?](https://pbs.twimg.com/media/GIL9mHMa0AAeEbE?format=jpg&name=medium)
-![PeactTreeCenter](https://pbs.twimg.com/media/GIL9zgQbUAAt9xN?format=jpg&name=medium)
 
 # Main heading
 ## Subheading
