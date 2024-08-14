@@ -1,6 +1,8 @@
 
 
-
+# Perseverance’s Sol 200 Auto-Nav Drive
+This video shows NASA’s Perseverance Mars rover using its auto-navigation, or AutoNav, technology to drive 548 feet (167 meters) on Sept. 12, 2021, the 200th Martian day, or sol, of the mission [ReadHere watch Below!]
+(https://science.nasa.gov/resource/perseverances-sol-200-auto-nav-drive/)
 
 <video controls >
 
