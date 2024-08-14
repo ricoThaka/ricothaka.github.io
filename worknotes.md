@@ -4,7 +4,7 @@
     <h4>Los Angeles</h4>  
     <p>hole to another universe</p> 
     
-  [OutKast - Slump](https://youtu.be/pbqhRkG-NH4?si=bgmbb4I8uB08fmtE_)
+
   </div>
 </div>   
 
