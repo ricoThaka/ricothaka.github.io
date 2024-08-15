@@ -4,7 +4,7 @@
     <h4>Los Angeles</h4>  
     <p>hole to another universe</p> 
     
-  [OutKast - Slump](https://youtu.be/pbqhRkG-NH4?si=bgmbb4I8uB08fmtE_)
+
   </div>
 </div>   
 
@@ -181,20 +181,6 @@ I was in the Meyer goldwyn branc and found these pages in the County Municipal .
 
 
 
-![Mike Child](https://pbs.twimg.com/media/GGAlmBlawAAic9g?format=png&name=240x240)
-![Vanessa Walker](https://pbs.twimg.com/media/GGAlnCvaAAAVlWt?format=jpg&name=360x360)
-![Mike Childs Atlanta](https://pbs.twimg.com/media/GGerStDbQAAsS02?format=jpg&name=4096x4096)
-![Erika](https://pbs.twimg.com/media/GFxAVu2bYAMZlxr?format=jpg&name=medium)
-
-![me](https://pbs.twimg.com/media/GJ2urnia8AAjhNO?format=jpg&name=large)
-![Bsd](https://pbs.twimg.com/media/GIftoX7aEAAzk0I?format=jpg&name=large) Why you should use a BSD style license for your Open Source Project [EducatingMySelf](https://docs.freebsd.org/en/articles/bsdl-gpl/)
-
-![Mars Ice Cap](https://pbs.twimg.com/media/GQ3Q770bwAciNKg?format=jpg&name=4096x4096)
-![Marta](https://pbs.twimg.com/media/GIL9jEQaEAEemAw?format=jpg&name=medium)
-![Marta](https://pbs.twimg.com/media/GIL9kLyboAAQSND?format=jpg&name=medium)
-![Marta Elevator](https://pbs.twimg.com/media/GIL9nRdbIAAMuh8?format=jpg&name=medium)
-![HE_HOLMES?](https://pbs.twimg.com/media/GIL9mHMa0AAeEbE?format=jpg&name=medium)
-![PeactTreeCenter](https://pbs.twimg.com/media/GIL9zgQbUAAt9xN?format=jpg&name=medium)
 
 # Main heading
 ## Subheading
@@ -287,6 +273,7 @@ The git fetch command downloads commits, files, and refs from a remote repositor
 [Git remote](https://www.atlassian.com/git/tutorials/syncing) [Git CheatSheet](file:///C:/Users/pac/Downloads/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 ![today](https://pbs.twimg.com/media/GP1lEqSboAA8lhy?format=jpg&name=large)
 [Mars Global Surveyor: 7 Years in Orbit!](https://www.msss.com/mars_images/moc/2004/09/12/)
+
 ## M_R_O CheckiN
 ### Dear_Robin_Obrien
 You told me to study the weather on mars ... [The Last Report](https://www.msss.com/science-images/mars-valentine-2024.php) has no weather updates, whas that your baby ? Im concenred bc it was a really big deal at the time... Maybe it moved? idk but listen Erika is at Harolds Chicken sometimes. She won a grammy for a [nasty song](https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png) you can play it here [Latto - Big Energy (Official Lyric Video)](https://www.youtube.com/watch?v=IpHPBIdrak4) but youtube dont like me so my [lightbox](https://jekyllcodex.org/without-plugin/lightbox/) might not work <a href="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png"> <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png" style="width:250px;height:250px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
