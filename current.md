@@ -11,9 +11,8 @@ layout : default
 {% endhighlight %}
 
 # Currently Compiling
-## Short Circuit
-<iframe src="https://archive.org/embed/short.circuit.1986.2160p" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
+## The Wizard
+<iframe src="https://archive.org/embed/the-wizard-1989-hd" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Jeremy's Wing Review - Magic City Kitchen (Atlanta, GA)](https://www.youtube.com/watch?v=olFgFp00TTw) [Live from Atlanta's Magic City strip club with owner Mr. Magic, Juju, Lou Will and Spank](https://youtu.be/3VcZAtO-K_Y?si=z7q-MIEOgZpp-qI3) [Atlanta Georgia Nightlife - Mercedes Benz Stadium - Walking Tour 4k](https://www.youtube.com/watch?v=4KlIhf867ig)
 ## Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address
