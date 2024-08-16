@@ -1,4 +1,8 @@
 
+
+# Jose Crazy! 
+he think he can control your hiring, how do i fix it [Jose Nasa](https://anretech.com/wp-content/uploads/2016/11/NIF-Success-stories-ANRETECH.pdf)
+![Jose M Pi NaSA PLAN](https://pbs.twimg.com/media/GFS_lfsaQAACJ5z?format=jpg&name=medium)
 [East Los Angeles Sheriff Please Read and call NasaJPL about Rashards Behavior at the library](ricothaka.github.io/dispositionforsherrif)
 ![laSD](https://lasd.org/wp-content/uploads/2019/02/LASD-grve-small-square_rev.png)
 
