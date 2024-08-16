@@ -1,4 +1,29 @@
 
+
+
+![Aster](https://asterweb.jpl.nasa.gov/images/aster_logo.jpg)
+![losangeles](https://asterweb.jpl.nasa.gov/gallery/images/split/la-natural.jpg)
+The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) is an imaging instrument onboard Terra, the flagship satellite of NASA's Earth Observing System (EOS) launched in December 1999. [Try The MAps!](https://asterweb.jpl.nasa.gov/map/)
+
+<div class='twoPanelSpread' markdown="1">
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://pbs.twimg.com/media/GVERbDEaUAAki6n?format=png&name=900x900" alt="Normani at BlackGirls Code">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://pbs.twimg.com/media/GVERc30bYAAPHYp?format=png&name=900x900" alt="Normani at BlackGirls Code">
+
+      </div>
+    </div>
+  </div>
+</div>
+
+NasaJPL:: M_R_O Normani is a Physical Fitness professional in the area, i still think she took my child in makeup. This is the thing. There was some sort of commitment and upon exit it was this face off with Manessa and I end up OUt here. Erika's new mate was invasive and had a strange interest in Our daughter, so if she removed her the wrong way, i think it was for Corals Protection. look at these FacebookVideos of Corals Removal [Manessa On Instagram Doing a Forced Removal](https://www.facebook.com/CaptainOfJoy/videos/1826699194158396) [Dekalb County Sherrif moves forward to take the child](https://www.facebook.com/CaptainOfJoy/videos/1826699224158393)
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NASA_Landsat?ref_src=twsrc%5Etfw">@NASA_Landsat</a> <a href="https://twitter.com/NASAClimate?ref_src=twsrc%5Etfw">@NASAClimate</a> can u look<a href="https://twitter.com/hashtag/LosAngelesPublicLibrary?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngelesPublicLibrary</a>, <a href="https://twitter.com/hashtag/LosAngelesCounty?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngelesCounty</a>. Latitude and longitude coordinates 34.050259, -118.254837. <a href="https://twitter.com/NASA_Landsat?ref_src=twsrc%5Etfw">@NASA_Landsat</a> <a href="https://twitter.com/NASA_SPoRT?ref_src=twsrc%5Etfw">@NASA_SPoRT</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> thia sludgy alge is concerning me <a href="https://twitter.com/HildaSolis?ref_src=twsrc%5Etfw">@HildaSolis</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/NASAClimate?ref_src=twsrc%5Etfw">@NASAClimate</a> <a href="https://t.co/sAOQheIHZT">https://t.co/sAOQheIHZT</a> <a href="https://t.co/OK3w9QaC7t">pic.twitter.com/OK3w9QaC7t</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1823773125043269734?ref_src=twsrc%5Etfw">August 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Perseverance’s Sol 200 Auto-Nav Drive
