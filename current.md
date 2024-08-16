@@ -5,12 +5,18 @@ layout : default
 
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady #
-2 # TO####NEW_POSTS /worknotes /watchlist /civic01### #
+2 # TO####NEW_POSTS /worknotes01 /watchlist /civic01####
 3 # ANOTHER##########https://s.id/1kmbG################# 
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
 # Currently Compiling
+![ThakaRashard](https://pbs.twimg.com/media/GVC6LuOaEAA44kb?format=jpg&name=large)
+### [ThakaRashard.GiTHuB.iO](https://thakarashard.github.io/)
+# Was Normani Megan Thee Stallion at some point ?
+![Big_Olke_Freak](https://pbs.twimg.com/media/GPfXVWWbEAAaz7H?format=jpg&name=large)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oBYf6gpVvRA?si=zzuzHbSAE5CmF4YT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## The Wizard
 <iframe src="https://archive.org/embed/the-wizard-1989-hd" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
