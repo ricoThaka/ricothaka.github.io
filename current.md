@@ -12,6 +12,7 @@ layout : default
 
 # Currently Compiling
 ![ThakaRashard](https://pbs.twimg.com/media/GVC6LuOaEAA44kb?format=jpg&name=large)
+![ThakaRashard](https://pbs.twimg.com/media/GVNrq1fboAA9OPM?format=jpg&name=large)
 ### [ThakaRashard.GiTHuB.iO](https://thakarashard.github.io/)
 # Was Normani Megan Thee Stallion at some point ?
 ![Big_Olke_Freak](https://pbs.twimg.com/media/GPfXVWWbEAAaz7H?format=jpg&name=large)
