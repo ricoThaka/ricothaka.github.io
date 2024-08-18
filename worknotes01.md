@@ -1,5 +1,7 @@
 
-
+# LAPD
+I will update the story tomorrow i need my polioce report you did not send an email
+![Gmail_empty](https://pbs.twimg.com/media/GVTQA71bUAAedUD?format=jpg&name=large)
 # Jose Crazy! 
 he think he can control your hiring, how do i fix it [Jose Nasa](https://anretech.com/wp-content/uploads/2016/11/NIF-Success-stories-ANRETECH.pdf)
 ![Jose M Pi NaSA PLAN](https://pbs.twimg.com/media/GFS_lfsaQAACJ5z?format=jpg&name=medium)
