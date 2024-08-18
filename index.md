@@ -39,6 +39,22 @@ carousels:
 ![N00137577](https://solarsystem.nasa.gov/images/casJPGBrowseS50/N00137577.jpg)
 ![Saturn](https://pbs.twimg.com/media/GVJI7ICbMAA4Q9c?format=jpg&name=small)
 
+HipHop/Funk RollerRinky~
+[You've Gotta Believe (Vocal) · Lovebug Starski](https://youtu.be/YcXlDqstZUM?si=S_-L8RmSuGXAkQAM) [Positive Life · Lovebug Starski · Harlem World Crew](https://youtu.be/04-8u2Memes?si=ZVP33fTayRXCz6FH) [Alicia Myers - I want to thank you](https://youtu.be/R9wGnnwBc9M?si=nmsUj4XUnRRHhju7) [Golden Flamingo Orchestra Featuring Margo Williams   The Guardian Angel Is Watching Over Us](https://youtu.be/kTp0-IRuYLU?si=Z2vE4TKf3dhGJmHi) [Margo Williams - God Save And Protect All The Children](https://youtu.be/yz19n4eS3eQ?si=ESnBkvSlqWTQBdj-) [Nights Over Egypt · The Jones Girls](https://youtu.be/f2WgspFSpio?si=MVEPklBbV8uj3KaW) [I Love You More · René & Angela](https://youtu.be/Pa8EmB124mU?si=ehM2wGvmtbOSsFyw) [Xavier, Do It to the Max](https://youtu.be/JXTZ4OqQIr4?si=9AJ3mlSTB1alT444) [52nd Street - Tell Me (How it Feels) ](https://youtu.be/3Ck25PGjlLc?si=xSYHOzF6tY590DYg) [Razzamatazz · Quincy Jones](https://youtu.be/H8atbyVp-Pk?si=S3Wt3F2fwFzVvUa6) [Juicy - Sugar Free](https://youtu.be/z4rlMOGxtVY?si=AtU5q-JRWyeB4Wuo)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dzvM0M6lRfI?si=myvBDFWjg00s0o9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Adam and Eve · Nas · The-Dream](https://youtu.be/tobfI7tl7-g?si=yG2QHamIS8xOVrpV) [Sade - Turn My Back On You](https://youtu.be/CCzANcg3Xag?si=DvJzeab8_fsdMitS) 
+
+
+[The endless possibilities and services LA libraries offer](https://www.cbsnews.com/losangeles/video/the-endless-possibilities-and-services-la-libraries-offer/) <cite>With National Library Week in full swing, a Los Angeles librarian tells us about all of the amazing services they offer to enrich the lives of students, children, and adults.
+Apr 11, 2024</cite>
+
+Los angeles is a [Euridite civiliZation](https://en.wiktionary.org/wiki/erudite) so i may need to pay more attention to signage
+`characterized by great knowledge; learned or scholarly: an erudite professor; an erudite commentary. Synonyms: sapient, wise, knowledgeable, educated.`
+
+![NasaGLEN_RED_PLANET](https://archive.org/download/C-1997-2554/1997_02554.jpg)
+
 {% include_relative current.md %}
 
 
