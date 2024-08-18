@@ -863,9 +863,10 @@ img[alt="whiteslavery40"] {
   border-radius: 1px;
 }
 
-
 .swatch {
-
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
     grid-gap: 5px;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
     display: flex;
