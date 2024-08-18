@@ -2,87 +2,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Silkscreen:wght@400;700&family=Trade+Winds&display=swap");
 
 
-html,
-body,
-div,
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
@@ -91,35 +23,22 @@ video {
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
   display: block;
 }
 body {
   line-height: 1;
 }
-ol,
-ul {
+ol, ul {
   list-style: none;
 }
-blockquote,
-q {
+blockquote, q {
   quotes: none;
 }
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-  content: "";
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
   content: none;
 }
 table {
@@ -138,7 +57,6 @@ table {
 * {
   box-sizing: border-box;
 }
-
 
 html {
   font: normal 10px/18px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
@@ -161,6 +79,9 @@ html {
   font-size:120%;
 
   background-attachment:fixed;
+
+  height: 100%;
+  width: 100%;
 }
 
 h1,
@@ -227,7 +148,7 @@ p {
 p::first-letter {
   font-size: 1.2em;
   font-weight: bold;
-    color: dodgerblue;
+    color: white;
 }
 p:first-of-type {
   animation-duration: 1s;
@@ -602,6 +523,7 @@ hr {
 a:hover,
 a:visited a:hover {
   font-size: 130%;
+  padding: 5px;
   color:#0dd9c4 ;
   ;
 
@@ -610,7 +532,6 @@ a:visited a:hover {
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-
   transition: all .2s ease-out;
 
 
@@ -634,7 +555,7 @@ video {
   );
   background-size: 280.4px 280.4px;
 
-  transition: 4s cubic-bezier(0.25, 0.1, 0.2, 3);
+  transition: 3s cubic-bezier(0.25, 0.1, 0.2, 3);
 }
 
 embed {
@@ -946,12 +867,16 @@ img[alt="whiteslavery40"] {
   /*display: grid;
   grid-gap: 5px;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+    grid-gap: 5px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+   position:relative;
+    opacity: 1;
+    max-width: max-content;
 
-  display: flex;
-  flex-wrap: wrap;
 
-  height: 5%;
-  max-width: max-content;
 }
 
 .swatch div {
