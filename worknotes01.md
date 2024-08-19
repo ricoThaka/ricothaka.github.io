@@ -1,4 +1,9 @@
 
+
+
+
+# Benefits of a Geostationary Atmospheric Composition Instrument
+![Benefits of a Geostationary Atmospheric Composition Instrument](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2024-08/GeoXO_ACX_infographic-NOAA-small.png.webp?itok=gAnfQzko)
 # LAPD
 I will update the story tomorrow i need my polioce report you did not send an email
 ![Gmail_empty](https://pbs.twimg.com/media/GVTQA71bUAAedUD?format=jpg&name=large)
