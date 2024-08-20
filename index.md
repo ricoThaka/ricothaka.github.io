@@ -35,7 +35,14 @@ carousels:
 
 ---
 
+## Astro Pam,
+Kanye West was their friend at some level, but i really want you guyus to observe them
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYrMKMtUbWk?si=UaCh8xjmBy6g602F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+1982 SPECIAL REPORT: "SINGLE MOTHERS"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bbfo6BBOqIc?si=ReZo0RrijL1RPXTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Hezakya Newz & Films](https://www.youtube.com/@HezakyaNewz)
 
 # [Image of Saturn-rings](https://solarsystem.nasa.gov/raw_images/202296/?layout=hds)
 ![W0051405](https://solarsystem.nasa.gov/images/casJPGBrowseS45/W00051405.jpg)
