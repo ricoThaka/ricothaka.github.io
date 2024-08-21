@@ -34,9 +34,12 @@ carousels:
     - image: /uploads/slider/image4.jpg
 
 ---
-
+![DonkeyKongCountry](https://ia903201.us.archive.org/7/items/donkey-kong-country-usa-rev-2-msu-1/Donkey%20Kong%20Country%20%28USA%29.png)
 ## Donkey Kong Country - Exposed Promotional Video
+[Donkey Kong Country (USA) Tryit at RetroGames.cC](https://www.retrogames.cc/snes-games/donkey-kong-country-usa.html)
+
 <iframe src="https://archive.org/embed/DonkeyKongCountryExposedPromotionalVideo1994" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/dk2_gb" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ## Astro Pam,
 Kanye West was their friend at some level, but i really want you guyus to observe them
 
