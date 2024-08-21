@@ -103,6 +103,26 @@ background-color: #7575C1;
 ![DownTownLosAngelesSkyline](https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24000:24076/full/pct:25/0/default.jpg)
 > -- <cite>Highsmith, Carol M, photographer. Skyline view of Los Angeles, California. United States Los Angeles California, 2013. Photograph. https://www.loc.gov/item/2013631254/.</cite>
 
+
+#Ms Karen im being systematically poisoned and robbed to the point of Destiutution byu PlayBoy Strteet Enforcement 
+
+![Cyanide](https://pbs.twimg.com/media/GVilYSCbgAQERlb?format=jpg&name=medium)  increased blood cyanide levels, which can result in weakness and a variety of symptoms, including permanent paralysis, nervous lesions,[14][15][16] hypothyroidism,[15] and miscarriages.[17][18] Other effects include mild liver and kidney damage.[19][20] 
+
+
+![Anthrax](https://www.cdc.gov/anthrax/es/images/cutaneous-150.jpg)
+<cite>Anthrax spores getting into a cut on the skin, causing cutaneous anthrax where it enters</cite>
+ #  Physiologic Effects of Arsenic Exposure 
+ Because it targets widely dispersed enzyme reactions, arsenic affects nearly all organ systems. The most sensitive endpoint from arsenic exposure is dermal effects. While several studies may identify effects on other endpoints at the same exposure level that produces dermal effects, the database for dermal effects is stronger than for effects on other endpoints [ATSDR 2007]
+
+Key physiologic effects from arsenic exposure that will be covered in detail later.
+
+Patchy skin hyperpigmentation, small focal keratoses, and other skin lesions are common effects of heavy chronic exposure.
+![Salt](https://pbs.twimg.com/media/GVildwlXAAAC2Km?format=jpg&name=medium)
+![RashardKelly MRO_POiosned](https://pbs.twimg.com/media/GVTJkgVbMAAGo2Q?format=jpg&name=medium)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://twitter.com/hashtag/Dear_Gate_Gaurd?src=hash&amp;ref_src=twsrc%5Etfw">#Dear_Gate_Gaurd</a> <a href="https://t.co/H4ZTlE6XhG">https://t.co/H4ZTlE6XhG</a> <a href="https://twitter.com/felipedeneve?ref_src=twsrc%5Etfw">@felipedeneve</a> gave me <a href="https://twitter.com/hashtag/PrintedDirections?src=hash&amp;ref_src=twsrc%5Etfw">#PrintedDirections</a> 2get there&amp;@metrolosangeles // <a href="https://twitter.com/HollywoodFoodCo?ref_src=twsrc%5Etfw">@HollywoodFoodCo</a> thanks for the <a href="https://twitter.com/hashtag/BagLunches?src=hash&amp;ref_src=twsrc%5Etfw">#BagLunches</a> I have 2go through an email based process 2get a replacement badge <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> I need a <a href="https://twitter.com/hashtag/mailingAddress?src=hash&amp;ref_src=twsrc%5Etfw">#mailingAddress</a> <a href="https://twitter.com/hashtag/Normani?src=hash&amp;ref_src=twsrc%5Etfw">#Normani</a> <a href="https://t.co/n4APPLpabc">pic.twitter.com/n4APPLpabc</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1825983871499821218?ref_src=twsrc%5Etfw">August 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+{% stolenbookspolicereport.md %}
 ### Rashard (Thaka) Iman Kelly(Selassie?) NASAJPL MRO PAsadena California
 <nav id="linkcontainer">
 <ul id="linklist">
