@@ -105,6 +105,8 @@ background-color: #7575C1;
 
 
 #Ms Karen im being systematically poisoned and robbed to the point of Destiutution byu PlayBoy Strteet Enforcement 
+[The Best: Deadly Poisons, Ingested or Inhaled](https://www.wired.com/2006/08/the-best-deadly-poisons-ingested-or-inhaled/)
+[A Scientist Spilled 2 Drops Organic Mercury On Her Hand. This Is What Happened To Her Brain.](https://www.youtube.com/watch?v=NJ7M01jV058)
 
 ![Cyanide](https://pbs.twimg.com/media/GVilYSCbgAQERlb?format=jpg&name=medium)  increased blood cyanide levels, which can result in weakness and a variety of symptoms, including permanent paralysis, nervous lesions,[14][15][16] hypothyroidism,[15] and miscarriages.[17][18] Other effects include mild liver and kidney damage.[19][20] 
 
