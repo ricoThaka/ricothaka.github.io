@@ -5,12 +5,14 @@ layout : default
 
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady #
-2 # TO####NEW_POSTS /worknotes01 /watchlist /civic01####
+2 # TO####NEW_POSTS /worknotes01 /graffiti /imsufferingmskaren####
 3 # ANOTHER##########https://s.id/1kmbG################# 
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
 # Currently Compiling
+
+{% include graffiti.md %}
 
 # Listen to NASA’s Ingenuity Mars Helicopter in Flight
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044556651&color=%238c9265&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/listen-to-nasas-ingenuity-helicopter-as-it-flies-on-mars" title="Listen to NASA’s Ingenuity Mars Helicopter in Flight" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to NASA’s Ingenuity Mars Helicopter in Flight</a></div>

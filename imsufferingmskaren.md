@@ -124,7 +124,7 @@ Patchy skin hyperpigmentation, small focal keratoses, and other skin lesions are
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://twitter.com/hashtag/Dear_Gate_Gaurd?src=hash&amp;ref_src=twsrc%5Etfw">#Dear_Gate_Gaurd</a> <a href="https://t.co/H4ZTlE6XhG">https://t.co/H4ZTlE6XhG</a> <a href="https://twitter.com/felipedeneve?ref_src=twsrc%5Etfw">@felipedeneve</a> gave me <a href="https://twitter.com/hashtag/PrintedDirections?src=hash&amp;ref_src=twsrc%5Etfw">#PrintedDirections</a> 2get there&amp;@metrolosangeles // <a href="https://twitter.com/HollywoodFoodCo?ref_src=twsrc%5Etfw">@HollywoodFoodCo</a> thanks for the <a href="https://twitter.com/hashtag/BagLunches?src=hash&amp;ref_src=twsrc%5Etfw">#BagLunches</a> I have 2go through an email based process 2get a replacement badge <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> I need a <a href="https://twitter.com/hashtag/mailingAddress?src=hash&amp;ref_src=twsrc%5Etfw">#mailingAddress</a> <a href="https://twitter.com/hashtag/Normani?src=hash&amp;ref_src=twsrc%5Etfw">#Normani</a> <a href="https://t.co/n4APPLpabc">pic.twitter.com/n4APPLpabc</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1825983871499821218?ref_src=twsrc%5Etfw">August 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{% stolenbookspolicereport.md %}
+{% include stolenbookspolicereport.md %}
 ### Rashard (Thaka) Iman Kelly(Selassie?) NASAJPL MRO PAsadena California
 <nav id="linkcontainer">
 <ul id="linklist">
