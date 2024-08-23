@@ -4,6 +4,7 @@ I did graffiti as a neighborhood person. Its so home_eck please take your time a
 #  Artifacts - Wrong Side Of Da Tracks
 <iframe width="980" height="551" src="https://www.youtube.com/embed/GM92f-BUoow" title="Artifacts - Wrong Side Of Da Tracks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="912" height="513" src="https://www.youtube.com/embed/2TN-kDEKxF0" title="Eric B. &amp; Rakim - I Ain&#39;t No Joke (Cut #1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # [Files for STYLE_WARS_(1983)](https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/)
 <video controls width="100%" height="auto" poster="https://64.media.tumblr.com/tumblr_lxvuedIy9E1qfrsjro1_500.gif">
