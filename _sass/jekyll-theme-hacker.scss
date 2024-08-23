@@ -61,15 +61,19 @@ table {
 html {
   font: normal 10px/18px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
     sans-serif;
-    background: linear-gradient(45deg, 
-    #fb3 25%, #58a 0, #58a 50%,
-    #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
-font-family: "VT323", monospace;
-background-attachment: fixed;
-  font-size:110%;
 
-  background-attachment:fixed;
+    background: linear-gradient(
+      45deg,
+      #08a0e9 25%,
+      #e8f5fd 0,
+      #e8f5fd 50%,
+      #08a0e9 0,
+      #08a0e9 75%,
+      #e8f5fd 0
+    );
+    background-size: 80.4px 80.4px;
+    font-family: "VT323", monospace;
+    background-attachment: fixed;
 
 
 
