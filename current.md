@@ -1,8 +1,3 @@
----
-layout : default
----
-
-
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady #
 2 # TO####NEW_POSTS /worknotes01 /graffiti /imsufferingmskaren####
