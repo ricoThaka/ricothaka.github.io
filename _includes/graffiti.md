@@ -6,6 +6,10 @@ I did graffiti as a neighborhood person. Its so home_eck please take your time a
 
 <iframe width="912" height="513" src="https://www.youtube.com/embed/2TN-kDEKxF0" title="Eric B. &amp; Rakim - I Ain&#39;t No Joke (Cut #1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+# TatsCru Mural Kings
+<iframe width="960" height="540" src="https://www.youtube.com/embed/Tda2zyvImVI" title="TATS CRU The Mural Kings 2006" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # [Files for STYLE_WARS_(1983)](https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/)
 <video controls width="100%" height="auto" poster="https://64.media.tumblr.com/tumblr_lxvuedIy9E1qfrsjro1_500.gif">
 
@@ -64,3 +68,6 @@ I did graffiti as a neighborhood person. Its so home_eck please take your time a
 
 # Tutorial
 <iframe width="1195" height="672" src="https://www.youtube.com/embed/yVO35xhMSGQ" title="ArtPrimo.com Graffiti Tutorial: Piecing Basics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[in pop culture "You Can Now Access The Original Jet Grind Radio Website From Your Dreamcast"](https://www.thedreamcastjunkyard.co.uk/2018/05/you-can-now-access-original-jet-grind.html)
+![jsf](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG_nWlwozM6UWEIJV1y7Wp22EN1jPz2FY8XzO1xa_HeLu_-WgPgnlwuPtlMSKcxCg_jRX7Q6Ae7MqKtHISlhPqX3NykcglSAcjsyA8Y6fUEh4SZBo7qWUEYGmbsh2xNMsCxfDG/s400/AVerMedia_Capture_snapshot-2018-05-09-18-10-0.png)
