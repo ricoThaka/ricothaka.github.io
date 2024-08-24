@@ -6,6 +6,9 @@
 {% endhighlight %}
 
 # Covid
+
+![European_CoronaVirus_Patent](https://pbs.twimg.com/media/GVxM8H6aIAA2eNv?format=jpg&name=large)
+![CoronaVirus_NameChange](https://pbs.twimg.com/media/GVxO3btWsAASZFs?format=png&name=360x360)
 [Corona Virus Isolated From Humans](https://patentimages.storage.googleapis.com/4d/01/bb/b15d530677fb33/US7776521.pdf)
 ![Corona_Virus_isolated_from_humans](https://pbs.twimg.com/media/GVxP520aIAAZTvr?format=jpg&name=large)
 ![us](https://pbs.twimg.com/media/GTrN0w_aQAAC5HB?format=jpg&name=large)
@@ -87,6 +90,9 @@ Haha
 Yeah, that way
 The doll way
 {% endhighlight %}
+
+![Erika](https://pbs.twimg.com/media/GVssLnUa8AAIHU7?format=jpg&name=large)
+![Coral](https://pbs.twimg.com/media/GVsyzhMa8AE6bDe?format=jpg&name=large)
 
 [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
 
