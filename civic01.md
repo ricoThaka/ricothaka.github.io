@@ -1,30 +1,42 @@
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE##########CiViC #
-2 # ###NEW_POSTS /SAMBA SERVERS FROM ZOOM@/civic01### #
-3 # ANOTHER 
+2 # ###NEW_POSTS /worknotes01 /civic01 /graffiti### #
+3 # ANOTHER loveSeason normani ?
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
-
-
 
 # Rashard Kelly NASAJPL Mars Reconnicnee Orbiter
 ![missing](https://pbs.twimg.com/media/GG-5cMlaUAAC7fo?format=jpg&name=large)
 # Covid
 
 
-## CoronaVirus Moive
+## CoronaVirus Movies
 
 ![CoronaVirusMovie](https://pbs.twimg.com/media/GVx4h-ia8AAAK-G?format=jpg&name=large)
+[Watch coronavirus 4 from Wuhan Archive](https://www.youtube.com/watch?v=nDFFi6WY7JI)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1771551359673180%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817848245043491%2F&show_text=false&width=252&t=0" width="252" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 ![SARS Patent](https://pbs.twimg.com/media/GLJtC2iaoAAspTD?format=jpg&name=large)
 ## [SARS-CoV-2 and Patent Activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8173861/)
 ![Sars-cov-2 and patent activity](https://pbs.twimg.com/media/GVxwOYBa8AA7jSh?format=jpg&name=large)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=317&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817847938376855%2F&show_text=false&width=560&t=0" width="560" height="317" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 ![Sars CoronaVirus Patent Activity](https://pbs.twimg.com/media/GHsM7f4asAAojUR?format=png&name=medium)
 ![Sars CoronaVirus](https://pbs.twimg.com/media/GHsQFDdb0AAxT57?format=jpg&name=medium)
 [EUROPEAN PATENT SPECIFICATION](https://patentimages.storage.googleapis.com/1d/4e/4a/ac8914e765d645/EP3172319B1.pdf)
 ![European_CoronaVirus_Patent](https://pbs.twimg.com/media/GVxM8H6aIAA2eNv?format=jpg&name=large)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1816581858503463%2F&show_text=false&width=238&t=0" width="238" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 ![CoronaVirus_NameChange](https://pbs.twimg.com/media/GVxO3btWsAASZFs?format=png&name=360x360)
 [Corona Virus Isolated From Humans](https://patentimages.storage.googleapis.com/4d/01/bb/b15d530677fb33/US7776521.pdf)
 ![Corona_Virus_isolated_from_humans](https://pbs.twimg.com/media/GVxP520aIAAZTvr?format=jpg&name=large)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1812740445554271%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 [Hola Recuperative Care](recuperativecare.org)
 ![Recoup](https://pbs.twimg.com/media/FyDS9mzagAIT-lk?format=jpg&name=large)
