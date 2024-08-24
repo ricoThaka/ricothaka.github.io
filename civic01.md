@@ -9,6 +9,13 @@
 ![missing](https://pbs.twimg.com/media/GG-5cMlaUAAC7fo?format=jpg&name=large)
 # Covid
 
+NasaJpl, Repkaren, Jamie
+
+I was struggling to keep The baby coral and I kept getting pushed east, then when coronavirus quarantine hit all my search results got squirrely and [Corals Mother erika is missing](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/)! She had dumped me some time ago b4 ditching. 
+
+Im appealing to you for my bnadge and access to the NasaJPL facility back. Coral got removed and I want to be productive but it is hard to communicate via the JPL website bc i cant remember the internal links to fix things. We were bring poiosned and We fled and eventually when I was isolated i was tossed in mental hospital after mental hospital. I found this Archive while [torrenting](https://www.tixati.com/discover/) at [wholefoods alpahretta ](https://www.wholefoodsmarket.com/stores/avalon) I was detained there after this dude threatened me with a [Noose](https://en.wikipedia.org/wiki/Noose) Joke.
+
+My head is full of sores from the poisons the prostitution communiuty used to control people. I dont know what to do!
 
 ## CoronaVirus Movies
 
@@ -22,6 +29,10 @@
 ![SARS Patent](https://pbs.twimg.com/media/GLJtC2iaoAAspTD?format=jpg&name=large)
 ## [SARS-CoV-2 and Patent Activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8173861/)
 ![Sars-cov-2 and patent activity](https://pbs.twimg.com/media/GVxwOYBa8AA7jSh?format=jpg&name=large)
+
+![LosAngeles](https://images.squarespace-cdn.com/content/v1/5b0c4aed25bf021332006217/1533998957909-U6UZKWICLCR48WUBI3Q2/1E2A9176.jpg?format=1000w)
+[Vice in Los Angeles](https://www.robertnickelsberg.com/la-vice-squad) 
+For four days in May of 2017 I shadowed the Los Angeles Police Department’s South Bureau Vice Squad to document sex trafficking in south L.A. for Time magazine. The Bloods and the Crips have historically controlled illicit operations in the neighborhoods around south Los Angeles. The commercial sex trade is an illegal yet open business centered along Figueroa Street. [Vice in Los Angeles](https://www.robertnickelsberg.com/la-vice-squad) 
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=317&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817847938376855%2F&show_text=false&width=560&t=0" width="560" height="317" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
