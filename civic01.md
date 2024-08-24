@@ -15,7 +15,7 @@ I was struggling to keep The baby coral and I kept getting pushed east, then whe
 
 Im appealing to you for my bnadge and access to the NasaJPL facility back. Coral got removed and I want to be productive but it is hard to communicate via the JPL website bc i cant remember the internal links to fix things. We were bring poiosned and We fled and eventually when I was isolated i was tossed in mental hospital after mental hospital. I found this Archive while [torrenting](https://www.tixati.com/discover/) at [wholefoods alpahretta ](https://www.wholefoodsmarket.com/stores/avalon) I was detained there after this dude threatened me with a [Noose](https://en.wikipedia.org/wiki/Noose) Joke.
 
-My head is full of sores from the poisons the prostitution communiuty used to control people. I dont know what to do!
+My head is full of sores from the poisons the prostitution communiuty used to control people. I dont know what to do! There was some ransomeware attakc in Dekalb County that funneled all the girls my age here [California cities rattled by prostitution, human trafficking in broad daylight as cops pin blame on new law](https://www.foxnews.com/us/california-cities-rattled-prostitution-human-trafficking-broad-daylight-cops-pin-blame-new-law)
 
 ## CoronaVirus Movies
 
@@ -32,7 +32,10 @@ My head is full of sores from the poisons the prostitution communiuty used to co
 
 ![LosAngeles](https://images.squarespace-cdn.com/content/v1/5b0c4aed25bf021332006217/1533998957909-U6UZKWICLCR48WUBI3Q2/1E2A9176.jpg?format=1000w)
 [Vice in Los Angeles](https://www.robertnickelsberg.com/la-vice-squad) 
-For four days in May of 2017 I shadowed the Los Angeles Police Department’s South Bureau Vice Squad to document sex trafficking in south L.A. for Time magazine. The Bloods and the Crips have historically controlled illicit operations in the neighborhoods around south Los Angeles. The commercial sex trade is an illegal yet open business centered along Figueroa Street. [Vice in Los Angeles](https://www.robertnickelsberg.com/la-vice-squad) 
+For four days in May of 2017 I shadowed the Los Angeles Police Department’s South Bureau Vice Squad to document sex trafficking in south L.A. for Time magazine. The Bloods and the Crips have historically controlled illicit operations in the neighborhoods around south Los Angeles. The commercial sex trade is an illegal yet open business centered along Figueroa Street. [Vice in Los Angeles](https://www.robertnickelsberg.com/la-vice-squad) [Prostitution, Trespassing, Disturbing the Peace, Driving without a License and Loitering are now effectively legal in LA County](https://www.smobserved.com/story/2020/12/10/news/prostitution-trespassing-disturbing-the-peace-driving-without-a-license-and-loitering-are-now-effectively-legal-in-la-county/5115.html)
+
+![fox](https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e6e9ccc-1bcc-4fe6-aa0f-86301cff9782/b0c4d81a-1f1c-40a6-b69b-1d7b61b002d4/1280x720/match/896/500/image.jpg?ve=1&tl=1)
+ [California prostitution law allows sex abuse to 'run rampant' in Los Angeles streets, victim advocates warn](https://www.foxnews.com/media/california-prostitution-law-allowing-sex-abuse-run-rampant-los-angeles-streets-victim-advocates-warn)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=317&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817847938376855%2F&show_text=false&width=560&t=0" width="560" height="317" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
