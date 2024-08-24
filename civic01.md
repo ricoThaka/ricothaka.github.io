@@ -5,6 +5,9 @@
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
+# Covid
+[Corona Virus Isolated From Humans](https://patentimages.storage.googleapis.com/4d/01/bb/b15d530677fb33/US7776521.pdf)
+![Corona_Virus_isolated_from_humans](https://pbs.twimg.com/media/GVxP520aIAAZTvr?format=jpg&name=large)
 ![us](https://pbs.twimg.com/media/GTrN0w_aQAAC5HB?format=jpg&name=large)
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR) [Magic City's 'Mr. Magic' Reveals How He Created ATL's #1 Strip Club | Sip 'N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s) [Dregs of the City: Los Angeles | Short Documentary](https://www.youtube.com/watch?v=dineEC_05fg) [I Explored LA's Mexican GANG Neighborhoods With A Real Life CHOLA](https://www.youtube.com/watch?v=Bl_jDpTZHmI) [The Most Controversial Street in Los Angeles - Figueroa St](https://www.youtube.com/watch?v=ZTYU5-TSqgY) [Buy You Some](https://www.youtube.com/watch?v=GunGHVuztJA)
 
