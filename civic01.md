@@ -5,12 +5,24 @@
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
+
+
+# Rashard Kelly NASAJPL Mars Reconnicnee Orbiter
+![missing](https://pbs.twimg.com/media/GG-5cMlaUAAC7fo?format=jpg&name=large)
 # Covid
 
+## [SARS-CoV-2 and Patent Activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8173861/)
+![Sars-cov-2 and patent activity](https://pbs.twimg.com/media/GVxwOYBa8AA7jSh?format=jpg&name=large)
+![Sars CoronaVirus Patent Activity](https://pbs.twimg.com/media/GHsM7f4asAAojUR?format=png&name=medium)
+![Sars CoronaVirus](https://pbs.twimg.com/media/GHsQFDdb0AAxT57?format=jpg&name=medium)
+[EUROPEAN PATENT SPECIFICATION](https://patentimages.storage.googleapis.com/1d/4e/4a/ac8914e765d645/EP3172319B1.pdf)
 ![European_CoronaVirus_Patent](https://pbs.twimg.com/media/GVxM8H6aIAA2eNv?format=jpg&name=large)
 ![CoronaVirus_NameChange](https://pbs.twimg.com/media/GVxO3btWsAASZFs?format=png&name=360x360)
 [Corona Virus Isolated From Humans](https://patentimages.storage.googleapis.com/4d/01/bb/b15d530677fb33/US7776521.pdf)
 ![Corona_Virus_isolated_from_humans](https://pbs.twimg.com/media/GVxP520aIAAZTvr?format=jpg&name=large)
+
+[Hola Recuperative Care](recuperativecare.org)
+![Recoup](https://pbs.twimg.com/media/FyDS9mzagAIT-lk?format=jpg&name=large)
 ![us](https://pbs.twimg.com/media/GTrN0w_aQAAC5HB?format=jpg&name=large)
 [Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR) [Magic City's 'Mr. Magic' Reveals How He Created ATL's #1 Strip Club | Sip 'N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s) [Dregs of the City: Los Angeles | Short Documentary](https://www.youtube.com/watch?v=dineEC_05fg) [I Explored LA's Mexican GANG Neighborhoods With A Real Life CHOLA](https://www.youtube.com/watch?v=Bl_jDpTZHmI) [The Most Controversial Street in Los Angeles - Figueroa St](https://www.youtube.com/watch?v=ZTYU5-TSqgY) [Buy You Some](https://www.youtube.com/watch?v=GunGHVuztJA)
 
@@ -50,6 +62,14 @@ inside City Hall this heterogeneous file sharing publicly and we live in a and w
   </div>    
  </div>
 </div>
+
+
+
+![Erika](https://pbs.twimg.com/media/GVssLnUa8AAIHU7?format=jpg&name=large)
+![inbetween](https://pbs.twimg.com/media/GVssCi0a8AEYpIO?format=jpg&name=large)
+![Coral](https://pbs.twimg.com/media/GVsyzhMa8AE6bDe?format=jpg&name=large)
+[StyleFile](https://online.fliphtml5.com/kjuf/mzev/#p=1)
+![StyleFile](https://pbs.twimg.com/media/GVxJQ4EagAA61Z3?format=jpg&name=large)
 
 ![Kash Doll: Brat Mail](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg)
 <embed width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%2329f247&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" />
@@ -91,8 +111,6 @@ Yeah, that way
 The doll way
 {% endhighlight %}
 
-![Erika](https://pbs.twimg.com/media/GVssLnUa8AAIHU7?format=jpg&name=large)
-![Coral](https://pbs.twimg.com/media/GVsyzhMa8AE6bDe?format=jpg&name=large)
 
 [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
 

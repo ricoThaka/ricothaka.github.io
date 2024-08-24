@@ -6,6 +6,59 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+
+[Fearless Four - Rockin´ it](https://www.youtube.com/watch?v=XOHvOhADAic) [TheRoots feat. MosDef - Double Trouble](https://youtu.be/AmSUb5H5G0s?si=MBOK17rBA0iucppV) [Krs_oNE - A Friend](https://youtu.be/Xcat8N4143o?si=wv41zDo7NZARfA2F)
+
+![Erika](https://pbs.twimg.com/media/GVssLnUa8AAIHU7?format=jpg&name=large)
+![inbetween](https://pbs.twimg.com/media/GVssCi0a8AEYpIO?format=jpg&name=large)
+![Coral](https://pbs.twimg.com/media/GVsyzhMa8AE6bDe?format=jpg&name=large)
+[StyleFile](https://online.fliphtml5.com/kjuf/mzev/#p=1)
+![StyleFile](https://pbs.twimg.com/media/GVxJQ4EagAA61Z3?format=jpg&name=large)
+
+![Kash Doll: Brat Mail](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg)
+<embed width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%2329f247&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" />
+
+# About Kash Doll and Me
+NasaJPL, I dont know what she is going by at the moment but she is my post erika wife forever girlfriend surrounding that. The name I was given origionally was Vanessa Walker. We were little kids here from africa that got kidnapped and moved east. She is still in some sort of human trafficking situation. To me she is a really important person and as some of you know my energy towards those in [UpperUnix] administration know how i look up to you. Its isolated bc im learning from you. She is similar. But she has a lot of identities and worst case I want you guys to know i never did any fruad with her. But know thats whats required of her. The character Normani, looks like an attempt for the girls to substitute for each other bc i still get her confused with Erika when she has the [LightComplexion](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg) bc they share similar features. Im also afraid bc she is ethiopian and i have not seen her dress traditionally in a long time... She still talkes to me, but she plays [minecraft](https://youtu.be/K4vtrzcqyg0?si=Bc-Alnd9YbOu90In) and communicates differnt from other girls
+
+
+## Intro (Brat Mail) [LyricS](https://genius.com/Kash-doll-intro-brat-mail-lyrics)
+
+{% highlight ruby %} 
+[Verse]
+Look, I be exploring the foreigns with more power than stars
+On my new new shit, like my name is Rashaad
+And my punchlines seasoned plenty minds like it's time
+So, if he ever tell you he ain't feelin' me, he lying'
+Shout out to me, all on BET
+I'm a very rich chick, on my Nene Leakes
+I'm a boss, every move gotta come through me
+Murder broads in my minks
+May they rest in peace
+And I'm still the top chick
+Any bitch think I drop dick get higher than Mariah
+And she like a five octave
+Stop it, please stop it
+Blowing money
+All in Neiman's in there Diddy bopping
+And you know I came to murder it
+My city watchin'
+I'm so humble, I'ma front like I don't do this often
+It's Kash Doll, bow down, and kiss the ring
+Soon as this paperwork done
+I'm touching everything
+A murder scene
+
+[Outro]
+Haha
+Yeah, that way
+The doll way
+{% endhighlight %}
+
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
 ![muni long?](https://pbs.twimg.com/media/GVtCm0ybAAAKyNu?format=jpg&name=medium)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/700063483&color=%2300cbff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/asiandabratdoll" title="Asian Da Brat" target="_blank" style="color: #cccccc; text-decoration: none;">Asian Da Brat</a> · <a href="https://soundcloud.com/asiandabratdoll/double-burger" title="Double Burger" target="_blank" style="color: #cccccc; text-decoration: none;">Double Burger</a></div>
