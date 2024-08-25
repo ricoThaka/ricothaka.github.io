@@ -58,32 +58,42 @@ table {
   box-sizing: border-box;
 }
 
+
 html {
-  font: normal 10px/18px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
+    font: normal 15px/19px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
     sans-serif;
-
-    background: linear-gradient(
-      45deg,
-      #08a0e9 25%,
-      #e8f5fd 0,
-      #e8f5fd 50%,
-      #08a0e9 0,
-      #08a0e9 75%,
-      #e8f5fd 0
-    );
-    background-size: 80.4px 80.4px;
+  background : #0D0D0D;
+  background-image :
+    linear-gradient(#262626 1px, transparent 0),
+    linear-gradient(90deg, #262626 1px, transparent 0);
+  background-size: 30px 30px;
     font-family: "VT323", monospace;
-    background-attachment: fixed;
+    background-attachment: fixed;   
+    height: 100%;
+    width: 100%;
+  }
 
-
-
-
-
-
-
-  height: 100%;
-  width: 100%;
+p {
+  padding:5px;
+  display: flex;
+  text-align: left;
+  color: white;
+  background: black;
+  background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%);
+  border-left: 1px solid dodgerblue;
+  border-right: 1px solid #BFBFBF;
+  column-count: auto;
+  column-fill: balance-all;
+  word-break: break-all;
+  hyphens: auto;
+  display:block;
 }
+
+
+
+
+
+
 
 h1,
 h2,
