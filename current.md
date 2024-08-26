@@ -6,6 +6,10 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+## RegEx 
+[webrename](https://www.webrename.com/) <~ Bulk file renamer takes regex. I got stuck on [ricothaka.github.io/worknotes02](ricothaka.github.io/worknotes02) bc the scanner at LaPL central spits out horrible filenames. I found great images from Mariner for Robins Weather Chores. Its old but as time rolls on im understanding the fact that historical weather data can help you uinderstand the present
+
 ## DEar Normani
 I understand who you are, and where it all started. But i need you to know im notyour friend. But i really like your songs. Your old connections to Playboy, StreetPorn, Theater and god knows what else always mute my sound! I cant listn to none of yal music without being bullied. [Chloe is the worse](https://www.youtube.com/watch?v=4SEvuhxTr8U). Cardi left a message that applied to me in [Ring](https://www.youtube.com/watch?v=kcRWyLMVrFM). I really dont know what she had with Offset but when she did Coral hair she laid down some rules in her apartment by [KroBar](https://atlanta.curbed.com/maps/a-definitive-mildly-wrong-map-of-atl-kroger-nicknames) and i violated. Like she want missed messages. I have no woman by my side and you guys are all friends and are arranging whatever bc i was promised a girlfriend if i followed all the rules all i got was [skeezed by nickiminaj](https://soundcloud.com/music-audio-131073614/nicki-minaj-barbie-drip-drip?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) But the missed messages lyic ripped my heart open in Ring bc i got kind cold working with Dwayne... im sorry [cardi](https://www.youtube.com/watch?v=_lioDjWSWcE) But after Listening outloud Ascending the staris of MetroLosAngeles [CivicCenter Station](https://en.wikipedia.org/wiki/Civic_Center/Grand_Park_station), I was robbed the same night by a [armed gunman](https://www.justice.gov/usao-cdca/pr/3-gang-members-sentenced-decades-federal-prison-their-roles-robbery-and-fatal-shooting) at [city hall](https://www.nbclosangeles.com/news/local/pro-palestinian-encampment-erected-outside-la-city-hall/3427805/) [DTLA](https://www.ladowntownnews.com/)
 
