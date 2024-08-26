@@ -6,6 +6,10 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+
+{% include sega.md %}
+
 <iframe width="1400" height="708" src="https://www.youtube.com/embed/uTwH7u0PhOw" title="M.I.A. - Reload" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="1400" height="708" src="https://www.youtube.com/embed/mIMMZQJ1H6E" title="Santigold - Disparate Youth (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
