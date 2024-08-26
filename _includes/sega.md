@@ -1,7 +1,7 @@
 
 
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/SEGA_logo.png" alt="sega" />
+![sega logo](https://upload.wikimedia.org/wikipedia/commons/4/41/SEGA_logo.png) 
 <img src="https://static.wixstatic.com/media/f82573_82967beba9b14c78854ac9b4bc557f18~mv2.png/v1/crop/x_191,y_124,w_2142,h_762/fill/w_590,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/sega-genesis-mini-logo.png" alt="genesis" /></p>
 
 <img src="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg" />    
