@@ -335,19 +335,13 @@ h1 {
 background-size: 80.4px 80.4px; */
   font-family: "VT323", monospace;
 
-  background: linear-gradient(to top, transparent, #b1b1b1 100%),
-    #262626
-      repeating-linear-gradient(
-        45deg,
-        transparent,
-        transparent 35px,
-        rgba(255, 255, 255, 0.5) 35px,
-        rgba(255, 255, 255, 0.5) 70px
-      );
-  background-clip: padding-box;
-  border-left: 1px solid rgba(255, 255, 255, 0.3);
-  border-top: 1px solid rgba(255, 255, 255, 0.7);
-  box-shadow: 0px 1px 3px 1px #969494;
+  background-color: #6d695c;
+  background-image:
+  repeating-linear-gradient(120deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
+  repeating-linear-gradient(60deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
+  linear-gradient(60deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1)),
+  linear-gradient(120deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1));
+  background-size: 70px 120px;
   background-attachment: fixed;
 }
 
@@ -886,18 +880,29 @@ img[alt="whiteslavery40"] {
    position:relative;
     opacity: 1;
     max-width: max-content;
-
+animation: 1s ease-out 0s 1 slideInFromLeft;
 
 }
 
 .swatch div {
   flex: 1 1 auto;
   padding: 5px 40px;
+  
+} 
+
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
 }
 
 .swatch div:nth-child(1) {
   background: #352ef2;
   border-radius: 0px;
+  animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 .swatch div:nth-child(2) {
   background: #446ff2;
@@ -907,6 +912,7 @@ img[alt="whiteslavery40"] {
 .swatch div:nth-child(3) {
   background: #2e97f2;
   border-radius: 0px;
+  animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 
 .swatch div:nth-child(4) {
@@ -922,6 +928,7 @@ img[alt="whiteslavery40"] {
 }
 .swatch div:nth-child(7) {
   background: #e10098;
+  animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 .swatch div:nth-child(8) {
   background: #bb29bb;
@@ -964,6 +971,7 @@ img[alt="whiteslavery40"] {
 }
 .swatch div:nth-child(21) {
   background: #9e978e;
+  animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 .swatch div:nth-child(22) {
   background: #009ace;
@@ -1015,6 +1023,7 @@ img[alt="whiteslavery40"] {
 }
 .swatch div:nth-child(38) {
   background: #f93822;
+  animation: 2s ease-out 0s 1 slideInFromLeft;
 }
 .swatch div:nth-child(39) {
   background: #ce0056;
@@ -1036,6 +1045,8 @@ img[alt="whiteslavery40"] {
 }
 .swatch div:nth-child(45) {
   background: #222223;
+  animation: 3s ease-out 0s 1 slideInFromLeft;
+  
 }
 .swatch div:nth-child(46) {
   background: #f6eb61;
@@ -2848,6 +2859,7 @@ img[alt="whiteslavery40"] {
 }
 .swatch div:nth-child(649) {
   background: #b9d3dc;
+    animation: 3s ease-out 0s 1 slideInFromLeft;
 }
 .swatch div:nth-child(650) {
   background: #a3c7d2;
@@ -3178,6 +3190,7 @@ img[alt="whiteslavery40"] {
 }
 .swatch div:nth-child(759) {
   background: #4698cb;
+    animation: 2s ease-in 0s 1 slideInFromLeft;
 }
 .swatch div:nth-child(760) {
   background: #298fc2;
@@ -4916,6 +4929,7 @@ img[alt="whiteslavery40"] {
 }
 .normani div:nth-child(3) {
   background: #a69b03;
+      animation: 2s ease-out 0s 1 slideInFromLeft;
 }
 .normani div:nth-child(4) {
   background: #595302;
@@ -4937,28 +4951,36 @@ img[alt="whiteslavery40"] {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 3em;
+  height: 2em;
 }
 .gullies div:nth-child(1) {
   background: #3029f2;
+    animation: .2s ease-out 0s 1 slideInFromLeft;
 }
 .gullies div:nth-child(2) {
   background: #446ff2;
 }
 .gullies div:nth-child(3) {
   background: #3098f2;
+  animation: .8s ease-out 0s 1 slideInFromLeft;
 }
 .gullies div:nth-child(4) {
   background: #0dd9c4;
+  animation: .9s ease-out 0s 1 slideInFromLeft;
 }
 .gullies div:nth-child(5) {
   background: #3df28b;
+     
+    animation: 3s infinite alternate 0s 1 slideInFromLeft;  
+  
 }
 
 .gullies div {
   flex: 0 1 200px;
   flex: 1 1 200px;
   padding: 0px;
+
+  
 }
 
 .oncall {
@@ -4975,6 +4997,7 @@ img[alt="whiteslavery40"] {
 }
 .oncall div:nth-child(2) {
   background: #f28b0c;
+    animation: 1s ease-in 1s 1 slideInFromLeft;
 }
 .oncall div:nth-child(3) {
   background: #f27405;
@@ -4990,6 +5013,7 @@ img[alt="whiteslavery40"] {
   flex: 0 1 200px;
   flex: 1 1 200px;
   padding: 0px;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 
 #a-title {
