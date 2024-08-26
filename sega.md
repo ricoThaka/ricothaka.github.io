@@ -8,6 +8,7 @@
 
 
 <iframe src="https://archive.org/embed/arcade_gloc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [G-Loc Air Battle](https://www.classic-games.net/genesis/g-loc-air-battle/) 
 ![G_LOC](https://segaretro.org/images/8/8b/G-Loc_Title.png) 
 G-LOC: Air Battle (G-LOC meaning "G-force induced Loss Of Consciousness") is a 1990 air combat simulator arcade game developed by Sega AM2 for the Sega Y Board hardware. It is a spiritual sequel to After Burner II, featuring similar gameplay ideas and some recycled sound effects, though has always been publicly advertised as a different game entirely. The original arcade version runs on more advanced Sega Y Board hardware, and makes heavy use of sprite scaling & rotation and pre-rendered 3D graphics, anticipating the look of early texture-mapped 3D polygons.
