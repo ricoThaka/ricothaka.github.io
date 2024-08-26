@@ -21,18 +21,20 @@ G-LOC is notable for being one of the first video games to offer an R360 arcade 
 Variation #1 – Sometimes referred to as the “Sonic” version. This version looks the same as the original but SEGA added the License Screen that would pop-up before each game, adding about 3-4 seconds to your initial wait time to get to the gaming. Also, from this revision on SEGA installed a “Lock-Out” chip for regional restrictions. The FCC-ID code for this unit is: FJ8USASEGA. [SEGA Genesis – FJ846EUSASEGA specs and info](https://gametrog.com/sega-genesis-1-2-3-information-specs/) [SEGA Genesis Romset Ultra (U) [!]Playable Romset](https://archive.org/details/sega-genesis-romset-ultra-usa) [Looking for a good ROM collection. /r/SEGAGENESIS](https://www.reddit.com/r/SEGAGENESIS/comments/y62pg5/looking_for_a_good_rom_collection/?rdt=41037) [FGC #633 Sonic CD](https://www.gogglebob.com/2022/09/09/fgc-633-sonic-cd/)
 ![Genesis_Box](https://i0.wp.com/gametrog.com/wp-content/uploads/2018/07/sega-genesis-box-front.png?w=800&ssl=1)
 ![genesis_back_box](https://i0.wp.com/gametrog.com/wp-content/uploads/2018/07/sega-genesis-box-back.png?w=800&ssl=1)
-  <img src="https://freaktoyz.com/cdn/shop/files/cart-3.webp" />
-  <iframe src="https://archive.org/embed/arcade_mp_soni2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<img src="https://i0.wp.com/gametrog.com/wp-content/uploads/2018/07/sega-genesis-box-front.png?w=800&amp;ssl=1" alt="Genesis_Box" />
-<img src="https://i0.wp.com/gametrog.com/wp-content/uploads/2018/07/sega-genesis-box-back.png?w=800&amp;ssl=1" alt="genesis_back_box" />
-<a href="https://archive.org/details/screen-20240729-075038">Lib Retro run a GameRom Screenshare Unedited</a></p>
-<iframe src="https://archive.org/embed/screen-20240729-075038" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
-<img src="https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg" />
-    <iframe src="https://archive.org/embed/arcade_sonic" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<img src="https://freaktoyz.com/cdn/shop/files/cart-3.webp" />
 
+<iframe src="https://archive.org/embed/arcade_mp_soni2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img src="https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg" />
+
+<a href="https://archive.org/details/screen-20240729-075038">Lib Retro run a GameRom Screenshare Unedited</a></p>
+
+
+<iframe src="https://archive.org/embed/arcade_sonic" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/screen-20240729-075038" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
 
 [Lib Retro run a GameRom Screenshare Unedited](https://archive.org/details/screen-20240729-075038)
-<iframe src="https://archive.org/embed/screen-20240729-075038" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![sega](https://upload.wikimedia.org/wikipedia/commons/4/41/SEGA_logo.png)
 ![genesis](https://static.wixstatic.com/media/f82573_82967beba9b14c78854ac9b4bc557f18~mv2.png/v1/crop/x_191,y_124,w_2142,h_762/fill/w_590,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/sega-genesis-mini-logo.png)
