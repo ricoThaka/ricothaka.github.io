@@ -6,10 +6,12 @@
 {% endhighlight %}
 
 # Currently Compiling
+[Normani - All Yours (Audio)](https://www.youtube.com/watch?v=iHS9gu-RZGQ) Normani i dont know where i am in girlfriend lessons. But this song hipped me to a lot... [treatment](https://www.youtube.com/watch?v=oVG-vQNbiJQ) 
 ![Erika Renee Johnson Kelly](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/CaptureErikA.PNG?raw=true)
 ![RingsOfSaturn](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/MOSHED-2024-4-24-15-54-24.jpg?raw=true)
 ![MarsRover-Moshed](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/MOSHED-2024-3-4-13-3-53.jpg?raw=true)
 [Normani and why her career failed- gossip blog](https://youtu.be/aoTHnFWKPKs?si=D928XYkUJG8MgNm_)
+
 {% include sega.md %}
 
 <iframe width="1400" height="708" src="https://www.youtube.com/embed/uTwH7u0PhOw" title="M.I.A. - Reload" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
