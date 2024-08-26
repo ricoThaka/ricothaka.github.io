@@ -7,7 +7,7 @@
 
 # Currently Compiling
 
-
+[Normani and why her career failed- gossip blog](https://youtu.be/aoTHnFWKPKs?si=D928XYkUJG8MgNm_)
 {% include sega.md %}
 
 <iframe width="1400" height="708" src="https://www.youtube.com/embed/uTwH7u0PhOw" title="M.I.A. - Reload" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
