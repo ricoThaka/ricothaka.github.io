@@ -7,6 +7,8 @@
 
 # Currently Compiling
 
+<iframe width="1400" height="708" src="https://www.youtube.com/embed/mIMMZQJ1H6E" title="Santigold - Disparate Youth (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## RegEx 
 [webrename](https://www.webrename.com/) <~ Bulk file renamer takes regex. I got stuck on [ricothaka.github.io/worknotes02](ricothaka.github.io/worknotes02) bc the scanner at LaPL central spits out horrible filenames. I found great images from Mariner for Robins Weather Chores. Its old but as time rolls on im understanding the fact that historical weather data can help you uinderstand the present
 
