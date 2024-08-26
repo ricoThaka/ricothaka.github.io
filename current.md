@@ -6,7 +6,9 @@
 {% endhighlight %}
 
 # Currently Compiling
-
+![Erika Renee Johnson Kelly](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/CaptureErikA.PNG?raw=true)
+![RingsOfSaturn](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/MOSHED-2024-4-24-15-54-24.jpg?raw=true)
+![MarsRover-Moshed](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/MOSHED-2024-3-4-13-3-53.jpg?raw=true)
 [Normani and why her career failed- gossip blog](https://youtu.be/aoTHnFWKPKs?si=D928XYkUJG8MgNm_)
 {% include sega.md %}
 
