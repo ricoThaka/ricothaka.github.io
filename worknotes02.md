@@ -9,9 +9,12 @@
 </style>
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
+
+![nuclear](https://pbs.twimg.com/media/GV3NL3sbsAAkaLV?format=jpg&name=large)
+
 ## Code Refactoring
 Good Afternoon MRO. 
-Dear Chris, i know you were a Mori Person as well but older and i was brought on like TekSystems so i was mision right away. I remember ppl were talking about using Salt for configuration Management and there is the inhouse system. I mean it all seems attached to the Netapp and that Refurb that happened in the Mission Control Datacenter. I was Told there was cracks in the floor and i thought you all were Mean military people. I was in my head lashing out at my marriage and religious way of life collapsing and worried aobut being chased off. Thanks.
+Dear Chris, i know you were a Mori Person as well but older and i was brought on like TekSystems so i was mision right away. I remember ppl were talking about using Salt for configuration Management and there is the inhouse system. I mean it all seems attached to the Netapp and that Refurb that happened in the Mission Control Datacenter. I was Told there was cracks in the floor and i thought you all were Mean military people. I was in my head lashing out at my marriage and religious way of life collapsing and worried aobut being chased off. Thanks. BTW i did not recall the rover is Nuclear Powered!
 
 I really enjoyed this section from [Steve Lindstorm](https://dontpaniclabs.com/blog/post/2020/11/11/reflections-on-css-refactoring-by-steve-lindstrom/)
 
