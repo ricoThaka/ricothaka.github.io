@@ -6,7 +6,7 @@
 {% endhighlight %}
 
 # Currently Compiling
-
+![Cardi like missed messages](https://pbs.twimg.com/media/GV3Yjl5bMAAreIG?format=jpg&name=large)
 [Miki Howard - Love Under New Management](https://www.youtube.com/watch?v=SReOKWeSKRM) [2nd Childhood - NAS](https://www.youtube.com/watch?v=A5nM66F903I) [Nas - Take it In Blood](https://www.youtube.com/watch?v=pmmnzusZZMU) [The Roots - Pointro Star](https://www.youtube.com/watch?v=AV9KwitVZAE) [The Roots - CLones](https://youtu.be/SsrCaVnHQjg?si=z7TtWdDlAQlsZJaU) [Bahamadia feat Da Roots Da_JAWN](https://youtu.be/1QOefzGx_L0?si=MX-OhX60TLloeRqn) [BahamaDia - Rugged Ruff Glorilla plz explore the song structure phillyhiphop](https://www.youtube.com/watch?v=OrYKESic7CI)
 [Normani - All Yours (Audio)](https://www.youtube.com/watch?v=iHS9gu-RZGQ) Normani i dont know where i am in girlfriend lessons. But this song hipped me to a lot... [treatment](https://www.youtube.com/watch?v=oVG-vQNbiJQ) 
 ![Erika Renee Johnson Kelly](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/CaptureErikA.PNG?raw=true)
