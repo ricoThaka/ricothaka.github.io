@@ -1,10 +1,9 @@
 
 
 
-![sega logo](https://upload.wikimedia.org/wikipedia/commons/4/41/SEGA_logo.png) 
+
 <img src="https://static.wixstatic.com/media/f82573_82967beba9b14c78854ac9b4bc557f18~mv2.png/v1/crop/x_191,y_124,w_2142,h_762/fill/w_590,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/sega-genesis-mini-logo.png" alt="genesis" /></p>
 
-<img src="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg" />    
 
 
 <iframe src="https://archive.org/embed/arcade_gloc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -29,6 +28,7 @@ Variation #1 – Sometimes referred to as the “Sonic” version. This version 
 
 <a href="https://archive.org/details/screen-20240729-075038">Lib Retro run a GameRom Screenshare Unedited</a></p>
 
+![SEEEGAAH](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZtbDduZ2F5enhjcThvbmQ2NW11aHcyNGhqc2QycWRha2JpM3M3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RN6IKwEZqbe5cOvnsA/giphy.webp)
 
 <iframe src="https://archive.org/embed/arcade_sonic" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
