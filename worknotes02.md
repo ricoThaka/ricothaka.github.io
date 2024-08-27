@@ -9,7 +9,11 @@
 </style>
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
+## Code Refactoring
+Good Afternoon MRO. 
+Dear Chris, i know you were a Mori Person as well but older and i was brought on like TekSystems so i was mision right away. I remember ppl were talking about using Salt for configuration Management and there is the inhouse system. I mean it all seems attached to the Netapp and that Refurb that happened in the Mission Control Datacenter. I was Told there was cracks in the floor and i thought you all were Mean military people. I was in my head lashing out at my marriage and religious way of life collapsing and worried aobut being chased off. Thanks.
 
+I really enjoyed this section from [Steve Lindstorm](https://dontpaniclabs.com/blog/post/2020/11/11/reflections-on-css-refactoring-by-steve-lindstrom/)
 
 ![CSS Refactoring](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssrefactor/0002.png)
 
@@ -19,6 +23,12 @@
 ![CSS Refactoring](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssrefactor/0004.png)
 
 ![CSS Refactoring](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssrefactor/0005.png)
+
+
+
+Now i dont know what standards exist if any but this is the type of information i shared with the girls my age from Dance411. The problem is they was teaching a lot of criiminal men and they infiltrated corporate and really hurt atlanta. I was talking to her independantyly and teaching her middleware bc thats where she was getting knixed online. The thing is with the Striptease they have to balance functioning in the daytime affter a nighttime kidnapping and rape. Im not saying every guy that has been in her company is bad. But she has been asking me for a child for about 5 years now. Im afraid and bleeding. 
+![normani](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXU0OWk0ZGg1MndwbzJ2c3BiNHVkcHluMTdkeGE0YWlvb3F4ejdjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eOQrdV7Hv69HrV2TJ4/giphy.webp)
+
 
 ![CSS Refactoring](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssrefactor/31.png)
 
