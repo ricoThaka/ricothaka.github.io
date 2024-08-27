@@ -9,6 +9,20 @@
 </style>
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
+
+
+![CSS Refactoring](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssrefactor/0002.png)
+
+
+![CSS Refactoring](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssrefactor/0003.png)
+
+![CSS Refactoring](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssrefactor/0004.png)
+
+![CSS Refactoring](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssrefactor/0005.png)
+
+![CSS Refactoring](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssrefactor/31.png)
+
+
 ![Dilbert](https://pbs.twimg.com/media/EEMUvumXYAMteki?format=jpg&name=small)
 
 
