@@ -6,6 +6,7 @@
 {% endhighlight %}
 
 # Currently Compiling
+[BahamaDia - Rugged Ruff Glorilla plz explore the song structure phillyhiphop](https://www.youtube.com/watch?v=OrYKESic7CI)
 [Normani - All Yours (Audio)](https://www.youtube.com/watch?v=iHS9gu-RZGQ) Normani i dont know where i am in girlfriend lessons. But this song hipped me to a lot... [treatment](https://www.youtube.com/watch?v=oVG-vQNbiJQ) 
 ![Erika Renee Johnson Kelly](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/CaptureErikA.PNG?raw=true)
 ![RingsOfSaturn](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/MOSHED-2024-4-24-15-54-24.jpg?raw=true)
