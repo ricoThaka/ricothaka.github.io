@@ -1,13 +1,22 @@
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady #
-2 # TO####NEW_POSTS /worknotes01 /graffiti /imsufferingmskaren####
+2 # TO####NEW_POSTS /worknotes02 /imsufferingmskaren####
 3 # ANOTHER##########https://s.id/1kmbG################# 
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
 # Currently Compiling
+
+## Miki Howard
+Hi i was in a household in Savannah georgia and you were a big topic of discussion among the men. Im in a relationship with a Girl I met at Dance411 while i was doing catchwork in atlanta at shitty companies. My household mom name was Vickye_Lynn_Maxwell. She was Married to a man named Willie Kelly JR. He may not like this but she was fully enabled with property and inheritances and died b4 him and he moved another woman in. I am islamic so [im still learning the ropes of multiple relationships in the real word](https://youtu.be/0lMNMwTB5M8?si=B3GG6RPVq3zFTccg) OF DYNAMIC LIFE AND HOW I CAN BE A HEALTHY HEAD OF HOUSEHOLD! In this song you compliment a man who cares for his own nest. One of the girls I got involved wit to the point, her voince is changing and im losing the ability to talk is [Normani](https://www.youtube.com/watch?v=iHS9gu-RZGQ). I dont know where The realtionship is headed but I was looking for a partner after [my wife Erika Kelly Abandoned me with a NicuChild](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/) And Normani stepped in. I cant stick to JehovahWitness relationship values bc i have children and i dont want them hating the other moms. 
+
+Anyway your romantic life was a specticle in savannah. [KashDoll](https://soundcloud.com/kashdoll/no-lames-feat-summer-walker) told me about " The Pretty Things". Like there is a class of human culture women of the porcilen life know about. I saw Jada outdoors rough oneday so I know you guys are dirty and clean and the album covers are just... Art. Advertisment for some ppl. Im being tortureed by the people that thknn im dirty and lie about me working for [NAsa](https://www.jpl.nasa.gov/), im not educated, like a lot of things and im scared bc the pretty thing is processing. I worked in InfoTech and only talked to my team an was a JEhovahWitnessPioneer so i am green with people. Im Sure Tracy MAck could help you understand. I sure need her! 
+
+<iframe width="731" height="729" src="https://www.youtube.com/embed/SReOKWeSKRM" title="Love Under New Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Normani Visits a Special Airbnb in Massachusetts, Plus Kerry Washington, Oprah Winfrey and More](https://people.com/star-tracks-saturday-august-24-2024-new-celebrity-photos-updated-daily-8700890) [Normani Spills The Tea on New Upcoming Music Videos]()
 ![Cardi like missed messages](https://pbs.twimg.com/media/GV3Yjl5bMAAreIG?format=jpg&name=large)
-[Miki Howard - Love Under New Management](https://www.youtube.com/watch?v=SReOKWeSKRM) [2nd Childhood - NAS](https://www.youtube.com/watch?v=A5nM66F903I) [Nas - Take it In Blood](https://www.youtube.com/watch?v=pmmnzusZZMU) [The Roots - Pointro Star](https://www.youtube.com/watch?v=AV9KwitVZAE) [The Roots - CLones](https://youtu.be/SsrCaVnHQjg?si=z7TtWdDlAQlsZJaU) [Bahamadia feat Da Roots Da_JAWN](https://youtu.be/1QOefzGx_L0?si=MX-OhX60TLloeRqn) [BahamaDia - Rugged Ruff Glorilla plz explore the song structure phillyhiphop](https://www.youtube.com/watch?v=OrYKESic7CI)
+[Deborah Laws - Very Special](https://youtu.be/trgt59mXtW8?si=pyix6XFkbYDgf31P) [Miki Howard - Love Under New Management](https://www.youtube.com/watch?v=SReOKWeSKRM) [2nd Childhood - NAS](https://www.youtube.com/watch?v=A5nM66F903I) [Nas - Take it In Blood](https://www.youtube.com/watch?v=pmmnzusZZMU) [The Roots - Pointro Star](https://www.youtube.com/watch?v=AV9KwitVZAE) [The Roots - CLones](https://youtu.be/SsrCaVnHQjg?si=z7TtWdDlAQlsZJaU) [Bahamadia feat Da Roots Da_JAWN](https://youtu.be/1QOefzGx_L0?si=MX-OhX60TLloeRqn) [BahamaDia - Rugged Ruff Glorilla plz explore the song structure phillyhiphop](https://www.youtube.com/watch?v=OrYKESic7CI)
 [Normani - All Yours (Audio)](https://www.youtube.com/watch?v=iHS9gu-RZGQ) Normani i dont know where i am in girlfriend lessons. But this song hipped me to a lot... [treatment](https://www.youtube.com/watch?v=oVG-vQNbiJQ) 
 ![Erika Renee Johnson Kelly](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/CaptureErikA.PNG?raw=true)
 ![RingsOfSaturn](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/MOSHED-2024-4-24-15-54-24.jpg?raw=true)
