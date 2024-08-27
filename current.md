@@ -7,12 +7,89 @@
 
 # Currently Compiling
 
+<style>
+  img[alt="MikiHoward"] {
+  max-width: 45%;
+  float: right;
+  clear:both;
+}
+</style>
+
+![MikiHoward](https://i.discogs.com/kBRSM4J98280EyZ5P5y1dxplSEcm6dJktwT1MEeSaC4/rs:fit/g:sm/q:90/h:444/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDE3/MTQtMTQ3MTEwNzg2/OC05MTIyLmpwZWc.jpeg)
+
 ## Miki Howard
 Hi i was in a household in Savannah georgia and you were a big topic of discussion among the men. Im in a relationship with a Girl I met at Dance411 while i was doing catchwork in atlanta at shitty companies. My household mom name was Vickye_Lynn_Maxwell. She was Married to a man named Willie Kelly JR. He may not like this but she was fully enabled with property and inheritances and died b4 him and he moved another woman in. I am islamic so [im still learning the ropes of multiple relationships in the real word](https://youtu.be/0lMNMwTB5M8?si=B3GG6RPVq3zFTccg) OF DYNAMIC LIFE AND HOW I CAN BE A HEALTHY HEAD OF HOUSEHOLD! In this song you compliment a man who cares for his own nest. One of the girls I got involved wit to the point, her voince is changing and im losing the ability to talk is [Normani](https://www.youtube.com/watch?v=iHS9gu-RZGQ). I dont know where The realtionship is headed but I was looking for a partner after [my wife Erika Kelly Abandoned me with a NicuChild](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/) And Normani stepped in. I cant stick to JehovahWitness relationship values bc i have children and i dont want them hating the other moms. 
 
 Anyway your romantic life was a specticle in savannah. [KashDoll](https://soundcloud.com/kashdoll/no-lames-feat-summer-walker) told me about " The Pretty Things". Like there is a class of human culture women of the porcilen life know about. I saw Jada outdoors rough oneday so I know you guys are dirty and clean and the album covers are just... Art. Advertisment for some ppl. Im being tortureed by the people that thknn im dirty and lie about me working for [NAsa](https://www.jpl.nasa.gov/), im not educated, like a lot of things and im scared bc the pretty thing is processing. I worked in InfoTech and only talked to my team an was a JEhovahWitnessPioneer so i am green with people. Im Sure Tracy MAck could help you understand. I sure need her! 
 
 <iframe width="731" height="729" src="https://www.youtube.com/embed/SReOKWeSKRM" title="Love Under New Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[5 Classic Books Every Designer Should Have by Margaret Penney | November 11, 2016](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://youtu.be/iCgdf4pkvtQ"><img src="https://untappedcities.com/wp-content/uploads/2015/09/NASA-Graphics-Standard-Manual-Kickstarter-Hamish-Smyth-Jesse-Reed-Pentagram-NYC-3.jpg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://youtu.be/iCgdf4pkvtQ"><img src="https://untappedcities.com/wp-content/uploads/2015/09/NASA-Graphics-Standard-Manual-Kickstarter-Hamish-Smyth-Jesse-Reed-Pentagram-NYC-3.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+<img src="https://s3.amazonaws.com/standardsmanualimages/worm/detail/nasawormbook_detail02-1600.jpg">
+
+
+[NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
+
+<img src="https://www.hotfootdesign.co.uk/wp-content/uploads/2015/11/nasa07_1.jpg">
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/352622777&color=%23748cac&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-557982797" title="LilFerg4real" target="_blank" style="color: #cccccc; text-decoration: none;">LilFerg4real</a> · <a href="https://soundcloud.com/user-557982797/lil-ferg-range-rover" title="LIL FERG -RANGE ROVER" target="_blank" style="color: #cccccc; text-decoration: none;">LIL FERG -RANGE ROVER</a></div>
+<img src="https://i.ytimg.com/vi/ddNppeY520o/maxresdefault.jpg">
+<img src="https://i.ytimg.com/vi/vyvwBWjz8N8/maxresdefault.jpg">
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+       <a href="https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed/#!/PhotosVideos/Album-506573/Photo-16073847" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://s3.amazonaws.com/storage.lifetributes.com/Tributes/5110628/Albums/506573/Muna-Ahmed-16073847.jpg" ></a>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+       <a href="https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed/#!/PhotosVideos/Album-506573/Photo-16073847" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://s3.amazonaws.com/storage.lifetributes.com/Tributes/5110628/Albums/506573/Muna-Ahmed-16073847.jpg" ></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+[2 Live Crew Banned Banned In The U S A PLAY_COMFORTABLY_LOUD](https://www.youtube.com/watch?v=dFKcJIIR0yM)
+
+A grid system provides an easy way for designers to structure and present content and images in an organized, manageable, and readable way... [ReadMore](https://www.oozlemedia.com/advantages-of-grid-systems-in-web-design/)
+
+<img src="https://www.sessions.edu/wp-content/uploads/00115.jpg">
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://1.bp.blogspot.com/-_VAM9vv6woU/Xf5er3xzNcI/AAAAAAAAGeM/OOYW18zZzPEwvYXcWg9M_fsAv5cS5KsMgCNcBGAsYHQ/s1600/bring.jpg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://1.bp.blogspot.com/-_VAM9vv6woU/Xf5er3xzNcI/AAAAAAAAGeM/OOYW18zZzPEwvYXcWg9M_fsAv5cS5KsMgCNcBGAsYHQ/s1600/bring.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+<a href="https://readings.design/PDF/the_elements_of_typographic_style.pdf">The Elements of Typographic Style Robert Bringhurst 1992 </a>
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/694087468&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
