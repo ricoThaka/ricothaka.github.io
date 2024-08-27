@@ -33,6 +33,20 @@ Now i dont know what standards exist if any but this is the type of information 
 ![CSS Refactoring](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssrefactor/31.png)
 
 
+
+
+![CSS Definitive Guide Animation](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssdefanimationcharts/0001.png)
+
+## About RicoThaka's Animated Opening!
+
+Normani, how you doing. I am still getting hurt. But I hope you noticed the changes i made to ricothaka.github.io. Its like that array of divs, i took interest to animate them,. it gives a good feeling of a loading bar and something assembling. I want to simulate glass healing but for now i just found an amaazing key to help add variety. This table is super hard to comeby online. Or maybe its just my DNS. I know we deeper. The enemies are more into applying pain. Do you have any suggestions? IM still shaken after that girl pul that weapon on me. issadrop
+
+![CSS Definitive Guide Animation](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssdefanimationcharts/0005.png)
+
+![CSS Definitive Guide Animation](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/cssdefanimationcharts/0006.png)
+
+
+
 ![Dilbert](https://pbs.twimg.com/media/EEMUvumXYAMteki?format=jpg&name=small)
 
 
