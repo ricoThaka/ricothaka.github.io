@@ -14,9 +14,16 @@ Anyway your romantic life was a specticle in savannah. [KashDoll](https://soundc
 
 <iframe width="731" height="729" src="https://www.youtube.com/embed/SReOKWeSKRM" title="Love Under New Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/694087468&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
+
+
 [Normani Visits a Special Airbnb in Massachusetts, Plus Kerry Washington, Oprah Winfrey and More](https://people.com/star-tracks-saturday-august-24-2024-new-celebrity-photos-updated-daily-8700890) [Normani Spills The Tea on New Upcoming Music Videos]()
 ![Cardi like missed messages](https://pbs.twimg.com/media/GV3Yjl5bMAAreIG?format=jpg&name=large)
-[Deborah Laws - Very Special](https://youtu.be/trgt59mXtW8?si=pyix6XFkbYDgf31P) [Miki Howard - Love Under New Management](https://www.youtube.com/watch?v=SReOKWeSKRM) [2nd Childhood - NAS](https://www.youtube.com/watch?v=A5nM66F903I) [Nas - Take it In Blood](https://www.youtube.com/watch?v=pmmnzusZZMU) [The Roots - Pointro Star](https://www.youtube.com/watch?v=AV9KwitVZAE) [The Roots - CLones](https://youtu.be/SsrCaVnHQjg?si=z7TtWdDlAQlsZJaU) [Bahamadia feat Da Roots Da_JAWN](https://youtu.be/1QOefzGx_L0?si=MX-OhX60TLloeRqn) [BahamaDia - Rugged Ruff Glorilla plz explore the song structure phillyhiphop](https://www.youtube.com/watch?v=OrYKESic7CI)
+
+## a few songs 
+
+[Deborah Laws - Very Special](https://youtu.be/trgt59mXtW8?si=pyix6XFkbYDgf31P) [Miki Howard - Love Under New Management](https://www.youtube.com/watch?v=SReOKWeSKRM) [Fearless Four - Rockin´ it](https://www.youtube.com/watch?v=XOHvOhADAic) [TheRoots feat. MosDef - Double Trouble](https://youtu.be/AmSUb5H5G0s?si=MBOK17rBA0iucppV) [Krs_oNE - A Friend](https://youtu.be/Xcat8N4143o?si=wv41zDo7NZARfA2F) [2nd Childhood - NAS](https://www.youtube.com/watch?v=A5nM66F903I) [Nas - Take it In Blood](https://www.youtube.com/watch?v=pmmnzusZZMU) [The Roots - Pointro Star](https://www.youtube.com/watch?v=AV9KwitVZAE) [The Roots - CLones](https://youtu.be/SsrCaVnHQjg?si=z7TtWdDlAQlsZJaU) [Bahamadia feat Da Roots Da_JAWN](https://youtu.be/1QOefzGx_L0?si=MX-OhX60TLloeRqn) [BahamaDia - Rugged Ruff Glorilla plz explore the song structure phillyhiphop](https://www.youtube.com/watch?v=OrYKESic7CI)
 [Normani - All Yours (Audio)](https://www.youtube.com/watch?v=iHS9gu-RZGQ) Normani i dont know where i am in girlfriend lessons. But this song hipped me to a lot... [treatment](https://www.youtube.com/watch?v=oVG-vQNbiJQ) 
 ![Erika Renee Johnson Kelly](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/CaptureErikA.PNG?raw=true)
 ![RingsOfSaturn](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/images/MOSHED-2024-4-24-15-54-24.jpg?raw=true)
@@ -37,7 +44,7 @@ I understand who you are, and where it all started. But i need you to know im no
 
 <iframe width="912" height="513" src="https://www.youtube.com/embed/x-x-eyZf8Ko" title="Normani - Waves (feat. 6LACK) (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Fearless Four - Rockin´ it](https://www.youtube.com/watch?v=XOHvOhADAic) [TheRoots feat. MosDef - Double Trouble](https://youtu.be/AmSUb5H5G0s?si=MBOK17rBA0iucppV) [Krs_oNE - A Friend](https://youtu.be/Xcat8N4143o?si=wv41zDo7NZARfA2F)
+
 
 ![Erika](https://pbs.twimg.com/media/GVssLnUa8AAIHU7?format=jpg&name=large)
 ![inbetween](https://pbs.twimg.com/media/GVssCi0a8AEYpIO?format=jpg&name=large)
