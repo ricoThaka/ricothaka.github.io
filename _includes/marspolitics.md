@@ -1,6 +1,6 @@
 
 
-[![4throck](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0003.png)]((https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0000.png) "Redirect to homepage")
+[![4throck](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0003.png)]((https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0003.png) "Redirect to homepage")
 
 <style>
 
@@ -23,7 +23,7 @@ I want you comfortable at Mission Control when we go back as a team. I got dumpe
 
 
 
-[![4throck](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0003.png)]((https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0000.png) "Redirect to homepage")
+[![birthrate](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0000.png)]((https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0000.png) "Redirect to homepage")
 
 How do you think the human race reproducing uncontrolled could in anyway lead to the end of humanity ?
 I am a father of 2 girls 2 baby mamas. If prostitution and porno did not exist, id be at the lab calculating orbits! They are slowing down the program... And im leaking pus from those dirty Arsenic rounds.
