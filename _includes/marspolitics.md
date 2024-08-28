@@ -45,3 +45,6 @@ I am wondering if i can revisit the face with coordinates. That dont look the sa
 I Tooka look at ALH84001 in my [worknotes](ricothaka.github.io/worknotes). I cannot get how the rock got here. The girl that dumped me after 2 decades of non sacred cult union + a successful ivf run was really into those Gem Shops in places like Long Beach and Telegraph in berkeley and there is a lot of fraud coming from those places some of them Grow the rocks. And they are belived to enhance telepathy. I belive in telepathy at a radio level. [The Cia Reading Room has some documents](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000200080050-9) that explore the concept. So this is the thing if the ladies are getting more telepathic its bc the material is conducting microwaves in thier cellular wifi melting pot. So I will look further into its origin as i read your book. 
 
 [![meteor](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0002.png)]((https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/4throckfromthesunchap1/0002.png) "Redirect to homepage")
+
+
+![vsco](https://pbs.twimg.com/media/GWF65kyasAABI6p?format=jpg&name=large)
