@@ -1,4 +1,15 @@
 
+## Twin of NASA’s Perseverance Mars Rover Begins Terrain Tests
+
+https://www.nasa.gov/wp-content/uploads/2021/11/ipia24525-e1-1041.jpg
+
+Jamie, I am getting confused. The person that put me down is a firefighter too and put me down there. Is there like some sort of equipment Flow Control? Bc [Optimism](https://www.nasa.gov/centers-and-facilities/jpl/twin-of-nasas-perseverance-mars-rover-begins-terrain-tests/)... I cant remember but I know He is going to talk to me soon, and I need to be ready Ms Bass! 
+`Updated with new features, including additional mobility software and the bulk of the sample caching system, the twin of NASA’s Perseverance Mars rover arrives at JPL’s Mars Yard garage on Oct. 29, 2021. Called OPTIMISM, the vehicle is used for testing commands before they are sent to Mars.`
+
+
+![KarenBassPicturedAngry](https://ca-times.brightspotcdn.com/dims4/default/3cc3d75/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F26%2Ff3%2F69e69f2948369e42d40828b9e5d4%2F1439311-me-0422-bass-budget-5-rcg.jpg)
+![KarenBassPicturedSick](https://imagez.tmz.com/image/a1/16by9/2024/04/21/a1cc51d8d124426491f6733efdb27888_xl.jpg)
+
 {% include marspolitics.md %}
 
 <style>

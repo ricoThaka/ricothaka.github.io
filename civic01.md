@@ -5,6 +5,9 @@
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
+
+[L.A. MAYOR KAREN BASS RESIDENCE BROKEN INTO ... While She Was Home!!!](https://www.tmz.com/2024/04/21/l-a-mayor-karen-bass-official-residence-broken-into-she-was-home/)
+
 # Rashard Kelly NASAJPL Mars Reconnicnee Orbiter
 ![missing](https://pbs.twimg.com/media/GG-5cMlaUAAC7fo?format=jpg&name=large)
 # Covid
