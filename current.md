@@ -7,6 +7,9 @@
 
 # Currently Compiling
 
+{% include computing.md %}
+
+
 <style>
   img[alt="MikiHoward"] {
   max-width: 45%;
