@@ -9,7 +9,13 @@
 
 
 
+[Building a Smarter Los Angeles: Data, Blockchain, and the Smart City By Ted Ross (MoCo Los Angeles)](https://www.youtube.com/watch?v=Z1nZTbnaZg0) [Smart LA SMartCities PDF](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)
 
+![SMART_LA](https://pbs.twimg.com/media/GWGyklMWwAEuQdB?format=jpg&name=large)
+
+
+Normani I dont know whats going on in your world. But I got my worknotes sored here. BlockQuote is heavily filtered at the library so I dont know what it really looks like
+![twitters](https://pbs.twimg.com/media/GWGwlp_bYAA6agV?format=jpg&name=large)
 [Use Jekyll Front Matter Defaults to set your layouts](https://www.johanbleuzen.fr/blog/use-jekyll-front-matter-defaults-set-layouts)
 [#HTML5 <video> source examples </video>](https://codepen.io/thakarashard/pen/BagQQaR?editors=1000)
 [Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
