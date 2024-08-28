@@ -1,3 +1,6 @@
+
+{% include marspolitics.md %}
+
 <style>
 
     img {
