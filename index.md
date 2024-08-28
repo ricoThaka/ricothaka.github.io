@@ -34,7 +34,8 @@ carousels:
     - image: /uploads/slider/image4.jpg
 
 ---
-[Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://www.youtube.com/watch?v=wWuFj_HAjYs) [Bahamadia - Sponteneity](https://www.youtube.com/watch?v=S6rxanIXIv8)
+[Big Daddy Kane & Kool G Rap Raw Alternate Unreleased Version](https://youtu.be/F1Zi-ErzyWY?si=0jotbKEyr2qLhUR6) [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://www.youtube.com/watch?v=wWuFj_HAjYs) [Bahamadia - Sponteneity](https://www.youtube.com/watch?v=S6rxanIXIv8) [Rico Nasty - Key Lime OG](https://youtu.be/-jeCRqnDqBc?si=6CvRQQJ20UTIJ5XQ)
+
 
 {% include_relative current.md %}
 
