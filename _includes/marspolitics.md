@@ -1,15 +1,10 @@
 
 
 <style>
-  img[alt="4throck"] {
-  max-width: 45%;
-  float: right;
-  clear:both;
-}
 
 
   img {
-  max-width: 55%;
+  max-width: 50%;
  
   clear:both;
 }
