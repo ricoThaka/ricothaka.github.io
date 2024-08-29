@@ -10,6 +10,33 @@
 
 
 Normani i took bouncing cats down bc of that "Something Over 200" error. Its also on 
+  
+# Sol 4185: Left Navigation Camera
+## CURIOSITY RAW IMAGES 
+  Broken wheel?
+<a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" title="Redirect to homepage"><img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" alt="homepage" /></a>
+
+  <div class="flex-container">
+   <div class="flex-items">  <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
+        <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" />
+</a></div>
+   <div class="flex-items">  <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
+<img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" />
+</a></div>
+</div>
+
+# Sol 4185: Left Navigation Camera
+## CURIOSITY RAW IMAGES
+<a href="https://mars.nasa.gov/raw_images/1334513/?site=msl">Credits: NASA/JPL-Caltech</a>
+  
+ Hi Jamie/Robin/Brenda
+  During my last time with you on campus i was told to explore the wheels! I guess you guys Saw my research to build a high powered grocery getter. I found this hole in the wheel about two months ago. The girls are really going through it right now and I really dont know what the future holds, but im dedicated to the mission. Jose Pi did not know i was real. I slap myself for running off when he said you cant come back. I learned a lot about working remote in Atlanta but i got fired twice bc i was having too much fun! I was completing tasks and training thier employees! PearsonEdu had a bunch of Windows admins and i tought them a lot of LinuxBased #DNS philosophy next thing you know im working remote and i have no income! If you are not in a office position ppl stop trusting you. I never knew my coworkeds went to MagicCity its a dark neighborhood secret and as we got older i aged out of the computer world in the east bc Normani got famous in BallroomDanceing and numbed the sex servant side to the eyes of the Public. Once i was seen with her it got really hard at work, I had no idea so much sabotage exisited. We got involved also be i was working 24.7 oncall "MissionCritical" support for Web.com and Ionic Security i saved them from Splunk issues so many times at night. I understand sleepcycles bc she became my friend. Im OnCall for them so "Be oncall for me" It was a freindship gesture. Now im friends with a sex slave, thats attracted to me! 
+  
+This image was taken by Left Navigation Camera onboard NASA’s Mars rover Curiosity on Sol 4185 (2024-05-15 04:55:27 UTC). 
+ 
+ 
+
+  <embed width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1154196106&color=%23732e07&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
 
 [Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom](https://www.youtube.com/watch?v=qxyxqVDjSzs) [Queen Latifah - Just Another Day](https://www.youtube.com/watch?v=FLYu4jT5Ez4)[Nonchalant - 5 O'Clock](https://www.youtube.com/watch?v=Pvrxord-sbM) [Jean Grae - Love Song](https://www.youtube.com/watch?v=hrWL7ieIU7A) [Gladys Knight & The Pips - Save the Overtime (For Me) (vintage bboy footage)](https://www.youtube.com/watch?v=Y36aBTuRr1o)[Big Daddy Kane & Kool G Rap Raw Alternate Unreleased Version](https://youtu.be/F1Zi-ErzyWY?si=0jotbKEyr2qLhUR6) [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://www.youtube.com/watch?v=wWuFj_HAjYs) [Bahamadia - Sponteneity](https://www.youtube.com/watch?v=S6rxanIXIv8) [Rico Nasty - Key Lime OG](https://youtu.be/-jeCRqnDqBc?si=6CvRQQJ20UTIJ5XQ) [Rashard Kelly injury update offline](https://archive.org/details/vid-20240815-062510) [RiCOTHAKA.GiTHUB.iO for more](https://ricothaka.github.io/civic01) [CompilingTheBlog=Updated](https://thakarashard.github.io/compiling/dispostionthestory)
