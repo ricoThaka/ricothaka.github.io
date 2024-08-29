@@ -7,10 +7,13 @@
 
 # Currently Compiling
 
+
+
+Normani i took bouncing cats down bc of that "Something Over 200" error. Its also on 
+
+
 [Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom](https://www.youtube.com/watch?v=qxyxqVDjSzs) [Queen Latifah - Just Another Day](https://www.youtube.com/watch?v=FLYu4jT5Ez4)[Nonchalant - 5 O'Clock](https://www.youtube.com/watch?v=Pvrxord-sbM) [Jean Grae - Love Song](https://www.youtube.com/watch?v=hrWL7ieIU7A) [Gladys Knight & The Pips - Save the Overtime (For Me) (vintage bboy footage)](https://www.youtube.com/watch?v=Y36aBTuRr1o)[Big Daddy Kane & Kool G Rap Raw Alternate Unreleased Version](https://youtu.be/F1Zi-ErzyWY?si=0jotbKEyr2qLhUR6) [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://www.youtube.com/watch?v=wWuFj_HAjYs) [Bahamadia - Sponteneity](https://www.youtube.com/watch?v=S6rxanIXIv8) [Rico Nasty - Key Lime OG](https://youtu.be/-jeCRqnDqBc?si=6CvRQQJ20UTIJ5XQ) [Rashard Kelly injury update offline](https://archive.org/details/vid-20240815-062510) [RiCOTHAKA.GiTHUB.iO for more](https://ricothaka.github.io/civic01) [CompilingTheBlog=Updated](https://thakarashard.github.io/compiling/dispostionthestory)
-<iframe src="https://player.vimeo.com/video/11938213?h=4fd886812d&color=c2c2c2&byline=0&portrait=0" width="640" height="432" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/11938213">BOUNCING CATS  film trailer</a> from <a href="https://vimeo.com/nabilelderkin">nabil elderkin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
- 
+
 
 <cite> sup nabril</cite>
 
