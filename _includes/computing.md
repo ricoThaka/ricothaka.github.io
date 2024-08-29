@@ -1,10 +1,4 @@
 
-{% highlight ruby %} 
-1   # HOLE_TO_ANOTHER_UNiVERSE##########Computing #
-2   ####NEW_POSTS /worknotes /watchlist /civic01### #
-3 # ANOTHER##########https://s.id/1kmbG#############
-4 # UNiVERSE#############################Hi####CORaL### 
-{% endhighlight %}
 
 
 
@@ -17,7 +11,7 @@
 Normani I dont know whats going on in your world. But I got my worknotes sored here. BlockQuote is heavily filtered at the library so I dont know what it really looks like
 ![twitters](https://pbs.twimg.com/media/GWGwlp_bYAA6agV?format=jpg&name=large)
 [Use Jekyll Front Matter Defaults to set your layouts](https://www.johanbleuzen.fr/blog/use-jekyll-front-matter-defaults-set-layouts)
-[#HTML5 <video> source examples </video>](https://codepen.io/thakarashard/pen/BagQQaR?editors=1000)
+[#HTML5 video source examples ](https://codepen.io/thakarashard/pen/BagQQaR?editors=1000)
 [Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
 The CSS attribute selector matches elements based on the element having a given attribute explicitly set, with options for defining an attribute value or substring value match.[full article on mozilla_developer](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
 
