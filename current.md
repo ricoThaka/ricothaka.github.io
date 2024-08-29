@@ -11,12 +11,23 @@
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
+### [Tesla Coils at Griffith Observatory video](https://griffithobservatory.org/) 
 
-![Normani injured ?](https://i.dailymail.co.uk/1s/2024/05/02/06/84355311-0-image-a-270_1714498955523.jpg) 
+[Tesla coil is an electrical](https://en.wikipedia.org/wiki/Tesla_coil) resonant transformer circuit designed by inventor Nikola Tesla in 1891.[1] It is used to produce high-voltage, low-current, high-frequency alternating-current electricity.[2][3] Tesla experimented with a number of different configurations consisting of two, or sometimes three, coupled resonant electric circuits.
+
+<video controls 
+  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
+  poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/youtube-l14WDZCnz-w">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 ![Cardi and Normani](https://pbs.twimg.com/media/GRwXnx5acAU5nlb?format=jpg&name=large)
 
 ![Tabletop Mountain](https://pbs.twimg.com/media/GRwbIWPasAEVFpa?format=jpg&name=large)
-[Table Top Mountain NaSAJPL LOCATion](https://tmf.jpl.nasa.gov/tmf-lidar/about_us/personnel.htm) [Local LA](https://www.recreation.gov/camping/campgrounds/233735) [Table Mountain Campground](https://www.fs.usda.gov/recarea/angeles/recarea/?recid=41684) [Table Moutain Facility](https://tmf.jpl.nasa.gov/) [Table Mountain Observatory](https://en.wikipedia.org/wiki/Table_Mountain_Observatory) [Griffith Zoo to Observatory Loop](https://www.alltrails.com/trail/us/california/griffith-zoo-to-observatory-loop) [Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://ricothaka.github.io/) [Twitters](https://thakarashard.github.io/twitters/) is a [repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories) I made with some tweet where i talked about people effected by the [coviDrape](https://bristoluniversitypressdigital.com/view/journals/jgbv/6/2/article-p242.xml) of [east atlanta](https://sfi.usc.edu/collections/nanjing-massacre)
+[Table Top Mountain NaSAJPL LOCATion](https://tmf.jpl.nasa.gov/tmf-lidar/about_us/personnel.htm) [Local LA](https://www.recreation.gov/camping/campgrounds/233735) [Table Mountain Campground](https://www.fs.usda.gov/recarea/angeles/recarea/?recid=41684) [Table Moutain Facility](https://tmf.jpl.nasa.gov/) [Table Mountain Observatory](https://en.wikipedia.org/wiki/Table_Mountain_Observatory) [Griffith Zoo to Observatory Loop](https://www.alltrails.com/trail/us/california/griffith-zoo-to-observatory-loop) [Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Twitters](https://thakarashard.github.io/twitters/) is a [repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories) I made with some tweet where i talked about people effected by the [coviDrape](https://bristoluniversitypressdigital.com/view/journals/jgbv/6/2/article-p242.xml) of [east atlanta](https://sfi.usc.edu/collections/nanjing-massacre)
 > 23% increase of sexual and psychological violence reported in a survey of 13,786 people in Spain
 [The impact of COVID19 pandemic and government enforced lockdowns on levels of attendance and context of sexual assaults reported at Saint Marys Sexual Assault Referral Centre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10245237/#:~:text=Reports%20of%20intimate%20partner%20violence,in%20Peru%20increased%20by%2048%25) [A Second, Silent Pandemic: Sexual Violence in the time of COVID-19](https://info.primarycare.hms.harvard.edu/perspectives/articles/sexual-violence-and-covid)
 

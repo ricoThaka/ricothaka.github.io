@@ -1,5 +1,9 @@
 
-
+# URL Pairing
+Psuedo Selectors
+`https://developer.mozilla.org/en-US/docs/Web/CSS/::before + https://codepen.io/thakarashard/pen/mdYZrrV #TechnologyEducation #StemEducation pairing`
+Saturday Family Night Fantasy with [Pizza](https://www.youtube.com/watch?v=bCfH4c7RR6M)
+`https://www.retrogames.cc/arcade-games/red-earth-war-zard-euro-961121.html+https://archive.org/details/a137ee3e2a37701695abd791d95bfeaf-1080p`
 
 
 
@@ -61,8 +65,8 @@ Normani please look at this old post, it is a marker for how long i have been fo
 # Im working on CSS
 
 Since I'm publishing using [##GiTHUB_PAGES](https://pages.github.com/), alot of administration needs are met from my [GiTHUB_ACCOUNT](https://github.com/ThakaRashard), I can focus on coding. [Cascading Style Sheets is a legit programming language for the browser](http://www.csszengarden.com/216/). Using the site David Shea Started, I can get this Jekyll account to another level. I really need this book [The Zen of CSS](https://www.goodreads.com/en/book/show/565.The_Zen_of_CSS_Design) he published. I have to create navigation to my resume and create a contact page. Im using [GiTHUB Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) to manage individual pages right now because it is a small site and I want [psychological separation](https://www.separationadvice.net/psychological-separation/) which social media does not provide. I was blackballed on Linkedin for just not knowing enough for my age, and my family+romance life. Every woman that committed to me was sold into sex slavery and kidnapped by ##INSTAGRAM_PiMPS_and_MARKETED_iN_FACEBOOK_BROTHELS. They are still trafficked as prostitutes. IT people in the DEVOPS generation often fool themselves into thinking prostitution is normal and the family which is affected is the problem. This view has left people with familes discriminated against in the ##IT_MARKETPLACE, but here in Los Angeles after 2 years of homelessness, I sense my luck changing... So Im working hard to clean up my image and reputation outside social media, which has brought me closer to my family 
-## I_FOUND_EVERYONE_ALiVE_HERE_IN_SOUTHER_CALIFORNIA.\
-I miss my friend, the explosive barritone lows of his voice coupled with cruck ass beat production will be missed dearly, I hope this wiki iframe does not break scrolling on cellphones. I cant test touch screens at this point from [Palmdale Public Library's](https://cityofpalmdale.org/318/Palmdale-City-Library) traditional [Optiplex desktops](https://www.dell.com/en-us/work/shop/desktops-all-in-one-pcs/optiplex-5040-series-desktops/spd/optiplex-5040-desktop) 
+## I_FOUND_EVERYONE ALiVE_HERE_IN_SOUTHERn CALIFORNIA
+. I cant test touch screens at this point from [Palmdale Public Library's](https://cityofpalmdale.org/318/Palmdale-City-Library) traditional [Optiplex desktops](https://www.dell.com/en-us/work/shop/desktops-all-in-one-pcs/optiplex-5040-series-desktops/spd/optiplex-5040-desktop) 
 [Memphis police release photos of 2 suspects wanted over Young Dolph's shooting death](https://www.npr.org/2021/11/19/1057194115/memphis-police-suspects-wanted-young-dolph-murder)
 
 [Another bill again-Tony Rebel](https://www.youtube.com/watch?v=U9ZLAgyn2-Q) [McDonalds Ronald McDonald and Mayor McCheese in Space, 1978](https://youtu.be/nmL6pMQMBBk?si=LSk6f74OXwuxsFkq) [Another bill again-Tony Rebel](https://www.youtube.com/watch?v=U9ZLAgyn2-Q) [Astronaut Chick](https://www.youtube.com/watch?v=6kAsPbbp8GI) [Truth Gonna Hurt You](https://youtu.be/WBxjt78PG3s?si=NMtQTDZ7_AZMERGy) <~ late for work ? idk 
