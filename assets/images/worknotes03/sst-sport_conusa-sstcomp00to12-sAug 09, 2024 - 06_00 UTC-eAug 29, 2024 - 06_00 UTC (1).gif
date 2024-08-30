@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="cache-control" content="max-age=21600, must-revalidate">
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="/frameworks/bootstrap/css/bootstrap.min.css"
+    />
+
+    <link rel="stylesheet" type="text/css" href="/css/LiveData.css" />
+
+    <title>SPoRT Viewer</title>
+
+    <script src="gif.js"></script>
+    <script src="gif.worker.js"></script>
+    
+    <link
+      href="/css/font-awesome/css/all.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+  </head>
+
+  <body onload="javascript:firstRequest()" class="bg-image-sport body-sport">
+    <nav class="navbar navbar-expand-lg navbar-dark font-weight-bold dark-nav-sport dark-bg1-sport" style="font-size:1.1rem">
+<div class="container-fluid mx-1 mx-lg-3">
+  <a class="navbar-brand" href="/sport">
+    <img src="/sport/images/sportLogoHQ.png" width="50%" height="" alt="SPoRT Graphic">
+  </a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li >
+        <a class="dropdown-item rounded font-wght-700" href="/sport">Home</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="dropdown-item dropdown-toggle rounded font-wght-700" href="#" id="Data&ProductsDropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Data & Products</a>
+        <ul class="dropdown-menu" aria-labelledby="Data&ProductsDropdown">
+        <li>
+          <a class="dropdown-item"  href="/sport/viewer">SPoRT Viewer</a>
+        </li>
+        <li>
+          <a class="dropdown-item"  href="/GOES">GOES Viewer</a>
+        </li>
+        <li>
+          <a class="dropdown-item"  href="/sport/lightning-viewer">Lightning Viewer</a>
+        </li>
+        <li>
+          <a class="dropdown-item"  href="/nucaps-savvy">Savvy Viewer</a>
+        </li>
+        <li>
+          <a class="dropdown-item"  href="https://nssrgeo.ndc.nasa.gov">Data Access</a>
+        </li>
+        <li>
+          <a class="dropdown-item"  href="https://weather.ndc.nasa.gov/sport/case_studies/lis_CONUS.html">LIS Case Study</a>
+        </li>
+        <li>
+          <a class="dropdown-item"  href="/sport/statusmonitor/ingest.html">Ingest Status</a>
+        </li>
+        <li>
+          <a class="dropdown-item"  href="/sport/statusmonitor/products.html">Products Status</a>
+        </li>
+        <li>
+          <a class="dropdown-item"  href="/goeshealth/">GOES Health</a>
+        </li>
+        </ul>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="dropdown-item dropdown-toggle rounded font-wght-700" href="#" id="Training&AssessmentsDropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Training & Assessments</a>
+        <ul class="dropdown-menu" aria-labelledby="Training&AssessmentsDropdown">
+        <li>
+          <a class="dropdown-item"  href="/sport/training-repo/">Training Repository</a>
+        </li>
+        <li>
+          <a class="dropdown-item"  href="/sport/training/catalog">Training Catalog</a>
+        </li>
+        </ul>
+      </li>
+      <li >
+        <a class="dropdown-item rounded font-wght-700" href="/sport/splash/summits">Stakeholder Engagement</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="dropdown-item dropdown-toggle rounded font-wght-700" href="#" id="LibraryDropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Library</a>
+        <ul class="dropdown-menu" aria-labelledby="LibraryDropdown">
+        <li>
+          <a class="dropdown-item"  href="/sport/journal">Journal Publications</a>
+        </li>
+        </ul>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="dropdown-item dropdown-toggle rounded font-wght-700" href="#" id="AboutDropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+        <ul class="dropdown-menu" aria-labelledby="AboutDropdown">
+        <li>
+          <a class="dropdown-item" data-toggle="modal" data-target="#aboutModal" data-bs-toggle="modal" data-bs-target="#aboutModal" href="#">About SPoRT</a>
+        </li>
+        <li>
+          <a class="dropdown-item"  href="/sport/staff">Staff</a>
+        </li>
+        <li>
+          <a class="dropdown-item"  href="/sport/organization/partners.html">Collaborative Partners</a>
+        </li>
+        </ul>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="dropdown-item dropdown-toggle rounded font-wght-700" href="#" id="NewsDropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">News</a>
+        <ul class="dropdown-menu" aria-labelledby="NewsDropdown">
+        <li>
+          <a class="dropdown-item"  href="/sport/blog">Blog</a>
+        </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+</nav>
+
+    <!-- Dynamic header text, displaying page title and dataset/prod -->
+    <div class="container pt-2" style="max-width: 85%">
+      <!--
+      <div class="row text-center mb-2 border border-dark rounded border-2">
+        <h5 style="color:FireBrick" >
+          SPoRT recently experienced a disk failure resulting in issues with 
+          some of our product generation. We are currently working on a solution, 
+          but we do not yet have a return to service time. Please check back for updates. 
+        </h5>
+      </div>
+      -->
+      <div class="row text-center mb-2">
+        <h2 id="viewer-header" class="head-sport">SPoRT Viewer</h2>
+      </div>
+      <div class="row text-center mb-2">
+        <h4 id="main-header"></h4>
+      </div>
+
+      <!-- Mode/Group/Dataset/Product/Location selection dropdowns. -->
+      <div style="margin-left:auto; margin-right:auto; max-width:95%;"
+           class="row w-100 p-1 dark-bg1-sport rounded text-white" >
+        <div class="col-lg-6 text-center p-0 rounded" style="background-color: #092743;" >
+          <div class="row p-0 m-0 text-center">
+            <div class="col-xl-6 p-3 m-0 text-center">
+              <h5>Mode:</h5>
+              <div class="dropdown light-dropdown-sport show">
+                <button
+                  class="btn dropdown-toggle text-wrap"
+                  style="width:90%;"
+                  type="button"
+                  id="modeDropdownMenuButton"
+                  data-bs-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                  >
+                    Select
+                </button>
+                <div
+                  id="datamode_dropdown"
+                  class="dropdown-menu"
+                  aria-labelledby="modeDropdownMenuButton"
+                  ></div>
+              </div>
+            </div>
+            <div class="col-xl-6 p-3 m-0 text-center">
+              <h5>Dataset:</h5>
+              <div class="dropdown light-dropdown-sport show">
+                <button
+                  class="btn dropdown-toggle text-wrap"
+                  style="width:90%;"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#datasetCollapsible"
+                  aria-expanded="false"
+                  aria-controls="datasetCollapsible"
+                  >
+                  <!-- <button class="btn dropdown-toggle" type="button" id="datasetDropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" > -->
+                  <span id="datasetDropdownButtonText">Select</span>
+                </button>
+                <div
+                  class="collapse w-100"
+                  id="datasetCollapsible"
+                  style="position:absolute; z-index:1000;"
+                  >
+                  <div
+                    class="accordion rounded mx-3 mx-sm-4 mx-md-3"
+                    id="dataset_accordion"
+                    style="height: 400px; overflow-y:scroll; "
+                    ></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 text-center p-0 rounded" style="background-color: #092743;">
+          <div class="row p-0 m-0 text-center">
+            <div class="col-xl-6 p-3 m-0 text-center">
+              <h5>Product:</h5>
+              <div class="dropdown light-dropdown-sport show">
+                <button
+                  class="btn dropdown-toggle text-wrap"
+                  style="width:90%;"
+                  type="button"
+                  id="productDropdownMenuButton"
+                  data-bs-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  Select
+                </button>
+                <div
+                  id="product_dropdown"
+                  class="dropdown-menu"
+                  aria-labelledby="productDropdownMenuButton"
+                  ></div>
+              </div>
+            </div>
+            <div class="col-xl-6 p-3 m-0 text-center">
+              <h5>Location:</h5>
+              <div class="dropdown light-dropdown-sport show">
+                <button
+                  class="btn dropdown-toggle text-wrap"
+                  style="width:90%;"
+                  type="button"
+                  id="locationDropdownMenuButton"
+                  data-bs-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  Select
+                </button>
+                <div
+                  id="location_dropdown"
+                  class="dropdown-menu"
+                  aria-labelledby="locationDropdownMenuButton"
+                ></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Window frame with main image and buttons -->
+      <div class="row mt-3 align-items-center justify-content-between dark-bg1-sport rounded" >
+        <div
+          id="fsContainer"
+          class="p-1 col-sm-12 dark-bg1-sport rounded"
+        >
+          <div id="fsInnerContainer">
+          <!-- Active image frame -->
+          <div id="main_image_container" class="p-2 m-0 rounded" style="background-color: #092743" >
+
+            <img id="main_image" class="jusify-content-center img-fluid d-block mx-auto zoom not-fullscreen rounded" src="#">
+              <div class="mx-auto" id="img_progress_container">
+                <div id="img_progress" class="progress w-75" style="margin-left: auto; margin-right: auto;" >
+                  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%" >
+                    0%
+                  </div>
+                </div>
+              </div>
+            </img>
+
+          </div>
+
+          <!-- Image status and manipulation section -->
+          <div class="p-3 mt-2 rounded text-white" style="background-color: #092743">
+            <!--  Current image date label -->
+            <div class="row">
+              <h6 id="time_label" class="sport-head text-center"></h6>
+            </div>
+            <!-- Static image selection tickers -->
+            <div class="row mt-0 flex-grow-1 d-flex justify-content-center">
+              <div id="ticker_container" class="d-flex flex-wrap p-2 justify-content-center align-items-center" ></div>
+            </div>
+
+            <!-- Pause/Play/Seek buttons-->
+            <div class="row mt-1 mx-auto justify-content-center">
+                <button data-placement="right" class="btn m-1 light-button-sport" onclick="decrement()" style="display: table-cell; vertical-align: middle; width:38px; height:38px;">
+                  <span class="fa-solid fa-chevron-left fa-xs"></span>
+                </button>
+                <button id="playpause" onclick="toggleImageCycle()" type="button" class="btn m-1 light-button-sport" style="width:76px; height:38px;">
+                  <span class="fa-solid fa-play fa-xs"></span>
+                  <span class="fa-solid fa-pause fa-xs"></span>
+                </button>
+                <button data-placement="left" class="btn m-1 light-button-sport" onclick="increment()" style="display: table-cell; vertical-align: middle; width:38px; height:38px;">
+                  <span class="fa-solid fa-chevron-right fa-xs"></span>
+                </button>
+            </div>
+
+            <!-- Auto-update switch -->
+            <div class="row py-2 mt-1">
+              <div class="col d-flex justify-content-center">
+                <div class="form-check form-switch">
+                  <input type="checkbox" class="form-check-input" id="enableAutoUpdate">
+                  <label class="form-check-label" for="enableAutoUpdate">Auto Update</label>
+                </div>
+              </div>
+            </div>
+
+            <!-- Frame delay, starting/ending image, and image count. -->
+            <div class="row mt-1 mx-auto justify-content-center text-center">
+              <div class="col-xl-3 my-auto d-flex flex-column justify-content-center light-dropdown-sport show" style="max-width:250px">
+                  <label class="mt-2 mb-0 d-block" for="frame_delay">Frame delay (ms):</label>
+                  <input step="5" type="number" class="m-1 w-75 form-control mx-auto text-center" style="font-size:80%;" value="100" min="10" max="5000" id="frame_delay" />
+              </div>
+              <div class="col-xl-3 my-auto d-flex flex-column justify-content-center light-dropdown-sport show" style="max-width:250px">
+                  <label class="mt-2 mb-0 d-block">Starting Image:</label>
+                  <button class="btn m-1 dropdown-toggle" type="button"
+                          id="startDropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 85%" >
+                    Start Time
+                  </button>
+                  <div id="timestart_dropdown" class="dropdown-menu img-dropdown-select-font-sz"
+                       aria-labelledby="startDropdownMenuButton" style="font-family:monospace;" ></div>
+              </div>
+              <div class="col-xl-3 my-auto d-flex flex-column justify-content-center light-dropdown-sport show" style="max-width:250px">
+                  <label class="mt-2 mb-0 d-block">Ending Image:</label>
+                  <button class="btn m-1 dropdown-toggle" type="button"
+                          id="endDropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 85%" >
+                    End Time
+                  </button>
+                  <div id="timeend_dropdown" class="dropdown-menu img-dropdown-select-font-sz"
+                       aria-labelledby="endDropdownMenuButton" style="font-family: monospace;" ></div>
+              </div>
+              <div class="col-xl-3 my-auto d-flex flex-column justify-content-center light-dropdown-sport show" style="max-width:250px">
+                  <label class="mt-2 mb-0 d-block" for="images_to_display" >Image Count:</label >
+                  <input class="m-1 w-75 form-control mx-auto text-center" type="number" value="20" id="images_to_display" style="font-size:80%; align-items: center; background-color: #c7c7c7; color: #949494; " disabled />
+              </div>
+            </div>
+
+            <!-- GIF Download and information modal -->
+            <div class="row mt-1 mx-auto">
+              <div class="col-md-4 my-auto d-flex flex-column justify-content-start light-dropdown-sport show">
+                <div class="help-info-container text-center d-md-flex justify-content-start mt-4 mt-md-0" >
+                  <span class="button-tooltip" data-toggle="tooltip" data-placement="top">
+                  <button type="button" data-placement="left" class="btn m-1 light-button-sport" data-bs-toggle="modal" data-bs-target="#gif_modal" style="font-size:80%;">
+                    Download GIF
+                  </button>
+                  </span>
+                  </div>
+              </div>
+              <div class="col-md-4 my-auto d-flex flex-column text-center light-dropdown-sport show">
+              </div>
+              <div class="col-md-4 my-auto d-flex flex-column justify-content-center light-dropdown-sport show">
+                <div class="help-info-container text-center d-md-flex justify-content-end mt-4 mt-md-0" >
+                  <span class="button-tooltip" data-toggle="tooltip" data-placement="top" title="Click for help." >
+                    <button type="button" class="btn btn-sm light-button-sport" data-bs-toggle="modal" data-bs-target="#help-modal" >
+                      <i class="fa-solid fa-circle-question"></i>
+                    </button>
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <!-- GIF creation and static image looping options -->
+            <div id="start-stop" class="row mt-1 mx-auto text-center">
+              <div
+                class="col-md-3 my-auto d-flex flex-column justify-content-center light-dropdown-sport show"
+              >
+                <div class="row h-50 justify-content-center">
+                  <div id="auto_off" class="row text-center dropdown" style="display: block" >
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div>
+        <!-- Include the info and gif creation modals -->
+        <div class="modal" id="gif_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header dark-bg1-sport">
+        <h4 class="modal-title text-white">Generate Animation</h4>
+        <button
+          type="button"
+          class="btn-close"
+          style="background-color:white;"
+          data-bs-dismiss="modal"
+        ></button>
+      </div>
+      <div class="modal-body text-dark">
+        <p class="text-center">
+          Generate an animation from the selected data. Frames with red buttons
+          are excluded.
+        </p>
+        <div class="w-100 text-center">
+          <div class="col">
+            <div class="row">
+              <p class="mb-0 mx-auto">Slide to choose delay between frames:</p>
+            </div>
+            <div class="row mb-3 mt-2">
+              <input
+                type="range"
+                min="10"
+                max="5000"
+                value="100"
+                class="mx-auto"
+                id="delaySlider"
+                style="width: 50%"
+              />
+            </div>
+            <div class="row">
+              <p class="mb-0 mx-auto">Or enter delay below:</p>
+            </div>
+            <div class="mb-3">
+              <div class="mx-auto">
+                <div class="d-inline-block">
+                  <input
+                    type="number"
+                    class="mx-auto"
+                    id="gifDelayInput"
+                    min="10"
+                    max="5000"
+                  />
+                </div>
+                <div class="d-inline-block">
+                  <p>ms</p>
+                </div>
+                <div class="validation-error-container">
+                  <p
+                    id="gif-delay-validation-error"
+                    style="color: red; visibility: hidden"
+                  >
+                    Out of bounds! Enter a value between 10 and 5000.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p>
+            <input type="checkbox" id="stutter_gif" value="stutter_checkbox" />
+            <label for="stutter_gif">Lag Final Frame</label>
+          </p>
+        </div>
+        <button
+          id="generate_gif_button"
+          onclick="makeGif()"
+          class="d-block btn light-button-sport mx-auto mb-2"
+        >
+          Get Animation
+        </button>
+        <p
+          id="animation_loading"
+          style="display: none"
+          class="container text-center mt-3"
+        >
+          Loading...
+        </p>
+        <img
+          id="animation_image"
+          download="SPoRTAnimation"
+          class="img-fluid d-block mx-auto"
+          style="display: none"
+          src=""
+        />
+        <button
+          id="download_gif_button"
+          onclick="downloadGif()"
+          class="btn light-button-sport mx-auto mb-2 d-none mt-3"
+        >
+          Download Animation
+        </button>
+      </div>
+      <div class="modal-footer">
+        <button
+          type="button"
+          class="btn light-button-sport"
+          data-bs-dismiss="modal"
+        >
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div
+  class="modal fade"
+  id="help-modal"
+  tabindex="-1"
+  aria-labelledby="helpModalLabel"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+      <div class="modal-header dark-bg1-sport">
+        <h5 class="modal-title text-white" id="helpModalLabel">
+          How to use the SPoRT Viewer Site
+        </h5>
+        <button
+          type="button"
+          style="background-color:white;"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"
+        >
+          <span class="text-white" aria-hidden="true"></span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <span class="help-content">
+          <ul class="nav nav-pills" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+              <a
+                class="nav-link active"
+                id="intro-tab"
+                data-bs-toggle="tab"
+                href="#intro"
+                role="tab"
+                aria-controls="intro"
+                aria-selected="true"
+                >Intro</a
+              >
+            </li>
+            <li class="nav-item" role="presentation">
+              <a
+                class="nav-link"
+                id="data-product-selection-tab"
+                data-bs-toggle="tab"
+                href="#data-product-selection"
+                role="tab"
+                aria-controls="data-product-selection"
+                aria-selected="false"
+                >Data Product Selection</a
+              >
+            </li>
+            <li class="nav-item" role="presentation">
+              <a
+                class="nav-link"
+                id="image-loop-control-tab"
+                data-bs-toggle="tab"
+                href="#image-loop-control"
+                role="tab"
+                aria-controls="image-loop-control"
+                aria-selected="false"
+                >Image Loop Control</a
+              >
+            </li>
+            <li class="nav-item" role="presentation">
+              <a
+                class="nav-link"
+                id="gif-generation-tab"
+                data-bs-toggle="tab"
+                href="#gif-generation"
+                role="tab"
+                aria-controls="gif-generation"
+                aria-selected="false"
+                >GIF Generation</a
+              >
+            </li>
+          </ul>
+          <div class="tab-content" id="myTabContent">
+            <div
+              class="tab-pane fade show active"
+              id="intro"
+              role="tabpanel"
+              aria-labelledby="intro-tab"
+            >
+              <div class="help-pane-container">
+                <div class="help-pane-title">
+                  <h5 class="text-dark pt-4 text-center">
+                    <u>SPoRT Viewer Introduction</u>
+                  </h5>
+                </div>
+                <div class="help-pane-body mt-4">
+                  <p class="text-dark">
+                    The SPoRT Viewer is an interactive tool that displays
+                    dynamic imagery from various Earth Science resources.
+                    Imagery is categorized by dataset, product and location (if
+                    applicable). The SPoRT Viewer contains several tools which
+                    will be described in this guide.
+                  </p>
+                  <p class="text-dark">
+                    Imagery can be manually toggled through frame by frame, or
+                    can be animated. Animated data can be downloaded as a GIF
+                    file.
+                  </p>
+                  <p class="text-dark">
+                    Navigate through the tabs above to learn about the Viewer's
+                    tools and features.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div
+              class="tab-pane fade"
+              id="data-product-selection"
+              role="tabpanel"
+              aria-labelledby="data-product-selection-tab"
+            >
+              <div class="help-pane-container">
+                <div class="help-pane-title">
+                  <h5 class="text-dark pt-4 text-center">
+                    <u>Data Product Selection</u>
+                  </h5>
+                </div>
+                <div class="help-pane-body mt-4">
+                  <img
+                    src="media-dev/dataProductSelection.png"
+                    class="rounded"
+                    style="width: 100%"
+                    alt="Three dropdown buttons to select different datasets, products and locations (where applicable)."
+                  />
+                  <p class="text-dark mt-3">
+                    The data selection panel pictured above enables filtering by
+                    dataset, product, and location. The location dropdown will
+                    be conditionally populated for certain dataset-product
+                    combinations.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div
+              class="tab-pane fade"
+              id="image-loop-control"
+              role="tabpanel"
+              aria-labelledby="image-loop-control-tab"
+            >
+              <div class="help-pane-container">
+                <div class="help-pane-title">
+                  <h5 class="text-dark pt-4 text-center">
+                    <u>Image Control Loop</u>
+                  </h5>
+                </div>
+                <div class="help-pane-body mt-4">
+                  <img
+                    src="media-dev/imageControlLoopPanel.png"
+                    class="rounded"
+                    style="width: 100%"
+                    alt="Three dropdown buttons to select different datasets, products and locations (where applicable)."
+                  />
+                  <p class="text-dark mt-3">
+                    The Image Control Loop Panel contains several elements:
+                  </p>
+                  <ul class="text-dark border-bottom border-dark py-2">
+                    <li>Datetime Label</li>
+                    <li>Start Time Button</li>
+                    <li>End Time Button</li>
+                    <li>Image Sequence Bar</li>
+                    <li>Toggle Forward</li>
+                    <li>Toggle Backward</li>
+                    <li>Play/Pause Button</li>
+                    <li>Animation Delay Input</li>
+                    <li>New Data Check Period Input</li>
+                    <li>Automatic Update Switch</li>
+                    <li>Download GIF Button</li>
+                  </ul>
+                  <div class="img-ctrl-loop-item">
+                    <h6 class="text-dark">Datetime Label</h6>
+                    <p class="text-dark">
+                      Describes the date and UTC time the image was generated .
+                    </p>
+                  </div>
+                  <div class="img-ctrl-loop-item">
+                    <h6 class="text-dark">Start Time Button</h6>
+                    <p class="text-dark">
+                      Provides a selection of times at which the imagery loop
+                      will begin. The default start time is selected to ...
+                    </p>
+                    <p class="text-danger">
+                      Please note the the selected start time must be earlier
+                      than the selected end time.
+                    </p>
+                  </div>
+                  <div class="img-ctrl-loop-item">
+                    <h6 class="text-dark">End Time Button</h6>
+                    <p class="text-dark">
+                      Provides a selection of times at which the imagery loop
+                      will end. The default end time is selected to ...
+                    </p>
+                    <p class="text-danger">
+                      Please note the the selected end time must be later than
+                      the selected start time.
+                    </p>
+                  </div>
+                  <div class="img-ctrl-loop-item">
+                    <h6 class="text-dark">Image Sequence Bar</h6>
+                    <img
+                      src="media-dev/imageControlLoopExcludeImage.png"
+                      class="rounded mb-2"
+                      style="width: 100%"
+                      alt="Another section containing the following. A date and time stamp of the satellite image selected. A horizontal scrollbar with white boxes indicated the images in the sequence. A blue box indicated the current image that is being displayed in the sequence. And a red box indicating an image that is to be skipped when looping through the sequence of images."
+                    />
+                    <p class="text-dark">
+                      The image sequence bar, pictured above, displays the
+                      number of images that will be displayed based on your
+                      input selections for start time and end time, or for
+                      checking the "Automatically Update" checkbox.
+                    </p>
+                    <p class="text-dark">
+                      The blue square indicates the currently displayed image.
+                      To display a specific image in the sequence, double click
+                      the image's square. A single click will cause a white box
+                      to turn red, indicating the selected frame will be skipped
+                      within the sequence and left out of generated GIF
+                      animations.
+                    </p>
+                  </div>
+                  <div class="img-ctrl-loop-item">
+                    <h6 class="text-dark">Toggle Forward</h6>
+                    <p class="text-dark">
+                      The Toggle Forward Button represented by the right
+                      pointing chevron steps ahead in the image sequence.
+                    </p>
+                  </div>
+                  <div class="img-ctrl-loop-item">
+                    <h6 class="text-dark">Toggle Backward</h6>
+                    <p class="text-dark">
+                      The Toggle Backward Button represented by the left
+                      pointing chevron steps backward in the image sequence.
+                    </p>
+                  </div>
+                  <div class="img-ctrl-loop-item">
+                    <h6 class="text-dark">Play/Pause Button</h6>
+                    <p class="text-dark">
+                      Clicking this button will play or pause a continuous
+                      playback loop of satellite images.
+                    </p>
+                  </div>
+                  <div class="img-ctrl-loop-item">
+                    <h6 class="text-dark">Animation Delay Input</h6>
+                    <p class="text-dark">
+                      The Animation delay input box controls the rate of change
+                      between images in the image sequence.
+                    </p>
+                  </div>
+                  <div class="img-ctrl-loop-item">
+                    <h6 class="text-dark">New Data Check Period Input</h6>
+                    <p class="text-dark">
+                      This input field controls the time (in minutes), to check
+                      the server for new images to be displayed. This will
+                      update the timestamps of images available in the "Start
+                      Time" and "End Time" dropdowns. It will also affect the
+                      images that are displayed when the "Automatically Update"
+                      checkbox is checked.
+                    </p>
+                  </div>
+                  <div class="img-ctrl-loop-item">
+                    <h6 class="text-dark">Automatic Update Switch</h6>
+                    <p class="text-dark">
+                      The automatic update switch, when checked, will cause the
+                      "Start Time" and "End Time" dropdowns to disappear and an
+                      "Images to Display" input field to appear. This feature
+                      will display the latest "N" images, where "N" is the
+                      number entered in the "Images to Display" field. This
+                      feature uses the "New data check period" input field to
+                      determine how often to check the server for new images.
+                      Every time there is a new image, the image sequence is
+                      updated and the newest image is appended and the oldest
+                      image is discarded. The change of input field values when
+                      checking on this checkbox is depicted below.
+                    </p>
+                    <img
+                      src="media-dev/ImageControlLoopAutoUpdate.png"
+                      class="rounded mb-2"
+                      style="width: 100%"
+                      alt="Clicking on the automatic update checkbox causes the start time and end time dropdowns to disappear and the images to display input field to appear."
+                    />
+                  </div>
+                  <div class="img-ctrl-loop-item mt-3">
+                    <h6 class="text-dark">Download GIF Button</h6>
+                    <p class="text-dark">
+                      The Download GIF Button opens the GIF creator tool. For
+                      more information on this feature, click the "GIF
+                      Generation" tab at the top of this pop-up.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="tab-pane fade"
+              id="gif-generation"
+              role="tabpanel"
+              aria-labelledby="gif-generation-tab"
+            >
+              <div class="help-pane-container">
+                <div class="help-pane-title">
+                  <h5 class="text-dark pt-4 text-center">
+                    <u>GIF Generation</u>
+                  </h5>
+                </div>
+                <div class="help-pane-body mt-4">
+                  <img
+                    class="d-block mx-auto rounded"
+                    src="media-dev/gifImageCreatorPre.png"
+                    style="width: 40%"
+                    alt="A modal with option to create a gif for a sequence of selected satellite images."
+                  />
+                  <p class="text-dark mt-3">
+                    The GIF creator converts the current Viewer's animation
+                    configuration into a downloadable GIF file. To change the
+                    lag period between frames, use the slider or input a value
+                    directly into the text box. To include an additional period
+                    of lag time with the final frame, use the "Lag Final Frame"
+                    checkbox. Click the "Generate Animation" button to create
+                    the GIF and the "Download Animation" button to save the
+                    file.
+                  </p>
+                  <img
+                    class="d-block mx-auto rounded"
+                    src="media-dev/gifImageCreatorPost.png"
+                    style="width: 40%"
+                    alt="GIF generation modal view once the gif has been generated. An image is displayed with a loop of the image sequence and a download button is available."
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </span>
+      </div>
+      <div class="modal-footer" style="background-color: #3a3a3a">
+        <button
+          type="button"
+          class="btn light-button-sport"
+          data-bs-dismiss="modal"
+        >
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+      </div>
+    </div>
+
+    <!-- Template for Bootstrap 4 dropdown cells -->
+    <template id="dropdown_template">
+      <a id="dropdown_func" class="dropdown-item" href="#">
+        <span id="dropdown_label" style="color: #f4f4f4"></span>
+      </a>
+    </template>
+
+    <!-- Template for image selection/playback buffer ticker cells-->
+    <template id="ticker_template">
+      <div
+        id=""
+        class="mr-1 border border-dark"
+        style="width: 15px; height: 15px; background: white"
+      ></div>
+    </template>
+
+    <script src="/frameworks/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!--
+    <script>
+      $(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+      });
+    </script>
+    -->
+    <script src="/js/viewer/test/UpdateHandler.js"></script>
+    <script src="/js/viewer/test/DataMethods.js"></script>
+
+    <link href="/css/font-awesome/css/all.min.css" rel="stylesheet">
+<link href="/css/font-awesome/css/brands.min.css" rel="stylesheet">
+
+
+        <!-- About Us Modal Start -->
+         <div class="modal fade" id="aboutModal" tabindex="-1">
+           <div class="modal-dialog modal-xl">
+             <div class="modal-content">
+               <div class="modal-header dark-bg1-sport">
+                 <h5 class="modal-title text-white">About SPoRT</h5>
+                 <button type="button" class="close light-button-sport" data-dismiss="modal" data-bs-dismiss="modal" aria-label="Close">
+                   <span aria-hidden="true">&times;</span>
+                 </button>
+               </div>
+               <div class="modal-body">
+                 <p class="text-dark">
+                 The Short-term Prediction Research and Transition (SPoRT) center at NASA's Marshall Space Flight Center in Huntsville, AL is a NASA-funded activity with a vision of accelerating the translation of NASA science to applications by collaborating with researchers, innovators, and stakeholders.  SPoRT was established in 2002 and is funded under the NASA Earth Science Division Research and Analysis Program’s Weather and Atmospheric Dynamics Focus Area. Therefore, SPoRT’s early focus was on transitioning NASA products to the operational weather community to improve short-term forecasting with end users within the operational weather community (<i>e.g. National Oceanic and Atmospheric Administration National Weather Service</i>). Today SPoRT focuses on applied research and applications in 6 focus areas that span weather, atmospheric, and land surface topics with partnerships across government, academia, and the private sector (<a href="/sport/organization/partners.html" target="_blank">see Collaborative Partners</a>). A research-to-operations/operations-to-research paradigm (figure below) has been the basis for transitioning over 40 satellite products to stakeholders over 20 years.  The main goals of the SPoRT paradigm include (1) early and intentional interaction with stakeholders, (2) identifying and/or developing user-driven science solutions from NASA observations and research capabilities, (3) timely delivery of data products for early stakeholder testing and feedback, (4) integration of data products and capabilities in user formats, visualizations, and display systems, (5) targeted applications-based training highlighting use cases, examples, product advantages and limitations, (5) stakeholder assessments and product testing, and (6) prioritizing operations to research feedback to meet users’ needs and facilitate the sustained use of NASA data in applications. The SPoRT paradigm enables intentional interaction between scientists and stakeholders throughout the research-to-applications/applications-to-research lifecycle to develop innovative solutions through an iterative process that meet stakeholder needs, are tailored for their application, and promote sustained use of NASA observations and research capabilities.  SPoRT values innovation, collaboration, and engagement to bridge the gap between science and applications and maximize the benefit of NASA data for operations, applications, and decision making.
+                 </p>
+              </div>
+              <div class="text-center">
+                <img src="/sport/organization/SPoRT Process.png" id="sportProcessImage">
+              </div>
+              <div class="modal-footer dark-bg1-sport">
+                <button type="button" class="btn light-button-sport" data-dismiss="modal" data-bs-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- About Us Modal End -->
+
+
+
+<div class="container-fluid text-center dark-bg1-sport mt-3 pb-1" style="color:white">
+      <div class="row align-items-center">
+        <div class="col-3">
+          <img src="/images/nasalogohq-110x92.png" class="mx-auto" style="height:55px">
+        </div>
+        <div class="col-6" style="font-size: 0.8rem">
+          Technical Contact: Dr. Emily Berndt (emily.b.berndt@nasa.gov)<br>
+          Responsible Official: Dr. Andrew Molthan (andrew.molthan@nasa.gov)<br>
+          Page Curator: Paul Meyer (paul.meyer@nasa.gov)<br>
+           <a href="mailto:msfc-dl-sport-support@mail.nasa.gov">Support</a> 
+           &nbsp;&nbsp;&nbsp;
+           <a href="/disclaimer.html">Disclaimer</a>
+        </div>
+
+        <div class="col-3">
+          <a href="https://twitter.com/NASA_SPoRT"><i class="fas fa-brands fa-twitter fa-2x mr-1"></i></a>
+        </div>
+      </div>
+</div>
+
+<script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=MSFC&dclink=true"></script>
+
+
+
+  </body>
+</html>
