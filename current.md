@@ -10,7 +10,10 @@
 
 
 Normani i took bouncing cats down bc of that "Something Over 200" error. Its also on 
-  
+
+
+![AllMine?](https://eoimages.gsfc.nasa.gov/images/imagerecords/149000/149766/world_geos5_2022117_lrg.png)
+
 # Sol 4185: Left Navigation Camera
 ## CURIOSITY RAW IMAGES 
   Broken wheel?
