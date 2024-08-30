@@ -1,6 +1,46 @@
 
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1815908295237486%2F&show_text=true&width=269&t=0" width="269" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817735188388130%2F&show_text=true&width=267&t=0" width="267" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817770231717959%2F&show_text=true&width=267&t=0" width="267" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1822552604573055%2F&show_text=true&width=380&t=0" width="380" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1815908478570801%2F&show_text=false&width=269&t=0" width="269" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1815838748577774%2F&show_text=true&width=268&t=0" width="268" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824226337739015%2F&show_text=true&width=380&t=0" width="380" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824423871052595%2F&show_text=true&width=268&t=0" width="268" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1825108517650797%2F&show_text=true&width=268&t=0" width="268" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1826789947482654%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817774621717520%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824287461066236%2F&show_text=true&width=268&t=0" width="268" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1826789834149332%2F&show_text=true&width=266&t=0" width="266" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1826704570824525%2F&show_text=true&width=266&t=0" width="266" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1826704374157878%2F&show_text=true&width=269&t=0" width="269" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817770231717959%2F&show_text=true&width=267&t=0" width="267" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 <iframe src="https://trinket.io/embed/python3/ecd8629589?showInstructions=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DsQtk7bHhws?si=WA-RnlrS_R9ilDZz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/lft01orT8vL-ytFDm68qDw/699348415124045824" data-did="f45fb9420cf9b352c1343537399515d9001ce4b0"><a href="https://bubblegumfm01.tumblr.com/post/699348415124045824">https://bubblegumfm01.tumblr.com/post/699348415124045824</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/lft01orT8vL-ytFDm68qDw/698368090579288064" data-did="e4b644b4804c1aa21839e9163b9c7406eea77216"><a href="https://bubblegumfm01.tumblr.com/post/698368090579288064/shrekfionas-sweet-baby-like-it-when-you-bite">https://bubblegumfm01.tumblr.com/post/698368090579288064/shrekfionas-sweet-baby-like-it-when-you-bite</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/lft01orT8vL-ytFDm68qDw/706724207410708480" data-did="635093c4c691f16b213482df3ea7ce308e3e126f"><a href="https://bubblegumfm01.tumblr.com/post/706724207410708480/bubblegumfm01-keep-reading">https://bubblegumfm01.tumblr.com/post/706724207410708480/bubblegumfm01-keep-reading</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/lft01orT8vL-ytFDm68qDw/703666950393479168" data-did="c4791e37fbd380e7efdfa74e3f0cf0e198df9657"><a href="https://bubblegumfm01.tumblr.com/post/703666950393479168/wuhanchina-during-coronavirus-covid-quarantine">https://bubblegumfm01.tumblr.com/post/703666950393479168/wuhanchina-during-coronavirus-covid-quarantine</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/lft01orT8vL-ytFDm68qDw/698320200710389760" data-did="8aa17604757a59bc606435ad559e1c659d61a8d9"><a href="https://bubblegumfm01.tumblr.com/post/698320200710389760/watch-homeless-dtla-on-youtube">https://bubblegumfm01.tumblr.com/post/698320200710389760/watch-homeless-dtla-on-youtube</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
