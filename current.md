@@ -8,6 +8,11 @@
 # Currently Compiling
 
 
+# Tumblrs
+{% include tumblrs.md %}
+
+# covid
+{% include covid.md %}
 
 Normani i took bouncing cats down bc of that "Something Over 200" error. Its also on 
 
