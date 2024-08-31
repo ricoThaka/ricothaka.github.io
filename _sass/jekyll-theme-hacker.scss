@@ -14,26 +14,31 @@
 
 
 html {
-    font: normal 15px/19px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
-    sans-serif;
+    /* font: normal 15px/19px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
+    sans-serif; */
+    font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif; 
   background : #0D0D0D;
   background-image :
     linear-gradient(#262626 1px, transparent 0),
     linear-gradient(90deg, #262626 1px, transparent 0);
   background-size: 30px 30px;
-    font-family: "VT323", monospace;
+    /* font-family: "VT323", monospace; */
+    font-family: "Martian Mono", monospace; 
     background-attachment: fixed;   
     height: 100%;
     width: 100%;
   }
 
 p {
-  padding:5px;
+  padding:6px;
   display: flex;
   text-align: left;
   color: white;
-  background: black;
-  background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%);
+  background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+  center repeat;
+  /* background: black; */
+  /* background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%); */
   border-left: 1px solid dodgerblue;
   border-right: 1px solid #BFBFBF;
   column-count: auto;
