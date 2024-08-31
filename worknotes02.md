@@ -5,7 +5,21 @@
 Dear Nicky,
 
 I skipped ahead... I was sitting in [Saint_Francis](https://pbs.twimg.com/media/GWU8mdlbQAUEeSF?format=png&name=4096x4096) and i felt insecure, u know people are funny about Mars Research, The Metaphysics have abused ppl sexualy for years. I love how the images remove the fear that i am being strange. So [The Draw Of Cydonia](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_s_Face_on_Mars_in_3D_animation) you describe the [Design of the Tesla Coil ](https://www.teslacoildesign.com/), well not  the [design](https://archive.org/details/Giant_Robot_Volume_1_The_Night_the_Earth_Stood_Still), but you mention [Wardenclyff Tower](https://en.wikipedia.org/wiki/Wardenclyffe_Tower) which look like [Dalek](https://www.wired.com/2013/11/doctor-who-aliens/) kinda... i might be [looking up the wrong thing](https://archive.org/details/giant-robo-collection-1) but the structure is reminicent of the [Watts Towers in Los Angeles County](https://en.wikipedia.org/wiki/Watts_Towers) `33°56′19.46″N 118°14′27.77″W` While iot may be my DNS everything i find about them is that its an Art installations... `"Wireless Radio Station"` thats what got my attention! I have been getting online relationships organized and [Normani](https://www.jpl.nasa.gov/missions/dsn) is learning about the Facility. I have to get her clean from all that fraud working at [MagicCity](https://youtu.be/0dtGIjbe0r0?si=W5ESksjUFE63jQ2U) that place is such a burden. Anyway since u mention  [Wardenclyff Tower](https://www.youtube.com/watch?v=KIR7tcS5d8A) I want to talk to someone at work but they dont know alot but everything. I hate that they use vendor supplies, we should be all solaris if we wanna mason that shit, freebsd if we wanna tribal that shit
+## this is an old post
+I was at [Griffith](https://griffithobservatory.org/about/observatory-history/) and took some video Flikr Tourist style with my peice of shit ObamaPhone but the shits work, maybe watts towers was delivering wireless energy! Ile Los Angeles `Electric Avenue` has deeper meaning than we think. I know u get hit with [Electronic Weapons](https://www.northropgrumman.com/what-we-do/sea/electronic-warfare?utm_source=google&utm_campaign=fy23framework&utm_medium=kw&utm_audience=list_g&utm_content=null_null&utm_format=copy&utm_code=OTH-13321&source=OTH-13321&gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQs8sUIlvaJrzgE4ryeNoT45s4sopTlVVxUisXE0eERLyPZpRz7S8o8aAvmhEALw_wcB) but check it out the old Batman, its on the [homepage](ricothaka.github.io) but [u can have all the files](https://archive.org/download/batman-1943-episode-01) and its based in losangeles and the criminals fight with tasers this is the 1940s, what did Retail disrupt ?  
+### [Tesla Coils at Griffith Observatory video](https://griffithobservatory.org/) 
 
+[Tesla coil is an electrical](https://en.wikipedia.org/wiki/Tesla_coil) resonant transformer circuit designed by inventor Nikola Tesla in 1891.[1] It is used to produce high-voltage, low-current, high-frequency alternating-current electricity.[2][3] Tesla experimented with a number of different configurations consisting of two, or sometimes three, coupled resonant electric circuits.
+
+<video controls 
+  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
+  poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
+  >
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/youtube-l14WDZCnz-w">download it</a>
+  and watch it with your favorite video player!
+</video>
+<img src="https://static.wixstatic.com/media/13030e_72fb8381c931401fa1a73631c5ab09e4~mv2.png/v1/crop/x_0,y_824,w_3024,h_2712/fill/w_405,h_363,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/IMG_9561_HEIC.png" />
 
 [![Watts Towers](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Watts-towers.jpg/892px-Watts-towers.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Watts-towers.jpg/892px-Watts-towers.jpg "Redirect to homepage")
 ![FreeBSD](https://people.freebsd.org/~kuriyama/www/logo/logo-reverse.png)
