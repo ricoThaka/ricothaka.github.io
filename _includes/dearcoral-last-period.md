@@ -1,8 +1,34 @@
 
 
 ## Dear_Coral
-I want you to keep up with my Worknotes,m like its supersafe!
+I want you to keep up with [my Worknotes](https://ricothaka.github.io/worknotes02),like its supersafe! Your teachers should be interested, Im young and im assigned a lot of advanced duties at [NASAJPL](https://www.jpl.nasa.gov/social) its very #SocialMediaOrented but at the thing is I have to work independantly bc its like right up the street!
 
+![Savanah_decatur](https://media.tenor.com/9VyoIv_p4hsAAAAM/outkast-bop-n-step.gif)
+
+for your Atlanta history,I dont know hwo to tell you but your mom can go to jail. The [Kilo_Ali Album "Get This Party Started"](https://www.discogs.com/release/1492094-Kilo-Get-This-Party-Started) [Kilo Ali - Ghetto Drop 96 needleDrop](https://www.youtube.com/watch?v=3joY40VG73E)[Kilo Ali - Donkey Kong (Bankhead Bounce) 1995 Atlanta Classic needleDrop](https://youtu.be/-K6IT8NnQR4?si=_Rg9CBVCFs5vZPKF) 
+
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+              <img src="https://i.discogs.com/5kNyeb8BIKo1ofHfCl7EJEMGsGzUpGlVtAj0MbZjy3Q/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIw/OTQtMTcwOTg5NjY3/NS0zNzMwLmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+              <img src="https://i.discogs.com/bJdCZu-ttbzP9jP3vouBklrTaNgzlW8_vt7eSkhzSBQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIw/OTQtMTcwOTg5NjY3/Mi0xMTQ3LmpwZWc.jpeg" alt="Girl in a jacket" >
+      
+   </div>
+  </div>    
+ </div>
+</div>
+
+![Kilo ali](https://i.discogs.com/nRrXdtP6SCy9iLWDS8k-Wl9S6mviJ0dZYs-xKIg4Ilk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIw/OTQtMTcwOTg5NjUw/NS0xNDMxLmpwZWc.jpeg)
+
+What do you remember about me doing the sermon at [MAtt MArtain Funeral](https://youtu.be/uABHh5OGQHs?si=UdtVtSI52OjbYoE4) the [bmx](https://archive.org/details/rad-vhs-1986) rider? 
+
+
+<iframe src="https://archive.org/embed/rad-vhs-1986" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 --- 
 
 Im still trying to get through to willie, i hope he ok 
