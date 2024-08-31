@@ -6,11 +6,14 @@
 {% endhighlight %}
 
 # Currently Compiling
+[![Engraving of "The Vision of The Valley of The Dry Bones" by Gustave Doré](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg/800px-The_Vision_of_The_Valley_of_The_Dry_Bones.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg/800px-The_Vision_of_The_Valley_of_The_Dry_Bones.jpg "Redirect to homepage")
+
+[Watts Towers Tours](https://www.wattstowers.org/tours)
 
 ![firms](https://pbs.twimg.com/media/GWQNnBJbQAICSky?format=jpg&name=large)
 
 {% include dearcoral-last-period.md %}
-_includes/
+
 # Tumblrs
 {% include tumblrs.md %}
 
