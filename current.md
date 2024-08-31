@@ -7,12 +7,13 @@
 
 # Currently Compiling
 
+{% include dearcoral-last-period.md %}
 
 [Watts Towers Tours](https://www.wattstowers.org/tours)
 
 ![firms](https://pbs.twimg.com/media/GWQNnBJbQAICSky?format=jpg&name=large)
 
-{% include dearcoral-last-period.md %}
+
 
 # Tumblrs
 {% include tumblrs.md %}

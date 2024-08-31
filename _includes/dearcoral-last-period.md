@@ -1,4 +1,10 @@
 
+
+## Dear_Coral
+I want you to keep up with my Worknotes,m like its supersafe!
+
+--- 
+
 Im still trying to get through to willie, i hope he ok 
 
 ![Hello Kitty Graffiti](https://pbs.twimg.com/media/GVx_6qxWEAADv_N?format=jpg&name=medium)
