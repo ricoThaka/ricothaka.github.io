@@ -6,8 +6,8 @@
 {% endhighlight %}
 
 # Currently Compiling
-
-
+{% include dearcoral-last-period.md %}
+_includes/
 # Tumblrs
 {% include tumblrs.md %}
 
