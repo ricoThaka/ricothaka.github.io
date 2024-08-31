@@ -6,6 +6,9 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+![firms](https://pbs.twimg.com/media/GWQNnBJbQAICSky?format=jpg&name=large)
+
 {% include dearcoral-last-period.md %}
 _includes/
 # Tumblrs
