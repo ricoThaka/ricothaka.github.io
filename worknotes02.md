@@ -1,6 +1,14 @@
 
 
 
+# Cydonia to Watts?
+Dear Nicky,
+
+I skipped ahead... I was sitting in [Saint_Francis](https://pbs.twimg.com/media/GWU8mdlbQAUEeSF?format=png&name=4096x4096) and i felt insecure, u know people are funny about Mars Research, The Metaphysics have abused ppl sexualy for years. I love how the images remove the fear that i am being strange. So [The Draw Of Cydonia](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_s_Face_on_Mars_in_3D_animation) you describe the [Design of the Tesla Coil ](https://www.teslacoildesign.com/), well not  the design, but you mention [Wardenclyff Tower](https://en.wikipedia.org/wiki/Wardenclyffe_Tower) which look like [Dalek](https://www.wired.com/2013/11/doctor-who-aliens/) kinda... i might be [looking up the wrong thing](https://archive.org/details/giant-robo-collection-1)
+
+
+![The Draw Of Cydonia](https://pbs.twimg.com/media/GWU8mclbQAIhMer?format=png&name=4096x4096)
+![4thRockFromTheSun](https://pbs.twimg.com/media/GWU8mdlbQAUEeSF?format=png&name=4096x4096)
 # BrownBag 
 
 [![BrownBag https://x.com/thakasartu/status/1829935981501596100](https://pbs.twimg.com/media/GWU8mdba8AASDin?format=jpg&name=4096x4096)](https://pbs.twimg.com/media/GWU8mdba8AASDin?format=jpg&name=4096x4096 "Redirect to homepage")
