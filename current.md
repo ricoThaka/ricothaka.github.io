@@ -7,6 +7,98 @@
 
 # Currently Compiling
 
+![Ms_Bass](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZmbmU0ajB4ejJzZWg5MGp6amk4dG5pcmV6ZnFodDNwYzkwdWdiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gu8XqgfYOZyLsd4n3d/giphy.webp)
+
+# Ms Bass
+I want you to look at Atomic Red HEad post about the old [Uniroyal Tire Factory](https://www.latimes.com/archives/la-xpm-1990-11-30-me-5582-story.html). I need you to listen to her perspective. The people that make a lot of moves here dont know that its an ancient civilization! California was a satilitte of [Abyssinia](https://en.wikipedia.org/wiki/Ethiopian_Empire) millenia b4 a german waddled overhere! And the children have no respect for us! [Muni_Long](https://www.youtube.com/watch?v=vYa3ak-3p60) did some research and so did Erika and a few other girls i know with Ethioppian roots and determined that we were somalian egyptins or something... [OROMO](https://www.youtube.com/playlist?list=PLL2oNlnkQQGA1B8b0LZCz8SoFhGCZiera). Those are the children of  [Nebuchadnezzar II](https://quran.com/en/5:70/tafsirs/en-tafsir-maarif-ul-quran) moved the familyawayfromiRaq after an Ecological Attack and they settled near the [Garden Of Eden](https://anglo-ethiopian.org/publications/articles.php?type=L&reference=publications/articles/2011spring/paradise.php) in Ethiopia. At least thats where myBiblerearing brought me. So this is it.I have holes in myflesh leaking yellow fluid, if i go to UCLA they chop my legoff! And I get no access to my family likeim really mistreated personally bc i have a relationship with a popstar that got [victimizedbyporn](https://www.ajc.com/news/normani-talks-camila-cabello-racism-and-bullying-new-interview/1QoirFXkoiQYdH1Z0THkvN/) and its a system PlayBoy put in place to eliminate any trace of the africans rulership of this region. And since He was fromIraq and moved south to Ethiopia the asian Presence in Los Angeles makes sense! And We have similar things that pop out in group dance. i love normaNi for sharing that with me. Now when you read [Atomic_Redhead](https://x.com/atomic_redhead) aarticle about The Citadel I want you to examine the architechture and see if answers exist that NAsaJPL can use to reconcile e family  ![Ethiopian in PreColumbian America](https://pbs.twimg.com/media/GWbXMKvaQAAif_m?format=jpg&name=small)
+![Rolling Stone Normani](https://pbs.twimg.com/media/ER3fr_8WoAICxpW?format=jpg&name=small)
+
+<cite> But why an Assyrian inspired design? There are two thoughts on that. One is in the name of the company itself, Samson. Samson was a character from the Bible and known for his strength. “There’s the idea about strength in tires, and that tires are the foundation for your car,” said Adrian Scott Fine of the Los Angeles Conservancy. Fine also pointed to the fact that King Sargon’s palace, Dur-Sharrukin, had been in the headlines earlier in 1928, as it was being excavated by American archaeologists. And some of the images on the company’s main building reflect those of King Sargon.
+
+King Sargon reigned from 721 B.C. to 705 B.C. in what is now Khorsabad, Iraq. </cite> - [AtomicRedHead.cOm](https://atomicredhead.com/2019/02/05/the-outlet-mall-masquerading-as-an-assyrian-palace/)
+
+[Why LA's Citadel Looks Like An Ancient Assyrian Palace](https://laist.com/news/why-las-citadel-looks-like-an-ancie) [An Assyrian Palace Is Reborn as a Discount Outlet in a Fusion of Style and Savvy](https://www.latimes.com/archives/la-xpm-1991-02-03-re-648-story.html) [Who Knew #2 Before the Citadel Outlets the Tire Companies](https://lifeaccordingtoerick.blogspot.com/2014/08/who-knew-2-before-citadel-outlets-tire.html) [Proposed LA Metro Station](https://en.wikipedia.org/wiki/Citadel_Outlets) [Los Angeles: A Community of the Living and the Dead.](https://www.theartblog.org/2010/10/los-angeles-a-community-of-the-living-and-the-dead/) [The Outlet Mall Masquerading as an Assyrian Palace](https://atomicredhead.com/2019/02/05/the-outlet-mall-masquerading-as-an-assyrian-palace/)
+
+![Citadel](https://socallandmarks.com/index.php/2021/09/17/the-citadel-outlets/)
+![Citadel lifeaccordingtorick.blogspot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Dmq9JZUpJz1xIFmnPiXV55ykxBoBvnBdkzbXIBe_5NcvEslklMtJ8vQF-HmDsJlBkm6oBb34DVsTB9wZjjal8a7hKlr_E5-H_D5e3a49hMee_yJ6zRAF7oYmUlfOKGY2SuIBnPlL73NS/s1600/samson2.jpg)
+![citadel assyrian](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Citadel_Outlet_Los_Angeles_%284010395462%29.jpg/1024px-Citadel_Outlet_Los_Angeles_%284010395462%29.jpg)
+![atomicredhead.com](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel015.jpg?quality=100&strip=all&ssl=1)
+![cuniform](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel030.jpg?resize=765%2C510&quality=100&strip=all&ssl=1)
+![i c y](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel008.jpg?quality=100&strip=all&ssl=1)
+
+## I hope I dont offend you, I kept some things from Jehovahs witnesses but I personally threw watching "demonic_Movies" out of the window because I dont see anything wrong with non-exploitive folklore
+### Click_Tha_LiNKS
+[Vampire Hunter D (1985) [english-sub] [vostfr]](https://www.youtube.com/watch?v=sSr1WwuPmBs)
+[Vampire Hunter D Bloodlust English](https://www.youtube.com/watch?v=GEVHYLNf1mo)
+please let me know if either of these scrambles for you
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/K9HtSXwB1Fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<img src="https://i.discogs.com/NYONv2tIFfJic7c9aVtZ5SHgKLX0CpaAfOnFs9J9rsQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDMz/NDgtMTUyNDk5MTAy/MS0yMTI5LmpwZWc.jpeg">
+
+[BOB MARLEY and THE WAILERS - Soul Rebels LP 1970 Full Album](https://www.youtube.com/watch?v=w967mz2v_BY)
+
+[Quit social media | Dr. Cal Newport | TEDxTysons](https://www.youtube.com/watch?v=3E7hkPZ-HTk)
+[Learning to look up again – controlling your smartphone addiction | Ross Sleight | TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs)
+
+[The Dialect of Black Americans (1970)](https://www.youtube.com/watch?v=l5OYV3ewZQQ)
+
+[THE SECRET OF SELLING THE NEGRO (1954)](https://www.youtube.com/watch?v=E8PBrhFN35c)
+
+[How Smartphones Change The Way You Think | Jeff Butler | TEDxHilliard](https://www.youtube.com/watch?v=pWvSwX-jq7o&t=315s)
+[Learning to look up again – controlling your smartphone addiction | Ross Sleight | TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs)
+[From smartphone addiction to human connection | Ritzo ten Cate | TEDxBredaFrom smartphone addiction to human connection | Ritzo ten Cate | TEDxBreda](https://www.youtube.com/watch?v=B-sJ3vJxBiY)
+[Chappelle's Show - The Niggar Family - Uncensored](https://www.youtube.com/watch?v=hLOw_SzkRQ8)
+[Chappelle's Show - Charlie Murphy's True Hollywood Stories - Rick James Pt. 1 - Uncensored](https://www.youtube.com/watch?v=ZdVAH8Z5O90)
+[Chappelle's Show - The Wayne Brady Show - Uncensored](https://www.youtube.com/watch?v=X-zSJljpKNc)
+
+
+[Abandon Ship (feat. Rampage the Last Boy Scout)](https://www.youtube.com/watch?v=pptLcLcRJz4)
+[KRS-One - A Friend (Official Video)](https://www.youtube.com/watch?v=aj1Q7jDgrc4)
+[H.I.P.H.O.P. · KRS-One I Got Next ℗ 1997 Zomba Recording LLC](https://youtu.be/MkWP0udk754)
+[The Real Hip-Hop - Part II](https://youtu.be/ajwLy9BbFGA)
+[KRS-One - MC's Act Like They Don't Know](https://www.youtube.com/watch?v=_J-h_8dwyiM)
+[Lost Boyz - Lifestyles Of The Rich And Shameless](https://www.youtube.com/watch?v=0D-f01H6Kos)
+[Beasts From The East · Lost Boyz Love, Peace & Nappiness ℗ 1997](https://www.youtube.com/watch?v=hJ5y0jKlLVc)
+[Smif-N-Wessun - Sound Bwoy Bureill](https://www.youtube.com/watch?v=s5MogMGLWAA)
+[Onyx - Last Dayz - All We Got Iz Us](https://www.youtube.com/watch?v=rlpxQ_moU9o)
+[ONYX & Wu-Tang Clan - The Worst (Official Music Video)](https://www.youtube.com/watch?v=q1oa07Kw_RQ)
+[Canibus, Heltah Skeltah & Ras Kass-Uni-4-orm (1997)](https://www.youtube.com/watch?v=JE2RAVLFknk)
+[Redman - Creepin'](https://www.youtube.com/watch?v=HSc1BqDH9HI)
+[Channel Live ft. KRS-One - Mad-Izm](https://www.youtube.com/watch?v=H3vs_lXebYc)
+[Heltah Skeltah & OGC - Leflaur Leflah Eshkoshka](https://www.youtube.com/watch?v=i4sW3jJuVDg)
+[Mad Lion - Take It Easy](https://www.youtube.com/watch?v=VSpNJrppImg)
+[KRS-One - Step Into A World (Rapture's Delight)](https://www.youtube.com/watch?v=xbJxcFyaCpI)
+[Common ft. Talib Kweli, Sadat X & DJ Hi-Tek - 1-9-9-9 (Official Video)](https://www.youtube.com/watch?v=dMIXAYBoGBM)
+[Black Moon - Who Got Da Props](https://www.youtube.com/watch?v=58lZYDxHRV8)
+[Black Moon - How Many MC's...](https://www.youtube.com/watch?v=_-eVgV4PzX8)
+[Artifacts - Wrong Side Of Da Tracks](https://www.youtube.com/watch?v=GM92f-BUoow)
+[Meyhem Lauren - 'Got The Fever' NYC Graffiti New York City](https://www.youtube.com/watch?v=gg5cJu1Zcws)
+[KRS ONE - OUT FOR FAME (Rubens Video).wmv](https://www.youtube.com/watch?v=jhurGs6WBCw)
+[Seen, Can2, Cope2 & Zebster - Wallstreet Graffiti Meeting](https://www.youtube.com/watch?v=vVr296bJj2E)
+[Artifacts - Art of Graff](https://www.youtube.com/watch?v=Tn30EIvTKd4)
+[Artifacts - Art Of Facts (Jam-A-Holics Remix)](https://www.youtube.com/watch?v=3F7xEjfPHjA)
+[Artifacts - The Ultimate [Explicit]](https://www.youtube.com/watch?v=3WAq-n3qMpc)
+[Artifacts - C'mon Wit Da Git Down (Official Video) [Explicit]](https://www.youtube.com/watch?v=XimyEvDJWzA)
+[Digable Planets - 9th Wonder (Blackitolism)](https://www.youtube.com/watch?v=SyeI43BeR54)
+[Special Ed - I Got It Made (Official Video)](https://www.youtube.com/watch?v=N_9GuiE5Fck)
+[‘FX CREW’ (Graffiti Writers Crew) New York, 1998 [RARE full graff art VHS documentary archive]](https://www.youtube.com/watch?v=Jv7ECeiD1p4) [Tenor Saw - Who's Gonna Help Me Praise](https://www.youtube.com/watch?v=Bx9QB8qtehQ)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/895314484&color=%239c7434&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/temsbaby" title="Tems" target="_blank" style="color: #cccccc; text-decoration: none;">Tems</a> · <a href="https://soundcloud.com/temsbaby/free-mind" title="Free Mind" target="_blank" style="color: #cccccc; text-decoration: none;">Free Mind</a></div>
+<img src="https://video-images.vice.com/articles/584056ba5460bf4f35a54b57/lede/america-is-dying-slowly-resized-2.jpg">
+
+[America Is Dying Slowly Full](https://www.youtube.com/watch?v=mPCHG2VB4Hc)
+[20 Years Ago, Coolio, De La Soul, and the Rest of Rap Chipped in to Raise HIV/AIDS Awareness](https://www.vice.com/en/article/8gxb3b/20-years-ago-coolio-de-la-soul-and-the-rest-of-rap-chipped-in-to-raise-hivaids-awareness)
+
+<img src="https://images.footlocker.com/is/image/EBFL2/D5874700_a3?wid=2000&hei=2000&fmt=png-alpha">
+<img src="https://images.footlocker.com/is/image/EBFL2/M8338800_a4?wid=2000&hei=2000&fmt=png-alpha">
+<img src="https://images.footlocker.com/is/image/EBFL2/H8010101_a5?wid=2000&hei=2000&fmt=png-alpha">
+<img src="https://images.footlocker.com/is/image/EBFL2/C9450100_a3?wid=2000&hei=2000&fmt=png-alpha">
+<img src="https://images.footlocker.com/is/image/EBFL2/Q7783600_a4?wid=2000&hei=2000&fmt=png-alpha">
+
+
+
 {% include dearcoral-last-period.md %}
 
 [Watts Towers Tours](https://www.wattstowers.org/tours)
