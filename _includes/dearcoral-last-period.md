@@ -1,7 +1,7 @@
 
 
 ## Dear_Coral
-I want you to keep up with [my Worknotes](https://ricothaka.github.io/worknotes02),like its supersafe! Your teachers should be interested, Im young and im assigned a lot of advanced duties at [NASAJPL](https://www.jpl.nasa.gov/social) its very #SocialMediaOrented but at the thing is I have to work independantly bc its like right up the street!
+I want you to keep up with [my Worknotes](https://ricothaka.github.io/worknotes02),like its supersafe! Your teachers should be interested, Im young and im assigned a lot of advanced duties at [NASAJPL](https://www.jpl.nasa.gov/social) its very #SocialMediaOrented but at the thing is I have to work independantly bc its like right up the street! i also made a page with some [FacebookVideos you are in](https://ricothaka.github.io/sandbox) you have to scroll down bc there is a [Python Interpeter](https://trinket.io/python3/ecd8629589) and [Normani song abt a Fight i think we had, an she corrected my energy, im not as angry](https://youtu.be/DsQtk7bHhws)
 
 ![Savanah_decatur](https://media.tenor.com/9VyoIv_p4hsAAAAM/outkast-bop-n-step.gif)
 
@@ -25,10 +25,21 @@ for your Atlanta history,I dont know hwo to tell you but your mom can go to jail
 
 ![Kilo ali](https://i.discogs.com/nRrXdtP6SCy9iLWDS8k-Wl9S6mviJ0dZYs-xKIg4Ilk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIw/OTQtMTcwOTg5NjUw/NS0xNDMxLmpwZWc.jpeg)
 
-What do you remember about me doing the sermon at [MAtt MArtain Funeral](https://youtu.be/uABHh5OGQHs?si=UdtVtSI52OjbYoE4) the [bmx](https://archive.org/details/rad-vhs-1986) rider? 
+# CoraL...
+
+What do you remember about me doing the sermon at [MAtt MArtain Funeral](https://youtu.be/uABHh5OGQHs?si=UdtVtSI52OjbYoE4) the [bmx](https://archive.org/details/rad-vhs-1986) rider? cHECK OUT rAD. idk ABOUT [kYLE hOCKADAY MAN](https://youtu.be/CCI2s7d4MmI?si=wB5n0JluUIGarF1g) he haD A COVID album, that shit was nasty. [Normani]() might know his girl, ppl man im [Kae HOCK 1738](https://youtu.be/TYW0uRhwLVw?si=M6ok-OTYHSrOYgT10) [Coral if the JWs did not lie about everything this is your cousin he can rap good](https://youtu.be/ILCLlx0LF14?si=5FMOTITTFnViCF12) [He Struggle with Homelessness](https://youtu.be/SefzHm8AVoI?si=93piihxjZRAQIehw) I was really into working so i missed a lot man, he has a [posse of girls](https://youtu.be/0lMNMwTB5M8?si=nhUC8kjBJzyrPC4Y) that wanted him too, like 3-5 like the Quran say. I think Playboy was torturing him a long time ago, I was in Jehovahs witnesses and boy i risked my life for him bc by text book definiition he was an apostate for repeat fornication and weed consumption, i had to warn him bc he my cousin. I got nothing bad from god, that was normal. His big brother turned me on to [This BMX_Movie](https://youtu.be/7MCgFYzbom0?si=JIJlelx-sqYYxySC)
 
 
 <iframe src="https://archive.org/embed/rad-vhs-1986" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![Archade](https://media.tenor.com/-ogLspXJO0oAAAAM/fatal-fury.gif)
+[ShortCircuit](https://youtu.be/savkuEQKz8Q?si=ku7dTUP7wJn-1ZMp) [FatalFUry SCiFi Channel Broadcast](https://youtu.be/9j7bFmW8Mz4?si=Eoe22v5oKb8II2_l) this is how i saw the movies! watch the commercials and everything 
+
+![fatalFury](https://archive.org/download/FatalFurySpecialUSA800dpi48bit/Fatal%20Fury%20Special_USA_Manual_Front_and_Back_800dpi_48bit.jpg.)
+![FatalFury](https://ia800905.us.archive.org/27/items/FatalFurySpecialUSA800dpi48bit/Fatal%20Fury%20Special_USA_Back_800dpi_48bit.jpg)
+
+<iframe src="https://archive.org/embed/arcade_fatfury3" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 --- 
 
 Im still trying to get through to willie, i hope he ok 
