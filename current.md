@@ -6,12 +6,15 @@
 {% endhighlight %}
 
 # Currently Compiling
-
 [T.I. vs. T.I.P.](https://www.youtube.com/watch?v=m22FBIW8w1k) [DG Yola Fea. Goodie Mob "Get Some Of Dat Yola" ](https://www.youtube.com/watch?v=Rc1v8zcNhpI)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/679979270&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skyzoomusic" title="Skyzoo" target="_blank" style="color: #cccccc; text-decoration: none;">Skyzoo</a> · <a href="https://soundcloud.com/skyzoomusic/truck-jewels-feat-pete-rock" title="Truck Jewels" target="_blank" style="color: #cccccc; text-decoration: none;">Truck Jewels</a></div>
 
 [Omeretta The Great: SorryNot SorryYou Aint From](https://www.youtube.com/watch?si=Zi2yt5iayNqxS1h5&v=6IvchaA0B3Y&feature=youtu.be) [relatedTweet](https://x.com/MooNLOVER404/status/1830388299544121593)
+![weather](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeswestabiconus-09p61um-sSep%2003%2C%202024%20-%2018_16%20UTC-eSep%2003%2C%202024%20-%2019_51%20UTC.gif)
+![fff](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeswestabiconus-00p64um-sMay%2021%2C%202024%20-%2021_36%20UTC-eMay%2021%2C%202024%20-%2023_11%20UTC.gif)
+![ggg](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeseastabiconus-daycloudphase-sMay%2021%2C%202024%20-%2016_06%20UTC-eMay%2021%2C%202024%20-%2017_41%20UTC.gif)
+
 ![OmerettaTheGreat](https://pbs.twimg.com/media/GWbZZxTbAAEBT51?format=jpg&name=large)
 ![CitizenKane](https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
 [Citizen Kane 1941 Orson Welles](https://archive.org/details/citizen-kane-1941-orson-welles) [citizen Kane[1]on vimeo](https://vimeo.com/457349559) 
