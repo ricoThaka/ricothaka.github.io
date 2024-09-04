@@ -7,6 +7,13 @@
 
 # Currently Compiling
 
+## Normani if you are claiming me
+You have to talk about how im being burned and my hair has lice mounds, that sting when ppl spray they are dormant otherwise as i pick them off and scrape out the dust they scramble together some pairing for sex other wrestleing out of bordom [HairCare](https://youtu.be/PDyBIoY1MfU?si=M0DTqNs3udSBQlKE) they look like headlice, its the living in my head thing, and there is this goo that forms on the base of my folicles that they make the mounds out of .. its [LittleBigPlanetOnMyHEad!](https://www.youtube.com/watch?v=oh5mzqjgRj4&list=PL9H1ai1PRZ3P-Rn3EGf41afqag2nGggXl&index=121)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ga0y2Bn_oko?si=RIMk--7f-M63KDbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Isjeg9yKpVw?si=yTTqzcFhiMgqNWbW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 {% include webtools.md %}
 
 [T.I. vs. T.I.P.](https://www.youtube.com/watch?v=m22FBIW8w1k) [DG Yola Fea. Goodie Mob "Get Some Of Dat Yola" ](https://www.youtube.com/watch?v=Rc1v8zcNhpI)

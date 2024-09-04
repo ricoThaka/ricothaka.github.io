@@ -1,6 +1,4 @@
-## Normani if you are claiming me
-You have to talk about how im being burned and my hair has lice mounds, that sting when ppl spray they are dormant otherwise as i pick them off and scrape out the dust they scramble together some pairing for sex other wrestleing out of bordom [HairCare](https://youtu.be/PDyBIoY1MfU?si=M0DTqNs3udSBQlKE)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Isjeg9yKpVw?si=yTTqzcFhiMgqNWbW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ![Jupiter](https://science.nasa.gov/wp-content/uploads/2024/04/pia25031-junocam-giant-storms-and-high-clouds.jpg?w=768&format=webp)
 
