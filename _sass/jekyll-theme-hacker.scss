@@ -304,12 +304,29 @@ background-size: 80.4px 80.4px; */
   background-attachment: fixed;
 }
 
+
 h2 {
+  word-spacing: -.6ch;
+  font-kerning: auto;
+  letter-spacing: 2pt;
   background: transparent
     url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
-  font-size: 180%;
+  font-size: 40pt;
   color: white;
   font-family: Cluster;
+
+}
+
+
+h3 {
+  
+  text-shadow:
+  0 0 7px white,
+  0 0 10px #2e97f2,
+  0 0 21px white,
+  0 0 42px white;
+
+
 }
 
 /* Buttons
