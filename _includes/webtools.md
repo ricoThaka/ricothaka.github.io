@@ -1,4 +1,19 @@
 
+
+
+# Climate tool 4L8tR
+![NEO](https://neo.gsfc.nasa.gov/about/globes_banner.jpg)
+ [Welcome to NASA Earth Observations (NEO)](https://neo.gsfc.nasa.gov/)
+
+ One of the best places to study Earth is from space. NASA satellites continually orbit the globe, collecting information about Earth’s ocean, atmosphere, and land surfaces. Satellites can even monitor the activity of life forms, such as phytoplankton, from their remote vantage points. Satellite imagery provides the greatest benefit to the most people when it can be analyzed by anyone with an interest. NEO strives to make global satellite imagery as accessible as possible.
+
+<embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%2312bad0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+
+### [What is CERES?](https://ceres.larc.nasa.gov/)
+Climate is controlled by the amount of sunlight absorbed by Earth and the amount of infrared energy emitted to space. These quantities–together with their difference–define Earth’s radiation budget (ERB). [Get_Environment_Data](https://ceres.larc.nasa.gov/data/)
+![ceres data set](https://pbs.twimg.com/media/GP03qjvacAA0nTo?format=jpg&name=large)
+
 [GOES Satellite Network](https://science.nasa.gov/mission/goes/)
 ![GOES](https://science.nasa.gov/wp-content/uploads/2023/07/goes-r-padded-withearthreflectioninsolarpanel-.webp?w=4096&format=png)
 Geostationary Operational Environmental Satellites (GOES) is a collaborative NOAA and NASA program providing continuous imagery and data on atmospheric conditions and solar activity ( space weather ). NASA builds and launches the GOES and NOAA operates them.Geostationary Operational Environmental Satellites (GOES) is a collaborative NOAA and NASA program providing continuous imagery and data on atmospheric conditions and solar activity ( space weather ). NASA builds and launches the GOES and NOAA operates them. [GOES Image Viewer](https://www.star.nesdis.noaa.gov/goes/index.php) [GOES-East - Sector view: Southeast](https://www.star.nesdis.noaa.gov/goes/sector.php?sat=G16&sector=se)
