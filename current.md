@@ -6,6 +6,29 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+
+![insight](https://photojournal.jpl.nasa.gov/archive/PIA22892.gif)
+<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2023/06/color-image-of-pluto-pia20291-1.jpg">
+    
+<source src="https://photojournal.jpl.nasa.gov/archive/PIA20742_NH_MOV_CEN6A_lres.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://photojournal.jpl.nasa.gov/archive/PIA20742_NH_MOV_CEN6A_lres.mp4">MP4</a>
+        video.
+</video> 
+
+
+<video controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA19839.gif">
+    
+<source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4">MP4</a>
+        video.
+</video> 
+
+
 ![Mars_Rover](https://photojournal.jpl.nasa.gov/archive/PIA26344.gif)
 [RusH WorkingMan 1972](https://www.youtube.com/watch?v=IrxzRFj03Ro) [Jimi Hendrix Manic Depression - The Experiance](https://www.youtube.com/watch?v=xI-WVWM_GR0)[Houses Of The Holy - Led Zeppelin HD](https://www.youtube.com/watch?v=fPv2bbCTAfw)
 [[𝐜𝐥𝐚𝐬𝐬𝐢𝐜 𝐟𝐫𝐞𝐧𝐜𝐡 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭] oldies but goldies  famous old french songs](https://www.youtube.com/watch?v=DQByGm2y50Y) [Edith Piaf - La foule](https://www.youtube.com/watch?v=Fgn8gZHJZzA)
@@ -14,7 +37,6 @@ You have to talk about how im being burned and my hair has lice mounds, that sti
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ga0y2Bn_oko?si=RIMk--7f-M63KDbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Isjeg9yKpVw?si=yTTqzcFhiMgqNWbW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {% include webtools.md %}
 
