@@ -7,7 +7,7 @@
 
 # Currently Compiling
 
-[Jimi Hendrix Manic Depression - The Experiance](https://www.youtube.com/watch?v=xI-WVWM_GR0)[Houses Of The Holy - Led Zeppelin HD](https://www.youtube.com/watch?v=fPv2bbCTAfw)
+[RusH WorkingMan 1972](https://www.youtube.com/watch?v=IrxzRFj03Ro) [Jimi Hendrix Manic Depression - The Experiance](https://www.youtube.com/watch?v=xI-WVWM_GR0)[Houses Of The Holy - Led Zeppelin HD](https://www.youtube.com/watch?v=fPv2bbCTAfw)
 [[𝐜𝐥𝐚𝐬𝐬𝐢𝐜 𝐟𝐫𝐞𝐧𝐜𝐡 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭] oldies but goldies  famous old french songs](https://www.youtube.com/watch?v=DQByGm2y50Y) [Edith Piaf - La foule](https://www.youtube.com/watch?v=Fgn8gZHJZzA)
 ## Normani if you are claiming me
 You have to talk about how im being burned and my hair has lice mounds, that sting when ppl spray they are dormant otherwise as i pick them off and scrape out the dust they scramble together some pairing for sex other wrestleing out of bordom [HairCare](https://youtu.be/PDyBIoY1MfU?si=M0DTqNs3udSBQlKE) they look like headlice, its the living in my head thing, and there is this goo that forms on the base of my folicles that they make the mounds out of .. its [LittleBigPlanetOnMyHEad!](https://www.youtube.com/watch?v=oh5mzqjgRj4&list=PL9H1ai1PRZ3P-Rn3EGf41afqag2nGggXl&index=121)
