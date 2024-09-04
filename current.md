@@ -7,6 +7,7 @@
 
 # Currently Compiling
 
+{% include dearcoral-last-games.md %}
 
 ![insight](https://photojournal.jpl.nasa.gov/archive/PIA22892.gif)
 <video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2023/06/color-image-of-pluto-pia20291-1.jpg">
