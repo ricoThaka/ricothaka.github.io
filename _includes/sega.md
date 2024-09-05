@@ -26,7 +26,7 @@ G-LOC is notable for being one of the first video games to offer an R360 arcade 
 
 ![SonicCd](https://www.gogglebob.com/pics/fgc4/633title.gif)
 ![sega genesis](https://archive.org/download/sega-genesis-romset-ultra-usa/Sega%20Genesis.png)
-## SEGA Genesis – FJ846EUSASEGA
+## sEGA Genesis – FJ846EUsAsEGA
 Variation #1 – Sometimes referred to as the “Sonic” version. This version looks the same as the original but SEGA added the License Screen that would pop-up before each game, adding about 3-4 seconds to your initial wait time to get to the gaming. Also, from this revision on SEGA installed a “Lock-Out” chip for regional restrictions. The FCC-ID code for this unit is: FJ8USASEGA. [SEGA Genesis – FJ846EUSASEGA specs and info](https://gametrog.com/sega-genesis-1-2-3-information-specs/) [SEGA Genesis Romset Ultra (U) [!]Playable Romset](https://archive.org/details/sega-genesis-romset-ultra-usa) [Looking for a good ROM collection. /r/SEGAGENESIS](https://www.reddit.com/r/SEGAGENESIS/comments/y62pg5/looking_for_a_good_rom_collection/?rdt=41037) [FGC #633 Sonic CD](https://www.gogglebob.com/2022/09/09/fgc-633-sonic-cd/)
 ![Genesis_Box](https://i0.wp.com/gametrog.com/wp-content/uploads/2018/07/sega-genesis-box-front.png?w=800&ssl=1)
 ![genesis_back_box](https://i0.wp.com/gametrog.com/wp-content/uploads/2018/07/sega-genesis-box-back.png?w=800&ssl=1)

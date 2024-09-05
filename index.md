@@ -43,7 +43,7 @@ carousels:
 
 <a href="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg" style="width:213px;height:316px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
 
-## X-Men - Children Of The Atom (950105 USA)
+## X-Men - Children Of The Atom (950105 usa)
 X-Men: Children of the Atom (Japanese: エックス・メン　チルドレン　オブ　ジ　アトム, Hepburn: Ekkusu Men Chirudoren obu ji Atomu) is an arcade game that was produced by Capcom and released on the CP System II arcade hardware in 1994 in Japan and in 1995 in North America and Europe.
 
 Based on the X-Men comic book, it is the first fighting game produced by Capcom using characters under license from Marvel Comics. Released around the time of the mid-1990s X-Men animated series, the game features voice actors from the series reprising their roles. The game's plot is based on the "Fatal Attractions" story from the comics – players control one of the X-Men or their enemies in their fight against the villain Magneto. They face each of the other characters in the game in best of three one-on-one fighting matches, before battling Juggernaut and Magneto.
