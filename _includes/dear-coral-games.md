@@ -6,59 +6,6 @@ There are a lot of folklore and stories about graffiti writers. The guy that int
 <iframe src="https://archive.org/embed/arcade_spf2t" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
 
 
-<style>
-.gallery-rover {
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  height: 70vh;
-}
-
-.item {
-  flex: 1;
-  height: 100%;
-  background-position: center;
-  background-size: cover;
-  background-repeat: none;
-  transition: flex 0.8s ease;
-  
-  &:hover{
-    flex: 7;
-  }
-}
-
-.item-rover1 { 
-  background-image: url('https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00450/ids/edr/browse/edl/EBE_0450_0706921761_624ECM_N0260000EDLC00450_0050LUJ01_1200.jpg');
-}
-
-.item-rover2 { 
-  background-image: url('https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00000/ids/edr/browse/edl/ESF_0000_0666965708_609ECM_N0010052EDLC00000_0000LUJ01_1200.jpg');
-}
-
-.item-rover3 { 
-  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/1005.gif?w=768&format=webp');
-}
-
-.item-rover4 { 
-  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/1007.gif?w=768&format=webp');
-}
-
-.item-rover5 { 
-  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/25703_PIA24490_ncam_left_drive-web.gif?w=768&format=webp');
-}
-
-.social{
-  position: absolute;
-  right: 35px;
-  bottom: 0;
-  
-  img{
-    display: block;
-    width: 32px;
-  }
-}
-
-</style>
 
 Coral check out these images, this is the rover that was being prepared for launch when i was taking you to that fancy daycare in [Altedena](https://www.care.com/day-care/altadena-ca) 
 
