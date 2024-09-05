@@ -1,4 +1,8 @@
 ### Dear Coral
+
+
+### about ur mom(jusLisen)
+[Mary J. Blige - U + Me (Love Lesson) (Official Audio)](https://www.youtube.com/watch?v=NSh3Uh-kj_k) she was not stable and i did not lead a life that stablaized u. I hope u good...
 [Bob Marley - Babylon By Bus](https://youtu.be/CeyZMDslXW4?si=f10PoD-mNBuwbGkB) Coral i dont know the full story, but this album is great reggae and live performance ! [BobMarley RastaMan Vibration](https://youtu.be/B0gesoinua0?si=SioyAogYS5BwZMbr)]
 
 ![SPF](https://upload.wikimedia.org/wikipedia/en/a/a3/Puzzle_Fighter_flyer.png) 
