@@ -1,5 +1,16 @@
 
 
+<iframe src="https://archive.org/embed/Kid_Chameleon" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![MEGADRiVE](https://upload.wikimedia.org/wikipedia/commons/f/fd/JP_MegaDrive_Logo.gif)
+
+[Sonic the Hedgehog Rev 1](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en)
+Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihoggu?) is a platform video game developed by Sonic Team and published by Sega for the Sega Mega Drive/Genesis. First released in North America, Europe, and Australia on June 23, 1991, the game is the first installment in the Sonic the Hedgehog series 
+
+
+
+![Sonic1 Not For Resale](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)" 
+
 
 
 <img src="https://static.wixstatic.com/media/f82573_82967beba9b14c78854ac9b4bc557f18~mv2.png/v1/crop/x_191,y_124,w_2142,h_762/fill/w_590,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/sega-genesis-mini-logo.png" alt="genesis" /></p>

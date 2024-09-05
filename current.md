@@ -7,7 +7,8 @@
 
 # Currently Compiling
 
-{% include dearcoral-last-games.md %}
+{% include dear-coral-games.md %}
+
 
 ![insight](https://photojournal.jpl.nasa.gov/archive/PIA22892.gif)
 <video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2023/06/color-image-of-pluto-pia20291-1.jpg">
@@ -38,7 +39,7 @@ You have to talk about how im being burned and my hair has lice mounds, that sti
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ga0y2Bn_oko?si=RIMk--7f-M63KDbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+{% include sega.md %}
 {% include webtools.md %}
 
 [T.I. vs. T.I.P.](https://www.youtube.com/watch?v=m22FBIW8w1k) [DG Yola Fea. Goodie Mob "Get Some Of Dat Yola" ](https://www.youtube.com/watch?v=Rc1v8zcNhpI)
@@ -387,17 +388,6 @@ https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_0297_0693322301_098ECM_
 
 
 
-![MEGADRiVE](https://upload.wikimedia.org/wikipedia/commons/f/fd/JP_MegaDrive_Logo.gif)
-
-[Sonic the Hedgehog Rev 1](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en)
-Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihoggu?) is a platform video game developed by Sonic Team and published by Sega for the Sega Mega Drive/Genesis. First released in North America, Europe, and Australia on June 23, 1991, the game is the first installment in the Sonic the Hedgehog series 
-
-
-
-![Sonic1 Not For Resale](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)" 
-
-
-
 
 
 
@@ -555,7 +545,7 @@ A grid system provides an easy way for designers to structure and present conten
 ![Cardi like missed messages](https://pbs.twimg.com/media/GV3Yjl5bMAAreIG?format=jpg&name=large)
 
 {% include computing.md %}
-{% include sega.md %}
+
 
 
 ![pickup](https://pbs.twimg.com/media/GVyF015a8AEOLYG?format=jpg&name=large)
