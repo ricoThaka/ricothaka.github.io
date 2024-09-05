@@ -17,6 +17,7 @@ Rep karen. My managers at nasajpl new that erika was not helping with childcare 
 ![UserBlocked](https://pbs.twimg.com/media/GWvPTrCa8AELgdW?format=jpg&name=large) 
 ![FineFree](https://pbs.twimg.com/media/GWvQ7s5aYAAo_Hd?format=jpg&name=large)
 
+---
 
 [More than half of California is now ‘abnormally dry,’ drought experts say](https://www.sfchronicle.com/climate/article/california-drought-central-valley-19745303.php) [Newsom lifts drought declaration for most Californians, yet measures remain in some area](https://www.latimes.com/environment/story/2024-09-04/newsom-lifts-drought-measures-for-parts-of-california) [Gov. Gavin Newsom drops drought emergency for Southern California and Bay Area](https://www.cbsnews.com/losangeles/news/gov-gavin-newsom-drops-drought-emergency-for-southern-california-and-bay-area/) [Halfway through the water year, California-Nevada precipitation is near-normal, with above-normal snowpack.](https://www.drought.gov/drought-status-updates/california-nevada-drought-status-update-2024-04-15) [State Water Project Advances Efforts to Prepare for Future Droughts Amid a Changing Climate](https://water.ca.gov/News/News-Releases/2024/May-24/State-Water-Project-Advances-Efforts-to-Prepare-for-Future-Droughts-Amid-a-Changing-Climate) [Drought conditions have mostly disappeared in California. It’s a first in more than a decade](https://www.sfchronicle.com/weather/article/california-drought-recovery-19463866.php)
 ![People effected By the drought](https://pbs.twimg.com/media/GWvMTEubgAAcFGi?format=jpg&name=large)
