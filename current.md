@@ -8,6 +8,13 @@
 # Currently Compiling
 
 
+## Discs of Tron ![DiscsOfTron](https://upload.wikimedia.org/wikipedia/en/d/da/Discs_of_Tron_Flyer.png)
+Discs of Tron is the second arcade video game based on the 1982 Disney film Tron.[2][3] While the first Tron is a collection of four minigames, Discs of Tron is a single game inspired by Tron's disc-battles. It is set in an arena similar to the one in the jai alai–style sequence.
+[Archive](https://archive.org/details/arcade_dotron)
+<iframe src="https://archive.org/embed/arcade_dotron" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+## Run and Gun (ver EAA 1993 10.8)
+<iframe src="https://archive.org/embed/arcade_rungun" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # CiviC 03
 Erika, im talking about you in here. I forgive you, i have moved on sexually, even tho i still have feelings for you., Im not able to function and have to tell me story. I hope i dont needlessly offend you
 [Updates at ricoThaka](https://ricothaka.github.io/civic03) [ThakaRashard](thakarashard.github.io) Normani I dont know who nicki minaj is but whatever Muna Ahmed was thats the only person i made physical contact with other than you. Erika kissed me b4 it all ended it was gross
