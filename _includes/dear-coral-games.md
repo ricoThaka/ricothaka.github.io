@@ -1,6 +1,7 @@
 ### Dear Coral
 
-
+[Groove Theory - Come Home](https://youtu.be/MAz6QaL3Z8g?si=XsMBndqOUXuVZmS-)
+Coral I dont know the deets on groove theory but now i get a lot more. The girls at dance411 had a lot of intimate interaction with men that was not community supervised an sometimes them ppl songs be about real events, they may wanna reach out to you. Figure out how to be as public as possible without getting extra stlaked. I hope u good in the digital world. Roblox still?  [Groove Theory - Come Home](https://youtu.be/MAz6QaL3Z8g?si=XsMBndqOUXuVZmS-)
 ### about ur mom(jusLisen)
 [Mary J. Blige - U + Me (Love Lesson) (Official Audio)](https://www.youtube.com/watch?v=NSh3Uh-kj_k) she was not stable and i did not lead a life that stablaized u. I hope u good...
 [Bob Marley - Babylon By Bus](https://youtu.be/CeyZMDslXW4?si=f10PoD-mNBuwbGkB) Coral i dont know the full story, but this album is great reggae and live performance ! [BobMarley RastaMan Vibration](https://youtu.be/B0gesoinua0?si=SioyAogYS5BwZMbr)]
