@@ -1,5 +1,12 @@
 
+## [What is the Deep space Network?](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/what-is-the-deep-space-network/) 
+The Deep Space Network – or DSN – is NASA’s international array of giant radio antennas that supports interplanetary spacecraft missions, plus a few that orbit Earth. The DSN also provides radar and radio astronomy observations that improve our understanding of the solar system and the larger universe.
 
+The DSN is operated by NASA’s Jet Propulsion Laboratory (JPL), which also operates many of the agency’s interplanetary robotic space missions.
+The DSN consists of three facilities spaced equidistant from each other – approximately 120 degrees apart in longitude – around the world. These sites are at Goldstone, near Barstow, California; near Madrid, Spain; and near Canberra, Australia. The strategic placement of these sites permits constant communication with spacecraft as our planet rotates – before a distant spacecraft sinks below the horizon at one DSN site, another site can pick up the signal and carry on communicating.
+
+![dsn](https://pbs.twimg.com/media/GW0CK2_WcAAARO-?format=jpg&name=large)
+![dsn](https://www.nasa.gov/wp-content/uploads/2023/02/Canberra_3.jpg)
 ![Jupiter](https://science.nasa.gov/wp-content/uploads/2024/04/pia25031-junocam-giant-storms-and-high-clouds.jpg?w=768&format=webp)
 
 # [JunoCam](https://science.nasa.gov/gallery/junocam-images/)
