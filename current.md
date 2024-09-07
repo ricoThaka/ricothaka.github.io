@@ -7,7 +7,7 @@
 
 # Currently Compiling
 ### ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
-[Normani - Lights On](https://www.youtube.com/watch?v=6Rzd1ch_cvo)
+[Normani - Lights On](https://www.youtube.com/watch?v=6Rzd1ch_cvo) [Monica - So Gone](https://youtu.be/UE6zfOuYfVI?si=TMIp7w9KD08mvvYF)
 
 ![TMNT](https://m.media-amazon.com/images/I/91pD0WLbJYL._AC_UF1000,1000_QL80_.jpg)
 
