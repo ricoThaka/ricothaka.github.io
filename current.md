@@ -27,7 +27,10 @@
   </div>
 </div>
 
+![Rush](https://i.discogs.com/KLnJUaC8niAaQ3G1pKjBVsbIY-pzdH6zwX7nZv5WHZ0/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYy/Njc3LTE1MDkxNTgz/MDYtMTY3Ny5qcGVn.jpeg)
 ![RushCassette](https://m.media-amazon.com/images/I/51XLG-OID6L._UF1000,1000_QL80_.jpg)
+![RushCassettpaper](https://i.discogs.com/g50rHMOWF5gCgvzutWavk1aTvYOcVQJGCZfyTWZvDpE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYy/Njc3LTE1MDkxNTgy/OTEtNjc4NS5qcGVn.jpeg)
+
 ## File name: W00020096.jpg
 Taken: Nov. 28, 2006 5:06 PM
 Received: Nov. 29, 2006 8:55 AM
