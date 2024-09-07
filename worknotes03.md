@@ -1,5 +1,8 @@
 ![Covid isolated in humans](https://pbs.twimg.com/media/GVxP520aIAAZTvr?format=jpg&name=large)
 ![Covid](https://pbs.twimg.com/media/GVxO3btWsAASZFs?format=png&name=360x360) [EuropeanPatent](https://patentimages.storage.googleapis.com/1d/4e/4a/ac8914e765d645/EP3172319B1.pdf)
+![CovidWuHAn](https://pbs.twimg.com/media/GVx7wyfacAAYgJD?format=jpg&name=small)
+![CoronaVirus](https://pbs.twimg.com/media/GVx8ExwXsAAPTML?format=jpg&name=large)
+![poison not sicKness](https://pbs.twimg.com/media/GVx7xwZaEAAF2h2?format=jpg&name=small)
 {% include webtools.md %}
 {% include computing.md %}
 

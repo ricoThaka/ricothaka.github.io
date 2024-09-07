@@ -27,6 +27,7 @@ Rep karen. My managers at nasajpl new that erika was not helping with childcare 
 ![People effected By the drought](https://pbs.twimg.com/media/GWvMTEubgAAcFGi?format=jpg&name=large)
 ![Drought Risk](https://pbs.twimg.com/media/GWvMTCWWQAAq8OA?format=jpg&name=large)
 ![Dams in NorthAmerica](https://pbs.twimg.com/media/GWvMTCZWAAEEAJq?format=jpg&name=large)
+---
 
 <iframe src="https://worldview.earthdata.nasa.gov/?v=-145.98641239091234,21.246410811227694,-75.94544498808688,55.71969945480585&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,NDH_Drought_Mortality_Risks_Distribution_2000(hidden),NDH_Drought_Proportional_Economic_Loss_Risk_Deciles_2000(hidden),NDH_Drought_Hazard_Frequency_Distribution_1980-2000(hidden),GRanD_Dams,SSMI_DMSP_F8_Rain_Rate_Over_Oceans_Ascending,AMSRE_Surface_Precipitation_Rate_Day,BlueMarble_NextGeneration,VIIRS_NOAA21_CorrectedReflectance_TrueColor,VIIRS_NOAA20_CorrectedReflectance_TrueColor,VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor,MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2024-09-05-T18%3A55%3A55Z&em=true" role="application" sandbox="allow-modals allow-scripts allow-same-origin allow-forms allow-popups" width="100%" height="100%" allow="fullscreen; autoplay;" loading="lazy"></iframe>
 
