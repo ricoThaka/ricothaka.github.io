@@ -1,4 +1,57 @@
 
+
+## Badge of Shame - Breaking into Secure Facilities with OSDP - Dan Petro and David Vargas.mp4
+[Badge of Shame - Breaking into Secure Facilities with OSDP - Dan Petro and David Vargas.mp4](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/Badge%20of%20Shame%20-%20Breaking%20into%20Secure%20Facilities%20with%20OSDP%20-%20Dan%20Petro%20and%20David%20Vargas.mp4)
+![RFidExploits](https://pbs.twimg.com/media/GWz1dQGa8AAa7dm?format=jpg&name=large)
+
+![AiRSAR](https://airsar.jpl.nasa.gov/header.gif)
+
+### AIRSAR Operations Overview
+  
+Functionally, a typical AIRSAR operations can be divided into four main parts: (1) mission planning, (2) instrument maintenance and upgrades, (3) mission and flight operations, and (4) data processing and distribution. In reality, mission planning for the next year (and to some extent flight operations for the next year) takes place at the same time as data processing and distribution for the previous flight season. In this chapter a general discussion of AIRSAR operations is given.
+ 
+2-1 Flight Request/Approval
+
+AIRSAR flights are performed in response to flight requests submitted by the Principal Investigators (PIs) of NASA-sponsored scientific investigations and by sponsors from other organizations who contract to acquire AIRSAR data on a reimbursable basis. Appendix X contains a blank flight request, copies of which are available from the Aircraft Programs office at Ames Research Center in Mountain View, CA. A completed sample flight request is shown in Figure 2.X. Upon completion, flight requests should be sent to Ames Research Center and the relevant Program Manager at NASA Headquarters. Each year, usually in June, the cognizant NASA Headquarters Program Office reviews flight requests. Once NASA approves flight requests, Ames Research Center creates a mission schedule. Flight requests are typically due at Ames Research Center at the end of June each year, but a longer lead time may be necessary when a mission involves basing the DC-8 away from Moffett Field for extended periods.
+ 
+2-4 Flight Operations
+
+One of the most important phases of an AIRSAR campaign is the day to day flight operations when the AIRSAR data are acquired. For any given day a strawman flight plan is defined by the AIRSAR Experiment Scientist and passed on to the Ames navigators about two days before the actual flight is scheduled to take place. This lead time allows the navigators to generate an official flight plan and to file it with the relevant authorities for approval. In some cases, such as on deployments away from Moffett Field (and especially on deployments in foreign countries) flight plans must be filed well in advance of the actual flight date and last minute changes are not possible.
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://airsar.jpl.nasa.gov/cgi-bin/map.pl"><img src="https://pbs.twimg.com/media/GW1MTfta8AAFTf-?format=png&name=900x900"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://airsar.jpl.nasa.gov/cgi-bin/map.pl"><img src="https://pbs.twimg.com/media/GW1MTfxaoAAS2Ki?format=png&name=900x900"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://airsar.jpl.nasa.gov/cgi-bin/map.pl"><img src="https://pbs.twimg.com/media/GW1MTfta8AAFTf-?format=png&name=900x900"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://airsar.jpl.nasa.gov/cgi-bin/map.pl"><img src="https://pbs.twimg.com/media/GW1Ol27a8AEq80d?format=jpg&name=4096x4096"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+![AiRSAR](https://pbs.twimg.com/media/GW1MTljXoAIzQ8W?format=jpg&name=large)
+
 ## [What is the Deep space Network?](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/what-is-the-deep-space-network/) 
 The Deep Space Network – or DSN – is NASA’s international array of giant radio antennas that supports interplanetary spacecraft missions, plus a few that orbit Earth. The DSN also provides radar and radio astronomy observations that improve our understanding of the solar system and the larger universe.
 

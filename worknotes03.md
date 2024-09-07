@@ -1,3 +1,5 @@
+![Covid isolated in humans](https://pbs.twimg.com/media/GVxP520aIAAZTvr?format=jpg&name=large)
+![Covid](https://pbs.twimg.com/media/GVxO3btWsAASZFs?format=png&name=360x360) [EuropeanPatent](https://patentimages.storage.googleapis.com/1d/4e/4a/ac8914e765d645/EP3172319B1.pdf)
 {% include webtools.md %}
 {% include computing.md %}
 
