@@ -7,6 +7,27 @@
 
 # Currently Compiling
 
+[Quit social media  Dr. Cal Newport  TEDxTysons](https://www.youtube.com/watch?v=3E7hkPZ-HTk) [Learning to look up again – controlling your smartphone addiction   Ross Sleight   TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs) [The Dialect of Black Americans (1970)](https://www.youtube.com/watch?v=l5OYV3ewZQQ) [THE SECRET OF SELLING THE NEGRO (1954)](https://www.youtube.com/watch?v=E8PBrhFN35c) [How Smartphones Change The Way You Think | Jeff Butler | TEDxHilliard](https://www.youtube.com/watch?v=pWvSwX-jq7o&t=315s) [Learning to look up again – controlling your smartphone addiction  Ross Sleight  TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs) [From smartphone addiction to human connection  Ritzo ten Cate  TEDxBredaFrom smartphone addiction to human connection  Ritzo ten Cate  TEDxBreda](https://www.youtube.com/watch?v=B-sJ3vJxBiY) [Chappelle's Show - The Niggar Family - Uncensored](https://www.youtube.com/watch?v=hLOw_SzkRQ8) [Chappelle's Show - Charlie Murphy's True Hollywood Stories - Rick James Pt. 1 - Uncensored](https://www.youtube.com/watch?v=ZdVAH8Z5O90) [Chappelle's Show - The Wayne Brady Show - Uncensored](https://www.youtube.com/watch?v=X-zSJljpKNc)
+
+
+## [R̲u̲sh - R̲u̲sh 1974](https://www.youtube.com/watch?v=YeAnzAaN0ZU)
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://www.youtube.com/watch?v=YeAnzAaN0ZU"><img src="https://pbs.twimg.com/media/GW5ATyda8AI___w?format=jpg&name=small"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://www.youtube.com/watch?v=YeAnzAaN0ZU"><img src="https://pbs.twimg.com/media/GW5ALhsa8AEcrnp?format=jpg&name=medium"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+![RushCassette](https://m.media-amazon.com/images/I/51XLG-OID6L._UF1000,1000_QL80_.jpg)
 ## File name: W00020096.jpg
 Taken: Nov. 28, 2006 5:06 PM
 Received: Nov. 29, 2006 8:55 AM
@@ -127,19 +148,6 @@ please let me know if either of these scrambles for you
 
 [BOB MARLEY and THE WAILERS - Soul Rebels LP 1970 Full Album](https://www.youtube.com/watch?v=w967mz2v_BY)
 
-[Quit social media | Dr. Cal Newport | TEDxTysons](https://www.youtube.com/watch?v=3E7hkPZ-HTk)
-[Learning to look up again – controlling your smartphone addiction | Ross Sleight | TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs)
-
-[The Dialect of Black Americans (1970)](https://www.youtube.com/watch?v=l5OYV3ewZQQ)
-
-[THE SECRET OF SELLING THE NEGRO (1954)](https://www.youtube.com/watch?v=E8PBrhFN35c)
-
-[How Smartphones Change The Way You Think | Jeff Butler | TEDxHilliard](https://www.youtube.com/watch?v=pWvSwX-jq7o&t=315s)
-[Learning to look up again – controlling your smartphone addiction | Ross Sleight | TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs)
-[From smartphone addiction to human connection | Ritzo ten Cate | TEDxBredaFrom smartphone addiction to human connection | Ritzo ten Cate | TEDxBreda](https://www.youtube.com/watch?v=B-sJ3vJxBiY)
-[Chappelle's Show - The Niggar Family - Uncensored](https://www.youtube.com/watch?v=hLOw_SzkRQ8)
-[Chappelle's Show - Charlie Murphy's True Hollywood Stories - Rick James Pt. 1 - Uncensored](https://www.youtube.com/watch?v=ZdVAH8Z5O90)
-[Chappelle's Show - The Wayne Brady Show - Uncensored](https://www.youtube.com/watch?v=X-zSJljpKNc)
 
 
 [Abandon Ship (feat. Rampage the Last Boy Scout)](https://www.youtube.com/watch?v=pptLcLcRJz4)
@@ -506,7 +514,7 @@ Back to the Spectacle, there was a man named Percy Riddle he married a lady name
 <iframe width="731" height="729" src="https://www.youtube.com/embed/SReOKWeSKRM" title="Love Under New Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-[5 Classic Books Every Designer Should Have by Margaret Penney | November 11, 2016](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
+[5 Classic Books Every Designer Should Have by Margaret Penney November 11 2016](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
 
 <div class="twoPanelSpread">
   <div class="row">
