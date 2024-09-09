@@ -6,8 +6,14 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+### ¯\_(ツ)_/¯ 
+[¯\_(ツ)_/¯ Marlon Wayans' Hollywood Stories & Mo'Nique Saying The Wayans Bros Stole Her Joke In White Chicks](https://www.youtube.com/watch?v=xhP4qSYlFIA) [Chloe Bailey Talks New Music, Rumored Relationships, Being An Auntie, Pursuit Of Perfection](https://www.youtube.com/watch?v=CXC2qxnaQAE) [LL COOL J Talks New Album, Ownership Vs Artistry, New School Hip Hop](https://www.youtube.com/watch?v=BtvsibBnNhI)
+
 ### ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
-[Normani - Lights On](https://www.youtube.com/watch?v=6Rzd1ch_cvo) [Monica - So Gone](https://youtu.be/UE6zfOuYfVI?si=TMIp7w9KD08mvvYF)
+[Normani - Lights On](https://www.youtube.com/watch?v=6Rzd1ch_cvo) [Monica - So Gone](https://youtu.be/UE6zfOuYfVI?si=TMIp7w9KD08mvvYF) [Mary J Blige - All My Love](https://www.youtube.com/watch?v=6ArSfXnm2c0)
+
+
 
 ![TMNT](https://m.media-amazon.com/images/I/91pD0WLbJYL._AC_UF1000,1000_QL80_.jpg)
 
