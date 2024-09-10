@@ -1,4 +1,6 @@
-
+## MODiS 
+![Modis](https://modis-land.gsfc.nasa.gov/images/MODIS_Land_banner_upd.jpg)
+MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (originally known as EOS AM-1) and Aqua (originally known as EOS PM-1) satellites. Terra's orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. [MODIS Land Science Team](https://modis-land.gsfc.nasa.gov/)
 
 ## Badge of Shame - Breaking into Secure Facilities with OSDP - Dan Petro and David Vargas.mp4
 [Badge of Shame - Breaking into Secure Facilities with OSDP - Dan Petro and David Vargas.mp4](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/Badge%20of%20Shame%20-%20Breaking%20into%20Secure%20Facilities%20with%20OSDP%20-%20Dan%20Petro%20and%20David%20Vargas.mp4)
