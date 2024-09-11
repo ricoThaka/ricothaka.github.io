@@ -10,10 +10,15 @@
 ### worknotes
 [ricoThaka.GiTHUB.iO/workNotes(current)](https://ricothaka.github.io/worknotes03/)
 
+![Darkstalkers](https://upload.wikimedia.org/wikipedia/en/4/40/Darkstalkers_arcade_flyer.png)
+Darkstalkers: The Night Warriors, known in Japan as Vampire: The Night Warriors (ヴァンパイア ザ ナイト ウォーリアー, Vanpaia Za Naito Wōriā), is a 1994 fighting game developed and released by Capcom originally for the [CPS II arcade hardware](https://en.wikipedia.org/wiki/CP_System_II) as the first game in the first title in the Darkstalkers series
+![CPS2](https://wiki.arcadeotaku.com/images/d/d3/CPS2.gif)
+<iframe src="https://archive.org/embed/arcade_dstlk" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ### ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
 
 [Brand Nubian - All For One](https://www.youtube.com/watch?v=u6n7ZXxGbio) [Grand Puba - I Like It (I Wanna Be Where You Are)](https://www.youtube.com/watch?v=yn7KoADZlRk) [Tink - Fake Love (Official Visualizer)](https://www.youtube.com/watch?v=FSlFD6DnxeQ) [Fast Life Kool G Rap feat Nas](https://youtu.be/EQl7ENwIwXc?si=Vp4AuYCrNAXLz4E1)
+
 {% include soundcloudfavs.md %}
 
 [Normani - All Yours](https://youtu.be/iHS9gu-RZGQ?si=W7gbLHUdKXktGebp) [Marco Polo feat. Masta Ace - Nostalgia](https://www.youtube.com/watch?v=PPZ2-FVcM3M) [The Visionaries - Blessings](https://youtu.be/I2zWUFlfWWM?si=KofRVQ_Ic5Qoh8Jo) [Capone-N-Noreaga - Thug Paradise](https://www.youtube.com/watch?v=0Ei1mcRvOV4) [O.C. Times Up](https://youtu.be/6gNmCGQRpcc?si=u5qa7C0yNHCB16U4) [Bahamadia- Spontaneity](https://www.youtube.com/watch?v=_LG8YLpQvoQ) [Acid Raindrops - People Under The Stairs](https://youtu.be/UcKDx4cmvio?si=tB9kdDqslizc-bVW) [(っ◕‿◕)っ Normani - Lights On](https://www.youtube.com/watch?v=6Rzd1ch_cvo) [Monica - So Gone](https://youtu.be/UE6zfOuYfVI?si=TMIp7w9KD08mvvYF) [Mary J Blige - All My Love](https://www.youtube.com/watch?v=6ArSfXnm2c0) [Mary J BLige - You Gotta Believe](https://www.youtube.com/watch?v=9ZXuZZbKH8Y) [Aaliyah - Never Givin' Up](https://youtu.be/LbS7vO1qwg4?si=EzYyldmQVHPnxdgZ) [ (っ◕‿◕)っMuni Long - Time MAchine ](https://www.youtube.com/watch?v=uMV-UVpe568) [Time Machine - Mind in a Spin](https://www.youtube.com/watch?v=HWwCVqWmgro) [Beef - Boogie Down Productions](https://youtu.be/nn4JLAmbbJk?si=anpyTQiTPZz4qyy9) 
