@@ -4992,7 +4992,6 @@ animation: 4s ease-in-out 3s 1 saturate;
   flex: 1 1 200px;
   padding: 0px;
 }
-
 .gullies {
   /*display: grid;
   grid-gap: 5px;
@@ -5001,7 +5000,7 @@ animation: 4s ease-in-out 3s 1 saturate;
   flex-wrap: wrap;
   width: 100%;
   height: 2em;
-  
+
 }
 .gullies div:nth-child(1) {
   background: #3029f2;
@@ -5016,18 +5015,18 @@ animation: 4s ease-in-out 3s 1 saturate;
 .gullies div:nth-child(3) {
   background: #3098f2;
   animation: .8s ease-out 0s 1 slideInFromLeft;
-  animation: 2s ease-in 2s 1 rotate;
+  
 }
 .gullies div:nth-child(4) {
   background: #0dd9c4;
   animation: .9s ease-out 0s 1 slideInFromLeft;
-  animation: 2s ease-in 2s 2 rotate;
+  
 }
 .gullies div:nth-child(5) {
   background: #3df28b;
-     animation: 2s ease-out 2s 3 rotate;
+    
     animation: 3s infinite alternate 0s 1 slideInFromLeft;  
-  
+
 }
 
 .gullies div {
@@ -5035,8 +5034,9 @@ animation: 4s ease-in-out 3s 1 saturate;
   flex: 1 1 200px;
   padding: 0px;
 
-  
+
 }
+
 
 .oncall {
   /*display: grid;
