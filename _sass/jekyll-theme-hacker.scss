@@ -5025,8 +5025,7 @@ animation: 4s ease-in-out 3s 1 saturate;
 .gullies div:nth-child(5) {
   background: #3df28b;
     
-    animation: 3s infinite alternate 0s 1 slideInFromLeft;  
-
+  animation: .9s ease-out 0s 1 slideInFromLeft;
 }
 
 .gullies div {
