@@ -10,6 +10,14 @@
 ### worknotes
 [ricoThaka.GiTHUB.iO/workNotes(current)](https://ricothaka.github.io/worknotes03/)
 
+### ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
+[Game Type-Tragedy Khadafi](https://www.youtube.com/watch?v=CU_LYy4cnE0) [Tragedy Khadafi - Da Funk Mode [Extra P Remix] (feat. Havoc)](https://www.youtube.com/watch?v=euyyIgBDlaE) [Outkast - Ms. Jackson ](https://youtu.be/CSD2J8yaMmM?si=KnN0jo5__y-u4bTY)
+
+
+
+# André 3000 - Listening To The Sun  
+[André 3000 - Listening To The Sun (an intimate album film for New Blue Sun 11/17/2023)](https://www.youtube.com/watch?v=2nOxSeBhQAA)
+
 ![Darkstalkers](https://upload.wikimedia.org/wikipedia/en/4/40/Darkstalkers_arcade_flyer.png)
 Darkstalkers: The Night Warriors, known in Japan as Vampire: The Night Warriors (ヴァンパイア ザ ナイト ウォーリアー, Vanpaia Za Naito Wōriā), is a 1994 fighting game developed and released by Capcom originally for the [CPS II arcade hardware](https://en.wikipedia.org/wiki/CP_System_II) as the first game in the first title in the Darkstalkers series
 ![CPS2](https://wiki.arcadeotaku.com/images/d/d3/CPS2.gif)
