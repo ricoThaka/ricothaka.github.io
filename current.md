@@ -17,7 +17,7 @@ Darkstalkers: The Night Warriors, known in Japan as Vampire: The Night Warriors 
 
 ### ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
 
-[Brand Nubian - All For One](https://www.youtube.com/watch?v=u6n7ZXxGbio) [Grand Puba - I Like It (I Wanna Be Where You Are)](https://www.youtube.com/watch?v=yn7KoADZlRk) [Tink - Fake Love (Official Visualizer)](https://www.youtube.com/watch?v=FSlFD6DnxeQ) [Fast Life Kool G Rap feat Nas](https://youtu.be/EQl7ENwIwXc?si=Vp4AuYCrNAXLz4E1)
+[Brand Nubian - All For One](https://www.youtube.com/watch?v=u6n7ZXxGbio) [Grand Puba - I Like It (I Wanna Be Where You Are)](https://www.youtube.com/watch?v=yn7KoADZlRk) [Tink - Fake Love (Official Visualizer)](https://www.youtube.com/watch?v=FSlFD6DnxeQ) [Fast Life Kool G Rap feat Nas](https://youtu.be/EQl7ENwIwXc?si=Vp4AuYCrNAXLz4E1) [Game Type - Tragedy Khadafi](https://youtu.be/CU_LYy4cnE0?si=D8iDnyyp0kG705H7)
 
 {% include soundcloudfavs.md %}
 
