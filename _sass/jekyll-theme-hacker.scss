@@ -846,6 +846,8 @@ img[alt="whiteslavery40"] {
   border-radius: 1px;
 }
 
+
+
 .swatch {
   /*display: grid;
   grid-gap: 5px;
@@ -860,15 +862,21 @@ img[alt="whiteslavery40"] {
     max-width: max-content;
 animation: 1s ease-out 0s 1 slideInFromLeft;
 animation: 4s ease-in-out 3s 1 saturate;
-  
+
 }
 
 .swatch div {
   flex: 1 1 auto;
   padding: 5px 40px;
-  
+
 } 
 
+.swatch div:nth-child(odd) {
+  animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+.swatch div:nth-child(even) {
+  animation: 1s ease-out 0s 1 slideInFromRight;
+}
 
 @keyframes slideInFromRight {
     0% {
@@ -925,7 +933,7 @@ animation: 4s ease-in-out 3s 1 saturate;
     100% {
 
       transform: scale(4, 1);
-      
+
     }
 }
 
@@ -937,7 +945,7 @@ animation: 4s ease-in-out 3s 1 saturate;
     100% {
 
       transform: rotate(0rad);
-      
+
     }
 }
 .swatch div:nth-child(1) {
@@ -1030,7 +1038,7 @@ animation: 4s ease-in-out 3s 1 saturate;
   background: #ff7276;
 }
 .swatch div:nth-child(27) {
-  background: #ff3eb5;
+  background: #ff3eb5;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(28) {
   background: #ea27c2;
@@ -1057,7 +1065,7 @@ animation: 4s ease-in-out 3s 1 saturate;
   background: #8a8d8f;
 }
 .swatch div:nth-child(36) {
-  background: #ffd900;
+  background: #ffd900;animation: 0.2s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(37) {
   background: #ff5e00;
@@ -1087,7 +1095,7 @@ animation: 4s ease-in-out 3s 1 saturate;
 .swatch div:nth-child(45) {
   background: #222223;
   animation: 3s ease-out 0s 1 slideInFromLeft;
-  
+
 }
 .swatch div:nth-child(46) {
   background: #f6eb61;
@@ -1144,7 +1152,7 @@ animation: 4s ease-in-out 3s 1 saturate;
   background: #daaa00;
 }
 .swatch div:nth-child(64) {
-  background: #aa8a00;
+  background: #aa8a00;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(65) {
   background: #9c8412;
@@ -1156,7 +1164,7 @@ animation: 4s ease-in-out 3s 1 saturate;
   background: #fbdd40;
 }
 .swatch div:nth-child(68) {
-  background: #fdda24;
+  background: #fdda24;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(69) {
   background: #ffcd00;
@@ -1180,7 +1188,7 @@ animation: 4s ease-in-out 3s 1 saturate;
   background: #f3d03e;
 }
 .swatch div:nth-child(76) {
-  background: #f2a900;
+  background: #f2a900;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(77) {
   background: #cc8a00;
