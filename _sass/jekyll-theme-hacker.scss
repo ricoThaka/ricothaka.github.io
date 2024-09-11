@@ -846,8 +846,6 @@ img[alt="whiteslavery40"] {
   border-radius: 1px;
 }
 
-
-
 .swatch {
   /*display: grid;
   grid-gap: 5px;
@@ -861,21 +859,29 @@ img[alt="whiteslavery40"] {
     opacity: 1;
     max-width: max-content;
 animation: 1s ease-out 0s 1 slideInFromLeft;
-animation: 4s ease-in-out 3s 1 saturate;
+animation: 1s ease-in 3s 1 saturate;
 
 }
 
 .swatch div {
   flex: 1 1 auto;
   padding: 5px 40px;
-
+  animation-direction: alternate;
 } 
 
 .swatch div:nth-child(odd) {
-  animation: 2s ease-out 0s 1 slideInFromLeft;
+  animation: 4s ease-out 0s 1 slideInFromLeft;
+  animation-direction: alternate;
 }
 .swatch div:nth-child(even) {
-  animation: 2s ease-out 0s 1 slideInFromRight;
+  animation: 4s ease-out 0s 1 slideInFromRight;
+  animation-direction: alternate;
+}
+.swatch:nth-child(4n-7) {  /* or 4n+1 */
+  animation: 2s ease-out 0s 1 slideInFromLeft;
+}
+.swatch.swatch:nth-child(5n-9) {  /* or 4n+1 */
+  animation: 1s ease-in 0s 1 slideInFromRight;
 }
 
 @keyframes slideInFromRight {
@@ -4992,6 +4998,7 @@ animation: 4s ease-in-out 3s 1 saturate;
   flex: 1 1 200px;
   padding: 0px;
 }
+
 .gullies {
   /*display: grid;
   grid-gap: 5px;
@@ -5025,7 +5032,8 @@ animation: 4s ease-in-out 3s 1 saturate;
 .gullies div:nth-child(5) {
   background: #3df28b;
     
-  animation: .9s ease-out 0s 1 slideInFromLeft;
+    animation: 3s infinite alternate 0s 1 slideInFromLeft;  
+
 }
 
 .gullies div {
@@ -5035,7 +5043,6 @@ animation: 4s ease-in-out 3s 1 saturate;
 
 
 }
-
 
 .oncall {
   /*display: grid;
@@ -5058,7 +5065,7 @@ animation: 4s ease-in-out 3s 1 saturate;
 }
 .oncall div:nth-child(4) {
   background: #732e07;
-  
+
 }
 .oncall div:nth-child(5) {
   background: #bf3706;
@@ -5069,7 +5076,7 @@ animation: 4s ease-in-out 3s 1 saturate;
   flex: 1 1 200px;
   padding: 0px;
     animation: 1s ease-out 0s 1 slideInFromLeft;
-  
+
 }
 
 #a-title {
@@ -5116,7 +5123,7 @@ animation: 4s ease-in-out 3s 1 saturate;
 }
 .viking div:nth-child(1) { background: #F2F2F2; }
 .viking div:nth-child(2) { background: #73463C;}
-.viking div:nth-child(3) { background: #8C564A;animation: 2s ease-in 2s 2 rotate;}
+.viking div:nth-child(3) { background: #8C564A;}
 .viking div:nth-child(4) { background: #260101;}
 .viking div:nth-child(5) { background: #0D0000;}
 
@@ -5125,7 +5132,7 @@ animation: 4s ease-in-out 3s 1 saturate;
   flex: 0 1 200px;
   flex: 1 1 200px;
   padding: 0px;
-  
+
 
 }
 
@@ -5147,7 +5154,7 @@ animation: 4s ease-in-out 3s 1 saturate;
 .vikingbright div:nth-child(5) { background: #0D0000;animation: 1s ease-out 0s 1 flip;}
 
 .vikingbright div {
-transform: rotateY(3.142rad);
+
   flex: 0 1 200px;
   flex: 1 1 200px;
   padding: 0px;
@@ -5161,13 +5168,13 @@ transform: rotateY(3.142rad);
 
 
 
-.playlist {
+#playlist {
   display:flex;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
   flex-direction: row;
+  PADDING:5px;
 
 } 
-
 .track {
  margin: 1px;
   overflow:hidden;
