@@ -2,6 +2,12 @@
  
 # La County Library
 
+[Los Angeles, California, aerial view 1967](https://www.loc.gov/resource/ppmsca.51025/) 
+![LosAngeles 1967](https://tile.loc.gov/storage-services/service/pnp/ppmsca/51000/51025v.jpg)
+![Los Angeles 1985](https://tile.loc.gov/storage-services/service/pnp/vrg/04200/04265v.jpg)
+[[Los Angeles Public Library at Los Angeles City Hall] digital file from original print](https://www.loc.gov/resource/ppmsca.15409/)
+![LA CiTY HALL Library](https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15409v.jpg)
+
 ### USER_BLOCKED
 ## ms karen bass help!
 I was given instructions in 2015 on how to care for my mission duties. Erika and Her boyfriend scheduled the adultery and abandoment around me losing access to employment, then she violently took our daughter from me and accused me of child molestation. She is/was a Jehovahs Witness, that cult originates in East Los Angeles. She was once a local that was called "[Crazy Girl](https://www.youtube.com/watch?v=CIRxStt5jqI)" And Even if she is not directly acting againsty me. He partner in adultery stalks me and sabotages every attempt i make to contact [NASAJPL](https://eyes.nasa.gov/apps/mrn/#/mars). If CRazy Girl from this documentary is not [Latto](https://www.youtube.com/watch?v=C_yI2959DYU)... cont after [iframe](https://youtu.be/aRGdDy18qfY?si=1LOttDAoDDls0qRj)
