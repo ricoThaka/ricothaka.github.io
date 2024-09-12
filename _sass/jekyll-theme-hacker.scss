@@ -845,11 +845,22 @@ img[alt="whiteslavery40"] {
   background: #f2b29b;
   border-radius: 1px;
 }
-
 .swatch {
-  /*display: grid;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  position:relative;
+  opacity: 1;
+  max-width: max-content;
+animation: 1s ease-out 0s 1 slideInFromLeft;
+animation: 1s ease-in 3s 1 saturate;
+
+}
+
+/* .swatch {
+  display: grid;
   grid-gap: 5px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
     grid-gap: 0px;
     grid-template-columns: 1fr 2fr 1fr 1fr ; 
     display: flex;
@@ -862,10 +873,10 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 animation: 1s ease-in 3s 1 saturate;
 
 }
-
+*/
 .swatch div {
   flex: 1 1 auto;
-  padding: 5px 40px;
+  padding: 15px 15px;
   animation-direction: alternate;
 } 
 
@@ -4974,7 +4985,7 @@ animation: 1s ease-in 3s 1 saturate;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 80px;
+  height: 10px;
 }
 .normani div:nth-child(1) {
   background: #f2e205;
@@ -4994,9 +5005,10 @@ animation: 1s ease-in 3s 1 saturate;
 }
 
 .normani div {
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  display:flex;
+  animation-direction: alternate;
+
 }
 
 .gullies {
@@ -5006,40 +5018,41 @@ animation: 1s ease-in 3s 1 saturate;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 2em;
+  height: 1em;
 
 }
 .gullies div:nth-child(1) {
   background: #3029f2;
     animation: .2s ease-out 0s 1 slideInFromLeft;
-  animation: .5s ease-in .5s 1 blur;
-  animation: .5s fadeInOut .5s 1 scale;
+ 
+
 }
 .gullies div:nth-child(2) {
   background: #446ff2;
-  animation: .2s ease-in .2s 1 blur;
+  animation: .2s ease-out 0s 1 slideInFromRight;
+  
 }
 .gullies div:nth-child(3) {
   background: #3098f2;
-  animation: .8s ease-out 0s 1 slideInFromLeft;
+  animation: .8s ease-in 0s 1 slideInFromLeft;
   
 }
 .gullies div:nth-child(4) {
   background: #0dd9c4;
-  animation: .9s ease-out 0s 1 slideInFromLeft;
+  animation: .9s ease-in 0s 1 slideInFromRight;
   
 }
 .gullies div:nth-child(5) {
   background: #3df28b;
     
-    animation: 3s infinite alternate 0s 1 slideInFromLeft;  
+  animation: .8s ease-in 0s 1 slideInFromLeft;  
 
 }
 
 .gullies div {
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
 
 
 }
@@ -5051,7 +5064,7 @@ animation: 1s ease-in 3s 1 saturate;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 5%;
+  height: 1em;
 }
 .oncall div:nth-child(1) {
   background: #f2a922;
@@ -5072,9 +5085,9 @@ animation: 1s ease-in 3s 1 saturate;
 }
 
 .oncall div {
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
     animation: 1s ease-out 0s 1 slideInFromLeft;
 
 }
@@ -5090,7 +5103,7 @@ animation: 1s ease-in 3s 1 saturate;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 3em;
+  height: 1em;
 
 }
 
@@ -5102,9 +5115,9 @@ animation: 1s ease-in 3s 1 saturate;
 
 .megan div {
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
 
 }
 
@@ -5118,7 +5131,7 @@ animation: 1s ease-in 3s 1 saturate;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 3em;
+  height: 1em;
 
 }
 .viking div:nth-child(1) { background: #F2F2F2; }
@@ -5129,8 +5142,8 @@ animation: 1s ease-in 3s 1 saturate;
 
 .viking div {
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
+  
+  flex: 1 1 100px;
   padding: 0px;
 
 
@@ -5155,9 +5168,9 @@ animation: 1s ease-in 3s 1 saturate;
 
 .vikingbright div {
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 5px 5px;
+  animation-direction: alternate;
 
 }
 
@@ -5172,9 +5185,10 @@ animation: 1s ease-in 3s 1 saturate;
   display:flex;
   flex-flow: row nowrap;
   flex-direction: row;
-  PADDING:5px;
+  padding:5px;
 
 } 
+
 .track {
  margin: 1px;
   overflow:hidden;

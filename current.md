@@ -7,6 +7,41 @@
 
 # Currently Compiling
 
+## An Ocean in Bloom 8/16/2024
+
+<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GW55EZPboAAdLG0?format=jpg&name=large">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0801_AnOceanInBloom_FinalCut_HD.mp4" type="video/mp4" />
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0801_AnOceanInBloom_FinalCut_HD.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0801_AnOceanInBloom_FinalCut_HD.mp4">MP4</a>
+  video.
+</video>
+
+### PACE is NASA's Plankton, Aerosol, Cloud, ocean Ecosystem mission,
+![phytoplankton](https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png) [Get to Know PACE](https://pace.oceansciences.org/about.htm)
+![pace](https://oceancolor.gsfc.nasa.gov/gallery/feature/images/LC08_L1TP_206045-7_20240209_20240209_02_A_complex_system_sm.png) [Phytoplankton Toxins and Their Potential Therapeutic Applications: A Journey toward the Quest for Potent Pharmaceuticals PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9030253/pdf/marinedrugs-20-00271.pdf)
+
+
+This data visualization shows 50 years of algal blooms collected across a spinning globe. Once all the data is accumulated, the globe then unwraps into a Robinson projection so the viewer can see the entire global dataset.
+
+<video controls width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/unwrap_v43_2023-10-26_1332.00760_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/sphere2FL_v44_2023-10-26_1330.mp4" type="video/mp4" />
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/sphere2FL_v44_2023-10-26_1330.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/sphere2FL_v44_2023-10-26_1330.mp4">MP4</a>
+  video.
+</video>
+[Peek-a-Bloom in the North Atlantic](https://earthobservatory.nasa.gov/images/152953/peek-a-bloom-in-the-north-atlantic)
+![ocean](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152953/greenlandbloom_amo_20240616_lrg.jpg)
+
 ### worknotes
 [ricoThaka.GiTHUB.iO/workNotes(current)](https://ricothaka.github.io/worknotes03/)
 
