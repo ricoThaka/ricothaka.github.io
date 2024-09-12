@@ -852,8 +852,7 @@ img[alt="whiteslavery40"] {
   position:relative;
   opacity: 1;
   max-width: max-content;
-animation: 1s ease-out 0s 1 slideInFromLeft;
-animation: 1s ease-in 3s 1 saturate;
+
 
 }
 
@@ -876,23 +875,24 @@ animation: 1s ease-in 3s 1 saturate;
 */
 .swatch div {
   flex: 1 1 auto;
-  padding: 15px 15px;
+  padding: 5px 25px;
   animation-direction: alternate;
+
 } 
 
 .swatch div:nth-child(odd) {
-  animation: 4s ease-out 0s 1 slideInFromLeft;
+  animation: 4s ease-out 3s 1 slideInFromLeft;
   animation-direction: alternate;
 }
 .swatch div:nth-child(even) {
-  animation: 4s ease-out 0s 1 slideInFromRight;
+  animation: 4s ease-out 3s 1 slideInFromRight;
   animation-direction: alternate;
 }
-.swatch:nth-child(4n-7) {  /* or 4n+1 */
+.swatch:nth-child(5n-9) {  /* or 4n+1 */
   animation: 2s ease-out 0s 1 slideInFromLeft;
 }
 .swatch.swatch:nth-child(5n-9) {  /* or 4n+1 */
-  animation: 1s ease-in 0s 1 slideInFromRight;
+  animation: 2s ease-in 1s 1 slideInFromRight;
 }
 
 @keyframes slideInFromRight {
