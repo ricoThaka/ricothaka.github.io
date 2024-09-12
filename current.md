@@ -9,7 +9,7 @@
 
 ## An Ocean in Bloom 8/16/2024
 
-<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GW55EZPboAAdLG0?format=jpg&name=large">
+<video controls width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0724_AnOceanInBloom_PROMO3.01389_print.jpg">
 
   <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0801_AnOceanInBloom_FinalCut_HD.mp4" type="video/mp4" />
 
@@ -26,7 +26,7 @@
 ![pace](https://oceancolor.gsfc.nasa.gov/gallery/feature/images/LC08_L1TP_206045-7_20240209_20240209_02_A_complex_system_sm.png) [Phytoplankton Toxins and Their Potential Therapeutic Applications: A Journey toward the Quest for Potent Pharmaceuticals PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9030253/pdf/marinedrugs-20-00271.pdf)
 
 
-This data visualization shows 50 years of algal blooms collected across a spinning globe. Once all the data is accumulated, the globe then unwraps into a Robinson projection so the viewer can see the entire global dataset.
+This data visualization shows 50 years of algal blooms collected across a spinning globe. Once all the data is accumulated, the globe then unwraps into a Robinson projection so the viewer can see the entire global dataset. [WorldView](https://worldview.earthdata.nasa.gov/?v=307627.14771113126,-4164550.6316866404,1387215.8072848828,-3362710.6908941357&p=arctic&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor,MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2024-05-16-T20%3A25%3A43Z)
 
 <video controls width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/unwrap_v43_2023-10-26_1332.00760_print.jpg">
 
