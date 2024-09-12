@@ -34,9 +34,9 @@ carousels:
     - image: /uploads/slider/image4.jpg
 
 ---
-
-
-
+## (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧ ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
+[Jay-Z - Things That U Do (Feat. Mariah Carey)](https://youtu.be/XRxItoK6wKc?si=_7LvBtKB8-wuzTzA)
+{% include_relative civic03.md %}
 {% include_relative current.md %}
 
 
