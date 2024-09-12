@@ -1,7 +1,10 @@
  [SelfSoothingMusic BobMarley RastaMan Vibration](https://youtu.be/B0gesoinua0?si=SioyAogYS5BwZMbr)
  
 # La County Library
-
+## Los Angeles Aqueduct, Antelope Valley, Los Angeles, Los Angeles County, CA 
+![antelope valley](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca3100/ca3174/photos/194253pv.jpg)
+View south/southeast looking down on 2nd Aqueduct and 1st Aqueduct Cascades towards filtration plant and Los Angeles Reservoir - Los Angeles Aqueduct, Cascades Structures, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-298-AH
+![Water Stairs](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca3100/ca3180/color/218210cv.jpg)
 [Los Angeles Aqueduct, Alabama Gates, Los Angeles, Los Angeles County, CA](https://www.loc.gov/item/ca3162/)
 ![Alabama Gate](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca3100/ca3162/photos/194212pv.jpg)
 View south of principal Owens River diversion gates. Natural channel of river bed would bring flow of river through gates beneath walk rails in middle of picture. River is diverted to right for water supply purposes. - Los Angeles Aqueduct, Aqueduct Intake, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-298-Q [7 picture essay](https://www.loc.gov/resource/hhh.ca3161.photos/?sp=1)
