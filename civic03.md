@@ -1,7 +1,10 @@
  [SelfSoothingMusic BobMarley RastaMan Vibration](https://youtu.be/B0gesoinua0?si=SioyAogYS5BwZMbr)
  
 # La County Library
-View south of principal Owens River diversion gates. Natural channel of river bed would bring flow of river through gates beneath walk rails in middle of picture. River is diverted to right for water supply purposes. - Los Angeles Aqueduct, Aqueduct Intake, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-298-Q
+
+[Los Angeles Aqueduct, Alabama Gates, Los Angeles, Los Angeles County, CA](https://www.loc.gov/item/ca3162/)
+![Alabama Gate](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca3100/ca3162/photos/194212pv.jpg)
+View south of principal Owens River diversion gates. Natural channel of river bed would bring flow of river through gates beneath walk rails in middle of picture. River is diverted to right for water supply purposes. - Los Angeles Aqueduct, Aqueduct Intake, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-298-Q [7 picture essay](https://www.loc.gov/resource/hhh.ca3161.photos/?sp=1)
 ![AquaductIntake](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca3100/ca3161/photos/194205pv.jpg)
 [Los Angeles, California, aerial view 1967](https://www.loc.gov/resource/ppmsca.51025/) 
 ![LosAngeles 1967](https://tile.loc.gov/storage-services/service/pnp/ppmsca/51000/51025v.jpg)
