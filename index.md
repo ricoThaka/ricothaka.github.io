@@ -40,6 +40,12 @@ Normani, Hi I am getting my thoughts together after a lot of Architechture and i
 <iframe width="912" height="513" src="https://www.youtube.com/embed/lEMLhZrZs5U" title="Jay Z: Hard Knock Life (EXPLICIT) [UP.S 1080] (1998)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+
+![VaporMax](https://images.footlocker.com/is/image/EBFL2/24453103_a3?wid=581&hei=581&fmt=png-alpha) 
+![AirMax95](https://images.footlocker.com/is/image/EBFL2/M0011009_a3?wid=581&hei=581&fmt=png-alpha)
+![Retro4](https://images.footlocker.com/is/image/EBFL2/T8532080_a3?wid=581&hei=581&fmt=png-alpha)
+![Retro3](https://images.footlocker.com/is/image/EBFL2/Q8138103_a3?wid=581&hei=581&fmt=png-alpha)
+
 {% include_relative civic03.md %}
 {% include_relative current.md %}
 
