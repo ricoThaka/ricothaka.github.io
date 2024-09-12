@@ -1,9 +1,17 @@
  [SelfSoothingMusic BobMarley RastaMan Vibration](https://youtu.be/B0gesoinua0?si=SioyAogYS5BwZMbr)
- 
-# La County Library
+ ## CityHall
+ ![CityHall](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/012148pv.jpg)
+ Interior, Council Chamber - Los Angeles City Hall, 200 North Spring Street, Los Angeles, Los Angeles County, CA
+### John Ash, AIA, Photographer August 1997. VIEW OF LOS ANGELES CITY HALL TENTH FLOOR NORTH OFFICE WING,
+ FACING SOUTH - Los Angeles City Hall, 200 North Spring Street, Los Angeles, Los Angeles County, CA 
+ ![cityhall10thfloor](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/322528pv.jpg)
+
+![South LA - Vergara, Camilo J., photographer](https://tile.loc.gov/storage-services/service/pnp/vrg/11900/11911v.jpg)
 ## Los Angeles Aqueduct, Antelope Valley, Los Angeles, Los Angeles County, CA 
 ![antelope valley](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca3100/ca3174/photos/194253pv.jpg)
 View south/southeast looking down on 2nd Aqueduct and 1st Aqueduct Cascades towards filtration plant and Los Angeles Reservoir - Los Angeles Aqueduct, Cascades Structures, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-298-AH
+## 1942 Los Angeles, California. Shoppers Lee, Russell, 1903-1986, photographer
+![LOS ANGELES SHOPPERS DTLA](https://tile.loc.gov/storage-services/service/pnp/fsa/8d28000/8d28100/8d28144v.jpg)
 ![Water Stairs](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca3100/ca3180/color/218210cv.jpg)
 [Los Angeles Aqueduct, Alabama Gates, Los Angeles, Los Angeles County, CA](https://www.loc.gov/item/ca3162/)
 ![Alabama Gate](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca3100/ca3162/photos/194212pv.jpg)
@@ -17,7 +25,7 @@ View south of principal Owens River diversion gates. Natural channel of river be
 
 ### USER_BLOCKED
 ## ms karen bass help!
-I was given instructions in 2015 on how to care for my mission duties. Erika and Her boyfriend scheduled the adultery and abandoment around me losing access to employment, then she violently took our daughter from me and accused me of child molestation. She is/was a Jehovahs Witness, that cult originates in East Los Angeles. She was once a local that was called "[Crazy Girl](https://www.youtube.com/watch?v=CIRxStt5jqI)" And Even if she is not directly acting againsty me. He partner in adultery stalks me and sabotages every attempt i make to contact [NASAJPL](https://eyes.nasa.gov/apps/mrn/#/mars). If CRazy Girl from this documentary is not [Latto](https://www.youtube.com/watch?v=C_yI2959DYU)... cont after [iframe](https://youtu.be/aRGdDy18qfY?si=1LOttDAoDDls0qRj)
+I was given instructions in 2015 on how to care for my mission duties. Erika and Her boyfriend scheduled the adultery and abandoment around me losing access to employment, then she violently took our daughter from me and accused me of child molestation. She is/was a Jehovahs Witness, that cult originates in East Los Angeles. She was once a local that was called "[Crazy Girl](https://www.youtube.com/watch?v=CIRxStt5jqI)" And Even if she is not directly acting againsty me. He partner in adultery stalks me and sabotages every attempt i make to contact [NASAJPL](https://eyes.nasa.gov/apps/mrn/#/mars). If CRazy Girl from this documentary is not [Latto](https://www.youtube.com/watch?v=C_yI2959DYU)... That is Erika my missing wife relative. I saw erika on a Longbeach HoStroll after the library oneday by the Metrostation by starbucks. Im not mad right now. I just dont want anyone daughter to get sold to singapore and we dont see them no more! [iframe](https://youtu.be/aRGdDy18qfY?si=1LOttDAoDDls0qRj)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CIRxStt5jqI?si=KGXoPG8oKHc_43vD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
