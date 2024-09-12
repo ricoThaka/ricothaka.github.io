@@ -8,6 +8,8 @@
 # Currently Compiling
 
 ## An Ocean in Bloom 8/16/2024
+[Credits](https://svs.gsfc.nasa.gov/14648#section_credits)
+[NasaGoodard](https://www.nasa.gov/goddard/)
 
 <video controls width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0724_AnOceanInBloom_PROMO3.01389_print.jpg">
 
