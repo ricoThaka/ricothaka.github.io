@@ -1,3 +1,6 @@
+
+[LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.pdf) [CoronaVirusPAtent European Publication Server](https://data.epo.org/publication-server/document/xml/3172319/B1/2019-11-20)
+![LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.jpg)
 ## Hall of Justice (Los Angeles)
 I discovered a building https://mva.lacounty.gov/bhph/ 
 https://hmdb.org/m.asp?m=167926 "Bob Hope PAtriotic HAll" the #Architecure is amazing I know I'm not sworn in but I'm #ActiveMission and im noticing a CyberAttack in losangeles. [https://www.laconservancy.org/](https://www.laconservancy.org/) has records of buildings that have really shallow websites. Its kinda like [USPTO](https://www.uspto.gov/) old perl sections. Its like a whole section of internet history wass disabled for [CoronaVirus (COVID-19/SARS-CoV-2 Data in PubChem)](https://pubchem.ncbi.nlm.nih.gov/docs/covid-19)
