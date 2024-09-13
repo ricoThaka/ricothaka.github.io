@@ -13,12 +13,7 @@ that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media
 
 
 
-[![Hackers_Journalist](https://pbs.twimg.com/media/GO3R9FXbsAA2BgP?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
 
-
-[![Threats](https://pbs.twimg.com/media/GO3T_1fa8AAT_mY?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
-
-![BigBossVetter](https://pbs.twimg.com/media/GXUKDeObgAEcMM_?format=jpg&name=large)
 ## An Ocean in Bloom 8/16/2024
 [Credits](https://svs.gsfc.nasa.gov/14648#section_credits)
 [NasaGoodard](https://www.nasa.gov/goddard/)
