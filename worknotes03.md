@@ -1,6 +1,13 @@
 
+I discovered a building https://mva.lacounty.gov/bhph/ 
+https://hmdb.org/m.asp?m=167926 "Bob Hope PAtriotic HAll" the #Architecure is amazing I know I'm not sworn in but I'm #ActiveMission
+@LACMVA
+  
 
-
+ think they know me?
+[Patriotic HAll](https://www.google.com/maps/@34.0352886,-118.2715152,3a,75y,77.93h,117.09t/data=!3m6!1e1!3m4!1sSoLs_avYTd1iaFvtmJdQMw!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxMC4wIKXMDSoASAFQAw%3D%3D)
+![PatritoticHall Figuroa](https://pbs.twimg.com/media/GXTOpj3a0AA0ure?format=jpg&name=large)
+![Bob Hope](https://pbs.twimg.com/media/GXTNmhqbkAAD9eW?format=jpg&name=large)
 
  ## CityHall
  [Los Angeles City Hall, 200 North Spring Street, Los Angeles, Los Angeles County, CA](https://www.loc.gov/item/ca1261/)
