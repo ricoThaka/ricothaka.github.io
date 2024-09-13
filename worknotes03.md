@@ -1,14 +1,34 @@
-
+## Hall of Justice (Los Angeles)
 I discovered a building https://mva.lacounty.gov/bhph/ 
-https://hmdb.org/m.asp?m=167926 "Bob Hope PAtriotic HAll" the #Architecure is amazing I know I'm not sworn in but I'm #ActiveMission
-@LACMVA
-  
+https://hmdb.org/m.asp?m=167926 "Bob Hope PAtriotic HAll" the #Architecure is amazing I know I'm not sworn in but I'm #ActiveMission and im noticing a CyberAttack in losangeles. [https://www.laconservancy.org/](https://www.laconservancy.org/) has records of buildings that have really shallow websites. Its kinda like [USPTO](https://www.uspto.gov/) old perl sections. Its like a whole section of internet history wass disabled for [CoronaVirus (COVID-19/SARS-CoV-2 Data in PubChem)](https://pubchem.ncbi.nlm.nih.gov/docs/covid-19)
 
- think they know me?
+### [Wiki](https://en.wikipedia.org/wiki/Hall_of_Justice_(Los_Angeles))
+ The Hall of Justice in Los Angeles is located at 211 W. Temple Street in the Civic Center district of Downtown Los Angeles. It occupies the southern two-thirds of the block between Temple and First streets and between Broadway and Spring streets.
+
+Built in 1925, it was together with Los Angeles City Hall the first two large buildings opened in what would over the following decades demolish and transform the late-19th-century Central Business District to a Civic Center of modern landmark buildings and plazas.
+@LACMVA
+  <div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://web.archive.org/web/20080509093304/http://www.laconservancy.org/issues/issues_list.php4"><h3>2008</h3><img src="https://pbs.twimg.com/media/GXUIgJkaIAAnOtx?format=png&name=small"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://www.laconservancy.org/issues/issues_list.php4"><h3>Current</h3><img src="https://pbs.twimg.com/media/GXUI7u9bgAAfjJW?format=jpg&name=medium"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+![justice](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Facade_of_the_Hall_of_Justice_in_Downtown_Los_Angeles%27_historic_core.jpg/1024px-Facade_of_the_Hall_of_Justice_in_Downtown_Los_Angeles%27_historic_core.jpg)
+
 [Patriotic HAll](https://www.google.com/maps/@34.0352886,-118.2715152,3a,75y,77.93h,117.09t/data=!3m6!1e1!3m4!1sSoLs_avYTd1iaFvtmJdQMw!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxMC4wIKXMDSoASAFQAw%3D%3D)
 ![PatritoticHall Figuroa](https://pbs.twimg.com/media/GXTOpj3a0AA0ure?format=jpg&name=large)
 ![Bob Hope](https://pbs.twimg.com/media/GXTNmhqbkAAD9eW?format=jpg&name=large)
-
+![Covid](https://pbs.twimg.com/media/GXTJESfbgAAHqda?format=jpg&name=large)
  ## CityHall
  [Los Angeles City Hall, 200 North Spring Street, Los Angeles, Los Angeles County, CA](https://www.loc.gov/item/ca1261/)
 Courtyard arcade - Los Angeles City Hall, 200 North Spring Street, Los Angeles, Los Angeles County, CA
