@@ -38,6 +38,18 @@ carousels:
 ### normani 
 [Lights On](https://www.youtube.com/watch?v=6Rzd1ch_cvo) i really like [this song](https://genius.com/Normani-lights-on-lyrics)
 
+![normanI](https://imgix.bustle.com/uploads/image/2021/5/12/57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg?w=688&h=971&fit=crop&crop=focalpoint&fp-x=0.5306666666666666&fp-y=0.38526912181303113)  [Normani Wants You To Expect the Unexpected](https://www.wmagazine.com/culture/normani-new-music-album-interview) [Normani Prefers This $100 vs. $700 Purse ](https://www.youtube.com/watch?v=7nfovVLjnr4) [Fifth Harmony Made Their First Red Carpet Appearance as a Foursome and Looked Fierce AF](https://www.cosmopolitan.com/style-beauty/fashion/a8616047/fifth-harmony-first-red-carpet-appearance-performance-as-foursome/)
+
+
+![EcoStress](https://ecostress.jpl.nasa.gov/logo.png)
+
+[This original satellite photo was used by JPL imaging scientists to create "L.A.: The Movie," ](https://landsat.visibleearth.nasa.gov/view.php?id=52470)
+[List Of Dams](https://x.com/thakasartu/status/1789384568002453589) [nASA stI pROGRAM](https://www.youtube.com/@NASASTIProgram)
+[los angeles](https://eoimages.gsfc.nasa.gov/images/imagerecords/149000/149458/losangeles_oli2_2022038_lrg.jpg) [A Super View of LA](https://earthobservatory.nasa.gov/images/149458/a-super-view-of-la#:~:text=NASA%20launched%20Landsat%209%20in,subsystems%20and%20calibrating%20its%20instruments.) [Early Landsat View of Los Angeles and Vicinity](https://www.jpl.nasa.gov/images/pia02988-early-landsat-view-of-los-angeles-and-vicinity) [Zoom Down to Los Angeles, CA](https://svs.gsfc.nasa.gov/1214)
+
+![lOS aNGELES](https://eoimages.gsfc.nasa.gov/images/imagerecords/0/841/landsat_la_color.jpg)
+
+
 # HElp im Active Mission Nasa Mars
 
 
