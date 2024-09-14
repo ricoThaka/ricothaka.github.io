@@ -1,6 +1,49 @@
 
 [LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.pdf) [CoronaVirusPAtent European Publication Server](https://data.epo.org/publication-server/document/xml/3172319/B1/2019-11-20)
 ![LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.jpg)
+
+
+
+  <div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://web.archive.org/web/20080509093304/http://www.laconservancy.org/issues/issues_list.php4"><h3>2008</h3><img src="https://pbs.twimg.com/media/GXd2X11bwAA2XdJ?format=jpg&name=medium"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://www.laconservancy.org/issues/issues_list.php4"><h3>Current</h3><img src="https://pbs.twimg.com/media/GXdZ2xga0AAiujd?format=jpg&name=large"></a>
+         </div>
+  <div class="rightColumn">
+
+<a href="https://www.laconservancy.org/issues/issues_list.php4"><h3>Current</h3><img src="https://pbs.twimg.com/media/GXdZ2xObwAEo0Mj?format=jpg&name=large"></a>
+         </div>
+    </div>
+  </div>
+  
+## Urban Heat Image
+### Los Angeles 
+![LOS ANGELES HEATWAVE](https://ecostress.jpl.nasa.gov/downloads/gallery/urbanheat/00116_LST_over_LA.jpg)
+[Greater Los Angeles](https://lacounty.gov/emergency/) is a prime example of an urban heat island - cities and suburbs woven with heat-trapping concrete and asphalt that lead to warmertemperatures than nearby rural areas that have more vegetation. Bordered by mountains and the ocean, the Greater L.A. area encompasses suburbs andskyscrapers, with a dense population and disparities in green space. It includes several counties, tens of thousands of square miles, and more than18 million people, making it a compelling test bed for heat wave research.
+
+Climate change and urban heat are together fueling different heat waves now. In the 20th century, most heat waves in L.A. were dry. However, humidevents have steadily increased in frequency and intensity since 1950 due in part to swelling moisture from the warming sea surface.
+
+In their case study, JPL scientists compared two heat waves that affected the Greater Los Angeles area in the summer of 2020: a prolonged muggystretch in August and an extremely dry three-day spike in September. During the latter event, record-breaking temperatures soared over 120 degreesFahrenheit (49 degrees Celsius) in the San Fernando Valley - a densely populated portion of the city of Los Angeles - while scorching winds fanned adestructive wildfire in the nearby San Gabriel Mountains. For their study, recently published in the Journal of Applied Meteorology and Climatology,the scientists used NASA's Modern-Era Retrospective Analysis for Research and Applications, version 2 (MERRA-2) data set - a reanalysis of historicalatmospheric observations. They found that both heat waves drove temperatures above the 90th percentile for the August-September climate record in L.A.Using advanced weather modeling, they simulated the heat waves and looked at their impacts across the region [Continue Reading](https://ecostress.jpl.nasa.gov/galleryimage_urban)
+
+[More than half of California is now ‘abnormally dry,’ drought experts say](https://www.sfchronicle.com/climate/article/california-drought-central-valley-19745303.php) [Newsom lifts drought declaration for most Californians, yet measures remain in some area](https://www.latimes.com/environment/story/2024-09-04/newsom-lifts-drought-measures-for-parts-of-california) [Gov. Gavin Newsom drops drought emergency for Southern California and Bay Area](https://www.cbsnews.com/losangeles/news/gov-gavin-newsom-drops-drought-emergency-for-southern-california-and-bay-area/) [Halfway through the water year, California-Nevada precipitation is near-normal, with above-normal snowpack.](https://www.drought.gov/drought-status-updates/california-nevada-drought-status-update-2024-04-15) [State Water Project Advances Efforts to Prepare for Future Droughts Amid a Changing Climate](https://water.ca.gov/News/News-Releases/2024/May-24/State-Water-Project-Advances-Efforts-to-Prepare-for-Future-Droughts-Amid-a-Changing-Climate) [Drought conditions have mostly disappeared in California. It’s a first in more than a decade](https://www.sfchronicle.com/weather/article/california-drought-recovery-19463866.php)
+![People effected By the drought](https://pbs.twimg.com/media/GWvMTEubgAAcFGi?format=jpg&name=large)
+![Drought Risk](https://pbs.twimg.com/media/GWvMTCWWQAAq8OA?format=jpg&name=large)
+![Dams in NorthAmerica](https://pbs.twimg.com/media/GWvMTCZWAAEEAJq?format=jpg&name=large)
+---
+
+<iframe src="https://worldview.earthdata.nasa.gov/?v=-145.98641239091234,21.246410811227694,-75.94544498808688,55.71969945480585&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,NDH_Drought_Mortality_Risks_Distribution_2000(hidden),NDH_Drought_Proportional_Economic_Loss_Risk_Deciles_2000(hidden),NDH_Drought_Hazard_Frequency_Distribution_1980-2000(hidden),GRanD_Dams,SSMI_DMSP_F8_Rain_Rate_Over_Oceans_Ascending,AMSRE_Surface_Precipitation_Rate_Day,BlueMarble_NextGeneration,VIIRS_NOAA21_CorrectedReflectance_TrueColor,VIIRS_NOAA20_CorrectedReflectance_TrueColor,VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor,MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2024-09-05-T18%3A55%3A55Z&em=true" role="application" sandbox="allow-modals allow-scripts allow-same-origin allow-forms allow-popups" width="100%" height="100%" allow="fullscreen; autoplay;" loading="lazy"></iframe>
+
+>We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+
+
+
 ## Hall of Justice (Los Angeles)
 I discovered a building https://mva.lacounty.gov/bhph/ 
 https://hmdb.org/m.asp?m=167926 "Bob Hope PAtriotic HAll" the #Architecure is amazing I know I'm not sworn in but I'm #ActiveMission and im noticing a CyberAttack in losangeles. [https://www.laconservancy.org/](https://www.laconservancy.org/) has records of buildings that have really shallow websites. Its kinda like [USPTO](https://www.uspto.gov/) old perl sections. Its like a whole section of internet history wass disabled for [CoronaVirus (COVID-19/SARS-CoV-2 Data in PubChem)](https://pubchem.ncbi.nlm.nih.gov/docs/covid-19)
