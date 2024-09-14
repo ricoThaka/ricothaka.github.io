@@ -30,10 +30,15 @@ So I want to make sure i can make the [ECOSTRESS Science and Application Team Me
 
 
 ![EMail](https://pbs.twimg.com/media/GXd4idMbwAUqOMQ?format=jpg&name=large)
+
 ![Los Aglees](https://tile.loc.gov/storage-services/service/pnp/vrg/04700/04779v.jpg)
 Vergara, Camilo J., photographer
 
-  <div class="twoPanelSpread">
+
+
+
+
+<div class='twoPanelSpread' markdown="1">
   <div class="row">
     <div class="panelColumn">
       <div class="leftColumn">
@@ -51,7 +56,7 @@ Vergara, Camilo J., photographer
          </div>
     </div>
   </div>
-
+</div>
 
 
 ### Los Angeles 
