@@ -35,7 +35,7 @@ carousels:
 
 ---
 ## NowListening
-[Ghostface Killah - Here I Go Again (feat. AZ & Rell) ](https://www.youtube.com/watch?v=ExXt21DDDY8) [Queen Latifah - Just Another Day](https://youtu.be/YkGY5EzA-h4?si=dJnPwtsy87rT5fcz)
+[Ghostface Killah - Here I Go Again (feat. AZ & Rell) ](https://www.youtube.com/watch?v=ExXt21DDDY8) [Queen Latifah - Just Another Day](https://youtu.be/YkGY5EzA-h4?si=dJnPwtsy87rT5fcz) [Monica - Dont Take it Personal](https://youtu.be/asXau88O5Is?si=p1vEQtgH1I_kRLdW)
 ### normani 
 [Lights On](https://www.youtube.com/watch?v=6Rzd1ch_cvo) i really like [this song](https://genius.com/Normani-lights-on-lyrics)
 
