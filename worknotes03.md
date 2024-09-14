@@ -56,7 +56,7 @@ Vergara, Camilo J., photographer
 
 ### Los Angeles 
 
-<h2 id="urbanheat">Urban Heat Image</h2> 
+Urban Heat Image 
 
 ![LOSANGELESHEATWAVE](https://ecostress.jpl.nasa.gov/downloads/gallery/urbanheat/00116_LST_over_LA.jpg)
 
