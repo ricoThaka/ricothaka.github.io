@@ -59,6 +59,7 @@ Vergara, Camilo J., photographer
 <h2 id="urbanheat">Urban Heat Image</h2> 
 
 ![LOSANGELESHEATWAVE](https://ecostress.jpl.nasa.gov/downloads/gallery/urbanheat/00116_LST_over_LA.jpg)
+
 [Greater Los Angeles](https://lacounty.gov/emergency/) is a prime example of an urban heat island - cities and suburbs woven with heat-trapping concrete and asphalt that lead to warmertemperatures than nearby rural areas that have more vegetation. Bordered by mountains and the ocean, the Greater L.A. area encompasses suburbs andskyscrapers, with a dense population and disparities in green space. It includes several counties, tens of thousands of square miles, and more than18 million people, making it a compelling test bed for heat wave research.
 
 Climate change and urban heat are together fueling different heat waves now. In the 20th century, most heat waves in L.A. were dry. However, humidevents have steadily increased in frequency and intensity since 1950 due in part to swelling moisture from the warming sea surface.
