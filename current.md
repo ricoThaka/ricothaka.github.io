@@ -6,6 +6,7 @@
 {% endhighlight %}
 
 # Currently Compiling
+[Create Heading Links in Jekyll Without Any JavaScript (Using Includes)](https://dev.to/aleksandrhovhannisyan/create-heading-links-in-jekyll-without-any-javascript-using-includes-328h)
 ## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
 > there were civil suits and it actually
 resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
