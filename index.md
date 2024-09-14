@@ -35,6 +35,7 @@ carousels:
 
 ---
 ## NowListening
+[Ghostface Killah - Here I Go Again (feat. AZ & Rell) ](https://www.youtube.com/watch?v=ExXt21DDDY8)
 ### normani 
 [Lights On](https://www.youtube.com/watch?v=6Rzd1ch_cvo) i really like [this song](https://genius.com/Normani-lights-on-lyrics)
 
