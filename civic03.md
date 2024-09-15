@@ -1,5 +1,6 @@
 
-
+## cellular magic mirror
+![cellular](https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096)
 
 ![Me mars active duty](https://pbs.twimg.com/media/GXjF8GVbMAAsGSI?format=jpg&name=large)
 ![SCABSMOSTLYLARVE](https://pbs.twimg.com/media/GXjTxD-XIAAVhBO?format=png&name=4096x4096)
@@ -76,6 +77,7 @@ I was given instructions in 2015 on how to care for my mission duties. Erika and
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CIRxStt5jqI?si=KGXoPG8oKHc_43vD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![Mars](https://pbs.twimg.com/media/GXi-LpabEAADIf1?format=jpg&name=medium)
 
 ## Fine Free?
 
