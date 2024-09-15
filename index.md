@@ -34,6 +34,21 @@ carousels:
     - image: /uploads/slider/image4.jpg
 
 ---
+
+# watchlist
+[Fire and Ice 1983](https://archive.org/details/a137ee3e2a37701695abd791d95bfeaf-1080p)
+<video controls width="100%" height="auto" poster="https://cover.box3.net/newsimg/dvdmov/max1126915764-frontback-cover.jpg">
+
+  <source src="https://archive.org/download/a137ee3e2a37701695abd791d95bfeaf-1080p/a137ee3e2a37701695abd791d95bfeaf-1080p.mp4" type="video/mp4" />
+
+  <source src="https://archive.org/download/a137ee3e2a37701695abd791d95bfeaf-1080p/a137ee3e2a37701695abd791d95bfeaf-1080p.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://archive.org/download/a137ee3e2a37701695abd791d95bfeaf-1080p/a137ee3e2a37701695abd791d95bfeaf-1080p.mp4">MP4</a>
+  video.
+</video>
+
 ## NowListening
 [Ghostface Killah - Here I Go Again (feat. AZ & Rell) ](https://www.youtube.com/watch?v=ExXt21DDDY8) [Queen Latifah - Just Another Day](https://youtu.be/YkGY5EzA-h4?si=dJnPwtsy87rT5fcz) [Monica - Dont Take it Personal](https://youtu.be/asXau88O5Is?si=p1vEQtgH1I_kRLdW) [TLC - Sumthin' Wicked This Way Comes](https://www.youtube.com/watch?v=3XDguJXdLdQ) [Brandy - Let Me Go](https://youtu.be/OqU-MYtvUTg?si=IMry2JtFbNTJ7qOY) [I'm Yours](https://youtu.be/SLNsa4vUIBc?si=x17SkSXuuO2gsEnO) [ Cater 2 You](https://youtu.be/vUYy08XS9cI?si=6ABHyafsrqNZ82Mu) [GhostTown DJs My Boo](https://youtu.be/c4kx_Gqbg5Y?si=tMsiN1sro8OzjBt7) [Future-Space Cadets Prod By Zaytoven](https://www.youtube.com/watch?v=sYeHfBQktec) [OJ Da Juiceman - Frank Sinatra](https://www.youtube.com/watch?v=XCz2BhlS1YM) [Gangsta Boo & La Chat - Bitch Don't Look At Me](https://www.youtube.com/watch?v=nvC0O_h1fIk)
 
