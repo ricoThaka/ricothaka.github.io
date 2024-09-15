@@ -1,6 +1,11 @@
 
+
+
+![Me mars active duty](https://pbs.twimg.com/media/GXjF8GVbMAAsGSI?format=jpg&name=large)
 ![SCABSMOSTLYLARVE](https://pbs.twimg.com/media/GXjTxD-XIAAVhBO?format=png&name=4096x4096)
 ![SCabSheet](https://pbs.twimg.com/media/GXjT0hmXAAA75Lt?format=png&name=4096x4096)
+
+![LA](https://pbs.twimg.com/media/GXi-9RGaAAABja8?format=jpg&name=4096x4096)
 
 ### A Latinx Resource Guide: Civil Rights Cases and Events in the United States
 ## 1968: East Los Angeles Walkouts
@@ -29,6 +34,9 @@ So I want to make sure i can make the [ECOSTRESS Science and Application Team Me
 [Rumatoid Authritis ,,, is it Chemwar?](https://x.com/RicoThaka/status/1729962943025148011) 
 [LA COUNTY MAPPiNG DATA](https://x.com/RicoThaka/status/1832207566585393420)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/epfIATepb7">https://t.co/epfIATepb7</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://twitter.com/SFCLA?ref_src=twsrc%5Etfw">@SFCLA</a> <a href="https://twitter.com/HollywoodFoodCo?ref_src=twsrc%5Etfw">@HollywoodFoodCo</a> <a href="https://twitter.com/WeingartCenter?ref_src=twsrc%5Etfw">@WeingartCenter</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> I signed up for the <a href="https://twitter.com/hashtag/ECOSTRESS?src=hash&amp;ref_src=twsrc%5Etfw">#ECOSTRESS</a> workshop <a href="https://twitter.com/hashtag/Pasadena?src=hash&amp;ref_src=twsrc%5Etfw">#Pasadena</a> <a href="https://twitter.com/metrolosangeles?ref_src=twsrc%5Etfw">@metrolosangeles</a> <a href="https://twitter.com/LAPDOutreach?ref_src=twsrc%5Etfw">@LAPDOutreach</a> <a href="https://t.co/8TPHSNFFfb">https://t.co/8TPHSNFFfb</a> <a href="https://twitter.com/hashtag/FareEnforcement?src=hash&amp;ref_src=twsrc%5Etfw">#FareEnforcement</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/APQX4kRqW1">pic.twitter.com/APQX4kRqW1</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1835034532896190723?ref_src=twsrc%5Etfw">September 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+![ECOSTRESS](https://pbs.twimg.com/media/GXjCHoNbYAAE7xG?format=jpg&name=medium)
  [SpaceX launches Polaris Dawn astronauts to attempt world's 1st-ever private spacewalk (video)](https://www.space.com/spacex-polaris-dawn-astronaut-mission-launch-success)
  
  
