@@ -53,11 +53,6 @@ carousels:
   video.
 </video>
 
-## NowListening
-[Ghostface Killah - Here I Go Again (feat. AZ & Rell) ](https://www.youtube.com/watch?v=ExXt21DDDY8) [Queen Latifah - Just Another Day](https://youtu.be/YkGY5EzA-h4?si=dJnPwtsy87rT5fcz) [Monica - Dont Take it Personal](https://youtu.be/asXau88O5Is?si=p1vEQtgH1I_kRLdW) [TLC - Sumthin' Wicked This Way Comes](https://www.youtube.com/watch?v=3XDguJXdLdQ) [Brandy - Let Me Go](https://youtu.be/OqU-MYtvUTg?si=IMry2JtFbNTJ7qOY) [I'm Yours](https://youtu.be/SLNsa4vUIBc?si=x17SkSXuuO2gsEnO) [ Cater 2 You](https://youtu.be/vUYy08XS9cI?si=6ABHyafsrqNZ82Mu) [GhostTown DJs My Boo](https://youtu.be/c4kx_Gqbg5Y?si=tMsiN1sro8OzjBt7) [Future-Space Cadets Prod By Zaytoven](https://www.youtube.com/watch?v=sYeHfBQktec) [OJ Da Juiceman - Frank Sinatra](https://www.youtube.com/watch?v=XCz2BhlS1YM) [Gangsta Boo & La Chat - Bitch Don't Look At Me](https://www.youtube.com/watch?v=nvC0O_h1fIk)
-
-### normani 
-[Lights On](https://www.youtube.com/watch?v=6Rzd1ch_cvo) i really like [this song](https://genius.com/Normani-lights-on-lyrics) // [ithappens](https://youtu.be/6is73HW6B8s?si=rVxKSMTAcTWXBn-y)
 
 ![normanI](https://imgix.bustle.com/uploads/image/2021/5/12/57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg?w=688&h=971&fit=crop&crop=focalpoint&fp-x=0.5306666666666666&fp-y=0.38526912181303113)  [Normani Wants You To Expect the Unexpected](https://www.wmagazine.com/culture/normani-new-music-album-interview) [Normani Prefers This $100 vs. $700 Purse ](https://www.youtube.com/watch?v=7nfovVLjnr4) [Fifth Harmony Made Their First Red Carpet Appearance as a Foursome and Looked Fierce AF](https://www.cosmopolitan.com/style-beauty/fashion/a8616047/fifth-harmony-first-red-carpet-appearance-performance-as-foursome/)
 

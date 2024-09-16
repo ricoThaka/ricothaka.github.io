@@ -10,6 +10,16 @@
 ## cellular magic mirror
 ![cellular](https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096)
 
+
+### normani 
+[Lights On](https://www.youtube.com/watch?v=6Rzd1ch_cvo) i really like [this song](https://genius.com/Normani-lights-on-lyrics) // [ithappens](https://youtu.be/6is73HW6B8s?si=rVxKSMTAcTWXBn-y)
+
+
+## playlist:: concluded at durant library on sunset.
+>Its song collections so when im in a mood that marks a new start, itws time to mark those places in my heart
+[Ghostface Killah - Here I Go Again (feat. AZ & Rell) ](https://www.youtube.com/watch?v=ExXt21DDDY8) [Queen Latifah - Just Another Day](https://youtu.be/YkGY5EzA-h4?si=dJnPwtsy87rT5fcz) [Monica - Dont Take it Personal](https://youtu.be/asXau88O5Is?si=p1vEQtgH1I_kRLdW) [TLC - Sumthin' Wicked This Way Comes](https://www.youtube.com/watch?v=3XDguJXdLdQ) [Brandy - Let Me Go](https://youtu.be/OqU-MYtvUTg?si=IMry2JtFbNTJ7qOY) [I'm Yours](https://youtu.be/SLNsa4vUIBc?si=x17SkSXuuO2gsEnO) [ Cater 2 You](https://youtu.be/vUYy08XS9cI?si=6ABHyafsrqNZ82Mu) [GhostTown DJs My Boo](https://youtu.be/c4kx_Gqbg5Y?si=tMsiN1sro8OzjBt7) [Future-Space Cadets Prod By Zaytoven](https://www.youtube.com/watch?v=sYeHfBQktec) [OJ Da Juiceman - Frank Sinatra](https://www.youtube.com/watch?v=XCz2BhlS1YM) [Gangsta Boo & La Chat - Bitch Don't Look At Me](https://www.youtube.com/watch?v=nvC0O_h1fIk)
+
+
 ![Me mars active duty](https://pbs.twimg.com/media/GXjF8GVbMAAsGSI?format=jpg&name=large)
 ![SCABSMOSTLYLARVE](https://pbs.twimg.com/media/GXjTxD-XIAAVhBO?format=png&name=4096x4096)
 ![SCabSheet](https://pbs.twimg.com/media/GXjT0hmXAAA75Lt?format=png&name=4096x4096)
