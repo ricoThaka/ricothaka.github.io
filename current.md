@@ -7,6 +7,12 @@
 
 # Currently Compiling
 
+## The Media
+Normani rockwell is often credited for this painting 
+### I want you for U.S. Army : nearest recruiting station / [James Montgomery Flagg](https://en.wikipedia.org/wiki/James_Montgomery_Flagg).
+
+![UncleSam - I want yOU](https://tile.loc.gov/storage-services/service/pnp/ppmsca/55800/55870v.jpg)
+
 ## cellular magic mirror
 ![cellular](https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096)
 
