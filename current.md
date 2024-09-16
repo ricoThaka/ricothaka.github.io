@@ -6,13 +6,15 @@
 {% endhighlight %}
 
 # Currently Compiling
-[Create Heading Links in Jekyll Without Any JavaScript (Using Includes)](https://dev.to/aleksandrhovhannisyan/create-heading-links-in-jekyll-without-any-javascript-using-includes-328h)
-## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
-> there were civil suits and it actually
-resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
-that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4)
 
+## cellular magic mirror
+![cellular](https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096)
 
+![Me mars active duty](https://pbs.twimg.com/media/GXjF8GVbMAAsGSI?format=jpg&name=large)
+![SCABSMOSTLYLARVE](https://pbs.twimg.com/media/GXjTxD-XIAAVhBO?format=png&name=4096x4096)
+![SCabSheet](https://pbs.twimg.com/media/GXjT0hmXAAA75Lt?format=png&name=4096x4096)
+
+![LA](https://pbs.twimg.com/media/GXi-9RGaAAABja8?format=jpg&name=4096x4096)
 
 
 ## An Ocean in Bloom 8/16/2024
@@ -49,6 +51,16 @@ This data visualization shows 50 years of algal blooms collected across a spinni
   <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/sphere2FL_v44_2023-10-26_1330.mp4">MP4</a>
   video.
 </video>
+
+[Create Heading Links in Jekyll Without Any JavaScript (Using Includes)](https://dev.to/aleksandrhovhannisyan/create-heading-links-in-jekyll-without-any-javascript-using-includes-328h)
+## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
+> there were civil suits and it actually
+resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
+that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4)
+
+
+
+
 [Peek-a-Bloom in the North Atlantic](https://earthobservatory.nasa.gov/images/152953/peek-a-bloom-in-the-north-atlantic)
 ![ocean](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152953/greenlandbloom_amo_20240616_lrg.jpg)
 

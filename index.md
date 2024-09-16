@@ -35,6 +35,9 @@ carousels:
 
 ---
 
+{% include_relative civic03.md %}
+{% include_relative current.md %}
+
 # watchlist
 
 [Fire and Ice 1983](https://archive.org/details/a137ee3e2a37701695abd791d95bfeaf-1080p)
@@ -131,8 +134,7 @@ Normani, Hi I am getting my thoughts together after a lot of Architechture and i
 ![Retro4](https://images.footlocker.com/is/image/EBFL2/T8532080_a3?wid=581&hei=581&fmt=png-alpha)
 ![Retro3](https://images.footlocker.com/is/image/EBFL2/Q8138103_a3?wid=581&hei=581&fmt=png-alpha)
 
-{% include_relative civic03.md %}
-{% include_relative current.md %}
+
 
 
 
