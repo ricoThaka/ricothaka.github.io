@@ -35,7 +35,7 @@ carousels:
 
 ---
 
-{% include_relative civic03.md %}
+
 {% include_relative current.md %}
 
 # watchlist
