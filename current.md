@@ -6,6 +6,11 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+[Wide-Eyed Over Mexico](https://earthobservatory.nasa.gov/images/146654/wide-eyed-over-mexico)
+## KELP
+![kelp](https://pbs.twimg.com/media/GXowjfvbAAAOVFf?format=jpg&name=medium)
+
 [Street Fighter 2: Mastering Great Combinations & Strategies](https://youtu.be/IfS02WjRU8g?si=ThbW828cCtGba59B) [Street Fighter II The History [VHS]](https://www.youtube.com/watch?v=y-1oMMK48Cs) [Street Fighter III New Generation | VHS RIP 1997](https://www.youtube.com/watch?v=cDoh-6DkurI)
 ![Ryu T_HAwk](https://pbs.twimg.com/media/GXooLr_bcAAT61W?format=jpg&name=large)
 
