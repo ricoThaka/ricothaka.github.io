@@ -6,6 +6,16 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+[M.E.M.P.H.I.S. - Hypnotize Camp Posse](https://www.youtube.com/watch?v=HAHZ4KZH2P8) [Prophet Posse - Three Six MAfia](https://www.youtube.com/watch?v=1FarcBkP-xk) [Triple Six Mafia - Da Summa (REMIX) ](https://www.youtube.com/watch?v=TwYz5iI7pm0)
+
+![Memphis](https://eoimages.gsfc.nasa.gov/images/imagerecords/85000/85244/iss041e105523.jpg)
+![FLORiDA](https://eoimages.gsfc.nasa.gov/images/imagerecords/84000/84737/iss041e074232_lrg.jpg)
+![SanBernadino](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153300/linefire_oli_20240909.jpg)
+
+
+
+---
 [e](https://visibleearth.nasa.gov/images/6119/cabo-san-lucas-baja-california-sur-mexico)
 [Wide-Eyed Over Mexico](https://earthobservatory.nasa.gov/images/146654/wide-eyed-over-mexico) [mexico](https://visibleearth.nasa.gov/search?q=california+mexico)
 
