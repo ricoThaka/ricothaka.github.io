@@ -7,7 +7,17 @@
 
 # Currently Compiling
 
+![MinimumWage](https://pbs.twimg.com/media/GXtKxqQasAAU_FB?format=png&name=4096x4096)
+
+![hi](https://pbs.twimg.com/media/GXxzL4RakAAlNb0?format=jpg&name=medium)
+
 [Queen Its Late](https://eyes.nasa.gov/apps/earth/#/satellites/iss-emit)
+
+
+
+[T.I. and his group shot up in my city](https://homerecording.com/bbs/threads/t-i-and-his-group-shot-up-in-my-city.198214/)
+
+![homerecording](https://pbs.twimg.com/media/GXx0X1FakAIBrtN?format=jpg&name=medium)
 
 ![40](https://wavepublication.com/wp-content/uploads/2024/02/cropped-cropped-Wave-Blue-newspapers-1024x498.jpg) yall need to upgrade this graphic to svg or png for faster loading and transparency! [Los Angeles Wave NewsPapers](https://wavepublication.com/) [Incumbent faces firefighter in Compton’s Council District 3](https://wavepublication.com/incumbent-faces-firefighter-in-comptons-council-district-3/) [METRO DIGEST: Bass announces plans to seek reelection in June 2026](https://wavepublication.com/metro-digest-bass-announces-plans-to-seek-reelection-in-june-2026/) [County seeks to lease state hospital land for homeless (you guys still sound like idots "the homeless")](https://wavepublication.com/county-seeks-to-lease-state-hospital-land-for-homeless/)
 ![LOSANGELESWAVE](https://pbs.twimg.com/media/GXtKyp0bcAAG62i?format=png&name=4096x4096)
@@ -37,6 +47,7 @@
 [Street Fighter 2: Mastering Great Combinations & Strategies](https://youtu.be/IfS02WjRU8g?si=ThbW828cCtGba59B) [Street Fighter II The History [VHS]](https://www.youtube.com/watch?v=y-1oMMK48Cs) [Street Fighter III New Generation | VHS RIP 1997](https://www.youtube.com/watch?v=cDoh-6DkurI)
 ![Ryu T_HAwk](https://pbs.twimg.com/media/GXooLr_bcAAT61W?format=jpg&name=large)
 
+![iss](https://pbs.twimg.com/media/GXyFNHlaIAAiAks?format=jpg&name=large)
 ## The Media
 Normani,
 Norman Rockwell is often credited for this painting 
