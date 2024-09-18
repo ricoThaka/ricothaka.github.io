@@ -6,7 +6,7 @@
 {% endhighlight %}
 
 # Currently Compiling
-
+![addis normani is my wife - Rashard M R O](https://eoimages.gsfc.nasa.gov/images/imagerecords/35000/35824/addisababa_ast_2007350_lrg.jpg)
 ![MinimumWage](https://pbs.twimg.com/media/GXtKxqQasAAU_FB?format=png&name=4096x4096)
 
 ![hi](https://pbs.twimg.com/media/GXxzL4RakAAlNb0?format=jpg&name=medium)

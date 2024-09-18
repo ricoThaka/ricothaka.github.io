@@ -3,6 +3,7 @@
 @import "normalize";
 @import "fonts";
 @import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 @import url('https://cdn.rawgit.com/lonekorean/gist-syntax-themes/d49b91b3/stylesheets/idle-fingers.css');
 @font-face {
@@ -14,8 +15,9 @@
 
 
 html {
-    font: normal 15px/19px "VT323", "IBM Plex Sans", "Lucida Sans Unicode", verdana, lucida,
-    sans-serif; 
+  font: normal 12px/18px "Comfortaa", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;
+   /* font: normal 15px/19px "VT323", "IBM Plex Sans", "Lucida Sans Unicode", verdana, lucida,
+    sans-serif; */
     /* font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;  */
   background : #0D0D0D; 
   background-image :
@@ -24,13 +26,14 @@ html {
   background-size: 30px 30px;
     /* font-family: "VT323", monospace; */
         background-attachment: fixed;   
-    height: 100%;
-    width: 100%;
+    height: 100vh;
+    width: 100vw;
   }
 
 p {
-  padding:6px;
-  display: flex;
+  margin-top:10px;
+  margin-bottom:10px;
+  display: block;
   text-align: left;
   color: white;
   background: transparent
@@ -140,7 +143,7 @@ p:first-of-type {
 
 #MAiN {
   margin: 0 auto;
-  width: 55vw;
+  width: 50vw;
   height: 99vh;
   margin: auto;
   
