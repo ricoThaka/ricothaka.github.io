@@ -7,6 +7,8 @@
 
 # Currently Compiling
 
+[Queen Its Late](https://eyes.nasa.gov/apps/earth/#/satellites/iss-emit)
+
 ![40](https://wavepublication.com/wp-content/uploads/2024/02/cropped-cropped-Wave-Blue-newspapers-1024x498.jpg) yall need to upgrade this graphic to svg or png for faster loading and transparency! [Los Angeles Wave NewsPapers](https://wavepublication.com/) [Incumbent faces firefighter in Compton’s Council District 3](https://wavepublication.com/incumbent-faces-firefighter-in-comptons-council-district-3/) [METRO DIGEST: Bass announces plans to seek reelection in June 2026](https://wavepublication.com/metro-digest-bass-announces-plans-to-seek-reelection-in-june-2026/) [County seeks to lease state hospital land for homeless (you guys still sound like idots "the homeless")](https://wavepublication.com/county-seeks-to-lease-state-hospital-land-for-homeless/)
 ![LOSANGELESWAVE](https://pbs.twimg.com/media/GXtKyp0bcAAG62i?format=png&name=4096x4096)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/346159983&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rico_nasty" title="RICO NASTY" target="_blank" style="color: #cccccc; text-decoration: none;">RICO NASTY</a> · <a href="https://soundcloud.com/rico_nasty/rojo" title="Rojo" target="_blank" style="color: #cccccc; text-decoration: none;">Rojo</a></div>
@@ -41,6 +43,23 @@ Norman Rockwell is often credited for this painting
 ### I want you for U.S. Army : nearest recruiting station / [James Montgomery Flagg](https://en.wikipedia.org/wiki/James_Montgomery_Flagg).
 
 ![UncleSam - I want yOU](https://tile.loc.gov/storage-services/service/pnp/ppmsca/55800/55870v.jpg)
+
+
+![EMiT JPL NAsa](https://earth.jpl.nasa.gov/emit/system/resources/detail_files/101_19_1-PIA24529_EMIT_first_light_figure_A.jpeg)
+
+## Mineral dust storm in Morocco September
+Mineral dust storm in Morocco 2019 showing mineral dust emitted into the atmosphere. [EMIT will measure the Earth](https://eyes.nasa.gov/apps/earth/#/satellites/iss-emit)’s arid land dust source regions to enable new modeling and understanding of the Earth’s mineral dust cycle.
+<video controls width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0724_AnOceanInBloom_PROMO3.01389_print.jpg">
+
+  <source src="https://earth.jpl.nasa.gov/emit/emit/system/video_items/52_Dust_storm_Morocco_IMG_2348.m4v" type="video/mp4" />
+
+  <source src="https://earth.jpl.nasa.gov/emit/emit/system/video_items/52_Dust_storm_Morocco_IMG_2348.m4v" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://earth.jpl.nasa.gov/emit/emit/system/video_items/52_Dust_storm_Morocco_IMG_2348.m4v">MP4</a>
+  video.
+</video>
 
 ## cellular magic mirror
 ![cellular](https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096)
