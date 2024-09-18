@@ -36,14 +36,13 @@
 
 
 
----
-[e](https://visibleearth.nasa.gov/images/6119/cabo-san-lucas-baja-california-sur-mexico)
-[Wide-Eyed Over Mexico](https://earthobservatory.nasa.gov/images/146654/wide-eyed-over-mexico) [mexico](https://visibleearth.nasa.gov/search?q=california+mexico)
+
+
 
 ![t](https://eoimages.gsfc.nasa.gov/images/imagerecords/146000/146654/iss062e112947_lrg.jpg)
 
 ![oh well doja cat fat got swapped out, she nice too!](https://pbs.twimg.com/media/GXtGFVgakAEotID?format=jpg&name=large)
-[DojaCat - NEED TO KNOW [NASA FAN ART]](https://www.youtube.com/watch?v=dI3xkL7qUAc)
+[DojaCat - NEED TO KNOW [NASA FAN ART]](https://www.youtube.com/watch?v=dI3xkL7qUAc) [cabo-san-lucas](https://visibleearth.nasa.gov/images/6119/cabo-san-lucas-baja-california-sur-mexico) [mexico](https://visibleearth.nasa.gov/search?q=california+mexico)
 
 ## KELP
 ![kelp](https://pbs.twimg.com/media/GXowjfvbAAAOVFf?format=jpg&name=medium) [kelp](https://www.santamonicabay.org/what-we-do/projects/kelp-forest-restoration-project/)
