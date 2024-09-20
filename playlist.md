@@ -1,23 +1,6 @@
 <div id="playlist">
 
 
-<blockquote>
-      "How could you?
-How could you move on so fast?
-Forget about what we had
-Honestly thought we would last, oh baby, oh
-You mean to tell me this wasn't love?"
-      
-  <footer>--
-        <cite>
-          Normani Kordei Wicked written 2016, 
-          Dont say I Didnt Warn You
-        </cite>
-       
-  </footer>
-
-</blockquote>
-
 
 
 <figure class=" track">
@@ -768,7 +751,7 @@ by Aaliyah
  <figure class=" track">
     <IMG src="https://archive.org/download/camp-lo-luchini-aka-this-is-it/Luchini%20Aka%20(This%20Is%20It)/a.jpg">
 
-    <figcaption>Camp_Lo Swing
+  <figcaption>Camp_Lo Swing
     </figcaption>
     <audio controls loop>
       <source src="https://archive.org/download/camp-lo-luchini-aka-this-is-it/Luchini%20Aka%20%28This%20Is%20It%29/02-Swing%20%28Radio%20Edit%29%20%28Ft.%20Ish%20Aka%20Butterfly%29.mp3">
@@ -1042,8 +1025,3 @@ by Aaliyah
 
 
 
-
-[Maxine Wally](https://www.linkedin.com/in/maxine-wally-60042b42?original_referer=https%3A%2F%2Fwww.google.com%2F) [ReadMore](https://www.wmagazine.com/culture/aaliyah-rock-the-boat-music-video-making-of-interview) 
-
-[Discogs](https://www.discogs.com/release/1223557-Aaliyah-Rock-The-Boat) [BlAcKiE_Beats Hiphop Collection](https://archive.org/details/blackiebeatscollection)
-[Wiki](https://en.wikipedia.org/wiki/Rock_the_Boat_(Aaliyah_song))

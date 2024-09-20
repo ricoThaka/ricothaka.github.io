@@ -5174,6 +5174,75 @@ animation: 1s ease-in 3s 1 saturate;
 }
 
 
+figure {
+  transition: all 0.5s linear;
+  border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 220px;
+  margin: auto;
+  background: linear-gradient(
+    45deg,
+    #db362d 25%,
+    #e8f5fd 0,
+    #e8f5fd 50%,
+    #db362d 0,
+    #db362d 75%,
+    #e8f5fd 0
+  );
+  background-size: 80.4px 80.4px;
+  background-attachment: fixed;
+  border-radius: 10px;
+}
+
+figure:hover,
+figure:focus,
+figure:active {
+  background: linear-gradient(
+    45deg,
+    #db362d 25%,
+    #e8f5fd 0,
+    #e8f5fd 50%,
+    #db362d 0,
+    #db362d 75%,
+    #e8f5fd 0
+  );
+  background-size: 480.4px 480.4px;
+  background-attachment: fixed;
+  border-radius: 10px;
+  transform: scale(1.05);
+}
+figure {
+}
+
+img {
+  border-radius: 10px 10px 0px 0px;
+  max-width: 220px;
+  max-height: auto;
+  transition: all 0.5s linear;
+}
+
+img:hover {
+  transform: scale(1.05);
+}
+
+figcaption {
+  background-color: #222;
+  color: #fff;
+  padding: 3px;
+  text-align: center;
+  transition: all 0.5s linear;
+}
+
+figcaption:hover {
+  transform: scale(1.05);
+}
+audio {
+  background: white;
+  border-radius: 0px 0px 10px 10px;
+}
+
 #playlist {
   display: flex;
   flex-flow: row wrap;
@@ -5221,82 +5290,6 @@ audio:active {
   transform: scale(1.05);
 }
 
-/*
-
-#playlist {
-  display:flex;
-  flex-flow: row nowrap;
-  flex-direction: row;
-  padding:5px;
-
-} 
-
-.track {
- margin: 1px;
-  overflow:hidden;
-  flex: 1 1 200px;
-border-radius: 0.3em;
--webkit-transition:all 0.5s linear;
--moz-transition:all 0.5s linear;
--o-transition:all 0.5s linear;
-transition:all 0.5s linear;
-
-
-}
-
-.track:hover, .track:focus, .track:active
-{
-
--webkit-transform: scale(1.05);
--moz-transform: scale(1.05);
-transform: scale(1.09);
-}
-
-.track {
-
-}
-
-.container-audio {
-
-    padding: 0px;
-
-
-}
-.track>img { width:100%;
-
-   -webkit-transition:all 0.5s linear;
--moz-transition:all 0.5s linear;
--o-transition:all 0.5s linear;
-transition:all 0.5s linear;
-}
-
-audio {
-
-
-
-
-    -webkit-transition:all 0.5s linear;
--moz-transition:all 0.5s linear;
--o-transition:all 0.5s linear;
-transition:all 0.5s linear;
-
-  text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
-  background: hsla(0,0%,100%,.9) border-box;
-}
-audio:nth-child(2), audio:nth-child(4), audio:nth-child(6) {
-    margin: 0;
-}
-
-
-audio:hover, audio:focus, audio:active 
-{
-
-
--webkit-transform: scale(1.05);
--moz-transform: scale(1.05);
-transform: scale(1.05);
-}
-*/
 
 .gallery-rover {
   display: flex;
