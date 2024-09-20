@@ -788,7 +788,6 @@ Back to the Spectacle, there was a man named Percy Riddle he married a lady name
 <img src="https://www.hotfootdesign.co.uk/wp-content/uploads/2015/11/nasa07_1.jpg">
 
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/352622777&color=%23748cac&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-557982797" title="LilFerg4real" target="_blank" style="color: #cccccc; text-decoration: none;">LilFerg4real</a> · <a href="https://soundcloud.com/user-557982797/lil-ferg-range-rover" title="LIL FERG -RANGE ROVER" target="_blank" style="color: #cccccc; text-decoration: none;">LIL FERG -RANGE ROVER</a></div>
 <img src="https://i.ytimg.com/vi/ddNppeY520o/maxresdefault.jpg">
 <img src="https://i.ytimg.com/vi/vyvwBWjz8N8/maxresdefault.jpg">
 
@@ -854,15 +853,15 @@ A grid system provides an easy way for designers to structure and present conten
 
 {% include graffiti.md %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_vkQOweAnQ?si=ZyLacLsP1CRynHv6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2QjuTcVPDNY?si=oE2628jTGS4cycNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## Astro Pam,
 Kanye West was their friend at some level, but i really want you guyus to observe them
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aYrMKMtUbWk?si=UaCh8xjmBy6g602F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-1982 SPECIAL REPORT: "SINGLE MOTHERS"
+
+### 1982 SPECIAL REPORT: "SINGLE MOTHERS"
 
 
 [Hezakya Newz & Films](https://www.youtube.com/@HezakyaNewz)
@@ -872,10 +871,6 @@ Kanye West was their friend at some level, but i really want you guyus to observ
 ![N00137577](https://solarsystem.nasa.gov/images/casJPGBrowseS50/N00137577.jpg)
 ![Saturn](https://pbs.twimg.com/media/GVJI7ICbMAA4Q9c?format=jpg&name=small)
 
-
-
-
-[Jeremy's Wing Review - Magic City Kitchen (Atlanta, GA)](https://www.youtube.com/watch?v=olFgFp00TTw) [Live from Atlanta's Magic City strip club with owner Mr. Magic, Juju, Lou Will and Spank](https://youtu.be/3VcZAtO-K_Y?si=z7q-MIEOgZpp-qI3) [Atlanta Georgia Nightlife - Mercedes Benz Stadium - Walking Tour 4k](https://www.youtube.com/watch?v=4KlIhf867ig)
 ## Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address
 [Why Facebook Just Launched Its Own 'Dark Web' Site Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor).](https://www.wired.com/2014/10/facebook-tor-dark-site/)
 [Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address](https://thehackernews.com/2014/10/facebook-now-accessible-via-tor.html?_m=3n.009a.748.sk0aof3tqt.fmx)
@@ -884,31 +879,6 @@ Kanye West was their friend at some level, but i really want you guyus to observ
 [FACEBOOK'S DARK WEB .ONION SITE REACHES 1 MILLION MONTHLY TOR USERS](https://www.inverse.com/article/14672-facebook-s-dark-web-onion-site-reaches-1-million-monthly-tor-users)
 
 <IMG src="http://i.kinja-img.com/gawker-media/image/upload/s--lS5cFdtL--/wrlpspsqwyzhmron7hgp.jpg">
-
-
-[Joe Gibbs And The Destroyers - Nevada Joe ( Amalgamated ).](https://youtu.be/M4qOp9K54DM?si=RQcxj1FkGkma0e7m)
-[Wrecked community library defiant in face of violent UK riots](https://www.yahoo.com/news/wrecked-community-library-defiant-face-171427901.html)
-[HiErika](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/) Latto Reveals 21-Song 'Sugar Honey Iced Tea' Tracklist Featuring Teezo Touchdown, Ciara, [Mariah The Scientist](https://www.mariahthescientist.com/) and more, the LP drops tomorrow
-[Drake Shares 100GB of Unreleased Content Including Collaborations With Young Thug, Latto & 21 Savage](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/)
-
-
-![ArtOfGettingOver](https://pbs.twimg.com/media/GLoOf-eacAAjRgj?format=jpg&name=large)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/am9C2_DZ7s4?si=AiQIWZopsk5ZEKlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dm6hcG5GT24?si=nAlD52pc5xcsjsbx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-### coup d'é·tat /ˌko͞o dāˈtä/
-
-A coup d'état (/ˌkuːdeɪˈtɑː/ ⓘ; French: [ku deta]; lit. 'stroke of state'),[1] or simply a coup, is typically an illegal and overt attempt by a military organization or other government elites to unseat an incumbent leadership.[2][3] A self-coup is when a leader, having come to power through legal means, tries to stay in power through illegal means.[3] [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat)
-![Mayor Karen Bass](https://www.discoverlosangeles.com/sites/default/files/images/2024-06/Upright%20Citizens%20Brigade%20Juneteenth%202024.jpg?width=1600&height=686&fit=crop&quality=78&auto=webp)
-
 
 <figure class=" track">
     <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
