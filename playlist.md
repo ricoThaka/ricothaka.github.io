@@ -1,6 +1,7 @@
+<div id="playlist">
 
-<div class="playlist">
-     <blockquote>
+
+<blockquote>
       "How could you?
 How could you move on so fast?
 Forget about what we had
@@ -1039,7 +1040,7 @@ by Aaliyah
 </div>
 
 
-</div>
+
 
 
 [Maxine Wally](https://www.linkedin.com/in/maxine-wally-60042b42?original_referer=https%3A%2F%2Fwww.google.com%2F) [ReadMore](https://www.wmagazine.com/culture/aaliyah-rock-the-boat-music-video-making-of-interview) 

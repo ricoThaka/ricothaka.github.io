@@ -5174,7 +5174,54 @@ animation: 1s ease-in 3s 1 saturate;
 }
 
 
+#playlist {
+  display: flex;
+  flex-flow: row wrap;
+  flex-direction: row;
+}
 
+.track figure figcaption {
+  margin: 1px;
+  overflow: hidden;
+  flex: 1 1 200px;
+  border-radius: 0.3em;
+  transition: all 0.5s linear;
+  box-shadow: 0 0 0 1px hsla(0, 9%, 1%, 0.3) outset 0 0.5em 1em
+    rgba(0, 0, 0, 0.1);
+  text-shadow: 0 1px 1px hsla(0, 0%, 100%, 0.3);
+}
+
+.track:hover,
+.track:focus,
+.track:active {
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  transform: scale(1.09);
+}
+
+.track {
+}
+
+.track > img {
+  width: 100%;
+
+  transition: all 0.5s linear;
+}
+
+audio {
+  max-width: 100%;
+  transition: all 0.5s linear;
+}
+
+audio:hover,
+audio:focus,
+audio:active {
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+/*
 
 #playlist {
   display:flex;
@@ -5249,7 +5296,7 @@ audio:hover, audio:focus, audio:active
 -moz-transform: scale(1.05);
 transform: scale(1.05);
 }
-
+*/
 
 .gallery-rover {
   display: flex;
