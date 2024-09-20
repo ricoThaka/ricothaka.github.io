@@ -9,7 +9,7 @@
 
 
 ## imageMagick
-Normani i was working on a solution to extract all the colors from an image [imagemagick](https://imagemagick.org/index.php) is the solution, but i need a [terminal](https://developers.redhat.com/cheat-sheets/bash-shell-cheat-sheet?sc_cid=7015Y000003siHyQAI&gad_source=1&gclid=Cj0KCQjwurS3BhCGARIsADdUH515STP5UbVbDm3N6MaJK5TBieY61nmerqhniiGaAt-MksT6STA8DY8aAsJuEALw_wcB&gclsrc=aw.ds)
+Normani i was working on a solution to extract all the colors from an image [imagemagick](https://imagemagick.org/index.php) is the solution, but i need a [terminal](https://developers.redhat.com/cheat-sheets/bash-shell-cheat-sheet?sc_cid=7015Y000003siHyQAI&gad_source=1&gclid=Cj0KCQjwurS3BhCGARIsADdUH515STP5UbVbDm3N6MaJK5TBieY61nmerqhniiGaAt-MksT6STA8DY8aAsJuEALw_wcB&gclsrc=aw.ds). I can make big swatches out of any image! idk what [exiftool](https://exiftool.org/) can do with those values but i used it in the past to run algebraic calculations on focal length data
 
  >ImageMagick® is a free, open-source  software suite, used for editing and manipulating digital images. It can be used to create, edit, compose, or convert bitmap images, and supports a wide range of file formats, including JPEG, PNG, GIF, TIFF, and Ultra HDR.
 
