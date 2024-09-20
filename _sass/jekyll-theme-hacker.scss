@@ -288,20 +288,15 @@ width: 50vw;
   flex-wrap: nowrap;
 }
 h1 {
+  font: normal 14px/18px "Arial Black", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 3em;
   color: white;
+  text-shadow: rgba(255,255,255,1) 0px 0px 6px;
   /* background: linear-gradient(45deg, 
  #F2D338 25%, #262626 0, #262626 50%,
  #F2D338 0, #F2D338 75%, #262626 0);
 background-size: 80.4px 80.4px; */
-  background-color: #6d695c;
-  background-image:
-  repeating-linear-gradient(120deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
-  repeating-linear-gradient(60deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
-  linear-gradient(60deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1)),
-  linear-gradient(120deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1));
-  background-size: 70px 120px;
-  background-attachment: fixed;
+
 }
 
 

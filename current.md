@@ -6,6 +6,55 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+# [- LandSlide On Mars]
+
+![LANDSLiDE](https://static.uahirise.org/hipod/ESP_050033_1920.jpg)
+
+
+## Landslide!
+This image finally completes a stereo pair with another observation acquired in 2007. It shows a fresh (well-preserved) landslide scarp and rocky deposit off the edge of a streamlined mesa in Simud Valles, a giant outflow channel carved by ancient floods.
+
+The stereo images can be used to measure the topography, which in turn constrains models for the strength of the mesa’s bedrock. Do look at the stereo anaglyph.
+<cite>
+ID: ESP_050033_1920
+date: 30 March 2017
+altitude: 280 km
+
+https://uahirise.org/hipod/ESP_050033_1920
+NASA/JPL-Caltech/University of Arizona
+#Mars #science #NASA
+</cite>
+
+<iframe width="912" height="729" src="https://www.youtube.com/embed/radHy4HhhNg" title="Landslide (2017 Remaster)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![LandSlide](https://pbs.twimg.com/media/GXnx31absAA19w3?format=jpg&name=large)
+
+
+
+## Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address
+[Why Facebook Just Launched Its Own 'Dark Web' Site Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor).](https://www.wired.com/2014/10/facebook-tor-dark-site/)
+[Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address](https://thehackernews.com/2014/10/facebook-now-accessible-via-tor.html?_m=3n.009a.748.sk0aof3tqt.fmx)
+[Facebook opens up to anonymous Tor users with .onion address  THiS_Article is more than 7 years old ](https://www.theguardian.com/technology/2014/oct/31/facebook-anonymous-tor-users-onion)
+[facebookcorewwwi.onion is this a joke or something?](https://www.reddit.com/r/facebook/comments/kakwfk/facebookcorewwwionion_is_this_a_joke_or_something/)
+[FACEBOOK'S DARK WEB .ONION SITE REACHES 1 MILLION MONTHLY TOR USERS](https://www.inverse.com/article/14672-facebook-s-dark-web-onion-site-reaches-1-million-monthly-tor-users)
+
+<IMG src="http://i.kinja-img.com/gawker-media/image/upload/s--lS5cFdtL--/wrlpspsqwyzhmron7hgp.jpg">
+
+<figure class=" track">
+    <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
+    
+ <figcaption>naS - wAR aGAINST lOVE
+    </figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/nas-the-lost-tapes-2/II/09-War%20Against%20Love.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+  </figure>
+
+![rough mars](https://www.mars.asu.edu/data/mola_roughness/small/mola_roughness.png)
+
+
 ![addis normani is my wife - Rashard M R O](https://eoimages.gsfc.nasa.gov/images/imagerecords/35000/35824/addisababa_ast_2007350_lrg.jpg)
 ![MinimumWage](https://pbs.twimg.com/media/GXtKxqQasAAU_FB?format=png&name=4096x4096)
 
@@ -18,13 +67,7 @@
 
 
 
-[Beat Bop - Rammellzee + K-Rob](https://www.youtube.com/watch?v=9I56Kkxh_os)
-
-[Watch The Boondocks (Complete Series) on Archive.org](https://archive.org/details/the-boondocks-complete)
-[Local TinGz on https://thakarashard.github.io/](https://thakarashard.github.io/civic01)
-[Barrington Levy - Under Mi Sensi](https://www.youtube.com/watch?v=uozhx1xeTDg) [Ganja Smuggling - Eek-A-Mouse](https://www.youtube.com/watch?v=UR9Cj5UyVbM) [Bob Marley Tuff Gong Studio Rehearsal 1980 Full session](https://youtu.be/aXIDAd68ThI?si=mUAb-e0AyfKAPdjO) [Nas - Take it in Blood - hiphop](https://youtu.be/pmmnzusZZMU?si=j9p5MfQSv4Wn9YfR) [I Chase the Devil Max Romero](https://www.youtube.com/watch?v=zM4HXY1cLIY)
-
-[JPL and the Space Age: The Hunt for Space Rocks](https://www.youtube.com/watch?v=1wNzTyu36WA) [JPL and the Space Age: Landing on Mars](https://youtu.be/7aKewWHXXRE?si=MouyInZGPsjt8Yw6) 
+[Beat Bop - Rammellzee + K-Rob](https://www.youtube.com/watch?v=9I56Kkxh_os) [Watch The Boondocks (Complete Series) on Archive.org](https://archive.org/details/the-boondocks-complete) [Local TinGz on https://thakarashard.github.io/](https://thakarashard.github.io/civic01) [Barrington Levy - Under Mi Sensi](https://www.youtube.com/watch?v=uozhx1xeTDg) [Ganja Smuggling - Eek-A-Mouse](https://www.youtube.com/watch?v=UR9Cj5UyVbM) [Bob Marley Tuff Gong Studio Rehearsal 1980 Full session](https://youtu.be/aXIDAd68ThI?si=mUAb-e0AyfKAPdjO) [Nas - Take it in Blood - hiphop](https://youtu.be/pmmnzusZZMU?si=j9p5MfQSv4Wn9YfR) [I Chase the Devil Max Romero](https://www.youtube.com/watch?v=zM4HXY1cLIY) [JPL and the Space Age: The Hunt for Space Rocks](https://www.youtube.com/watch?v=1wNzTyu36WA) [JPL and the Space Age: Landing on Mars](https://youtu.be/7aKewWHXXRE?si=MouyInZGPsjt8Yw6) 
 [Hubble Space Telescope, Planet 9, Curiosity Mars Rover, Cosmic Roulette  60 Minutes Full Episodes](https://youtu.be/ZYlALC1Pmv4?si=0GnKqpjKQmyYaxFw) 
 [Inside SpaceX's Mission to Send Humans into Deep Space  Foreign Correspondent](https://youtu.be/qInkR8P7q3M?si=uG4WNpxUxhCW0Igj) 
 [Mars Direct 3  A Proposal for SpaceX's Mars Program  Miguel Gurrea](https://youtu.be/YA7YQcA9Waw?si=LTJHZDvY65gHNnjG)
@@ -291,9 +334,6 @@ An algal bloom clouded the waters of California’s Clear Lake in mid-May 2024. 
   </div>
 </div>
 
-![Rush](https://i.discogs.com/KLnJUaC8niAaQ3G1pKjBVsbIY-pzdH6zwX7nZv5WHZ0/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYy/Njc3LTE1MDkxNTgz/MDYtMTY3Ny5qcGVn.jpeg)
-![RushCassette](https://m.media-amazon.com/images/I/51XLG-OID6L._UF1000,1000_QL80_.jpg)
-![RushCassettpaper](https://i.discogs.com/g50rHMOWF5gCgvzutWavk1aTvYOcVQJGCZfyTWZvDpE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYy/Njc3LTE1MDkxNTgy/OTEtNjc4NS5qcGVn.jpeg)
 
 ## File name: W00020096.jpg
 Taken: Nov. 28, 2006 5:06 PM
@@ -313,13 +353,6 @@ The camera was pointing toward SATURN-RINGS, and the image was taken using the C
 ## The Empire strikes Back
 <iframe src="https://archive.org/embed/arcade_esb" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-## Discs of Tron ![DiscsOfTron](https://upload.wikimedia.org/wikipedia/en/d/da/Discs_of_Tron_Flyer.png)
-Discs of Tron is the second arcade video game based on the 1982 Disney film Tron.[2][3] While the first Tron is a collection of four minigames, Discs of Tron is a single game inspired by Tron's disc-battles. It is set in an arena similar to the one in the jai alai–style sequence.
-[Archive](https://archive.org/details/arcade_dotron)
-<iframe src="https://archive.org/embed/arcade_dotron" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-## Run and Gun (ver EAA 1993 10.8)
-<iframe src="https://archive.org/embed/arcade_rungun" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # CiviC 03
 Erika, im talking about you in here. I forgive you, i have moved on sexually, even tho i still have feelings for you., Im not able to function and have to tell me story. I hope i dont needlessly offend you
@@ -355,6 +388,7 @@ Erika, im talking about you in here. I forgive you, i have moved on sexually, ev
 ![Mars_Rover](https://photojournal.jpl.nasa.gov/archive/PIA26344.gif)
 [RusH WorkingMan 1972](https://www.youtube.com/watch?v=IrxzRFj03Ro) [Jimi Hendrix Manic Depression - The Experiance](https://www.youtube.com/watch?v=xI-WVWM_GR0)[Houses Of The Holy - Led Zeppelin HD](https://www.youtube.com/watch?v=fPv2bbCTAfw)
 [[𝐜𝐥𝐚𝐬𝐬𝐢𝐜 𝐟𝐫𝐞𝐧𝐜𝐡 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭] oldies but goldies  famous old french songs](https://www.youtube.com/watch?v=DQByGm2y50Y) [Edith Piaf - La foule](https://www.youtube.com/watch?v=Fgn8gZHJZzA)
+
 ## Normani if you are claiming me
 You have to talk about how im being burned and my hair has lice mounds, that sting when ppl spray they are dormant otherwise as i pick them off and scrape out the dust they scramble together some pairing for sex other wrestleing out of bordom [HairCare](https://youtu.be/PDyBIoY1MfU?si=M0DTqNs3udSBQlKE) they look like headlice, its the living in my head thing, and there is this goo that forms on the base of my folicles that they make the mounds out of .. its [LittleBigPlanetOnMyHEad!](https://www.youtube.com/watch?v=oh5mzqjgRj4&list=PL9H1ai1PRZ3P-Rn3EGf41afqag2nGggXl&index=121)
 
@@ -364,13 +398,6 @@ You have to talk about how im being burned and my hair has lice mounds, that sti
 {% include webtools.md %}
 
 [T.I. vs. T.I.P.](https://www.youtube.com/watch?v=m22FBIW8w1k) [DG Yola Fea. Goodie Mob "Get Some Of Dat Yola" ](https://www.youtube.com/watch?v=Rc1v8zcNhpI)
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/679979270&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skyzoomusic" title="Skyzoo" target="_blank" style="color: #cccccc; text-decoration: none;">Skyzoo</a> · <a href="https://soundcloud.com/skyzoomusic/truck-jewels-feat-pete-rock" title="Truck Jewels" target="_blank" style="color: #cccccc; text-decoration: none;">Truck Jewels</a></div>
-
-[Omeretta The Great: SorryNot SorryYou Aint From](https://www.youtube.com/watch?si=Zi2yt5iayNqxS1h5&v=6IvchaA0B3Y&feature=youtu.be) [relatedTweet](https://x.com/MooNLOVER404/status/1830388299544121593)
-![weather](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeswestabiconus-09p61um-sSep%2003%2C%202024%20-%2018_16%20UTC-eSep%2003%2C%202024%20-%2019_51%20UTC.gif)
-![fff](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeswestabiconus-00p64um-sMay%2021%2C%202024%20-%2021_36%20UTC-eMay%2021%2C%202024%20-%2023_11%20UTC.gif)
-![ggg](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeseastabiconus-daycloudphase-sMay%2021%2C%202024%20-%2016_06%20UTC-eMay%2021%2C%202024%20-%2017_41%20UTC.gif)
 
 ![OmerettaTheGreat](https://pbs.twimg.com/media/GWbZZxTbAAEBT51?format=jpg&name=large)
 ![CitizenKane](https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
@@ -400,15 +427,6 @@ I want you to look at Atomic Red HEad post about the old [Uniroyal Tire Factory]
 ![atomicredhead.com](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel015.jpg?quality=100&strip=all&ssl=1)
 ![cuniform](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel030.jpg?resize=765%2C510&quality=100&strip=all&ssl=1)
 ![i c y](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel008.jpg?quality=100&strip=all&ssl=1)
-
-## I hope I dont offend you, I kept some things from Jehovahs witnesses but I personally threw watching "demonic_Movies" out of the window because I dont see anything wrong with non-exploitive folklore
-### Click_Tha_LiNKS
-[Vampire Hunter D (1985) [english-sub] [vostfr]](https://www.youtube.com/watch?v=sSr1WwuPmBs)
-[Vampire Hunter D Bloodlust English](https://www.youtube.com/watch?v=GEVHYLNf1mo)
-please let me know if either of these scrambles for you
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/K9HtSXwB1Fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 <img src="https://i.discogs.com/NYONv2tIFfJic7c9aVtZ5SHgKLX0CpaAfOnFs9J9rsQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDMz/NDgtMTUyNDk5MTAy/MS0yMTI5LmpwZWc.jpeg">
@@ -447,17 +465,6 @@ please let me know if either of these scrambles for you
 [Digable Planets - 9th Wonder (Blackitolism)](https://www.youtube.com/watch?v=SyeI43BeR54)
 [Special Ed - I Got It Made (Official Video)](https://www.youtube.com/watch?v=N_9GuiE5Fck)
 [‘FX CREW’ (Graffiti Writers Crew) New York, 1998 [RARE full graff art VHS documentary archive]](https://www.youtube.com/watch?v=Jv7ECeiD1p4) [Tenor Saw - Who's Gonna Help Me Praise](https://www.youtube.com/watch?v=Bx9QB8qtehQ)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/895314484&color=%239c7434&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/temsbaby" title="Tems" target="_blank" style="color: #cccccc; text-decoration: none;">Tems</a> · <a href="https://soundcloud.com/temsbaby/free-mind" title="Free Mind" target="_blank" style="color: #cccccc; text-decoration: none;">Free Mind</a></div>
-<img src="https://video-images.vice.com/articles/584056ba5460bf4f35a54b57/lede/america-is-dying-slowly-resized-2.jpg">
-
-[America Is Dying Slowly Full](https://www.youtube.com/watch?v=mPCHG2VB4Hc)
-[20 Years Ago, Coolio, De La Soul, and the Rest of Rap Chipped in to Raise HIV/AIDS Awareness](https://www.vice.com/en/article/8gxb3b/20-years-ago-coolio-de-la-soul-and-the-rest-of-rap-chipped-in-to-raise-hivaids-awareness)
-
-<img src="https://images.footlocker.com/is/image/EBFL2/D5874700_a3?wid=2000&hei=2000&fmt=png-alpha">
-<img src="https://images.footlocker.com/is/image/EBFL2/M8338800_a4?wid=2000&hei=2000&fmt=png-alpha">
-<img src="https://images.footlocker.com/is/image/EBFL2/H8010101_a5?wid=2000&hei=2000&fmt=png-alpha">
-<img src="https://images.footlocker.com/is/image/EBFL2/C9450100_a3?wid=2000&hei=2000&fmt=png-alpha">
-<img src="https://images.footlocker.com/is/image/EBFL2/Q7783600_a4?wid=2000&hei=2000&fmt=png-alpha">
 
 
 
@@ -513,22 +520,8 @@ This image was taken by Left Navigation Camera onboard NASA’s Mars rover Curio
 
 <cite> sup nabril</cite>
 
-#  its rashard that used to be at TatsCruCommunityCenterHuntsPoint and Normani husband... Thaka
-i think its gonna work out. Im scared of common, ill be honest all my hiphop heros got impersonated or not in my wifes prostitution in hollywood and im relearning to listen to music. Im sleeping outdoors finally so my body is more adept to breaking. iDk what CrazyLegs is going through but we had an RSC dancer taking classes at Dance411. If you heard of [Sammy Davis Jr.](https://www.youtube.com/watch?v=OXYndNL4Mu8). Anywat he old school playboy and his boys control alot of the girls. I cant remember if it was you or how long you were in america but i grew. I work at [NasaJPL](https://www.jpl.nasa.gov/) im just locked out and i have a lot of false allagation from knowingthose girls from Dance411. [Normani - Motivation](https://www.youtube.com/watch?v=FKXSh14svlQ) Thats her MudFace song and you can look. Man its that whole kunyaza thing and I got hurt feelings. Itsounds so gross at this point im sure [Uganda Parliament](https://www.parliament.go.ug/) knows i looked up the word [Kunyaza](https://www.parliament.go.ug/)... why did i do that?!?! Anyway im still working on my [Six Step](https://youtu.be/J9mFCAERAC4?si=wFb0CZtT7lcHKkwd) [Mighty Zulu Kings](https://youtu.be/AVZyNqDjgnI?si=Vx6GOX1Dpl7H1o8-) u know what i dont care what he moves like now! I wanna know bc i get poisoned when i start having fun dancing! ~> there  [Spoonie GeeLove Rap](https://youtu.be/cv2ReNgW8I0?si=cr5W6_OKCA8lqaKn)  [Treacherous Three - Feel the heartbeat - 1981](https://www.youtube.com/watch?v=Hk_DBrjtH0s) [The New Rap Language](https://youtu.be/ppdQMWKQ2ok?si=NDZhEmaibyTDOn3_) [The Body Rock](https://www.youtube.com/watch?v=bo8u7aQEmUo) [Rappin and Rocking the House (Version B)](https://youtu.be/D1xnK3xVQY4?si=Tna8F65EJjIUcRxG) [Superrappin'](https://youtu.be/Up8zxybJNHQ?si=7vYe0Ilnux7jmSWd) [Time Machine-The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=sWlWNsKNUSS9GreM) [Yma Sumac – Mambo! (1955) - Latin Folk Jazz Exotica](https://youtu.be/T7kPRvm7X34?si=dlEsijdHgSHuhBDx) [Esquivel and his orchestra - Other worlds, other sounds LP: RCA Victor](https://youtube.com/playlist?list=PLCzdBMu_SA7HkBCfIrvVibp_1a_H5JGb6&si=D7nwcE3mDWRgPRUw) [Yma Sumac sings Taita Inty "Hymn of the Sun Virgin" 1950. The Colgate Comedy Hour.](https://youtu.be/5waBf-jzZmc?si=d672wz6zBUZtNEEA) HipHop/Funk RollerRinky~
+Anyway im still working on my [Six Step](https://youtu.be/J9mFCAERAC4?si=wFb0CZtT7lcHKkwd) [Mighty Zulu Kings](https://youtu.be/AVZyNqDjgnI?si=Vx6GOX1Dpl7H1o8-) u know what i dont care what he moves like now! I wanna know bc i get poisoned when i start having fun dancing! ~> there  [Spoonie GeeLove Rap](https://youtu.be/cv2ReNgW8I0?si=cr5W6_OKCA8lqaKn)  [Treacherous Three - Feel the heartbeat - 1981](https://www.youtube.com/watch?v=Hk_DBrjtH0s) [The New Rap Language](https://youtu.be/ppdQMWKQ2ok?si=NDZhEmaibyTDOn3_) [The Body Rock](https://www.youtube.com/watch?v=bo8u7aQEmUo) [Rappin and Rocking the House (Version B)](https://youtu.be/D1xnK3xVQY4?si=Tna8F65EJjIUcRxG) [Superrappin'](https://youtu.be/Up8zxybJNHQ?si=7vYe0Ilnux7jmSWd) [Time Machine-The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=sWlWNsKNUSS9GreM) [Yma Sumac – Mambo! (1955) - Latin Folk Jazz Exotica](https://youtu.be/T7kPRvm7X34?si=dlEsijdHgSHuhBDx) [Esquivel and his orchestra - Other worlds, other sounds LP: RCA Victor](https://youtube.com/playlist?list=PLCzdBMu_SA7HkBCfIrvVibp_1a_H5JGb6&si=D7nwcE3mDWRgPRUw) [Yma Sumac sings Taita Inty "Hymn of the Sun Virgin" 1950. The Colgate Comedy Hour.](https://youtu.be/5waBf-jzZmc?si=d672wz6zBUZtNEEA) HipHop/Funk RollerRinky~
 [You've Gotta Believe (Vocal) · Lovebug Starski](https://youtu.be/YcXlDqstZUM?si=S_-L8RmSuGXAkQAM) [Positive Life · Lovebug Starski · Harlem World Crew](https://youtu.be/04-8u2Memes?si=ZVP33fTayRXCz6FH) [Alicia Myers - I want to thank you](https://youtu.be/R9wGnnwBc9M?si=nmsUj4XUnRRHhju7) [Golden Flamingo Orchestra Featuring Margo Williams   The Guardian Angel Is Watching Over Us](https://youtu.be/kTp0-IRuYLU?si=Z2vE4TKf3dhGJmHi) [Margo Williams - God Save And Protect All The Children](https://youtu.be/yz19n4eS3eQ?si=ESnBkvSlqWTQBdj-) [Nights Over Egypt · The Jones Girls](https://youtu.be/f2WgspFSpio?si=MVEPklBbV8uj3KaW) [I Love You More · René & Angela](https://youtu.be/Pa8EmB124mU?si=ehM2wGvmtbOSsFyw) [Xavier, Do It to the Max](https://youtu.be/JXTZ4OqQIr4?si=9AJ3mlSTB1alT444) [52nd Street - Tell Me (How it Feels) ](https://youtu.be/3Ck25PGjlLc?si=xSYHOzF6tY590DYg) [Razzamatazz · Quincy Jones](https://youtu.be/H8atbyVp-Pk?si=S3Wt3F2fwFzVvUa6) [Juicy - Sugar Free](https://youtu.be/z4rlMOGxtVY?si=AtU5q-JRWyeB4Wuo) [Adam and Eve · Nas · The-Dream](https://youtu.be/tobfI7tl7-g?si=yG2QHamIS8xOVrpV) [Sade - Turn My Back On You](https://youtu.be/CCzANcg3Xag?si=DvJzeab8_fsdMitS) 
-
-
-
-## Dear_House_of_reps
-I have been doing research on the planet mars in public for a bout 4 years. CNN is covering my work and i have trouble eating and communicating. My Family vanished and no Social Security number based resource will aid me. I am struggling with hunger at times and have no shelter. I have women i need to reconnect with to find out what happend. They got kidnapped just b4 covid and tricked me into coming to california, where i was supposed to be headed anyway! And i found out they are victims of a Sex MArket online and the Street Walking and Dancing is just for display. I am complaining about CNN bc Ashley Strickland has no issues communicating from what i see and im stalked and chased by Allied Universal who is the BodyGaurd people of choice of Atlanta's YallyWood and CentralNewsNetwork. I am a native so the girls i was raised to think would be my spouses are up for NBA, Comedy, Film < journalism and everyother industry to deposit semen into. I dont know where my daughter ios from 631 Moreland Ave's illegal eviciton of Rashard Iman Kelly after being denied resources by family services leading to the foprced abduction of Coral Iris Kelly from the home of Copnstancia Arriba. So her i am in Holly wood. I am dating a Popstar named Normani off an on an she plays MineCraft. So thats my side outside. She is really pretty and poses for Vogue but a dark part of her life is that the pictures she takes nude for various publications are used by the local sex trade to keep her marketable for visitors to the city of los angeles and healthy to maintain telepathy for local criminals. She is my best friend(at this level(coral that shit 100bruh)). And since she is mixing with a lot of media i think my blogging gets into the hands of ppl with the power to publish at will. I need balance and a kind cooling center. CNN since we are working to gether can you help me off the streets digitally, can you  help me reconcile my family? Rashard Kelly aka Thaka(Muna Husband, Latto City Erika n nem Husband ) out NasaJPl Mars Mission Address: Jet Propulsion Laboratory, 4800 Oak Grove Dr, Pasadena, CA 91011 [Please Read](https://thakarashard.github.io/ricothaka/dispositionforsherrif)
-
-#TwitterBlock  Screen Recording 2024 08 19 11.55.48 AM <iframe src="https://archive.org/embed/screen-recording-2024-08-19-11.55.48-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
-<a href="https://ricothaka.github.io/worknotes01"><img src="https://pbs.twimg.com/media/GVJMo0haYAAQRdu?format=jpg&name=large" alt="ricothaka.github.io"> </a>
-
-
 
 
 
@@ -594,14 +587,6 @@ Raw images are photos from space missions that NASA provides online for easy pub
   </div>
  </div>
 
-<div class="social">
-  <a href="https://twitter.com/moonlover404" target="_blank">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/149103/twitter.svg" alt="">
-  </a>
-
-</div>
-
-<iframe src="https://archive.org/embed/arcade_rtype2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 [Compiling WasUpdated](https://thakarashard.github.io/compiling/)
@@ -876,27 +861,6 @@ Kanye West was their friend at some level, but i really want you guyus to observ
 ![N00137577](https://solarsystem.nasa.gov/images/casJPGBrowseS50/N00137577.jpg)
 ![Saturn](https://pbs.twimg.com/media/GVJI7ICbMAA4Q9c?format=jpg&name=small)
 
-## Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address
-[Why Facebook Just Launched Its Own 'Dark Web' Site Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor).](https://www.wired.com/2014/10/facebook-tor-dark-site/)
-[Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address](https://thehackernews.com/2014/10/facebook-now-accessible-via-tor.html?_m=3n.009a.748.sk0aof3tqt.fmx)
-[Facebook opens up to anonymous Tor users with .onion address  THiS_Article is more than 7 years old ](https://www.theguardian.com/technology/2014/oct/31/facebook-anonymous-tor-users-onion)
-[facebookcorewwwi.onion is this a joke or something?](https://www.reddit.com/r/facebook/comments/kakwfk/facebookcorewwwionion_is_this_a_joke_or_something/)
-[FACEBOOK'S DARK WEB .ONION SITE REACHES 1 MILLION MONTHLY TOR USERS](https://www.inverse.com/article/14672-facebook-s-dark-web-onion-site-reaches-1-million-monthly-tor-users)
-
-<IMG src="http://i.kinja-img.com/gawker-media/image/upload/s--lS5cFdtL--/wrlpspsqwyzhmron7hgp.jpg">
-
-<figure class=" track">
-    <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
-    
- <figcaption>naS - wAR aGAINST lOVE
-    </figcaption>
-    <audio controls loop>
-      <source src="https://archive.org/download/nas-the-lost-tapes-2/II/09-War%20Against%20Love.mp3">
-      Your browser dose not Support the audio Tag
-    </audio>
-  </figure>
-
-![rough mars](https://www.mars.asu.edu/data/mola_roughness/small/mola_roughness.png)
 
 ![DatPiFF](https://www.datpiff.com/assets/images/datpiff-logo-white.png)
 [JAY ELECTRONICACURRENCYMOS DEF - Jay Electronica (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md4ebe25) [Jay Electronica - Unreleased (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m8fca3ca) [Jay Electronica Discography ?](https://www.reddit.com/r/hiphop101/comments/1vbiju/jay_electronica_discography/?rdt=41981&onetap_auto=true&one_tap=true) [Act II: The Patents Of Nobility (The Turn)](https://archive.org/details/jay-electronica-act-II-the-patents-of-nobility-the-turn ) [Jay Electronica - Act 1 The Eternal Sunshine the (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md1d01fd) [DATPIFF Hip-Hop Mixtape Archives](https://archive.org/details/datpiffarchives) [Keep On Rockin It (feat. Charizma) - PeanutButterWolf My Vinyl Weighs a ton](https://youtu.be/klNiPcJMSvs?si=oKmDj7ekJrhweyyY) [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7) [J A Y E L E C T R O N I C A - Letter to Falon](https://youtu.be/VtM62E7KZ6o?si=kfvh-38GJb2uc4sj)
