@@ -6,6 +6,39 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+# Jekyll Posts
+## Blogging is baked into Jekyll. You write blog posts as text files and Jekyll provides everything you need to turn it into a blog.
+[ReadHere](https://jekyllrb.com/docs/posts/)
+Here’s an example of outputting a list of blog posts with an excerpt:
+{% highlight ruby %} 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+{% endhighlight %}
+
+{% highlight ruby %} 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+{% endhighlight %}
+
+Tags and CategoriesPermalink
+Jekyll has first class support for tags and categories in blog posts.
+
+TagsPermalink
+Tags for a post are defined in the post’s front matter using either the key tag for a single entry or tags for multiple entries.
+Since Jekyll expects multiple items mapped to the key tags, it will automatically split a string entry if it contains whitespace. For example, while front matter tag: classic hollywood will be processed into a singular entity "classic hollywood", front matter tags: classic hollywood will be processed into an array of entries ["classic", "hollywood"].
+
 [Reshaping the Industry: 7 Ways T-7 Advances Pilot Training](https://www.boeing.com/features/2024/07/reshaping-the-industry-7-ways-t-7-advances-pilot-training)
 
 ![Boeing-t7](https://www.boeing.com/content/theboeingcompany/us/en/features/2024/07/reshaping-the-industry-7-ways-t-7-advances-pilot-training/_jcr_content/root/container_455971095/container/image_898200704.coreimg.85.1600.jpeg/1721416036098/t7-built-with-maintainers-in-mind.jpeg)
