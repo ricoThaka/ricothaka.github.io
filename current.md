@@ -6,6 +6,7 @@
 {% endhighlight %}
 
 # Currently Compiling
+[Reshaping the Industry: 7 Ways T-7 Advances Pilot Training](https://www.boeing.com/features/2024/07/reshaping-the-industry-7-ways-t-7-advances-pilot-training)
 
 ![Boeing-t7](https://www.boeing.com/content/theboeingcompany/us/en/features/2024/07/reshaping-the-industry-7-ways-t-7-advances-pilot-training/_jcr_content/root/container_455971095/container/image_898200704.coreimg.85.1600.jpeg/1721416036098/t7-built-with-maintainers-in-mind.jpeg)
 
