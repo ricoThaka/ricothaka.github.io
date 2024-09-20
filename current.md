@@ -7,6 +7,7 @@
 
 # Currently Compiling
 
+![Boeing-t7](https://www.boeing.com/content/theboeingcompany/us/en/features/2024/07/reshaping-the-industry-7-ways-t-7-advances-pilot-training/_jcr_content/root/container_455971095/container/image_898200704.coreimg.85.1600.jpeg/1721416036098/t7-built-with-maintainers-in-mind.jpeg)
 
 ## imageMagick
 Normani i was working on a solution to extract all the colors from an image [imagemagick](https://imagemagick.org/index.php) is the solution, but i need a [terminal](https://developers.redhat.com/cheat-sheets/bash-shell-cheat-sheet?sc_cid=7015Y000003siHyQAI&gad_source=1&gclid=Cj0KCQjwurS3BhCGARIsADdUH515STP5UbVbDm3N6MaJK5TBieY61nmerqhniiGaAt-MksT6STA8DY8aAsJuEALw_wcB&gclsrc=aw.ds). I can make big swatches out of any image! idk what [exiftool](https://exiftool.org/) can do with those values but i used it in the past to run algebraic calculations on focal length data
