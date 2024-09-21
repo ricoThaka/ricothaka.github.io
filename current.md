@@ -7,11 +7,12 @@
 
 # Currently Compiling
 
-# Jekyll Posts
-## Blogging is baked into Jekyll. You write blog posts as text files and Jekyll provides everything you need to turn it into a blog.
-[ReadHere](https://jekyllrb.com/docs/posts/)
+## Jekyll Posts
+ Blogging is baked into Jekyll. You write blog posts as text files and Jekyll provides everything you need to turn it into a blog. [ReadHere](https://jekyllrb.com/docs/posts/)
 Here’s an example of outputting a list of blog posts with an excerpt:
-{% highlight ruby %} 
+
+
+```ruby 
 <ul>
   {% for post in site.posts %}
     <li>
@@ -20,9 +21,7 @@ Here’s an example of outputting a list of blog posts with an excerpt:
     </li>
   {% endfor %}
 </ul>
-{% endhighlight %}
 
-{% highlight ruby %} 
 <ul>
   {% for post in site.posts %}
     <li>
@@ -30,7 +29,7 @@ Here’s an example of outputting a list of blog posts with an excerpt:
     </li>
   {% endfor %}
 </ul>
-{% endhighlight %}
+```
 
 Tags and CategoriesPermalink
 Jekyll has first class support for tags and categories in blog posts.

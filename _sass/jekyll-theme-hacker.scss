@@ -17,7 +17,7 @@ html {
    /* font: normal 15px/19px "VT323", "IBM Plex Sans", "Lucida Sans Unicode", verdana, lucida,
     sans-serif; */
     /* font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;  */
-  background : #DB362D; 
+  background : #595959; 
   background-image :
     linear-gradient(#262626 1px, transparent 0),
     linear-gradient(90deg, #262626 1px, transparent 0);
@@ -141,8 +141,8 @@ p:first-of-type {
 
 #MAiN {
   margin: 0 auto;
-  width: 50vw;
-  height: 99vh;
+  width: 55vw;
+  height: 100vh;
   margin: auto;
   
 
@@ -225,7 +225,7 @@ li:hover ul {
 #navcontainer {
   display:block;
   padding: 0;
-width: 50vw;
+width: 55vw;
   height: 20px;
   display: flex;
   background-color: black;
@@ -340,10 +340,15 @@ ul li {
 }
 
 blockquote {
-  color: aqua;
-  padding-left: 10px;
-  margin-right:10px;
-  border-left: 1px dotted yellow;
+  font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;  
+  padding-left: 20px;
+  color:white;
+  text-shadow: 1px 1px 2px white;
+  margin-right:20px;
+  border-left: 2px dotted yellow;
+  background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+  center repeat;
 }
 
 pre {
@@ -399,7 +404,7 @@ hr {
   color: white;
   padding: 5px;
   position: fixed;
-  width: 50vw;
+  width: 55vw;
 
 }
 
@@ -5174,120 +5179,78 @@ animation: 1s ease-in 3s 1 saturate;
 }
 
 
-figure {
-  transition: all 0.5s linear;
-  border: thin #c0c0c0 solid;
-  display: flex;
-  flex-flow: column;
-  padding: 5px;
-  max-width: 220px;
-  margin: auto;
-  background: linear-gradient(
-    45deg,
-    #db362d 25%,
-    #e8f5fd 0,
-    #e8f5fd 50%,
-    #db362d 0,
-    #db362d 75%,
-    #e8f5fd 0
-  );
-  background-size: 80.4px 80.4px;
-  background-attachment: fixed;
-  border-radius: 10px;
-}
 
-figure:hover,
-figure:focus,
-figure:active {
-  background: linear-gradient(
-    45deg,
-    #db362d 25%,
-    #e8f5fd 0,
-    #e8f5fd 50%,
-    #db362d 0,
-    #db362d 75%,
-    #e8f5fd 0
-  );
-  background-size: 480.4px 480.4px;
-  background-attachment: fixed;
-  border-radius: 10px;
-  transform: scale(1.05);
-}
-figure {
-}
-
-img {
-  border-radius: 10px 10px 0px 0px;
-  max-width: 220px;
-  max-height: auto;
-  transition: all 0.5s linear;
-}
-
-img:hover {
-  transform: scale(1.05);
-}
-
-figcaption {
-  background-color: #222;
-  color: #fff;
-  padding: 3px;
-  text-align: center;
-  transition: all 0.5s linear;
-}
-
-figcaption:hover {
-  transform: scale(1.05);
-}
-audio {
-  background: white;
-  border-radius: 0px 0px 10px 10px;
-}
-
-#playlist {
-  display: flex;
+.playlist {
+  display:flex;
   flex-flow: row wrap;
   flex-direction: row;
-}
 
-.track figure figcaption {
-  margin: 1px;
-  overflow: hidden;
+} 
+
+.track {
+ margin: 1px;
+  overflow:hidden;
   flex: 1 1 200px;
-  border-radius: 0.3em;
-  transition: all 0.5s linear;
-  box-shadow: 0 0 0 1px hsla(0, 9%, 1%, 0.3) outset 0 0.5em 1em
-    rgba(0, 0, 0, 0.1);
-  text-shadow: 0 1px 1px hsla(0, 0%, 100%, 0.3);
+border-radius: 0.3em;
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+
+
 }
 
-.track:hover,
-.track:focus,
-.track:active {
-  -webkit-transform: scale(1.05);
-  -moz-transform: scale(1.05);
-  transform: scale(1.09);
+.track:hover, .track:focus, .track:active
+{
+
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.09);
 }
 
 .track {
+
 }
 
-.track > img {
-  width: 100%;
+.container-audio {
 
-  transition: all 0.5s linear;
+    padding: 0px;
+
+
+}
+.track>img { width:100%;
+
+   -webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
 }
 
 audio {
-  max-width: 100%;
-  transition: all 0.5s linear;
+
+
+
+
+    -webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+
+  text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
+  background: hsla(0,0%,100%,.9) border-box;
+}
+audio:nth-child(2), audio:nth-child(4), audio:nth-child(6) {
+    margin: 0;
 }
 
-audio:hover,
-audio:focus,
-audio:active {
-  -webkit-transform: scale(1.05);
-  -moz-transform: scale(1.05);
-  transform: scale(1.05);
+
+audio:hover, audio:focus, audio:active 
+{
+
+
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
 }
 
 
