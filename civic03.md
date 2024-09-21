@@ -8,6 +8,38 @@
 
 ![LA](https://pbs.twimg.com/media/GXi-9RGaAAABja8?format=jpg&name=4096x4096)
 
+
+
+![OmerettaTheGreat](https://pbs.twimg.com/media/GWbZZxTbAAEBT51?format=jpg&name=large)
+![CitizenKane](https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
+[Citizen Kane 1941 Orson Welles](https://archive.org/details/citizen-kane-1941-orson-welles) [citizen Kane[1]on vimeo](https://vimeo.com/457349559) 
+<video controls width="100%" height="auto" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Citizen-Kane-Soundstage.jpg/960px-Citizen-Kane-Soundstage.jpg">
+    
+<source src="https://archive.org/download/citizen-kane-1941-orson-welles/Citizen%20Kane%201941%20Orson%20Welles.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/citizen-kane-1941-orson-welles/Citizen%20Kane%201941%20Orson%20Welles.mp4">MP4</a>
+        video.
+</video> 
+
+![Ms_Bass](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZmbmU0ajB4ejJzZWg5MGp6amk4dG5pcmV6ZnFodDNwYzkwdWdiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gu8XqgfYOZyLsd4n3d/giphy.webp)
+
+# Ms Bass
+I want you to look at Atomic Red HEad post about the old [Uniroyal Tire Factory](https://www.latimes.com/archives/la-xpm-1990-11-30-me-5582-story.html). I need you to listen to her perspective. The people that make a lot of moves here dont know that its an ancient civilization! California was a satilitte of [Abyssinia](https://en.wikipedia.org/wiki/Ethiopian_Empire) millenia b4 a german waddled overhere! And the children have no respect for us! [Muni_Long](https://www.youtube.com/watch?v=vYa3ak-3p60) did some research and so did Erika and a few other girls i know with Ethioppian roots and determined that we were somalian egyptins or something... [OROMO](https://www.youtube.com/playlist?list=PLL2oNlnkQQGA1B8b0LZCz8SoFhGCZiera). Those are the children of  [Nebuchadnezzar II](https://quran.com/en/5:70/tafsirs/en-tafsir-maarif-ul-quran) moved the familyawayfromiRaq after an Ecological Attack and they settled near the [Garden Of Eden](https://anglo-ethiopian.org/publications/articles.php?type=L&reference=publications/articles/2011spring/paradise.php) in Ethiopia. At least thats where myBiblerearing brought me. So this is it.I have holes in myflesh leaking yellow fluid, if i go to UCLA they chop my legoff! And I get no access to my family likeim really mistreated personally bc i have a relationship with a popstar that got [victimizedbyporn](https://www.ajc.com/news/normani-talks-camila-cabello-racism-and-bullying-new-interview/1QoirFXkoiQYdH1Z0THkvN/) and its a system PlayBoy put in place to eliminate any trace of the africans rulership of this region. And since He was fromIraq and moved south to Ethiopia the asian Presence in Los Angeles makes sense! And We have similar things that pop out in group dance. i love normaNi for sharing that with me. Now when you read [Atomic_Redhead](https://x.com/atomic_redhead) aarticle about The Citadel I want you to examine the architechture and see if answers exist that NAsaJPL can use to reconcile e family  ![Ethiopian in PreColumbian America](https://pbs.twimg.com/media/GWbXMKvaQAAif_m?format=jpg&name=small)
+![Rolling Stone Normani](https://pbs.twimg.com/media/ER3fr_8WoAICxpW?format=jpg&name=small)
+
+> But why an Assyrian inspired design? There are two thoughts on that. One is in the name of the company itself, Samson. Samson was a character from the Bible and known for his strength. “There’s the idea about strength in tires, and that tires are the foundation for your car,” said Adrian Scott Fine of the Los Angeles Conservancy. Fine also pointed to the fact that King Sargon’s palace, Dur-Sharrukin, had been in the headlines earlier in 1928, as it was being excavated by American archaeologists. And some of the images on the company’s main building reflect those of King Sargon. King Sargon reigned from 721 B.C. to 705 B.C. in what is now Khorsabad, Iraq. </cite> - [AtomicRedHead.cOm](https://atomicredhead.com/2019/02/05/the-outlet-mall-masquerading-as-an-assyrian-palace/)
+
+[Why LA's Citadel Looks Like An Ancient Assyrian Palace](https://laist.com/news/why-las-citadel-looks-like-an-ancie) [An Assyrian Palace Is Reborn as a Discount Outlet in a Fusion of Style and Savvy](https://www.latimes.com/archives/la-xpm-1991-02-03-re-648-story.html) [Who Knew #2 Before the Citadel Outlets the Tire Companies](https://lifeaccordingtoerick.blogspot.com/2014/08/who-knew-2-before-citadel-outlets-tire.html) [Proposed LA Metro Station](https://en.wikipedia.org/wiki/Citadel_Outlets) [Los Angeles: A Community of the Living and the Dead.](https://www.theartblog.org/2010/10/los-angeles-a-community-of-the-living-and-the-dead/) [The Outlet Mall Masquerading as an Assyrian Palace](https://atomicredhead.com/2019/02/05/the-outlet-mall-masquerading-as-an-assyrian-palace/)
+
+![Citadel](https://socallandmarks.com/index.php/2021/09/17/the-citadel-outlets/)
+![Citadel lifeaccordingtorick.blogspot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Dmq9JZUpJz1xIFmnPiXV55ykxBoBvnBdkzbXIBe_5NcvEslklMtJ8vQF-HmDsJlBkm6oBb34DVsTB9wZjjal8a7hKlr_E5-H_D5e3a49hMee_yJ6zRAF7oYmUlfOKGY2SuIBnPlL73NS/s1600/samson2.jpg)
+![citadel assyrian](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Citadel_Outlet_Los_Angeles_%284010395462%29.jpg/1024px-Citadel_Outlet_Los_Angeles_%284010395462%29.jpg)
+![atomicredhead.com](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel015.jpg?quality=100&strip=all&ssl=1)
+![cuniform](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel030.jpg?resize=765%2C510&quality=100&strip=all&ssl=1)
+![i c y](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel008.jpg?quality=100&strip=all&ssl=1)
+
+
 ### A Latinx Resource Guide: Civil Rights Cases and Events in the United States
 ## 1968: East Los Angeles Walkouts
 Discrepancies in the education of Anglo and Mexican-American students surfaced in Los Angeles during the 1950s and 1960s. Mexican-American students experienced a 60% dropout rate from high school, and those who did graduate averaged the reading level of an 8th grade Anglo student. In some schools, teachers prohibited students from speaking Spanish, and in others, school staff recommended Mexican-American students educational curriculum meant to help students with mental disabilities. These schools funneled many Mexican American students into vocational programs and discouraged from post-secondary studies. In response, students, teachers, parents, and activists began to organize.[ContinueReading](https://guides.loc.gov/latinx-civil-rights/east-la-walkouts) [Related Tweet EastLosangeles Today](https://x.com/RicoThaka/status/1831786037527638408)

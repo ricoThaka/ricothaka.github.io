@@ -49,17 +49,7 @@ Jamie, I am getting confused. The person that put me down is a firefighter too a
 
 ---
 
-{% include marspolitics.md %}
 
-<style>
-
-    img {
-        
-        max-width: 50%;
-        
-        
-        }
-</style>
 
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
