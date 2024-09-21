@@ -7,6 +7,34 @@
 
 # Currently Compiling
 
+![intelligence](https://pbs.twimg.com/media/GX8YofLagAAw3Ga?format=jpg&name=medium)
+
+# ECOSTRESS
+![MEEting](https://pbs.twimg.com/media/GYBDkaxb0AAfIf2?format=jpg&name=large)
+
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://pbs.twimg.com/media/GYB8Ub_b0AAJO_W?format=jpg&name=large"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://pbs.twimg.com/media/GYB8UXHb0AEmGQ0?format=jpg&name=large"></a>
+         </div>
+
+
+ <div class="rightColumn">
+
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://pbs.twimg.com/media/GYB8UYZb0AIRjVY?format=jpg&name=large"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
 ## Jekyll Posts
  Blogging is baked into Jekyll. You write blog posts as text files and Jekyll provides everything you need to turn it into a blog. [ReadHere](https://jekyllrb.com/docs/posts/)
 Here’s an example of outputting a list of blog posts with an excerpt:
