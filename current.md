@@ -12,24 +12,7 @@
 Here’s an example of outputting a list of blog posts with an excerpt:
 
 
-```ruby 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-```
 
 Tags and CategoriesPermalink
 Jekyll has first class support for tags and categories in blog posts.
