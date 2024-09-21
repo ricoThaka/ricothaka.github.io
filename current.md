@@ -7,6 +7,9 @@
 
 # Currently Compiling
 
+
+
+![normani](https://pbs.twimg.com/media/GXzdW9jb0AABVpR?format=jpg&name=medium)
 ![intelligence](https://pbs.twimg.com/media/GX8YofLagAAw3Ga?format=jpg&name=medium)
 
 # ECOSTRESS
