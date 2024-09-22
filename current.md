@@ -6,6 +6,9 @@
 {% endhighlight %}
 
 # Currently Compiling
+![GithubHistory](https://pbs.twimg.com/media/GYCiOsNaAAAxSf-?format=jpg&name=large)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1390084471&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/waystoloveu" title="waystoloveu" target="_blank" style="color: #cccccc; text-decoration: none;">waystoloveu</a> · <a href="https://soundcloud.com/waystoloveu/sza-ctrl-full-album" title="Sza - Ctrl Full Album" target="_blank" style="color: #cccccc; text-decoration: none;">Sza - Ctrl Full Album</a></div>
 
 [Nutmeg](https://www.youtube.com/watch?v=rvxg3spc4No)
 
