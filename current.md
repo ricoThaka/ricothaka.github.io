@@ -6,6 +6,9 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+[The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=hNv45ZxMkLifdaUE)
+
 [Ghetto Symphony - SNoopDogg](https://www.youtube.com/watch?v=J3R8n2diPkc) [Tela - ShoNuff](https://youtu.be/wH-vTCtltVk?si=tkHPBzrtkuuqK8q9) [UGK- 3 in The Mornin'  icetresponse?](https://youtu.be/vJEEizbyi3I?si=dwSKGSdsQA2mup8e) 
 ## PIA26339: Checking the Cover on Perseverance's SHERLOC
 Mar. 5, 2024: Engineers for NASA’s Perseverance Mars rover have made progress addressing the issue affecting the SHERLOC instrument’s Autofocus Context Imager (ACI), but at present the instrument’s Raman spectroscopic capability remains offline. [Team Assessing SHERLOC Instrument on NASA’s Perseverance Rover](https://www.jpl.nasa.gov/news/team-assessing-sherloc-instrument-on-nasas-perseverance-rover/)
