@@ -1,3 +1,9 @@
+---
+layout: null
+title: MarsBlog
+---
+
+
 <!DOCTYPE html>
 <html lang="en" >
 <head>
@@ -25,7 +31,7 @@
     -->
     </div>
     </div>
-    <div id="content">
+<div id="content">
       
       
       
@@ -38,7 +44,7 @@
           <li><a href="#">Blog</a></li>
     
         </ul> -->
-      </nav>
+</nav>
       <ul class="social-links list-inline unstyled list-hover-slide">
         <li><a href="https://twitter.com/RicoThaka">Twitter</a></li>
         <li><a href="https://ricothaka.github.io/holetoanotheruniverse/">BLOG</a></li>
