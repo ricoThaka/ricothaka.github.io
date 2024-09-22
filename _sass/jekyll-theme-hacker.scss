@@ -34,7 +34,7 @@ linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #
 linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);
 background-size:80px 140px;
 background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
-
+background-attachment: fixed;
     height: 100vh;
     width: 100vw;
   }
