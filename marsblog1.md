@@ -4,7 +4,6 @@ title: MarsBlog
 ---
 
 
-<!DOCTYPE html>
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
@@ -31,11 +30,11 @@ title: MarsBlog
     -->
     </div>
     </div>
-<div id="content">
+<div id="content" markdown="1">
       
       
       
-      <div class="nav-wrap">
+<div class="nav-wrap">
       <nav class="main-nav" role="navigation">
      <!--   <ul class="unstyled list-hover-slide">
           <li><a href="#">About</a></li>
@@ -53,6 +52,7 @@ title: MarsBlog
       </ul>
     </div>
     
+
 
 ## Twin of NASA’s Perseverance Mars Rover Begins Terrain Tests
 
