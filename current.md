@@ -6,6 +6,9 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+![Kanye Jesus Is King](https://fiu-original.b-cdn.net/fontsinuse.com/use-images/99/99639/99639.png)
+
 [The Rise and Fall of Adobe Abodes in Greater Los Angeles, 1851-1876, Part Six](https://homesteadmuseum.blog/2024/06/29/the-rise-and-fall-of-adobe-abodes-in-greater-los-angeles-1851-1876-part-six/) [What is Adobe Design?](https://www.hgtv.com/sweepstakes/hgtv-smart-home/hgtv-smart-home-2023-insiders-look/what-is-adobe-design--pictures) [Santa Barbara’s Adobe Construction History](https://www.independent.com/2018/05/17/santa-barbaras-adobe-construction-history/) How Mud Came to Be the Cornerstone of Early Construction in California
 ![casa de la guerra](https://www.independent.com/wp-content/uploads/2018/05/17/casa_de_la_guerra001.jpg)
 
