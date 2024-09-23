@@ -4,7 +4,7 @@ title: MarsBlog
 ---
 
 
-<html lang="en" markdown="1" >
+<html lang="en"  >
 <head>
   <meta charset="UTF-8">
   <title>(-(-_(-_-)_-)-) Thaka's MarsBlog (-(-_(-_-)_-)-) </title>
@@ -19,7 +19,7 @@ title: MarsBlog
     </div>
     -->
 
-<div id="content" >
+<div id="content" markdown="1">
       
       
       
