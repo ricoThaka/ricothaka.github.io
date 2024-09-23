@@ -181,9 +181,7 @@ img {
 	padding: 15px;
 	margin-right: auto;
 	margin-left: auto; 	
-	/* opera does not like 'margin:20px auto' */
-	/* background: #666; */
-  width: 50%; /* ie5win fudge begins */
+
 	text-align:left; 
 }
 
@@ -271,6 +269,8 @@ gradient-text {
   
 }
 svg {
+  display:block;
+  margin:0px;
   filter: drop-shadow(11px 1px 1px rgb(219 54 45 / 0.6));
 }
 
