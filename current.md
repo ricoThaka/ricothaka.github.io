@@ -6,7 +6,7 @@
 {% endhighlight %}
 
 # Currently Compiling
-
+### [Disclosure Magnets (SG Lewis Remix)](https://www.youtube.com/watch?v=ErrtUQeCaTs)
 
 ![human betterment Pasadena](https://upload.wikimedia.org/wikipedia/commons/2/24/Eugenics_Society_Poster_%281930s%29.png)
 
