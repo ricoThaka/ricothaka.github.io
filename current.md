@@ -6,10 +6,12 @@
 {% endhighlight %}
 
 # Currently Compiling
+[The Rise and Fall of Adobe Abodes in Greater Los Angeles, 1851-1876, Part Six](https://homesteadmuseum.blog/2024/06/29/the-rise-and-fall-of-adobe-abodes-in-greater-los-angeles-1851-1876-part-six/) [What is Adobe Design?](https://www.hgtv.com/sweepstakes/hgtv-smart-home/hgtv-smart-home-2023-insiders-look/what-is-adobe-design--pictures) [Santa Barbara’s Adobe Construction History](https://www.independent.com/2018/05/17/santa-barbaras-adobe-construction-history/) How Mud Came to Be the Cornerstone of Early Construction in California
+![casa de la guerra](https://www.independent.com/wp-content/uploads/2018/05/17/casa_de_la_guerra001.jpg)
 
-[The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=hNv45ZxMkLifdaUE)
 
-[Ghetto Symphony - SNoopDogg](https://www.youtube.com/watch?v=J3R8n2diPkc) [Tela - ShoNuff](https://youtu.be/wH-vTCtltVk?si=tkHPBzrtkuuqK8q9) [UGK- 3 in The Mornin'  icetresponse?](https://youtu.be/vJEEizbyi3I?si=dwSKGSdsQA2mup8e) 
+
+[The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=hNv45ZxMkLifdaUE) [Ghetto Symphony - SNoopDogg](https://www.youtube.com/watch?v=J3R8n2diPkc) [Tela - ShoNuff](https://youtu.be/wH-vTCtltVk?si=tkHPBzrtkuuqK8q9) [UGK- 3 in The Mornin'  icetresponse?](https://youtu.be/vJEEizbyi3I?si=dwSKGSdsQA2mup8e) 
 ## PIA26339: Checking the Cover on Perseverance's SHERLOC
 Mar. 5, 2024: Engineers for NASA’s Perseverance Mars rover have made progress addressing the issue affecting the SHERLOC instrument’s Autofocus Context Imager (ACI), but at present the instrument’s Raman spectroscopic capability remains offline. [Team Assessing SHERLOC Instrument on NASA’s Perseverance Rover](https://www.jpl.nasa.gov/news/team-assessing-sherloc-instrument-on-nasas-perseverance-rover/)
 ![img](https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA24925_MAIN-1900.jpg)
