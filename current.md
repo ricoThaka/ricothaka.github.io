@@ -6,14 +6,16 @@
 {% endhighlight %}
 
 # Currently Compiling
+![TWiLightZone](https://m.media-amazon.com/images/M/MV5BNTAzMDI5MzgtMGNkMC00MzllLWJhNjctNjA1NmViNGUxMzYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg)
+[The Twilight Zone - The Original Series - Season One DVD](https://archive.org/download/twilight-zone-season-one-DVD) [Wiki](https://en.wikipedia.org/wiki/The_Twilight_Zone) [The Twilight Zone (1959-1963) All seasons : Internet Archive](https://www.reddit.com/r/TwilightZone/comments/10n7yiv/the_twilight_zone_19591963_all_seasons_internet/?rdt=51078)
+
+
+[Love Has Come Around - Donald Byrd](https://www.youtube.com/watch?v=pEONuPt-0eg) [Melba Moore - Must Be Dues](https://www.youtube.com/watch?v=Eu8K8LEaUy0) [Mary J Blige - All My Love](https://www.youtube.com/watch?v=6ArSfXnm2c0) [The Rise and Fall of Adobe Abodes in Greater Los Angeles, 1851-1876, Part Six](https://homesteadmuseum.blog/2024/06/29/the-rise-and-fall-of-adobe-abodes-in-greater-los-angeles-1851-1876-part-six/) [What is Adobe Design?](https://www.hgtv.com/sweepstakes/hgtv-smart-home/hgtv-smart-home-2023-insiders-look/what-is-adobe-design--pictures) [Santa Barbara’s Adobe Construction History](https://www.independent.com/2018/05/17/santa-barbaras-adobe-construction-history/) How Mud Came to Be the Cornerstone of Early Construction in California
+![casa de la guerra](https://www.independent.com/wp-content/uploads/2018/05/17/casa_de_la_guerra001.jpg)
+
 ![Mars2020](https://upload.wikimedia.org/wikipedia/commons/a/a4/Mars_2020_JPL_second_insignia.svg)
 
 ![Kanye Jesus Is King](https://fiu-original.b-cdn.net/fontsinuse.com/use-images/99/99639/99639.png)
-
-[The Rise and Fall of Adobe Abodes in Greater Los Angeles, 1851-1876, Part Six](https://homesteadmuseum.blog/2024/06/29/the-rise-and-fall-of-adobe-abodes-in-greater-los-angeles-1851-1876-part-six/) [What is Adobe Design?](https://www.hgtv.com/sweepstakes/hgtv-smart-home/hgtv-smart-home-2023-insiders-look/what-is-adobe-design--pictures) [Santa Barbara’s Adobe Construction History](https://www.independent.com/2018/05/17/santa-barbaras-adobe-construction-history/) How Mud Came to Be the Cornerstone of Early Construction in California
-![casa de la guerra](https://www.independent.com/wp-content/uploads/2018/05/17/casa_de_la_guerra001.jpg)
-
-
 
 [The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=hNv45ZxMkLifdaUE) [Ghetto Symphony - SNoopDogg](https://www.youtube.com/watch?v=J3R8n2diPkc) [Tela - ShoNuff](https://youtu.be/wH-vTCtltVk?si=tkHPBzrtkuuqK8q9) [UGK- 3 in The Mornin'  icetresponse?](https://youtu.be/vJEEizbyi3I?si=dwSKGSdsQA2mup8e) 
 ## PIA26339: Checking the Cover on Perseverance's SHERLOC
@@ -585,11 +587,11 @@ Normani i took bouncing cats down bc of that "Something Over 200" error. Its als
   Broken wheel?
 <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" title="Redirect to homepage"><img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" alt="homepage" /></a>
 
-  <div class="flex-container">
-   <div class="flex-items">  <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
+<div class="flex-container">
+<div class="flex-items">  <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
         <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" />
 </a></div>
-   <div class="flex-items">  <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
+<div class="flex-items">  <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
 <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" />
 </a></div>
 </div>
