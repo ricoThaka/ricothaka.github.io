@@ -127,7 +127,7 @@ a {
 		}
 
     .animate.pop {
-      animation-duration: 0.5s;
+      animation-duration: 1s;
       animation-name: animate-pop;
       animation-timing-function: cubic-bezier(.26, .53, .74, 1.48);
     }
