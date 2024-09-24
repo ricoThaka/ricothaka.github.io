@@ -11,7 +11,7 @@
 
 The value of the viewBox attribute is a list of four numbers separated by whitespace and/or a comma: min-x, min-y, width, and height. min-x and min-y represent the smallest X and Y coordinates that the viewBox may have (the origin coordinates of the viewBox) and the width and height specify the viewBox size. The resulting viewBox is a rectangle in user space mapped to the bounds of the viewport of an SVG element (not the browser viewport). When an SVG contains a viewBox attribute (often in combination with a preserveAspectRatio attribute), a transform stretches or resizes the SVG viewport to fit a particular container element.
 
- [Disclosure Magnets (SG Lewis Remix)](https://www.youtube.com/watch?v=ErrtUQeCaTs)
+[Disclosure Magnets (SG Lewis Remix)](https://www.youtube.com/watch?v=ErrtUQeCaTs) [Changes I been Goin' Thru - Mary J. Blige](https://www.youtube.com/watch?v=Ya2WikYW5wI)
 
 ![human betterment Pasadena](https://upload.wikimedia.org/wikipedia/commons/2/24/Eugenics_Society_Poster_%281930s%29.png)
 
