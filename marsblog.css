@@ -133,6 +133,9 @@ img {
   margin-bottom:0px;
   
 }
+
+.holder { display: block;
+width: fit-content;}
 .panelColumn {
   display: flex;
   flex-direction: column;
