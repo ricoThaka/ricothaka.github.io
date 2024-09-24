@@ -82,6 +82,7 @@ h2 {
   color: white;
   font-family: Cluster;
   word-break: break-all; 
+  width: 100%;
 }
 
 
@@ -113,7 +114,15 @@ h6 {
 }
 
 
+h4 {
+width: 100%;
+text-shadow:
+  0 0 7px white,
+  0 0 10px #2e97f2,
+  0 0 21px white,
+  0 0 42px white;
 
+}
 
 
 
