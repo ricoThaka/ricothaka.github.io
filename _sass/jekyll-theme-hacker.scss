@@ -59,12 +59,43 @@ p {
   display:block;
 }
 
+h1 {
+  font: normal 14px/18px "Arial Black", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 3em;
+  color: white;
+  text-shadow: rgba(255,255,255,1) 0px 0px 6px;
+  /* background: linear-gradient(45deg, 
+ #F2D338 25%, #262626 0, #262626 50%,
+ #F2D338 0, #F2D338 75%, #262626 0);
+background-size: 80.4px 80.4px; */
+
+}
+
+
+h2 {
+  word-spacing: -.2ch;
+  font-kerning: auto;
+  letter-spacing: 2pt;
+  background: transparent
+   url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
+  font-size: 30pt;
+  color: white;
+  font-family: Cluster;
+  word-break: break-all; 
+}
 
 
 
+h3 {
+  
+  text-shadow:
+  0 0 7px white,
+  0 0 10px #2e97f2,
+  0 0 21px white,
+  0 0 42px white;
 
 
-
+}
 h1,
 h2,
 h3,
@@ -80,6 +111,11 @@ h6 {
   padding: 5px;
 
 }
+
+
+
+
+
 
 body {
   /* seems resource heavy text-shadow: 0 0 11px #ffffff;
@@ -298,43 +334,7 @@ width: 55vw;
   float: right;
   flex-wrap: nowrap;
 }
-h1 {
-  font: normal 14px/18px "Arial Black", "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 3em;
-  color: white;
-  text-shadow: rgba(255,255,255,1) 0px 0px 6px;
-  /* background: linear-gradient(45deg, 
- #F2D338 25%, #262626 0, #262626 50%,
- #F2D338 0, #F2D338 75%, #262626 0);
-background-size: 80.4px 80.4px; */
 
-}
-
-
-h2 {
-  word-spacing: -.2ch;
-  font-kerning: auto;
-  letter-spacing: 2pt;
-  background: transparent
-   url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
-  font-size: 30pt;
-  color: white;
-  font-family: Cluster;
-  word-break: break-all; 
-}
-
-
-
-h3 {
-  
-  text-shadow:
-  0 0 7px white,
-  0 0 10px #2e97f2,
-  0 0 21px white,
-  0 0 42px white;
-
-
-}
 
 /* Buttons
 */

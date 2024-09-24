@@ -65,7 +65,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  
+  font-size: 1rem;
 }
 a,
 a:hover,
@@ -81,7 +81,7 @@ a {
 /* contentDiv */
 #content {
     border-radius: 31px 31px 31px 31px;
-	max-width: 900px; 
+	max-width: 80vh; 
 	padding: 0px;
 		margin-bottom: 40px;
 	margin-right: auto;
@@ -94,20 +94,95 @@ a {
   background-size: cover;
 	text-align:left; 
 	/* part 2 of 2 centering hack */
-	width: 50%; /* ie5win fudge begins */
 	voice-family: "\"}\"";
 	voice-family:inherit;
   overflow: hidden;
   box-shadow: rgba(219,54,45, 0.4) 5px 5px, rgba(219,54,45, 0.3) 10px 10px, rgba(219,54,45, 0.2) 15px 15px, rgba(219,54,45, 0.1) 20px 20px, rgba(219,54,45, 0.05) 25px 25px;
   font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana; 
- color: #c9ff23; 
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+ /* color: #c9ff23;  */
+
 		}
+
+
+    p {
+      margin-top:10px;
+      margin-bottom:10px;
+      display: block;
+      text-align: left;
+      width:100%;
+      color: white;
+      background: transparent
+      url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+      center repeat;
+      /* background: black; */
+      /* background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%); */
+      border-left: 1px solid dodgerblue;
+      border-right: 1px solid #BFBFBF;
+      column-count: auto;
+      column-fill: balance-all;
+      word-break: break-all;
+      hyphens: auto;
+      display:block;
+    }
+    
+    h1 {
+      font: normal 14px/18px "Arial Black", "Helvetica Neue", Helvetica, sans-serif;
+      font-size: 2em;
+      color: white;
+      text-shadow: rgba(255,255,255,1) 0px 0px 6px;
+      /* background: linear-gradient(45deg, 
+     #F2D338 25%, #262626 0, #262626 50%,
+     #F2D338 0, #F2D338 75%, #262626 0);
+    background-size: 80.4px 80.4px; */
+    
+    }
+    
+    
+    h2 {
+      word-spacing: -.2ch;
+      font-kerning: auto;
+      letter-spacing: 2pt;
+      background: transparent
+       url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
+      font-size: 30pt;
+      color: white;
+       word-break: break-all; 
+    }
+    
+    
+    
+    h3 {
+      
+      text-shadow:
+      0 0 7px white,
+      0 0 10px #2e97f2,
+      0 0 21px white,
+      0 0 42px white;
+    
+    
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: white;
+      background: transparent
+        url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+        center repeat;
+      font-weight: 900;
+      margin: 5px;
+      padding: 5px;
+    
+    }
+    
+    
 img {
     max-width: 100%; 
     max-height: 100%;
  
-  box-shadow: rgba(219,54,45, 0.5) 0px 50px 100px -20px, rgba(0, 0, 0, 0.7) 0px 30px 60px -30px;
+  
 }
 
 .twoPanelSpread {
