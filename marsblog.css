@@ -89,7 +89,7 @@ a {
 .top-container {
 
   padding: 0px;
-  margin-bottom: -15px;
+  
   align-content: center;
   border-radius: 31px 0px 31px 0px;
 	max-width: max-content; 
@@ -103,6 +103,7 @@ a {
 /* contentDiv */
 #content {
     border-radius: 31px 31px 31px 31px;
+    margin-top: -15px;
 	max-width: 80vh; 
 	padding: 0px;
 		margin-bottom: 40px;
