@@ -7,8 +7,8 @@ title: MarsBlog
 <html lang="en"  >
 <head>
   <meta charset="UTF-8">
-  <title>(-(-_(-_-)_-)-) Thaka's MarsBlog (-(-_(-_-)_-)-) </title>
-  <link rel="stylesheet" href="./marsblog1.css">
+  <title>(-_-)Rashard_M_R_O(-_-) </title>
+  <link rel="stylesheet" href="./marsblog.css">
 
 </head>
 <body>
