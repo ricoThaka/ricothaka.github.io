@@ -22,7 +22,7 @@ title: MarsBlog
     </div>
 
   
-    <div id="content">
+
 <div id="content" markdown="1">
       
       
