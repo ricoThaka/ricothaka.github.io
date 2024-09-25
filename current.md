@@ -7,7 +7,7 @@
 
 # Currently Compiling
 
-
+[Lay It Down 8Ball+MJG](https://www.youtube.com/watch?v=IfSn4SdTH4s)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/666325007&color=%237c8c24&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngthugworld" title="Young Thug" target="_blank" style="color: #cccccc; text-decoration: none;">Young Thug</a> · <a href="https://soundcloud.com/youngthugworld/i-bought-her-feat-lil-duke-1" title="I Bought Her (feat. Lil Duke)" target="_blank" style="color: #cccccc; text-decoration: none;">I Bought Her (feat. Lil Duke)</a></div>
 
 [UGK (Underground Kingz) - It's Supposed To Bubble](https://youtu.be/DB_QSvLWFE4)  [Too $hort feat Erick Sermon, MC Breed & Kool Ace - Buy You Some](https://youtu.be/xzDXxSG2syQ?si=EPT8b8R8FriEiBd3) [3X Krazy - Keep iT On The Real](https://youtu.be/Nzg5m9NXEsA?si=bwEnCUXAbOf7xL5S) [The Luniz "I Got Five On It" (Remix)](https://www.youtube.com/watch?v=CiZ3XtGtmQs) [Do.Or.Die - PoPimp](https://youtu.be/rp-9xcmJIBQ) [Playaz From The South](https://www.youtube.com/watch?v=W6VhsCcNcEU) [SteelPulse - Chant-a-Psalm](https://youtu.be/4nony-xB3tE?si=hpAEWD1jerNrslaG) [EEk-A_mousE - Ganja Smuggling](https://www.youtube.com/watch?v=UR9Cj5UyVbM) [Arsonist - Worlds Collide](https://www.youtube.com/watch?v=cw2iiuuMZxY) [Arsonist - UndergroundVandal](https://www.youtube.com/watch?v=iypA4ngpN7w) [Barrington Levy - Trying To Ruin My Life](https://www.youtube.com/watch?v=rW-kK5DcxIA) [Dekae FA, Inkheads - Miami, March 2023](https://www.youtube.com/watch?v=Zg9H7urB3kk)
@@ -36,11 +36,14 @@ The value of the viewBox attribute is a list of four numbers separated by whites
 [Love Has Come Around - Donald Byrd](https://www.youtube.com/watch?v=pEONuPt-0eg) [Melba Moore - Must Be Dues](https://www.youtube.com/watch?v=Eu8K8LEaUy0) [Mary J Blige - All My Love](https://www.youtube.com/watch?v=6ArSfXnm2c0) [The Rise and Fall of Adobe Abodes in Greater Los Angeles, 1851-1876, Part Six](https://homesteadmuseum.blog/2024/06/29/the-rise-and-fall-of-adobe-abodes-in-greater-los-angeles-1851-1876-part-six/) [What is Adobe Design?](https://www.hgtv.com/sweepstakes/hgtv-smart-home/hgtv-smart-home-2023-insiders-look/what-is-adobe-design--pictures) [Santa Barbara’s Adobe Construction History](https://www.independent.com/2018/05/17/santa-barbaras-adobe-construction-history/) How Mud Came to Be the Cornerstone of Early Construction in California
 ![casa de la guerra](https://www.independent.com/wp-content/uploads/2018/05/17/casa_de_la_guerra001.jpg)
 ![TWiLightZone](https://m.media-amazon.com/images/M/MV5BNTAzMDI5MzgtMGNkMC00MzllLWJhNjctNjA1NmViNGUxMzYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg)
-![Mars2020](https://upload.wikimedia.org/wikipedia/commons/a/a4/Mars_2020_JPL_second_insignia.svg)
 
-![Kanye Jesus Is King](https://fiu-original.b-cdn.net/fontsinuse.com/use-images/99/99639/99639.png)
+
 
 [The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=hNv45ZxMkLifdaUE) [Ghetto Symphony - SNoopDogg](https://www.youtube.com/watch?v=J3R8n2diPkc) [Tela - ShoNuff](https://youtu.be/wH-vTCtltVk?si=tkHPBzrtkuuqK8q9) [UGK- 3 in The Mornin'  icetresponse?](https://youtu.be/vJEEizbyi3I?si=dwSKGSdsQA2mup8e) 
+
+
+![Kanye Jesus Is King](https://fiu-original.b-cdn.net/fontsinuse.com/use-images/99/99639/99639.png)
+![Mars2020](https://upload.wikimedia.org/wikipedia/commons/a/a4/Mars_2020_JPL_second_insignia.svg)
 ## PIA26339: Checking the Cover on Perseverance's SHERLOC
 Mar. 5, 2024: Engineers for NASA’s Perseverance Mars rover have made progress addressing the issue affecting the SHERLOC instrument’s Autofocus Context Imager (ACI), but at present the instrument’s Raman spectroscopic capability remains offline. [Team Assessing SHERLOC Instrument on NASA’s Perseverance Rover](https://www.jpl.nasa.gov/news/team-assessing-sherloc-instrument-on-nasas-perseverance-rover/)
 ![img](https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA24925_MAIN-1900.jpg)
