@@ -487,7 +487,7 @@ Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbi
 ### Odyssey’s THEMIS Views the Horizon of Mars
 [![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png)](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png "Redirect to homepage")
 
- <video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1739.gif?w=768&format=webp">
+<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1739.gif?w=768&format=webp">
     
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6190_PIA26203_FigA.m4v" type="video/mp4" />
          Download the
@@ -761,10 +761,11 @@ NASA/JPL-Caltech</p>
 
 ![Pages Error](https://pbs.twimg.com/media/GQ3Q770bwAI-S6b?format=jpg&name=large)
  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" />
-     Future i got in trouble with them male dancers an im really distracted about the scope... can i use this instumental someday for a #NasaMars presentation im working on?  ? ? (Thugga)
- <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633670590&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alilmilk" title="alilmilk" target="_blank" style="color: #cccccc; text-decoration: none;">alilmilk</a> · <a href="https://soundcloud.com/alilmilk/future-red-carpet-feat-young-thug-prod-by-wheezy" title="Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]" target="_blank" style="color: #cccccc; text-decoration: none;">Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]</a></div>
+
+Future i got in trouble with them male dancers an im really distracted about the scope... can i use this instumental someday for a #NasaMars presentation im working on?  ? ? (Thugga)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633670590&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alilmilk" title="alilmilk" target="_blank" style="color: #cccccc; text-decoration: none;">alilmilk</a> · <a href="https://soundcloud.com/alilmilk/future-red-carpet-feat-young-thug-prod-by-wheezy" title="Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]" target="_blank" style="color: #cccccc; text-decoration: none;">Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]</a></div>
 <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission%20(1).png" />
-         <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
+<img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
 
     Hi hun, i dont want u to feel like rentpath wherever we make it to the lab. Help me accept you for all you are - #Shaadi  
      ![Mars](https://pbs.twimg.com/media/GQ3SUgaaQAMBz2L?format=jpg&name=large) 
