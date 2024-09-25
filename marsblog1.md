@@ -37,7 +37,7 @@ title: MarsBlog
  
 
 
-![W00110234](https://solarsystem.nasa.gov/images/casJPGFullS101/W00110234.jpg)
+![rocknest_curiosity](https://apod.nasa.gov/apod/image/1212/rocknest_curiosity_960.jpg)
 
 
 <div class='twoPanelSpread'>
@@ -55,7 +55,7 @@ title: MarsBlog
         </div>
       </div>
     </div>
-![Sulphur]()
+
 
 <video controls autoplay width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA26339.jpg">
 
