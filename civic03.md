@@ -1,4 +1,7 @@
 
+## Groundwater Declines in the U.S. Southwest
+![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
+
 ## cellular magic mirror
 ![cellular](https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096)
 
