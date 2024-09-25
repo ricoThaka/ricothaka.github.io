@@ -34,7 +34,46 @@ title: MarsBlog
         <li><a href="https://codepen.io/ricoThaka">CodePen</a></li>
       </ul>
     </div>
+ 
+
+
+![W00110234](https://solarsystem.nasa.gov/images/casJPGFullS101/W00110234.jpg)
+
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://mars.nasa.gov/msl-raw-images/msss/04202/mcam/4202MR1059130272102870C00_DXXX.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://mars.nasa.gov/msl-raw-images/msss/04202/mcam/4202ML1059130291702010C00_DXXX.jpg" alt="Girl in a jacket" >
     
+          </div>
+        </div>
+      </div>
+    </div>
+![Sulphur]()
+
+<video controls autoplay width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA26339.jpg">
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4">MP4</a>
+  video.
+</video>
+
+
+![Among the Peaks of Hale Crater](https://static.uahirise.org/hipod/ESP_075380_1440.jpg)
+[Among the Peaks of Hale Crater](https://www.uahirise.org/hipod/ESP_075380_1440)
+This observation was requested as part of a new monitoring sequence, to try to get activity after a dust storm to compare with a previous sequence. Are the recurring slope lineae longer or more dense? Hale was created by an impactor roughly 35 kilometers (22 mi) across that impacted at an oblique angle about 3.5 to 3.8 billion years ago.
+
 normani just letting ppl know u involved at a level 
 ![Normani](https://pbs.twimg.com/media/GVERbDEaUAAki6n?format=png&name=900x900)
 ![cc](https://pbs.twimg.com/media/GPP663haYAE0u8_?format=jpg&name=large)

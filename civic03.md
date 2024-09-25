@@ -1,4 +1,8 @@
 
+
+## Los Angeles Plaza 1869
+![Los Angeles Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg)
+
 ## Groundwater Declines in the U.S. Southwest
 ![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
 
