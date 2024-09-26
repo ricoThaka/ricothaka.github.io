@@ -7,7 +7,7 @@
 
 # Currently Compiling
 
-![ECOSTRESS](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/rugged/delta-v/media-gallery/laptop-latitude-14-5430-gallery-3.psd?fmt=pjpg&pscan=auto&scl=1&wid=3760&hei=2570&qlt=100,1&resMode=sharp2&size=3760,2570&chrss=full&imwidth=5000)
+![ECOSTRESS](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/rugged/delta-v/media-gallery/laptop-latitude-14-5430-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3760&hei=2570&qlt=100,1&resMode=sharp2&size=3760,2570&chrss=full&imwidth=5000)
 ![MARS](https://d2pn8kiwq2w21t.cloudfront.net/images/Mars-800h-v2_02.width-1024.png)
 ![MRO](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
 ![mars surface cydonia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cydonia_region%2C_colour_image_ESA235868.jpg/1024px-Cydonia_region%2C_colour_image_ESA235868.jpg)
