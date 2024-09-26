@@ -18,9 +18,8 @@ title: MarsBlog
 
 <div class="top-container">
   <IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NASA_Worm_logo.svg/508px-NASA_Worm_logo.svg.png" />
-</div>  
 
-<div id="content" markdown="1">
+<div id="content" class="animate pop" markdown="1">
       
       
       
@@ -633,7 +632,6 @@ NASA/JPL-Caltech</p>
 
 
 ![Pages Error](https://pbs.twimg.com/media/GQ3Q770bwAI-S6b?format=jpg&name=large)
-
  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" />
 
 Future i got in trouble with them male dancers an im really distracted about the scope... can i use this instumental someday for a #NasaMars presentation im working on?  ? ? (Thugga)

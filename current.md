@@ -7,9 +7,17 @@
 
 # Currently Compiling
 
+![ECOSTRESS](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/rugged/delta-v/media-gallery/laptop-latitude-14-5430-gallery-3.psd?fmt=pjpg&pscan=auto&scl=1&wid=3760&hei=2570&qlt=100,1&resMode=sharp2&size=3760,2570&chrss=full&imwidth=5000)
+![MARS](https://d2pn8kiwq2w21t.cloudfront.net/images/Mars-800h-v2_02.width-1024.png)
+![MRO](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+![mars surface cydonia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cydonia_region%2C_colour_image_ESA235868.jpg/1024px-Cydonia_region%2C_colour_image_ESA235868.jpg)
+
+![Dogmatic](https://pbs.twimg.com/media/GYHa7lXagAAA04T?format=jpg&name=large)
+[Dogmatism and Happiness - P_D_F](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395528/pdf/IJPH-46-326.pdf)
+
 ![PAsadena](https://pbs.twimg.com/media/GYMcvDjakAA5_vP?format=jpg&name=large)
 
-[Lay It Down 8Ball+MJG](https://www.youtube.com/watch?v=IfSn4SdTH4s) [Get On Your Knees - Nicki Minaj · Ariana Grande](https://www.youtube.com/watch?v=6RAFvLSRieg) [Megan Thee Stallion - Figueroa](https://www.youtube.com/watch?v=vReCvOUP4C8) [TrickDaddy - America (feat. Society)](https://www.youtube.com/watch?v=dYlvEMIDazU) [Thug Luv (feat. 2pac) - Bone Thugs iN Harmony](https://youtu.be/owfiSemZ6JU?si=OaoTU8gF1Xeb4rwt) [Pain - 2pac](https://www.youtube.com/watch?v=Xqa7guhUrRw)
+[Lay It Down 8Ball+MJG](https://www.youtube.com/watch?v=IfSn4SdTH4s) [Get On Your Knees - Nicki Minaj · Ariana Grande](https://www.youtube.com/watch?v=6RAFvLSRieg) [Megan Thee Stallion - Figueroa](https://www.youtube.com/watch?v=vReCvOUP4C8) [TrickDaddy - America (feat. Society)](https://www.youtube.com/watch?v=dYlvEMIDazU) [Thug Luv (feat. 2pac) - Bone Thugs iN Harmony](https://youtu.be/owfiSemZ6JU?si=OaoTU8gF1Xeb4rwt) [Pain - 2pac](https://www.youtube.com/watch?v=Xqa7guhUrRw) [2Pac - So Many Tears ](https://youtu.be/B3i0C-JCQ4A?si=A3GeDo6teDHFtJql)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/666325007&color=%237c8c24&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngthugworld" title="Young Thug" target="_blank" style="color: #cccccc; text-decoration: none;">Young Thug</a> · <a href="https://soundcloud.com/youngthugworld/i-bought-her-feat-lil-duke-1" title="I Bought Her (feat. Lil Duke)" target="_blank" style="color: #cccccc; text-decoration: none;">I Bought Her (feat. Lil Duke)</a></div>
 
