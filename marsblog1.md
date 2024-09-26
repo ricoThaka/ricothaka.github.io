@@ -18,8 +18,9 @@ title: MarsBlog
 
 <div class="top-container">
   <IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NASA_Worm_logo.svg/508px-NASA_Worm_logo.svg.png" />
+</div>  
 
-<div id="content" class="animate pop" markdown="1">
+<div id="content" markdown="1">
       
       
       
