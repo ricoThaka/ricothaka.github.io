@@ -6,6 +6,8 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+[JAY Z, Kanye West - Otis ft. Otis Redding](https://www.youtube.com/watch?v=BoEKWtgJQAU)
 ## The New social Disease
 [LAndSat 7, retired?](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
 ![SantaMonica](https://pbs.twimg.com/media/GYbTbDFaoAA1W5x?format=png&name=900x900)
