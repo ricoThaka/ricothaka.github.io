@@ -35,6 +35,7 @@ carousels:
 
 ---
 
+![ibuki](https://pbs.twimg.com/media/GYmOAgub0AAnHZk?format=jpg&name=large)
 
 {% include_relative current.md %}
 

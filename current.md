@@ -6,6 +6,11 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+
+![applePersonalComputers](https://jointcustodydc.com/cdn/shop/products/IMG_3619_2048x.png?v=1621368232)
+![OSXRUNNER](https://pbs.twimg.com/media/GYl3M9ibwAApm-t?format=jpg&name=large)
+
 [SHA-ROCK & LISA LEE feat. DJ JAZZY-JAY WHBI 105.9 FM](https://www.youtube.com/watch?v=UxWYfJPtWQQ)
 ## anime
 [Samurai Shodown: The Motion Picture (The Movie -1994)](https://www.youtube.com/watch?v=UV_YhxC3P90) [Battle Arena Toshinden Anime Part 1](https://www.youtube.com/watch?v=50ibfcBedW4) [Inuyasha Movie 1: Affections Touching Across Time](https://www.youtube.com/watch?v=DRXKcazeSkE) [Dragon Ball - Namek Saga Full ENGLISH](https://www.youtube.com/watch?v=scIFQFtH6YY) [Street Fighter II:The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y) 
