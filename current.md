@@ -6,23 +6,12 @@
 {% endhighlight %}
 
 # Currently Compiling
-[Samurai Shodown: The Motion Picture (The Movie -1994)](https://www.youtube.com/watch?v=UV_YhxC3P90) [Battle Arena Toshinden Anime Part 1](https://www.youtube.com/watch?v=50ibfcBedW4) [Inuyasha Movie 1: Affections Touching Across Time](https://www.youtube.com/watch?v=DRXKcazeSkE) [Dragon Ball - Namek Saga Full ENGLISH](https://www.youtube.com/watch?v=scIFQFtH6YY) 
+[SHA-ROCK & LISA LEE feat. DJ JAZZY-JAY WHBI 105.9 FM](https://www.youtube.com/watch?v=UxWYfJPtWQQ)
+## anime
+[Samurai Shodown: The Motion Picture (The Movie -1994)](https://www.youtube.com/watch?v=UV_YhxC3P90) [Battle Arena Toshinden Anime Part 1](https://www.youtube.com/watch?v=50ibfcBedW4) [Inuyasha Movie 1: Affections Touching Across Time](https://www.youtube.com/watch?v=DRXKcazeSkE) [Dragon Ball - Namek Saga Full ENGLISH](https://www.youtube.com/watch?v=scIFQFtH6YY) [Street Fighter II:The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y) 
 
 <iframe src="https://archive.org/embed/ikaos-som-dragon-ball-gt-complete-001-064-r2j-dragon-box-multi-audio-v2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<a href="https://www.youtube.com/c/TapeDeckWreck" target="_blank"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Capture.PNG" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" > </a>	
-<a href="https:://typedifferent.com" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_cluster/bd_cluster_example1.jpg" /> </a>
-<a href="https:://typedifferent.com" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_aquatico/bd_aquatico_example1.jpg" /> </a>
-<a href="https:://typedifferent.com" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_supper/bd_supper_example1.jpg" /> </a>
-<a href="https:://typedifferent.com" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_supper/bd_supper_example5.jpg" /> </a>
-<a href="https:://typedifferent.com" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_apotheke/bd_apotheke_example1.jpg" /> </a>
-<a href="https:://typedifferent.com" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_rainbow/bd_rainbow_example3.jpg" /> </a>
-<a href="https:://typedifferent.com" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_rainbow/bd_rainbow_example1.jpg" /> </a>
-<a href="https:://typedifferent.com" target="_blank" ><img src="https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_car.jpg?itok=fr33wXWz" /> </a>
-<a href="https:://typedifferent.com" target="_blank" ><img src="https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_grave.jpg?itok=zKHQ2_XK" /> </a>
-<a href="https:://typedifferent.com" target="_blank" ><img src="https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_demo_tshirt2.jpg?itok=Z-FDybri" /> </a>
-
-[Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
 [JAY Z, Kanye West - Otis ft. Otis Redding](https://www.youtube.com/watch?v=BoEKWtgJQAU)
 ## The New social Disease
 [LAndSat 7, retired?](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
@@ -86,6 +75,7 @@ The value of the viewBox attribute is a list of four numbers separated by whites
 ## PIA26339: Checking the Cover on Perseverance's SHERLOC
 Mar. 5, 2024: Engineers for NASA’s Perseverance Mars rover have made progress addressing the issue affecting the SHERLOC instrument’s Autofocus Context Imager (ACI), but at present the instrument’s Raman spectroscopic capability remains offline. [Team Assessing SHERLOC Instrument on NASA’s Perseverance Rover](https://www.jpl.nasa.gov/news/team-assessing-sherloc-instrument-on-nasas-perseverance-rover/)
 ![img](https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA24925_MAIN-1900.jpg)
+
 <video controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA26339.jpg">
 
   <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
