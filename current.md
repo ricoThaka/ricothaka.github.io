@@ -6,7 +6,10 @@
 {% endhighlight %}
 
 # Currently Compiling
-[Samurai Shodown: The Motion Picture (The Movie -1994)](https://www.youtube.com/watch?v=UV_YhxC3P90) [Battle Arena Toshinden Anime Part 1](https://www.youtube.com/watch?v=50ibfcBedW4) [Inuyasha Movie 1: Affections Touching Across Time](https://www.youtube.com/watch?v=DRXKcazeSkE)
+[Samurai Shodown: The Motion Picture (The Movie -1994)](https://www.youtube.com/watch?v=UV_YhxC3P90) [Battle Arena Toshinden Anime Part 1](https://www.youtube.com/watch?v=50ibfcBedW4) [Inuyasha Movie 1: Affections Touching Across Time](https://www.youtube.com/watch?v=DRXKcazeSkE) [Dragon Ball - Namek Saga Full ENGLISH](https://www.youtube.com/watch?v=scIFQFtH6YY) 
+
+<iframe src="https://archive.org/embed/ikaos-som-dragon-ball-gt-complete-001-064-r2j-dragon-box-multi-audio-v2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <a href="https://www.youtube.com/c/TapeDeckWreck" target="_blank"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Capture.PNG" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" > </a>	
 <a href="https:://typedifferent.com" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_cluster/bd_cluster_example1.jpg" /> </a>
 <a href="https:://typedifferent.com" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_aquatico/bd_aquatico_example1.jpg" /> </a>
@@ -18,6 +21,7 @@
 <a href="https:://typedifferent.com" target="_blank" ><img src="https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_car.jpg?itok=fr33wXWz" /> </a>
 <a href="https:://typedifferent.com" target="_blank" ><img src="https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_grave.jpg?itok=zKHQ2_XK" /> </a>
 <a href="https:://typedifferent.com" target="_blank" ><img src="https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_demo_tshirt2.jpg?itok=Z-FDybri" /> </a>
+
 [Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
 [JAY Z, Kanye West - Otis ft. Otis Redding](https://www.youtube.com/watch?v=BoEKWtgJQAU)
 ## The New social Disease
