@@ -1,12 +1,28 @@
 {% highlight ruby %} 
-1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady #
-2 # TO####NEW_POSTS /worknotes02 /civic03####
-3 # ANOTHER##########https://s.id/1kmbG################# 
-4 # UNiVERSE#############################Hi####CORaL### 
+1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady####
+2 # TO####NEW_POSTS /rashardmro /compiling#/civic03######
+3 # ANOTHER##########https://s.id/1kmbG################## 
+4 # UNiVERSE###__̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.__#Hi####CORaL##
 {% endhighlight %}
 
 # Currently Compiling
+
+
+[Dragon Ball & Dragon Ball Z Movies - Funimation DVD Singles](https://archive.org/details/dragon-ball-movies-funimation-dvd-singles)
+## deltron 3030
+<iframe src="https://archive.org/embed/deltron-3030-the-album" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+## One In A Million by Aaliyah
+<iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+## ghostface killah - 36 Seasons
+<iframe src="https://archive.org/embed/gfk-36seasons" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Alfred Hitchcock Presents S2](https://archive.org/details/alfred-hitchcock-presents-season-2) [FlexBox Demo - RashardMRO](https://archive.org/details/screen-recording-2024-07-02-2.48.05-pm) [Pimps up, ho's down : hip hop's hold on young Black women](https://archive.org/details/pimpsuphosdownhi0000shar) [Bomb the suburbs](https://archive.org/details/bombsuburbs00wims) 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1902490692&color=%2300ff10&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/munilong" title="Muni Long" target="_blank" style="color: #cccccc; text-decoration: none;">Muni Long</a> · <a href="https://soundcloud.com/munilong/superpowers" title="Superpowers" target="_blank" style="color: #cccccc; text-decoration: none;">Superpowers</a></div>
+
+
+## Super Chase - Criminal Termination (World) 
+by Taito Corporation Japan
+<iframe src="https://archive.org/embed/arcade_superchs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![applePersonalComputers](https://jointcustodydc.com/cdn/shop/products/IMG_3619_2048x.png?v=1621368232)
 ![OSXRUNNER](https://pbs.twimg.com/media/GYl3M9ibwAApm-t?format=jpg&name=large)
