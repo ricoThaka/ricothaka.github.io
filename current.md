@@ -12,7 +12,7 @@
 Normani JUNO
 
 ![JUNO](https://d2pn8kiwq2w21t.cloudfront.net/images/22-mission-current-Juno.height-700.png)
-<video controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA26339.jpg">
+<video controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA25086.jpg">
 
   <source src="https://photojournal.jpl.nasa.gov/archive/PIA25086.mp4" type="video/mp4" />
 
