@@ -12,6 +12,19 @@
 Normani JUNO
 
 ![JUNO](https://d2pn8kiwq2w21t.cloudfront.net/images/22-mission-current-Juno.height-700.png)
+<video controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA26339.jpg">
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA25086.mp4" type="video/mp4" />
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA25086.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA25086.mp4">MP4</a>
+  video.
+</video>
+
+
 [Dragon Ball & Dragon Ball Z Movies - Funimation DVD Singles](https://archive.org/details/dragon-ball-movies-funimation-dvd-singles)
 ## deltron 3030
 <iframe src="https://archive.org/embed/deltron-3030-the-album" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
