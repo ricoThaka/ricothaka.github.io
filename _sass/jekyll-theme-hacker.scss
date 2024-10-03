@@ -132,8 +132,12 @@ body {
   color: white;
 
 }
-/*
 
+
+svg { width: max-content;
+display: inline-block; }
+
+  /*
 p {
   display: flex;
   text-align: left;
