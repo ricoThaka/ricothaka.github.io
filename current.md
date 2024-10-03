@@ -16,7 +16,10 @@
       B --> C[Server01]
       B --> D[Server02]
 </pre>
-
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
 
 [Getting Started with NASA Worldview (December 2021](https://www.youtube.com/watch?v=uMkuiRJr_-E) [NasaEarthData](https://www.youtube.com/@NASAEarthdata) [Kanye West - Follow God](https://www.youtube.com/watch?v=ivCY3Ec4iaU) [AMEN - CyHi The Prynce](https://www.youtube.com/watch?v=hYSZRLtJJ4Q) [So Many Tears - 2Pac](https://www.youtube.com/watch?v=B3i0C-JCQ4A) [Smile - ScarFace](https://youtu.be/dfxG9s0_ccM?si=BuOwJMDcBknKZS6P)
 
