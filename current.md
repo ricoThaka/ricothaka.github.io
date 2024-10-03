@@ -7,6 +7,9 @@
 
 # Currently Compiling
 
+
+![EuropaClipper](https://upload.wikimedia.org/wikipedia/commons/a/a9/Europa_Clipper_patch.png)
+
 <pre class="mermaid">
       graph TD
       A[Client] --> B[Load Balancer]
