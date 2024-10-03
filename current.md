@@ -7,7 +7,8 @@
 
 # Currently Compiling
 
-[Getting Started with NASA Worldview (December 2021](https://www.youtube.com/watch?v=uMkuiRJr_-E) [NasaEarthData](https://www.youtube.com/@NASAEarthdata)
+[Getting Started with NASA Worldview (December 2021](https://www.youtube.com/watch?v=uMkuiRJr_-E) [NasaEarthData](https://www.youtube.com/@NASAEarthdata) [Kanye West - Follow God](https://www.youtube.com/watch?v=ivCY3Ec4iaU)
+
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
