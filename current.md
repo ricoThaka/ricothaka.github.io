@@ -7,6 +7,7 @@
 
 # Currently Compiling
 
+[Getting Started with NASA Worldview (December 2021](https://www.youtube.com/watch?v=uMkuiRJr_-E) [NasaEarthData](https://www.youtube.com/@NASAEarthdata)
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
