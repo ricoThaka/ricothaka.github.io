@@ -7,13 +7,13 @@
 
 # Currently Compiling
 
-[MC Hammer - Pump It Up](https://www.youtube.com/watch?v=9sZVcXzSE3M) [MC HammeR - Turn ThiS MuthA OuT](https://www.youtube.com/watch?v=1q2TA2zPtac) [MC HAMMER - LET'S GET IT STARTED with TROOP SUIT!](https://youtu.be/akVWFiptGNY?si=pjzwHO1N_Mj_Q6J4)
+[MC Hammer - Pump It Up](https://www.youtube.com/watch?v=9sZVcXzSE3M) [MC HammeR - Turn ThiS MuthA OuT](https://www.youtube.com/watch?v=1q2TA2zPtac) [MC HAMMER - LET'S GET IT STARTED with TROOP SUIT!](https://youtu.be/akVWFiptGNY?si=pjzwHO1N_Mj_Q6J4) [Oaktown's 3-5-7 "Yeah Yeah Yeah"](https://www.youtube.com/watch?v=crCxvVb9Mds) [Sweet Tee - On The Smooth Tip](https://www.youtube.com/watch?v=FoFUoFjYKhA) [Roxanne Shante - Roxanne's Revenge](https://www.youtube.com/watch?v=0eckRNcHCKA) [J.J. Fad - Supersonic ](https://www.youtube.com/watch?v=Ti1bFMBd6V4) [N.W.A., King Tee, Ice-T, MC Hammer, Tone-Loc, etc. - We're All In The Same Gang](https://www.youtube.com/watch?v=Pmg6c0PASYk) [Rodney O And Joe Cooley - Everlasting Bass](https://www.youtube.com/watch?v=e7aD9eSsqDU) [We Are People Too - Master JAy](https://www.youtube.com/watch?v=TGp3TVxtBbI) [Margo Williams - God Save And Protect All The Children](https://youtu.be/yz19n4eS3eQ?si=RMY0tpbpl9MTHi7a) [Golden Flamingo Orchestra Featuring Margo Williams - The Guardian Angel Is Watching Over Us](https://www.youtube.com/watch?v=kTp0-IRuYLU) [Surface - Happy](https://youtu.be/YIC6MHLaZLs?si=AzZY6Uwkr6dOl6Fi) [XaViER - Do it to the Max](https://youtu.be/JXTZ4OqQIr4?si=Fh7FwVHHBeJnGsiw) [MC Lyte - 10% Dis](https://www.youtube.com/watch?v=VMgaItHsmsE)
 
 ![JUNO](https://images-assets.nasa.gov/image/PIA21971/PIA21971~large.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint)
 ![NASAJUNO](https://science.nasa.gov/wp-content/uploads/2023/09/Juno_Psychedelic_Version_1-800.jpg?w=2048&format=webp)
 [Poster Version2](https://science.nasa.gov/wp-content/uploads/2023/09/Juno_Psychedelic_Version_2.pdf?emrc=66feea1213de8) [Poster Version1](https://science.nasa.gov/wp-content/uploads/2023/09/Juno_Psychedelic_Version_1-1.pdf?emrc=66feea12102a0)
 
-![NasaJUNO](https://science.nasa.gov/wp-content/uploads/2023/09/Juno_Psychedelic_Version_2.pdf?emrc=66feea1213de8)
+![NasaJUNO](https://upload.wikimedia.org/wikipedia/commons/3/32/Juno_mission_insignia.svg)
 
 ![EuropaClipper](https://upload.wikimedia.org/wikipedia/commons/a/a9/Europa_Clipper_patch.png)
 
