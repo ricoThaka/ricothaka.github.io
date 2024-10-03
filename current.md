@@ -7,6 +7,21 @@
 
 # Currently Compiling
 
+```mermaid
+%% Example of sequence diagram
+  sequenceDiagram
+    Alice->>Bob: Hello Bob, how are you?
+    alt is sick
+    Bob->>Alice: Not so good :(
+    else is well
+    Bob->>Alice: Feeling fresh like a daisy
+    end
+    opt Extra response
+    Bob->>Alice: Thanks for asking
+    end
+```
+
+
 [Getting Started with NASA Worldview (December 2021](https://www.youtube.com/watch?v=uMkuiRJr_-E) [NasaEarthData](https://www.youtube.com/@NASAEarthdata) [Kanye West - Follow God](https://www.youtube.com/watch?v=ivCY3Ec4iaU) [AMEN - CyHi The Prynce](https://www.youtube.com/watch?v=hYSZRLtJJ4Q) [So Many Tears - 2Pac](https://www.youtube.com/watch?v=B3i0C-JCQ4A)
 
 
