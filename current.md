@@ -6,6 +6,39 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+![Normani](https://www.fatbeats.com/cdn/shop/files/fat-beats-bahamadia-kollage-2xlp-140g-vinyl-bewith166lp-photo-photo-photo-34353105666231_800x.webp?v=1705627349) [bahamadia kollage full album](https://www.youtube.com/watch?v=seharTRMmNg)
+[Bahamadia - Kollage (2xLP - 140g Vinyl)](https://www.fatbeats.com/products/bahamadia-kollage-2xlp-140g-vinyl)
+### Lauryn Hill – The Miseducation Of Lauryn Hill
+![Shaakira](https://static.euronews.com/articles/stories/07/84/48/58/1080x608_cmsv2_95054d6e-2a6a-55d5-aff5-d324e9789dc1-7844858.jpg)
+
+<iframe src="https://archive.org/embed/04-to-zion" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Lauryn Hill - The Miseducation of Lauryn Hill (1998 Japanese Edition)](https://www.youtube.com/watch?v=X7gIKNEZBjY) 
+[The Miseducation of Lauryn Hill by Lauryn Hill (Cassette, Aug-1998, Ruffhouse)](https://www.ebay.com/p/3585670) [lauryn hill - the miseducation of lauryn hill (full album)](https://www.youtube.com/watch?v=qFfgx-CDBjA)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://www.youtube.com/watch?v=qFfgx-CDBjA"><img src="https://i.ebayimg.com/images/g/C8UAAOSwiAtm0j3K/s-l1600.webp"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://www.youtube.com/watch?v=X7gIKNEZBjY"><img src="https://i.ebayimg.com/images/g/NGIAAOSwEatm0j3M/s-l1600.webp"></a>
+         </div>
+
+
+ <div class="rightColumn">
+
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://pbs.twimg.com/media/GYB8UYZb0AIRjVY?format=jpg&name=large"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
 Both Cardi and BIA have been cryptically dissing each other for some time now and Cardi let her have it on [ GloRilla and Megan Thee Stallion's red-hot "Wanna Be (Remix)."](https://youtu.be/i1_wJJh2GWA) - [TMZ](https://www.tmz.com/2024/10/03/ashton-kutcher-not-being-investigated-by-feds-diddy-case/#continued) [https://youtu.be/i1_wJJh2GWA](https://youtu.be/i1_wJJh2GWA) [Cardi B - Bodak Yellow](https://www.youtube.com/watch?v=PEGccV-NOm8) 
 
 
