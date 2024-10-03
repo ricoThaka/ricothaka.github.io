@@ -7,6 +7,13 @@
 
 # Currently Compiling
 
+[MC Hammer - Pump It Up](https://www.youtube.com/watch?v=9sZVcXzSE3M) [MC HammeR - Turn ThiS MuthA OuT](https://www.youtube.com/watch?v=1q2TA2zPtac) [MC HAMMER - LET'S GET IT STARTED with TROOP SUIT!](https://youtu.be/akVWFiptGNY?si=pjzwHO1N_Mj_Q6J4)
+
+![JUNO](https://images-assets.nasa.gov/image/PIA21971/PIA21971~large.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint)
+![NASAJUNO](https://science.nasa.gov/wp-content/uploads/2023/09/Juno_Psychedelic_Version_1-800.jpg?w=2048&format=webp)
+[Poster Version2](https://science.nasa.gov/wp-content/uploads/2023/09/Juno_Psychedelic_Version_2.pdf?emrc=66feea1213de8) [Poster Version1](https://science.nasa.gov/wp-content/uploads/2023/09/Juno_Psychedelic_Version_1-1.pdf?emrc=66feea12102a0)
+
+![NasaJUNO](https://science.nasa.gov/wp-content/uploads/2023/09/Juno_Psychedelic_Version_2.pdf?emrc=66feea1213de8)
 
 ![EuropaClipper](https://upload.wikimedia.org/wikipedia/commons/a/a9/Europa_Clipper_patch.png)
 
