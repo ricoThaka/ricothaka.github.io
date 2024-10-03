@@ -6,7 +6,7 @@
 {% endhighlight %}
 
 # Currently Compiling
-Both Cardi and BIA have been cryptically dissing each other for some time now and Cardi let her have it on [ GloRilla and Megan Thee Stallion's red-hot "Wanna Be (Remix)."](https://youtu.be/i1_wJJh2GWA) [https://youtu.be/i1_wJJh2GWA](https://youtu.be/i1_wJJh2GWA)
+Both Cardi and BIA have been cryptically dissing each other for some time now and Cardi let her have it on [ GloRilla and Megan Thee Stallion's red-hot "Wanna Be (Remix)."](https://youtu.be/i1_wJJh2GWA) [https://youtu.be/i1_wJJh2GWA](https://youtu.be/i1_wJJh2GWA) [Cardi B - Bodak Yellow](https://www.youtube.com/watch?v=PEGccV-NOm8)
 
 ![![Bia an Nicky](https://pbs.twimg.com/media/GY75sLmWMAEM5Rr?format=jpg&name=large)](https://pbs.twimg.com/media/GY75sLmWMAEM5Rr?format=jpg&name=large "Redirect to homepage")
 
