@@ -7,7 +7,14 @@
 
 # Currently Compiling
 
-[Getting Started with NASA Worldview (December 2021](https://www.youtube.com/watch?v=uMkuiRJr_-E) [NasaEarthData](https://www.youtube.com/@NASAEarthdata) [Kanye West - Follow God](https://www.youtube.com/watch?v=ivCY3Ec4iaU) [AMEN - CyHi The Prynce](https://www.youtube.com/watch?v=hYSZRLtJJ4Q)
+[Getting Started with NASA Worldview (December 2021](https://www.youtube.com/watch?v=uMkuiRJr_-E) [NasaEarthData](https://www.youtube.com/@NASAEarthdata) [Kanye West - Follow God](https://www.youtube.com/watch?v=ivCY3Ec4iaU) [AMEN - CyHi The Prynce](https://www.youtube.com/watch?v=hYSZRLtJJ4Q) [So Many Tears - 2Pac](https://www.youtube.com/watch?v=B3i0C-JCQ4A)
+
+
+### /iˌvapōˌtranspəˈrāSHən/ e·vap·o·tran·spi·ra·tion
+Evapotranspiration is the sum of all processes by which water moves from the land surface to the atmosphere via evaporation and transpiration. [USGS - The Natural Water Cycle (PDF)](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/water-cycle-natural-english.pdf)
+![evapotranspiration](https://upload.wikimedia.org/wikipedia/commons/8/80/Surface_water_cycle.svg)
+![TheWaterCycle](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/USGS_WaterCycle_English_ONLINE_20230302.png?itok=tAVM8IYl)
+
 
 flowchart LR
 
