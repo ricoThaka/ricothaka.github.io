@@ -7,15 +7,15 @@
 
 # Currently Compiling
 
-  <pre class="mermaid">
-        graph TD
-        A[Client] --> B[Load Balancer]
-        B --> C[Server01]
-        B --> D[Server02]
-  </pre>
+<pre class="mermaid">
+      graph TD
+      A[Client] --> B[Load Balancer]
+      B --> C[Server01]
+      B --> D[Server02]
+</pre>
 
 
-[Getting Started with NASA Worldview (December 2021](https://www.youtube.com/watch?v=uMkuiRJr_-E) [NasaEarthData](https://www.youtube.com/@NASAEarthdata) [Kanye West - Follow God](https://www.youtube.com/watch?v=ivCY3Ec4iaU) [AMEN - CyHi The Prynce](https://www.youtube.com/watch?v=hYSZRLtJJ4Q) [So Many Tears - 2Pac](https://www.youtube.com/watch?v=B3i0C-JCQ4A)
+[Getting Started with NASA Worldview (December 2021](https://www.youtube.com/watch?v=uMkuiRJr_-E) [NasaEarthData](https://www.youtube.com/@NASAEarthdata) [Kanye West - Follow God](https://www.youtube.com/watch?v=ivCY3Ec4iaU) [AMEN - CyHi The Prynce](https://www.youtube.com/watch?v=hYSZRLtJJ4Q) [So Many Tears - 2Pac](https://www.youtube.com/watch?v=B3i0C-JCQ4A) [Smile - ScarFace](https://youtu.be/dfxG9s0_ccM?si=BuOwJMDcBknKZS6P)
 
 
 ### /iˌvapōˌtranspəˈrāSHən/ e·vap·o·tran·spi·ra·tion
@@ -24,9 +24,7 @@ Evapotranspiration is the sum of all processes by which water moves from the lan
 ![TheWaterCycle](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/USGS_WaterCycle_English_ONLINE_20230302.png?itok=tAVM8IYl)
 
 
-# Jupiter
-[JunoCAM](https://www.missionjuno.swri.edu/junocam)
-Normani JUNO
+
 
 ![JUNO](https://d2pn8kiwq2w21t.cloudfront.net/images/22-mission-current-Juno.height-700.png)
 <video controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA25086.jpg">
@@ -40,7 +38,9 @@ Normani JUNO
   <a href="https://photojournal.jpl.nasa.gov/archive/PIA25086.mp4">MP4</a>
   video.
 </video>
-
+# Jupiter
+[JunoCAM](https://www.missionjuno.swri.edu/junocam)
+Normani JUNO
 
 [Dragon Ball & Dragon Ball Z Movies - Funimation DVD Singles](https://archive.org/details/dragon-ball-movies-funimation-dvd-singles)
 ## deltron 3030
