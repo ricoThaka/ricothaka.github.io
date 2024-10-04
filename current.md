@@ -6,7 +6,7 @@
 {% endhighlight %}
 
 # Currently Compiling
-
+### ᕦ(⩾﹏⩽)ᕥ [Rich Homie Quan - Walk Thru ft. Problem](https://youtu.be/gP4n1zyN4KY?si=F-do8rsqG4ekIpi7) [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]
 
 ### Astro Boy: Volume 1 (2002 Manga Entertainment VHS)
 <iframe src="https://archive.org/embed/yes-another-astro-volume" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
