@@ -29,7 +29,114 @@ In late 2023, the hybrid antenna downlinked data from 20 million miles (32 milli
 [Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)](https://www.retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-real-bout-garou-densetsu-2-the-newcomers-ngm-2400.html)
 
 ### ᕦ(⩾﹏⩽)ᕥ [Rich Homie Quan Walk Thru ft. Problem](https://youtu.be/gP4n1zyN4KY?si=F-do8rsqG4ekIpi7) [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]
+[Love Connection | WGN | 1995 | Partial](https://www.youtube.com/watch?v=uawoP7Rq6cg)
+[Buy Me That! A Kids' Survival Guide to TV Advertising (VHS 1989)](https://www.youtube.com/watch?v=LaVM2XG4wvE)
+[COCO_CHANEL TEEN_SUMMiT featuring Master P 1997 Heaven For a Gangsta](https://www.youtube.com/watch?v=NNOYC__fKWE)
+[Hot new CSS rules to try now](https://www.creativebloq.com/features/hot-new-css-rules-to-try-now/2)
+<video style="max-width: 100%;" poster="/wordpress/wp-content/uploads/2022/01/unparalleled-extensibility-anim-opening2.jpg" autoplay="autoplay" loop="loop" muted="muted" width="1280" height="100%">
+  <source src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2022/01/unparalleled_extensibility-v3-60FPS-compressed-v2.mp4" type="video/mp4">
+</video>
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/n8kiLtdLEHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://images.genius.com/a1cb107c48d4cc842754b23e69ac9005.1000x617x1.jpg">
+
+<div class="panel4-container">
+
+  <div class="item1">
+    <video width="300" autoplay loop muted>
+      <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item2">
+    <video width="300" autoplay loop muted>
+      <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item3">
+    <video width="300" autoplay loop muted>
+      <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item4">
+    <video width="300" autoplay loop muted>
+      <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+</div>
+<img src="https://www.carbodydesign.com/media/2014/01/1967-Porsche-911-Targa-advertisement.jpg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://s1.cdn.autoevolution.com/images/news/these-are-the-best-porsche-print-ads-ever-photo-gallery-81098_15.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://s1.cdn.autoevolution.com/images/news/these-are-the-best-porsche-print-ads-ever-photo-gallery-81098_15.jpg" alt="Girl in a jacket">
+      </div>
+    </div>
+  </div>
+</div>
+
+<img src="https://i.pinimg.com/originals/76/74/db/7674dbeac73ff4dc4fd24905c5adceb7.png">
+
+[Singer Sevyn Streeter Says 76ers Stopped Her From Performing National Anthem Over ‘We Matter’ Shirt](https://time.com/4547448/sevyn-streeter-76ers-national-anthem-we-matter/)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://gossiponthis.com/wp-content/uploads/2016/10/Sevyn-Streeter-We-Matter-76ers.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://gossiponthis.com/wp-content/uploads/2016/10/Sevyn-Streeter-We-Matter-76ers.jpg" alt="Girl in a jacket">
+      </div>
+    </div>
+  </div>
+</div>
+<img src="http://www.classiccarstodayonline.com/wp-content/uploads/2012/07/1985-Ferrari-328-ad.jpg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/564x/18/82/b1/1882b1b3aa1c8e5dccd11add596c282c.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/564x/18/82/b1/1882b1b3aa1c8e5dccd11add596c282c.jpg" alt="Girl in a jacket">
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/564x/b7/df/22/b7df22449904dac66babdf945b225967.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/564x/b7/df/22/b7df22449904dac66babdf945b225967.jpg" alt="Girl in a jacket">
+      </div>
+    </div>
+  </div>
+</div>
 ### Astro Boy: Volume 1 (2002 Manga Entertainment VHS)
 <iframe src="https://archive.org/embed/yes-another-astro-volume" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
