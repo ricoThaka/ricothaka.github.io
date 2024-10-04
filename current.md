@@ -6,6 +6,46 @@
 {% endhighlight %}
 
 # Currently Compiling
+```mermaid
+mindmap
+root{{Low Developer Velocity}}
+  (Method)
+    too many meetings
+    lack of proper planning
+    lack of agile methodologies
+    unclear requirements
+  (Code)
+    too much technical debt
+      not enough tests
+      outdated technology
+      code duplication
+      tightly coupled components
+      inconsistent coding standards
+    complex codebase
+    lack of proper documentation
+  (People)
+    lack of necessary skillsets
+    inadequate team size
+    high employee turnover
+    communication barriers among team members
+    insufficient onboarding and training
+    burnout and low morale
+  (Systems)
+    development servers are down
+      server hardware is failing
+      firewall rules are incorrect
+      domain name setup is incorrect
+      went over the billing limit
+    slow or unstable development environment
+    lack of proper development tools
+    inadequate version control system
+    insufficient testing infrastructure
+```
+
+
+[mermaid-diagram-examples/diagrams/cause-and-effect.md - ](https://github.com/ricoThaka/mermaid-diagram-examples/commit/633857013f75ef9f94ccb721461d881752638bba)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771495709&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/aint-equal" title="Ain&#x27;t Equal" target="_blank" style="color: #cccccc; text-decoration: none;">Ain&#x27;t Equal</a></div>
 
 ![Normani](https://www.fatbeats.com/cdn/shop/files/fat-beats-bahamadia-kollage-2xlp-140g-vinyl-bewith166lp-photo-photo-photo-34353105666231_800x.webp?v=1705627349) [bahamadia kollage full album](https://www.youtube.com/watch?v=seharTRMmNg)
 [Bahamadia - Kollage (2xLP - 140g Vinyl)](https://www.fatbeats.com/products/bahamadia-kollage-2xlp-140g-vinyl)
