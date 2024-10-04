@@ -36,7 +36,7 @@ html {
        repeating-conic-gradient(from 30deg,var(--c1) 0 60deg,var(--c2) 0 120deg,var(--c3) 0 180deg);
      background-size: var(--s) calc(var(--s)*0.577);
 
-
+     background-attachment: fixed;
     height: 100vh;
     width: 100vw;
   }
