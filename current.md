@@ -7,6 +7,11 @@
 
 # Currently Compiling
 
+[Douglas County Libraries hacked by overseas criminal group](https://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/) [Hackers target Seattle Public Library system](https://mynorthwest.com/3961228/seattle-public-library-goes-offline-amid-ransomware-event/) [Why did ransomware hackers target Seattle Public Library?](https://www.geekwire.com/2024/why-did-ransomware-hackers-target-seattle-public-library/) 
+
+
+![seattle Public Library’s Central branch in downtown Seattle](https://cdn.geekwire.com/wp-content/uploads/2024/05/46749999862_9a2a7ca753_k-630x522.jpg)
+> The Seattle Public Library’s Central branch in downtown Seattle. (GeekWire Photo / Kurt Schlosser)
 
 <pre class="mermaid">
 
