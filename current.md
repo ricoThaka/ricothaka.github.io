@@ -6,7 +6,8 @@
 {% endhighlight %}
 
 # Currently Compiling
-```mermaid
+
+```mermaid-example
 mindmap
 root{{Low Developer Velocity}}
   (Method)
@@ -42,6 +43,47 @@ root{{Low Developer Velocity}}
     insufficient testing infrastructure
 ```
 
+<pre class="mermaid">
+mindmap
+root{{Low Developer Velocity}}
+  (Method)
+    too many meetings
+    lack of proper planning
+    lack of agile methodologies
+    unclear requirements
+  (Code)
+    too much technical debt
+      not enough tests
+      outdated technology
+      code duplication
+      tightly coupled components
+      inconsistent coding standards
+    complex codebase
+    lack of proper documentation
+  (People)
+    lack of necessary skillsets
+    inadequate team size
+    high employee turnover
+    communication barriers among team members
+    insufficient onboarding and training
+    burnout and low morale
+  (Systems)
+    development servers are down
+      server hardware is failing
+      firewall rules are incorrect
+      domain name setup is incorrect
+      went over the billing limit
+    slow or unstable development environment
+    lack of proper development tools
+    inadequate version control system
+    insufficient testing infrastructure
+
+
+</pre>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
 
 [mermaid-diagram-examples/diagrams/cause-and-effect.md - ](https://github.com/ricoThaka/mermaid-diagram-examples/commit/633857013f75ef9f94ccb721461d881752638bba)
 
@@ -105,10 +147,7 @@ nice outfits boo!
       B --> C[Server01]
       B --> D[Server02]
 </pre>
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
+
 
 [Getting Started with NASA Worldview (December 2021](https://www.youtube.com/watch?v=uMkuiRJr_-E) [NasaEarthData](https://www.youtube.com/@NASAEarthdata) [Kanye West - Follow God](https://www.youtube.com/watch?v=ivCY3Ec4iaU) [AMEN - CyHi The Prynce](https://www.youtube.com/watch?v=hYSZRLtJJ4Q) [So Many Tears - 2Pac](https://www.youtube.com/watch?v=B3i0C-JCQ4A) [Smile - ScarFace](https://youtu.be/dfxG9s0_ccM?si=BuOwJMDcBknKZS6P)
 
