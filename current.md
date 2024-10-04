@@ -9,6 +9,7 @@
 
 
 <pre class="mermaid">
+
 mindmap
 root{{Low Developer Velocity}}
   (Method)
@@ -52,6 +53,23 @@ root{{Low Developer Velocity}}
 
 [mermaid-diagram-examples/diagrams/cause-and-effect.md - ](https://github.com/ricoThaka/mermaid-diagram-examples/commit/633857013f75ef9f94ccb721461d881752638bba)
 
+
+## Proposition 64: The Adult Use of Marijuana Act
+Overview [The California Cannabis Hemp Initiative of 2014](https://lao.ca.gov/ballot/2014/140072.aspx)
+Effective November 9, 2016, Proposition 64 legalizes specified personal use and cultivation of marijuana for adults 21 years of age or older; reduces criminal penalties for specified marijuana-related offenses for adults and juveniles; and authorizes resentencing or dismissal and sealing of prior, eligible marijuana-related convictions. The proposition includes provisions on regulation, licensing, and taxation of legalized use. [California Courts](https://www.courts.ca.gov/prop64.htm) [Proposition 64 and Responsible Adult Use of Marijuana LA_COUNTY California](http://publichealth.lacounty.gov/sapc/public/proposition64.htm) [MEDICAL MARIJUANA IDENTIFICATION CARD PROGRAM](http://publichealth.lacounty.gov/docs/MMIP-FLYER.pdf) [Proposition 64 (Marijuana Offenses) FAQ [SanDieago]](https://www.sandiegocounty.gov/content/sdc/public_defender/prop_64_faq.html) [Proposition 64 - Personal Non-Medical Use of Cannabis Brea California](https://www.ci.brea.ca.us/1376/Prop-64-FAQ) [Prop 64 FAQs](https://www.santa-ana.org/prop-64-faqs/) [San Francisco Prop64 FAQ](https://sfpublicdefender.org/services/prop-64-faq/) When does Proposition 64 take effect? Proposition 64 took effect November 9, 2016. You can and should seek relief right away. [prop64](https://images.procon.org/wp-content/uploads/sites/16/ca-prop-64-marijuana.pdf) [Marijuana Initiative Enters Circulation](https://www.sos.ca.gov/administration/news-releases-and-advisories/2014-news-releases-and-advisories/db14-011) [Medicinal Cannabis: History, Pharmacology, And Implications for the Acute Care Setting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312634/) [Congress quietly ends federal government’s ban on medical marijuana](https://www.latimes.com/nation/la-na-medical-pot-20141216-story.html)
+
+[DOWNLOAD~MARIJUANA LEGALIZATION. INITIATIVE STATUTE Proposition64](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf)
+
+[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://ricothaka.github.io/)
+
+[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+
+
+## WildFireS
+![FiRMS](https://pbs.twimg.com/media/GR6v9VpaUAAraWG?format=jpg&name=large) 
+[Nasa_FiRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-116.6,34.8,6.9z) [US/Canada FireMaps](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.0z)
+
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771495709&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/aint-equal" title="Ain&#x27;t Equal" target="_blank" style="color: #cccccc; text-decoration: none;">Ain&#x27;t Equal</a></div>
 
 ![Normani](https://www.fatbeats.com/cdn/shop/files/fat-beats-bahamadia-kollage-2xlp-140g-vinyl-bewith166lp-photo-photo-photo-34353105666231_800x.webp?v=1705627349) [bahamadia kollage full album](https://www.youtube.com/watch?v=seharTRMmNg)
@@ -64,27 +82,7 @@ root{{Low Developer Velocity}}
 [Lauryn Hill - The Miseducation of Lauryn Hill (1998 Japanese Edition)](https://www.youtube.com/watch?v=X7gIKNEZBjY) 
 [The Miseducation of Lauryn Hill by Lauryn Hill (Cassette, Aug-1998, Ruffhouse)](https://www.ebay.com/p/3585670) [lauryn hill - the miseducation of lauryn hill (full album)](https://www.youtube.com/watch?v=qFfgx-CDBjA)
 
-<div class="twoPanelSpread">
-  <div class="row">
-    <div class="panelColumn">
-      <div class="leftColumn">
-<a href="https://www.youtube.com/watch?v=qFfgx-CDBjA"><img src="https://i.ebayimg.com/images/g/C8UAAOSwiAtm0j3K/s-l1600.webp"></a>
-        </div>
-    </div>
-    <div class="panelColumn">
-      <div class="rightColumn">
 
-<a href="https://www.youtube.com/watch?v=X7gIKNEZBjY"><img src="https://i.ebayimg.com/images/g/NGIAAOSwEatm0j3M/s-l1600.webp"></a>
-         </div>
-
-
- <div class="rightColumn">
-
-<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://pbs.twimg.com/media/GYB8UYZb0AIRjVY?format=jpg&name=large"></a>
-         </div>
-    </div>
-  </div>
-</div>
 
 Both Cardi and BIA have been cryptically dissing each other for some time now and Cardi let her have it on [ GloRilla and Megan Thee Stallion's red-hot "Wanna Be (Remix)."](https://youtu.be/i1_wJJh2GWA) - [TMZ](https://www.tmz.com/2024/10/03/ashton-kutcher-not-being-investigated-by-feds-diddy-case/#continued) [https://youtu.be/i1_wJJh2GWA](https://youtu.be/i1_wJJh2GWA) [Cardi B - Bodak Yellow](https://www.youtube.com/watch?v=PEGccV-NOm8) 
 
