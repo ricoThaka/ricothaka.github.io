@@ -9,6 +9,7 @@
 
 
 ![RB2](https://static.wikia.nocookie.net/snk/images/2/2c/Rbff2arcadeflyer.png/revision/latest?cb=20211224232516)
+![rbff](https://southtown-homebrew.com/images/RBFF2_dub_US-FF.jpg)
 [Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)](https://www.retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-real-bout-garou-densetsu-2-the-newcomers-ngm-2400.html)
 
 ### ᕦ(⩾﹏⩽)ᕥ [Rich Homie Quan Walk Thru ft. Problem](https://youtu.be/gP4n1zyN4KY?si=F-do8rsqG4ekIpi7) [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]
