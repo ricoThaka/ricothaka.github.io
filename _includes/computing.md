@@ -75,7 +75,7 @@ Since I'm publishing using [##GiTHUB_PAGES](https://pages.github.com/), alot of 
 
 [Tesla coil is an electrical](https://en.wikipedia.org/wiki/Tesla_coil) resonant transformer circuit designed by inventor Nikola Tesla in 1891.[1] It is used to produce high-voltage, low-current, high-frequency alternating-current electricity.[2][3] Tesla experimented with a number of different configurations consisting of two, or sometimes three, coupled resonant electric circuits.
 
-<video controls 
+<video controls preload="none"   
   src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
   poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
   >
@@ -85,7 +85,7 @@ Since I'm publishing using [##GiTHUB_PAGES](https://pages.github.com/), alot of 
 </video>
 
 ### [FlexBox Demo](https://codepen.io/thakarashard/pen/WNBVzWr)
-<video controls  height="auto" poster="https://pbs.twimg.com/media/GRg4rl4b0AMgXF2?format=jpg&name=large">
+<video controls preload="none"   height="auto" poster="https://pbs.twimg.com/media/GRg4rl4b0AMgXF2?format=jpg&name=large">
 
 <source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />    
 <source src="https://archive.org/download/screen-recording-2024-07-02-2.48.05-pm/Screen%20recording%202024-07-02%202.48.05%20PM.webm" type="video/webm" />

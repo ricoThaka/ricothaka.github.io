@@ -2,7 +2,7 @@
 # watchlist
 
 [Fire and Ice 1983](https://archive.org/details/a137ee3e2a37701695abd791d95bfeaf-1080p)
-<video controls width="100%" height="auto" poster="https://cover.box3.net/newsimg/dvdmov/max1126915764-frontback-cover.jpg">
+<video controls preload="none"  width="100%" height="auto" poster="https://cover.box3.net/newsimg/dvdmov/max1126915764-frontback-cover.jpg">
 
   <source src="https://archive.org/download/a137ee3e2a37701695abd791d95bfeaf-1080p/a137ee3e2a37701695abd791d95bfeaf-1080p.mp4" type="video/mp4" />
 
@@ -30,7 +30,7 @@
 
 ## Teenage Mutant Ninja Turtles 1990 
 
-<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GW55EZPboAAdLG0?format=jpg&name=large">
+<video controls preload="none"  width="100%" height="auto" poster="https://pbs.twimg.com/media/GW55EZPboAAdLG0?format=jpg&name=large">
 
   <source src="https://archive.org/download/teenage-mutant-ninja-turtles-1990-720p-blu-ray-yts.-mx/Teenage.Mutant.Ninja.Turtles.1990.720p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
 
@@ -65,7 +65,7 @@
 
 [MC Hammer BREAKS Silence And Exposes Diddy](https://www.youtube.com/watch?v=IUEeLnxT6-I)
 [Smokey and the Bandit](https://lastchancepowerdrive.com/2019/08/10/smokey-and-the-bandit-filming-sites/)
-<video controls width="100%" height="auto" poster="https://www.salvationsouth.com/wp-content/uploads/2023/12/CONDENSED-bandit-cover-1024x576.jpg">
+<video controls preload="none"  width="100%" height="auto" poster="https://www.salvationsouth.com/wp-content/uploads/2023/12/CONDENSED-bandit-cover-1024x576.jpg">
 
   <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.mp4" type="video/mp4" />
   <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.ogv" type="video/ogg" />
@@ -82,7 +82,7 @@
 ### Who's the Man? Comedy · Crime · Mystery
 In this hip-hop whodunnit, Doctor Dré and Ed Lover play two barbers-turned-policemen who find themselves investigating their friend’s murder [TUBi](https://tubitv.com/movies/100000434/who-s-the-man) [TV_GUiDE](https://www.tvguide.com/movies/whos-the-man/2030109905/) [Yo! MTV Raps](https://en.wikipedia.org/wiki/Yo!_MTV_Raps) [https://plex](https://watch.plex.tv/movie/whos-the-man) [Who's the Man Soundtrack](https://youtube.com/playlist?list=PLvmdgH_DpOdI5xbuPGzzTVgTtr4XJneTq&si=g9KLLHPxeiLa0xVv) [ARCHiVE](https://archive.org/details/who-s-the-man-d-2-t-00) [Party AnD BullshiT](https://youtu.be/jX3bdJbo9ec?si=xRD48DfBGuc6UXL5)
 
-<video controls preload="auto" poster="https://m.media-amazon.com/images/M/MV5BNGIxNjY3ZTktMmNlOS00MDdmLWE3NTYtNGQ4N2I3MWNlNDg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg">
+<video controls preload="none"  poster="https://m.media-amazon.com/images/M/MV5BNGIxNjY3ZTktMmNlOS00MDdmLWE3NTYtNGQ4N2I3MWNlNDg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg">
     
 <source src="https://archive.org/download/who-s-the-man-d-2-t-00/WHO%27S%20THE%20MAN-D2_t00.mp4" type="video/mp4" />
          Download the
@@ -93,7 +93,7 @@ In this hip-hop whodunnit, Doctor Dré and Ed Lover play two barbers-turned-poli
 
 ['Ranma ½: The Battle of Nekonron China! Fight to Break the Rules!!' (らんま½ 中国寝崑崙大決戦！掟やぶりの激闘篇！！](https://ranma.fandom.com/wiki/Big_Trouble_in_Nekonron,_China) [imdb](https://www.imdb.com/title/tt0101583/plotsummary/?ref_=tt_ov_pl) When Prince Kirin of the 7 Lucky Gods shows up at the Tendo dojo looking for his bride-to-be, guess who's accidentally holding the scroll that signifies his future mate? [blogspot](https://animeannoyances.blogspot.com/2018/12/recap-ranma-12-big-trouble-in-nekonron.html) [rotten tomatoes](https://www.rottentomatoes.com/m/ranma_12_the_movie_1_big_trouble_in_nekonron_china_1991) [ANN](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1534)
 
-<video controls width="100%" height="auto" poster="https://static.wikia.nocookie.net/ranma/images/6/69/SeriesMovie01.png/revision/latest?cb=20120928053559">
+<video controls preload="none"  width="100%" height="auto" poster="https://static.wikia.nocookie.net/ranma/images/6/69/SeriesMovie01.png/revision/latest?cb=20120928053559">
 
 <source src="https://dn720405.ca.archive.org/0/items/getvid_20220408/getvid.mp4" type="video/mp4" />    
 <source src="https://dn720405.ca.archive.org/0/items/getvid_20220408/getvid.mp4" type="video/mp4" />
@@ -106,7 +106,7 @@ Download the
 
 [Super Dimension Fortress: Macross Episodes](https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108)
 
-<video controls height="auto" poster="https://a.storyblok.com/f/178900/1280x720/6f9e6c0a89/sdf-macross-hero.jpg/m/1200x0/filters:quality(95)format(webp)">
+<video controls preload="none"  height="auto" poster="https://a.storyblok.com/f/178900/1280x720/6f9e6c0a89/sdf-macross-hero.jpg/m/1200x0/filters:quality(95)format(webp)">
 
 <source src="https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108/SDF%20Macross%20%20Episode%2001%20%20Booby%20Trap%20%20%28ADV%20Dub%29.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/sdf-macross-episode-8-longest-birthday-adv-dub_202108/SDF%20Macross%20%20Episode%2001%20%20Booby%20Trap%20%20%28ADV%20Dub%29.mp4" type="video/mp4" />
@@ -122,7 +122,7 @@ Download the
 [Macross Plus [OVA] (English Dub) Home Video Master Transfer (Betacam)](https://archive.org/details/macross-plus-english-dub-master)
 Macross Plus (マクロスプラス, Makurosu Purasu) is a four-episode anime OVA and theatrical movie in the Macross series. It was the first sequel to the original Macross television series that took place in the official timeline (Macross II was quickly retconned by series creator Shōji Kawamori as a parallel world story in the Macross universe). Plus was a groundbreaking combination of traditional cel and computer-generated animation at the time of its release, paving the way for the incorporation of more computer-generated imagery in Japanese animation.[Wiki](https://en.wikipedia.org/wiki/Macross_Plus) [imdb](https://www.imdb.com/title/tt0110426/) [GFR](https://www.giantfreakinrobot.com/ent/macross-plus-anime-greatest-format.html) [My Anime List](https://myanimelist.net/anime/474/Macross_Plus) [OVA_FiLES](https://archive.org/download/macross-plus-english-dub-master)
 
-<video controls  height="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE1MG12eDB1MmNvMDdoa2JoMG1pbjBvYXJ4aGY0NWlqNzF1YjA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDQEzc4uJ2rwsbS/giphy.webp">
+<video controls preload="none"   height="auto" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE1MG12eDB1MmNvMDdoa2JoMG1pbjBvYXJ4aGY0NWlqNzF1YjA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDQEzc4uJ2rwsbS/giphy.webp">
 
 <source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%201%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%201%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />
@@ -145,7 +145,7 @@ Download the
 
 ### The Red Planet Mars
 An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
-<video controls 
+<video controls preload="none"  
   src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
   poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
 
@@ -166,7 +166,7 @@ An American scientist is able to contact and communicate with Mars with shatteri
 [Street Fighter II V (Includes ADV dub)](https://archive.org/details/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107)
 [Street Fighter: The Animated Series 1-26](https://archive.org/details/18FaceOfFury)
 [Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
-<video controls 
+<video controls preload="none"  
   src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4"
   poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
 
@@ -197,7 +197,7 @@ An American scientist is able to contact and communicate with Mars with shatteri
 ### Divide and Conquer (film)
 [Divide and Conquer (1943)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm) is the third film of Frank Capra's Why We Fight propaganda film series and deals with the Nazi conquest of Western Europe in 1940. [ReadMoreOnWikiPedia](https://en.wikipedia.org/wiki/Divide_and_Conquer_(film))
 
-<video controls 
+<video controls preload="none"  
   src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Why_We_Fight-_Divide_and_Conquer.webm"
   poster="https://pbs.twimg.com/media/GP_VBuEbEAEmjbi?format=jpg&name=large">
 
@@ -249,7 +249,7 @@ Jonathan "Jonny" Quest is the son of Dr. Benton Quest and often accompanies him 
 They Live is a 1988 American science fiction action horror film[b] written and directed by John Carpenter, based on the 1963 short story "[Eight O'Clock in the Morning](https://ia801600.us.archive.org/9/items/eight-oclock-in-the-morning/Eight%20o%27clock%20in%20the%20morning.pdf)" by [Ray Nelson](https://www.goodreads.com/book/show/5841632-eight-o-clock-in-the-morning) 
 [Radell Faraday Nelson](https://en.wikipedia.org/wiki/Ray_Nelson_(author)) (October 3, 1931 – November 30, 2022) was an American science fiction author and cartoonist
  . [imdb](https://www.imdb.com/title/tt0096256/)[ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/They_Live)
-<video controls 
+<video controls preload="none"  
   src="https://archive.org/download/they-live-1989-vhs/They%20Live%201989%20VHS%20.mp4"
   poster="https://i.gifer.com/origin/81/817aa974b6c8bad26b3f2ef4a7a21848_w200.gif">
 
@@ -268,7 +268,7 @@ They Live is a 1988 American science fiction action horror film[b] written and d
 
 These are from the official uncut subtitled edition VHS tapes released by Pioneer Entertainment
  . [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Sailor_Moon)
-<video controls 
+<video controls preload="none"  
   src="https://archive.org/download/sailor-moon-the-movies-special-uncut-subtitled-edition-vhs_202109/Sailor%20Moon%20R%20The%20Movie%20Special%20Uncut%20Subtitled%20Edition%20VHS.mp4"
   poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm51ZDhkdDR1MHh5YjVxMHg2aXI0a25ydWU1MjM5M3ZvN2hoMnl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Djk6OV5llwUb6/giphy.webp">
 
@@ -288,7 +288,7 @@ These are from the official uncut subtitled edition VHS tapes released by Pionee
 ## Live Action 
 ### Knight Rider 2010 (1994)
 Loosely based on the popular television series of the 80's, this movie brings the story into an apocalyptic time and a new "KITT". [imdb](https://www.imdb.com/title/tt0110273/) /////// Knight Rider 2010 is a 1994 American science fiction action television film directed by Sam Pillsbury and written by John Leekley, loosely based on the television series Knight Rider. The film stars Richard Joseph Paul, Heidi Leick, Michael Beach, and Don McManus. It aired in syndication in the United States on February 13, 1994, as part of Universal Television's Action Pack programming block. [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Knight_Rider_2010)
-<video controls 
+<video controls preload="none"  
   src="https://archive.org/download/knight-rider-2010-1994/Knight%20Rider%202010-%201994.mp4"
   poster="https://m.media-amazon.com/images/M/MV5BMjJiYjYyZTAtM2ViMi00Yjg3LWJmZjItYTNhNjI5YzUzYmQxXkEyXkFqcGdeQXVyMjQ4Nzk0MDU@._V1_FMjpg_UX1000_.jpg">
 

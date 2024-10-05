@@ -86,7 +86,7 @@ In late 2023, the hybrid antenna downlinked data from 20 million miles (32 milli
 
 ![wargames 1983](https://www.originalfilmart.com/cdn/shop/products/Wargames_1983_40x60_original_film_art_5000x.webp?v=1681149717)
 
-<video controls width="100%" height="auto" poster="https://ia600204.us.archive.org/12/items/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.gif">
+<video controls preload="none"   width="100%" height="auto" poster="https://ia600204.us.archive.org/12/items/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.gif">
 
   <source src="https://archive.org/download/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.mp4" type="video/mp4" />
 
@@ -192,7 +192,7 @@ In late 2023, the hybrid antenna downlinked data from 20 million miles (32 milli
 
 ## Dominion Tank Police (Acts I and II) [English Dubbed] (1997 Manga Entertainment Home Video Master) [Betacam SP Transfer.mp4
 
-<video controls width="100%" height="auto" poster="https://theglorioblog.com/wp-content/uploads/2018/02/vlcsnap-2017-05-02-20h28m27s332.png">
+<video controls preload="none"   width="100%" height="auto" poster="https://theglorioblog.com/wp-content/uploads/2018/02/vlcsnap-2017-05-02-20h28m27s332.png">
 
   <source src="https://archive.org/download/dominion-tank-police-english-dubbed-master/Dominion%20Tank%20Police%20%28Acts%20I%20and%20II%29%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%29%20%5BBetacam%20SP%20Transfer.mp4" type="video/mp4" />
 
@@ -292,7 +292,7 @@ Evapotranspiration is the sum of all processes by which water moves from the lan
 
 
 ![JUNO](https://d2pn8kiwq2w21t.cloudfront.net/images/22-mission-current-Juno.height-700.png)
-<video controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA25086.jpg">
+<video controls preload="none"   width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA25086.jpg">
 
   <source src="https://photojournal.jpl.nasa.gov/archive/PIA25086.mp4" type="video/mp4" />
 
@@ -396,7 +396,7 @@ The value of the viewBox attribute is a list of four numbers separated by whites
 Mar. 5, 2024: Engineers for NASA’s Perseverance Mars rover have made progress addressing the issue affecting the SHERLOC instrument’s Autofocus Context Imager (ACI), but at present the instrument’s Raman spectroscopic capability remains offline. [Team Assessing SHERLOC Instrument on NASA’s Perseverance Rover](https://www.jpl.nasa.gov/news/team-assessing-sherloc-instrument-on-nasas-perseverance-rover/)
 ![img](https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA24925_MAIN-1900.jpg)
 
-<video controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA26339.jpg">
+<video controls preload="none"   width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA26339.jpg">
 
   <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
 
@@ -594,7 +594,7 @@ Norman Rockwell is often credited for this painting
 
 ## Mineral dust storm in Morocco September
 Mineral dust storm in Morocco 2019 showing mineral dust emitted into the atmosphere. [EMIT will measure the Earth](https://eyes.nasa.gov/apps/earth/#/satellites/iss-emit)’s arid land dust source regions to enable new modeling and understanding of the Earth’s mineral dust cycle.
-<video controls width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0724_AnOceanInBloom_PROMO3.01389_print.jpg">
+<video controls preload="none"   width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0724_AnOceanInBloom_PROMO3.01389_print.jpg">
 
   <source src="https://earth.jpl.nasa.gov/emit/emit/system/video_items/52_Dust_storm_Morocco_IMG_2348.m4v" type="video/mp4" />
 
@@ -630,7 +630,7 @@ Mineral dust storm in Morocco 2019 showing mineral dust emitted into the atmosph
 [Credits](https://svs.gsfc.nasa.gov/14648#section_credits)
 [NasaGoodard](https://www.nasa.gov/goddard/)
 
-<video controls width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0724_AnOceanInBloom_PROMO3.01389_print.jpg">
+<video controls preload="none"   width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0724_AnOceanInBloom_PROMO3.01389_print.jpg">
 
   <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0801_AnOceanInBloom_FinalCut_HD.mp4" type="video/mp4" />
 
@@ -649,7 +649,7 @@ Mineral dust storm in Morocco 2019 showing mineral dust emitted into the atmosph
 
 This data visualization shows 50 years of algal blooms collected across a spinning globe. Once all the data is accumulated, the globe then unwraps into a Robinson projection so the viewer can see the entire global dataset. [WorldView](https://worldview.earthdata.nasa.gov/?v=307627.14771113126,-4164550.6316866404,1387215.8072848828,-3362710.6908941357&p=arctic&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor,MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2024-05-16-T20%3A25%3A43Z)
 
-<video controls width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/unwrap_v43_2023-10-26_1332.00760_print.jpg">
+<video controls preload="none"   width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/unwrap_v43_2023-10-26_1332.00760_print.jpg">
 
   <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/sphere2FL_v44_2023-10-26_1330.mp4" type="video/mp4" />
 
@@ -726,7 +726,7 @@ Darkstalkers: The Night Warriors, known in Japan as Vampire: The Night Warriors 
 
 ## Teenage Mutant Ninja Turtles 1990 
 
-<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GW55EZPboAAdLG0?format=jpg&name=large">
+<video controls preload="none"   width="100%" height="auto" poster="https://pbs.twimg.com/media/GW55EZPboAAdLG0?format=jpg&name=large">
 
   <source src="https://archive.org/download/teenage-mutant-ninja-turtles-1990-720p-blu-ray-yts.-mx/Teenage.Mutant.Ninja.Turtles.1990.720p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
 
@@ -764,7 +764,7 @@ Darkstalkers: The Night Warriors, known in Japan as Vampire: The Night Warriors 
 
 ![Tashi_B](https://pbs.twimg.com/media/GIMBeb3a0AEHgjt?format=jpg&name=medium)
 
-<video controls width="100%" height="auto" poster="https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152995/globalheat_geos5_20240625_front.jpg">
+<video controls preload="none"   width="100%" height="auto" poster="https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152995/globalheat_geos5_20240625_front.jpg">
     
 <source src="https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152995/globalheat_geos5_20240625.mp4" type="video/mp4" />
          Download the
@@ -835,7 +835,7 @@ Erika, im talking about you in here. I forgive you, i have moved on sexually, ev
 
 
 ![insight](https://photojournal.jpl.nasa.gov/archive/PIA22892.gif)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2023/06/color-image-of-pluto-pia20291-1.jpg">
+<video controls preload="none"   width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2023/06/color-image-of-pluto-pia20291-1.jpg">
     
 <source src="https://photojournal.jpl.nasa.gov/archive/PIA20742_NH_MOV_CEN6A_lres.mp4" type="video/mp4" />
          Download the
@@ -845,7 +845,7 @@ Erika, im talking about you in here. I forgive you, i have moved on sexually, ev
 </video> 
 
 
-<video controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA19839.gif">
+<video controls preload="none"   width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA19839.gif">
     
 <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
          Download the
@@ -872,7 +872,7 @@ You have to talk about how im being burned and my hair has lice mounds, that sti
 ![OmerettaTheGreat](https://pbs.twimg.com/media/GWbZZxTbAAEBT51?format=jpg&name=large)
 ![CitizenKane](https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
 [Citizen Kane 1941 Orson Welles](https://archive.org/details/citizen-kane-1941-orson-welles) [citizen Kane[1]on vimeo](https://vimeo.com/457349559) 
-<video controls width="100%" height="auto" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Citizen-Kane-Soundstage.jpg/960px-Citizen-Kane-Soundstage.jpg">
+<video controls preload="none"   width="100%" height="auto" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Citizen-Kane-Soundstage.jpg/960px-Citizen-Kane-Soundstage.jpg">
     
 <source src="https://archive.org/download/citizen-kane-1941-orson-welles/Citizen%20Kane%201941%20Orson%20Welles.mp4" type="video/mp4" />
          Download the
@@ -1013,7 +1013,7 @@ Los angeles is a [Euridite civiliZation](https://en.wiktionary.org/wiki/erudite)
 - Rashard...
 
 Perseverance Rover Watches Ingenuity Mars Helicopter’s 54th Flight
-<video controls  height="auto" poster="https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25968.width-1320.jpg">
+<video controls preload="none"    height="auto" poster="https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25968.width-1320.jpg">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6172_PIA25970.mp4" type="video/mp4" />    
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6172_PIA25970.mp4" type="video/mp4" />
@@ -1093,7 +1093,7 @@ Androiding
 ![curiosity](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04258/opgs/edr/ncam/NRB_775492033EDR_S1080792NCAM00594M_.JPG)
 [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
 
-<video controls  height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none"    height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -1113,7 +1113,7 @@ https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_0297_0693322301_098ECM_
 
 >NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
 
-<video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
+<video controls preload="none"   width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
     
 <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
          Download the
@@ -1187,7 +1187,7 @@ https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_0297_0693322301_098ECM_
 
 [Tesla coil is an electrical](https://en.wikipedia.org/wiki/Tesla_coil) resonant transformer circuit designed by inventor Nikola Tesla in 1891.[1] It is used to produce high-voltage, low-current, high-frequency alternating-current electricity.[2][3] Tesla experimented with a number of different configurations consisting of two, or sometimes three, coupled resonant electric circuits.
 
-<video controls 
+<video controls preload="none"   
   src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
   poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
   >
