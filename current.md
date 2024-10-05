@@ -1,3 +1,7 @@
+---
+mermaid: true
+---
+
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady####
 2 # TO####NEW_POSTS /rashardmro /compiling#/civic03######
@@ -6,6 +10,51 @@
 {% endhighlight %}
 
 # Currently Compiling
+
+<pre class="mermaid">
+
+mindmap
+root{{Low Developer Velocity}}
+  (Method)
+    too many meetings
+    lack of proper planning
+    lack of agile methodologies
+    unclear requirements
+  (Code)
+    too much technical debt
+      not enough tests
+      outdated technology
+      code duplication
+      tightly coupled components
+      inconsistent coding standards
+    complex codebase
+    lack of proper documentation
+  (People)
+    lack of necessary skillsets
+    inadequate team size
+    high employee turnover
+    communication barriers among team members
+    insufficient onboarding and training
+    burnout and low morale
+  (Systems)
+    development servers are down
+      server hardware is failing
+      firewall rules are incorrect
+      domain name setup is incorrect
+      went over the billing limit
+    slow or unstable development environment
+    lack of proper development tools
+    inadequate version control system
+    insufficient testing infrastructure
+
+
+</pre>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
+
+[mermaid-diagram-examples/diagrams/cause-and-effect.md - ](https://github.com/ricoThaka/mermaid-diagram-examples/commit/633857013f75ef9f94ccb721461d881752638bba)
 [Hemp For Victory - USDA Full Official 1942](https://www.youtube.com/watch?v=bIxFhYVv_Gk)
 
 
@@ -132,53 +181,36 @@ In late 2023, the hybrid antenna downlinked data from 20 million miles (32 milli
 [Douglas County Libraries hacked by overseas criminal group](https://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/) [Hackers target Seattle Public Library system](https://mynorthwest.com/3961228/seattle-public-library-goes-offline-amid-ransomware-event/) [Why did ransomware hackers target Seattle Public Library?](https://www.geekwire.com/2024/why-did-ransomware-hackers-target-seattle-public-library/) 
 
 
+## Dominion Tank Police (Acts I and II) [English Dubbed] (1997 Manga Entertainment Home Video Master) [Betacam SP Transfer.mp4
+
+<video controls width="100%" height="auto" poster="https://theglorioblog.com/wp-content/uploads/2018/02/vlcsnap-2017-05-02-20h28m27s332.png">
+
+  <source src="https://archive.org/download/dominion-tank-police-english-dubbed-master/Dominion%20Tank%20Police%20%28Acts%20I%20and%20II%29%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%29%20%5BBetacam%20SP%20Transfer.mp4" type="video/mp4" />
+
+  <source src="https://archive.org/download/dominion-tank-police-english-dubbed-master/Dominion%20Tank%20Police%20%28Acts%20I%20and%20II%29%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%29%20%5BBetacam%20SP%20Transfer.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://archive.org/download/dominion-tank-police-english-dubbed-master/Dominion%20Tank%20Police%20%28Acts%20I%20and%20II%29%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%29%20%5BBetacam%20SP%20Transfer.mp4">MP4</a>
+  video.
+</video>
+
+[Pilgrimage to Mecha 08: Dominion Tank Police (OVA)](https://theglorioblog.com/2017/05/05/pilgrimage-to-mecha-08-dominion-tank-police/)
+
+[![Hackers_Journalist](https://pbs.twimg.com/media/GO3R9FXbsAA2BgP?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+
+[![Threats](https://pbs.twimg.com/media/GO3T_1fa8AAT_mY?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+![BigBossVetter](https://pbs.twimg.com/media/GXUKDeObgAEcMM_?format=jpg&name=large)
+
+
+ [Roll Out - Ludacris](https://www.youtube.com/watch?v=3ArhZPYplFk) [Kash Doll - "Hustla"](https://www.youtube.com/watch?v=2Ii85xGRoPw) [KAshdoll -Rich Hoochie](https://youtu.be/gfyF2RqNTBI?si=UmnM4xP6fOk5T88V) [Kash Doll - For Everybody](https://youtu.be/tQ8xAeVp9qQ?si=YqEkwXd_cZRZc74r) [GloRilla - Yeah Glo!](https://www.youtube.com/watch?v=voT9hOs6FZc) [GloRilla - TGIF](https://youtu.be/zP6eqCOM7tk) [Moneybagg Yo feat. GloRilla - On Wat U On](https://www.youtube.com/watch?v=DMaZ_hRAu0A) [Moneybagg Yo - Wockesha (Official Music Video)](https://youtu.be/6bN45f9NjlA?si=lQE9D3pt-aNeFRRe) [Three 6 Mafia - Poppin' My Collar](https://youtu.be/2klTw123_jw?si=G9bVSscLsOXCGf6x) [Three 6 Mafia - That's Right (Feat. Akon)](https://www.youtube.com/watch?v=WWuyIN1YJY4) [Rich Homie Quan - Type of Way](https://www.youtube.com/watch?v=-KKbdErJkiY)
+
+
 ![seattle Public Library’s Central branch in downtown Seattle](https://cdn.geekwire.com/wp-content/uploads/2024/05/46749999862_9a2a7ca753_k-630x522.jpg)
 > The Seattle Public Library’s Central branch in downtown Seattle. (GeekWire Photo / Kurt Schlosser)
 
-<pre class="mermaid">
-
-mindmap
-root{{Low Developer Velocity}}
-  (Method)
-    too many meetings
-    lack of proper planning
-    lack of agile methodologies
-    unclear requirements
-  (Code)
-    too much technical debt
-      not enough tests
-      outdated technology
-      code duplication
-      tightly coupled components
-      inconsistent coding standards
-    complex codebase
-    lack of proper documentation
-  (People)
-    lack of necessary skillsets
-    inadequate team size
-    high employee turnover
-    communication barriers among team members
-    insufficient onboarding and training
-    burnout and low morale
-  (Systems)
-    development servers are down
-      server hardware is failing
-      firewall rules are incorrect
-      domain name setup is incorrect
-      went over the billing limit
-    slow or unstable development environment
-    lack of proper development tools
-    inadequate version control system
-    insufficient testing infrastructure
-
-
-</pre>
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
-
-[mermaid-diagram-examples/diagrams/cause-and-effect.md - ](https://github.com/ricoThaka/mermaid-diagram-examples/commit/633857013f75ef9f94ccb721461d881752638bba)
 
 
 ## Proposition 64: The Adult Use of Marijuana Act
