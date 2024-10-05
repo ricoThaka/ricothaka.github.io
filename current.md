@@ -10,8 +10,9 @@ mermaid: true
 {% endhighlight %}
 
 # Currently Compiling
-[How Long (Betcha' Got A Chick On The Side) - The Pointer Sisters](https://www.youtube.com/watch?v=Ad4HPYFzJNU) [Yes We Can Can · The Pointer Sisters](https://www.youtube.com/watch?v=DXRjBVXanzc) [Smokey Robinson - Just My Soul Responding](https://www.youtube.com/watch?v=ikYqdYSYJ3c) [The Untold Truth Of The Pointer Sisters](https://www.youtube.com/watch?v=-BsSCHMOa28) [The Pointer Sisters - TV Special - UP ALL NIGHT - 1987](https://www.youtube.com/watch?v=BFuN_Wg45qg)
-
+[How Long (Betcha' Got A Chick On The Side) - The Pointer Sisters](https://www.youtube.com/watch?v=Ad4HPYFzJNU) [Yes We Can Can · The Pointer Sisters](https://www.youtube.com/watch?v=DXRjBVXanzc) [Smokey Robinson - Just My Soul Responding](https://www.youtube.com/watch?v=ikYqdYSYJ3c) [The Untold Truth Of The Pointer Sisters](https://www.youtube.com/watch?v=-BsSCHMOa28) [The Pointer Sisters - TV Special - UP ALL NIGHT - 1987](https://www.youtube.com/watch?v=BFuN_Wg45qg) [The Pointer Sisters - Live in Paris (1985)](https://www.youtube.com/watch?v=vqTMdZOwFlc)
+ [In My House · Mary Jane Girls](https://youtu.be/FVSZ527FOTM?t=12) [Michael Jackson, Janet Jackson - Scream (Official Video)](https://youtu.be/0P4A1K4lXDo?t=11) 
+ 
 <pre class="mermaid">
 
 mindmap
