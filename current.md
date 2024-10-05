@@ -6,10 +6,28 @@
 {% endhighlight %}
 
 # Currently Compiling
+[Hemp For Victory - USDA Full Official 1942](https://www.youtube.com/watch?v=bIxFhYVv_Gk)
 
+
+![LosAngeles](https://i0.wp.com/fdr.blogs.archives.gov/wp-content/uploads/sites/17/2017/02/55-210-g-b-16-rev.jpg?ssl=1) 
+>“Evacuees” in Los Angeles load their baggage onto a train that will take them to an “assembly center.”
+>Clem Albers, 1942
+
+![Los Angeles](https://i0.wp.com/fdr.blogs.archives.gov/wp-content/uploads/sites/17/2017/02/aa-1-00224a_rev.jpg?ssl=1)
+>Rows of housing units at the Manzanar Relocation Center. This camp was located 230 miles northeast of Los Angeles at the eastern slope of the Sierra Nevada Mountains.
+[Ansel Adams 1943](https://www.kenrockwell.com/tech/how-to-be-a-digital-ansel-adams.htm)
+
+
+![SevyNSTreetER](https://assets.teenvogue.com/photos/58135977b51e871830656ba3/16:9/w_960,c_limit/sevyn-streeter.jpg) [Sevyn Streeter Perfoms in We Matter Jersey](https://www.youtube.com/watch?v=SM9oFokxCKw)
+### Philadelphia 76ers national anthem singer Sevyn Streeter: Team canceled over "We Matter" shirt
+PHILADELPHIA -- Philadelphia 76ers national anthem singer Sevyn Streeter said she was told by the team she could not perform because of her “We Matter” jersey. “I’d say two minutes before we were about to walk out ... the organization told me that I could not wear my shirt while singing the national anthem at their game,” the R&B singer said by phone. “I was never given any kind of dress code. I was never asked beforehand to show my wardrobe.” - [CBS_NEWS](https://www.cbsnews.com/news/philadelphia-76ers-national-anthem-singer-sevyn-streeter-we-matter-shirt/) [Sevyn Streeter Barred From Singing the National Anthem at an NBA Game Because of Her ‘We Matter’ Jersey](https://www.teenvogue.com/story/sevyn-streeter-we-matter-jersey-national-anthem-philadelphia-76ers-nba-black-lives-matter) [76ers pull national anthem singer who was wearing ‘We Matter’ shirt](https://www.washingtonpost.com/news/early-lead/wp/2016/10/27/76ers-pull-national-anthem-singer-who-was-wearing-we-matter-shirt/) [Sevyn Streeter On 76ers Stopping Her From Wearing "We Matter" Shirt - AudioonYoutube](https://www.youtube.com/watch?v=nUa32C6LuDE)[Sevyn Streeter Reflects On Wearing "We Matter" Jersey For National Anthem Performance at 76ers Game](https://www.youtube.com/watch?v=_Dsbro2lyh0) [Sevyn Streeter’s 76ers National Anthem Performance Canceled Over ‘We Matter’ Shirt, She Says](https://www.billboard.com/music/music-news/sevyn-streeters-76ers-national-anthem-canceled-we-matter-7556989/) [76ers apologize for canceling 'We Matter' anthem singer's performance](https://www.theguardian.com/sport/2016/oct/28/philadelphia-76ers-apologize-sevyn-streeter-we-matter-national-anthem) [Sevyn Streeter’s ‘We Matter’ Jersey Was Too Controversial For The Sixers](https://uproxx.com/music/sevyn-streeter-we-matter-jersey-76ers/) [Sevyn Sings National Anthem at 76ers Game in 'We Matter' Jersey](https://bleacherreport.com/articles/2682381-sevyn-sings-76ers-national-anthem-in-we-matter-jersey)
+
+The Sixers declined to say why Streeter’s performance was canceled. 
 ![GoldStone Hybrid](https://www.nasa.gov/wp-content/uploads/2024/02/e1-pia23617-hybrid-antenna-concept.jpg?resize=1024,700)
-In late 2023, the hybrid antenna downlinked data from 20 million miles (32 million kilometers) away at a rate of 15.63 megabits per second – about 40 times faster than radio frequency communications at that distance. On Jan. 1, 2024, the antenna downlinked a team photograph that had been uploaded to DSOC before Psyche’s launch. [ReadMorE](https://www.nasa.gov/technology/space-comms/deep-space-network/nasas-new-experimental-antenna-tracks-deep-space-laser/) [Computer Hacking Documentries Mega Collection](https://archive.org/download/ComputerHackingDocumentriesMegaCollection)
+In late 2023, the hybrid antenna downlinked data from 20 million miles (32 million kilometers) away at a rate of 15.63 megabits per second – about 40 times faster than radio frequency communications at that distance. On Jan. 1, 2024, the antenna downlinked a team photograph that had been uploaded to DSOC before Psyche’s launch. [ReadMorE](https://www.nasa.gov/technology/space-comms/deep-space-network/nasas-new-experimental-antenna-tracks-deep-space-laser/) [Computer Hacking Documentries Mega Collection](https://archive.org/download/ComputerHackingDocumentriesMegaCollection) 
+
 ![wargames 1983](https://www.originalfilmart.com/cdn/shop/products/Wargames_1983_40x60_original_film_art_5000x.webp?v=1681149717)
+
 <video controls width="100%" height="auto" poster="https://ia600204.us.archive.org/12/items/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.gif">
 
   <source src="https://archive.org/download/ComputerHackingDocumentriesMegaCollection/Hackers.0%20-%20%5B1983%5D%20WarGames.mp4" type="video/mp4" />
@@ -22,6 +40,13 @@ In late 2023, the hybrid antenna downlinked data from 20 million miles (32 milli
   video.
 </video>
 
+
+![LapTop](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/franchise/latitude/laptop-latitude-family-franchise-page-module-3-1920x1440.png)
+<img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-2-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4184&hei=1358&qlt=100,0&resMode=sharp2&size=4184,1358">
+<img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-2-b.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4114&hei=810&qlt=100,0&resMode=sharp2&size=4114,810">
+<img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-bezel-lcd-2-above-ff-bold-reflection.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4598&hei=2010&qlt=100,0&resMode=sharp2&size=4598,2010">
+
+
 ![TronLegaCy](https://d23.com/app/uploads/2015/07/tron-legacy-1180x600.jpg)
 
 ![RB2](https://static.wikia.nocookie.net/snk/images/2/2c/Rbff2arcadeflyer.png/revision/latest?cb=20211224232516)
@@ -33,47 +58,10 @@ In late 2023, the hybrid antenna downlinked data from 20 million miles (32 milli
 [Buy Me That! A Kids' Survival Guide to TV Advertising (VHS 1989)](https://www.youtube.com/watch?v=LaVM2XG4wvE)
 [COCO_CHANEL TEEN_SUMMiT featuring Master P 1997 Heaven For a Gangsta](https://www.youtube.com/watch?v=NNOYC__fKWE)
 [Hot new CSS rules to try now](https://www.creativebloq.com/features/hot-new-css-rules-to-try-now/2)
-<video style="max-width: 100%;" poster="/wordpress/wp-content/uploads/2022/01/unparalleled-extensibility-anim-opening2.jpg" autoplay="autoplay" loop="loop" muted="muted" width="1280" height="100%">
-  <source src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2022/01/unparalleled_extensibility-v3-60FPS-compressed-v2.mp4" type="video/mp4">
-</video>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/n8kiLtdLEHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://images.genius.com/a1cb107c48d4cc842754b23e69ac9005.1000x617x1.jpg">
 
-<div class="panel4-container">
-
-  <div class="item1">
-    <video width="300" autoplay loop muted>
-      <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item2">
-    <video width="300" autoplay loop muted>
-      <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item3">
-    <video width="300" autoplay loop muted>
-      <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item4">
-    <video width="300" autoplay loop muted>
-      <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-</div>
 <img src="https://www.carbodydesign.com/media/2014/01/1967-Porsche-911-Targa-advertisement.jpg">
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -137,6 +125,7 @@ In late 2023, the hybrid antenna downlinked data from 20 million miles (32 milli
     </div>
   </div>
 </div>
+
 ### Astro Boy: Volume 1 (2002 Manga Entertainment VHS)
 <iframe src="https://archive.org/embed/yes-another-astro-volume" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
