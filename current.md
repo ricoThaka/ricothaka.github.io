@@ -10,6 +10,7 @@ mermaid: true
 {% endhighlight %}
 
 # Currently Compiling
+[How Long (Betcha' Got A Chick On The Side) - The Pointer Sisters](https://www.youtube.com/watch?v=Ad4HPYFzJNU) [Yes We Can Can · The Pointer Sisters](https://www.youtube.com/watch?v=DXRjBVXanzc) [Smokey Robinson - Just My Soul Responding](https://www.youtube.com/watch?v=ikYqdYSYJ3c) [The Untold Truth Of The Pointer Sisters](https://www.youtube.com/watch?v=-BsSCHMOa28) [The Pointer Sisters - TV Special - UP ALL NIGHT - 1987](https://www.youtube.com/watch?v=BFuN_Wg45qg)
 
 <pre class="mermaid">
 
