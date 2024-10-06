@@ -13,6 +13,21 @@ mermaid: true
 # Currently Compiling
 
 
+
+![A mushroom-head robot](https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large 'Codey the Codecademy mascot')](https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large)
+
+```markdown
+![A mushroom-head robot](https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large 'Codey the Codecademy mascot')](https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large)
+
+
+```
+
+<pre>
+  <code class="ruby">
+    puts "hello"
+  </code>
+</pre>
+
 ![GMAiL](https://pbs.twimg.com/media/GZPWv_PagAA5okI?format=jpg&name=medium)
 
 <pre class="mermaid">
