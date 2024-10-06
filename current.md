@@ -12,6 +12,60 @@ mermaid: true
 
 # Currently Compiling
 
+
+![HuangHeMain](https://eros.usgs.gov/sites/eros.usgs.gov/files/2023-01/13_9-12-2022_HuangHeMain.png)
+![JurassicPark](https://i0.wp.com/www.oldschoolgamermagazine.com/wp-content/uploads/2018/06/JurassicParkAd.jpg?resize=1080%2C675&ssl=1) [Great Games That Will (Probably) Never Be Released Again: Jurassic Park by Ocean by David Oxford](https://www.oldschoolgamermagazine.com/great-games-that-will-probably-never-be-released-again-jurassic-park-by-ocean/) [Play Jurassic Park SNES Online](https://oldgameshelf.com/games/snes/jurassic-park-1915) [Videogame and Computer Game Magazines](https://archive.org/details/videogamemagazines?tab=collection&query=primary_collection%3Avideogamemagazines&page=2&sort=title)
+
+![LROC](https://www.lroc.asu.edu/ckeditor_assets/pictures/1442/content_M1467242026L.1300wide_flat_open.png)
+[2024 Eclipse as Seen From The Moon](https://www.lroc.asu.edu/images/1368) [Space Shuttle Audio Collection](https://archive.org/details/spaceshuttleaudiocollection)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://www.reddit.com/r/HipHopImages/comments/1bsecsk/gang_starr_released_moment_of_truth_on_this_day/?rdt=36853"><h3>Mars Reconnaissance Orbiter</h3><img src="https://i.scdn.co/image/ab67616d0000b2733a76edacefe2e7a589222787"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://www.discogs.com/release/3603991-Gang-Starr-Moment-Of-Truth"><h3>GAnGSTARR</h3><img src="https://i.discogs.com/ySulVsjWDAH9gxV-wMEgvQai6pdUzYO55RXejylS1yA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDM5/OTEtMTQwMDc5MjEx/OS0zNDQ4LmpwZWc.jpeg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+![BACKCOVER GANGSTARR NORMANiMUSTLiSTEN](https://m.media-amazon.com/images/I/71yVUuGLfIL._UF1000,1000_QL80_.jpg)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1237893811&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/will-danner" title="Will Danner" target="_blank" style="color: #cccccc; text-decoration: none;">Will Danner</a> · <a href="https://soundcloud.com/will-danner/gang-starr-moment-of-truth" title="Gang Starr - Moment Of Truth 1998" target="_blank" style="color: #cccccc; text-decoration: none;">Gang Starr - Moment Of Truth 1998</a></div>
+
+
+![MomentOfTruth](https://i.redd.it/mhys5eo94prc1.jpeg)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296074477&color=%2300ff11&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dolladollabillyo" title="$WVNK" target="_blank" style="color: #cccccc; text-decoration: none;">$WVNK</a> · <a href="https://soundcloud.com/dolladollabillyo/wu-tang-clan-enter-the-36-chambers-full-album" title="Enter The Wu-Tang(36 Chambers) - Wu-Tang Clan (FULL ALBUM)" target="_blank" style="color: #cccccc; text-decoration: none;">Enter The Wu-Tang(36 Chambers) - Wu-Tang Clan (FULL ALBUM)</a></div>
+
+![36 Chambers](https://i.discogs.com/76RHRbpo8CY-ai_geuIwvH2T2wzrNXzICXK3ee2EmaA/rs:fit/g:sm/q:90/h:378/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk4/MDUtMTY3OTg4MDQ3/MS02Mjc1LmpwZWc.jpeg)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://www.reddit.com/r/HipHopImages/comments/1bsecsk/gang_starr_released_moment_of_truth_on_this_day/?rdt=36853"><img src="https://i.discogs.com/7GQO2wNUbg38NsC0JaGU45Zl-1fAleieCX5qPjqqUpk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk4/MDUtMTY3OTg4MDQ3/MC01OTI5LmpwZWc.jpeg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://www.discogs.com/release/3603991-Gang-Starr-Moment-Of-Truth"><img src="https://i.discogs.com/7GQO2wNUbg38NsC0JaGU45Zl-1fAleieCX5qPjqqUpk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk4/MDUtMTY3OTg4MDQ3/MC01OTI5LmpwZWc.jpeg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+![MarvelVsCapCom](https://m.media-amazon.com/images/I/813O9A1lp-L._AC_SL1500_.jpg)
+
+<iframe src="https://archive.org/embed/arcade_mvsc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ## California Coast, Los Angeles to san Diego Bay
 Astronaut photograph ISS018-E-5058 was acquired on October 24, 2008, with a Nikon D2Xs digital camera fitted with a 45 mm lens, and is provided by the ISS Crew Earth Observations experiment and Image Science & Analysis Laboratory, Johnson Space Center.The image was taken by the Expedition 18 crew. The image in this article has been cropped and enhanced to improve contrast. Lens artifacts have been removed. The International Space Station Program supports the laboratory to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public, and to make those images freely available on the Internet. Additional images taken by astronauts and cosmonauts can be viewed at the NASA/JSC Gateway to Astronaut Photography of Earth. Caption by M. Justin Wilkinson, NASA-JSC.
 ![LOSANGELES](https://eoimages.gsfc.nasa.gov/images/imagerecords/36000/36155/ISS018-E-5058_lrg.jpg)
