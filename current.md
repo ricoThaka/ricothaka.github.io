@@ -12,15 +12,16 @@ mermaid: true
 
 # Currently Compiling
 
+[![2025 Mustang® GT Fastback]([https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large](https://build.ford.com/dig/Ford/Mustang/2025/HD-TILE/Image%5B%7CFord%7CMustang%7C2025%7C1%7C1.%7C300A.P8C..PG1..88D.89W.576.~BCMAB_2WD00.13R.COU.BSHEH.BYBBR.CJPAA.LTS.47A.64T.TA6.RWD.DWBAA.45D.99F.FS--A.HLLAD.58V.IDBAD.SY4.44X.GT.YZTAB.CLO.%5D/EXT/4/vehicle.png) 'Codey the Codecademy mascot')](https://build.ford.com/dig/Ford/Mustang/2025/HD-TILE/Image%5B%7CFord%7CMustang%7C2025%7C1%7C1.%7C300A.P8C..PG1..88D.89W.576.~BCMAB_2WD00.13R.COU.BSHEH.BYBBR.CJPAA.LTS.47A.64T.TA6.RWD.DWBAA.45D.99F.FS--A.HLLAD.58V.IDBAD.SY4.44X.GT.YZTAB.CLO.%5D/EXT/4/vehicle.png)
 
 
-![A mushroom-head robot](https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large 'Codey the Codecademy mascot')](https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large)
+[![A mushroom-head robot](https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large 'Codey the Codecademy mascot')](https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large)
 
 ```markdown
-![A mushroom-head robot](https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large 'Codey the Codecademy mascot')](https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large)
-
-
+[![2025 Mustang® GT Fastback]([https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large](https://build.ford.com/dig/Ford/Mustang/2025/HD-TILE/Image%5B%7CFord%7CMustang%7C2025%7C1%7C1.%7C300A.P8C..PG1..88D.89W.576.~BCMAB_2WD00.13R.COU.BSHEH.BYBBR.CJPAA.LTS.47A.64T.TA6.RWD.DWBAA.45D.99F.FS--A.HLLAD.58V.IDBAD.SY4.44X.GT.YZTAB.CLO.%5D/EXT/4/vehicle.png) 'Codey the Codecademy mascot')](https://build.ford.com/dig/Ford/Mustang/2025/HD-TILE/Image%5B%7CFord%7CMustang%7C2025%7C1%7C1.%7C300A.P8C..PG1..88D.89W.576.~BCMAB_2WD00.13R.COU.BSHEH.BYBBR.CJPAA.LTS.47A.64T.TA6.RWD.DWBAA.45D.99F.FS--A.HLLAD.58V.IDBAD.SY4.44X.GT.YZTAB.CLO.%5D/EXT/4/vehicle.png)
 ```
+
+
 
 <pre>
   <code class="ruby">
