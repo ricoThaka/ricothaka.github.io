@@ -12,6 +12,12 @@ mermaid: true
 
 # Currently Compiling
 
+[OJ Da Juiceman - Make Tha Trap Say Aye ft. Gucci Mane](https://www.youtube.com/watch?v=JgCoHhsW2Is) [Kash Doll ft. DJ Infamous, Mulatto & Benny The Butcher - Bad Azz ](https://www.youtube.com/watch?v=N4oMrTT_fZw) [Kash Doll - Single & Happy ft. Wale, Eric Bellinger](https://www.youtube.com/watch?v=o_nXmFlGMwE)
+
+![OSI](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/OSI_Model_v1.svg/1741px-OSI_Model_v1.svg.png)
+
+
+
 [![2025 Mustang® GT Fastback]([https://pbs.twimg.com/media/GZJSEueacAANYV0?format=jpg&name=large](https://build.ford.com/dig/Ford/Mustang/2025/HD-TILE/Image%5B%7CFord%7CMustang%7C2025%7C1%7C1.%7C300A.P8C..PG1..88D.89W.576.~BCMAB_2WD00.13R.COU.BSHEH.BYBBR.CJPAA.LTS.47A.64T.TA6.RWD.DWBAA.45D.99F.FS--A.HLLAD.58V.IDBAD.SY4.44X.GT.YZTAB.CLO.%5D/EXT/4/vehicle.png) 'Codey the Codecademy mascot')](https://build.ford.com/dig/Ford/Mustang/2025/HD-TILE/Image%5B%7CFord%7CMustang%7C2025%7C1%7C1.%7C300A.P8C..PG1..88D.89W.576.~BCMAB_2WD00.13R.COU.BSHEH.BYBBR.CJPAA.LTS.47A.64T.TA6.RWD.DWBAA.45D.99F.FS--A.HLLAD.58V.IDBAD.SY4.44X.GT.YZTAB.CLO.%5D/EXT/4/vehicle.png)
 
 
