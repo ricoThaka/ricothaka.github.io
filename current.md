@@ -11,7 +11,48 @@ mermaid: true
 {% endhighlight %}
 
 # Currently Compiling
+[How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/)
 
+
+
+# Marvel Super Heroes (CP System II) マーヴル・スーパーヒーローズ
+[SOUNDTRACK OST](https://downloads.khinsider.com/game-soundtracks/album/marvel-super-heroes-arcade-game-tracks)
+![Poster](https://kappa.vgmsite.com/soundtracks/marvel-super-heroes-arcade-game-tracks/M2.jpg)
+![Infinity Gems](https://m.media-amazon.com/images/I/91xR4c7kfwL.jpg)
+
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+            <a href="https://pbs.twimg.com/media/GZVG5aTasAAhJHk?format=jpg&name=large">
+              <img src="https://pbs.twimg.com/media/GZVG5aTasAAhJHk?format=jpg&name=large" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" > </a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+            <a href="https://pbs.twimg.com/media/GZVG5aIasAAz4WH?format=jpg&name=large">  <img src="https://pbs.twimg.com/media/GZVG5aIasAAz4WH?format=jpg&name=large" alt="Girl in a jacket" > </a>
+      
+   </div>
+  </div>    
+ </div>
+</div>
+
+<iframe src="https://archive.org/embed/arcade_msh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GHhxw6lbkAEvTnI?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GFr9Rsea0AA6D8R?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GJyKxTIbEAAVuT9?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GFr3hVJagAAm7la?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GHi26hTasAAOD99?format=jpg&name=large" />
+<img src="https://i1.sndcdn.com/artworks-000327590304-xr9ecf-t500x500.jpg" />
+<img src="https://pbs.twimg.com/media/F_zwoXjasAA5Vun?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/F_zw9nuaoAAtmI1?format=jpg&name=small" />
+
+
+</div>
+
+# Decatur SongS
 [OJ Da Juiceman - Make Tha Trap Say Aye ft. Gucci Mane](https://www.youtube.com/watch?v=JgCoHhsW2Is) [Kash Doll ft. DJ Infamous, Mulatto & Benny The Butcher - Bad Azz ](https://www.youtube.com/watch?v=N4oMrTT_fZw) [Kash Doll - Single & Happy ft. Wale, Eric Bellinger](https://www.youtube.com/watch?v=o_nXmFlGMwE)
 
 ![OSI](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/OSI_Model_v1.svg/1741px-OSI_Model_v1.svg.png)
