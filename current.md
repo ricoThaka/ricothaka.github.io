@@ -11,13 +11,14 @@ mermaid: true
 {% endhighlight %}
 
 # Currently Compiling
-[Boosie Badazz Ft. Webbie "On That Level"](https://www.youtube.com/watch?v=rO9UURX-jBc)
+[Boosie Badazz Ft. Webbie "On That Level"](https://www.youtube.com/watch?v=rO9UURX-jBc) [How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/)
+
 ![kk](https://forums.launchbox-app.com/uploads/monthly_2020_06/2020bb.png.b9783353701fd89075c984edddea5460.png)
 ![mars](https://pbs.twimg.com/media/GZeeSVkaAAIBGdO?format=jpg&name=large)
 
 ![Cochella Cardi B](https://pbs.twimg.com/media/GZanthKasAMU8Qn?format=jpg&name=large)
 [Cardi B w/ Kehlani - Ring (Coachella 2018)](https://www.youtube.com/watch?v=vzfBda5tbj0)
-[How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/)
+
 
 # 1996 Stakes Is High - De La Soul 
 Stakes Is High is the fourth studio album by [American hip hop group De La Soul](https://soundcloud.com/wearedelasoul). It was released on July 2, 1996, through Tommy Boy Records. The album marked a change in the group's sound and direction, as it was their first release not produced in collaboration with Prince Paul. [Stakes Is High was mainly produced by the group](https://www.youtube.com/channel/UCngimeRWT1E9ZlasMs-eQSg) themselves, with additional tracks provided by Jay Dee, DJ Ogee, Spearhead X and Skeff Anslem. It is considered the group's darkest and most serious album. It received mostly strong reviews but little commercial success.[Wiki](https://en.wikipedia.org/wiki/Stakes_Is_High) 
