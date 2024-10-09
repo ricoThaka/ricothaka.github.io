@@ -11,6 +11,9 @@ mermaid: true
 {% endhighlight %}
 
 # Currently Compiling
+
+![Cochella Cardi B](https://pbs.twimg.com/media/GZanthKasAMU8Qn?format=jpg&name=large)
+[Cardi B w/ Kehlani - Ring (Coachella 2018)](https://www.youtube.com/watch?v=vzfBda5tbj0)
 [How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/)
 
 # 1996 Stakes Is High - De La Soul 
