@@ -20,7 +20,7 @@ Stakes Is High is the fourth studio album by [American hip hop group De La Soul]
 [5 Mic Albums](https://en.wikipedia.org/wiki/The_Source) 
 - *ADMin*
 
-<iframe loading="lazy"  src="https://archive.org/embed/de-la-soul-stakes-is-high" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/de-la-soul-stakes-is-high"  height="70" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 <div class='twoPanelSpread'>
@@ -40,7 +40,7 @@ Stakes Is High is the fourth studio album by [American hip hop group De La Soul]
  </div>
 </div>
 
-
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/BobCc2xD4kg?si=BerH8BslCGFebK9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Marvel Super Heroes
 # (CP System II) 
