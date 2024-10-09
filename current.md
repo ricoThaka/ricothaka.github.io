@@ -14,7 +14,7 @@ mermaid: true
 [How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/)
 
 # 1996 Stakes Is High - De La Soul 
-Stakes Is High is the fourth studio album by American hip hop group De La Soul. It was released on July 2, 1996, through Tommy Boy Records. The album marked a change in the group's sound and direction, as it was their first release not produced in collaboration with Prince Paul. Stakes Is High was mainly produced by the group themselves, with additional tracks provided by Jay Dee, DJ Ogee, Spearhead X and Skeff Anslem. It is considered the group's darkest and most serious album. It received mostly strong reviews but little commercial success.[Wiki](https://en.wikipedia.org/wiki/Stakes_Is_High) 
+Stakes Is High is the fourth studio album by [American hip hop group De La Soul](https://soundcloud.com/wearedelasoul). It was released on July 2, 1996, through Tommy Boy Records. The album marked a change in the group's sound and direction, as it was their first release not produced in collaboration with Prince Paul. [Stakes Is High was mainly produced by the group](https://www.youtube.com/channel/UCngimeRWT1E9ZlasMs-eQSg) themselves, with additional tracks provided by Jay Dee, DJ Ogee, Spearhead X and Skeff Anslem. It is considered the group's darkest and most serious album. It received mostly strong reviews but little commercial success.[Wiki](https://en.wikipedia.org/wiki/Stakes_Is_High) 
 
 [De La Soul is Dead](https://soundcloud.com/wearedelasoul/sets/de-la-soul-is-dead-4?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) got 5 mics... i wonder where ppl were with they family situation. BC Stakes is high is so refined an smooth listen... How did it miss five mics ?
 [5 Mic Albums](https://en.wikipedia.org/wiki/The_Source) 
@@ -27,8 +27,8 @@ Stakes Is High is the fourth studio album by American hip hop group De La Soul. 
         <div class='row'>
           <div class='panelColumn'>
             <div class='leftColumn'>
-            <a href="https://pbs.twimg.com/media/GZVG5aTasAAhJHk?format=jpg&name=large">
-              <img src="https://pbs.twimg.com/media/GZVG5aTasAAhJHk?format=jpg&name=large" alt="De La Soul - Stakes is High" > </a>
+            <a href="https://www.deejay.de/images/xl/3/9//1024639.jpg">
+              <img src="https://www.deejay.de/images/xl/3/9//1024639.jpg" alt="De La Soul - Stakes is High" > </a>
             </div>
           </div>
           <div class='panelColumn'>
