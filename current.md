@@ -16,7 +16,7 @@ mermaid: true
 # 1996 Stakes Is High - De La Soul 
 Stakes Is High is the fourth studio album by American hip hop group De La Soul. It was released on July 2, 1996, through Tommy Boy Records. The album marked a change in the group's sound and direction, as it was their first release not produced in collaboration with Prince Paul. Stakes Is High was mainly produced by the group themselves, with additional tracks provided by Jay Dee, DJ Ogee, Spearhead X and Skeff Anslem. It is considered the group's darkest and most serious album. It received mostly strong reviews but little commercial success.[Wiki](https://en.wikipedia.org/wiki/Stakes_Is_High) 
 
-De La Soul is dead got 5 mics... i wonder where ppl were with they family situation. BC Stakes is high is so refined an smooth listen... How did it miss five mics ?
+[De La Soul is Dead](https://soundcloud.com/wearedelasoul/sets/de-la-soul-is-dead-4?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) got 5 mics... i wonder where ppl were with they family situation. BC Stakes is high is so refined an smooth listen... How did it miss five mics ?
 [5 Mic Albums](https://en.wikipedia.org/wiki/The_Source) 
 - *ADMin*
 
