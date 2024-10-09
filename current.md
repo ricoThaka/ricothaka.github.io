@@ -13,9 +13,38 @@ mermaid: true
 # Currently Compiling
 [How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/)
 
+# 1996 Stakes Is High - De La Soul 
+Stakes Is High is the fourth studio album by American hip hop group De La Soul. It was released on July 2, 1996, through Tommy Boy Records. The album marked a change in the group's sound and direction, as it was their first release not produced in collaboration with Prince Paul. Stakes Is High was mainly produced by the group themselves, with additional tracks provided by Jay Dee, DJ Ogee, Spearhead X and Skeff Anslem. It is considered the group's darkest and most serious album. It received mostly strong reviews but little commercial success.[Wiki](https://en.wikipedia.org/wiki/Stakes_Is_High) 
+
+De La Soul is dead got 5 mics... i wonder where ppl were with they family situation. BC Stakes is high is so refined an smooth listen... How did it miss five mics ?
+[5 Mic Albums](https://en.wikipedia.org/wiki/The_Source) 
+- *ADMin*
+
+<iframe loading="lazy"  src="https://archive.org/embed/de-la-soul-stakes-is-high" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-# Marvel Super Heroes (CP System II) マーヴル・スーパーヒーローズ
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+            <a href="https://pbs.twimg.com/media/GZVG5aTasAAhJHk?format=jpg&name=large">
+              <img src="https://pbs.twimg.com/media/GZVG5aTasAAhJHk?format=jpg&name=large" alt="De La Soul - Stakes is High" > </a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+            <a href="https://www.deejay.de/images/xl/3/9//1024639b.jpg">  <img src="https://www.deejay.de/images/xl/3/9//1024639b.jpg" alt="De La Soul stakes is high" > </a>
+      
+   </div>
+  </div>    
+ </div>
+</div>
+
+
+
+# Marvel Super Heroes
+# (CP System II) 
+# マーヴル・スーパーヒーローズ
 [SOUNDTRACK OST](https://downloads.khinsider.com/game-soundtracks/album/marvel-super-heroes-arcade-game-tracks)
 ![Poster](https://kappa.vgmsite.com/soundtracks/marvel-super-heroes-arcade-game-tracks/M2.jpg)
 ![Infinity Gems](https://m.media-amazon.com/images/I/91xR4c7kfwL.jpg)
@@ -37,7 +66,7 @@ mermaid: true
  </div>
 </div>
 
-<iframe src="https://archive.org/embed/arcade_msh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/arcade_msh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GHhxw6lbkAEvTnI?format=jpg&name=large" />
@@ -118,12 +147,12 @@ gitGraph:
 
 ![BACKCOVER GANGSTARR NORMANiMUSTLiSTEN](https://m.media-amazon.com/images/I/71yVUuGLfIL._UF1000,1000_QL80_.jpg)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1237893811&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/will-danner" title="Will Danner" target="_blank" style="color: #cccccc; text-decoration: none;">Will Danner</a> · <a href="https://soundcloud.com/will-danner/gang-starr-moment-of-truth" title="Gang Starr - Moment Of Truth 1998" target="_blank" style="color: #cccccc; text-decoration: none;">Gang Starr - Moment Of Truth 1998</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1237893811&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/will-danner" title="Will Danner" target="_blank" style="color: #cccccc; text-decoration: none;">Will Danner</a> · <a href="https://soundcloud.com/will-danner/gang-starr-moment-of-truth" title="Gang Starr - Moment Of Truth 1998" target="_blank" style="color: #cccccc; text-decoration: none;">Gang Starr - Moment Of Truth 1998</a></div>
 
 
 ![MomentOfTruth](https://i.redd.it/mhys5eo94prc1.jpeg)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296074477&color=%2300ff11&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dolladollabillyo" title="$WVNK" target="_blank" style="color: #cccccc; text-decoration: none;">$WVNK</a> · <a href="https://soundcloud.com/dolladollabillyo/wu-tang-clan-enter-the-36-chambers-full-album" title="Enter The Wu-Tang(36 Chambers) - Wu-Tang Clan (FULL ALBUM)" target="_blank" style="color: #cccccc; text-decoration: none;">Enter The Wu-Tang(36 Chambers) - Wu-Tang Clan (FULL ALBUM)</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296074477&color=%2300ff11&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dolladollabillyo" title="$WVNK" target="_blank" style="color: #cccccc; text-decoration: none;">$WVNK</a> · <a href="https://soundcloud.com/dolladollabillyo/wu-tang-clan-enter-the-36-chambers-full-album" title="Enter The Wu-Tang(36 Chambers) - Wu-Tang Clan (FULL ALBUM)" target="_blank" style="color: #cccccc; text-decoration: none;">Enter The Wu-Tang(36 Chambers) - Wu-Tang Clan (FULL ALBUM)</a></div>
 
 ![36 Chambers](https://i.discogs.com/76RHRbpo8CY-ai_geuIwvH2T2wzrNXzICXK3ee2EmaA/rs:fit/g:sm/q:90/h:378/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk4/MDUtMTY3OTg4MDQ3/MS02Mjc1LmpwZWc.jpeg)
 
@@ -145,13 +174,13 @@ gitGraph:
 
 ![MarvelVsCapCom](https://m.media-amazon.com/images/I/813O9A1lp-L._AC_SL1500_.jpg)
 
-<iframe src="https://archive.org/embed/arcade_mvsc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/arcade_mvsc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## California Coast, Los Angeles to san Diego Bay
 Astronaut photograph ISS018-E-5058 was acquired on October 24, 2008, with a Nikon D2Xs digital camera fitted with a 45 mm lens, and is provided by the ISS Crew Earth Observations experiment and Image Science & Analysis Laboratory, Johnson Space Center.The image was taken by the Expedition 18 crew. The image in this article has been cropped and enhanced to improve contrast. Lens artifacts have been removed. The International Space Station Program supports the laboratory to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public, and to make those images freely available on the Internet. Additional images taken by astronauts and cosmonauts can be viewed at the NASA/JSC Gateway to Astronaut Photography of Earth. Caption by M. Justin Wilkinson, NASA-JSC.
 ![LOSANGELES](https://eoimages.gsfc.nasa.gov/images/imagerecords/36000/36155/ISS018-E-5058_lrg.jpg)
 
-<iframe src="https://archive.org/embed/SimCityMacintosh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/SimCityMacintosh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![CitizenKane](https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
 [Citizen Kane 1941 Orson Welles](https://archive.org/details/citizen-kane-1941-orson-welles) [citizen Kane[1]on vimeo](https://vimeo.com/457349559) 
@@ -187,7 +216,7 @@ I want you to look at Atomic Red HEad post about the old [Uniroyal Tire Factory]
 
 ## Puzzle Bobble 4 (Ver 2.04O 1997/12/19)
 
-<iframe src="https://archive.org/embed/arcade_pbobble4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/arcade_pbobble4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [How Long (Betcha' Got A Chick On The Side) - The Pointer Sisters](https://www.youtube.com/watch?v=Ad4HPYFzJNU) [Yes We Can Can · The Pointer Sisters](https://www.youtube.com/watch?v=DXRjBVXanzc) [Smokey Robinson - Just My Soul Responding](https://www.youtube.com/watch?v=ikYqdYSYJ3c) [The Untold Truth Of The Pointer Sisters](https://www.youtube.com/watch?v=-BsSCHMOa28) [The Pointer Sisters - TV Special - UP ALL NIGHT - 1987](https://www.youtube.com/watch?v=BFuN_Wg45qg) [The Pointer Sisters - Live in Paris (1985)](https://www.youtube.com/watch?v=vqTMdZOwFlc)
  [In My House · Mary Jane Girls](https://youtu.be/FVSZ527FOTM?t=12) [Michael Jackson, Janet Jackson - Scream (Official Video)](https://youtu.be/0P4A1K4lXDo?t=11) 
@@ -290,7 +319,7 @@ In late 2023, the hybrid antenna downlinked data from 20 million miles (32 milli
 [COCO_CHANEL TEEN_SUMMiT featuring Master P 1997 Heaven For a Gangsta](https://www.youtube.com/watch?v=NNOYC__fKWE)
 [Hot new CSS rules to try now](https://www.creativebloq.com/features/hot-new-css-rules-to-try-now/2)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/n8kiLtdLEHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy"  width="100%" height="315" src="https://www.youtube.com/embed/n8kiLtdLEHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://images.genius.com/a1cb107c48d4cc842754b23e69ac9005.1000x617x1.jpg">
 
 <img src="https://www.carbodydesign.com/media/2014/01/1967-Porsche-911-Targa-advertisement.jpg">
@@ -358,7 +387,7 @@ In late 2023, the hybrid antenna downlinked data from 20 million miles (32 milli
 </div>
 
 ### Astro Boy: Volume 1 (2002 Manga Entertainment VHS)
-<iframe src="https://archive.org/embed/yes-another-astro-volume" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/yes-another-astro-volume" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Douglas County Libraries hacked by overseas criminal group](https://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/) [Hackers target Seattle Public Library system](https://mynorthwest.com/3961228/seattle-public-library-goes-offline-amid-ransomware-event/) [Why did ransomware hackers target Seattle Public Library?](https://www.geekwire.com/2024/why-did-ransomware-hackers-target-seattle-public-library/) 
 
@@ -411,14 +440,14 @@ Effective November 9, 2016, Proposition 64 legalizes specified personal use and 
 [Nasa_FiRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-116.6,34.8,6.9z) [US/Canada FireMaps](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.0z)
 
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771495709&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/aint-equal" title="Ain&#x27;t Equal" target="_blank" style="color: #cccccc; text-decoration: none;">Ain&#x27;t Equal</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771495709&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/aint-equal" title="Ain&#x27;t Equal" target="_blank" style="color: #cccccc; text-decoration: none;">Ain&#x27;t Equal</a></div>
 
 ![Normani](https://www.fatbeats.com/cdn/shop/files/fat-beats-bahamadia-kollage-2xlp-140g-vinyl-bewith166lp-photo-photo-photo-34353105666231_800x.webp?v=1705627349) [bahamadia kollage full album](https://www.youtube.com/watch?v=seharTRMmNg)
 [Bahamadia - Kollage (2xLP - 140g Vinyl)](https://www.fatbeats.com/products/bahamadia-kollage-2xlp-140g-vinyl)
 ### Lauryn Hill – The Miseducation Of Lauryn Hill
 ![Shaakira](https://static.euronews.com/articles/stories/07/84/48/58/1080x608_cmsv2_95054d6e-2a6a-55d5-aff5-d324e9789dc1-7844858.jpg)
 
-<iframe src="https://archive.org/embed/04-to-zion" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/04-to-zion" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Lauryn Hill - The Miseducation of Lauryn Hill (1998 Japanese Edition)](https://www.youtube.com/watch?v=X7gIKNEZBjY) 
 [The Miseducation of Lauryn Hill by Lauryn Hill (Cassette, Aug-1998, Ruffhouse)](https://www.ebay.com/p/3585670) [lauryn hill - the miseducation of lauryn hill (full album)](https://www.youtube.com/watch?v=qFfgx-CDBjA)
@@ -482,19 +511,19 @@ Normani JUNO
 
 [Dragon Ball & Dragon Ball Z Movies - Funimation DVD Singles](https://archive.org/details/dragon-ball-movies-funimation-dvd-singles)
 ## deltron 3030
-<iframe src="https://archive.org/embed/deltron-3030-the-album" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/deltron-3030-the-album" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ## One In A Million by Aaliyah
-<iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ## ghostface killah - 36 Seasons
-<iframe src="https://archive.org/embed/gfk-36seasons" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/gfk-36seasons" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Alfred Hitchcock Presents S2](https://archive.org/details/alfred-hitchcock-presents-season-2) [FlexBox Demo - RashardMRO](https://archive.org/details/screen-recording-2024-07-02-2.48.05-pm) [Pimps up, ho's down : hip hop's hold on young Black women](https://archive.org/details/pimpsuphosdownhi0000shar) [Bomb the suburbs](https://archive.org/details/bombsuburbs00wims) 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1902490692&color=%2300ff10&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/munilong" title="Muni Long" target="_blank" style="color: #cccccc; text-decoration: none;">Muni Long</a> · <a href="https://soundcloud.com/munilong/superpowers" title="Superpowers" target="_blank" style="color: #cccccc; text-decoration: none;">Superpowers</a></div>
+<iframe loading="lazy"  width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1902490692&color=%2300ff10&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/munilong" title="Muni Long" target="_blank" style="color: #cccccc; text-decoration: none;">Muni Long</a> · <a href="https://soundcloud.com/munilong/superpowers" title="Superpowers" target="_blank" style="color: #cccccc; text-decoration: none;">Superpowers</a></div>
 
 
 ## Super Chase - Criminal Termination (World) 
 by Taito Corporation Japan
-<iframe src="https://archive.org/embed/arcade_superchs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/arcade_superchs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![applePersonalComputers](https://jointcustodydc.com/cdn/shop/products/IMG_3619_2048x.png?v=1621368232)
 ![OSXRUNNER](https://pbs.twimg.com/media/GYl3M9ibwAApm-t?format=jpg&name=large)
@@ -503,16 +532,16 @@ by Taito Corporation Japan
 ## anime
 [Samurai Shodown: The Motion Picture (The Movie -1994)](https://www.youtube.com/watch?v=UV_YhxC3P90) [Battle Arena Toshinden Anime Part 1](https://www.youtube.com/watch?v=50ibfcBedW4) [Inuyasha Movie 1: Affections Touching Across Time](https://www.youtube.com/watch?v=DRXKcazeSkE) [Dragon Ball - Namek Saga Full ENGLISH](https://www.youtube.com/watch?v=scIFQFtH6YY) [Street Fighter II:The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y) 
 
-<iframe src="https://archive.org/embed/ikaos-som-dragon-ball-gt-complete-001-064-r2j-dragon-box-multi-audio-v2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/ikaos-som-dragon-ball-gt-complete-001-064-r2j-dragon-box-multi-audio-v2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [JAY Z, Kanye West - Otis ft. Otis Redding](https://www.youtube.com/watch?v=BoEKWtgJQAU)
 ## The New social Disease
 [LAndSat 7, retired?](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
 ![SantaMonica](https://pbs.twimg.com/media/GYbTbDFaoAA1W5x?format=png&name=900x900)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/836541904&color=%23b3b3b3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-846414945" title="Josh Calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">Josh Calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-846414945/method-man-tical-my-free-mp3scom" title="Method Man - Tical full album" target="_blank" style="color: #cccccc; text-decoration: none;">Method Man - Tical full album</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/836541904&color=%23b3b3b3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-846414945" title="Josh Calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">Josh Calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-846414945/method-man-tical-my-free-mp3scom" title="Method Man - Tical full album" target="_blank" style="color: #cccccc; text-decoration: none;">Method Man - Tical full album</a></div>
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/581657013&color=%23ffcd00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hoodscienceentertainment" title="HoodScienceEntertainment" target="_blank" style="color: #cccccc; text-decoration: none;">HoodScienceEntertainment</a> · <a href="https://soundcloud.com/hoodscienceentertainment/raekwon-only-built-4-cuban-linx-full-album" title="Raekwon- Only Built 4 Cuban Linx (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Raekwon- Only Built 4 Cuban Linx (Full Album)</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/581657013&color=%23ffcd00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hoodscienceentertainment" title="HoodScienceEntertainment" target="_blank" style="color: #cccccc; text-decoration: none;">HoodScienceEntertainment</a> · <a href="https://soundcloud.com/hoodscienceentertainment/raekwon-only-built-4-cuban-linx-full-album" title="Raekwon- Only Built 4 Cuban Linx (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Raekwon- Only Built 4 Cuban Linx (Full Album)</a></div>
 
 
 ![BPS](https://pbs.twimg.com/media/GYbls_Fa0AARQu4?format=jpg&name=large)
@@ -529,7 +558,7 @@ by Taito Corporation Japan
 
 [Lay It Down 8Ball+MJG](https://www.youtube.com/watch?v=IfSn4SdTH4s) [Get On Your Knees - Nicki Minaj · Ariana Grande](https://www.youtube.com/watch?v=6RAFvLSRieg) [Megan Thee Stallion - Figueroa](https://www.youtube.com/watch?v=vReCvOUP4C8) [TrickDaddy - America (feat. Society)](https://www.youtube.com/watch?v=dYlvEMIDazU) [Thug Luv (feat. 2pac) - Bone Thugs iN Harmony](https://youtu.be/owfiSemZ6JU?si=OaoTU8gF1Xeb4rwt) [Pain - 2pac](https://www.youtube.com/watch?v=Xqa7guhUrRw) [2Pac - So Many Tears ](https://youtu.be/B3i0C-JCQ4A?si=A3GeDo6teDHFtJql)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/666325007&color=%237c8c24&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngthugworld" title="Young Thug" target="_blank" style="color: #cccccc; text-decoration: none;">Young Thug</a> · <a href="https://soundcloud.com/youngthugworld/i-bought-her-feat-lil-duke-1" title="I Bought Her (feat. Lil Duke)" target="_blank" style="color: #cccccc; text-decoration: none;">I Bought Her (feat. Lil Duke)</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/666325007&color=%237c8c24&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngthugworld" title="Young Thug" target="_blank" style="color: #cccccc; text-decoration: none;">Young Thug</a> · <a href="https://soundcloud.com/youngthugworld/i-bought-her-feat-lil-duke-1" title="I Bought Her (feat. Lil Duke)" target="_blank" style="color: #cccccc; text-decoration: none;">I Bought Her (feat. Lil Duke)</a></div>
 
 [UGK (Underground Kingz) - It's Supposed To Bubble](https://youtu.be/DB_QSvLWFE4)  [Too $hort feat Erick Sermon, MC Breed & Kool Ace - Buy You Some](https://youtu.be/xzDXxSG2syQ?si=EPT8b8R8FriEiBd3) [3X Krazy - Keep iT On The Real](https://youtu.be/Nzg5m9NXEsA?si=bwEnCUXAbOf7xL5S) [The Luniz "I Got Five On It" (Remix)](https://www.youtube.com/watch?v=CiZ3XtGtmQs) [Do.Or.Die - PoPimp](https://youtu.be/rp-9xcmJIBQ) [Playaz From The South](https://www.youtube.com/watch?v=W6VhsCcNcEU) [SteelPulse - Chant-a-Psalm](https://youtu.be/4nony-xB3tE?si=hpAEWD1jerNrslaG) [EEk-A_mousE - Ganja Smuggling](https://www.youtube.com/watch?v=UR9Cj5UyVbM) [Arsonist - Worlds Collide](https://www.youtube.com/watch?v=cw2iiuuMZxY) [Arsonist - UndergroundVandal](https://www.youtube.com/watch?v=iypA4ngpN7w) [Barrington Levy - Trying To Ruin My Life](https://www.youtube.com/watch?v=rW-kK5DcxIA) [Dekae FA, Inkheads - Miami, March 2023](https://www.youtube.com/watch?v=Zg9H7urB3kk)
 
@@ -583,7 +612,7 @@ Mar. 5, 2024: Engineers for NASA’s Perseverance Mars rover have made progress 
 
 ![GithubHistory](https://pbs.twimg.com/media/GYCiOsNaAAAxSf-?format=jpg&name=large)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1390084471&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/waystoloveu" title="waystoloveu" target="_blank" style="color: #cccccc; text-decoration: none;">waystoloveu</a> · <a href="https://soundcloud.com/waystoloveu/sza-ctrl-full-album" title="Sza - Ctrl Full Album" target="_blank" style="color: #cccccc; text-decoration: none;">Sza - Ctrl Full Album</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1390084471&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/waystoloveu" title="waystoloveu" target="_blank" style="color: #cccccc; text-decoration: none;">waystoloveu</a> · <a href="https://soundcloud.com/waystoloveu/sza-ctrl-full-album" title="Sza - Ctrl Full Album" target="_blank" style="color: #cccccc; text-decoration: none;">Sza - Ctrl Full Album</a></div>
 
 [Nutmeg](https://www.youtube.com/watch?v=rvxg3spc4No)
 
@@ -725,12 +754,12 @@ NASA/JPL-Caltech/University of Arizona
 
 ![40](https://wavepublication.com/wp-content/uploads/2024/02/cropped-cropped-Wave-Blue-newspapers-1024x498.jpg) yall need to upgrade this graphic to svg or png for faster loading and transparency! [Los Angeles Wave NewsPapers](https://wavepublication.com/) [Incumbent faces firefighter in Compton’s Council District 3](https://wavepublication.com/incumbent-faces-firefighter-in-comptons-council-district-3/) [METRO DIGEST: Bass announces plans to seek reelection in June 2026](https://wavepublication.com/metro-digest-bass-announces-plans-to-seek-reelection-in-june-2026/) [County seeks to lease state hospital land for homeless (you guys still sound like idots "the homeless")](https://wavepublication.com/county-seeks-to-lease-state-hospital-land-for-homeless/)
 ![LOSANGELESWAVE](https://pbs.twimg.com/media/GXtKyp0bcAAG62i?format=png&name=4096x4096)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/346159983&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rico_nasty" title="RICO NASTY" target="_blank" style="color: #cccccc; text-decoration: none;">RICO NASTY</a> · <a href="https://soundcloud.com/rico_nasty/rojo" title="Rojo" target="_blank" style="color: #cccccc; text-decoration: none;">Rojo</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/346159983&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rico_nasty" title="RICO NASTY" target="_blank" style="color: #cccccc; text-decoration: none;">RICO NASTY</a> · <a href="https://soundcloud.com/rico_nasty/rojo" title="Rojo" target="_blank" style="color: #cccccc; text-decoration: none;">Rojo</a></div>
 
 [Dancing Heart - Universal Two](https://www.youtube.com/watch?v=YREg1uIKLK4) [Beat Bop - Rammellzee + K-Rob](https://youtu.be/9I56Kkxh_os?si=6UwJY2NIX2Uhmxu-) [Roxanne's Revenge (Original-Street Version)](https://youtu.be/J9IFs13w_JQ?si=-zh0OyXglndali7B)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318940635&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rico_nasty" title="RICO NASTY" target="_blank" style="color: #cccccc; text-decoration: none;">RICO NASTY</a> · <a href="https://soundcloud.com/rico_nasty/glo-bottles-2" title="Glo Bottles" target="_blank" style="color: #cccccc; text-decoration: none;">Glo Bottles</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318940635&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rico_nasty" title="RICO NASTY" target="_blank" style="color: #cccccc; text-decoration: none;">RICO NASTY</a> · <a href="https://soundcloud.com/rico_nasty/glo-bottles-2" title="Glo Bottles" target="_blank" style="color: #cccccc; text-decoration: none;">Glo Bottles</a></div>
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291997699&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nichtwie-duheist" title="Nichtwie Duheist" target="_blank" style="color: #cccccc; text-decoration: none;">Nichtwie Duheist</a> · <a href="https://soundcloud.com/nichtwie-duheist/niggaz-aint-barin-dat" title="Niggaz Ain&#x27;t Barin&#x27; Dat" target="_blank" style="color: #cccccc; text-decoration: none;">Niggaz Ain&#x27;t Barin&#x27; Dat</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291997699&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nichtwie-duheist" title="Nichtwie Duheist" target="_blank" style="color: #cccccc; text-decoration: none;">Nichtwie Duheist</a> · <a href="https://soundcloud.com/nichtwie-duheist/niggaz-aint-barin-dat" title="Niggaz Ain&#x27;t Barin&#x27; Dat" target="_blank" style="color: #cccccc; text-decoration: none;">Niggaz Ain&#x27;t Barin&#x27; Dat</a></div>
 
 [M.E.M.P.H.I.S. - Hypnotize Camp Posse](https://www.youtube.com/watch?v=HAHZ4KZH2P8) [Prophet Posse - Three Six MAfia](https://www.youtube.com/watch?v=1FarcBkP-xk) [Triple Six Mafia - Da Summa (REMIX) ](https://www.youtube.com/watch?v=TwYz5iI7pm0)
 
@@ -860,7 +889,7 @@ that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media
 ![Darkstalkers](https://upload.wikimedia.org/wikipedia/en/4/40/Darkstalkers_arcade_flyer.png)
 Darkstalkers: The Night Warriors, known in Japan as Vampire: The Night Warriors (ヴァンパイア ザ ナイト ウォーリアー, Vanpaia Za Naito Wōriā), is a 1994 fighting game developed and released by Capcom originally for the [CPS II arcade hardware](https://en.wikipedia.org/wiki/CP_System_II) as the first game in the first title in the Darkstalkers series
 ![CPS2](https://wiki.arcadeotaku.com/images/d/d3/CPS2.gif)
-<iframe src="https://archive.org/embed/arcade_dstlk" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/arcade_dstlk" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ### ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
 
@@ -911,7 +940,7 @@ Darkstalkers: The Night Warriors, known in Japan as Vampire: The Night Warriors 
   video.
 </video>
 
-<iframe src="https://archive.org/embed/tmnt_mame" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/tmnt_mame" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![TMNT](https://pbs.twimg.com/media/GW59Xgea8AEo9Pr?format=jpg&name=large)
 
@@ -985,16 +1014,16 @@ Received: Nov. 29, 2006 8:55 AM
 The camera was pointing toward SATURN-RINGS, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System.
 ![SaturnRings](https://solarsystem.nasa.gov/images/casJPGFullS26/W00020096.jpg)
 
-<iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## There Is Only Now : by Adrian Younge & souls Of Mischief
-<iframe src="https://archive.org/embed/adrianmischiefsthereisonlynow" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/adrianmischiefsthereisonlynow" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## The Lost Tapes II by Nas
-<iframe src="https://archive.org/embed/nas-the-lost-tapes-2" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/nas-the-lost-tapes-2" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## The Empire strikes Back
-<iframe src="https://archive.org/embed/arcade_esb" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/arcade_esb" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 # CiviC 03
@@ -1002,7 +1031,7 @@ Erika, im talking about you in here. I forgive you, i have moved on sexually, ev
 [Updates at ricoThaka](https://ricothaka.github.io/civic03) [ThakaRashard](thakarashard.github.io) Normani I dont know who nicki minaj is but whatever Muna Ahmed was thats the only person i made physical contact with other than you. Erika kissed me b4 it all ended it was gross
 
 ![Civic03](https://pbs.twimg.com/media/GWvg0Z6a8AE6ARR?format=jpg&name=large)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307011498&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/officialmaryjblige" title="MaryJBlige" target="_blank" style="color: #cccccc; text-decoration: none;">MaryJBlige</a> · <a href="https://soundcloud.com/officialmaryjblige/u-me-love-lesson" title="U + Me (Love Lesson)" target="_blank" style="color: #cccccc; text-decoration: none;">U + Me (Love Lesson)</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307011498&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/officialmaryjblige" title="MaryJBlige" target="_blank" style="color: #cccccc; text-decoration: none;">MaryJBlige</a> · <a href="https://soundcloud.com/officialmaryjblige/u-me-love-lesson" title="U + Me (Love Lesson)" target="_blank" style="color: #cccccc; text-decoration: none;">U + Me (Love Lesson)</a></div>
 
 {% include dear-coral-games.md %}
 
@@ -1035,7 +1064,7 @@ Erika, im talking about you in here. I forgive you, i have moved on sexually, ev
 ## Normani if you are claiming me
 You have to talk about how im being burned and my hair has lice mounds, that sting when ppl spray they are dormant otherwise as i pick them off and scrape out the dust they scramble together some pairing for sex other wrestleing out of bordom [HairCare](https://youtu.be/PDyBIoY1MfU?si=M0DTqNs3udSBQlKE) they look like headlice, its the living in my head thing, and there is this goo that forms on the base of my folicles that they make the mounds out of .. its [LittleBigPlanetOnMyHEad!](https://www.youtube.com/watch?v=oh5mzqjgRj4&list=PL9H1ai1PRZ3P-Rn3EGf41afqag2nGggXl&index=121)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ga0y2Bn_oko?si=RIMk--7f-M63KDbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy"  width="560" height="315" src="https://www.youtube.com/embed/ga0y2Bn_oko?si=RIMk--7f-M63KDbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {% include sega.md %}
 {% include webtools.md %}
@@ -1142,7 +1171,7 @@ Anyway im still working on my [Six Step](https://youtu.be/J9mFCAERAC4?si=wFb0CZt
 
 
 Captain America: Chapter 2 - Mechanical Executioner
-<iframe src="https://archive.org/embed/captain_america_ep2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/captain_america_ep2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [The endless possibilities and services LA libraries offer](https://www.cbsnews.com/losangeles/video/the-endless-possibilities-and-services-la-libraries-offer/) <cite>With National Library Week in full swing, a Los Angeles librarian tells us about all of the amazing services they offer to enrich the lives of students, children, and adults.
 Apr 11, 2024</cite>
@@ -1170,7 +1199,7 @@ Download the
 </video>
 
 # Listen to NASA’s Ingenuity Mars Helicopter in Flight
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044556651&color=%238c9265&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/listen-to-nasas-ingenuity-helicopter-as-it-flies-on-mars" title="Listen to NASA’s Ingenuity Mars Helicopter in Flight" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to NASA’s Ingenuity Mars Helicopter in Flight</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044556651&color=%238c9265&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/listen-to-nasas-ingenuity-helicopter-as-it-flies-on-mars" title="Listen to NASA’s Ingenuity Mars Helicopter in Flight" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to NASA’s Ingenuity Mars Helicopter in Flight</a></div>
 Mars Sounds 
 
 
@@ -1179,7 +1208,7 @@ Mars Sounds
 The Landsat 8 & 9 Active Fire and Thermal Anomalies product, generated from the Landsat Operational Land Imager (OLI) shows active fire detections and thermal anomalies, such as volcanoes, and gas flares.
 ![The_Rover](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA15025.width-1440.jpg)
 [Real Bout Fatal Fury 2 - The Newcomers (Korean release)](https://www.retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-korean-release.html)
-<iframe src="https://archive.org/embed/arcade_garou" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/arcade_garou" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 
@@ -1205,7 +1234,7 @@ Raw images are photos from space missions that NASA provides online for easy pub
 
 
 [Compiling WasUpdated](https://thakarashard.github.io/compiling/)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/904236316&color=%2300cbff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/asiandabratdoll" title="Asian Da Brat" target="_blank" style="color: #cccccc; text-decoration: none;">Asian Da Brat</a> · <a href="https://soundcloud.com/asiandabratdoll/sets/so-icy-princess-1" title="So Icy Princess" target="_blank" style="color: #cccccc; text-decoration: none;">So Icy Princess</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/904236316&color=%2300cbff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/asiandabratdoll" title="Asian Da Brat" target="_blank" style="color: #cccccc; text-decoration: none;">Asian Da Brat</a> · <a href="https://soundcloud.com/asiandabratdoll/sets/so-icy-princess-1" title="So Icy Princess" target="_blank" style="color: #cccccc; text-decoration: none;">So Icy Princess</a></div>
 
 ![Batman](https://upload.wikimedia.org/wikipedia/en/f/f4/Batman1943SerialPoster.jpg) 
 Batman is a 1943 American 15-chapter [theatrical serial](https://en.wikipedia.org/wiki/Serial_film) from Columbia Pictures, produced by Rudolph C. Flothow, The serial's story line involves the Batman, a secret U.S. government agent, attempting to defeat the schemes of Japanese agent Dr. Daka operating in Los Angeles at the height of World War II.[3] Serving Daka are his American henchmen.
@@ -1213,7 +1242,7 @@ Batman is a 1943 American 15-chapter [theatrical serial](https://en.wikipedia.or
 Batman is notable for being the first appearance on film of Batman and for debuting story elements that quickly became permanent parts of the Batman character's mythos, such as the "Bat's Cave" and its secret entrance through a grandfather clock inside Wayne Manor. The serial also changed the course of how Alfred's physical appearance was depicted in future Batman stories. At the time Batman was released in theaters, Alfred was drawn as a portly gentleman in the comics. Subsequent issues suddenly depicted Alfred as slim and sporting a thin moustache, following actor William Austin's appearance. [Wikipedia](https://en.wikipedia.org/wiki/Batman_(serial))
 [Batman 1943 all episodes](https://archive.org/download/batman-1943-episode-01)
 
-<iframe src="https://archive.org/embed/batman-1943-episode-01" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/batman-1943-episode-01" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [uptown butterfly _movie](https://youtu.be/UVhDEN4o7zk?si=c4evez9O4c5Z5SAB) [Tina, @kashdoll so pretty - song](https://youtu.be/-mv0YNUCoj4?si=YE7jtcVRzWUrPwcj) 
 
@@ -1326,7 +1355,7 @@ https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_0297_0693322301_098ECM_
 # To/About::Them
 <cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bbfo6BBOqIc?si=ReZo0RrijL1RPXTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy"  width="560" height="315" src="https://www.youtube.com/embed/Bbfo6BBOqIc?si=ReZo0RrijL1RPXTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### [Tesla Coils at Griffith Observatory video](https://griffithobservatory.org/) 
 
@@ -1365,7 +1394,7 @@ Anyway your romantic life was a specticle in savannah. [KashDoll](https://soundc
 
 Back to the Spectacle, there was a man named Percy Riddle he married a lady named Sabrina she wass "Pretty", vickye was "pretty" and since I went to dance411 there is a group of girls that wanna live together, and If Latto is really erika idk. But at this point in time I am understanding that aside from her sale in the local market, shes mine, but im scared of the people tthat are angry at emotions
 
-<iframe width="731" height="729" src="https://www.youtube.com/embed/SReOKWeSKRM" title="Love Under New Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy"  width="731" height="729" src="https://www.youtube.com/embed/SReOKWeSKRM" title="Love Under New Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 [5 Classic Books Every Designer Should Have by Margaret Penney November 11 2016](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
@@ -1432,7 +1461,7 @@ A grid system provides an easy way for designers to structure and present conten
 <a href="https://readings.design/PDF/the_elements_of_typographic_style.pdf">The Elements of Typographic Style Robert Bringhurst 1992 </a>
 
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/694087468&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
+<iframe loading="lazy"  width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/694087468&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
 
 
 [Normani Visits a Special Airbnb in Massachusetts, Plus Kerry Washington, Oprah Winfrey and More](https://people.com/star-tracks-saturday-august-24-2024-new-celebrity-photos-updated-daily-8700890) [Normani Spills The Tea on New Upcoming Music Videos]()
@@ -1464,7 +1493,7 @@ A grid system provides an easy way for designers to structure and present conten
 ## Astro Pam,
 Kanye West was their friend at some level, but i really want you guyus to observe them
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYrMKMtUbWk?si=UaCh8xjmBy6g602F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy"  width="560" height="315" src="https://www.youtube.com/embed/aYrMKMtUbWk?si=UaCh8xjmBy6g602F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 1982 SPECIAL REPORT: "SINGLE MOTHERS"
 
@@ -1508,7 +1537,7 @@ Kanye West was their friend at some level, but i really want you guyus to observ
 
 
 
-<iframe src="https://eyes.nasa.gov/apps/solar-system/#/sc_juice/compare?id=sc_hubble_space_telescope&interactPrompt=true&surfaceMapTiling=true&hd=true&lighting=flood" allowfullscreen ></iframe>
+<iframe loading="lazy"  src="https://eyes.nasa.gov/apps/solar-system/#/sc_juice/compare?id=sc_hubble_space_telescope&interactPrompt=true&surfaceMapTiling=true&hd=true&lighting=flood" allowfullscreen ></iframe>
 
 
 
