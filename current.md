@@ -11,6 +11,11 @@ mermaid: true
 {% endhighlight %}
 
 # Currently Compiling
+[Sagan with Viking lander model](https://www.loc.gov/resource/mss85590.103/?sp=1&r=-0.706,-0.009,2.412,1.622,0)
+[<img src="https://science.nasa.gov/wp-content/uploads/2024/03/chryse-planitia-panorama.jpg?w=768&format=webp" alt="MARiNER STATUS BULLiTEN" />](https://science.nasa.gov/wp-content/uploads/2024/03/chryse-planitia-panorama.jpg?w=768&format=webp)
+
+>This is the first panoramic view ever returned from the surface of Mars. This view from Camera 2 on Viking 1 shows Chryse Planitia on 20 July 1976, shortly after Viking landed.
+
 [Boosie Badazz Ft. Webbie "On That Level"](https://www.youtube.com/watch?v=rO9UURX-jBc) [How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/)
 
 ![kk](https://forums.launchbox-app.com/uploads/monthly_2020_06/2020bb.png.b9783353701fd89075c984edddea5460.png)
