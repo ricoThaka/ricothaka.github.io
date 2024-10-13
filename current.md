@@ -11,6 +11,11 @@ mermaid: true
 {% endhighlight %}
 
 # Currently Compiling
+
+[a track from Guilty Simpson & J Dilla's unfinished album - MAnsWorld](https://www.youtube.com/watch?v=VEDBFzDnIRM)
+![BERKELEY ERiKA CorMiEr Akire Akeevah Konnie Esther Kevin Leonard](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png)
+
+
 [Sagan with Viking lander model](https://www.loc.gov/resource/mss85590.103/?sp=1&r=-0.706,-0.009,2.412,1.622,0)
 [<img src="https://science.nasa.gov/wp-content/uploads/2024/03/chryse-planitia-panorama.jpg?w=768&format=webp" alt="MARiNER STATUS BULLiTEN" />](https://science.nasa.gov/wp-content/uploads/2024/03/chryse-planitia-panorama.jpg?w=768&format=webp)
 
