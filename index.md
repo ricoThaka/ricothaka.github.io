@@ -70,7 +70,7 @@ carousels:
     <div class="panelColumn">
       <div class="rightColumn">
 
-<a href="https://ricothaka.github.io/cv/"><h3>Rashard Iman Kelly NasaJPL M_R_O Active</h3><img src="https://pbs.twimg.com/media/GXYJHeabwAI6Svq?format=jpg&name=large"></a>
+<a href="https://ricothaka.github.io/cv/"><h3>Rashard Iman Kelly NasaJPL M_R_O Active</h3><img src="https://pbs.twimg.com/media/GZPFul0bIAEbebb?format=jpg&name=medium"></a>
          </div>
     </div>
   </div>
