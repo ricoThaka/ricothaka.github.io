@@ -34,6 +34,12 @@ carousels:
     - image: /uploads/slider/image4.jpg
 
 ---
+[The Awakening · Ahmad Jamal Trio - 1970](https://youtu.be/L34b0ut8Loc?si=RqGamNrGvo-pjLFW)
+
+# compiling update
+
+[Worktweets As Of Oct 15](https://ricothaka.github.io/compiling/workTweets-as-of-Oct-15) [Worktweets TweetS Only](https://ricothaka.github.io/compiling/workTweets)
+[<img src="https://pbs.twimg.com/media/GZ9lyPgb0AAnL6s?format=jpg&name=large" alt="MARiNER STATUS BULLiTEN" />](https://pbs.twimg.com/media/GZ9lyPgb0AAnL6s?format=jpg&name=large)
 
 [List of space telescopes](https://en.wikipedia.org/wiki/List_of_space_telescopes) [MoonTrek - InTeractive Moon Exploration tool from NASAJPL PASADENA LOSANGELES](https://trek.nasa.gov/moon/index.html#v=0.1&x=5.6249998950736995&y=20.039062126200008&z=1&p=urn%3Aogc%3Adef%3Acrs%3AEPSG%3A%3A104903&d=&locale=&b=moon&e=-163.12499695713694%2C-146.07421602519483%2C174.37499674728434%2C186.15234027759485&sfz=&w=)
 
@@ -43,6 +49,9 @@ Space Observatories and [Orbits](https://spaceplace.nasa.gov/orbits/en/) By Olaf
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Space_observatories.png" alt="MARiNER STATUS BULLiTEN" />](https://upload.wikimedia.org/wikipedia/commons/5/57/Space_observatories.png)
 
 [<img src="https://tile.loc.gov/image-services/iiif/service:mss:mss85590:103:001/full/pct:50/0/default.jpg" alt="MARiNER STATUS BULLiTEN" />](https://tile.loc.gov/image-services/iiif/service:mss:mss85590:103:001/full/pct:50/0/default.jpg)
+
+
+
 
 ### [Satellite Data Suggest U.S. Methane Emissions Underestimated](https://earthobservatory.nasa.gov/images/152825/satellite-data-suggest-us-methane-emissions-underestimated)
 ![USA](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152825/methane_trop_2019_lrg.jpg)
@@ -91,8 +100,8 @@ Space Observatories and [Orbits](https://spaceplace.nasa.gov/orbits/en/) By Olaf
 # •͡˘㇁•͡˘
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1685293677&color=%233029f2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nickiminaj" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/nickiminaj/nicki-minaj-are-you-gone" title="Are You Gone Already" target="_blank" style="color: #cccccc; text-decoration: none;">Are You Gone Already</a></div>\
 
-{% include_relative current.md %}
 
+{% include_relative current.md %}
 # watchlist
 
 [Fire and Ice 1983](https://archive.org/details/a137ee3e2a37701695abd791d95bfeaf-1080p)
