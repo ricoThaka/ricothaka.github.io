@@ -34,71 +34,9 @@ carousels:
     - image: /uploads/slider/image4.jpg
 
 ---
-[The Awakening · Ahmad Jamal Trio - 1970](https://youtu.be/L34b0ut8Loc?si=RqGamNrGvo-pjLFW)
-
-# compiling update
-
-[Worktweets As Of Oct 15](https://ricothaka.github.io/compiling/workTweets-as-of-Oct-15) [Worktweets TweetS Only](https://ricothaka.github.io/compiling/workTweets)
-[<img src="https://pbs.twimg.com/media/GZ9lyPgb0AAnL6s?format=jpg&name=large" alt="MARiNER STATUS BULLiTEN" />](https://pbs.twimg.com/media/GZ9lyPgb0AAnL6s?format=jpg&name=large)
-
-[List of space telescopes](https://en.wikipedia.org/wiki/List_of_space_telescopes) [MoonTrek - InTeractive Moon Exploration tool from NASAJPL PASADENA LOSANGELES](https://trek.nasa.gov/moon/index.html#v=0.1&x=5.6249998950736995&y=20.039062126200008&z=1&p=urn%3Aogc%3Adef%3Acrs%3AEPSG%3A%3A104903&d=&locale=&b=moon&e=-163.12499695713694%2C-146.07421602519483%2C174.37499674728434%2C186.15234027759485&sfz=&w=)
-
-![SPACE_TELESCOPE](https://upload.wikimedia.org/wikipedia/commons/0/02/Space_telescopes_comparison.jpg)
-Space Observatories and [Orbits](https://spaceplace.nasa.gov/orbits/en/) By Olaf Frohn - <a rel="nofollow" class="external free" href="https://armchairastronautics.blogspot.com/p/space-observatories.html">https://armchairastronautics.blogspot.com/p/space-observatories.html</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=107800873">Link</a>
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Space_observatories.png" alt="MARiNER STATUS BULLiTEN" />](https://upload.wikimedia.org/wikipedia/commons/5/57/Space_observatories.png)
-
-[<img src="https://tile.loc.gov/image-services/iiif/service:mss:mss85590:103:001/full/pct:50/0/default.jpg" alt="MARiNER STATUS BULLiTEN" />](https://tile.loc.gov/image-services/iiif/service:mss:mss85590:103:001/full/pct:50/0/default.jpg)
 
 
 
-
-### [Satellite Data Suggest U.S. Methane Emissions Underestimated](https://earthobservatory.nasa.gov/images/152825/satellite-data-suggest-us-methane-emissions-underestimated)
-![USA](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152825/methane_trop_2019_lrg.jpg)
-![Muna Martha](https://pbs.twimg.com/media/GZpVQilaAAExXja?format=jpg&name=medium)
-
-
-
-# HElp im Active Mission Nasa Mars
-
-
-<div class="twoPanelSpread">
-  <div class="row">
-    <div class="panelColumn">
-      <div class="leftColumn">
-<a href="https://science.nasa.gov/mission/mars-reconnaissance-orbiter/"><h3>SF3</h3><img src="https://pbs.twimg.com/media/GZkEvhyaEAATyPd?format=jpg&name=large"></a>
-        </div>
-    </div>
-    <div class="panelColumn">
-      <div class="rightColumn">
-
-<a href="https://ricothaka.github.io/cv/"><h3>SF2ce</h3><img src="https://pbs.twimg.com/media/GZkCet_aAAMTs9-?format=jpg&name=large"></a>
-         </div>
-    </div>
-  </div>
-</div>
-
-
-<div class="twoPanelSpread">
-  <div class="row">
-    <div class="panelColumn">
-      <div class="leftColumn">
-<a href="https://science.nasa.gov/mission/mars-reconnaissance-orbiter/"><h3>Mars Reconnaissance Orbiter</h3><img src="https://pbs.twimg.com/media/GXYJItHaoAABqrQ?format=jpg&name=medium"></a>
-        </div>
-    </div>
-    <div class="panelColumn">
-      <div class="rightColumn">
-
-<a href="https://ricothaka.github.io/cv/"><h3>Rashard Iman Kelly NasaJPL M_R_O Active</h3><img src="https://pbs.twimg.com/media/GZPFul0bIAEbebb?format=jpg&name=medium"></a>
-         </div>
-    </div>
-  </div>
-</div>
-
-[Future-Space Cadets Prod By Zaytoven](https://youtu.be/sYeHfBQktec?si=YPx9gkE1m9veEqTL) 
-
-# •͡˘㇁•͡˘
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1685293677&color=%233029f2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nickiminaj" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/nickiminaj/nicki-minaj-are-you-gone" title="Are You Gone Already" target="_blank" style="color: #cccccc; text-decoration: none;">Are You Gone Already</a></div>\
 
 
 {% include_relative current.md %}
