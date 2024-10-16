@@ -12,6 +12,8 @@ mermaid: true
 
 # Currently Compiling
 
+
+![PAperMArio](https://upload.wikimedia.org/wikipedia/commons/5/54/Paper_Mario_Logo.png)
 ![SuperMarioRPG](https://upload.wikimedia.org/wikipedia/commons/4/46/Super_Mario_RPG_Logo.png)
 ![BOwseR](https://pbs.twimg.com/media/GZ99Nrdb0AoAS8B?format=jpg&name=large)
 
