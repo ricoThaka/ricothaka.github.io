@@ -35,6 +35,9 @@ carousels:
 
 ---
 
+## ~(^-^)~ `\(ᵔᵕᵔ)/` (⊃｡•́‿•̀｡)⊃ ヾ(-_- )ゞ  
+# (づ￣ ³￣)づ ᕕ( ᐛ )ᕗ ⊂(◉‿◉)つ iloveU[NORMANi]
+[ #Normani #DOPAMINE #LightsOn](https://youtu.be/6Rzd1ch_cvo?si=fYtLmZNFwbRCVs5N)
 # (._.)
 [#Normani #DOPAMINE #BigBoy](https://youtu.be/RfKpxfPv4tI?list=OLAK5uy_kQ0LiDxChWeIr5NH0MDjjLJvtByzrMvvE&t=3)
 # (っ•́｡•́)♪♬
