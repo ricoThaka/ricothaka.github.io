@@ -35,6 +35,9 @@ carousels:
 
 ---
 
+
+# ┬─┬⃰͡ (ᵔᵕᵔ͜ ) ⊂(◉‿◉)つ
+[Normani #DOPAMINE #AllYours](https://youtu.be/iHS9gu-RZGQ?si=q8cLZW29pOvfEnwG)
 ## ~(^-^)~ `\(ᵔᵕᵔ)/` (⊃｡•́‿•̀｡)⊃ ヾ(-_- )ゞ  
 # (づ￣ ³￣)づ ᕕ( ᐛ )ᕗ ⊂(◉‿◉)つ iloveU[NORMANi]
 [ #Normani #DOPAMINE #LightsOn](https://youtu.be/6Rzd1ch_cvo?si=fYtLmZNFwbRCVs5N)
@@ -42,6 +45,11 @@ carousels:
 [#Normani #DOPAMINE #BigBoy](https://youtu.be/RfKpxfPv4tI?list=OLAK5uy_kQ0LiDxChWeIr5NH0MDjjLJvtByzrMvvE&t=3)
 # (っ•́｡•́)♪♬
 [#Normani #DOPAMINE #LittleSecrets](https://www.youtube.com/watch?v=Fb4Wq2VFoxo&list=OLAK5uy_kQ0LiDxChWeIr5NH0MDjjLJvtByzrMvvE&index=12)
+
+
+![Lo Jupiters Moon](https://photojournal.jpl.nasa.gov/jpeg/PIA02308.jpg)
+![galileo](https://upload.wikimedia.org/wikipedia/commons/c/cc/Galileo.arp.300pix.jpg)
+
 {% include_relative current.md %}
 # watchlist
 
