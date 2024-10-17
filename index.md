@@ -35,10 +35,10 @@ carousels:
 
 ---
 
-
-
-
-
+# (._.)
+[#Normani #DOPAMINE #BigBoy](https://youtu.be/RfKpxfPv4tI?list=OLAK5uy_kQ0LiDxChWeIr5NH0MDjjLJvtByzrMvvE&t=3)
+# (っ•́｡•́)♪♬
+[#Normani #DOPAMINE #LittleSecrets](https://www.youtube.com/watch?v=Fb4Wq2VFoxo&list=OLAK5uy_kQ0LiDxChWeIr5NH0MDjjLJvtByzrMvvE&index=12)
 {% include_relative current.md %}
 # watchlist
 
