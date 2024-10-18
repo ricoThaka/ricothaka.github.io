@@ -1,3 +1,15 @@
+![Mario64](https://upload.wikimedia.org/wikipedia/commons/4/44/Super_Mario_64_logo.png)
+![PAperMArio](https://upload.wikimedia.org/wikipedia/commons/5/54/Paper_Mario_Logo.png)
+![SuperMarioRPG](https://upload.wikimedia.org/wikipedia/commons/4/46/Super_Mario_RPG_Logo.png)
+![BOwseR](https://pbs.twimg.com/media/GZ99Nrdb0AoAS8B?format=jpg&name=large)
+
+# Dear_Coral,
+After years i finally got a clean try at MArioRPG. Maybe TedRoss is not as bad as i thought. A save state might spoil this one, i played actraiser as well  
+![i Finnaly tried it](https://e.snmc.io/lk/fv/x/56d9ae1f8915cc894ab9351b6108f3c8/7449282)
+![Actraiser](https://snescentral.com/0/1/7/0177/logo.gif)
+[a track from Guilty Simpson & J Dilla's unfinished album - MAnsWorld](https://www.youtube.com/watch?v=VEDBFzDnIRM)
+![BERKELEY ERiKA CorMiEr Akire Akeevah Konnie Esther Kevin Leonard](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png)
+
 
 
 ## Dear_Coral
