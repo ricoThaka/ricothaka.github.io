@@ -35,67 +35,17 @@ carousels:
 
 ---
 
-# Particulate Pollution and Warehouses in the Los Angeles Region 
-A data visualization shows the average concentration of PM2.5 particulate pollution in the Los Angeles region from 2000 to 2018, along with the locations of nearly 11,000 warehouses over the same time period. Particles measuring 2.5 micrometers or less, PM2.5 are pollutants that can be inhaled into the lungs and absorbed into the bloodstream.
-
-[<img src="https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA26415.jpg" alt="pollution Los Angeles"](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA26415.jpg)
-
-## PIA21958: Major Solar Flare
-[Credits](https://svs.gsfc.nasa.gov/14648#section_credits)
-[NASA/GSFC/Solar Dynamics Observatory](https://sdo.gsfc.nasa.gov/)
-
-<video controls preload="none"   width="100%" height="auto" poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg">
-
-  <source src="https://sdo.gsfc.nasa.gov/assets/gallery/movies/EnergizedActiveRegions_big.mp4" type="video/mp4" />
-
-  <source src="https://sdo.gsfc.nasa.gov/assets/gallery/movies/EnergizedActiveRegions_big.mp4" type="video/mp4" />
-
-  Download the
-  or
-  <a href="https://sdo.gsfc.nasa.gov/assets/gallery/movies/EnergizedActiveRegions_big.mp4">MP4</a>
-  video.
-</video>
-
-# ┬─┬⃰͡ (ᵔᵕᵔ͜ ) ⊂(◉‿◉)つ
-[Normani #DOPAMINE #AllYours](https://youtu.be/iHS9gu-RZGQ?si=q8cLZW29pOvfEnwG)
-## ~(^-^)~ `\(ᵔᵕᵔ)/` (⊃｡•́‿•̀｡)⊃ ヾ(-_- )ゞ  
-# (づ￣ ³￣)づ ᕕ( ᐛ )ᕗ ⊂(◉‿◉)つ iloveU[NORMANi]
-[ #Normani #DOPAMINE #LightsOn](https://youtu.be/6Rzd1ch_cvo?si=fYtLmZNFwbRCVs5N)
-# (._.)
-[#Normani #DOPAMINE #BigBoy](https://youtu.be/RfKpxfPv4tI?list=OLAK5uy_kQ0LiDxChWeIr5NH0MDjjLJvtByzrMvvE&t=3)
-# (っ•́｡•́)♪♬
-[#Normani #DOPAMINE #LittleSecrets](https://www.youtube.com/watch?v=Fb4Wq2VFoxo&list=OLAK5uy_kQ0LiDxChWeIr5NH0MDjjLJvtByzrMvvE&index=12)
 
 
-![Lo Jupiters Moon](https://photojournal.jpl.nasa.gov/jpeg/PIA02308.jpg)
-![galileo](https://upload.wikimedia.org/wikipedia/commons/c/cc/Galileo.arp.300pix.jpg)
 
 {% include_relative current.md %}
 
 
 --- 
 
-![EcoStress](https://ecostress.jpl.nasa.gov/logo.png)
 
-[This original satellite photo was used by JPL imaging scientists to create "L.A.: The Movie," ](https://landsat.visibleearth.nasa.gov/view.php?id=52470)
-[List Of Dams](https://x.com/thakasartu/status/1789384568002453589) [nASA stI pROGRAM](https://www.youtube.com/@NASASTIProgram)
-[los angeles](https://eoimages.gsfc.nasa.gov/images/imagerecords/149000/149458/losangeles_oli2_2022038_lrg.jpg) [A Super View of LA](https://earthobservatory.nasa.gov/images/149458/a-super-view-of-la#:~:text=NASA%20launched%20Landsat%209%20in,subsystems%20and%20calibrating%20its%20instruments.) [Early Landsat View of Los Angeles and Vicinity](https://www.jpl.nasa.gov/images/pia02988-early-landsat-view-of-los-angeles-and-vicinity) [Zoom Down to Los Angeles, CA](https://svs.gsfc.nasa.gov/1214)
-
-![lOS aNGELES](https://eoimages.gsfc.nasa.gov/images/imagerecords/0/841/landsat_la_color.jpg)
 
 ---
-
-
-
-
-[Pilgrimage to Mecha 08: Dominion Tank Police (OVA)](https://theglorioblog.com/2017/05/05/pilgrimage-to-mecha-08-dominion-tank-police/)
-
-[![Hackers_Journalist](https://pbs.twimg.com/media/GO3R9FXbsAA2BgP?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
-
-
-[![Threats](https://pbs.twimg.com/media/GO3T_1fa8AAT_mY?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
-
-![BigBossVetter](https://pbs.twimg.com/media/GXUKDeObgAEcMM_?format=jpg&name=large)
 
 
 
