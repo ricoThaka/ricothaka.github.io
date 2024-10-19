@@ -35,6 +35,10 @@ carousels:
 
 ---
 
+# Particulate Pollution and Warehouses in the Los Angeles Region 
+A data visualization shows the average concentration of PM2.5 particulate pollution in the Los Angeles region from 2000 to 2018, along with the locations of nearly 11,000 warehouses over the same time period. Particles measuring 2.5 micrometers or less, PM2.5 are pollutants that can be inhaled into the lungs and absorbed into the bloodstream.
+
+[<img src="https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA26415.jpg" alt="pollution Los Angeles"](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA26415.jpg)
 
 ## PIA21958: Major Solar Flare
 [Credits](https://svs.gsfc.nasa.gov/14648#section_credits)
