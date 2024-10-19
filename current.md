@@ -11,6 +11,7 @@ mermaid: true
 {% endhighlight %}
 
 # Currently Compiling
+[JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927, NO CD)](https://www.retrogames.cc/arcade-games/jojos-bizarre-adventure:-heritage-for-the-future-jojo-no-kimyou-na-bouken:-mirai-e-no-isan-japan-990927-no-cd.html)
 
 # Particulate Pollution and Warehouses in the Los Angeles Region 
 A data visualization shows the average concentration of PM2.5 particulate pollution in the Los Angeles region from 2000 to 2018, along with the locations of nearly 11,000 warehouses over the same time period. Particles measuring 2.5 micrometers or less, PM2.5 are pollutants that can be inhaled into the lungs and absorbed into the bloodstream.
