@@ -1,7 +1,34 @@
 
 # ⊂(◉‿◉)つ Normani 
 
-Normani i will update u soon but i wanted you to have some things b4 ppl get all inspired an you miss the developing...
+Just some thigs from my job to help you and everyone else connected understand im studying our solar system, but the truth is SpaceCraft like Voyager, they are outside an using the space telescopes we have discovered 5500+ planets, we call them exoplanets from our perspective
+
+## PIA21958: Major Solar Flare
+[Credits](https://svs.gsfc.nasa.gov/14648#section_credits)
+[NASA/GSFC/Solar Dynamics Observatory](https://sdo.gsfc.nasa.gov/)
+
+<video controls preload="none"   width="100%" height="auto" poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg">
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA21958_X8_flare_Sept_big.mp4" type="video/mp4" />
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA21958_X8_flare_Sept_big.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA21958_X8_flare_Sept_big.mp4">MP4</a>
+  video.
+</video>
+
+# PIA21837: NASA's Hubble Sees Martian Moon Orbiting the Red Planet 
+![martian moon spotted by hubble](https://photojournal.jpl.nasa.gov/archive/PIA21837_STSCI-H-v1729c-728x485.gif)
+
+
+[<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA17386.jpg" alt="mercury map" />](https://photojournal.jpl.nasa.gov/jpeg/PIA17386.jpg)
+
+
+![img](https://sdo.gsfc.nasa.gov/assets/img/latest/SDO_VO3.jpg)
+Normani i will update u soon but i wanted you to have some 
+things b4 ppl get all inspired an you miss the developing...
 
 ## An Ocean in Bloom 8/16/2024
 [Credits](https://svs.gsfc.nasa.gov/14648#section_credits)

@@ -36,6 +36,22 @@ carousels:
 ---
 
 
+## PIA21958: Major Solar Flare
+[Credits](https://svs.gsfc.nasa.gov/14648#section_credits)
+[NASA/GSFC/Solar Dynamics Observatory](https://sdo.gsfc.nasa.gov/)
+
+<video controls preload="none"   width="100%" height="auto" poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg">
+
+  <source src="https://sdo.gsfc.nasa.gov/assets/gallery/movies/EnergizedActiveRegions_big.mp4" type="video/mp4" />
+
+  <source src="https://sdo.gsfc.nasa.gov/assets/gallery/movies/EnergizedActiveRegions_big.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://sdo.gsfc.nasa.gov/assets/gallery/movies/EnergizedActiveRegions_big.mp4">MP4</a>
+  video.
+</video>
+
 # ┬─┬⃰͡ (ᵔᵕᵔ͜ ) ⊂(◉‿◉)つ
 [Normani #DOPAMINE #AllYours](https://youtu.be/iHS9gu-RZGQ?si=q8cLZW29pOvfEnwG)
 ## ~(^-^)~ `\(ᵔᵕᵔ)/` (⊃｡•́‿•̀｡)⊃ ヾ(-_- )ゞ  
