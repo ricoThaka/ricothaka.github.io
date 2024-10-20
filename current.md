@@ -10,8 +10,16 @@ mermaid: true
 4 # UNiVERSE###__̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.__#Hi####CORaL##
 {% endhighlight %}
 
-# Currently Compiling
+# Currently Compiling [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
+[How to execute shell command in Ruby? - GeeksFORgeekS](https://www.geeksforgeeks.org/how-to-execute-shell-command-in-ruby/)
+{% highlight ruby %} 
+
+IO.popen("ls -l") do |io|
+  puts io.read
+end
+
+{% endhighlight %}
 
 
 ```ruby
