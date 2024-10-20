@@ -12,7 +12,7 @@ mermaid: true
 
 # Currently Compiling
 
-[I Am Not A Rapist  Devastating consequences of False Allegations - TrueCrimeCentraL](https://youtu.be/5a0-85Wdf_w?si=NICpEC6HQNYdwB4A) [Innocent man sent to jail for rape by his own fiancé - 60 Minutes Australia](https://www.youtube.com/watch?v=bYH992ynhdU) [Elizabeth Coast sentenced for false sexual assault claim](https://www.youtube.com/watch?v=CkLZ6A0MfHw) [Woman who accused former Dodgers pitcher Trevor Bauer of sex assault now charged with fraud](https://www.youtube.com/watch?v=3CSjEqzWugQ)
+[I Am Not A Rapist  Devastating consequences of False Allegations - TrueCrimeCentraL](https://youtu.be/5a0-85Wdf_w?si=NICpEC6HQNYdwB4A) [Innocent man sent to jail for rape by his own fiancé - 60 Minutes Australia](https://www.youtube.com/watch?v=bYH992ynhdU) [Elizabeth Coast sentenced for false sexual assault claim](https://www.youtube.com/watch?v=CkLZ6A0MfHw) [Woman who accused former Dodgers pitcher Trevor Bauer of sex assault now charged with fraud](https://www.youtube.com/watch?v=3CSjEqzWugQ) [5 Ways Las Vegas Prostitutes Scam You](https://www.youtube.com/watch?v=xFsMMIieXH4) [STREET HYPNOSIS   Drake Fail, Santa Claus & Celebrity Crush ](https://www.youtube.com/watch?v=M0_l5aeP45U) [MIND CONTROL :: How To Hypnotize People (UNCUT)](https://youtu.be/z2LZELYPUnE?si=ZqpFs-tnNSzUwoZE)
 
 [JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927, NO CD)](https://www.retrogames.cc/arcade-games/jojos-bizarre-adventure:-heritage-for-the-future-jojo-no-kimyou-na-bouken:-mirai-e-no-isan-japan-990927-no-cd.html)
 
@@ -350,39 +350,6 @@ Kanye West was their friend at some level, but i really want you guyus to observ
 [JAY ELECTRONICACURRENCYMOS DEF - Jay Electronica (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md4ebe25) [Jay Electronica - Unreleased (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m8fca3ca) [Jay Electronica Discography ?](https://www.reddit.com/r/hiphop101/comments/1vbiju/jay_electronica_discography/?rdt=41981&onetap_auto=true&one_tap=true) [Act II: The Patents Of Nobility (The Turn)](https://archive.org/details/jay-electronica-act-II-the-patents-of-nobility-the-turn ) [Jay Electronica - Act 1 The Eternal Sunshine the (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md1d01fd) [DATPIFF Hip-Hop Mixtape Archives](https://archive.org/details/datpiffarchives) [Keep On Rockin It (feat. Charizma) - PeanutButterWolf My Vinyl Weighs a ton](https://youtu.be/klNiPcJMSvs?si=oKmDj7ekJrhweyyY) [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7) [J A Y E L E C T R O N I C A - Letter to Falon](https://youtu.be/VtM62E7KZ6o?si=kfvh-38GJb2uc4sj)
 
 
-
-### Playlist Update 
-[playlist](ricothaka.github.io/playlist)
-<figure class=" track">
-    <IMG src="https://images.genius.com/4517fad00b6b761f9e95dad956c0ee30.1000x1000x1.jpg" />
-    
- <figcaption> Respiration (Feat. Common).mp3 - BlackStar
- 
-</figcaption>
-    <audio controls loop>
-      <source src="https://archive.org/download/11.-respiration-feat.-common/Mos%20Def%20%26%20Talib%20Kweli%20Are%20Black%20Star/11.%20Respiration%20%28Feat.%20Common%29.mp3">
-      Your browser dose not Support the audio Tag
-    </audio>
-</figure> 
-
-"Respiration" is a song by American rappers Mos Def and Talib Kweli, collectively known as Black Star. It was released as the second single from the duo’s eponymously titled 1998 album (see 1998 in music). It features a guest verse from fellow American rapper Common and guitar playing by DeChown Jenkins. The song’s production was handled by Hi-Tek, who sampled "The Fox" as performed by Don Randi. In addition, the song's introduction samples a monologue from the hip hop documentary Style Wars. It is found on Best of Decade I: 1995-2005, a compilation of Rawkus Records' best songs. It can also be found on Howie B's compilation album Another Late Night: Howie B. The single reached #54 on the Billboard Hot R&B/Hip-Hop Songs chart.[Talk About it on WikiPedia](https://en.wikipedia.org/wiki/Talk:Respiration_(song)) [GeniUs dOt cOm](https://genius.com/Black-star-respiration-lyrics)
-
-
-
-## BattleToadS
-by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retrogames.cc/arcade-games/battletoads.html) [Sega Genesis](https://archive.org/details/Battletoads_World.md)
-
-[![BattleToads](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)
-
-
-
-<div class="pinupImage expandingGallery">
-<img src="https://pbs.twimg.com/media/GO3eDMIasAAUHMp?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3ePDIaAAA18IW?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3fAfpaQAAmoqn?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3ffBoa8AAuqsh?format=jpg&name=large" />
-
- </div>
  
  ![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
 

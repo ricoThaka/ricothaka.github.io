@@ -79,6 +79,40 @@ I want you to look at Atomic Red HEad post about the old [Uniroyal Tire Factory]
 
 
 
+
+### Playlist Update 
+[playlist](ricothaka.github.io/playlist)
+<figure class=" track">
+    <IMG src="https://images.genius.com/4517fad00b6b761f9e95dad956c0ee30.1000x1000x1.jpg" />
+    
+ <figcaption> Respiration (Feat. Common).mp3 - BlackStar
+ 
+</figcaption>
+    <audio controls loop>
+      <source src="https://archive.org/download/11.-respiration-feat.-common/Mos%20Def%20%26%20Talib%20Kweli%20Are%20Black%20Star/11.%20Respiration%20%28Feat.%20Common%29.mp3">
+      Your browser dose not Support the audio Tag
+    </audio>
+</figure> 
+
+"Respiration" is a song by American rappers Mos Def and Talib Kweli, collectively known as Black Star. It was released as the second single from the duo’s eponymously titled 1998 album (see 1998 in music). It features a guest verse from fellow American rapper Common and guitar playing by DeChown Jenkins. The song’s production was handled by Hi-Tek, who sampled "The Fox" as performed by Don Randi. In addition, the song's introduction samples a monologue from the hip hop documentary Style Wars. It is found on Best of Decade I: 1995-2005, a compilation of Rawkus Records' best songs. It can also be found on Howie B's compilation album Another Late Night: Howie B. The single reached #54 on the Billboard Hot R&B/Hip-Hop Songs chart.[Talk About it on WikiPedia](https://en.wikipedia.org/wiki/Talk:Respiration_(song)) [GeniUs dOt cOm](https://genius.com/Black-star-respiration-lyrics)
+
+
+
+## BattleToadS
+by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retrogames.cc/arcade-games/battletoads.html) [Sega Genesis](https://archive.org/details/Battletoads_World.md)
+
+[![BattleToads](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)
+
+
+
+<div class="pinupImage expandingGallery">
+<img src="https://pbs.twimg.com/media/GO3eDMIasAAUHMp?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3ePDIaAAA18IW?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3fAfpaQAAmoqn?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GO3ffBoa8AAuqsh?format=jpg&name=large" />
+
+ </div>
+ 
 [The Internet Arcade puts 900 classic games right in your web browser - TheVerge](https://www.theverge.com/2014/11/2/7147505/the-internet-arcade-puts-900-classic-games-right-in-your-web-browser)
 
 ## Puzzle Bobble 4 (Ver 2.04O 1997/12/19)
