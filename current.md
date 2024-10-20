@@ -12,6 +12,14 @@ mermaid: true
 
 # Currently Compiling
 
+
+
+```ruby
+File.open '/etc/passwd' do |file|
+  file.each_line { |line| puts line }
+end
+```
+
 [I Am Not A Rapist  Devastating consequences of False Allegations - TrueCrimeCentraL](https://youtu.be/5a0-85Wdf_w?si=NICpEC6HQNYdwB4A) [Innocent man sent to jail for rape by his own fiancé - 60 Minutes Australia](https://www.youtube.com/watch?v=bYH992ynhdU) [Elizabeth Coast sentenced for false sexual assault claim](https://www.youtube.com/watch?v=CkLZ6A0MfHw) [Woman who accused former Dodgers pitcher Trevor Bauer of sex assault now charged with fraud](https://www.youtube.com/watch?v=3CSjEqzWugQ) [5 Ways Las Vegas Prostitutes Scam You](https://www.youtube.com/watch?v=xFsMMIieXH4) [STREET HYPNOSIS   Drake Fail, Santa Claus & Celebrity Crush ](https://www.youtube.com/watch?v=M0_l5aeP45U) [MIND CONTROL :: How To Hypnotize People (UNCUT)](https://youtu.be/z2LZELYPUnE?si=ZqpFs-tnNSzUwoZE)
 
 [JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927, NO CD)](https://www.retrogames.cc/arcade-games/jojos-bizarre-adventure:-heritage-for-the-future-jojo-no-kimyou-na-bouken:-mirai-e-no-isan-japan-990927-no-cd.html)
