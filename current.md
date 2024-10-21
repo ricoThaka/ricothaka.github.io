@@ -9,9 +9,11 @@ mermaid: true
 3 # ANOTHER##########https://s.id/1kmbG################## 
 4 # UNiVERSE###__̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.__#Hi####CORaL##
 {% endhighlight %}
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+# Currently Compiling 
 
-# Currently Compiling [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
+[<img src="https://solarsystem.nasa.gov/images/casJPGFullS86/W00090653.jpg" alt="pollution Los Angeles" />](https://solarsystem.nasa.gov/images/casJPGFullS86/W00090653.jpg)
 [How to execute shell command in Ruby? - GeeksFORgeekS](https://www.geeksforgeeks.org/how-to-execute-shell-command-in-ruby/)
 {% highlight ruby %} 
 
