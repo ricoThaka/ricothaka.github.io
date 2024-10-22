@@ -7,6 +7,20 @@
   font-family: Cluster;
   src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
 }
+@import "default_colors";
+
+$body-background: $cod-grey !default;
+$body-foreground: $gallery !default;
+$header: $conifer !default;
+$blockquote-color: $silver-chalice !default;
+$blockquote-border: $dove-grey !default;
+$container-max-width: 1000px;
+
+@mixin media-max-width($max-width) {
+  @media (max-width: $max-width) {
+      @content;
+  }
+}
 
 
 
@@ -380,13 +394,15 @@ blockquote {
 pre {
   background: rgba(0, 0, 0, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 2px;
   padding: 10px;
   font-size: 16px;
   color: #b5e853;
-  border-radius: 0px;
   word-wrap: normal;
   overflow: auto;
   overflow-y: hidden;
+
+
 }
 
 code.highlighter-rouge {
@@ -532,16 +548,18 @@ hr {
 
 a:hover,
 a:visited a:hover {
-  font-size: 130%;
-  padding: 5px;
-  color:#0dd9c4 ;
+  /*font-size: 130%; */
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  
   ;
 
 }
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  padding: 0px;
+  color:#29F247 ;
+  text-shadow: 0 0 5px rgba(41, 242, 71, 0.5);
   transition: all .2s ease-out;
 
 
