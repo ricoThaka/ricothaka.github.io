@@ -12,6 +12,7 @@ mermaid: true
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 # Currently Compiling 
 
+![Las Vegas USGS](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/LasVegas-L7-1999-2024-Animation.gif?itok=PAP7hgDe)
 
 
 [<img src="https://forums.launchbox-app.com/uploads/monthly_2020_02/670389783_SuperMarioWorld(USA).png.abd06a53c2bc6918f9456e02a40518d5.png" alt="pollution Los Angeles" />](https://forums.launchbox-app.com/uploads/monthly_2020_02/670389783_SuperMarioWorld(USA).png.abd06a53c2bc6918f9456e02a40518d5.png)
