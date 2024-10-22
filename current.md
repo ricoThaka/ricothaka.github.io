@@ -12,6 +12,15 @@ mermaid: true
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 # Currently Compiling 
 
+```css
+img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
+img[src*="nasa.gov"] {width: 100%;
+border-bottom:solid 10px  #c9ff23;}
+```
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/732094555&color=%23c9ff23&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-896375696-938702324" title="josh calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">josh calhoun</a> · <a href="https://soundcloud.com/user-896375696-938702324/madvillain-madvillainy-full-album-2004" title="Madvillain - MADVILLAINY full album [2004]" target="_blank" style="color: #cccccc; text-decoration: none;">Madvillain - MADVILLAINY full album [2004]</a></div>
+
 ![Las Vegas USGS](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/LasVegas-L7-1999-2024-Animation.gif?itok=PAP7hgDe)
 
 
