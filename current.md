@@ -12,8 +12,24 @@ mermaid: true
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 # Currently Compiling 
 
+### 3 MArkDown Ways to insert an image
+ill talk about differences another day 
+```markdown
+
+![Las Vegas USGS](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/LasVegas-L7-1999-2024-Animation.gif?itok=PAP7hgDe)
+
+
+[<img src="https://forums.launchbox-app.com/uploads/monthly_2020_02/670389783_SuperMarioWorld(USA).png.abd06a53c2bc6918f9456e02a40518d5.png" alt="pollution Los Angeles" />](https://forums.launchbox-app.com/uploads/monthly_2020_02/670389783_SuperMarioWorld(USA).png.abd06a53c2bc6918f9456e02a40518d5.png)
+
+[![Threats](https://pbs.twimg.com/media/GO3T_1fa8AAT_mY?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+```
+
+[Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown)
+
 ```css
-img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
+img[alt*="USGS"] {width: 100%;
+border-bottom:solid 10px  #BF785E;}
 img[src*="nasa.gov"] {width: 100%;
 border-bottom:solid 10px  #c9ff23;}
 ```
