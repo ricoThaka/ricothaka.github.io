@@ -11,6 +11,37 @@ mermaid: true
 {% endhighlight %}
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 # Currently Compiling 
+
+# Halloween Storms 2003: SOHO/EIT and TRACE at 195 Angstroms
+This visualization compares the full-disk solar view of SOHO/EIT (green, on the left) with the small field of view of the TRACE ultraviolet telescope (gold, on the right). The yellow border of the TRACE imagery is projected on the appropriate location on the green EIT imagery. [ReadMorE](https://svs.gsfc.nasa.gov/3535/)
+
+<video controls preload="none"   width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003535/EITTRACEside_stand.HD1080i.05000.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003535/EITTRACEside_720.mp4" type="video/mp4" />
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003535/EITTRACEside_720.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003535/EITTRACEside_720.mp4">MP4</a>
+  video.
+</video>
+<cite>NASA/Goddard Space Flight Center Scientific Visualization Studio</cite>
+
+# Phobos  Eclipse 
+<video controls preload="none"   width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1308.gif?w=768&format=webp">
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4" type="video/mp4" />
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4">MP4</a>
+  video.
+</video>
+
+
 ![mars](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01302/ids/edr/browse/ncam/NLG_1302_0782529673_005ECM_N0610376NCAM00500_00_2I4J01_1200.jpg)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/736284001&color=%23b5e853&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joshua-calhoun-687531873" title="JJ" target="_blank" style="color: #cccccc; text-decoration: none;">JJ</a> · <a href="https://soundcloud.com/joshua-calhoun-687531873/stankonia" title="Outkast - Stankonia full album" target="_blank" style="color: #cccccc; text-decoration: none;">Outkast - Stankonia full album</a></div>
 
