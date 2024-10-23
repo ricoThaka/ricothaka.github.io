@@ -694,7 +694,15 @@ embed {
 }
 
 
-img[src*="usgs.gov"] {
+img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
+
+img[alt^="L"] {
+  width: 100%;
+  border-top:solid 10px #f4bf75;
+  
+  }
+
+img[alt*="USGS"] {
   width: 100%;
   border-bottom:solid 10px #c9ff23;
   
