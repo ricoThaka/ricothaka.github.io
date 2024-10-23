@@ -11,7 +11,7 @@ mermaid: true
 {% endhighlight %}
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 # Currently Compiling 
-
+[Samurai Shodown V Special / Samurai Spirits Zero Special (NGH-2720) (2nd Release, Less Censored)](https://www.retrogames.cc/arcade-games/samurai-shodown-v-special-samurai-spirits-zero-special-ngh-2720-2nd-release-less-censored.html)
 # Halloween Storms 2003: SOHO/EIT and TRACE at 195 Angstroms
 This visualization compares the full-disk solar view of SOHO/EIT (green, on the left) with the small field of view of the TRACE ultraviolet telescope (gold, on the right). The yellow border of the TRACE imagery is projected on the appropriate location on the green EIT imagery. [ReadMorE](https://svs.gsfc.nasa.gov/3535/)
 
