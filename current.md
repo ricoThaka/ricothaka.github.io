@@ -23,6 +23,10 @@ The laser may seem bright, but this is due to the long exposure of the picture �
 [<img src="https://noirlab.edu/public/media/archives/images/publicationjpg/iotw2227a.jpg"  alt="pollution Los Angeles" />](https://noirlab.edu/public/media/archives/images/publicationjpg/iotw2227a.jpg)
 >Gemini North, one half of the International Gemini Observatory, operated by NSF’s [NOIRLab](https://noirlab.edu/public/images/iotw2406a/)
 
+[<img src="https://noirlab.edu/public/media/archives/images/publicationjpg/noao-sun.jpg"  alt="High resolution solar spectrum NoirLaB" />](https://noirlab.edu/public/media/archives/images/publicationjpg/noao-sun.jpg)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230136151&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/irakli-basiladze1" title="basiladze irakli" target="_blank" style="color: #cccccc; text-decoration: none;">basiladze irakli</a> · <a href="https://soundcloud.com/irakli-basiladze1/mobb-deep-the-infamous-album-full-album" title="Mobb Deep The Infamous Album (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Mobb Deep The Infamous Album (Full Album)</a></div>
+
 [Goodie Mob - SoulFood](https://soundcloud.com/robert-carroll-932488597/goodie-mob-soul-food-full?si=5f3249a499d643faa5e69a1cb4e74505&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 ## The floor of Tsiolkovskiy crater is partially flooded by mare basalt, which is the low reflectance smooth material 
 [<img src="https://www.lroc.asu.edu/news/uploads/LROCiotw/M198059280LR_thumb.png" alt="pollution Los Angeles" />](https://www.lroc.asu.edu/news/uploads/LROCiotw/M198059280LR_thumb.png)
