@@ -76,6 +76,15 @@ p {
   display:block;
 }
 
+
+.floatright img:nth-child(odd) {
+  float: right;
+}
+.floatleft img:nth-child(even) {
+  float: left;
+  border-bottom: solid 10px #ffffff50;
+}
+
 h1 {
   font: normal 14px/18px "Arial Black", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 3em;
