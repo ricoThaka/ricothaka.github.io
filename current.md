@@ -17,6 +17,8 @@ mermaid: true
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 # Currently Compiling 
 
+[<img src="https://noirlab.edu/public/media/archives/images/large/noirlab2116a.jpg"  alt="pollution Los Angeles" />](https://noirlab.edu/public/media/archives/images/large/noirlab2116a.jpg) 
+>Credit:International Gemini Observatory/NOIRLab/NSF/AURA, M.H. Wong (UC Berkeley) et al. Acknowledgments: M. Zamani @astro-datalab im Rashard i used to wear a Argyle PhatFarm vest an Erika was my JehovahWitnessWifeTobe she is now a SoundcloudSensation called LAtto and i work @nasa-jpl an wanna be a good artist in unix
 ## Gemini North, one half of the International Gemini Observatory, operated by NSF’s NOIRLab
 The laser may seem bright, but this is due to the long exposure of the picture — you can see the stars trailing across the night sky through the open dome indicating the long exposure time. The TOPTICA laser of the observatory is generally dim to the naked eye, depending on how close you are standing to it. 
 [<img src="https://noirlab.edu/public/media/archives/images/wallpaper4/iotw2406a.jpg"  alt="pollution Los Angeles" />](https://noirlab.edu/public/media/archives/images/wallpaper4/iotw2406a.jpg)
