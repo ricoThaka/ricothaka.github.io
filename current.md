@@ -9,8 +9,20 @@ mermaid: true
 3 # ANOTHER##########https://s.id/1kmbG################## 
 4 # UNiVERSE###__̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.__#Hi####CORaL##
 {% endhighlight %}
+
+
+
+
+
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 # Currently Compiling 
+
+## Gemini North, one half of the International Gemini Observatory, operated by NSF’s NOIRLab
+The laser may seem bright, but this is due to the long exposure of the picture — you can see the stars trailing across the night sky through the open dome indicating the long exposure time. The TOPTICA laser of the observatory is generally dim to the naked eye, depending on how close you are standing to it. 
+[<img src="https://noirlab.edu/public/media/archives/images/wallpaper4/iotw2406a.jpg"  alt="pollution Los Angeles" />](https://noirlab.edu/public/media/archives/images/wallpaper4/iotw2406a.jpg)
+[<img src="https://noirlab.edu/public/media/archives/images/publicationjpg/iotw2227a.jpg"  alt="pollution Los Angeles" />](https://noirlab.edu/public/media/archives/images/publicationjpg/iotw2227a.jpg)
+>Gemini North, one half of the International Gemini Observatory, operated by NSF’s [NOIRLab](https://noirlab.edu/public/images/iotw2406a/)
+
 [Goodie Mob - SoulFood](https://soundcloud.com/robert-carroll-932488597/goodie-mob-soul-food-full?si=5f3249a499d643faa5e69a1cb4e74505&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 ## The floor of Tsiolkovskiy crater is partially flooded by mare basalt, which is the low reflectance smooth material 
 [<img src="https://www.lroc.asu.edu/news/uploads/LROCiotw/M198059280LR_thumb.png" alt="pollution Los Angeles" />](https://www.lroc.asu.edu/news/uploads/LROCiotw/M198059280LR_thumb.png)
