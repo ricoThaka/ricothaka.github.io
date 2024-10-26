@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+  <!--  <link rel="stylesheet" href="htau.css"> -->
+      <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <style>
+      body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: verdana, arial, helvetica, sans-serif;
+	color: #ccc;
+	background-color: #333;
+	text-align: center;
+	/* part 1 of 2 centering hack */
+	}
+#content {
+	width: 400px; 
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto; 	
+	/* opera does not like 'margin:20px auto' */
+	background: #666;
+	border: 5px solid #ccc;
+	text-align:left; 
+	/* part 2 of 2 centering hack */
+	width: 400px; /* ie5win fudge begins */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width: 370px;
+	}
+html>body #content {
+	width: 370px; /* ie5win fudge ends */
+	}
+      @import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap');
+  </style>
+ 
+  </head>
+  <body markdown="1">
+    <body>
+      <a class="ahem" href="http://www.thenoodleincident.com/upgrade_notice.html"><img class="ahem" src="http://www.thenoodleincident.com/img/upgrade_notice.gif" width="380" height="110" alt="" border="0" /></a>
+      
+      <div id="content">
+        {{ content }}
+      <pre>
+      body {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        font-family: verdana, arial, sans-serif;
+        color: #ccc;
+        background-color: #333;
+        text-align: center;
+        /* part 1 of 2 centering hack */
+        }
+      #content {
+        width: 400px; 
+        padding: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: auto;
+        margin-left: auto; 	
+        /* opera does not like 'margin:20px auto' */
+        background: #666;
+        border: 5px solid #ccc;
+        text-align:left; 
+        /* part 2 of 2 centering hack */
+        width: 400px; /* ie5win fudge begins */
+        voice-family: "\"}\"";
+        voice-family:inherit;
+        width: 370px;
+        }
+      html>body #content {
+        width: 370px; /* ie5win fudge ends */
+        }
+      </pre>
+      
+      <div align="right"><p><a href="css/01_centered_box.css">[full css]</a></p></div>
+      
+      </div>
+      
+
+
+
+    <script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
+  </body>
+
+  {% if page.mermaid %}
+  <script type="module">
+    import mermaid from '/js/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true });
+  </script>
+
+  {% endif %}
+</html>
