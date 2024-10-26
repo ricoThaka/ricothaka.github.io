@@ -15,8 +15,20 @@ mermaid: true
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 # Currently Compiling 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lp57t4x8IMY?si=39uA7n6msaRDrBKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[DarkDays](https://youtu.be/lp57t4x8IMY?si=emlxPm84RFba3MuP) A cinematic portrait of the homeless population who live permanently in the underground tunnels of New York City, an American documentary film directed, produced, and photographed by the English documentarian Marc Singer that was completed and released in 2000. Shot during the mid-1990s, it follows a group of people who lived in the Freedom Tunnel section of the Amtrak system at the time.[1][2] DJ Shadow created [new music for the documentary and also let Singer use some of his preexisting songs](https://www.youtube.com/watch?v=mVyTRjv38Yg). [Prime Video](https://www.amazon.com/Dark-Days-Marc-Singer/dp/B006M6NLR0) [Dj Shadow - Six Days rmx](https://youtu.be/tDqfI1Yz4VI) [DJ Shadow – Essential Mix [2016-07-02] bbc radio 1](https://youtu.be/JatZ2FT9Td4?si=Rr2FBdYF0GHibpA1) [DJ Shadow Solid Steel Live from Ninja Tune headquarters](https://www.youtube.com/watch?v=oi514k8ZqDQ) [Aphex Twin - Selected Ambient Works 85-92](https://www.youtube.com/watch?v=Xw5AiRVqfqk&t=1342s) [bonobo - ESSENTIAL mix 2014, [2014-04-12]BBC radio 1 #bonobo](https://www.youtube.com/watch?v=jwHnLHwypuk&t=1361s) [🔥🔥Bonobo Boiler Room New York DJ Set🔥🔥](https://www.youtube.com/watch?v=uynCeLheCPc&t=2237s)
+
+[<img src="https://m.media-amazon.com/images/S/pv-target-images/6a5bf78c1035af8370d96a04de57b58e93967e97204b43c4bb4ee05b9740740f.jpg"  alt="pollution Los Angeles" />](https://m.media-amazon.com/images/S/pv-target-images/6a5bf78c1035af8370d96a04de57b58e93967e97204b43c4bb4ee05b9740740f.jpg) 
+
+
+## Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/wWuFj_HAjYs?si=SR8YzJ_VTSc3jnDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62672v.jpg"  alt="pollution Los Angeles" />](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62672v.jpg) 
 [<img src="https://noirlab.edu/public/media/archives/images/large/noirlab2116a.jpg"  alt="pollution Los Angeles" />](https://noirlab.edu/public/media/archives/images/large/noirlab2116a.jpg) 
+
 >Credit:International Gemini Observatory/NOIRLab/NSF/AURA, M.H. Wong (UC Berkeley) et al. Acknowledgments: M. Zamani @astro-datalab im Rashard i used to wear a Argyle PhatFarm vest an Erika was my JehovahWitnessWifeTobe she is now a SoundcloudSensation called LAtto and i work @nasa-jpl an wanna be a good artist in unix
 ## Gemini North, one half of the International Gemini Observatory, operated by NSF’s NOIRLab
 The laser may seem bright, but this is due to the long exposure of the picture — you can see the stars trailing across the night sky through the open dome indicating the long exposure time. The TOPTICA laser of the observatory is generally dim to the naked eye, depending on how close you are standing to it. 
