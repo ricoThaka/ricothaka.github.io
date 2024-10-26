@@ -1,4 +1,7 @@
-
+---
+layout: layouttest
+title: Normani
+---
 # ⊂(◉‿◉)つ Normani 
 
 Just some thigs from my job to help you and everyone else connected understand im studying our solar system, but the truth is SpaceCraft like Voyager, they are outside an using the space telescopes we have discovered 5500+ planets, we call them exoplanets from our perspective
