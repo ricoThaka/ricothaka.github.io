@@ -1,5 +1,5 @@
 ---
-layout: layouttest
+layout: normani
 title: Normani
 ---
 # ⊂(◉‿◉)つ Normani 
