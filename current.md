@@ -15,6 +15,26 @@ mermaid: true
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 # Currently Compiling 
+
+
+I want to try R and @golang. @tiktok uses it, i was closed minded look at thier job postings. Its just kids like Adam getting run over... With my job history i have to remember Nasa is closely tied to all things D_O_D and all the crummy jobs in atlanta they may have been investigating the prostitution and im just clueless... @blackgirlscode Normani im going to try some new langs to see things different, You on social media so. These languages may help me heal with you 
+[The Go Playground](https://go.dev/play/) i just put thier sample in 
+
+
+```go
+// You can edit this code!
+// Click here and start typing.
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, 世界")
+}
+
+```
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg) 
+
 ## [On the sunny side of the strip](https://youtu.be/t90eKpLif0w) 
 1960 live album by the George Shearing quintet, one of five live albums recorded by the quintet.[2] **Recorded**	1958, Cresendo Club, Sunset Strip, Los Angeles [WiKi](https://en.wikipedia.org/wiki/On_the_Sunny_Side_of_the_Strip) Gene Norman owned the Crescendo Nightclub (also the Interlude) on the Sunset Strip during the 1950s and 1960s featuring popular music and jazz. He also formed the GNP label which used many live recordings directly from the Crescendo Club - [Early Views of Hollywood (1920 +) - The Los Angeles Water and Power Associates, Inc](https://waterandpower.org/museum/Early_Views_of_Hollywood_%281920_+%29_8_of_12.html) The Crescendo was owned and operated by Gene Norman (né Eugene Abraham Nabatoff; 1922–2015) of GNP Crescendo Records who had purchased the property in 1954 from singer Billy Eckstine who had run the venue as the Chanticlair. The Chanticlair, Crescendo, and Interlude welcomed integrated audiences. Norman sold the Crescendo in 1963 to focus on GNP Crescendo Records, and in 1965, the club became The Trip.[1] - [WikiPedia](https://en.wikipedia.org/wiki/The_Crescendo_(music_venue)) The Crescendo was a West Hollywood jazz venue located at 8572 Sunset Boulevard. It opened in 1954, along with the Interlude upstairs, and ran until 1964.
 
