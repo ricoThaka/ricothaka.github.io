@@ -3,6 +3,7 @@ layout: normani
 title: Normani
 ---
 # ⊂(◉‿◉)つ Normani 
+im still your friend, i think u will like this [Hexstatic - Solid Steel Presents Hexstatic: Listen & Learn (full mix-CD)](https://youtu.be/KHDOj2QxAfQ?t=483)
 
 ### learning Linux
 [Linux Journey](https://linuxjourney.com/) [DistroSea: Test Linux distros online](https://distrosea.com/)

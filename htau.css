@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet">
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -56,10 +60,24 @@ body {
               #fb3 25%, #58a 0, #58a 50%,
               #fb3 0, #fb3 75%, #58a 0);
 background-size: 80.4px 80.4px;
+font-family: "Red Hat Mono", monospace;
+font-optical-sizing: auto;
+  background-attachment: fixed;
+  
+}
+/*
+body {
+  
+  background: linear-gradient(45deg, 
+              #fb3 25%, #58a 0, #58a 50%,
+              #fb3 0, #fb3 75%, #58a 0);
+background-size: 70.4px 70.4px;
    font-family: "VT323", monospace;
   background-attachment: fixed;
   
 }
+  */
+
 #wrapper
 {
 margin:0 auto;
@@ -98,16 +116,7 @@ grid-template-rows: auto auto auto;
 }
 
 
-body {
-  
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 70.4px 70.4px;
-   font-family: "VT323", monospace;
-  background-attachment: fixed;
-  
-}
+
 p {
   display:inline;
   font-family: "VT323", monospace;
@@ -119,8 +128,8 @@ p {
     center repeat;
 }
 ::selection {
-color: white;
-background: cyan;
+color: #F2E205
+background: #595302;
 }
 p::first-letter {
   font-size: 2rem;
