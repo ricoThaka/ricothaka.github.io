@@ -6,6 +6,14 @@
   font-family: Cluster;
   src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
 }
+
+html {
+  font-family: "Red Hat Mono", monospace;
+font-optical-sizing: auto;
+
+}
+
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -57,11 +65,7 @@ table {
   margin: 0 0 50px;
   padding-left: 820px;
 } */
-html {
-  font-family: "Red Hat Mono", monospace;
-font-optical-sizing: auto;
 
-}
 body {
   
   background: linear-gradient(45deg, 
