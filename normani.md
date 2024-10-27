@@ -4,7 +4,8 @@ title: Normani
 ---
 # ⊂(◉‿◉)つ Normani 
 im still your friend, i think u will like this [Hexstatic - Solid Steel Presents Hexstatic: Listen & Learn (full mix-CD)](https://youtu.be/KHDOj2QxAfQ?t=483)
-
+i wrote u a not on [my page](ricothaka.github.io)
+<iframe width="960" height="540" src="https://www.youtube.com/embed/F6wnB3Aa8TI" title="Count Basie - Have A Nice Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### learning Linux
 [Linux Journey](https://linuxjourney.com/) [DistroSea: Test Linux distros online](https://distrosea.com/)
 
