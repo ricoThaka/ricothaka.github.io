@@ -2,6 +2,11 @@
 layout: normani
 title: Normani
 ---
+
+
+
+# (งツ)ว Normani (° ͜ʖ͡°)╭∩╮
+### [Is That All There Is? - Peggy Lee](https://www.youtube.com/watch?v=QPP6UgkmyM4)
 # ⊂(◉‿◉)つ Normani 
 im still your friend, i think u will like this [Hexstatic - Solid Steel Presents Hexstatic: Listen & Learn (full mix-CD)](https://youtu.be/KHDOj2QxAfQ?t=483)
 i wrote u a not on [my page](ricothaka.github.io)

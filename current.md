@@ -15,7 +15,7 @@ mermaid: true
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 # Currently Compiling 
-
+### [Is That All There Is? - Peggy Lee](https://www.youtube.com/watch?v=QPP6UgkmyM4)
 
 I want to try R and @golang. @tiktok uses it, i was closed minded look at thier job postings. Its just kids like Adam getting run over... With my job history i have to remember Nasa is closely tied to all things D_O_D and all the crummy jobs in atlanta they may have been investigating the prostitution and im just clueless... @blackgirlscode Normani im going to try some new langs to see things different, You on social media so. These languages may help me heal with you 
 [The Go Playground](https://go.dev/play/) i just put thier sample in 
