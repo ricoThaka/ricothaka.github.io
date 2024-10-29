@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
-@import "rouge-base16-dark";
+@import "_sass/rouge-base16-dark.scss";
 @font-face {
   font-family: Cluster;
   src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);

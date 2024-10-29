@@ -4,6 +4,7 @@ title: Normani
 ---
 
 
+[Ella Fitzgerald And Louis Armstrong 🎵 Ella And Louis Full Album 🎶 Vintage Music Songs](https://www.youtube.com/watch?v=6myvNnjONKs) [Mike Giant: 1996 interview: "If it doesn't have letters, it's not graffiti."](https://www.youtube.com/watch?v=AwpufzTG7lg) [Summer In New York pt.5 - Bombing With Zexor. (Graffiti documentary).- TagsAndThrows](https://youtu.be/AT-Km8ToCGU) [Summer In New York pt.1 - Bombing With Ojae ft. Left. (Graffiti documentary).](https://www.youtube.com/watch?v=3LrnAHpEGNI) [MisterTotem2 - Totem's Voltron Letters!](https://www.youtube.com/watch?v=F7JZBJmZzJA) [Graffiti Tags Tutorial - Everything You Need To Know](https://www.youtube.com/watch?v=L44qLzz_FB0)
 
 # (งツ)ว Normani (° ͜ʖ͡°)╭∩╮
 ### [Is That All There Is? - Peggy Lee](https://www.youtube.com/watch?v=QPP6UgkmyM4)
