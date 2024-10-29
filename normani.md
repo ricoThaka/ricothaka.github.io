@@ -1,5 +1,5 @@
 ---
-layout: normani
+layout: jplspace
 title: Normani
 ---
 
