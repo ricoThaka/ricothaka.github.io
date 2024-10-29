@@ -1,9 +1,28 @@
 ---
-layout: jplspace
+layout: normani
 title: Normani
 ---
 
 
+[D̲J̲ S̲h̲a̲d̲o̲w̲ | E̲n̲d̲t̲r̲o̲d̲u̲c̲i̲n̲g̲.̲.̲.̲.̲.̲](https://www.youtube.com/watch?v=EEV2EqVe9vU) [ShopMerch](https://djshadow.com/collections/action-adventure)
+![Entroducing](https://i.discogs.com/JZkgb1opCrJySlmPGfAfw5JleBkRCQ-kEmS8Wn7iQ70/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE1MTM5ODM3NjIt/NDYyNS5qcGVn.jpeg)
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+            <a href="https://i.discogs.com/e1Mz3cJO_eC6kdX6Bz7Wk7_mdnLYRxwslJ7bfig7YV8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE0MjUwMTU4NzIt/NTAxMC5qcGVn.jpeg">
+              <img src="https://i.discogs.com/e1Mz3cJO_eC6kdX6Bz7Wk7_mdnLYRxwslJ7bfig7YV8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE0MjUwMTU4NzIt/NTAxMC5qcGVn.jpeg" alt="De La Soul - Stakes is High" > </a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+            <a href="https://i.discogs.com/oUpx-QGCDWdiB2oNkXbRvztYirikkMjPNdjsNkkLNkM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE1MTM5ODM3OTMt/NDU1NS5qcGVn.jpeg">  <img src="https://i.discogs.com/oUpx-QGCDWdiB2oNkXbRvztYirikkMjPNdjsNkkLNkM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE1MTM5ODM3OTMt/NDU1NS5qcGVn.jpeg" alt="De La Soul stakes is high" > </a>
+      
+   </div>
+  </div>    
+ </div>
+</div>
+![Entroducing](https://i.discogs.com/JZkgb1opCrJySlmPGfAfw5JleBkRCQ-kEmS8Wn7iQ70/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE1MTM5ODM3NjIt/NDYyNS5qcGVn.jpeg)
 
 # Hi Normani
 I found out about another mission i am attatched to its [Psyche](https://science.nasa.gov/mission/psyche/) idk the details but since there is a mars flyby i understand y they let me know about it. It launched in 2023 so its at a level with your life man... im just tired. but the sex is gross and the way the family members treat me. I still love u... 
