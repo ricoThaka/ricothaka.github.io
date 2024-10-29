@@ -5,6 +5,12 @@ title: Normani
 
 
 
+# Hi Normani
+I found out about another mission i am attatched to its [Psyche](https://science.nasa.gov/mission/psyche/) idk the details but since there is a mars flyby i understand y they let me know about it. It launched in 2023 so its at a level with your life man... im just tired. but the sex is gross and the way the family members treat me. I still love u... 
+[<img src="https://science.nasa.gov/wp-content/uploads/2023/07/psyche-mission-illustration-pia24930.jpg?w=2048&format=webp" alt="mercury map" />](https://science.nasa.gov/wp-content/uploads/2023/07/psyche-mission-illustration-pia24930.jpg?w=2048&format=webp)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Psyche_spacecraft_model.png/1200px-Psyche_spacecraft_model.png" alt="mercury map" />](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Psyche_spacecraft_model.png/1200px-Psyche_spacecraft_model.png)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Psyche_insignia.png/600px-Psyche_insignia.png" alt="mercury map" />](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Psyche_insignia.png/600px-Psyche_insignia.png)
+
 ### [Fzero(snes)](https://www.retrogames.cc/snes-games/f-zero-usa.html)
 Nintendo's flagship futuristic racing game (for the Super Nintendo Entertainment System) - [retrogames.cc](https://www.retrogames.cc/snes-games/f-zero-usa.html)
 [<img src="https://pbs.twimg.com/media/GbBcyV0aQAAQk7w?format=jpg&name=large" alt="mercury map" />](https://pbs.twimg.com/media/GbBcyV0aQAAQk7w?format=jpg&name=large)
