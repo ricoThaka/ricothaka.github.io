@@ -1095,7 +1095,37 @@ border: 1px solid #c9ff23;
 }
 
 
+.pinupGallery {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px;
+  object-fit: contain;
+}
+.expandingGallery {
+  width: 100%;
+  height: 25vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap);
+}
 
+.expandingGallery > img {
+  --brightness: 0.75;
+  --grayscale: 1;
+  transition: flex var(--transition), filter var(--transition);
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  flex: 1;
+}
+
+.expandingGallery > img:hover {
+  flex: var(--magnifier);
+}
 
 /* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
 
@@ -1125,12 +1155,6 @@ border: 1px solid #c9ff23;
 
 }
 
-:root {
-  --magnifier: 8;
-  --gap: 0vmax;
-  --transition: 0.5s;
-}
-  
 
 
 @keyframes createbox {

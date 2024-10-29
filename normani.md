@@ -4,15 +4,20 @@ title: Normani
 ---
 
 
-[Ella Fitzgerald And Louis Armstrong 🎵 Ella And Louis Full Album 🎶 Vintage Music Songs](https://www.youtube.com/watch?v=6myvNnjONKs) [Mike Giant: 1996 interview: "If it doesn't have letters, it's not graffiti."](https://www.youtube.com/watch?v=AwpufzTG7lg) [Summer In New York pt.5 - Bombing With Zexor. (Graffiti documentary).- TagsAndThrows](https://youtu.be/AT-Km8ToCGU) [Summer In New York pt.1 - Bombing With Ojae ft. Left. (Graffiti documentary).](https://www.youtube.com/watch?v=3LrnAHpEGNI) [MisterTotem2 - Totem's Voltron Letters!](https://www.youtube.com/watch?v=F7JZBJmZzJA) [Graffiti Tags Tutorial - Everything You Need To Know](https://www.youtube.com/watch?v=L44qLzz_FB0) [Curve Handstyle History](https://www.youtube.com/watch?v=MW5uCCuxp0U) [Mike Giant-Handstyle History Lesson](https://youtu.be/iluqN6p0xEc?si=18LCMGRJ7NhdlC4b) [The Free Agents (FA) Crew was Established in 1985](https://freeagentscrew.com/crew-history/) Remember Dekay in Savannah? 
+
 ### [Fzero(snes)](https://www.retrogames.cc/snes-games/f-zero-usa.html)
 Nintendo's flagship futuristic racing game (for the Super Nintendo Entertainment System) - [retrogames.cc](https://www.retrogames.cc/snes-games/f-zero-usa.html)
+[<img src="https://pbs.twimg.com/media/GbBcyV0aQAAQk7w?format=jpg&name=large" alt="mercury map" />](https://pbs.twimg.com/media/GbBcyV0aQAAQk7w?format=jpg&name=large)
+[Ella Fitzgerald And Louis Armstrong 🎵 Ella And Louis Full Album 🎶 Vintage Music Songs](https://www.youtube.com/watch?v=6myvNnjONKs) [Mike Giant: 1996 interview: "If it doesn't have letters, it's not graffiti."](https://www.youtube.com/watch?v=AwpufzTG7lg) [Summer In New York pt.5 - Bombing With Zexor. (Graffiti documentary).- TagsAndThrows](https://youtu.be/AT-Km8ToCGU) [Summer In New York pt.1 - Bombing With Ojae ft. Left. (Graffiti documentary).](https://www.youtube.com/watch?v=3LrnAHpEGNI) [MisterTotem2 - Totem's Voltron Letters!](https://www.youtube.com/watch?v=F7JZBJmZzJA) [Graffiti Tags Tutorial - Everything You Need To Know](https://www.youtube.com/watch?v=L44qLzz_FB0) [Curve Handstyle History](https://www.youtube.com/watch?v=MW5uCCuxp0U) [Mike Giant-Handstyle History Lesson](https://youtu.be/iluqN6p0xEc?si=18LCMGRJ7NhdlC4b) [The Free Agents (FA) Crew was Established in 1985](https://freeagentscrew.com/crew-history/) Remember Dekay in Savannah? 
+
 # (งツ)ว Normani (° ͜ʖ͡°)╭∩╮
 ### [Is That All There Is? - Peggy Lee](https://www.youtube.com/watch?v=QPP6UgkmyM4)
 # ⊂(◉‿◉)つ Normani 
 im still your friend, i think u will like this [Hexstatic - Solid Steel Presents Hexstatic: Listen & Learn (full mix-CD)](https://youtu.be/KHDOj2QxAfQ?t=483)
 i wrote u a not on [my page](ricothaka.github.io)
+
 <iframe width="960" height="540" src="https://www.youtube.com/embed/F6wnB3Aa8TI" title="Count Basie - Have A Nice Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### learning Linux
 [Linux Journey](https://linuxjourney.com/) [DistroSea: Test Linux distros online](https://distrosea.com/)
 
