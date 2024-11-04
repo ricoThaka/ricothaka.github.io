@@ -3,6 +3,7 @@ layout: normani
 title: Normani
 ---
 
+[<img src="https://www.google.com/logos/doodles/2024/valentines-day-2024-6753651837110186-2xa.gif" alt="I love my harem twin" />](https://www.google.com/logos/doodles/2024/valentines-day-2024-6753651837110186-2xa.gif)
 
 [D̲J̲ S̲h̲a̲d̲o̲w̲ | E̲n̲d̲t̲r̲o̲d̲u̲c̲i̲n̲g̲.̲.̲.̲.̲.̲](https://www.youtube.com/watch?v=EEV2EqVe9vU) [ShopMerch](https://djshadow.com/collections/action-adventure)
 ![Entroducing](https://i.discogs.com/JZkgb1opCrJySlmPGfAfw5JleBkRCQ-kEmS8Wn7iQ70/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE1MTM5ODM3NjIt/NDYyNS5qcGVn.jpeg)
