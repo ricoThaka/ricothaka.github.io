@@ -2,8 +2,13 @@
 layout: normani
 title: Normani
 mermaid: true
+permalink: /normanikordei 
 ---
 
+this my favorite code editor normani
+[Visual Studio Code](https://github.com/microsoft/vscode), also commonly referred to as VS Code,[9] is an integrated development environment developed by Microsoft for Windows, Linux, macOS and web browsers.[10][11] Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded version control with Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add functionality. Visual Studio Code is proprietary software released under the "Microsoft Software License",[6] but based on the MIT licensed program named "Visual Studio Code — Open Source" (also known as "Code — OSS"), also created by Microsoft and available through GitHub.[12] [WiKi](https://en.wikipedia.org/wiki/Visual_Studio_Code) [Boogie Down Productions (BDP) - 'By All Means Necessary' (Full Album) [1988]](https://youtu.be/wgHAdESSiX4?t=930)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="File:Visual Studio Code 1.35 icon.svg" />](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
 # Landsat Plumbs the (Shallow) Depths [KeyWesT_FL](https://earthobservatory.nasa.gov/images/153529/landsat-plumbs-the-shallow-depths) 
 Hi Noir, iloveu, im still working in outerspace but i want u to know im working with earth directed imaging tech as well. here is a blurb abt landsat - As the workhorses for Earth science from space, Landsat satellites have imaged Earth’s land surfaces uninterrupted for over 50 years. The missions continue to execute on the big idea of consistent, long-term observations. But limiting observations to land would have kept Landsat from its full potential. Scientists at the U.S. Geological Survey have developed a new way to measure ocean depth, or bathymetry, in shallow nearshore environments using Landsat data. By applying a sophisticated physics-based algorithm to satellite observations, their method offers an expedient way to map the seafloor from space without relying on prior depth measurements. Deriving bathymetry from satellites—a process researchers have been refining for decades—can fill in many mapping gaps in coastal areas and provide up-to-date information critical for modeling water movement, tracking coastal changes, studying coral reef habitats, and more. [earthObservatory](https://earthobservatory.nasa.gov/images/153529/landsat-plumbs-the-shallow-depths)
 
