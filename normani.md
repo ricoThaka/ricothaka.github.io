@@ -2,7 +2,7 @@
 layout: normani
 title: Normani
 mermaid: true
-permalink: /normanikordei 
+permalink: /normani 
 ---
 
 this my favorite code editor normani
