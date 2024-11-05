@@ -10,19 +10,23 @@ mermaid: true
 4 # UNiVERSE###__̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.__#Hi####CORaL##
 {% endhighlight %}
 
-# Welcome
-Though located a world away, Lake Salda, Turkey, shares similar mineralogy as Jezero Crater on Mars.
 
-[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_th.jpg" alt="NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. " />](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_th.jpg)
-[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_lrg.jpg" alt="NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. " />](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_lrg.jpg)
-[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159.jpg" alt="NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. " />](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159.jpg)
-
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg) 
-[<img src="https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette"](https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png) 
+[<img src="https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png) 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 # Currently Compiling 
 ### [Is That All There Is? - Peggy Lee](https://www.youtube.com/watch?v=QPP6UgkmyM4) [Stereo MC's – DJ-Kicks: (1999)](https://www.youtube.com/watch?v=HfSTdtuhfHM) [ERIC BURDON & WAR__ERIC BURDON DECLARES WAR 1970](https://www.youtube.com/watch?v=Dtul7WjTMNM)
+
+# Welcome
+Though located a world away, Lake Salda, Turkey, shares similar mineralogy as Jezero Crater on Mars.
+
+[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159.jpg" alt="NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. " />](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159.jpg)
+
+
+[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_lrg.jpg" alt="NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. " />](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_lrg.jpg)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg) 
+
+
 
 I want to try R and @golang. @tiktok uses it, i was closed minded look at thier job postings. Its just kids like Adam getting run over... With my job history i have to remember Nasa is closely tied to all things D_O_D and all the crummy jobs in atlanta they may have been investigating the prostitution and im just clueless... @blackgirlscode Normani im going to try some new langs to see things different, You on social media so. These languages may help me heal with you 
 [The Go Playground](https://go.dev/play/) i just put thier sample in 
