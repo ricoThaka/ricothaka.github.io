@@ -10,7 +10,12 @@ mermaid: true
 4 # UNiVERSE###__̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.__#Hi####CORaL##
 {% endhighlight %}
 
+# Welcome
+Though located a world away, Lake Salda, Turkey, shares similar mineralogy as Jezero Crater on Mars.
 
+[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_th.jpg" alt="NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. " />](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_th.jpg)
+[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_lrg.jpg" alt="NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. " />](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_lrg.jpg)
+[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159.jpg" alt="NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. " />](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159.jpg)
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg) 
