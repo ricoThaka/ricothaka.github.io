@@ -9,11 +9,29 @@ mermaid: true
 3 # ANOTHER##########https://s.id/1kmbG################## 
 4 # UNiVERSE###__̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.__#Hi####CORaL##
 {% endhighlight %}
-
-
-[<img src="https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png) 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+
 # Currently Compiling 
+# contrast()
+The contrast() CSS function adjusts the contrast of the input image. Its result is a <filter-function>. The contrast of the result, specified as a <number> or a <percentage>. A value under 100% decreases the contrast, while a value over 100% increases it. A value of 0 or 0% will create an image that is completely gray, while a value of 1 or 100% leaves the input unchanged. Negative values are not allowed. The initial value for interpolation is 1.
+
+```css
+
+.ic {
+  filter: contrast(200%); }
+```
+
+<img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" />
+
+
+[Superrappin - The Album - 1999 [FULL]](https://youtu.be/N7FjPPJ3mMY?t=1994)
+It doesn’t take much rain to fill the compressed, silty sediments found in Death Valley, CA.
+
+At 282 feet below sea level, Death Valley in the lowest point in North America. It is also notable as one of the driest places on the continent, but rains do fall from time to time. More than an inch of rain fell in the mountains west of Furnace Creek over two days in early March 2019 – more than triple the typical amount for the month.
+
+[<img src="https://eros.usgs.gov/sites/eros.usgs.gov/files/Badwater%20Labels%20After.jpg" alt="Rainy Days in Death Valley" />](https://eros.usgs.gov/sites/eros.usgs.gov/files/Badwater%20Labels%20After.jpg) 
+
+
 ### [Is That All There Is? - Peggy Lee](https://www.youtube.com/watch?v=QPP6UgkmyM4) [Stereo MC's – DJ-Kicks: (1999)](https://www.youtube.com/watch?v=HfSTdtuhfHM) [ERIC BURDON & WAR__ERIC BURDON DECLARES WAR 1970](https://www.youtube.com/watch?v=Dtul7WjTMNM)
 
 # Welcome
