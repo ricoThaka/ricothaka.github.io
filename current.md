@@ -20,7 +20,10 @@ The contrast() CSS function adjusts the contrast of the input image. Its result 
 .ic {
   filter: contrast(200%); }
 ```
-
+<style>
+  .ic {
+  filter: contrast(200%); }
+</style>  
 <img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" />
 
 
