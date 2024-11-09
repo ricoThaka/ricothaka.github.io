@@ -14,6 +14,22 @@ mermaid: true
 
 # Currently Compiling 
 
+# Alfred HitchcocK:Nightmare in 4-D
+>Episode aired Jan 13, 1957 [imdb](https://www.imdb.com/title/tt0508214/)
+[Alfred Hitchcock Presents - Nightmare in 4-D](https://the.hitchcock.zone/wiki/Alfred_Hitchcock_Presents_-_Nightmare_in_4-D)
+
+<video controls preload="none"   width="100%" height="auto" poster="https://i.imgur.com/jO0p7Xp.gif">
+    
+<source src="https://archive.org/download/alfred-hitchcock-presents-season-2/ahp-216.mp4 https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%202%20S02%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S02E01%20-%20The%20Work%20Outing%20%28576p%20x265%20Panda%29.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%202%20S02%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S02E01%20-%20The%20Work%20Outing%20%28576p%20x265%20Panda%29.mp4">MP4</a>
+        video.
+</video> 
+
+
+
+
 {% highlight css %}
 img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
 img[src*="https://badge.fury.io"] {width: 100%;}
@@ -36,7 +52,9 @@ img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
 
 
 
-# FlowControl+Decisions @blackgirlscode nior 
+# FlowControl+Decisions @blackgirlscode Noir
+@Shopify thanks for the @jekyll liquid doc! i retweeted @redhat #ansibleFest2019 // `Control flow tags create conditions that decide whether blocks of Liquid code get executed.` - [Control flow](https://shopify.github.io/liquid/tags/control-flow/)
+
 {% raw %}
 {% if product.title == "Awesome Shoes" %}
   These shoes are awesome!
@@ -60,6 +78,7 @@ img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
 <a href="https://archive.org/download/alfred-hitchcock-presents-season-2/ahp-216.mp4">MP4</a>
         video.
 </video> 
+
 # LiQUiD
 Hi @BlackGirlscode! Normani the @jekyll calls Liquid a `templating language to process templates` not a `Programming LAnguage`. I dont know why yet. I dont know how much Patrick knew at that time. Programmers class them selves many ways. Some people Like me are [BatchJob](https://www.geeksforgeeks.org/basics-of-batch-scripting/) people that where brainwashed that we are not programmers. I read a little of that article, im not that, im some sort of Systems Programmer. But dont look down on Mashonga from DFCS ppl like her often know #FlowControl and #Logic at a level where they can program anything bc they understand iterations, cycles and other programming thought cycles that came from the old public school system. [related](https://x.com/RicoThaka/status/1855338500410974448)
 
