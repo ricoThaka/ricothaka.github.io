@@ -12,17 +12,21 @@ mermaid: true
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
 # Currently Compiling 
+
+# LiQUiD
+Hi @BlackGirlscode! Normani the @jekyll calls Liquid a `templating language to process templates` not a `Programming LAnguage`. I dont know why yet. I dont know how much Patrick knew at that time. Programmers class them selves many ways. Some people Like me are [BatchJob](https://www.geeksforgeeks.org/basics-of-batch-scripting/) people that where brainwashed that we are not programmers. I read a little of that article, im not that, im some sort of Systems Programmer. But dont look down on Mashonga from DFCS ppl like her often know #FlowControl and #Logic at a level where they can program anything bc they understand iterations, cycles and other programming thought cycles that came from the old public school system. [related](https://x.com/RicoThaka/status/1855338500410974448)
+
 # contrast()
-The contrast() CSS function adjusts the contrast of the input image. Its result is a <filter-function>. The contrast of the result, specified as a <number> or a <percentage>. A value under 100% decreases the contrast, while a value over 100% increases it. A value of 0 or 0% will create an image that is completely gray, while a value of 1 or 100% leaves the input unchanged. Negative values are not allowed. The initial value for interpolation is 1.
+The contrast() CSS function adjusts the contrast of the input image. Its result is a <filter-function>. The contrast of the result, specified as a <number> or a <percentage>. A value under 100% decreases the contrast, while a value over 100% increases it. A value of 0 or 0% will create an image that is completely gray, while a value of 1 or 100% leaves the input unchanged. Negative values are not allowed. The initial value for interpolation is 1. [MDN - mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/contrast)
 
 ```css
 
 .ic {
-  filter: contrast(200%); }
+  filter: contrast(300%); }
 ```
 <style>
   .ic {
-  filter: contrast(200%); }
+  filter: contrast(300%); }
 </style>  
 <img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" />
 
