@@ -11,6 +11,9 @@ mermaid: true
 {% endhighlight %}
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
+
+# Currently Compiling 
+
 {% highlight css %}
 img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
 img[src*="https://badge.fury.io"] {width: 100%;}
@@ -31,7 +34,7 @@ img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
 
   {% endfor %}
 
-# Currently Compiling 
+
 
 # FlowControl+Decisions @blackgirlscode nior 
 {% raw %}
