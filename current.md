@@ -15,7 +15,7 @@ mermaid: true
 # Currently Compiling 
 
 # The IT Crowd:The Work Outing
->Episode aired Jan 13, 1957 [imdb](https://www.imdb.com/title/tt0849997/)
+>Episode aired Aug 24, 2007 [TV-14](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 24m [imdb](https://www.imdb.com/title/tt0849997/)
 [IT crowd Season 2 episode 1 "The Work Outing" is the funniest piece of television ever written. /r/television `Minecraftfinn`](https://www.reddit.com/r/television/comments/ieodna/it_crowd_season_2_episode_1_the_work_outing_is/?rdt=60956)
 
 <video controls preload="none"   width="100%" height="auto" poster="https://i.imgur.com/jO0p7Xp.gif">
