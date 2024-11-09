@@ -11,6 +11,19 @@ mermaid: true
 {% endhighlight %}
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
+
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+  
 # Currently Compiling 
 ```liquid
 
@@ -18,6 +31,12 @@ mermaid: true
   These shoes are awesome!
 {% endif %}
 ```
+
+{% for product in collection.products %}
+  {{ product.title }}
+{% endfor %}
+
+
 # LiQUiD
 Hi @BlackGirlscode! Normani the @jekyll calls Liquid a `templating language to process templates` not a `Programming LAnguage`. I dont know why yet. I dont know how much Patrick knew at that time. Programmers class them selves many ways. Some people Like me are [BatchJob](https://www.geeksforgeeks.org/basics-of-batch-scripting/) people that where brainwashed that we are not programmers. I read a little of that article, im not that, im some sort of Systems Programmer. But dont look down on Mashonga from DFCS ppl like her often know #FlowControl and #Logic at a level where they can program anything bc they understand iterations, cycles and other programming thought cycles that came from the old public school system. [related](https://x.com/RicoThaka/status/1855338500410974448)
 

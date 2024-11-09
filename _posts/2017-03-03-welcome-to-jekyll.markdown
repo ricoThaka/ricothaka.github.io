@@ -3,7 +3,27 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2017-03-03 22:51:06 -0800
 categories: jekyll update
+published: true
+
 ---
+
+
+
+# For Loops + JeKyllDoc Links
+
+{%raw %}
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+{% endraw %}
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
