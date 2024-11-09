@@ -32,18 +32,31 @@ img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
   {% endfor %}
 
 # Currently Compiling 
-```liquid
 
+# FlowControl+Decisions @blackgirlscode nior 
+{% raw %}
 {% if product.title == "Awesome Shoes" %}
   These shoes are awesome!
 {% endif %}
-```
+
 
 {% for product in collection.products %}
   {{ product.title }}
 {% endfor %}
+ 
+{% endraw %}
+# Alfred HitchcocK:Nightmare in 4-D
+>Episode aired Jan 13, 1957 [imdb](https://www.imdb.com/title/tt0508214/)
+[Alfred Hitchcock Presents - Nightmare in 4-D](https://the.hitchcock.zone/wiki/Alfred_Hitchcock_Presents_-_Nightmare_in_4-D)
 
-
+<video controls preload="none"   width="100%" height="auto" poster="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmF3MjF1bXB5ejQzcjV2NjE2MWJoZDAxYXpuZTZjeW54cDV2cjF4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rFldnGWJgGCbK/giphy.webp">
+    
+<source src="https://archive.org/download/alfred-hitchcock-presents-season-2/ahp-216.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/alfred-hitchcock-presents-season-2/ahp-216.mp4">MP4</a>
+        video.
+</video> 
 # LiQUiD
 Hi @BlackGirlscode! Normani the @jekyll calls Liquid a `templating language to process templates` not a `Programming LAnguage`. I dont know why yet. I dont know how much Patrick knew at that time. Programmers class them selves many ways. Some people Like me are [BatchJob](https://www.geeksforgeeks.org/basics-of-batch-scripting/) people that where brainwashed that we are not programmers. I read a little of that article, im not that, im some sort of Systems Programmer. But dont look down on Mashonga from DFCS ppl like her often know #FlowControl and #Logic at a level where they can program anything bc they understand iterations, cycles and other programming thought cycles that came from the old public school system. [related](https://x.com/RicoThaka/status/1855338500410974448)
 
