@@ -15,7 +15,7 @@ mermaid: true
 img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
 img[src*="https://badge.fury.io"] {width: 100%;}
 img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
-{% highlight ruby %}
+{% endhighlight %}
 
 
 
