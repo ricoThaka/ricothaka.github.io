@@ -11,6 +11,8 @@ mermaid: true
 {% endhighlight %}
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2tqoJQbv6dNNOi0PCCjuse?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> @blackgirlscode :: [Normani iLOVEu](ricothaka.github.io/normani)
+
 # Sol 4359: Mars Hand Lens Imager [MAHLI](https://www.msss.com/science-images/mahli-acquires-test-image-en-route-to-mars.php)
 ## sunday Nov 10th[Latest From MSL](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl)
 NASA's Mars rover Curiosity acquired this image using its Mars Hand Lens Imager (MAHLI), located on the turret at the end of the rover's robotic arm, on November 10, 2024, Sol 4359 of the Mars Science Laboratory Mission, at 04:14:53 UTC.
