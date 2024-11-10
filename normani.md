@@ -5,6 +5,14 @@ mermaid: true
 permalink: /normani 
 ---
 
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/25tSC2vwRwcoIm49RWfZGD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/0NHkPGVWlemuhuggKKivXZ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/7EKHulqBejrbByZ1E36FDC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 [Hell Q Crater](https://www.lroc.asu.edu/images/1003)
 Recent impact craters are some of the most spectacular landforms on the Moon [![Twitter Follow](https://img.shields.io/badge/Social-NASAMoon__-blue?style=social&logo=X)](https://twitter.com/NASAMoon) ! For example, Hell Q (3.4 kilometers in diameter, 33.0° S, 355.5° E) shows off pristine impact melt that lined the crater walls and pooled in the bottom, now solidified into rock.Ejecta was thrown out several crater radii, and dark impact-melt streamers that formed late in the impact process crossed over the early emplaced ejecta; NAC M1221369684LR [[![Twitter Follow](https://img.shields.io/badge/Social-NASA__-blue?style=social&logo=X)](https://twitter.com/NASA) NASA/ [![Twitter Follow](https://img.shields.io/badge/Social-NASAGoddard__-blue?style=social&logo=X)](https://twitter.com/NASAGoddard) GSFC/[![Twitter Follow](https://img.shields.io/badge/Social-uarizona__-blue?style=social&logo=X)](https://twitter.com/uarizona)[Arizona State University](https://marsoweb.nas.nasa.gov/hirise/)].
 [<img src="https://www.lroc.asu.edu/ckeditor_assets/pictures/659/content_m1221369684_lrmos_warp_1100p.png" alt="File:Visual Studio Code 1.35 icon.svg" />](https://www.lroc.asu.edu/ckeditor_assets/pictures/659/content_m1221369684_lrmos_warp_1100p.png)
