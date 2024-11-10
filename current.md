@@ -13,19 +13,19 @@ mermaid: true
 
 
 # Currently Compiling 
+# Captain America 1944 @blackgirlscode (((#Noir )))
 ## [Captain America (serial)](https://en.wikipedia.org/wiki/Captain_America_(serial))
 Captain America is a 1944 [Republic](https://www.avid.wiki/Republic_Pictures_(1935-1967)) black-and-white 15-chapter [serial film](https://tvtropes.org/pmwiki/pmwiki.php/Main/FilmSerial) loosely based on the [Timely Comics](https://rittikrai0122.wordpress.com/1-timely-publications/) (now [Marvel](https://timely-atlas-comics.blogspot.com/) Comics) character [Captain America](https://marvelsilverage.blogspot.com/2015/11/captain-america-man-out-of-time.html). 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Captain-america_serial_poster.jpg" alt=""](https://upload.wikimedia.org/wikipedia/commons/e/e2/Captain-america_serial_poster.jpg)
-# The IT Crowd:The Work Outing
->Episode aired Aug 24, 2007 [TV-14](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 24m [imdb](https://www.imdb.com/title/tt0849997/)
-[IT crowd Season 2 episode 1 "The Work Outing" is the funniest piece of television ever written. /r/television `Minecraftfinn`](https://www.reddit.com/r/television/comments/ieodna/it_crowd_season_2_episode_1_the_work_outing_is/?rdt=60956)
-
-<video controls preload="none"   width="100%" height="auto" poster="https://i.imgur.com/jO0p7Xp.gif">
+>1944 [TV-14](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 24m [imdb](https://www.imdb.com/title/tt0036697/)
+### [Captain America : - DailyMotion](https://www.dailymotion.com/video/x7c0txl)
+[Full Story - Archive.org Captain America 1944](https://archive.org/details/CaptainAmerica1944Serial1) 
+<video controls preload="none"   width="100%" height="auto" poster="https://i.ebayimg.com/images/g/djAAAOSw33Feesde/s-l1200.jpg">
     
-<source src="https://archive.org/download/alfred-hitchcock-presents-season-2/ahp-216.mp4 https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%202%20S02%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S02E01%20-%20The%20Work%20Outing%20%28576p%20x265%20Panda%29.mp4" type="video/mp4" />
+<source src="https://archive.org/download/CaptainAmerica1944Serial1/Captain%20America_%201944%20Serial%20-%20%233.mp4" type="video/mp4" />
          Download the
         or
-<a href="https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%202%20S02%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S02E01%20-%20The%20Work%20Outing%20%28576p%20x265%20Panda%29.mp4">MP4</a>
+<a href="https://archive.org/download/CaptainAmerica1944Serial1/Captain%20America_%201944%20Serial%20-%20%233.mp4">MP4</a>
         video.
 </video> 
 
