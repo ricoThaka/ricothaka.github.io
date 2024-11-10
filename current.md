@@ -16,7 +16,7 @@ mermaid: true
 # Captain America 1944 @blackgirlscode (((#Noir )))
 ## [Captain America (serial)](https://en.wikipedia.org/wiki/Captain_America_(serial))
 Captain America is a 1944 [Republic](https://www.avid.wiki/Republic_Pictures_(1935-1967)) black-and-white 15-chapter [serial film](https://tvtropes.org/pmwiki/pmwiki.php/Main/FilmSerial) loosely based on the [Timely Comics](https://rittikrai0122.wordpress.com/1-timely-publications/) (now [Marvel](https://timely-atlas-comics.blogspot.com/) Comics) character [Captain America](https://marvelsilverage.blogspot.com/2015/11/captain-america-man-out-of-time.html). 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Captain-america_serial_poster.jpg" alt=""](https://upload.wikimedia.org/wikipedia/commons/e/e2/Captain-america_serial_poster.jpg)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Captain-america_serial_poster.jpg" alt="" />](https://upload.wikimedia.org/wikipedia/commons/e/e2/Captain-america_serial_poster.jpg)
 >1944 [TV-14](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 24m [imdb](https://www.imdb.com/title/tt0036697/)
 ### [Captain America : - DailyMotion](https://www.dailymotion.com/video/x7c0txl)
 [Full Story - Archive.org Captain America 1944](https://archive.org/details/CaptainAmerica1944Serial1) 
