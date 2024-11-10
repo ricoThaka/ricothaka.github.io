@@ -4,15 +4,18 @@ mermaid: true
 ---
 
 {% highlight ruby %} 
-1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady####
-2 # TO####NEW_POSTS /rashardmro /compiling#/civic03######
+1 # HOLE_TO_ANOTHER_UNiVERSE##########Normani=NoiR####
+2 # TO##r*.g*.io/rashardlearned#/rashardmro#/compiling#/normani###
 3 # ANOTHER##########https://s.id/1kmbG################## 
-4 # UNiVERSE###__̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.__#Hi####CORaL##
+4 # UNiVERSE###┬─┬⃰͡ (ᵔᵕᵔ͜ )(∩｀-´)⊃━☆ﾟ.*･｡ﾟ#Hi####CORaL##
 {% endhighlight %}
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
+<iframe loading="lazy" style="border-radius:12px" src="https://open.spotify.com/embed/track/0JnsAU6ODCbreYcjqidUNt?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1370708743&color=%230abf04&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/mobb-deep-temperatures-rising-original-version-12" title="Mobb Deep - Temperature&#x27;s Rising (Original Version 12&quot;)" target="_blank" style="color: #cccccc; text-decoration: none;">Mobb Deep - Temperature&#x27;s Rising (Original Version 12&quot;)</a></div>
 
 # Currently Compiling 
+[Run And Gun (Ver EAA 1993 10.8)](https://www.retrogames.cc/arcade-games/run-and-gun-ver-eaa-1993-10-8.html)
 # Captain America 1944 @blackgirlscode (((#Noir )))
 ## [Captain America (serial)](https://en.wikipedia.org/wiki/Captain_America_(serial))
 Captain America is a 1944 [Republic](https://www.avid.wiki/Republic_Pictures_(1935-1967)) black-and-white 15-chapter [serial film](https://tvtropes.org/pmwiki/pmwiki.php/Main/FilmSerial) loosely based on the [Timely Comics](https://rittikrai0122.wordpress.com/1-timely-publications/) (now [Marvel](https://timely-atlas-comics.blogspot.com/) Comics) character [Captain America](https://marvelsilverage.blogspot.com/2015/11/captain-america-man-out-of-time.html). 
