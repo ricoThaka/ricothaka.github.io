@@ -36,7 +36,13 @@ carousels:
 ---
 
 
-
+{% highlight ruby %} 
+1 # HOLE_TO_ANOTHER_UNiVERSE##########Normani=NoiR####
+2 # TO##r*.g*.io/rashardlearned#/rashardmro#/compiling#/normani###
+3 # ANOTHER##########https://s.id/1kmbG################## 
+4 # UNiVERSE###┬─┬⃰͡ (ᵔᵕᵔ͜ )(∩｀-´)⊃━☆ﾟ.*･｡ﾟ#Hi####CORaL##
+{% endhighlight %}
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
 {% include_relative current.md %}
 

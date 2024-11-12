@@ -3,13 +3,28 @@ layout: default
 mermaid: true
 ---
 
-{% highlight ruby %} 
-1 # HOLE_TO_ANOTHER_UNiVERSE##########Normani=NoiR####
-2 # TO##r*.g*.io/rashardlearned#/rashardmro#/compiling#/normani###
-3 # ANOTHER##########https://s.id/1kmbG################## 
-4 # UNiVERSE###┬─┬⃰͡ (ᵔᵕᵔ͜ )(∩｀-´)⊃━☆ﾟ.*･｡ﾟ#Hi####CORaL##
-{% endhighlight %}
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+[Chloe](https://x.com/RicoThaka/status/1856427686421233728) @blackgirlscode
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/57eOzR6RxyfJLC3ggBQfRI?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# For Loops 
+it works well on my [WorkBloggingTemplate](https://ricothaka.github.io/rashardlearned/),,, [MoreLAter](https://ricothaka.github.io/rashardlearned/)
+
+{%raw %}
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+{% endraw %}
+
+>You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2tqoJQbv6dNNOi0PCCjuse?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> @blackgirlscode :: [Normani iLOVEu](ricothaka.github.io/normani)
 
