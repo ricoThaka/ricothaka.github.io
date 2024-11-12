@@ -1,4 +1,17 @@
 
+
+
+# DEZ, SKEME & THE BIRTH OF DJ KAY SLAY
+>It was 1979. Bronx River, The Renaissance, and the T-Connection were just a few of the places to be if you wanted to party. But that summer, I caught a bad, bad bug. Some called it "Graffiti," but we just called it "Writing." [READMoRE - RockTheBells](https://rockthebells.com/articles/kay-slay-dez-graffiti-history/)
+
+its the way you guys say that, its so annoying, that awardshow slangy slide ,,, thanks tho, them white boys got out of line. Im still black . . . rashard/thaka
+[<img src="https://images.prismic.io/rockthebells/2ed11d64-0f9f-49e0-a57f-002ab3e075a0_0.jpeg?auto=compress,format&rect=0,135,1192,497&w=1920&h=800" />](https://images.prismic.io/rockthebells/2ed11d64-0f9f-49e0-a57f-002ab3e075a0_0.jpeg?auto=compress,format&rect=0,135,1192,497&w=1920&h=800)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6TLP7jZVcU4gKYU9WIY1jt?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+[<img src="https://images.prismic.io/rockthebells/9240370c-e5a6-4cf2-b7e6-6c21cd8530b3_0-1.jpeg?auto=compress,format" />](https://images.prismic.io/rockthebells/9240370c-e5a6-4cf2-b7e6-6c21cd8530b3_0-1.jpeg?auto=compress,format)
+
 # Steel Wheels
 Steel Wheels Inc. is a preservation society that documents, preserves and celebrates all aspects of railroad inspired art. While the primary focus is the rich heritage of graffiti on trains in North America, in recent years our scope has expanded to include; model trains, railroad photography, canvas art, and more. Follow us on social media for all of our most current rail antics. [ReadMorE - SteelWheels/about](https://steelwheelsonline.com/)
 
