@@ -1,4 +1,4 @@
-
+[back](./)
 ## [HiView Image Viewer - Software](https://pirlwww.lpl.arizona.edu/software/HiView/download.php)
 
 ### WHAT HiView DOES
@@ -268,3 +268,5 @@ Instruments on the PACE (short for Plankton, Aerosol, Cloud, and ocean Ecosystem
 [webrename](https://www.webrename.com/) <~ Bulk file renamer takes regex. I got stuck on [ricothaka.github.io/worknotes02](ricothaka.github.io/worknotes02) bc the scanner at LaPL central spits out horrible filenames. I found great images from Mariner for Robins Weather Chores. Its old but as time rolls on im understanding the fact that historical weather data can help you uinderstand the present
 
 ![iloveugirl](https://pbs.twimg.com/media/GWkkdr6bwAA0hC1?format=jpg&name=large)
+
+[back](./)

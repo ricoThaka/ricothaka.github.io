@@ -6,6 +6,9 @@ permalink: /normani
 ---
 
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1j2EhMoMkbiuC9LkrLG1gX?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+[back](./)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/25tSC2vwRwcoIm49RWfZGD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

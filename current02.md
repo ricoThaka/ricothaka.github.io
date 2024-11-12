@@ -2,6 +2,7 @@
 layout: normani
 title: Normani
 ---
+[back](./)
 [Boosie Badazz Ft. Webbie "On That Level"](https://www.youtube.com/watch?v=rO9UURX-jBc) [How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/)
 
 ![kk](https://forums.launchbox-app.com/uploads/monthly_2020_06/2020bb.png.b9783353701fd89075c984edddea5460.png)
@@ -249,6 +250,6 @@ Kanye West was their friend at some level, but i really want you guyus to observ
 ![N00137577](https://solarsystem.nasa.gov/images/casJPGBrowseS50/N00137577.jpg)
 ![Saturn](https://pbs.twimg.com/media/GVJI7ICbMAA4Q9c?format=jpg&name=small)
 
-
+[back](./)
 ![DatPiFF](https://www.datpiff.com/assets/images/datpiff-logo-white.png)
 [JAY ELECTRONICACURRENCYMOS DEF - Jay Electronica (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md4ebe25) [Jay Electronica - Unreleased (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m8fca3ca) [Jay Electronica Discography ?](https://www.reddit.com/r/hiphop101/comments/1vbiju/jay_electronica_discography/?rdt=41981&onetap_auto=true&one_tap=true) [Act II: The Patents Of Nobility (The Turn)](https://archive.org/details/jay-electronica-act-II-the-patents-of-nobility-the-turn ) [Jay Electronica - Act 1 The Eternal Sunshine the (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md1d01fd) [DATPIFF Hip-Hop Mixtape Archives](https://archive.org/details/datpiffarchives) [Keep On Rockin It (feat. Charizma) - PeanutButterWolf My Vinyl Weighs a ton](https://youtu.be/klNiPcJMSvs?si=oKmDj7ekJrhweyyY) [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7) [J A Y E L E C T R O N I C A - Letter to Falon](https://youtu.be/VtM62E7KZ6o?si=kfvh-38GJb2uc4sj)
