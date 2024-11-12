@@ -5356,6 +5356,13 @@ img[alt^="L"] {
   
   }
 
+  img[alt*="https://twitter.com/@poesiatranscend"] {
+    width: 100%;
+       
+    }
+
+  
+
 img[alt*="USGS"] {
   width: 100%;
   border-bottom:solid 10px #c9ff23;
