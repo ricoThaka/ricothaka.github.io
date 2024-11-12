@@ -3,7 +3,20 @@ layout: default
 mermaid: true
 ---
 
+[I_DREAM_OF_JEANNiE S1Ep16+17 'Get Me to Mecca on Time'. + 'Richest Astronaut In The World'](https://youtu.be/PE7-prLwEXk?si=etTonN_SbpdEmYmf)
 
+
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
 # Poesia Transcend:[photo : A_Syn](https://www.flickr.com/photos/24293932@N00/)
 [<img src="https://live.staticflickr.com/3330/3649452868_0fc640f20a_k.jpg" alt="Poesia Transcend" />](https://live.staticflickr.com/3330/3649452868_0fc640f20a_k.jpg)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4FhnuKdVt2oQbeGl3uDgok?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -108,17 +121,7 @@ img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
 
 
 
-  {% for post in site.posts %}
-    
-<article class="paginator">
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
 
-  {% endfor %}
 
 
 
