@@ -3,6 +3,9 @@ layout: default
 mermaid: true
 ---
 
+
+
+![g](https://pbs.twimg.com/media/GcNho1BasAEoyMy?format=jpg&name=large)
 [Chloe](https://x.com/RicoThaka/status/1856427686421233728) @blackgirlscode
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/57eOzR6RxyfJLC3ggBQfRI?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
