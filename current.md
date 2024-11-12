@@ -15,8 +15,6 @@ mermaid: true
 
 [FACEBOOK/poesiatranscend](https://www.facebook.com/poesiatranscend) [POESiA_TRANSCEND](http://poesiatranscend.com/) [iG - POESiA](https://www.instagram.com/poesiatranscend/?hl=en) [FLicKr - PoeSiA](https://www.flickr.com/photos/poesiaxl/)
 
-[![Twitter Follow](https://img.shields.io/badge/Social-@poesiatranscend __-blue?style=social&logo=X)](https://twitter.com/@poesiatranscend) 
-
 @blackgirlscode #Noir[Normani](ricothaka.github.io/normani) - When I was hanging out in Downtown Savannah with that white guy with the slickback, it was Ron Decosta an he was writing Zelot. He told me abt all his [Frieght FRiends](https://steelwheelsonline.com/about.html) They were in Denver I think in his leg of the story. I dont think they [Steel Wheels](https://steelwheelsonline.com/about.html) NETWORK but idk, his @spotify podcast episode on [My Life In Letters](https://www.mylifeinletters.com/) suggest that Transcend still doing shows and making art. I wont embarass you, but just understand he had a girlfriend like u, a dancer or something named bria and got in a scary alley fight. I talked to him the next day and he was still raging! But it was like testoterone and it effected and i got more masculine in some way, makes me understand that some of the bullying comes from guys not having enough interaction to know thats not healthy testoterone! Like he did not wanna fight, but something happened the dude was fronting on him or something abt contact with his girl... anyway he had super dope wood floors and taught me [A]lphonse Mucha is a Legit Artist](https://www.wikiart.org/en/alphonse-mucha), but i see that as some [billie dee shit](https://www.youtube.com/watch?v=01wJmsqjY7I&themeRefresh=1) in this era 
 
 
