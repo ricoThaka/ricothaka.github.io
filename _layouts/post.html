@@ -12,18 +12,16 @@ layout: default
   <div class="featured-image">
     <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
   </div>
+  <p class="view">by {{ page.author | default: site.author }}</p>
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
   <small>{{ page.date | date: "%-d %B %Y" }}</small>
 {% endif %}
 <article>
   {{ content }}
 </article>
 
-<p class="view">by {{ page.author | default: site.author }}</p>
 
-{{content}}
-
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
 
 
