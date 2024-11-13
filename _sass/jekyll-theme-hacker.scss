@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark";
@@ -25,7 +25,7 @@ $container-max-width: 1000px;
 
 
 html {
-  font-family: Arial, sans-serif, "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-family: "Ubuntu", Arial, sans-serif, "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
   font-size: 1rem;
  /* font: normal 14px/18px Arial, "Helvetica Neue", Helvetica, sans-serif; */
   /* font: normal 12px/18px "Comfortaa", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif; */
@@ -149,12 +149,6 @@ text-shadow:
 
 }
 
-
-.paginator {
-
-  width: 100vw;
-
-}
 
 .featured-post {
   height: 400px;
