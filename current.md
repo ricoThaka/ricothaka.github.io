@@ -3,7 +3,7 @@ layout: default
 mermaid: true
 ---
 
-{% include dsn.html %}
+{% include dsn.html %} 
 
 ### [Macross Plus (マクロスプラス Makurosu Purasu) : - DailyMotion](https://www.dailymotion.com/video/x8lh1wo)
 [Macross](https://www.youtube.com/watch?v=go6OhS43x30) Plus (マクロスプラス Makurosu Purasu) is a four episode OVA created by Studio Nue and Triangle Staff and released by Big West and Bandai Visual between August 25, 1994 and June 25, 1995.
