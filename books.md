@@ -1,5 +1,5 @@
 ---
-layout: layouttest
+layout: post
 title: Books @nasa-jpl @nasa if this looks like noodle incident then it worked
 ---
 

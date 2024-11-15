@@ -117,7 +117,7 @@ by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retro
 
 ## Puzzle Bobble 4 (Ver 2.04O 1997/12/19)
 
-<iframe loading="lazy"  loading="lazy"  src="https://archive.org/embed/arcade_pbobble4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://archive.org/embed/arcade_pbobble4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [How Long (Betcha' Got A Chick On The Side) - The Pointer Sisters](https://www.youtube.com/watch?v=Ad4HPYFzJNU) [Yes We Can Can · The Pointer Sisters](https://www.youtube.com/watch?v=DXRjBVXanzc) [Smokey Robinson - Just My Soul Responding](https://www.youtube.com/watch?v=ikYqdYSYJ3c) [The Untold Truth Of The Pointer Sisters](https://www.youtube.com/watch?v=-BsSCHMOa28) [The Pointer Sisters - TV Special - UP ALL NIGHT - 1987](https://www.youtube.com/watch?v=BFuN_Wg45qg) [The Pointer Sisters - Live in Paris (1985)](https://www.youtube.com/watch?v=vqTMdZOwFlc)
  [In My House · Mary Jane Girls](https://youtu.be/FVSZ527FOTM?t=12) [Michael Jackson, Janet Jackson - Scream (Official Video)](https://youtu.be/0P4A1K4lXDo?t=11) 
