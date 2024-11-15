@@ -8,7 +8,7 @@ mermaid: true
 [Macross](https://www.youtube.com/watch?v=go6OhS43x30) Plus (マクロスプラス Makurosu Purasu) is a four episode OVA created by Studio Nue and Triangle Staff and released by Big West and Bandai Visual between August 25, 1994 and June 25, 1995.
 [Full Story - Archive.org Macross plus parts 1-4](https://archive.org/details/8d-5c-78e-2d-17363a-04cd-004995594c-358-480p) [wiki](https://en.wikipedia.org/wiki/Macross_Plus) [FandoM](https://macross.fandom.com/wiki/Macross_Plus) [game](https://www.retrogames.cc/arcade-games/super-spacefortress-macross-chou-jikuu-yousai-macross.html) [Cyberbots - fullmetal madness (950420 Japan)](https://www.retrogames.cc/arcade-games/cyberbots-fullmetal-madness-950420-japan.html)
 
-<video controls preload="none"   width="100%" height="auto" poster="MWVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K3Zmwbs1LpLOCg8/giphy.webp">
+<video controls preload="none"   width="100%" height="auto" poster="https://pinnedupink.com/cdn/shop/articles/macross-plus-ova-review-279385.jpg?v=1659653458">
     
 <source src="https://ia801901.us.archive.org/32/items/8d-5c-78e-2d-17363a-04cd-004995594c-358-480p/16f779ec5986d5955ae06d125fc2c664-480p.mp4" type="video/mp4" />
          Download the
