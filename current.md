@@ -3,6 +3,9 @@ layout: default
 mermaid: true
 ---
 
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" />
 
 # Library Scare [RelatedTweet](https://x.com/thakasartu/status/1857546216739057809)
 [<img src="https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large" alt="You are not allowed at this location @nasa-jpl @deptofdefense @blackgirlscode thats what it said when i loggedin" />](https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large)
