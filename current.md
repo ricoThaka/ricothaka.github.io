@@ -6,7 +6,7 @@ mermaid: true
 
 ### [Macross Plus (マクロスプラス Makurosu Purasu) : - DailyMotion](https://www.dailymotion.com/video/x8lh1wo)
 [Macross](https://www.youtube.com/watch?v=go6OhS43x30) Plus (マクロスプラス Makurosu Purasu) is a four episode OVA created by Studio Nue and Triangle Staff and released by Big West and Bandai Visual between August 25, 1994 and June 25, 1995.
-[Full Story - Archive.org Macross plus parts 1-4](https://archive.org/details/8d-5c-78e-2d-17363a-04cd-004995594c-358-480p) [wiki](https://en.wikipedia.org/wiki/Macross_Plus) [FandoM](https://macross.fandom.com/wiki/Macross_Plus)
+[Full Story - Archive.org Macross plus parts 1-4](https://archive.org/details/8d-5c-78e-2d-17363a-04cd-004995594c-358-480p) [wiki](https://en.wikipedia.org/wiki/Macross_Plus) [FandoM](https://macross.fandom.com/wiki/Macross_Plus) [game](https://www.retrogames.cc/arcade-games/super-spacefortress-macross-chou-jikuu-yousai-macross.html) [Cyberbots - fullmetal madness (950420 Japan)](https://www.retrogames.cc/arcade-games/cyberbots-fullmetal-madness-950420-japan.html)
 
 <video controls preload="none"   width="100%" height="auto" poster="MWVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K3Zmwbs1LpLOCg8/giphy.webp">
     
@@ -16,6 +16,8 @@ mermaid: true
 <a href="https://ia801901.us.archive.org/32/items/8d-5c-78e-2d-17363a-04cd-004995594c-358-480p/16f779ec5986d5955ae06d125fc2c664-480p.mp4">MP4</a>
         video.
 </video> 
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1573822360&color=%23b5e853&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bia" title="BIA" target="_blank" style="color: #cccccc; text-decoration: none;">BIA</a> · <a href="https://soundcloud.com/bia/bia-fallback" title="FALLBACK" target="_blank" style="color: #cccccc; text-decoration: none;">FALLBACK</a></div>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1349165284&color=%23b5e853&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lilmss-keyahh" title="Lakeyah" target="_blank" style="color: #cccccc; text-decoration: none;">Lakeyah</a> · <a href="https://soundcloud.com/lilmss-keyahh/lakeyah-maneuver-feat-flo" title="Maneuver (feat. Flo Milli)" target="_blank" style="color: #cccccc; text-decoration: none;">Maneuver (feat. Flo Milli)</a></div>
 
