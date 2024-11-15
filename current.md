@@ -3,7 +3,12 @@ layout: default
 mermaid: true
 ---
 
-{% include dsn.html %} 
+
+# The Global CTX Mosaic of Mars
+[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+{% include marsglobe.html %} 
+{% include dsn.md %} 
+
 
 ### [Macross Plus (マクロスプラス Makurosu Purasu) : - DailyMotion](https://www.dailymotion.com/video/x8lh1wo)
 [Macross](https://www.youtube.com/watch?v=go6OhS43x30) Plus (マクロスプラス Makurosu Purasu) is a four episode OVA created by Studio Nue and Triangle Staff and released by Big West and Bandai Visual between August 25, 1994 and June 25, 1995.
