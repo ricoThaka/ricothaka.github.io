@@ -2,6 +2,15 @@
 layout: default
 mermaid: true
 ---
+
+
+## super Puzzle Fighter II Turbo
+There are a lot of folklore and stories about graffiti writers. The guy that introduced me to WestCoast fatca[p]Tags loved [SuperPuzzleFighter](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo). I had it on dreamcast. I never played it a ttheArcade  [Super Puzzle Fighter II X! I missed this game, and didn’t know Saturn version had extras! reddit](https://www.reddit.com/r/SegaSaturn/comments/131dnzi/super_puzzle_fighter_ii_x_i_missed_this_game_and/?rdt=38318) [Rack up chain reactions and use counter gems to put the pressure on your opponent! Super Puzzle Fighter II Turbo brings you the same heated match-ups you love from Capcom fighting games, but with puzzles!](https://www.capcom-games.com/cfc/en-us/title/spf2x.html)
+<iframe src="https://archive.org/embed/arcade_spf2t" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+
+# Ginuwine - I'll Do Anything / I'm Sorry (Official HD Video)
+<iframe width="896" height="400" src="https://www.youtube.com/embed/mN_QLo7kByk" title="Ginuwine - I&#39;ll Do Anything / I&#39;m Sorry (Official HD Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Super Street Fighter II - The New Challengers (USA) SNES](https://www.retrogames.cc/snes-games/super-street-fighter-ii-the-new-challengers-usa.html)
 ![Jekyllrb](https://global.discourse-cdn.com/flex030/uploads/jekyllrb/original/2X/6/6071cc4b982fd393d892490ed7a702738c595099.png)
 # DJ Total Eclipse- Confrontation (1999)
