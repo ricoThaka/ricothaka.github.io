@@ -5,6 +5,7 @@ mermaid: true
 
 # Superman 1948 Serial [FullStory](https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/)
 ## Superman Comes To Earth.mp4	
+Superman is a 1948 15-part Columbia Pictures film serial based on the comic book character Superman. It stars an uncredited Kirk Alyn (billed on-screen only by his character's name, Superman; but credited as Kirk Alyn on the promotional posters) and Noel Neill as Lois Lane. Like Batman (1943), it is notable as the first live-action appearance of Superman on film, and for the longevity of its distribution.[Wiki](https://en.wikipedia.org/wiki/Superman_(serial))
 [imdb](https://www.imdb.com/title/tt0040852/)
 <video controls preload="none"   width="100%" height="auto" poster="https://upload.wikimedia.org/wikipedia/en/8/81/Superman_serial.jpg">
     
