@@ -2,7 +2,7 @@
 layout: default
 mermaid: true
 ---
-
+[Super Street Fighter II - The New Challengers (USA) SNES](https://www.retrogames.cc/snes-games/super-street-fighter-ii-the-new-challengers-usa.html)
 ![Jekyllrb](https://global.discourse-cdn.com/flex030/uploads/jekyllrb/original/2X/6/6071cc4b982fd393d892490ed7a702738c595099.png)
 # DJ Total Eclipse- Confrontation (1999)
 # ʕ •́؈•̀)
@@ -28,7 +28,7 @@ mermaid: true
 >Deep Space Network, Deep Space Station 56 (DSS-56), a 112-foot-wide antenna at [Madrid Deep Space Communications Complex](https://www.mdscc.nasa.gov/index.php/en/start/) in Madrid, Spain. Image Credit: [NASA](https://plus.nasa.gov/series/)
 
 
-# Library Scare [RelatedTweet](https://x.com/thakasartu/status/1857546216739057809)
+# Library Scare [RelatedTweet](https://x.com/thakasartu/status/1857546216739057809) alt="You are not allowed at this location @nasa-jpl @deptofdefense @blackgirlscode thats what it said when i loggedin"
 [<img src="https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large" alt="You are not allowed at this location @nasa-jpl @deptofdefense @blackgirlscode thats what it said when i loggedin" />](https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large)
 ![mariner](https://pbs.twimg.com/media/GZtlCP8aAAEMA_-?format=jpg&name=large)
 [COMPUTiNG:Highlighting liquid code in Jekyll = nithinbekal.com](https://nithinbekal.com/posts/jekyll-liquid-highlight/)
