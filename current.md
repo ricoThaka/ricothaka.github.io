@@ -3,6 +3,16 @@ layout: default
 mermaid: true
 ---
 
+# Superman 1948 Serial [FullStory](https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/)
+## Superman Comes To Earth.mp4	
+<video controls preload="none"   width="100%" height="auto" poster="https://pinnedupink.com/cdn/shop/articles/macross-plus-ova-review-279385.jpg?v=1659653458">
+    
+<source src="https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/01.%20Superman%20Comes%20To%20Earth.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/01.%20Superman%20Comes%20To%20Earth.mp4">MP4</a>
+        video.
+</video> 
 
 ## super Puzzle Fighter II Turbo
 There are a lot of folklore and stories about graffiti writers. The guy that introduced me to WestCoast fatca[p]Tags loved [SuperPuzzleFighter](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo). I had it on dreamcast. I never played it a ttheArcade  [Super Puzzle Fighter II X! I missed this game, and didn’t know Saturn version had extras! reddit](https://www.reddit.com/r/SegaSaturn/comments/131dnzi/super_puzzle_fighter_ii_x_i_missed_this_game_and/?rdt=38318) [Rack up chain reactions and use counter gems to put the pressure on your opponent! Super Puzzle Fighter II Turbo brings you the same heated match-ups you love from Capcom fighting games, but with puzzles!](https://www.capcom-games.com/cfc/en-us/title/spf2x.html)
