@@ -3,9 +3,24 @@ layout: default
 mermaid: true
 ---
 
+![Jekyllrb](https://global.discourse-cdn.com/flex030/uploads/jekyllrb/original/2X/6/6071cc4b982fd393d892490ed7a702738c595099.png)
+# DJ Total Eclipse- Confrontation (1999)
+# ʕ •́؈•̀)
+<iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216097638&color=%2300ff6c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandan-e-aka-dj-e-feezy" title="Brandan E. aka DJ E-Feezy" target="_blank" style="color: #cccccc; text-decoration: none;">Brandan E. aka DJ E-Feezy</a> · <a href="https://soundcloud.com/brandan-e-aka-dj-e-feezy/dj-total-eclipse-confrontation-1999" title="DJ Total Eclipse- Confrontation (1999)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Total Eclipse- Confrontation (1999)</a></div>
+
+# Mars Relay Network 
+<object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
+
+# The Global CTX Mosaic of Mars
+[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
 <object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
     </object>
+
+# Deep Space Network Now @nasa-jpl
+![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
+
 <object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" />
+    </object>
 
 # Library Scare [RelatedTweet](https://x.com/thakasartu/status/1857546216739057809)
 [<img src="https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large" alt="You are not allowed at this location @nasa-jpl @deptofdefense @blackgirlscode thats what it said when i loggedin" />](https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large)
@@ -26,8 +41,7 @@ Im working on making Stackable includes like those [One Page Designs](https://de
 {% include marsorbit.html %} 
 {% include dsn.html %} 
 {%- endraw -%}
-# The Global CTX Mosaic of Mars
-[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+
 
 ![hi fam](https://pbs.twimg.com/media/GbznUOdbwAEJllK?format=jpg&name=large)
 
