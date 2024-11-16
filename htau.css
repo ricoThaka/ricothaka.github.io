@@ -532,23 +532,8 @@ h2 {
   word-break: break-all; 
   width: 100%;
 }
-/*
-#content {
 
-  border-radius:12px;
-  padding: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 20em;
-  margin-left: 20em;  
-  /* opera does not like 'margin:20px auto' astrxneeded/
-  border: 0px solid #ccc;
-  text-align:left; 
-  voice-family: "\"}\"";
-  voice-family:inherit;
-  
-  }
-*/
+
   
  img {  max-height: 100%;
   max-width: 100%;
@@ -561,14 +546,14 @@ img[alt^="L"] {
   
   }
 
-img[alt*="USGS"] {
-  width: 100%;
-  border-bottom:solid 10px #c9ff23;
-  
-  }
+
+img[src*="859740137800_cover.jpg"] {
+width: 40%;
+border:solid 5px #c9ff2350;
+
 img[src*="nasa.gov"] {
-width: 100%;
-border-bottom:solid 5px #c9ff23;
+  width: 100%;
+  border-bottom:solid 5px #c9ff23;
 
 }
 img[alt="kk"] {
