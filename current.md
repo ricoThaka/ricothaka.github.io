@@ -5,7 +5,8 @@ mermaid: true
 
 # Superman 1948 Serial [FullStory](https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/)
 ## Superman Comes To Earth.mp4	
-<video controls preload="none"   width="100%" height="auto" poster="https://pinnedupink.com/cdn/shop/articles/macross-plus-ova-review-279385.jpg?v=1659653458">
+[imdb](https://www.imdb.com/title/tt0040852/)
+<video controls preload="none"   width="100%" height="auto" poster="https://upload.wikimedia.org/wikipedia/en/8/81/Superman_serial.jpg">
     
 <source src="https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/01.%20Superman%20Comes%20To%20Earth.mp4" type="video/mp4" />
          Download the
