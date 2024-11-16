@@ -5,6 +5,12 @@ mermaid: true
 permalink: /normani 
 ---
 
+# Dear_Sartu
+
+[<img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/b8/08/66b808a1-eebf-347d-4ec5-d43d378a1b92/859740137800_cover.jpg/1200x1200bf-60.jpg" alt="Jagged Edge has finally delivered their 10th studio album, A Jagged Love Story" />](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/b8/08/66b808a1-eebf-347d-4ec5-d43d378a1b92/859740137800_cover.jpg/1200x1200bf-60.jpg)
+
+However you doing, I was reviewing Male RnB, if u wanna call it that. Im healing from all the impersonations. They were in my head like 8th graders impersonating according to their response. Its so messy! I mean whatever it means to take your clothes off for people, its not fair I would not imagine anyone purposely brining this much creepy guilt on their nieghbors at the very least! 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0bf1IKVWM1yv1rduV6gx0B?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1j2EhMoMkbiuC9LkrLG1gX?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

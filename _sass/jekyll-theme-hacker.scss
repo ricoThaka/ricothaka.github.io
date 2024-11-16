@@ -1,5 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark";
@@ -25,31 +24,15 @@ $container-max-width: 1000px;
 
 
 html {
-  font-family: "Ubuntu", Arial, sans-serif, "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
-  font-size: 1rem;
- /* font: normal 14px/18px Arial, "Helvetica Neue", Helvetica, sans-serif; */
-  /* font: normal 12px/18px "Comfortaa", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif; */
-   /* font: normal 15px/19px "VT323", "IBM Plex Sans", "Lucida Sans Unicode", verdana, lucida,
-    sans-serif; */
-    /* font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;  */
- /* background : #595959; 
-  background-image :
-    linear-gradient(#262626 1px, transparent 0),
-    linear-gradient(90deg, #262626 1px, transparent 0);
-  background-size: 30px 30px;
-     font-family: "VT323", monospace; */
-     --s: 150px; /* control the size*/
-     --c1: #0D0D0D;
-     --c2: #4e4f51;
-     --c3: #3c3c3c;
-     
-     background:
-       repeating-conic-gradient(from 30deg,#0000 0 120deg,var(--c3) 0 180deg) 
-        calc(.5*var(--s)) calc(.5*var(--s)*0.577),
-       repeating-conic-gradient(from 30deg,var(--c1) 0 60deg,var(--c2) 0 120deg,var(--c3) 0 180deg);
-     background-size: var(--s) calc(var(--s)*0.577);
-
-     background-attachment: fixed;
+  font: normal 15px/19px "VT323", "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
+  sans-serif;
+background : #0D0D0D;
+background-image :
+  linear-gradient(#262626 1px, transparent 0),
+  linear-gradient(90deg, #262626 1px, transparent 0);
+background-size: 30px 30px;
+  font-family: , monospace;
+  background-attachment: fixed;   
     height: 100vh;
     width: 100vw;
   }
@@ -188,10 +171,12 @@ body {
 
 }
 
+
+
 img[src*="6071cc4b982fd393d892490ed7a702738c595099"] {background: transparent
   url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
   center repeat; width: 100%;}
-
+  img[src*="859740137800_cover.jpg/1200x1200bf-60.jpg"] {width: 25%; border: 5px solid #003da550;}
 img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
 img[src*="https://badge.fury.io"] {width: 100%;}
 img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}

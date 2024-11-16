@@ -66,12 +66,13 @@ font: normal 10px/18px "Red Hat Mono","Lucida Grande", "Lucida Sans Unicode", ve
 
 body {
   
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
-
-  background-attachment: fixed;
+  background: url(https://science.nasa.gov/wp-content/uploads/2023/09/PIA14943-full.jpg) no-repeat center center fixed; 
+  line-height: 1.5;
+  -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+color:white;
   font-optical-sizing: auto;
 }
 /*
@@ -704,6 +705,12 @@ width: 55vw;
 
 #main {
 margin-top: 15px;
+background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/saturn.png ) no-repeat center center fixed; 
+line-height: 1.5;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
 
 #footer {
