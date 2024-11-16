@@ -5,6 +5,7 @@
   src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
 }
 
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -95,36 +96,6 @@ background-size: 70.4px 70.4px;
   height: 100vh;
   margin: auto;
 }
-#heading {
-  display: grid;
-  grid-template-rows: auto auto auto;
-  background-color: black;
-  color:white;
-  top: 0;
-  padding: 0px;
-  position:fixed;
-  width:100%;
-  width:50vw;
-  
-}
-
-
-/*
-#heading {
-
-  flex-wrap:nowrap;
-    width:50vw;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-   position:fixed;
-    display: grid;
-grid-template-rows: auto auto auto;
-    background-color: black;
-  color:white;
-  padding:5px;
-  position:fixed;
-
-} */
 
 .logo {
   float: left;
@@ -454,94 +425,11 @@ background-size: 80.4px 80.4px;
   border-radius:12px;
   background-color: #00db46; /* For browsers that do not support gradients */
   background-image: linear-gradient(to right, #e66250, #ff80cc);
-}@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
-@import "rouge-base16-dark";
-@font-face {
-  font-family: Cluster;
-  src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
-}
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-  display: block;
-}
-body {
-  line-height: 1;
-}
-ol, ul {
-  list-style: none;
-}
-blockquote, q {
-  quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-  content: '';
-  content: none;
-}
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-* {
-  box-sizing: border-box;
-}
-/* ~~~~~~~~~~~~~~~~~~~~~ h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 50px;
-  padding-left: 820px;
-} */
-
-html {
-font: normal 10px/18px "Red Hat Mono","Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
- font-size: 1rem;
-
 }
 
 
-body {
-  
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
 
-  background-attachment: fixed;
-  font-optical-sizing: auto;
-}
-/*
-body {
-  
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 70.4px 70.4px;
-   font-family: "VT323", monospace;
-  background-attachment: fixed;
-  
-}
-  */
+
 
 #wrapper
 {
@@ -564,138 +452,6 @@ background-size: 70.4px 70.4px;
 }
 
 
-/*
-#heading {
-
-  flex-wrap:nowrap;
-    width:50vw;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-   position:fixed;
-    display: grid;
-grid-template-rows: auto auto auto;
-    background-color: black;
-  color:white;
-  padding:5px;
-  position:fixed;
-
-} */
-
-.logo {
-  float: left;
-  background-color: black;
-  display: block;
-}
-
-ul {
-  padding: 0;
-  margin: 0;
-  color: white;
-}
-
-li {
-  display: inline;
-  position: relative;
-  color: white;
-}
-
-ul ul {
-  position: absolute;
-  display: none;
-}
-
-li:hover ul {
-  display: block;
-}
-
-.logo {
-  float: left;
-  background-color: black;
-  display: block;
-}
-
-ul {
-  padding: 0;
-  margin: 0;
-  color: white;
-}
-
-li {
-  display: inline;
-  position: relative;
-  color: white;
-}
-
-ul ul {
-  position: absolute;
-  display: none;
-}
-
-li:hover ul {
-  display: block;
-}
-
-#navcontainer {
-  display:block;
-  padding: 0;
-  top: 0;
-width: 55vw;
-  height: 20px;
-  display: flex;
-  background-color: black;
-  position: fixed;
-  color: white;
-  top: 0;
-}
-
-#navcontainer ul {
-  border: 0;
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  text-align: center;
-}
-
-#navcontainer ul li {
-  display: block;
-
-  float: right;
-  text-align: center;
-  padding: 0px;
-  margin: 0;
-}
-
-#navcontainer ul li a {
-  width: 100px;
-  height: max-content;
-  background: #262626;
-  border-left: 1px dashed #f5d7b4;
-  border-bottom: 1px solid #262626;
-  border-right: 1px solid #262626;
-  padding: 0;
-  margin: 0 0 0px 0;
-  color: #a6a6a6;
-  text-decoration: none;
-  display: block;
-  text-align: center;
-}
-
-#navcontainer ul li a:hover {
-  color: #f2f2f2;
-  background: #262626;
-  border-top: 1px solid magenta;
-}
-
-#navcontainer a:active {
-  background: #262626;
-  color: #fff;
-}
-
-#navcontainer li#active a {
-  background: #262626;
-  border-right: 4px solid #2e97f2;
-  color: #fff;
-}
 .css3badge {
   display: inline;
   float: right;

@@ -24,8 +24,9 @@ $container-max-width: 1000px;
 
 
 html {
-  font: normal 15px/19px "VT323", "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
-  sans-serif;
+  
+  font-family: "vt323", Arial, sans-serif, "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-size: 1rem;
 background : #0D0D0D;
 background-image :
   linear-gradient(#262626 1px, transparent 0),
