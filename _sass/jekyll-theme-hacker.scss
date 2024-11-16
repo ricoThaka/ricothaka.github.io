@@ -26,7 +26,7 @@ $container-max-width: 1000px;
 html {
   
   font-family: "vt323", Arial, sans-serif, "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
-  font-size: 2rem;
+  font-size: 1rem;
 background : #0D0D0D;
 background-image :
   linear-gradient(#262626 1px, transparent 0),
@@ -37,26 +37,30 @@ background-size: 30px 30px;
     width: 100vw;
   }
 
-p {
-  margin-top:10px;
-  margin-bottom:10px;
-  display: block;
-  text-align: left;
-  color: white;
-  text-shadow: 0 0 5px rgba(242, 242, 242, 0.5);
-  background: transparent
-  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-  center repeat;
-  /* background: black; */
-  /* background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%); */
-  border-left: 1px solid #595959;
-  border-right: 1px solid #595959;
-  column-count: auto;
-  column-fill: balance-all;
-  word-break: break-all;
-  hyphens: auto;
-  display:block;
-}
+
+  p {
+    display: flex;
+    text-align: left;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size: 1.2rem;
+    display: block;
+    text-align: left;
+    color: white;
+    text-shadow: 0 0 5px rgba(242, 242, 242, 0.5);
+    background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+     background: black; 
+    background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%); 
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    column-count: auto;
+    column-fill: balance-all;
+    word-break: break-all;
+    hyphens: auto;
+    display:block;
+  }
 
 
 .floatright img:nth-child(odd) {
