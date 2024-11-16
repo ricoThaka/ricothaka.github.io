@@ -19,7 +19,7 @@ mermaid: true
 # Deep Space Network Now @nasa-jpl
 ![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
 
-<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" />
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" >
     </object>
 
 # Library Scare [RelatedTweet](https://x.com/thakasartu/status/1857546216739057809)
