@@ -7,6 +7,35 @@ permalink: /normani
 
 
 
+[back](./)
+# Dear_BossLady : @blackgirlscode Normani
+Im frustrated with the time i have to access a computer. I added a Computer ethics book to [RashardMRO](https://ricothaka.github.io/rashardmro/) and [RashardLearned](https://ricothaka.github.io/rashardlearned) its like i found something noteworthy. A crater on mars with a wild texture! And its so hard to get undistracted time to work on it if u look below there is some software you can put on your computer to see mars surface pics. i saw a landslide once and i think this is related `Index of /PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/` [SpiralCrater on MArs](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/)
+
+[<img src="https://pbs.twimg.com/media/GcnxtdDacAAzr7k?format=jpg&name=large" alt="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/PSP_002258_1825_RED_C_01_ORTHO.ab.jpg" />](https://pbs.twimg.com/media/GcnxtdDacAAzr7k?format=jpg&name=large)
+[<img src="https://raw.githubusercontent.com/ricoThaka/rashardlearned/refs/heads/master/assets/img/marscrater.png" alt="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/PSP_002258_1825_RED_C_01_ORTHO.ab.jpg" />](https://raw.githubusercontent.com/ricoThaka/rashardlearned/refs/heads/master/assets/img/marscrater.png)
+![crater](https://pbs.twimg.com/media/GcnzFE-aoAAqbpq?format=jpg&name=large)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dTtYVQzlwBMpVyQ4h3wy2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## [HiView Image Viewer - Software](https://pirlwww.lpl.arizona.edu/software/HiView/download.php)
+
+### WHAT HiView DOES
+HiView is a data explorer and image viewing application supporting the [JPEG2000](https://jpeg.org/jpeg2000/) image format ![HiVeiw](https://www.uahirise.org/hiview/images/main-splash-screen.jpg) HiView is the best way to explore HiRISE images of the Martian surface at the full resolution of the imagery. Tracks of boulders that have fallen down crater walls, delicate rays of ejecta from fresh impact craters, and the unearthly formations created by carbon dioxide ice on the Martian south pole are just a few of the things that are waiting to be discovered by anyone using a tool like HiView with HiRISE imagery. [Video Tutorial](https://youtu.be/y3PCKnACusk?si=U5H8oqIfENLKOCNU)
+![hiview](https://www.uahirise.org/hiview/images/screen-shot.jpg)
+![HiView](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dTtYVQzlwBMpVyQ4h3wy2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### A Latinx Resource Guide: Civil Rights Cases and Events in the United States
+## 1968: East Los Angeles Walkouts
+Discrepancies in the education of Anglo and Mexican-American students surfaced in Los Angeles during the 1950s and 1960s. Mexican-American students experienced a 60% dropout rate from high school, and those who did graduate averaged the reading level of an 8th grade Anglo student. In some schools, teachers prohibited students from speaking Spanish, and in others, school staff recommended Mexican-American students educational curriculum meant to help students with mental disabilities. These schools funneled many Mexican American students into vocational programs and discouraged from post-secondary studies. In response, students, teachers, parents, and activists began to organize.[ContinueReading](https://guides.loc.gov/latinx-civil-rights/east-la-walkouts) [Related Tweet EastLosangeles Today](https://x.com/RicoThaka/status/1831786037527638408)
+
+
+[1986 SPECIAL REPORT:"THE VANISHING BLACK FAMILY"](https://www.youtube.com/watch?v=_vrw416MnJ8)
+[LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.pdf) [CoronaVirusPAtent European Publication Server](https://data.epo.org/publication-server/document/xml/3172319/B1/2019-11-20)
+![LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.jpg)
+
+![EcoStress](https://ecostress.jpl.nasa.gov/logo.png)
+
 
 # Dear_Normani
 [<~back](https://ricothaka.github.io/rashardmro)
