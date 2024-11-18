@@ -19,7 +19,8 @@ By the mid 90s the capcom CPS2 system was getting a but long in the tooth. The 1
 [Street Fighter II: The Animated Series](https://myanimelist.net/anime/876/Street_Fighter_II_V?cat=anime)
 [Street Fighter II V (Includes ADV dub)](https://archive.org/details/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107)
 [Street Fighter: The Animated Series 1-26](https://archive.org/details/18FaceOfFury)
-[Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
+
+# [Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
 
 
 <video controls preload="none"  poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
@@ -39,7 +40,8 @@ By the mid 90s the capcom CPS2 system was getting a but long in the tooth. The 1
 [STREET FIGHTER III (New Generation) The Characters](https://archive.org/details/street-fighter-iii-new-generation-the-characters/page/n97/mode/2up)
 
 [<img src="https://i.etsystatic.com/12175780/r/il/00145b/1892670422/il_1140xN.1892670422_7t3d.jpg" alt="Street Fighter 2 Turbo" />](https://i.etsystatic.com/12175780/r/il/00145b/1892670422/il_1140xN.1892670422_7t3d.jpg)
-[Street Fighter II Turbo - Hyper Fighting (USA) - SNES](https://www.retrogames.cc/snes-games/street-fighter-ii-turbo-hyper-fighting-usa.html) [Street Fighter II Turbo - Hyper Fighting (Japan) (Rev 0A) - ARCADE]
+[Street Fighter II Turbo - Hyper Fighting (USA) - SNES](https://www.retrogames.cc/snes-games/street-fighter-ii-turbo-hyper-fighting-usa.html) [Street Fighter II' - Hyper Fighting (street fighter 2' T 921209 USA)](https://www.retrogames.cc/arcade-games/street-fighter-ii-hyper-fighting-street-fighter-2-t-921209-usa.html) [Street Fighter II Turbo: Hyper Fighting (Guile) (Long) Japanese Commercial](https://www.youtube.com/watch?v=XDx_M46gcVc) [Street Fighter 2 Turbo (SNES) Commercial (1993)](https://youtu.be/Eg-VGKEPNMw?si=_rqNRBeUVIZH4dlM) [Street Fighter 2: Mastering Great Combinations & Strategies](https://www.youtube.com/watch?v=IfS02WjRU8g&t=153s) [Street Fighter: The Movie (v1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html) [Street Fighter II: The Animated Movie is free to legally watch right now on YouTube. - 9mos ago ReddiT](https://www.reddit.com/r/TwoBestFriendsPlay/comments/1aodlj8/street_fighter_ii_the_animated_movie_is_free_to/) [Third Strike Concepts: Tutorial Strategy Series](https://archive.supercombo.gg/t/third-strike-concepts-tutorial-strategy-series/128301) [SF3 3rd:Strike tutorial vids](https://www.youtube.com/playlist?list=PL4426B34C3D1AA01A) 
+
 # OutRun 
 Wille Kelly remember u got the custom georgia tag `1 fast 1` i was just amped off the game u rented from [PHA℞-MOR](https://en.wikipedia.org/wiki/Phar-Mor) when i said outrun will work for [That Car - 1990](https://www.caranddriver.com/reviews/a42781098/1987-lincoln-mark-vii-lsc-by-the-numbers/) ![Phar-Mor](https://static.wikia.nocookie.net/malls/images/e/e3/Phar-Mor.png) [Phar Mor used to be our families go-to place to Rent Videos on a Friday Night - RedditPosT - /u/missanthropocenex ](https://www.reddit.com/r/nostalgia/comments/11hjo3n/phar_mor_used_to_be_our_families_goto_place_to/) [r/nostolgia](https://www.reddit.com/r/nostalgia/)
 
