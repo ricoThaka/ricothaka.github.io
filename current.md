@@ -4,7 +4,8 @@ mermaid: true
 ---
 
 # OutRun 
-Wille Kelly remember u got the custom georgia tag `1 fast 1` i was just amped off the game u rented from [PHA℞-MOR](https://en.wikipedia.org/wiki/Phar-Mor) when i said outrun will work for [That Car - 1990](https://www.caranddriver.com/reviews/a42781098/1987-lincoln-mark-vii-lsc-by-the-numbers/)
+Wille Kelly remember u got the custom georgia tag `1 fast 1` i was just amped off the game u rented from [PHA℞-MOR](https://en.wikipedia.org/wiki/Phar-Mor) when i said outrun will work for [That Car - 1990](https://www.caranddriver.com/reviews/a42781098/1987-lincoln-mark-vii-lsc-by-the-numbers/) ![Phar-Mor](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fm6ve5l55onla1.jpg) [Phar Mor used to be our families go-to place to Rent Videos on a Friday Night - RedditPosT - /u/missanthropocenex ](https://www.reddit.com/r/nostalgia/comments/11hjo3n/phar_mor_used_to_be_our_families_goto_place_to/) [r/nostolgia](https://www.reddit.com/r/nostalgia/)
+
 <iframe src="https://archive.org/embed/msdos_Turbo_Out_Run_1990" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [<img src="https://ia802303.us.archive.org/17/items/turbo-out-run-1990/12.jpg" alt="outrun floppy disk" />](https://ia802303.us.archive.org/17/items/turbo-out-run-1990/12.jpg)
