@@ -1,10 +1,47 @@
 ---
 layout: default
-mermaid: true
 ---
 
+
+
+
+# Street Fighter III: New Generation (Euro 970204) ストリートファイターⅢ Sutorīto Faitā Surī?
+[<img src="https://db.hfsplay.fr/files/2019/07/29/Street_Fighter_III__New_Generation-02_1_qj5ibeh.jpg" alt="Street Fighter 3 : New Generation" />](https://db.hfsplay.fr/files/2019/07/29/Street_Fighter_III__New_Generation-02_1_qj5ibeh.jpg)
+<iframe src="https://archive.org/embed/arcade_sfiii" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_Cartridge-1.jpg" alt="" />](https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_Cartridge-1.jpg)
+
+# CPS3 Arcade system
+By the mid 90s the capcom CPS2 system was getting a but long in the tooth. The 16-bit board had build a great reputation and fan following of its amazing arcade games - [8bitplus.co.uk](https://8bitplus.co.uk/articles/capcom-cps3-system-darksoft-bios-mods/)
+
+[<img src="https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_board-1.jpg" alt="" />](https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_board-1.jpg)
+
+[Street Fighter II: The Animated Series](https://myanimelist.net/anime/876/Street_Fighter_II_V?cat=anime)
+[Street Fighter II V (Includes ADV dub)](https://archive.org/details/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107)
+[Street Fighter: The Animated Series 1-26](https://archive.org/details/18FaceOfFury)
+[Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
+
+
+<video controls preload="none"  poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
+  src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4"
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+[SF_Art hfs-db hfs-play](https://db.hfsplay.fr/games/29548-street-fighter-iii-1st-new-generation?lang=de)
+
+### CAPCOM: STREET FIGHTER III 3rd STRIKE Fight For The Future ORIGINAL SOUND VERSION (2011) 
+<iframe src="https://archive.org/embed/04-player-select-arcade" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[STREET FIGHTER III (New Generation) The Characters](https://archive.org/details/street-fighter-iii-new-generation-the-characters/page/n97/mode/2up)
+
+[<img src="https://i.etsystatic.com/12175780/r/il/00145b/1892670422/il_1140xN.1892670422_7t3d.jpg" alt="Street Fighter 2 Turbo" />](https://i.etsystatic.com/12175780/r/il/00145b/1892670422/il_1140xN.1892670422_7t3d.jpg)
+[Street Fighter II Turbo - Hyper Fighting (USA) - SNES](https://www.retrogames.cc/snes-games/street-fighter-ii-turbo-hyper-fighting-usa.html) [Street Fighter II Turbo - Hyper Fighting (Japan) (Rev 0A) - ARCADE]
 # OutRun 
-Wille Kelly remember u got the custom georgia tag `1 fast 1` i was just amped off the game u rented from [PHA℞-MOR](https://en.wikipedia.org/wiki/Phar-Mor) when i said outrun will work for [That Car - 1990](https://www.caranddriver.com/reviews/a42781098/1987-lincoln-mark-vii-lsc-by-the-numbers/) ![Phar-Mor](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fm6ve5l55onla1.jpg) [Phar Mor used to be our families go-to place to Rent Videos on a Friday Night - RedditPosT - /u/missanthropocenex ](https://www.reddit.com/r/nostalgia/comments/11hjo3n/phar_mor_used_to_be_our_families_goto_place_to/) [r/nostolgia](https://www.reddit.com/r/nostalgia/)
+Wille Kelly remember u got the custom georgia tag `1 fast 1` i was just amped off the game u rented from [PHA℞-MOR](https://en.wikipedia.org/wiki/Phar-Mor) when i said outrun will work for [That Car - 1990](https://www.caranddriver.com/reviews/a42781098/1987-lincoln-mark-vii-lsc-by-the-numbers/) ![Phar-Mor](https://static.wikia.nocookie.net/malls/images/e/e3/Phar-Mor.png) [Phar Mor used to be our families go-to place to Rent Videos on a Friday Night - RedditPosT - /u/missanthropocenex ](https://www.reddit.com/r/nostalgia/comments/11hjo3n/phar_mor_used_to_be_our_families_goto_place_to/) [r/nostolgia](https://www.reddit.com/r/nostalgia/)
 
 <iframe src="https://archive.org/embed/msdos_Turbo_Out_Run_1990" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
