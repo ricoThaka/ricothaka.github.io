@@ -1,5 +1,11 @@
+[<img src="https://theexchange.com/cdn/shop/products/OutRun_USA_Europe.png" alt="OUTRun SegaGenesis Cart"](https://theexchange.com/cdn/shop/products/OutRun_USA_Europe.png)
+[Gunstar Heroes (USA)](https://www.retrogames.cc/genesis-games/gunstar-heroes-usa.html) [Shinobi (set 1, System 16A, FD1094 317-0050)](https://www.retrogames.cc/arcade-games/shinobi-set-1-system-16a-fd1094-317-0050.html) [OutRun (USA, Europe)](https://www.retrogames.cc/genesis-games/outrun-usa-europe.html) [TheExchange](https://theexchange.com/) [After Burner (Sega 32X) choppy at Durant Library LAPL](https://archive.org/details/after-burner.-32x)
 
+# Sonic 3 & Knuckles   Mouse Enabled (SK Hack)
+<iframe src="https://archive.org/embed/Sonic_3_Knuckles_Mouse_Enabled_SK_Hack" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+# Console Living Room: Sega Genesis/32X
+The Sega Genesis, known as Mega Drive (Japanese: メガドライブ Hepburn: Mega Doraibu?) in most regions outside North America, is a 16-bit video game console which was developed and sold by Sega Enterprises, Ltd. [ReadMore - PLaymorE on internetArchivE](https://archive.org/details/sega_genesis_library?tab=collection&query=sonic+3)
 <iframe src="https://archive.org/embed/Kid_Chameleon" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![MEGADRiVE](https://upload.wikimedia.org/wikipedia/commons/f/fd/JP_MegaDrive_Logo.gif)
