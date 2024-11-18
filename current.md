@@ -3,6 +3,13 @@ layout: default
 mermaid: true
 ---
 
+# OutRun 
+Wille Kelly remember u got the custom georgia tag `1 fast 1` i was just amped off the game u rented from [PHA℞-MOR](https://en.wikipedia.org/wiki/Phar-Mor) when i said outrun will work for [That Car - 1990](https://www.caranddriver.com/reviews/a42781098/1987-lincoln-mark-vii-lsc-by-the-numbers/)
+<iframe src="https://archive.org/embed/msdos_Turbo_Out_Run_1990" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://ia802303.us.archive.org/17/items/turbo-out-run-1990/12.jpg" alt="outrun floppy disk" />](https://ia802303.us.archive.org/17/items/turbo-out-run-1990/12.jpg)
+![Phar-Mor](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Phar-Mor_Drug_Store_Final_Logo.png/1280px-Phar-Mor_Drug_Store_Final_Logo.png)
+
 # Superman 1948 Serial [FullStory](https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/)
 ## Superman Comes To Earth.mp4	
 Superman is a 1948 15-part Columbia Pictures film serial based on the comic book character Superman. It stars an uncredited Kirk Alyn (billed on-screen only by his character's name, Superman; but credited as Kirk Alyn on the promotional posters) and Noel Neill as Lois Lane. Like Batman (1943), it is notable as the first live-action appearance of Superman on film, and for the longevity of its distribution.[Wiki](https://en.wikipedia.org/wiki/Superman_(serial))

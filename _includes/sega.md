@@ -1,4 +1,16 @@
-[<img src="https://theexchange.com/cdn/shop/products/OutRun_USA_Europe.png" alt="OUTRun SegaGenesis Cart"](https://theexchange.com/cdn/shop/products/OutRun_USA_Europe.png)
+# Sega
+
+# Flashack
+ # פלאשבק: זיכרון גורלי 
+ # フラッシュバック 
+Its a [pc](https://dosgames.com/game/flashback-the-quest-for-identity/) game but 3 buttons makes this one more accesible @blackgirlscode its a good brain game! [the 1992 game"Flashback: Quest for identity" was a cyberpunk gem - RedditPost /u/thibault_lh](https://www.reddit.com/r/Cyberpunk/comments/12pps6j/the_1992_gameflashback_quest_for_identity_was_a/?rdt=58208) [Flashback: The Quest for Identity – Guides and FAQs](https://gamefaqs.gamespot.com/pc/565097-flashback-the-quest-for-identity/faqs) [FandoM](https://retrogames.fandom.com/wiki/Flashback:_The_Quest_for_Identity) [SNES instructions](https://ia800409.us.archive.org/8/items/kirklands_manual_labor_-_super_nintendo_-_usa_-_2k_version/Flashback%20-%20The%20Quest%20for%20Identity%20%28USA%29.pdf) [SegaCd Instructions](https://r.mprd.se/Sega%20CD/Manuals/Flashback%20-%20The%20Quest%20For%20Identity%20(U).pdf) 
+<iframe src="https://archive.org/embed/sg_Flashback_The_Quest_for_Identity_1993_Delphine_U.S._Gold_US_en-fr_a" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://i.ebayimg.com/images/g/XagAAOSwCKBkzrmc/s-l1600.webp" alt="ebay Sega genesis Cover Art for AfterBurner2"](https://i.ebayimg.com/images/g/XagAAOSwCKBkzrmc/s-l1600.webp)
+
+<iframe src="https://archive.org/embed/After_Burner_II_UE_h3C" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://theexchange.com/cdn/shop/products/OutRun_USA_Europe.png" alt="OUTRun SegaGenesis Cart" />](https://theexchange.com/cdn/shop/products/OutRun_USA_Europe.png)
 [Gunstar Heroes (USA)](https://www.retrogames.cc/genesis-games/gunstar-heroes-usa.html) [Shinobi (set 1, System 16A, FD1094 317-0050)](https://www.retrogames.cc/arcade-games/shinobi-set-1-system-16a-fd1094-317-0050.html) [OutRun (USA, Europe)](https://www.retrogames.cc/genesis-games/outrun-usa-europe.html) [TheExchange](https://theexchange.com/) [After Burner (Sega 32X) choppy at Durant Library LAPL](https://archive.org/details/after-burner.-32x)
 
 # Sonic 3 & Knuckles   Mouse Enabled (SK Hack)
