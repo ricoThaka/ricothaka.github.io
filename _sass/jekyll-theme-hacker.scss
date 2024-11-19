@@ -120,9 +120,25 @@ h6 {
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     center repeat;
-  font-weight: 900;
-  margin: 5px;
-  padding: 5px;
+
+}
+
+h6 {
+
+  display: block;
+  word-break: break-all;
+font-size: 3rem;
+  line-height: 1.7rem;
+  margin: auto;
+  font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+    text-shadow:
+
+        0 0 42px #0DCBFF,
+        0 0 82px #0DCBFF,
+        0 0 92px #0DCBFF,
+        0 0 102px #0DCBFF,
+        0 0 125px #0DCBFF;
+    letter-spacing: -1px;
 
 }
 
