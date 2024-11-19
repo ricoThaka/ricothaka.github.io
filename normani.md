@@ -4,15 +4,13 @@ title: Normani
 mermaid: true
 permalink: /normani 
 ---
-
-
-
 # Dear NorMani @blackgirlscode
-I have to make a tool to understand what we do on the moon. So i need u to know that so u can do whatever you do, im just participating till u tell me to stop. I have to work on the moon as well bc orbit paths to mars and jupiter are effected by our moon, as each day goes by Im learning each planet is a living being and While i want to silo/pigeon Hole, I cant. I really like that hiphop 45's mix. IDK how much u dig 45s but i was into [BrainFreeze when it came out](https://www.youtube.com/watch?v=2HlOo0wwGQo&themeRefresh=1)[Side-a .mp3](https://archive.org/download/brain-freeze/01%20-%20Side%20A.mp3) [Side-b .mp3](https://archive.org/download/brain-freeze/02%20-%20Side%20B.mp3)
+I have to make a tool to understand what we do on the moon. So i need u to know that so u can do whatever you do, im just participating till u tell me to stop. I have to work on the moon as well bc orbit paths to mars and jupiter are effected by our moon, as each day goes by Im learning each planet is a living being and While i want to silo/pigeon Hole, I cant. I really like that hiphop 45's mix. IDK how much u dig 45s but i was into [BrainFreeze when it came out](https://www.youtube.com/watch?v=2HlOo0wwGQo&themeRefresh=1)[Side-a .mp3](https://archive.org/download/brain-freeze/01%20-%20Side%20A.mp3) [Side-b .mp3](https://archive.org/download/brain-freeze/02%20-%20Side%20B.mp3) [WiKi](https://en.wikipedia.org/wiki/Brainfreeze_(album)) [NORMANi EXPLORES #ASMR](https://youtu.be/s5LeJSGlegY?si=2bupk2ZVh_465849) [Normani - Motivation (2019 MTV VMAs)](https://www.youtube.com/watch?v=EkhPx3HE160)
 #  DJ Shadow and Cut Chemist : Brainfreeze 45MiX
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115581721&color=%23dea754&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jon-binstead" title="Jon Binstead" target="_blank" style="color: #cccccc; text-decoration: none;">Jon Binstead</a> · <a href="https://soundcloud.com/jon-binstead/dj-shadow-cut-chemist" title="DJ Shadow &amp; Cut Chemist - Brainfreeze 1999 Part 1" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Shadow &amp; Cut Chemist - Brainfreeze 1999 Part 1</a></div>
 [<img src="https://live.staticflickr.com/65535/52529253591_cc8b0ea933_k.jpg" alt="Earth" />](https://live.staticflickr.com/65535/52529253591_cc8b0ea933_k.jpg)
 [<img src="https://live.staticflickr.com/65535/52511158560_9a9ab55261_k.jpg" alt="Artimis" />](https://live.staticflickr.com/65535/52511158560_9a9ab55261_k.jpg)
+
 # Orion Snaps a Selfie During External Inspection
 >Orion snapped this high-resolution selfie in space with a camera mounted on its solar array wing during a routine external inspection of the spacecraft on the third day into the Artemis I mission.
 [<img src="https://live.staticflickr.com/65535/52542743900_d7cfd07b30_k.jpg" alt="Artimis"](https://live.staticflickr.com/65535/52542743900_d7cfd07b30_k.jpg)

@@ -50,6 +50,7 @@ carousels:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1XSUdSojWNJCgNqKNxfcVr?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r5S_l7uAc1I?si=tFr_50YjMsG2Q4m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0X4tStFRQMXQ4Ar0wLY039?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 {% include_relative current.md %}
 
