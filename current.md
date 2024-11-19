@@ -22,7 +22,8 @@ By the mid 90s the capcom CPS2 system was getting a but long in the tooth. The 1
 
 
 <video controls preload="none"  poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
-  src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4"
+  
+<source src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4" />
   
 
   Sorry, your browser doesn't support embedded videos, but don't worry, you can

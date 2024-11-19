@@ -166,10 +166,10 @@ An American scientist is able to contact and communicate with Mars with shatteri
 [Street Fighter II V (Includes ADV dub)](https://archive.org/details/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107)
 [Street Fighter: The Animated Series 1-26](https://archive.org/details/18FaceOfFury)
 [Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
-<video controls preload="none"  
-  src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4"
-  poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
+<video controls preload="none"  poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
 
+  
+<source src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4" />
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4">download it</a>
   and watch it with your favorite video player!
