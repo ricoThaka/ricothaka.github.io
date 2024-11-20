@@ -4,7 +4,7 @@ title: Normani
 mermaid: true
 permalink: /normani 
 ---
-[BUBBLEGUMPOP633](https://archive.org/details/fav-bubblegumpop633) [thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) [ThakaRasharD - FaVs](https://archive.org/details/fav-thakaserika_selassie_kelly)
+[BUBBLEGUMPOP633](https://archive.org/details/fav-bubblegumpop633) [thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) [ThakaRasharD - FaVs](https://archive.org/details/fav-thakaserika_selassie_kelly) [Designing CSS Web pages](https://archive.org/details/isbn_9780735712638/mode/2up)
 
 # Dear NorMani @blackgirlscode
 I have to make a tool to understand what we do on the moon. So i need u to know that so u can do whatever you do, im just participating till u tell me to stop. I have to work on the moon as well bc orbit paths to mars and jupiter are effected by our moon, as each day goes by Im learning each planet is a living being and While i want to silo/pigeon Hole, I cant. I really like that hiphop 45's mix. IDK how much u dig 45s but i was into [BrainFreeze when it came out](https://www.youtube.com/watch?v=2HlOo0wwGQo&themeRefresh=1)[Side-a .mp3](https://archive.org/download/brain-freeze/01%20-%20Side%20A.mp3) [Side-b .mp3](https://archive.org/download/brain-freeze/02%20-%20Side%20B.mp3) [WiKi](https://en.wikipedia.org/wiki/Brainfreeze_(album)) [NORMANi EXPLORES #ASMR](https://youtu.be/s5LeJSGlegY?si=2bupk2ZVh_465849) [Normani - Motivation (2019 MTV VMAs)](https://www.youtube.com/watch?v=EkhPx3HE160)

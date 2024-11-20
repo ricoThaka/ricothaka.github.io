@@ -10,7 +10,7 @@
 [<img src="https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_Cartridge-1.jpg" alt="" />](https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_Cartridge-1.jpg)
 
 # CPS3 Arcade system
-By the mid 90s the capcom CPS2 system was getting a but long in the tooth. The 16-bit board had build a great reputation and fan following of its amazing arcade games - [8bitplus.co.uk](https://8bitplus.co.uk/articles/capcom-cps3-system-darksoft-bios-mods/)
+By the mid 90s the capcom CPS2 system was getting a but long in the tooth. The 16-bit board had build a great reputation and fan following of its amazing arcade games - [8bitplus.co.uk](https://8bitplus.co.uk/articles/capcom-cps3-system-darksoft-bios-mods/) [Electronic Gaming Monthly Issue 089 - Street Fighter 3](https://archive.org/details/electronic-gaming-monthly-issue-089-december-1996/page/n133/mode/2up)
 
 [<img src="https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_board-1.jpg" alt="" />](https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_board-1.jpg)
 
@@ -37,7 +37,7 @@ By the mid 90s the capcom CPS2 system was getting a but long in the tooth. The 1
 <iframe src="https://archive.org/embed/04-player-select-arcade" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [STREET FIGHTER III (New Generation) The Characters](https://archive.org/details/street-fighter-iii-new-generation-the-characters/page/n97/mode/2up)
-
+![sf3 - egm](https://pbs.twimg.com/media/Gcy0rdgbcAEyAeZ?format=jpg&name=large) 
 [<img src="https://i.etsystatic.com/12175780/r/il/00145b/1892670422/il_1140xN.1892670422_7t3d.jpg" alt="Street Fighter 2 Turbo" />](https://i.etsystatic.com/12175780/r/il/00145b/1892670422/il_1140xN.1892670422_7t3d.jpg)
 [Street Fighter II Turbo - Hyper Fighting (USA) - SNES](https://www.retrogames.cc/snes-games/street-fighter-ii-turbo-hyper-fighting-usa.html) [Street Fighter II' - Hyper Fighting (street fighter 2' T 921209 USA)](https://www.retrogames.cc/arcade-games/street-fighter-ii-hyper-fighting-street-fighter-2-t-921209-usa.html) [Street Fighter II Turbo: Hyper Fighting (Guile) (Long) Japanese Commercial](https://www.youtube.com/watch?v=XDx_M46gcVc) [Street Fighter 2 Turbo (SNES) Commercial (1993)](https://youtu.be/Eg-VGKEPNMw?si=_rqNRBeUVIZH4dlM) [Street Fighter 2: Mastering Great Combinations & Strategies](https://www.youtube.com/watch?v=IfS02WjRU8g&t=153s) [Street Fighter: The Movie (v1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html) [Street Fighter II: The Animated Movie is free to legally watch right now on YouTube. - 9mos ago ReddiT](https://www.reddit.com/r/TwoBestFriendsPlay/comments/1aodlj8/street_fighter_ii_the_animated_movie_is_free_to/) [Third Strike Concepts: Tutorial Strategy Series](https://archive.supercombo.gg/t/third-strike-concepts-tutorial-strategy-series/128301) [SF3 3rd:Strike tutorial vids](https://www.youtube.com/playlist?list=PL4426B34C3D1AA01A) 
 
