@@ -8,7 +8,7 @@ permalink: /normani
 # [Enter The Dragon [ 1973] 816p](https://en.wikipedia.org/wiki/Vertigo_(film))
 
 
-<video controls preload="none"  poster="https://i.etsystatic.com/29534914/r/il/0f268e/5497958111/il_794xN.5497958111_ivqi.jpg">
+<video controls preload="none" width="100%" height="auto" poster="https://i.etsystatic.com/29534914/r/il/0f268e/5497958111/il_794xN.5497958111_ivqi.jpg">
   
 <source src="https://archive.org/download/cinema_bucanero_202306/Enter%20The%20Dragon%20%5B1973%5D816p.mp4" />
   

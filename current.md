@@ -1,5 +1,5 @@
 
-# The IT Crowd:Yesterday's Jam(https://www.youtube.com/watch?v=fU14GSc_mzA)
+# [The IT Crowd:Yesterday's Jam](https://www.youtube.com/watch?v=fU14GSc_mzA)
 >Episode aired Feb 3, 2006 [TV-MA](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 24m [imdb](https://www.imdb.com/title/tt0609853/)
 [IT crowd Season 1 episode 1 *Yesterday's Jam* is the first episode of the first series and the first ever of The IT Crowd. The show introduces all the main characters of the show and sets a backbone for future episodes. "Yesterday's Jam" Jen starts at Reynholm industries as the IT Manager. But it turns out she doesn't know anything about computers.](https://theitcrowd.fandom.com/wiki/Yesterday%27s_Jam)
 
