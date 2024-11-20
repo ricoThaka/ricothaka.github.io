@@ -4,6 +4,12 @@ title: Normani
 mermaid: true
 permalink: /normani 
 ---
+
+
+
+# Erikas Breakup on the LosAngeles Freeway
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/41PwFUEt9XE3Cz0H8RA7vU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 [BUBBLEGUMPOP633](https://archive.org/details/fav-bubblegumpop633) [thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) [ThakaRasharD - FaVs](https://archive.org/details/fav-thakaserika_selassie_kelly) [Designing CSS Web pages](https://archive.org/details/isbn_9780735712638/mode/2up)
 
 # Dear NorMani @blackgirlscode
