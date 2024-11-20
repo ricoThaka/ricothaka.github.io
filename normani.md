@@ -5,7 +5,18 @@ mermaid: true
 permalink: /normani 
 ---
 
+# [Enter The Dragon [ 1973] 816p](https://en.wikipedia.org/wiki/Vertigo_(film))
 
+
+<video controls preload="none"  poster="https://i.etsystatic.com/29534914/r/il/0f268e/5497958111/il_794xN.5497958111_ivqi.jpg">
+  
+<source src="https://archive.org/download/cinema_bucanero_202306/Enter%20The%20Dragon%20%5B1973%5D816p.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/cinema_bucanero_202306/Enter%20The%20Dragon%20%5B1973%5D816p.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 # Erikas Breakup on the LosAngeles Freeway
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/41PwFUEt9XE3Cz0H8RA7vU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

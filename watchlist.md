@@ -1,6 +1,14 @@
 
 # watchlist
 
+
+
+
+
+
+
+
+
 [Fire and Ice 1983](https://archive.org/details/a137ee3e2a37701695abd791d95bfeaf-1080p)
 <video controls preload="none"  width="100%" height="auto" poster="https://cover.box3.net/newsimg/dvdmov/max1126915764-frontback-cover.jpg">
 
@@ -166,15 +174,19 @@ An American scientist is able to contact and communicate with Mars with shatteri
 [Street Fighter II V (Includes ADV dub)](https://archive.org/details/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107)
 [Street Fighter: The Animated Series 1-26](https://archive.org/details/18FaceOfFury)
 [Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
-<video controls preload="none"  poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
 
+# [Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
+
+
+<video controls preload="none"  poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
   
 <source src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4" />
+  
+
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4">download it</a>
   and watch it with your favorite video player!
 </video>
-
 <div class="pinupImage expandingGallery">
 <img src="https://i.ebayimg.com/images/g/45sAAOSwl8NkWpYB/s-l1600.webp" />
 <img src="https://i.ebayimg.com/images/g/liYAAOSwKUNkWpYC/s-l960.webp" />
