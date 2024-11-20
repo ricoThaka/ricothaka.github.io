@@ -7,6 +7,20 @@
 
 
 
+# The IT Crowd:The Work Outing
+>Episode aired Aug 24, 2007 [TV-14](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 24m [imdb](https://www.imdb.com/title/tt0849997/)
+[IT crowd Season 2 episode 1 "The Work Outing" is the funniest piece of television ever written. /r/television `Minecraftfinn`](https://www.reddit.com/r/television/comments/ieodna/it_crowd_season_2_episode_1_the_work_outing_is/?rdt=60956)
+
+<video controls preload="none"   width="100%" height="auto" poster="https://i.imgur.com/jO0p7Xp.gif">
+    
+<source src="https://archive.org/download/alfred-hitchcock-presents-season-2/ahp-216.mp4 https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%202%20S02%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S02E01%20-%20The%20Work%20Outing%20%28576p%20x265%20Panda%29.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%202%20S02%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S02E01%20-%20The%20Work%20Outing%20%28576p%20x265%20Panda%29.mp4">MP4</a>
+        video.
+</video> 
+
+
 
 
 [Fire and Ice 1983](https://archive.org/details/a137ee3e2a37701695abd791d95bfeaf-1080p)

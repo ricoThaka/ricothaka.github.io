@@ -1,3 +1,18 @@
+
+# The IT Crowd:Yesterday's Jam(https://www.youtube.com/watch?v=fU14GSc_mzA)
+>Episode aired Feb 3, 2006 [TV-MA](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 24m [imdb](https://www.imdb.com/title/tt0609853/)
+[IT crowd Season 1 episode 1 *Yesterday's Jam* is the first episode of the first series and the first ever of The IT Crowd. The show introduces all the main characters of the show and sets a backbone for future episodes. "Yesterday's Jam" Jen starts at Reynholm industries as the IT Manager. But it turns out she doesn't know anything about computers.](https://theitcrowd.fandom.com/wiki/Yesterday%27s_Jam)
+
+<video controls preload="none"   width="100%" height="auto" poster="https://i.imgur.com/jO0p7Xp.gif">
+    
+<source src="https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%201%20S01%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S01E01%20-%20Yesterday%27s%20Jam%20%28576p%20x265%20Panda%29.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%201%20S01%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S01E01%20-%20Yesterday%27s%20Jam%20%28576p%20x265%20Panda%29.mp4">MP4</a>
+        video.
+</video> 
+
+
 # Earth Rotation from Galileo Imagery: 600 x Real-Time
 >Released Tuesday, September 1, 1998 
 This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the [Galileo spacecraft](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html) during a close pass of the Earth on December 11-12, 1990. The animations range from real-time, in which no rotation can be perceived . . . [Visualizations by: Horace Mitchell](https://svs.gsfc.nasa.gov/1374/)
@@ -260,20 +275,6 @@ Captain America is a 1944 [Republic](https://www.avid.wiki/Republic_Pictures_(19
          Download the
         or
 <a href="https://archive.org/download/CaptainAmerica1944Serial1/Captain%20America_%201944%20Serial%20-%20%233.mp4">MP4</a>
-        video.
-</video> 
-
-
-# The IT Crowd:The Work Outing
->Episode aired Aug 24, 2007 [TV-14](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 24m [imdb](https://www.imdb.com/title/tt0849997/)
-[IT crowd Season 2 episode 1 "The Work Outing" is the funniest piece of television ever written. /r/television `Minecraftfinn`](https://www.reddit.com/r/television/comments/ieodna/it_crowd_season_2_episode_1_the_work_outing_is/?rdt=60956)
-
-<video controls preload="none"   width="100%" height="auto" poster="https://i.imgur.com/jO0p7Xp.gif">
-    
-<source src="https://archive.org/download/alfred-hitchcock-presents-season-2/ahp-216.mp4 https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%202%20S02%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S02E01%20-%20The%20Work%20Outing%20%28576p%20x265%20Panda%29.mp4" type="video/mp4" />
-         Download the
-        or
-<a href="https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%202%20S02%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S02E01%20-%20The%20Work%20Outing%20%28576p%20x265%20Panda%29.mp4">MP4</a>
         video.
 </video> 
 
