@@ -6,6 +6,32 @@ permalink: /normani
 tags: saint
 ---
 
+# Marvel Super Heroes 1960s Cartoon Series Preservation
+
+
+<iframe src="https://archive.org/embed/marvel-super-heroes" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://storage.googleapis.com/hipcomic/p/e2cc845e7775d565cecf532adda2b02c-800.jpg"><img src="https://storage.googleapis.com/hipcomic/p/e2cc845e7775d565cecf532adda2b02c-800.jpg" alt="BUBBLEGUM_POP"> </a>
+
+   </div>
+   </div>
+   <div class='panelColumn'>
+
+      <a href="https://m.media-amazon.com/images/I/61JA-96HB6L._AC_UF1000,1000_QL80_.jpg"><img src="https://m.media-amazon.com/images/I/61JA-96HB6L._AC_UF1000,1000_QL80_.jpg" alt="BUBBLEGUM_POP"> </a>
+
+   </div>
+  </div>
+</div>
+
+
+
+<iframe src="https://archive.org/embed/arcade_msh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Marvel Super Heroes (Euro 951024)
 <img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" class="crt" />
 
 # Earth Rotation from Galileo Imagery: 600 x Real-Time
