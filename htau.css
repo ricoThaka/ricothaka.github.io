@@ -223,6 +223,55 @@ width: 55vw;
 }
 
 
+
+
+.crt {
+  padding: 50px;
+  background: black;
+}
+img.crt {
+  padding: 50px;
+  background: black;
+}
+
+embed {
+    width: 100%;
+    height: fit-content;
+  scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
+}
+
+
+video {
+  height: auto !important;
+  width: 100% !important;
+  border-radius:51px
+  display: block;
+  margin-block: 10px 10px;
+  background: repeating-linear-gradient(
+			to left,
+			transparent,
+			transparent 54px,
+			black 55px,
+			black 55px
+		),
+		repeating-linear-gradient(
+			to bottom,
+			transparent,
+			transparent 54px,
+			grey 55px,
+			grey 55px
+		),
+		linear-gradient(45deg, grey, black);
+	
+	background-attachment:fixed;
+  transition: 4s cubic-bezier(.25,.1,.2,3);
+ /*    transition: 3s cubic-bezier(0.1, 0.2, 0.3, 0.4);
+   transition: 4s cubic-bezier(.25,.1,.2,3); */
+}
+
+
+
 #main {
 margin-top: 15px;
 }
@@ -495,19 +544,6 @@ line-height: 1.5;
 background-size: cover;
 }
 
-#footer {
-
-    bottom:0;
-  position:fixed;
-    display: grid;
-grid-template-rows: auto auto auto;
-    background-color: black;
-  color:white;
-  padding:5px;
-  position:fixed;
-  width:50vw;
-  
-}
 
 
 
@@ -540,24 +576,6 @@ img[src*="nasa.gov"] {
   border-bottom:solid 5px #c9ff23;
 
 }
-img[alt="kk"] {
-  width: 100%;
-  
-}
-img[alt="whiteslavery"] {
-  max-width: 15%;
-  float: right;
-}
-img[alt="whiteslavery40"] {
-  max-width: 40%;
-  transform: rotate(45deg);
-}
-
-iframe {
-  width: 100%;
-  display: block;
-  text-align: center;
-}
 
 
 
@@ -577,78 +595,6 @@ pre {
   overflow: auto;
   overflow-y: hidden;
 }
-
-code.highlighter-rouge {
-  background: rgba(0,0,0,0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 0px 3px;
-  margin: 0px -3px;
-  color: #aa759f;
-  border-radius: 12px;
-}
-
-table {
-  width: 100%;
-  margin: 0 0 20px 0;
-}
-
-th {
-  text-align: left;
-  border-bottom: 1px dashed #b5e853;
-  padding: 5px 10px;
-}
-
-td {
-  padding: 5px 10px;
-}
-
-hr {
-  height: 0;
-  border: 0;
-  border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
-}
-
-/* Buttons
-*/
-
-a,
-a:hover,
-a:visited a:hover {
-  color: #c9ff23;
-}
-
-a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-}
-
-video {
-  border-radius:12px;
-  display: block;
-  margin-block: 10px 10px;
-    background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
-  
-border-radius:12px;
-  transition: 4s cubic-bezier(.25,.1,.2,3);
-}
-
-video:hover {
-  border-radius:12px;
-  display: block;
-  margin-block: 10px 10px;
-  background: rgb(217,4,121);
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
-  
-
-}
-
 
 /* Clearfix */
 

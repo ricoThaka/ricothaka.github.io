@@ -6,6 +6,8 @@ permalink: /normani
 tags: saint
 ---
 
+<img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" class="crt" />
+
 # [#Normani](https://youtube.com/shorts/5As_tra2euA?si=jOptiA5ITZ_2c-H7) and [#ArianaGrande](https://youtube.com/shorts/NNuB4uNS_ms?si=FDDx25gNrRpdBp7r)'s friendship gives us a dopamine boost. 😍 [#WickedMovie](https://www.youtube.com/watch?v=6COmYeLsz4c)
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@enews/video/7435496425376533802" data-video-id="7435496425376533802" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@enews" href="https://www.tiktok.com/@enews?refer=embed">@enews</a> <a title="normani" target="_blank" href="https://www.tiktok.com/tag/normani?refer=embed">#Normani</a> and <a title="arianagrande" target="_blank" href="https://www.tiktok.com/tag/arianagrande?refer=embed">#ArianaGrande</a>&#39;s friendship gives us a dopamine boost. 😍 <a title="wickedmovie" target="_blank" href="https://www.tiktok.com/tag/wickedmovie?refer=embed">#WickedMovie</a> <a target="_blank" title="♬ original sound - E! News" href="https://www.tiktok.com/music/original-sound-7435496384159107883?refer=embed">♬ original sound - E! News</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
