@@ -4,6 +4,14 @@ title: Normani
 mermaid: true
 permalink: /normani 
 ---
+# Mortal Kombat (1992 video game)
+Mortal Kombat is a 1992 fighting game developed and published by Midway. It is the first entry in the Mortal Kombat series and was subsequently released by Acclaim Entertainment for nearly every home platform at that time. The game focuses on several characters of various intentions who enter a martial arts tournament with worldly consequences. It introduced many key aspects of the Mortal Kombat series, including the unique five-button control scheme and gory finishing moves called Fatalities. [Wiki](https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)) [imdb](https://www.imdb.com/title/tt0203701/plotsummary/)
+[<img src="https://i.ebayimg.com/images/g/RvIAAOSwimZdcTmf/s-l1600.webp" alt="Johnny Cage" />](https://i.ebayimg.com/images/g/RvIAAOSwimZdcTmf/s-l1600.webp)
+[<img src="https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/mortal-kombat_marquee-scaled.jpg" alt="Mortal Kombat (rev 5.0 T-Unit 03-19-93)" />](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/mortal-kombat_marquee-scaled.jpg)
+
+# Mortal Kombat (rev 5.0 T-Unit 03-19-93)
+
+<iframe src="https://archive.org/embed/arcade_mk" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # [Enter The Dragon [ 1973] 816p](https://en.wikipedia.org/wiki/Vertigo_(film))
 

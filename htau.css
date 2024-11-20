@@ -241,7 +241,9 @@ grid-template-rows: auto auto auto;
   
 }
 
-
+img[src*="Midway_Games_logo"] {background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
+  center repeat; width: 100%;}
 
 p {
   display:inline;
