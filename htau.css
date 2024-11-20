@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@900&family=Fredoka+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
 @import "_sass/rouge-base16-dark.scss";
+@import "_sass/normalize";
+@import "_sass/fonts";
+@import "_media.css";
+@import "_sass/_default_colors.scss";
 @font-face {
   font-family: Cluster;
   src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
@@ -245,7 +250,7 @@ embed {
 video {
   height: auto !important;
   width: 100% !important;
-  border-radius:51px
+  border-radius:15px
   display: block;
   margin-block: 10px 10px;
   background: repeating-linear-gradient(

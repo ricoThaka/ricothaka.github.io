@@ -8,6 +8,19 @@ tags: saint
 
 <img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" class="crt" />
 
+# Earth Rotation from Galileo Imagery: 600 x Real-Time
+>Released Tuesday, September 1, 1998 
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the [Galileo spacecraft](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html) during a close pass of the Earth on December 11-12, 1990. The animations range from real-time, in which no rotation can be perceived . . . [Visualizations by: Horace Mitchell](https://svs.gsfc.nasa.gov/1374/)
+<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
+  
+<source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 # [#Normani](https://youtube.com/shorts/5As_tra2euA?si=jOptiA5ITZ_2c-H7) and [#ArianaGrande](https://youtube.com/shorts/NNuB4uNS_ms?si=FDDx25gNrRpdBp7r)'s friendship gives us a dopamine boost. 😍 [#WickedMovie](https://www.youtube.com/watch?v=6COmYeLsz4c)
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@enews/video/7435496425376533802" data-video-id="7435496425376533802" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@enews" href="https://www.tiktok.com/@enews?refer=embed">@enews</a> <a title="normani" target="_blank" href="https://www.tiktok.com/tag/normani?refer=embed">#Normani</a> and <a title="arianagrande" target="_blank" href="https://www.tiktok.com/tag/arianagrande?refer=embed">#ArianaGrande</a>&#39;s friendship gives us a dopamine boost. 😍 <a title="wickedmovie" target="_blank" href="https://www.tiktok.com/tag/wickedmovie?refer=embed">#WickedMovie</a> <a target="_blank" title="♬ original sound - E! News" href="https://www.tiktok.com/music/original-sound-7435496384159107883?refer=embed">♬ original sound - E! News</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
@@ -21,6 +34,10 @@ Mortal Kombat is a 1992 fighting game developed and published by Midway. It is t
 # Mortal Kombat (rev 5.0 T-Unit 03-19-93)
 
 <iframe src="https://archive.org/embed/arcade_mk" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![nbaJam](https://upload.wikimedia.org/wikipedia/commons/9/9a/Midway_Games_logo.svg)
+
+
 
 # [Enter The Dragon [ 1973] 816p](https://en.wikipedia.org/wiki/Vertigo_(film))
 
