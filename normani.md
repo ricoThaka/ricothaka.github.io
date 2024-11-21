@@ -5,6 +5,11 @@ mermaid: true
 permalink: /normani 
 tags: saint
 ---
+# Normani Reveals She Didn't Want To Release "Motivation"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4vg8gSq915s?si=MjGkFbmZH8A-2aPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FKXSh14svlQ?si=K264K96gQ54q4r32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/krgHn6lFdUE?si=fUEQ4oQU0dYu2rKS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[<img src="https://pbs.twimg.com/media/GcjBVDJXgAAk4G-?format=jpg&name=medium" alt="Doechii graffiti" />](https://pbs.twimg.com/media/GcjBVDJXgAAk4G-?format=jpg&name=medium)
 
 # The Last Blade - Bakumatsu Roman - Gekka no Kenshi (NGM-2340)
 # The Last Blade (幕末ばくまつ浪漫ろまん, lit. "Curtain Closing Romance")
