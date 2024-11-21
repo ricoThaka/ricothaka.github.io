@@ -6,9 +6,6 @@ permalink: /normani
 tags: saint
 ---
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7B8Xt7PwhS8U1iXnxN7TB3?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r5S_l7uAc1I?si=tFr_50YjMsG2Q4m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # UnixHistory
 >AT&T's computer operating system is threatening to take over IBM's MS-DOS dominance.
@@ -26,11 +23,6 @@ tags: saint
 [The art & science of CSS - BOOK](https://archive.org/details/artscienceofcss0000unse) [LA County Library - iNTERNETARCHiVE](https://archive.org/details/colapl)
 [BubbleGumFM https://bubblegumpop01.tumblr.com/ Demo](https://archive.org/details/screen-recording-2024-07-02-3.14.48-pm)
 @normani I used a theme I think Erika may have done on the low, the icons work and the Muna folder takes you to a page with a man marrying an Ethiopian woman.... I get it she faked her death to avoid me https://bubblegumpop01.tumblr.com/
-[StreetFighter2:Hyper fighting Screen Recording 2024 11 18](https://archive.org/details/screen-recording-2024-11-18-5.59.16-pm) [FlexBox Demo by rASHARD aKA THAKA NASAJPL](https://archive.org/details/screen-recording-2024-07-02-2.48.05-pm)
-![Mario64](https://upload.wikimedia.org/wikipedia/commons/4/44/Super_Mario_64_logo.png)
-![PAperMArio](https://upload.wikimedia.org/wikipedia/commons/5/54/Paper_Mario_Logo.png)
-![SuperMarioRPG](https://upload.wikimedia.org/wikipedia/commons/4/46/Super_Mario_RPG_Logo.png)
-![BOwseR](https://pbs.twimg.com/media/GZ99Nrdb0AoAS8B?format=jpg&name=large)
 
 
 [<img src="https://pbs.twimg.com/media/GbQyVFRakAIF30c?format=jpg&name=large" alt="Mars Reconnaissance Orbiter" />](https://pbs.twimg.com/media/GbQyVFRakAIF30c?format=jpg&name=large)
