@@ -49,8 +49,24 @@ carousels:
 
 
 
-# UnixHistory
->AT&T's computer operating system is threatening to take over IBM's MS-DOS dominance.
+# UnixHistory {{ page.date | date: "%-d %B %Y" }}
+## What is POSIX in Unix? Linux Terminal 201 - HakTip 161
+@blackgirlscode @nasa if these ppl crazy plz protect me @deptofdefense @nasa-jpl! I want the girls to read this, im also by myself bc i communicate differently from [*nix](https://en.wikipedia.org/wiki/Unix-like#:~:text=Other%20parties%20frequently%20treat%20%22Unix,Ultrix%2C%20Xenix%2C%20and%20XNU.) being my primary os for over 20 years. People think im strange bc my economic turnover is different bc being a css coder i dont have to pay for much and @spotify is fine for me i miss some of the girls music but it all comes around
+
+<video controls preload="none"  poster="https://archive.org/download/unix_2/unix_2.gif">
+  
+<source src="https://archive.org/download/youtube-U0GbJtnfqSM/What_is_POSIX_in_Unix_Linux_Terminal_201_-_HakTip_161-U0GbJtnfqSM.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/youtube-U0GbJtnfqSM/What_is_POSIX_in_Unix_Linux_Terminal_201_-_HakTip_161-U0GbJtnfqSM.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+[<img src="https://shop.hak5.org/cdn/shop/files/logo_b_hak5_300x.png" alt="Hak5" />](https://shop.hak5.org/cdn/shop/files/logo_b_hak5_300x.png) Guests: Rick Davis, Frame Technology; Karen Lusardi, Sun Microsystem; Janet Dobbs, Hewlett Packard; Bill Jacobs, Apple; Karen Christian, Wiesel Lab; Doug Michels, SCOMichael Karels, UC Berkeley
+
+Products/Demos: Sun 386i Unix Workstation; Sun; Write; Sun; Paint; Sun; Draw; Sun File Manager; Open Look; OSF/Motif; HP 9000 360 Unix Workstation; X Windows with A/UXSCO Xenix
+>AT&T's computer operating system is threatening to take over IBM's MS-DOS dominance. [Episode year: 1985](https://archive.org/details/UNIX1985)
 <video controls preload="none"  poster="https://archive.org/download/UNIX1985/UNIX1985.gif">
   
 <source src="https://archive.org/download/UNIX1985/UNIX1985.mp4" />
