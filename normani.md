@@ -6,6 +6,30 @@ permalink: /normani
 tags: saint
 ---
 
+# Earth Rotation from Galileo Imagery: 600 x Real-Time
+>Released Tuesday, September 1, 1998 
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the [Galileo spacecraft](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html) during a close pass of the Earth on December 11-12, 1990. The animations range from real-time, in which no rotation can be perceived . . . [Visualizations by: Horace Mitchell](https://svs.gsfc.nasa.gov/1374/)
+<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
+  
+<source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+### A Latinx Resource Guide: Civil Rights Cases and Events in the United States
+## 1968: East Los Angeles Walkouts
+Discrepancies in the education of Anglo and Mexican-American students surfaced in Los Angeles during the 1950s and 1960s. Mexican-American students experienced a 60% dropout rate from high school, and those who did graduate averaged the reading level of an 8th grade Anglo student. In some schools, teachers prohibited students from speaking Spanish, and in others, school staff recommended Mexican-American students educational curriculum meant to help students with mental disabilities. These schools funneled many Mexican American students into vocational programs and discouraged from post-secondary studies. In response, students, teachers, parents, and activists began to organize.[ContinueReading](https://guides.loc.gov/latinx-civil-rights/east-la-walkouts) [Related Tweet EastLosangeles Today](https://x.com/RicoThaka/status/1831786037527638408)
+
+
+[1986 SPECIAL REPORT:"THE VANISHING BLACK FAMILY"](https://www.youtube.com/watch?v=_vrw416MnJ8)
+[LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.pdf) [CoronaVirusPAtent European Publication Server](https://data.epo.org/publication-server/document/xml/3172319/B1/2019-11-20)
+![LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.jpg)
+
+![EcoStress](https://ecostress.jpl.nasa.gov/logo.png)
+
 # [Coldcut - Essential Mix [2006-01-29] bbc radio 1](https://www.youtube.com/watch?v=05YRmVTM2RM)
 
 
@@ -24,23 +48,25 @@ tags: saint
 
 <iframe src="https://archive.org/embed/marvel-super-heroes" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-# Earth Rotation from Galileo Imagery: 600 x Real-Time
->Released Tuesday, September 1, 1998 
-This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the [Galileo spacecraft](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html) during a close pass of the Earth on December 11-12, 1990. The animations range from real-time, in which no rotation can be perceived . . . [Visualizations by: Horace Mitchell](https://svs.gsfc.nasa.gov/1374/)
-<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
-  
-<source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm" />
-  
 
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm">download it</a>
-  and watch it with your favorite video player!
-</video>
 
 # [#Normani](https://youtube.com/shorts/5As_tra2euA?si=jOptiA5ITZ_2c-H7) and [#ArianaGrande](https://youtube.com/shorts/NNuB4uNS_ms?si=FDDx25gNrRpdBp7r)'s friendship gives us a dopamine boost. 😍 [#WickedMovie](https://www.youtube.com/watch?v=6COmYeLsz4c)
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@enews/video/7435496425376533802" data-video-id="7435496425376533802" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@enews" href="https://www.tiktok.com/@enews?refer=embed">@enews</a> <a title="normani" target="_blank" href="https://www.tiktok.com/tag/normani?refer=embed">#Normani</a> and <a title="arianagrande" target="_blank" href="https://www.tiktok.com/tag/arianagrande?refer=embed">#ArianaGrande</a>&#39;s friendship gives us a dopamine boost. 😍 <a title="wickedmovie" target="_blank" href="https://www.tiktok.com/tag/wickedmovie?refer=embed">#WickedMovie</a> <a target="_blank" title="♬ original sound - E! News" href="https://www.tiktok.com/music/original-sound-7435496384159107883?refer=embed">♬ original sound - E! News</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296704151&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lapalux" title="Lapalux" target="_blank" style="color: #cccccc; text-decoration: none;">Lapalux</a> · <a href="https://soundcloud.com/lapalux/swallowing-smoke" title="Swallowing Smoke" target="_blank" style="color: #cccccc; text-decoration: none;">Swallowing Smoke</a></div>
+
+# [Enter The Dragon [ 1973] 816p](https://en.wikipedia.org/wiki/Vertigo_(film))
+
+
+<video controls preload="none" width="100%" height="auto" poster="https://i.etsystatic.com/29534914/r/il/0f268e/5497958111/il_794xN.5497958111_ivqi.jpg">
+  
+<source src="https://archive.org/download/cinema_bucanero_202306/Enter%20The%20Dragon%20%5B1973%5D816p.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/cinema_bucanero_202306/Enter%20The%20Dragon%20%5B1973%5D816p.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 # Mortal Kombat (1992 video game)
 Mortal Kombat is a 1992 fighting game developed and published by Midway. It is the first entry in the Mortal Kombat series and was subsequently released by Acclaim Entertainment for nearly every home platform at that time. The game focuses on several characters of various intentions who enter a martial arts tournament with worldly consequences. It introduced many key aspects of the Mortal Kombat series, including the unique five-button control scheme and gory finishing moves called Fatalities. [Wiki](https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)) [imdb](https://www.imdb.com/title/tt0203701/plotsummary/) [Mortal Kombat (rev 5.0 T-Unit 03/19/93) retrogames.cc](https://www.retrogames.cc/arcade-games/mortal-kombat-rev-5-0-t-unit-03-19-93.html) 
@@ -55,18 +81,7 @@ Mortal Kombat is a 1992 fighting game developed and published by Midway. It is t
 
 
 
-# [Enter The Dragon [ 1973] 816p](https://en.wikipedia.org/wiki/Vertigo_(film))
 
-
-<video controls preload="none" width="100%" height="auto" poster="https://i.etsystatic.com/29534914/r/il/0f268e/5497958111/il_794xN.5497958111_ivqi.jpg">
-  
-<source src="https://archive.org/download/cinema_bucanero_202306/Enter%20The%20Dragon%20%5B1973%5D816p.mp4" />
-  
-
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/cinema_bucanero_202306/Enter%20The%20Dragon%20%5B1973%5D816p.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
 
 # Erikas Breakup on the LosAngeles Freeway
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/41PwFUEt9XE3Cz0H8RA7vU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -111,16 +126,6 @@ HiView is a data explorer and image viewing application supporting the [JPEG2000
 ![HiView](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dTtYVQzlwBMpVyQ4h3wy2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### A Latinx Resource Guide: Civil Rights Cases and Events in the United States
-## 1968: East Los Angeles Walkouts
-Discrepancies in the education of Anglo and Mexican-American students surfaced in Los Angeles during the 1950s and 1960s. Mexican-American students experienced a 60% dropout rate from high school, and those who did graduate averaged the reading level of an 8th grade Anglo student. In some schools, teachers prohibited students from speaking Spanish, and in others, school staff recommended Mexican-American students educational curriculum meant to help students with mental disabilities. These schools funneled many Mexican American students into vocational programs and discouraged from post-secondary studies. In response, students, teachers, parents, and activists began to organize.[ContinueReading](https://guides.loc.gov/latinx-civil-rights/east-la-walkouts) [Related Tweet EastLosangeles Today](https://x.com/RicoThaka/status/1831786037527638408)
-
-
-[1986 SPECIAL REPORT:"THE VANISHING BLACK FAMILY"](https://www.youtube.com/watch?v=_vrw416MnJ8)
-[LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.pdf) [CoronaVirusPAtent European Publication Server](https://data.epo.org/publication-server/document/xml/3172319/B1/2019-11-20)
-![LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.jpg)
-
-![EcoStress](https://ecostress.jpl.nasa.gov/logo.png)
 
 
 # Dear_Normani
