@@ -6,37 +6,23 @@ permalink: /normani
 tags: saint
 ---
 
-[Coldcut - Essential Mix [2006-01-29] bbc radio 1](https://www.youtube.com/watch?v=05YRmVTM2RM)
+# [Coldcut - Essential Mix [2006-01-29] bbc radio 1](https://www.youtube.com/watch?v=05YRmVTM2RM)
 
 
-<div class="tupperware">
-   
-    <div>                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" /></div>
-    <div>                        <img src="https://mars.nasa.gov/system/resources/detail_files/25690_2-PIA24338-800.gif" /></div>
-    <div>                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1006_PIA24489-3-ncamRRWheel-800px.gif" /></div>
-</div> 
 
 
-# Marvel Super Heroes 1960s Cartoon Series Preservation
 
-
-<iframe src="https://archive.org/embed/marvel-super-heroes" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-<div class='tupperware'>
-
-   <img src="https://www.graffiti.org/sfb/refa2002oakland04.jpg" alt="Girl in a jacket" >
-   <img src="https://mars.nasa.gov/system/resources/detail_files/27288_PIA25708.jpg" alt="Girl in a jacket" >
-   <a href="https://m.media-amazon.com/images/I/61JA-96HB6L._AC_UF1000,1000_QL80_.jpg"><img src="https://m.media-amazon.com/images/I/61JA-96HB6L._AC_UF1000,1000_QL80_.jpg" alt="BUBBLEGUM_POP" /> </a>
-   <a href="https://storage.googleapis.com/hipcomic/p/e2cc845e7775d565cecf532adda2b02c-800.jpg"><img src="https://storage.googleapis.com/hipcomic/p/e2cc845e7775d565cecf532adda2b02c-800.jpg" alt="BUBBLEGUM_POP" /> </a>
-
-</div>
 
 
 <iframe src="https://archive.org/embed/arcade_msh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Marvel Super Heroes (Euro 951024)
 <img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" class="crt" />
+
+# Marvel Super Heroes 1960s Cartoon Series Preservation
+
+
+<iframe src="https://archive.org/embed/marvel-super-heroes" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Earth Rotation from Galileo Imagery: 600 x Real-Time
 >Released Tuesday, September 1, 1998 
