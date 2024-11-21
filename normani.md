@@ -6,9 +6,15 @@ permalink: /normani
 tags: saint
 ---
 
+[<img src="https://pbs.twimg.com/media/GbQyVFRakAIF30c?format=jpg&name=large" alt="Mars Reconnaissance Orbiter" />](https://pbs.twimg.com/media/GbQyVFRakAIF30c?format=jpg&name=large)
+[<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_011600_011699/ESP_011673_1090_ESP_029224_1090/ESP_011673_1090_ESP_029224_1090_RED.browse.png" alt="Mars Reconnaissance Orbiter" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_011600_011699/ESP_011673_1090_ESP_029224_1090/ESP_011673_1090_ESP_029224_1090_RED.browse.png)
+[<img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Mars Reconnaissance Orbiter" />](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+### [Normani @blackgirlscode someone left a scary message](https://x.com/thakasartu/status/1857546216739057809)
+
 # Earth Rotation from Galileo Imagery: 600 x Real-Time
 >Released Tuesday, September 1, 1998 
-This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the [Galileo spacecraft](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html) during a close pass of the Earth on December 11-12, 1990. The animations range from real-time, in which no rotation can be perceived . . . [Visualizations by: Horace Mitchell](https://svs.gsfc.nasa.gov/1374/)
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the [Galileo spacecraft](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html) during a close pass of the Earth on December 11-12, 1990. The animations range from real-time, in which no rotation can be perceived . . . [Visualizations by: Horace Mitchell](https://svs.gsfc.nasa.gov/1374/) [ATLAS CARTOGRAPHY](https://pds-imaging.jpl.nasa.gov/beta/archive-explorer?mission=vgr&instrument=pdart16&bundle=wenkert_pdart16_vgr_rav1ciun&uri=atlas:pds4:vgr:voyager_1:/wenkert_pdart16_vgr_rav1ciun/browse/rdr/vgr1/V1NA_0231550_RAW.png-)
 <video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
   
 <source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm" />
