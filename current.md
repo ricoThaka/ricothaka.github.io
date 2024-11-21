@@ -1,3 +1,51 @@
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg) 
+# UnixHistory {{ page.date | date: "%-d %B %Y" }}
+## What is POsIX in Unix? Linux Terminal 201 - HakTip 161
+@blackgirlscode @nasa if these ppl crazy plz protect me @deptofdefense @nasa-jpl! I want the girls to read this, im also by myself bc i communicate differently from [*nix](https://en.wikipedia.org/wiki/Unix-like#:~:text=Other%20parties%20frequently%20treat%20%22Unix,Ultrix%2C%20Xenix%2C%20and%20XNU.) being my primary os for over 20 years. People think im strange bc my economic turnover is different bc being a css coder i dont have to pay for much and @spotify is fine for me i miss some of the girls music but it all comes around 
+
+<video controls preload="none"  poster="https://ia803006.us.archive.org/9/items/youtube-U0GbJtnfqSM/What_is_POSIX_in_Unix_Linux_Terminal_201_-_HakTip_161-U0GbJtnfqSM_thumb.jpg">
+  
+<source src="https://archive.org/download/youtube-U0GbJtnfqSM/What_is_POSIX_in_Unix_Linux_Terminal_201_-_HakTip_161-U0GbJtnfqSM.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/youtube-U0GbJtnfqSM/What_is_POSIX_in_Unix_Linux_Terminal_201_-_HakTip_161-U0GbJtnfqSM.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+[<img src="https://shop.hak5.org/cdn/shop/files/logo_b_hak5_300x.png" alt="Hak5" />](https://shop.hak5.org/cdn/shop/files/logo_b_hak5_300x.png) Guests: Rick Davis, Frame Technology; Karen Lusardi, Sun Microsystem; Janet Dobbs, Hewlett Packard; Bill Jacobs, Apple; Karen Christian, Wiesel Lab; Doug Michels, SCOMichael Karels, UC Berkeley
+
+Products/Demos: Sun 386i Unix Workstation; Sun; Write; Sun; Paint; Sun; Draw; Sun File Manager; Open Look; OSF/Motif; HP 9000 360 Unix Workstation; X Windows with A/UXSCO Xenix
+<video controls preload="none"  poster="https://archive.org/download/unix_2/unix_2.gif">
+  
+<source src="https://ia800201.us.archive.org/29/items/unix_2/unix_2_512kb.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://ia800201.us.archive.org/29/items/unix_2/unix_2_512kb.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+>AT&T's computer operating system is threatening to take over IBM's MS-DOS dominance. [Episode year: 1985](https://archive.org/details/UNIX1985)
+<video controls preload="none"  poster="https://archive.org/download/UNIX1985/UNIX1985.gif">
+  
+<source src="https://archive.org/download/UNIX1985/UNIX1985.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/UNIX1985/UNIX1985.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309797860&color=%23cdcdcd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/unkle-versus-scratch-perverts-radio-one-breezeblock-show-02011999" title="U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)" target="_blank" style="color: #cccccc; text-decoration: none;">U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)</a></div>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oC9qi4VWBMI?si=FVJbP2asQuFYCx5K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1AAqvhkrlQTHkW7YgFkMhU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # [The IT Crowd:Yesterday's Jam](https://www.youtube.com/watch?v=fU14GSc_mzA)

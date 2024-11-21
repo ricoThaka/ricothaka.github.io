@@ -45,47 +45,13 @@ carousels:
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
 
-[RashardLeanred - Updated](https://ricothaka.github.io/rashardlearned/) and [SpaceForce](https://www.spaceforce.mil/) tweeted [RashardMRO](ricothaka.github.io/rashardmro) so [![Twitter Follow](https://img.shields.io/badge/Social-US_SpaceCom__-blue?style=social&logo=X)](https://twitter.com/US_SpaceCom) ... [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani)
+[RashardLeanred - Updated](https://ricothaka.github.io/rashardlearned/) and [SpaceForce](https://www.spaceforce.mil/) tweeted [RashardMRO](ricothaka.github.io/rashardmro) so [![Twitter Follow](https://img.shields.io/badge/Social-US_SpaceCom__-blue?style=social&logo=X)](https://twitter.com/US_SpaceCom) ... [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) ### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf)
 
 
 
-# UnixHistory {{ page.date | date: "%-d %B %Y" }}
-## What is POSIX in Unix? Linux Terminal 201 - HakTip 161
-@blackgirlscode @nasa if these ppl crazy plz protect me @deptofdefense @nasa-jpl! I want the girls to read this, im also by myself bc i communicate differently from [*nix](https://en.wikipedia.org/wiki/Unix-like#:~:text=Other%20parties%20frequently%20treat%20%22Unix,Ultrix%2C%20Xenix%2C%20and%20XNU.) being my primary os for over 20 years. People think im strange bc my economic turnover is different bc being a css coder i dont have to pay for much and @spotify is fine for me i miss some of the girls music but it all comes around
-
-<video controls preload="none"  poster="https://archive.org/download/unix_2/unix_2.gif">
-  
-<source src="https://archive.org/download/youtube-U0GbJtnfqSM/What_is_POSIX_in_Unix_Linux_Terminal_201_-_HakTip_161-U0GbJtnfqSM.mp4" />
-  
-
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/youtube-U0GbJtnfqSM/What_is_POSIX_in_Unix_Linux_Terminal_201_-_HakTip_161-U0GbJtnfqSM.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
-
-[<img src="https://shop.hak5.org/cdn/shop/files/logo_b_hak5_300x.png" alt="Hak5" />](https://shop.hak5.org/cdn/shop/files/logo_b_hak5_300x.png) Guests: Rick Davis, Frame Technology; Karen Lusardi, Sun Microsystem; Janet Dobbs, Hewlett Packard; Bill Jacobs, Apple; Karen Christian, Wiesel Lab; Doug Michels, SCOMichael Karels, UC Berkeley
-
-Products/Demos: Sun 386i Unix Workstation; Sun; Write; Sun; Paint; Sun; Draw; Sun File Manager; Open Look; OSF/Motif; HP 9000 360 Unix Workstation; X Windows with A/UXSCO Xenix
->AT&T's computer operating system is threatening to take over IBM's MS-DOS dominance. [Episode year: 1985](https://archive.org/details/UNIX1985)
-<video controls preload="none"  poster="https://archive.org/download/UNIX1985/UNIX1985.gif">
-  
-<source src="https://archive.org/download/UNIX1985/UNIX1985.mp4" />
-  
-
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/UNIX1985/UNIX1985.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
-
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309797860&color=%23cdcdcd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/unkle-versus-scratch-perverts-radio-one-breezeblock-show-02011999" title="U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)" target="_blank" style="color: #cccccc; text-decoration: none;">U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)</a></div>
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oC9qi4VWBMI?si=FVJbP2asQuFYCx5K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
+# Currently Compling
 {% include_relative current.md %}
 
 
