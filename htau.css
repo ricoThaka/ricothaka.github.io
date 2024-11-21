@@ -581,21 +581,23 @@ pre {
   overflow-y: hidden;
 }
 
-/* Clearfix */
 
 .twoPanelSpread {
-  border-radius:12px;
-  background-color: #00db46; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, #e66250, #ff80cc);
+  /*wrapper*/
+  margin: 50px;
+  height: auto;
+  padding: 0px;
+  background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp)
+    center repeat;
 }
 
 .row {
-  border-radius:12px;
+  /*stackablerows*/
+  border-radius: 0px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-  
 }
 
 .panelColumn {
@@ -603,41 +605,36 @@ pre {
   flex-direction: column;
   flex-basis: 100%;
   flex: 1;
-  overflow: hidden;
 }
 
-
 .leftColumn {
-  /* background-color: #2470FF; */
+  background-color: #2470ff;
   width: 100%;
+  overflow: auto;
 }
 
 .leftColumn img {
-  
-    flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden
-  
+  flex-shrink: 0;
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
 }
 
 .rightColumn {
   /* background-color: #c9ff23; */
 }
-.rightColumn img { 
- 
-    flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden
+.rightColumn img {
+  flex-shrink: 0;
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
 }
-
 
 
 
