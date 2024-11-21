@@ -106,35 +106,10 @@ background-size: 70.4px 70.4px;
   margin: auto;
 }
 
-.logo {
-  float: left;
-  background-color: black;
-  display: block;
-}
 
 ::selection {
   color: #aaff00;
   background: #454b1b;
-}
-ul {
-  padding: 0;
-  margin: 0;
-  color: white;
-}
-
-li {
-  display: inline;
-  position: relative;
-  color: white;
-}
-
-ul ul {
-  position: absolute;
-  display: none;
-}
-
-li:hover ul {
-  display: block;
 }
 
 .logo {
@@ -233,6 +208,20 @@ width: 55vw;
 
 
 
+.tupperware > * {
+  border: 1px solid #c9ff23;
+ border-radius: 1px;
+ padding: 8px;
+ height: 20vh;
+ }
+
+.tupperware {
+ display: flex;
+ 
+ flex-flow: row wrap;   justify-content: center;
+ padding: 15px;
+ gap: 5px;
+}
 
 .cover { 
   
@@ -316,10 +305,7 @@ p {
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     center repeat;
 }
-::selection {
-color: #F2E205;
-background: #595302;
-}
+
 
 p::first-letter {
   font-size: 2rem;
