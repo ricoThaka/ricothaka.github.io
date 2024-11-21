@@ -66,6 +66,8 @@ table {
 html {
 font: normal 12px/18px "Red Hat Mono","Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
  font-size: 1rem;
+ width: 100vw;
+ height: 100vh;
 
 }
 
@@ -80,6 +82,8 @@ body {
  background-size: cover;
 color:white;
   font-optical-sizing: auto;
+  width: 100vw;
+  height: 100vh;
 }
 /*
 body {
@@ -476,40 +480,12 @@ a {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
-video {
-  border-radius:12px;
-  display: block;
-  margin-block: 10px 10px;
-    background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
-  
-border-radius:12px;
-  transition: 4s cubic-bezier(.25,.1,.2,3);
-}
 
-video:hover {
-  border-radius:12px;
-  display: block;
-  margin-block: 10px 10px;
-  background: rgb(217,4,121);
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
-  
-
-}
 
 
 /* Clearfix */
 
-.twoPanelSpread {
-  border-radius:12px;
-  background-color: #00db46; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, #e66250, #ff80cc);
-}
+
 
 
 
