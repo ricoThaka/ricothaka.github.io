@@ -10,6 +10,7 @@ After years i finally got a clean try at MArioRPG. Maybe TedRoss is not as bad a
 [a track from Guilty Simpson & J Dilla's unfinished album - MAnsWorld](https://www.youtube.com/watch?v=VEDBFzDnIRM)
 ![BERKELEY ERiKA CorMiEr Akire Akeevah Konnie Esther Kevin Leonard](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1XSUdSojWNJCgNqKNxfcVr?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 ## Dear_Coral
