@@ -520,7 +520,7 @@ a {
 
 
 #main {
-margin-top: 15px;
+margin-top: 35px;
 background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/saturn.png ) no-repeat center center fixed; 
 line-height: 1.5;
 -webkit-background-size: cover;
@@ -537,7 +537,7 @@ background-size: cover;
 }
 .floatleft img:nth-child(even) {
   float: left;
-  border-bottom: solid 10px #ffffff50;
+
 }
   
  img {  max-height: 100%;
@@ -641,6 +641,22 @@ pre {
     overflow: hidden
 }
 /* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
+
+.tupperware > * {
+ border: 1px solid #c9ff23;
+ border-radius: 1px;
+ padding: 8px;
+ height: 200px;
+ }
+
+.tupperware {
+ display: flex;
+ flex-flow: row wrap;   justify-content: center;
+ padding: 15px;
+ gap: 5px;
+}
+
+
 
 .flex-container {
 
