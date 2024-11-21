@@ -657,7 +657,7 @@ pre {
 
 }
 
-.flex-container > * {
+.flex-container > div{
  
   border: 1px solid #c9ff23;
   border-radius: 1px;
