@@ -1,4 +1,5 @@
 
+<iframe src="https://archive.org/embed/winampskin_Samurai_Showdown_by_KiD" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
 # [ポケモン！ きみにきめた:Pokémon, I Choose You!](https://www.imdb.com/title/tt0168366/)

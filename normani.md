@@ -8,6 +8,38 @@ tags: saint
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
 ![starMap](https://www.archives.gov/files/4958425-a.jpg)
 
+# 93ANiME:獣兵衛忍風帖 Ninja Scroll
+![WickedCity](https://upload.wikimedia.org/wikipedia/en/f/f4/Ninja-Scroll-Poster.jpg) Ninja Scroll (Japanese: 獣兵衛忍風帖, Hepburn: Jūbē Ninpūchō, lit. "Jubei's Ninja Chronicles") is a 1993 Japanese animated jidaigeki-chanbara film written and directed by Yoshiaki Kawajiri, starring the voices of Kōichi Yamadera, Emi Shinohara, Takeshi Aono, Daisuke Gōri, Toshihiko Seki and Shūichirō Moriyama. The film was a co-production between JVC, Toho and Movic, with Madhouse serving as the animation studio. Ninja Scroll was theatrically released in Japan on June 5, 1993, and received an English-dubbed release through Manga Entertainment in 1995.[1][Wiki](https://en.wikipedia.org/wiki/Ninja_Scroll)
+>dubbing - (also known as re-recording and mixing) is a post-production process used in filmmaking and video production where supplementary recordings (known as doubles) are lip-synced and "mixed" with original production audio to create the final product. [Wiki](https://en.wikipedia.org/wiki/Dubbing)
+<video controls preload="none"  poster="https://i.imgur.com/GpPhM58.gif">
+  
+<source src="https://archive.org/download/ninja-scroll_202207/Ninja_Scroll.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/ninja-scroll_202207/Ninja_Scroll.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+![Trajectory](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Voyager_1_skypath_1977-2030.png/1920px-Voyager_1_skypath_1977-2030.png)
+
+# - Shin Samurai Spirits - Haohmaru Jigokuhen (NGM-063 ~ NGH-063) Samurai Shodown II 
+<iframe src="https://archive.org/embed/arcade_samsho2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![SS2](https://static.wikia.nocookie.net/samurai-shodown/images/9/9b/Samsho2_logo_transparent.png)
+
+# 87ANiME: 妖獣都市 Wicked City 
+![WickedCity](https://upload.wikimedia.org/wikipedia/en/a/a7/Wickedcity.jpeg) Wicked City (Japanese: [妖獣都市](https://archive.org/details/WickedCity1987CompleteFilm), Hepburn: Yōjū Toshi, lit. 'Supernatural Beast City') is a 1987 Japanese adult animated dark fantasy[2] action horror film[3] produced by Video Art and Madhouse for Japan Home Video. Based on Black Guard, the first novel of the [Wicked City](https://en.wikipedia.org/wiki/Wicked_City_(novel_series)) series by Hideyuki Kikuchi, the film is the solo directorial debut of Yoshiaki Kawajiri, who also served as the character designer, storyboard artist, animation director, and a key animator. [Wiki](https://en.wikipedia.org/wiki/Wicked_City_(1987_film))
+<video controls preload="none"  poster="https://media.tenor.com/1akj8ZkvBnIAAAAM/wicked-city-aesthetic.gif">
+  
+<source src="https://archive.org/download/WickedCity1987CompleteFilm/Wicked%20City%20%281987%29%20-%20Complete%20Film.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/WickedCity1987CompleteFilm/Wicked%20City%20%281987%29%20-%20Complete%20Film.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 # Dear_Normani 
 Im really angry with you, because i have been looking at old [pictures of u in google images](https://www.google.com/search?sca_esv=332c1457e26e21ac&rlz=1CASLJZ_enUS1137&sxsrf=ADLYWIJ3oQ6qfHXorY-SAqJ-VzYKKKaRQQ:1732246262169&q=normani&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JzWreY9LW7LdGrLDAFqYDH2bHZiU5SwFHpsjQQXz5AGYvVpY8Fv7klAkKlNSPjiPAC5gfvk2-OEYP0kL1SIpmq-4fzmsHs101ekJGO3KVonB-P1V5SR_rzNZstcrUqT3m9kl7sXbF92WuTR1zfVlMP2ZQs7l76iW0qB2yeE3-D40rQjdwQ&sa=X&ved=2ahUKEwi63vqYgO-JAxUwHkQIHSdkOa8QtKgLegQIJRAB). No pornogrpahy comes up on my end, [Dogpile is more Racy](https://www.dogpile.com/serp?q=normani&page=4&sc=dLsLYsh6fwpB00). Its not your fault. I wrote `@dkm14 the relationship is off @enews @playboy fuck you` [ThisisTheTweet](https://x.com/thakasartu/status/1859743891349700768) I was at Durant an someone stole my weed, ppl dont care if im military and medical im so sad, then i saw those pics of u an [that mean ass white man](https://dai.ly/x5i6dhm) an broke down. I missed my [Voyager Team Meeting](https://x.com/NASAJPL/status/1859274920024482270), some one hid the tweet, so i need to chill, if you dump me thats ok, im just lonely, but very satisfied with my job an ppl hurting me constantly!Im [WorkiNg](https://ricothaka.github.io/rashardmro/) on our webpresence bc i learned [5th Harmony](https://youtu.be/5GL9JoH4Sws?si=1jPQ5Vf4zlW8PP6X) is a famous group. And i was seen with u, so imma hold u down till i get further instructions... i hope u like the games if u have internet and hardware to play @blackgirlscode [im learning](https://ricothaka.github.io/rashardlearned) and i made a new page for u with a permalink [normanikordei](https://ricothaka.github.io/normanikordei) for your gossip
 

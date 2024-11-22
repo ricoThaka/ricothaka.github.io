@@ -1,5 +1,6 @@
 [back](./)
 
+![Trajectory](https://upload.wikimedia.org/wikipedia/commons/0/0a/Interstellar_probes_trajectory.svg)
 
 [<img src="https://raw.githubusercontent.com/ricoThaka/rashardlearned/refs/heads/master/assets/img/marscrater.png" alt="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/PSP_002258_1825_RED_C_01_ORTHO.ab.jpg" />](https://raw.githubusercontent.com/ricoThaka/rashardlearned/refs/heads/master/assets/img/marscrater.png)
 
