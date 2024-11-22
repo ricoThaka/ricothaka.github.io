@@ -6,6 +6,17 @@ permalink: /normanikordei
 tags: saint
 ---
 
+# Census 2020: Kash Doll
+<video controls preload="none"  poster="https://archive.org/download/detrmi-Census_2020_-_Kash_Doll/detrmi-Census_2020_-_Kash_Doll.thumbs/Census_2020_-_Kash_Doll_000001.jpg">
+  
+<source src="https://archive.org/download/detrmi-Census_2020_-_Kash_Doll/Census_2020_-_Kash_Doll.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/detrmi-Census_2020_-_Kash_Doll/Census_2020_-_Kash_Doll.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 # Normani Reveals She Didn't Want To Release "Motivation"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4vg8gSq915s?si=MjGkFbmZH8A-2aPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FKXSh14svlQ?si=K264K96gQ54q4r32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -5,26 +5,29 @@ mermaid: true
 permalink: /normani 
 tags: saint
 ---
-# Normani Reveals She Didn't Want To Release "Motivation"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4vg8gSq915s?si=MjGkFbmZH8A-2aPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FKXSh14svlQ?si=K264K96gQ54q4r32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/krgHn6lFdUE?si=fUEQ4oQU0dYu2rKS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[<img src="https://pbs.twimg.com/media/GcjBVDJXgAAk4G-?format=jpg&name=medium" alt="Doechii graffiti" />](https://pbs.twimg.com/media/GcjBVDJXgAAk4G-?format=jpg&name=medium)
+
+
 
 # The Last Blade - Bakumatsu Roman - Gekka no Kenshi (NGM-2340)
-# The Last Blade (幕末ばくまつ浪漫ろまん, lit. "Curtain Closing Romance")
+
 ![thelastblade1](https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/The_Last_Blade_arcade_flyer.jpg/220px-The_Last_Blade_arcade_flyer.jpg) The Last Blade[a] is a fighting game developed and released by SNK for the Neo Geo system in 1997. It was also ported to several home systems. A sequel, The Last Blade 2, was released in 1998. A second sequel, The Last Blade: Beyond the Destiny, was released in 2000.
 
-The game takes place during the Bakumatsu era in Japan, and incorporates various elements of Japanese mythology (with a heavy emphasis on the symbology of the Four Symbols). As such, the background music generally incorporates synthesized instruments simulating a sound appropriate to the 19th century setting, in a Western classical, pseudo-Romantic style. The Last Blade series is seen as a spiritual offshoot to SNK's popular Samurai Shodown series, due to it being a similar 2D weapons-based fighting game [video game database VGDB](https://www.vgdb.com.br/neo-geo-advanced-entertainment-system/jogos/the-last-blade--/)
+The game takes place during the Bakumatsu era in Japan, and incorporates various elements of Japanese mythology (with a heavy emphasis on the symbology of the Four Symbols). As such, the background music generally incorporates synthesized instruments simulating a sound appropriate to the 19th century setting, in a Western classical, pseudo-Romantic style. The Last Blade series is seen as a spiritual offshoot to SNK's popular Samurai Shodown series, due to it being a similar 2D weapons-based fighting game [video game database VGDB](https://www.vgdb.com.br/neo-geo-advanced-entertainment-system/jogos/the-last-blade--/) [instructions](https://archive.org/details/Last_Blade_The_1998_SNK_JP_Bakumatsu_Roman_Gekka_no_Kenshi/page/n7/mode/2up) [Star Gladiator Episode I: Final Crusade (USA 960627)](https://archive.org/details/arcade_starglad) [Vampire Savior 2: The Lord of Vampire (Japan 970913)](https://archive.org/details/arcade_vsav2) [Dead Or Alive ++ (Japan)](https://archive.org/details/arcade_doapp)
+# [The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)](https://www.retrogames.cc/arcade-games/the-last-blade-bakumatsu-roman-gekka-no-kenshi-ngm-2340.html)
+<iframe src="https://archive.org/embed/arcade_lastblad" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [<img src="https://www.vgdb.com.br/gf/fotos/games/media_54879/the-last-blade---54879.jpg" alt="last blade" />](https://www.vgdb.com.br/gf/fotos/games/media_54879/the-last-blade---54879.jpg)
 
+# The Last Blade (幕末ばくまつ浪漫ろまん, lit. "Curtain Closing Romance")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Satsuma-samurai-during-boshin-war-period.jpg" alt="Bakumatsu (幕末, 'End of the bakufu') " />](https://upload.wikimedia.org/wikipedia/commons/5/5c/Satsuma-samurai-during-boshin-war-period.jpg)
 By <a href="https://en.wikipedia.org/wiki/en:Felice_Beato" class="extiw" title="w:en:Felice Beato"><span title="Italian-British photographer">Felice Beato</span></a> - From the English Wikipedia. Origin source unknown, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=53809">Link</a>
 
 
-![kofpsx](https://game-rave.com/wp-content/uploads/2020/05/PSX-King-of-Fighters-95-Release.jpg)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PSX-Console-wController.png" alt="ps1" />](https://upload.wikimedia.org/wikipedia/commons/9/95/PSX-Console-wController.png)
+
 <iframe src="https://archive.org/embed/psx_kof95" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/psx_parappad" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [PlayStationLibrary](https://game-rave.com/?p=8531)
 
 
