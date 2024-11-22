@@ -6,7 +6,7 @@
 [Pokémon](https://en.wikipedia.org/wiki/Talk:Pok%C3%A9mon) ,[a] abbreviated from the Japanese title of Pocket Monsters,[b] and currently branded in English as Pokémon the Series,[c] is a Japanese anime television series, part of The Pokémon Company's Pokémon media franchise, which premiered on TV Tokyo in April 1997.
 
 The anime franchise consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. In the international broadcasts, these series are split across 27 seasons. [WiKi][Pokémon](https://www.pokemon.com/us/animation/seasons/1/episode-1-pokemon-i-choose-you) @normani im going to start from the top, yall been playing outdoors for years and of course im never around for any swap... [rashard](https://ricothaka.github.io/compiling/)
-
+>[Pokemon All Seasons English Subbed by Harry36GG](https://archive.org/details/pokemonsub) [PokeMonFilEs](https://archive.org/download/pokemonsub)
 <video controls preload="none"   width="100%" height="auto" poster="https://i.makeagif.com/media/4-14-2015/pdyhGw.gif">
     
 <source src="https://archive.org/download/pokemonsubbed/0001%20-%20IL001%20-%20Pokemon%21%20I%20Choose%20You.mp4" type="video/mp4" />
