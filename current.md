@@ -1,7 +1,28 @@
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
+# [ポケモン！ きみにきめた:Pokémon, I Choose You!](https://www.imdb.com/title/tt0168366/)
+>Episode aired Sep 8, 1998 [TV-Y](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 22m [imdb](https://www.imdb.com/title/tt0609853/)
+[Pokémon](https://en.wikipedia.org/wiki/Talk:Pok%C3%A9mon) ,[a] abbreviated from the Japanese title of Pocket Monsters,[b] and currently branded in English as Pokémon the Series,[c] is a Japanese anime television series, part of The Pokémon Company's Pokémon media franchise, which premiered on TV Tokyo in April 1997.
+
+The anime franchise consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. In the international broadcasts, these series are split across 27 seasons. [WiKi][Pokémon](https://www.pokemon.com/us/animation/seasons/1/episode-1-pokemon-i-choose-you) @normani im going to start from the top, yall been playing outdoors for years and of course im never around for any swap... [rashard](https://ricothaka.github.io/compiling/)
+
+<video controls preload="none"   width="100%" height="auto" poster="https://i.makeagif.com/media/4-14-2015/pdyhGw.gif">
+    
+<source src="https://archive.org/download/pokemonsubbed/0001%20-%20IL001%20-%20Pokemon%21%20I%20Choose%20You.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/pokemonsubbed/0001%20-%20IL001%20-%20Pokemon%21%20I%20Choose%20You.mp4">MP4</a>
+        video.
+</video> 
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg"  alt="PokeMon" />](https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg) 
+
 [StreetFighter2:Hyper fighting Screen Recording 2024 11 18](https://archive.org/details/screen-recording-2024-11-18-5.59.16-pm) [FlexBox Demo by rASHARD aKA THAKA NASAJPL](https://archive.org/details/screen-recording-2024-07-02-2.48.05-pm)
 @blackgirlscode [im learning](https://ricothaka.github.io/rashardlearned) and i made a new page for u with a permalink [normanikordei](https://ricothaka.github.io/normanikordei) for your [gossip](https://www.dogpile.com/serp?q=normani+kordei+gossip&sc=U8IfO4DbU1Ey00) `Normani Kordei Age. Normani was born Normani Kordei Hamilton on May 31, 1996, in Atlanta, Georgia, U.S.A. She is 28 years old as of 2024. ` - [TheFamousiNfo](https://thefamousinfo.com/normani-kordei/) @nasa-jpl @nasa she was 24 when i was interacting with her for a purpose of companionship and sexuality, im not a predator [Rashard](https://ricothaka.github.io/rashardlearned/2024/11/03/RashardMRO-mars-reconnaissance-orbiter.html)
 
-
+[<img src="https://static.gigabyte.com/StaticFile/Image/Global/380c4e8bb8a9b951d8bca06c404e69cb/Product/33029/png/2000" alt="B550I AORUS PRO AX" />](https://static.gigabyte.com/StaticFile/Image/Global/380c4e8bb8a9b951d8bca06c404e69cb/Product/33029/png/2000)
+[<img src="https://dlcdnwebimgs.asus.com/files/media/c0f2a55e-fee6-48db-9ff6-764135a83e3b/v1/img/spec/performance.png"  alt="GO" />](https://dlcdnwebimgs.asus.com/files/media/c0f2a55e-fee6-48db-9ff6-764135a83e3b/v1/img/spec/performance.png)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg) 
 # UnixHistory {{ page.date | date: "%-d %B %Y" }}
 ## What is POsIX in Unix? Linux Terminal 201 - HakTip 161
