@@ -9,7 +9,7 @@ tags: saint
 ![starMap](https://www.archives.gov/files/4958425-a.jpg)
 
 # Dear_Normani 
-Im really angry with you, because i have been looking at old [pictures of u in google images](https://www.google.com/search?sca_esv=332c1457e26e21ac&rlz=1CASLJZ_enUS1137&sxsrf=ADLYWIJ3oQ6qfHXorY-SAqJ-VzYKKKaRQQ:1732246262169&q=normani&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JzWreY9LW7LdGrLDAFqYDH2bHZiU5SwFHpsjQQXz5AGYvVpY8Fv7klAkKlNSPjiPAC5gfvk2-OEYP0kL1SIpmq-4fzmsHs101ekJGO3KVonB-P1V5SR_rzNZstcrUqT3m9kl7sXbF92WuTR1zfVlMP2ZQs7l76iW0qB2yeE3-D40rQjdwQ&sa=X&ved=2ahUKEwi63vqYgO-JAxUwHkQIHSdkOa8QtKgLegQIJRAB). No pornogrpahy comes up on my end, [Dogpile is more Racy](https://www.dogpile.com/serp?q=normani&page=4&sc=dLsLYsh6fwpB00). Its not your fault. I wrote `@dkm14 the relationship is off @enews @playboy fuck you` [ThisisTheTweet](https://x.com/thakasartu/status/1859743891349700768) I was at Durant an someone stole my weed, ppl dont care if im military and medical im so sad, then i saw those pics of u an [that mean ass white man](https://dai.ly/x5i6dhm) an broke down. I missed my [Voyager Team Meeting](https://x.com/NASAJPL/status/1859274920024482270), some one hid the tweet, so i need to chill, if you dump me thats ok, im just lonely, but very satisfied with my job an ppl hurting me constantly!Im [WorkiNg](https://ricothaka.github.io/rashardmro/) on our webpresence bc i learned [5th Harmony](https://youtu.be/5GL9JoH4Sws?si=1jPQ5Vf4zlW8PP6X) is a famous group. And i was seen with u, so imma hold u down till i get further instructions... i hope u like the games if u have internet and hardware to play @blackgirlscode
+Im really angry with you, because i have been looking at old [pictures of u in google images](https://www.google.com/search?sca_esv=332c1457e26e21ac&rlz=1CASLJZ_enUS1137&sxsrf=ADLYWIJ3oQ6qfHXorY-SAqJ-VzYKKKaRQQ:1732246262169&q=normani&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JzWreY9LW7LdGrLDAFqYDH2bHZiU5SwFHpsjQQXz5AGYvVpY8Fv7klAkKlNSPjiPAC5gfvk2-OEYP0kL1SIpmq-4fzmsHs101ekJGO3KVonB-P1V5SR_rzNZstcrUqT3m9kl7sXbF92WuTR1zfVlMP2ZQs7l76iW0qB2yeE3-D40rQjdwQ&sa=X&ved=2ahUKEwi63vqYgO-JAxUwHkQIHSdkOa8QtKgLegQIJRAB). No pornogrpahy comes up on my end, [Dogpile is more Racy](https://www.dogpile.com/serp?q=normani&page=4&sc=dLsLYsh6fwpB00). Its not your fault. I wrote `@dkm14 the relationship is off @enews @playboy fuck you` [ThisisTheTweet](https://x.com/thakasartu/status/1859743891349700768) I was at Durant an someone stole my weed, ppl dont care if im military and medical im so sad, then i saw those pics of u an [that mean ass white man](https://dai.ly/x5i6dhm) an broke down. I missed my [Voyager Team Meeting](https://x.com/NASAJPL/status/1859274920024482270), some one hid the tweet, so i need to chill, if you dump me thats ok, im just lonely, but very satisfied with my job an ppl hurting me constantly!Im [WorkiNg](https://ricothaka.github.io/rashardmro/) on our webpresence bc i learned [5th Harmony](https://youtu.be/5GL9JoH4Sws?si=1jPQ5Vf4zlW8PP6X) is a famous group. And i was seen with u, so imma hold u down till i get further instructions... i hope u like the games if u have internet and hardware to play @blackgirlscode [im learning](https://ricothaka.github.io/rashardlearned) and i made a new page for u with a permalink [normanikordei](https://ricothaka.github.io/normanikordei)
 
 # The Last Blade - Bakumatsu Roman - Gekka no Kenshi (NGM-2340)
 
@@ -33,6 +33,10 @@ By <a href="https://en.wikipedia.org/wiki/en:Felice_Beato" class="extiw" title="
 
 [PlayStationLibrary](https://game-rave.com/?p=8531)
 
+![Mario64](https://upload.wikimedia.org/wikipedia/commons/4/44/Super_Mario_64_logo.png)
+![PAperMArio](https://upload.wikimedia.org/wikipedia/commons/5/54/Paper_Mario_Logo.png)
+![SuperMarioRPG](https://upload.wikimedia.org/wikipedia/commons/4/46/Super_Mario_RPG_Logo.png)
+![BOwseR](https://pbs.twimg.com/media/GZ99Nrdb0AoAS8B?format=jpg&name=large)
 
 # UnixHistory
 >AT&T's computer operating system is threatening to take over IBM's MS-DOS dominance.
@@ -53,7 +57,7 @@ By <a href="https://en.wikipedia.org/wiki/en:Felice_Beato" class="extiw" title="
 
 
 [<img src="https://pbs.twimg.com/media/GbQyVFRakAIF30c?format=jpg&name=large" alt="Mars Reconnaissance Orbiter" />](https://pbs.twimg.com/media/GbQyVFRakAIF30c?format=jpg&name=large)
-[<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_011600_011699/ESP_011673_1090_ESP_029224_1090/ESP_011673_1090_ESP_029224_1090_RED.browse.png" alt="Mars Reconnaissance Orbiter" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_011600_011699/ESP_011673_1090_ESP_029224_1090/ESP_011673_1090_ESP_029224_1090_RED.browse.png)
+
 [<img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Mars Reconnaissance Orbiter" />](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
 
 ### [Normani @blackgirlscode someone left a scary message](https://x.com/thakasartu/status/1857546216739057809)

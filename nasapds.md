@@ -1,0 +1,1 @@
+[<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_011600_011699/ESP_011673_1090_ESP_029224_1090/ESP_011673_1090_ESP_029224_1090_RED.browse.png" alt="Mars Reconnaissance Orbiter" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_011600_011699/ESP_011673_1090_ESP_029224_1090/ESP_011673_1090_ESP_029224_1090_RED.browse.png)

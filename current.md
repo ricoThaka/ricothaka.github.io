@@ -1,8 +1,5 @@
 [StreetFighter2:Hyper fighting Screen Recording 2024 11 18](https://archive.org/details/screen-recording-2024-11-18-5.59.16-pm) [FlexBox Demo by rASHARD aKA THAKA NASAJPL](https://archive.org/details/screen-recording-2024-07-02-2.48.05-pm)
-![Mario64](https://upload.wikimedia.org/wikipedia/commons/4/44/Super_Mario_64_logo.png)
-![PAperMArio](https://upload.wikimedia.org/wikipedia/commons/5/54/Paper_Mario_Logo.png)
-![SuperMarioRPG](https://upload.wikimedia.org/wikipedia/commons/4/46/Super_Mario_RPG_Logo.png)
-![BOwseR](https://pbs.twimg.com/media/GZ99Nrdb0AoAS8B?format=jpg&name=large)
+
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg) 
