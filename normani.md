@@ -26,6 +26,7 @@ tags: saint
 # - Shin Samurai Spirits - Haohmaru Jigokuhen (NGM-063 ~ NGH-063) Samurai Shodown II 
 <iframe src="https://archive.org/embed/arcade_samsho2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+[Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html) [Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)](https://www.retrogames.cc/ngp-games/samurai-shodown-2-pocket-fighting-series-world-en-ja.html)
 ![SS2](https://static.wikia.nocookie.net/samurai-shodown/images/9/9b/Samsho2_logo_transparent.png)
 
 # 87ANiME: 妖獣都市 Wicked City 
