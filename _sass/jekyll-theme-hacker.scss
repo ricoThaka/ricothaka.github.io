@@ -85,7 +85,7 @@ h1 {
 background-size: 80.4px 80.4px; */
 display: block;
 line-height: 1.7rem;
-font: normal 14px/18px 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+font: normal 14px/18px 'Fredoka One', "Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
 font-size: 3rem;
 word-break: break-all;
 color: #fff;
@@ -558,17 +558,7 @@ blockquote {
   border-left: 1px dotted #b5e853;
 }
 
-pre {
-  background: rgba(0, 0, 0, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 10px;
-  font-size: 16px;
-  color: #b5e853;
-  border-radius: 0px;
-  word-wrap: normal;
-  overflow: auto;
-  overflow-y: hidden;
-}
+
 
 code.highlighter-rouge {
   background: rgba(0, 0, 0, 0.9);

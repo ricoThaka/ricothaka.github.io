@@ -335,7 +335,7 @@ h1 {
 
   display: block;
   line-height: 1.7rem;
-  font: normal 14px/18px 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font: normal 14px/18px 'Fredoka One',"Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
   font-size: 3rem;
   word-break: break-all;
   color: #fff;
@@ -356,10 +356,11 @@ h2 {
    url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
   font-size: 30pt;
   color: white;
-  font-family: Cluster;
+  font-family: Cluster, "Ariel Black";
   word-break: break-all; 
   width: 100%;
 }
+
 
   
  img {  max-height: 100%;
