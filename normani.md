@@ -6,6 +6,17 @@ permalink: /normani
 tags: saint
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
+
+# Important Files
+@blackgirlscode Normani The California Constitution expresses that 
+> "Every person may freely speak, write and publish…sentiments on all subjects, being responsible for the abuse of this right. A law may not restrain or abridge liberty of speech or press." [Article I, Section 2(a)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I) `downloadBelow`
+### CaliforniaConstitution Article 1 sec 2(a)
+Although already generally protected via the 1st Amendment, the California Constitution goes on to further confirm freedom of speech for both individuals and the press. [CalState](https://www.csuchico.edu/freespeech/rights/index.shtml) University Chico
+
+[RashardLeanred - Updated](https://ricothaka.github.io/rashardlearned/) and [SpaceForce](https://www.spaceforce.mil/) tweeted [RashardMRO](ricothaka.github.io/rashardmro) so [![Twitter Follow](https://img.shields.io/badge/Social-US_SpaceCom__-blue?style=social&logo=X)](https://twitter.com/US_SpaceCom) ... [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) ### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa
+
 ![starMap](https://www.archives.gov/files/4958425-a.jpg)
 
 # 93ANiME:獣兵衛忍風帖 Ninja Scroll
