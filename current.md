@@ -20,6 +20,14 @@ li.spacious {
 li.spacious.elegant {
   margin: 2em;
 }
+
+#id_value { style properties }
+Note that syntactically (but not specificity-wise), this is equivalent to the following attribute selector:
+
+CSS
+Copy to Clipboard
+[id=id_value] { style properties }
+
 {% endhighlight %}
 
 <iframe src="https://archive.org/embed/winampskin_Samurai_Showdown_by_KiD" width="560" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
