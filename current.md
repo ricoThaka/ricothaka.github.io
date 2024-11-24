@@ -1,4 +1,27 @@
 
+# Class selectors
+
+{% highlight css %}
+[class~=class_name] { style properties }
+Note that this is equivalent to the following attribute selector:
+.class_name { style properties }
+/* All elements with class="spacious" */
+.spacious {
+  margin: 2em;
+}
+
+/* All <li> elements with class="spacious" */
+li.spacious {
+  margin: 2em;
+}
+
+/* All <li> elements with a class list that includes both "spacious" and "elegant" */
+/* For example, class="elegant retro spacious" */
+li.spacious.elegant {
+  margin: 2em;
+}
+{% endhighlight %}
+
 <iframe src="https://archive.org/embed/winampskin_Samurai_Showdown_by_KiD" width="560" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
