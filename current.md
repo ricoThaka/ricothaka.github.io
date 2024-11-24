@@ -1,3 +1,22 @@
+# <picture>  Chemistry & Camera (ChemCam) : Sol 4371:
+
+<picture>
+  <source srcset="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04371/soas/rdr/ccam/CR0_785521283PRC_F1111116CCAM04370L1.PNG" media="(orientation: portrait)" />
+  <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04371/soas/rdr/ccam/CR0_785521283PRC_F1111116CCAM04370L1.PNG" alt="" />
+</picture>
+
+
+# <picture>: The Picture element 
+The <picture> HTML element contains zero or more <source> elements and one <img> element to offer alternative versions of an image for different display/device scenarios. [mdn_web_docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) i cant 
+[User Research Is Storytelling](https://alistapart.com/article/user-research-is-storytelling/) 
+
+{% highlight html %}
+<picture>
+  <source srcset="/media/cc0-images/surfer-240-200.jpg" media="(orientation: portrait)" />
+  <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" />
+</picture>
+{% endhighlight %}
+
 
 # Class selectors
 
