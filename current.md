@@ -2,7 +2,7 @@
 
 # [White and Black Volcanoes of Saudi Arabia](https://visibleearth.nasa.gov/images/152839/white-and-black-volcanoes-of-saudi-arabia/152841l)
 [<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152839/harratkhaybarzm_oli2_20240425_th.jpg" />](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152839/harratkhaybarzm_oli2_20240425_th.jpg)
-# <article>: The Article Contents element
+# : The Article Contents element `<article>`
 
 {% raw %}
 {{something}}
