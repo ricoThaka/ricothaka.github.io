@@ -7,9 +7,15 @@ tags: saint
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
 
+#  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+
+# Permutation : Amon Toin 1997
+great production, andy at rpm reccomended it 
+@blackgirlscode 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7jxs0XY2yJS36PZCjUv4Hp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <iframe src="https://archive.org/embed/jay-z-reasonable-doubt" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-#  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 # Important Files
 @blackgirlscode Normani The California Constitution expresses that 
 > "Every person may freely speak, write and publish…sentiments on all subjects, being responsible for the abuse of this right. A law may not restrain or abridge liberty of speech or press." [Article I, Section 2(a)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I) `downloadBelow`
