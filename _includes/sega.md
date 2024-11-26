@@ -1,5 +1,14 @@
 # Sega
 
+
+
+[<img src="https://i.ebayimg.com/images/g/tMAAAOSwY1Fjn2K2/s-l1200.jpg" alt="Wired DecemBer 1993" />](https://i.ebayimg.com/images/g/tMAAAOSwY1Fjn2K2/s-l1200.jpg)
+
+
+# (U) [p1][!] :Comix Zone 
+<iframe src="https://archive.org/embed/Comix_Zone_U_p1_" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 # Flashack
  # פלאשבק: זיכרון גורלי 
  # フラッシュバック 
