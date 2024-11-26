@@ -8,6 +8,11 @@ tags: saint
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
 
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+# [The Chemical Brothers](https://www.thechemicalbrothers.com/web/layouts) : No Geography @blackgirlscode im not being mean or silly acting like i have a job, half these niggas cant read at all!!!! and im scared with them an they [BlackMirrors!](https://en.wikipedia.org/wiki/Talk:Black_Mirror)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7d1KwAPdMEBqCERVsKRUox?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 # CURIOSITY RAW IMAGES : Sol 4374: Left Navigation Camera
 
 This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosity on Sol 4374 (2024-11-25 07:54:39 UTC).
