@@ -1,6 +1,6 @@
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271501236&color=%230dd9c4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dreezydreezy" title="Dreezy" target="_blank" style="color: #cccccc; text-decoration: none;">Dreezy</a> · <a href="https://soundcloud.com/dreezydreezy/spazz-1" title="Spazz" target="_blank" style="color: #cccccc; text-decoration: none;">Spazz</a></div>
 
-[<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb281Y2xqNW1uN2Y1MG5vOWk3ODE2bnMzdnY2cWFrdDBobXBzeHA1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Jehwjdhz4kgMEg0/giphy.webp" alt="Lisa Reading Wired" />](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb281Y2xqNW1uN2Y1MG5vOWk3ODE2bnMzdnY2cWFrdDBobXBzeHA1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Jehwjdhz4kgMEg0/giphy.webp)
 
 <video controls preload="none"   width="100%" height="auto" poster="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb281Y2xqNW1uN2Y1MG5vOWk3ODE2bnMzdnY2cWFrdDBobXBzeHA1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Jehwjdhz4kgMEg0/giphy.webp">
     
