@@ -1,3 +1,14 @@
+
+
+<video controls preload="none"   width="100%" height="auto" poster="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb281Y2xqNW1uN2Y1MG5vOWk3ODE2bnMzdnY2cWFrdDBobXBzeHA1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Jehwjdhz4kgMEg0/giphy.webp">
+    
+<source src="https://archive.org/download/wired_001/wired_001.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/wired_001/wired_001.mp4">MP4</a>
+        video.
+</video>
+
 # <picture>  Chemistry & Camera (ChemCam) : Sol 4371:
 
 <picture>
