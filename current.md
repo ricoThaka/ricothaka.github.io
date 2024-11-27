@@ -2,11 +2,58 @@
 
 # [White and Black Volcanoes of Saudi Arabia](https://visibleearth.nasa.gov/images/152839/white-and-black-volcanoes-of-saudi-arabia/152841l)
 [<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152839/harratkhaybarzm_oli2_20240425_th.jpg" />](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152839/harratkhaybarzm_oli2_20240425_th.jpg)
-# : The Article Contents element `<article>`
+# : The Article Contents element `<article>` - [MDN learning area](https://developer.mozilla.org/en-US/docs/Learn)
+
+# Flexbox [CSS flexible box layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout)
+
+# CSS:MOVES~Tupperware
+@blackgirlscode i wanted to make a container that would give me this 
+{% highlight html %}
+.tupperware > * {
+   border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 8px;
+  flex-basis: min-content;
+  }
+
+.tupperware {
+  display: flex;
+  flex-flow: row wrap; 
+  
+  justify-content: center;
+  padding: 15px;
+  gap: 5px;
+}
+{% endhighlight %}
 
 {% raw %}
-{{something}}
+
+{{ 'now' | date: "%Y" }}
+{% for post in site.posts %}
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+
+
 {% endraw %}
+
+{% highlight html %}
+
+<picture>
+  <source srcset="/media/cc0-images/surfer-240-200.jpg" media="(orientation: portrait)" />
+  <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" />
+</picture>
+
+
+[<picture srcset="/media/cc0-images/surfer-240-200.jpg" media="(orientation: portrait)"  <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" /> ]( <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" />)
+
+{% endhighlight %}
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271501236&color=%230dd9c4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dreezydreezy" title="Dreezy" target="_blank" style="color: #cccccc; text-decoration: none;">Dreezy</a> · <a href="https://soundcloud.com/dreezydreezy/spazz-1" title="Spazz" target="_blank" style="color: #cccccc; text-decoration: none;">Spazz</a></div>
 
