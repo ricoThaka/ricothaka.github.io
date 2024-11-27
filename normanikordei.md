@@ -6,6 +6,12 @@ permalink: /normanikordei
 tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+
+
+# Normani Is Ready to Travel Into a New Era  Packed  Who What Wear - 9mosAgo from {{ 'now' | date: "%Y" }} 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GnxYiNWmFZY?si=ucZZUW55rbQu0zZ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Mothership Connection
+ is the fourth album by American funk band Parliament, released on December 15, 1975 on Casablanca Records. This concept album is often rated among the best Parliament-Funkadelic releases, and was the first to feature horn players Maceo Parker and Fred Wesley, previously of James Brown's backing band the J.B.'s. [Wiki](https://en.wikipedia.org/wiki/Mothership_Connection) [Discogs](https://www.discogs.com/release/177619-Parliament-Mothership-Connection)
 <picture>
   <source media="(min-width:650px)" srcset="https://www.deejay.de/images/xl/6/9/1030969b.jpg">
   <source media="(min-width:465px)" srcset="https://www.deejay.de/images/xl/6/9/1030969b.jpg ">
