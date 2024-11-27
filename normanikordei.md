@@ -6,6 +6,16 @@ permalink: /normanikordei
 tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+<picture>
+  <source media="(min-width:650px)" srcset="https://www.deejay.de/images/xl/6/9/1030969b.jpg">
+  <source media="(min-width:465px)" srcset="https://www.deejay.de/images/xl/6/9/1030969b.jpg ">
+  <img src="https://www.deejay.de/images/xl/6/9/1030969b.jpg " alt="Flowers" style="width:auto;">
+</picture>
+
+# Mothership Connection 1975 : Parliament
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4q1HNSka8CzuLvC8ydcsD2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309797860&color=%23cdcdcd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/unkle-versus-scratch-perverts-radio-one-breezeblock-show-02011999" title="U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)" target="_blank" style="color: #cccccc; text-decoration: none;">U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)</a></div>
 
 
