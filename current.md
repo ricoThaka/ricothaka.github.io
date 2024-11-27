@@ -7,7 +7,10 @@
 # Flexbox [CSS flexible box layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout)
 
 # CSS:MOVES~Tupperware
-@blackgirlscode i wanted to make a container that would give me this 
+@blackgirlscode i wanted to make a container that would give me this effect consistently im studying [responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images), [Controlling ratios of flex items along the main axis](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Controlling_ratios_of_flex_items_along_the_main_axis), and [Mastering wrapping of flex items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Mastering_wrapping_of_flex_items) so its a work in progress u can play with on [codepen](https://codepen.io/ricoThaka/pen/WNVqMWK)
+
+[<img src="https://pbs.twimg.com/media/Gda2x0FagAAQCYh?format=jpg&name=large" alt=""](https://pbs.twimg.com/media/Gda2x0FagAAQCYh?format=jpg&name=large)
+
 {% highlight html %}
 .tupperware > * {
    border: 1px solid #c9ff23;
