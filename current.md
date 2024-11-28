@@ -1,4 +1,13 @@
 
+# HappyThanksGiving @blackgirlscode @whitehouse
+
+
+<video controls preload="none"  poster="https://soho.nascom.nasa.gov/data/LATEST/current_eit_284small.gif">
+<source src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4" type="video/mp4">
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 # Philosophy Rappin Spree - SX3 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3RgZqTQzDGsPC9GLAUGnSQ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
