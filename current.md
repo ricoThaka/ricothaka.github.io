@@ -3,13 +3,14 @@
 # [White and Black Volcanoes of Saudi Arabia](https://visibleearth.nasa.gov/images/152839/white-and-black-volcanoes-of-saudi-arabia/152841l)
 [<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152839/harratkhaybarzm_oli2_20240425_th.jpg" />](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152839/harratkhaybarzm_oli2_20240425_th.jpg)
 # : The Article Contents element `<article>` - [MDN learning area](https://developer.mozilla.org/en-US/docs/Learn)
+The <article> HTML element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable (e.g., in syndication).[`<article>` on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) [HTML.spec](https://html.spec.whatwg.org/multipage/sections.html#the-article-element)
 
 # Flexbox [CSS flexible box layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout)
 
 # CSS:MOVES~Tupperware
 @blackgirlscode i wanted to make a container that would give me this effect consistently im studying [responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images), [Controlling ratios of flex items along the main axis](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Controlling_ratios_of_flex_items_along_the_main_axis), and [Mastering wrapping of flex items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Mastering_wrapping_of_flex_items) so its a work in progress u can play with on [codepen](https://codepen.io/ricoThaka/pen/WNVqMWK)
 
-[<img src="https://pbs.twimg.com/media/Gda2x0FagAAQCYh?format=jpg&name=large" alt=""](https://pbs.twimg.com/media/Gda2x0FagAAQCYh?format=jpg&name=large)
+[<img src="https://pbs.twimg.com/media/Gda2x0FagAAQCYh?format=jpg&name=large" alt="" />](https://pbs.twimg.com/media/Gda2x0FagAAQCYh?format=jpg&name=large)
 
 {% highlight html %}
 .tupperware > * {
