@@ -1,5 +1,8 @@
 
 
+# Philosophy Rappin Spree - SX3 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3RgZqTQzDGsPC9GLAUGnSQ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # [White and Black Volcanoes of Saudi Arabia](https://visibleearth.nasa.gov/images/152839/white-and-black-volcanoes-of-saudi-arabia/152841l)
 [<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152839/harratkhaybarzm_oli2_20240425_th.jpg" />](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152839/harratkhaybarzm_oli2_20240425_th.jpg)
 # : The Article Contents element `<article>` - [MDN learning area](https://developer.mozilla.org/en-US/docs/Learn)
