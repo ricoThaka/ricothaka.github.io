@@ -8,6 +8,21 @@ tags: saint
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
 
 
+# <track>: The Embed Text Track element
+@normani see [coralpage](https://ricothaka.github.io/coral) for my notes 
+```
+The <track> HTML element is used as a child of the media elements, <audio> and <video>. Each track element lets you specify a timed text track (or time-based data) that can be displayed in parallel with the media element, for example to overlay subtitles or closed captions on top of a video or alongside audio tracks.
+```
+
+# My Neighbor Totoro: The Fox Video Dub
+>Publisher Studio Ghibli
+`At long last. The return of the Fox Video dub which had been missing since 2013. It has been restored to this site.` - [Hayao Miyazaki](https://www.bing.com/search?q=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dhayao%2Bmiyazaki%26rlz%3D1CASLJZ_enUS1138%26oq%3DHayao%2BMiyazaki%26gs_lcrp%3DEgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyCggCEAAYsQMYgAQyDQgDEC4Y1AIYsQMYgAQyDQgEEC4Y1AIYsQMYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgASoAgCwAgE%26sourceid%3Dchrome%26ie%3DUTF-8&form=QBLH&sp=-1&lq=0&pq=&sc=0-0&qs=n&sk=&cvid=C953266AD4B14ECDB68DA05670764BEF&ghsh=0&ghacc=0&ghpl=) 
+<video controls preload="none"  poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o5eHBtZ2Uxd3ZseTJueTM4cTY3N252NngwczVqODkwNWsxajExYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xMkWcQ9xTGH8A/giphy.webp">
+<source src="https://archive.org/download/totofox/totofox.mp4" type="video/mp4" />
+  Download the
+  <a href="https://archive.org/download/totofox/totofox.mp4">MP4</a>
+  video.
+</video>
 
 # WebDoc
 [FlexBox - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
