@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Code_in-HTML-orange)
 ![](https://img.shields.io/badge/Code_in-CSS-blue)
 
-# - Diamonds [Official Music Video] - Megan Thee Stallion & Normani (Birds of Prey: The Album) 
+# - Diamonds [Official Music Video] (Birds of Prey: The Album) - Megan Thee Stallion & Normani 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1MxCSRWgI0?si=N8KG_tbqmUdVW5oR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # playlist from old [bubblegumpop (001)](https://thakarashard.github.io/bubblegumpop001/)
