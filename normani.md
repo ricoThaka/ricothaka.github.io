@@ -7,6 +7,17 @@ tags: saint
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 
+
+![This Style Guide for the Branch Libraries of the New York Public Library](https://web.archive.org/web/20070706031151im_/http://www.nypl.org/styleguide/images/styleguidehead.gif)
+
+# Dear_Normani,
+I hope u were not doing anything raunchy today, its thanksgiving weekend and i was loving on u on twitter, its a reflex, i think i know u more. [Chloe](https://web.archive.org/web/20080611104542/http://www.nypl.org/styleguide/css/guidelines.html) was o the bullhorn and i worked on a page for her. Its getting important as my mission duties clarify! Imma be ginvg tours man! Like [Bethel](https://youtu.be/trB4hHgYQhY?si=HcJnmRGC2ONpPWu7), maybe jehovahs witnesses is a nasa lie to combat playboy kidnapping, [![Twitter Follow](https://img.shields.io/badge/Social-SenBillNelson__-blue?style=social&logo=X)](https://twitter.com/SenBillNelson) voice scares me if i listen with my heart i think i might be moved too much. Thats why im head down following orders as i understand [![Twitter Follow](https://img.shields.io/badge/Social-US_SpaceCom__-blue?style=social&logo=X)](https://twitter.com/US_SpaceCom) [![Twitter Follow](https://img.shields.io/badge/Social-nasajpl__-blue?style=social&logo=X)](https://twitter.com/nasajpl) requires of me. Dwayne Gooden might be on the mission, i have to nuetralize my stand point bc i was isolated. I dont like how he said people always dying around you, that make me thing he on the dark team... Back to [chloe](https://ricothaka.github.io/chloe) i made that page [XHTML](https://web.archive.org/web/20080611105650/http://www.nypl.org/styleguide/xhtml/index.html) but had to scale back, im learning how your seo skills can be used in your company web infrastructure with [semantic tags](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) and developing flow [NYPL_STYLEGUiDE_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/) will help u get an authentic retro flow for readers
+
+[NYPL_STYLEGUiDE_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
+[Can we talk about web design?](https://web.archive.org/web/20080605234605/http://www.thenoodleincident.com/tutorials/design_rant/)
+[NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html) 
+
+[NYPL_STYLEGUiDE_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
 <div class="panel4-container">
    
   <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
@@ -39,13 +50,6 @@ tags: saint
  
    <a href="https://www.youtube.com/watch?v=NX7zS_GRX14"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/FRANKSKiv103BMORE.PNG" alt="">  </a>
 
-
-<div class="panel4-container">
-    <div class="item1"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
-    <div class="item2"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
-    <div class="item3"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
-    <div class="item4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
-</div>
 
 [BGP](https://thakarashard.github.io/BUBBLEGUMPOP_PAPA/)
 
