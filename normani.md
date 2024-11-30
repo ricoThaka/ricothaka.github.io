@@ -5,7 +5,69 @@ mermaid: true
 permalink: /normani 
 tags: saint
 ---
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) [BGP](https://thakarashard.github.io/BUBBLEGUMPOP_PAPA/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
+
+<div class="panel4-container">
+   
+  <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
+    <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
+    <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
+    <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
+
+</div>
+
+[Bob Marley Legend full album](https://www.youtube.com/watch?v=Hp325M9MMFI)
+[Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
+
+
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+</div>
+
+
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
+  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
+  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
+</div>
+
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#MSK_GRAFFITI">
+ 
+   <a href="https://www.youtube.com/watch?v=NX7zS_GRX14"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/FRANKSKiv103BMORE.PNG" alt="">  </a>
+
+
+<div class="panel4-container">
+    <div class="item1"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item2"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item3"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+</div>
+
+[BGP](https://thakarashard.github.io/BUBBLEGUMPOP_PAPA/)
+
+
+
+<a href="https://slate.com/technology/2017/03/did-the-cia-really-astrally-project-to-mars-in-1984.html">##DID_THE_CIA##ASTRAL_PROJECT_TO_MARS</a>
+<a href="https://comicbook.com/irl/news/cia-documents-leak-extrasensory-perception-mind-telepathy-reveal/">##EXTRA_SENSORY_PERCEPTION##</a>
+<a href="https://www.vice.com/en/article/7k9qag/how-to-escape-the-confines-of-time-and-space-according-to-the-cia">##RAVEN_AT_VICE_KNOWS_PSYCHIC_SHIT##</a>
+<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_85.pdf">##NSA_TYPESHIT_wit_DAH_SOViETS</a>
+<a href="https://jamesaconrad.com/TK/US-government-interest-in-telekinesis-and-psychokinesis.html">##PSYCHIC_ARMY##ALEX_JONES_and_DAVID_ICK_KNOW_ALL_ABOUT_IT</a>
+<a href="https://youtu.be/tWpQNexUZUQ">##LETHAL_ENFORCERS_2##GUN_FIGHTERS##</a><a href="https://youtu.be/6nwA8oPkaSg">##FORZA5_STi</a><a href="https://www.youtube.com/embed/O9MIvIVWq3E">##SQUARE_ENIX_KNOWS_THAKA_WANTS##A_DRIVING_GAME##</a> <a href="https://en.wikipedia.org/wiki/Stargate_Project">##STARGATE_PROJECT##</a>
+<a href="https://www.californiapsychics.com/blog/psychic-tools-abilities/benefits-reading-remote-viewing-psychic.html">The Benefits of Reading with a Remote Viewing Psychic</a><a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000700620001-2.pdf">##PARAPSYCHOLOGY_COMMUNiCATiON_BARRiERS</a>
+<a href="https://www.gaia.com/article/what-is-remote-viewing">What is Remote Viewing?</a>
+<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080050-9.pdf">##TELEPATHY_COULD_BE_REAL##</a> <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000300420008-1.pdf"> ##PSYCHIC_MAGNIFICATION## </a><a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R003300190006-0.pdf">##NONiNVASiVE_BRAiN_WORK##</a>
+<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400030001-0.pdf"> EXPERIMENTAL DREAM TELEPATHY-CLAIRVOYANCE AND GEOMAGNETIC ACTIVITY (MICHAEL PERSINGER) </a> <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000300180001-1.pdf"> ##EFFORTS_TO_IMPROVE_REMOTE_VIEWING##</a>
+<a href="https://www.cia.gov/readingroom/docs/NSA-RDP96X00790R000100040012-1.pdf"> ##TELEKINESIS## </a>
+<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400100005-8.pdf"> PARAPSYCHOLOGY ##THE_ANGLOS_-->VS<--_THE_LATiNS##</a>
+<a href="https://www.cia.gov/readingroom/freedom-information-act-5-usc-%C2%A7552"> ##THE_SOCIAL_MEDIA_COMPANIES_VIOLATED##THE_FREEDOM_OF_INFORMATION_ACT_IN_SUPRESSING
+ THE_SEARCH_FOR_THAKA_BEKELE_SELASSIE_aka_RASHARD_IMAN_KELLY_AHMEDs_FAMILY##</a>
+ 
+ <a href="http://www.wefunkradio.com/"> #### TUNE_IN --> WeFunK_RADIO [##STREAMING## </a>
+<a href="http://www.wefunkradio.com/show/498/play_aa"> WeFunk_RADIO_BACK_EPISODE --> EPISODE_498] </a>
 
 [THiS_iS_NOT_HOW_HEALTHY_AFRiCA##OPERATES](https://www.youtube.com/watch?v=EPoXBbigVeo) [Sexuality: A Graphic Guide | Launch Event](https://youtu.be/jOIbOMWBHHM) [The Freeze Response and Sexual Assault: PTSD and Trauma Recovery](https://www.youtube.com/watch?v=pes7H4ECTdw) [6 Hidden Signs of Complex PTSD cPTSD](https://www.youtube.com/watch?v=44hqDT7NNHU) [What It’s Like to Break Up with a Narcissist](https://www.youtube.com/watch?v=CtllLbN1IAo) [Intimacy After Trauma | Kat Smith | TEDxMountainViewCollege](https://youtu.be/VB9-4kELT2k) [Relationships After Rape | Shelby St. Pierre | TEDxHamlineUniversity](https://www.youtube.com/watch?v=UC05PVN621k) [Men Need To Talk About Their Sexual Abuse | Seth Shelley | TEDxUNBC](https://www.youtube.com/watch?v=r4CIop1zlVM) [Men Can Be Sexually Assaulted, Too | CJ Krainock | TEDxRexburg](https://www.youtube.com/watch?v=PnoRVCqeM6U)
 [data](https://ricothaka.github.io/rashardlearned/2024/11/18/EuropaClipper.html) <~ thats work related >
