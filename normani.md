@@ -7,6 +7,7 @@ tags: saint
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
 
+[data](https://ricothaka.github.io/rashardlearned/2024/11/18/EuropaClipper.html) <~ thats work related >
 
 # <track>: The Embed Text Track element
 @normani see [coralpage](https://ricothaka.github.io/coral) for my notes 
