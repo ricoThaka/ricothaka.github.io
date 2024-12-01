@@ -6,7 +6,8 @@ permalink: /normanikordei
 tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
-
+# Rollout Review: Normani's 'DOPAMINE' Album Strategy Breakdown
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6U53paR15B0?si=Eis0xPr_JS-kQl_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Normani Is Ready to Travel Into a New Era  Packed  Who What Wear - 9mosAgo from {{ 'now' | date: "%Y" }} 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GnxYiNWmFZY?si=ucZZUW55rbQu0zZ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
