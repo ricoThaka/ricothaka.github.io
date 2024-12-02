@@ -1,9 +1,9 @@
 
 
 # Coral @blackgirlscode [imdb](https://www.imdb.com/title/tt15479064/)
-
-Coral i dont know who i done talked to trying to heal from yo mama so i dont know what your life is like bc ppl gonna talk to a little girl, did you hang out with [Glorilla](https://www.glorillaofficial.com/#/) (Gloria Hallelujah Woods) much? id someone  look like her moving around me an now sincec u as old as you are, its like im starting over, i did see normani. So whatever my future is, this video is him understanding thers more than one girl that love him - dad [re](https://www.lifewire.com/re-is-for-replies-1173258):[mypersonallife](https://github.com/ricoThaka/washington/blob/master/README.md)
 ### (ˆ𐃷ˆ) (๑•̀؂ <๑)✧
+Coral i dont know who i done talked to trying to heal from yo mama so i dont know what your life is like bc ppl gonna talk to a little girl, did you hang out with [Glorilla](https://www.glorillaofficial.com/#/) (Gloria Hallelujah Woods) much? id someone  look like her moving around me an now sincec u as old as you are, its like im starting over, i did see normani. So whatever my future is, this video is him understanding thers more than one girl that love him - dad [re](https://www.lifewire.com/re-is-for-replies-1173258):[mypersonallife](https://github.com/ricoThaka/washington/blob/master/README.md)
+
 #   Girls, Girls, Girls - JAY-Z
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UCFAkD4EkYI?si=uzPWpb70ao2onfa5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Mtt0rvg195HXHEJU3LeMr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
