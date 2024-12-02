@@ -1,5 +1,18 @@
 
 
+<div class="tupperware">
+<img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
+<img src="https://mars.nasa.gov/system/resources/detail_files/25690_2-PIA24338-800.gif" />
+<img src="https://mars.nasa.gov/system/internal_resources/details/original/1006_PIA24489-3-ncamRRWheel-800px.gif" />   
+<img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
+<img src="https://mars.nasa.gov/system/resources/detail_files/25690_2-PIA24338-800.gif" />
+<img src="https://mars.nasa.gov/system/internal_resources/details/original/1006_PIA24489-3-ncamRRWheel-800px.gif" />
+<img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
+<img src="https://mars.nasa.gov/system/resources/detail_files/25690_2-PIA24338-800.gif" />
+</div>
+
+
+
 # Coral @blackgirlscode [imdb](https://www.imdb.com/title/tt15479064/)
 ### (ˆ𐃷ˆ) (๑•̀؂ <๑)✧
 Coral i dont know who i done talked to trying to heal from yo mama so i dont know what your life is like bc ppl gonna talk to a little girl, did you hang out with [Glorilla](https://www.glorillaofficial.com/#/) (Gloria Hallelujah Woods) much? id someone  look like her moving around me an now sincec u as old as you are, its like im starting over, i did see normani. So whatever my future is, this video is him understanding thers more than one girl that love him - dad [re](https://www.lifewire.com/re-is-for-replies-1173258):[mypersonallife](https://github.com/ricoThaka/washington/blob/master/README.md)
@@ -51,6 +64,20 @@ Coral I like to get the full aspect ration files when I can, I know people get m
 </video>
 
 
+
+<div class="tupperware">
+{% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+{% endfor %}
+</div>
 
 
 

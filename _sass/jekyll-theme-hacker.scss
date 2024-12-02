@@ -200,6 +200,31 @@ text-shadow:
 }
 
 
+
+
+.tupperware > * {
+  border: 1px solid #c9ff23;
+  border-radius: 5px;
+  padding: 0px;
+  flex: 1 1 200px;
+  overflow: hidden;
+  }
+
+.tupperware {
+  display: flex;
+  flex-flow: row wrap; 
+  padding: 15px;
+  gap: 5px;
+  margin: auto;
+  width:90vw;
+  height: 60vh;
+}
+
+.tupperware img {
+  width: 100%;
+}
+
+
 body {
   /* seems resource heavy text-shadow: 0 0 11px #ffffff;
   */
