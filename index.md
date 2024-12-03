@@ -47,6 +47,20 @@ carousels:
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 <iframe src="https://archive.org/embed/ng_20220827" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+
+# @blackgirlscode Normani Shares Some Of Her ... 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r5S_l7uAc1I?si=ovUMTTSMu1Ra0uBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# [Pilot Episode](https://en.wikipedia.org/wiki/Television_pilot)  I, Darrin, Take This Witch, Samantha  S1E1  Bewitched
+[Wiki](https://en.wikipedia.org/wiki/Television_pilot) A television pilot (also known as a pilot or a pilot episode and sometimes marketed as a tele-movie) in United Kingdom and United States television, is a standalone episode of a television series that is used to sell a show to a television network or other distributor. A pilot is created to be a testing ground to gauge whether a series will be successful. It is, therefore, a test episode for the intended television series, an early step in the series development, much like pilot studies serve as precursors to the start of larger activity. A successful pilot may be used as the [series premiere](https://en.wikipedia.org/wiki/Series_premiere) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB_vXlgcCpw?si=kwnp7HaD-Kx__r4j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### The Lady in the Bottle
+>Episode aired Sep 18, 1965
+US Astronaut Tony lands at a small island. While waiting to be rescued, he comes across Jeannie, a cute genie. - [imdb](https://www.imdb.com/title/tt0609160/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F41Y37XTZck?si=KRtN1RTbFHgIuKUr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ljDnzzqwnRIynr1g55um4?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6gpZSI0xEMTzleBc5ykOVA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -58,13 +72,6 @@ carousels:
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa [- Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) 
 
 
-### The Lady in the Bottle
->Episode aired Sep 18, 1965
-US Astronaut Tony lands at a small island. While waiting to be rescued, he comes across Jeannie, a cute genie. - [imdb](https://www.imdb.com/title/tt0609160/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F41Y37XTZck?si=KRtN1RTbFHgIuKUr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# @blackgirlscode Normani Shares Some Of Her ... 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r5S_l7uAc1I?si=ovUMTTSMu1Ra0uBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
