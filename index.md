@@ -49,72 +49,7 @@ carousels:
 
 
 
-# @blackgirlscode Normani Shares Some Of Her ... 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r5S_l7uAc1I?si=ovUMTTSMu1Ra0uBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# [Pilot Episode](https://en.wikipedia.org/wiki/Television_pilot)  I, Darrin, Take This Witch, Samantha  S1E1  Bewitched
-[Wiki](https://en.wikipedia.org/wiki/Television_pilot) A television pilot (also known as a pilot or a pilot episode and sometimes marketed as a tele-movie) in United Kingdom and United States television, is a standalone episode of a television series that is used to sell a show to a television network or other distributor. A pilot is created to be a testing ground to gauge whether a series will be successful. It is, therefore, a test episode for the intended television series, an early step in the series development, much like pilot studies serve as precursors to the start of larger activity. A successful pilot may be used as the [series premiere](https://en.wikipedia.org/wiki/Series_premiere) 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB_vXlgcCpw?si=kwnp7HaD-Kx__r4j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### The Lady in the Bottle
->Episode aired Sep 18, 1965
-US Astronaut Tony lands at a small island. While waiting to be rescued, he comes across Jeannie, a cute genie. - [imdb](https://www.imdb.com/title/tt0609160/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F41Y37XTZck?si=KRtN1RTbFHgIuKUr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ljDnzzqwnRIynr1g55um4?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6gpZSI0xEMTzleBc5ykOVA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-# What It’s Come To - [![Twitter Follow](https://img.shields.io/badge/Social-Tip__-blue?style=social&logo=X)](https://twitter.com/Tip) [T.I.](https://www.officialti.com/)
-<iframe loading=lazy width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1052095885&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tiofficial" title="T.I." target="_blank" style="color: #cccccc; text-decoration: none;">T.I.</a> · <a href="https://soundcloud.com/tiofficial/what-its-come-to" title="What It’s Come To" target="_blank" style="color: #cccccc; text-decoration: none;">What It’s Come To</a></div>
-
-[RashardLearNed](https://ricothaka.github.io/rashardlearned/) and [SpaceForce](https://www.spaceforce.mil/) tweeted [RashardMRO](ricothaka.github.io/rashardmro) so [![Twitter Follow](https://img.shields.io/badge/Social-US_SpaceCom__-blue?style=social&logo=X)](https://twitter.com/US_SpaceCom) ... [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) ### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
-[California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
-[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa [- Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) 
-
-
-
-
-
-# Fallin 4 U : Nicki Minaj Verified
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1685292912&color=%2380aaca&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nickiminaj" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/nickiminaj/nicki-minaj-fallin-4-u" title="Fallin 4 U" target="_blank" style="color: #cccccc; text-decoration: none;">Fallin 4 U</a></div>
-
-# Right Navigation Camera (Navcam) : Mars Perseverance Sol 1344 : 
-NASA's Mars Perseverance rover acquired this image using its onboard Right Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
-
-This image was acquired on Nov. 30, 2024 (Sol 1344) at the local mean solar time of 09:21:50.
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-     <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NRF_1344_0786241785_659ECM_N0630000NCAM14343_01_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NRF_1344_0786241785_659ECM_N0630000NCAM14343_01_195J01_1200.jpg" alt=""> </a>
-        
-      </div>
-    </div>
- <div class='panelColumn'>
-      <div class='rightColumn'>
-           <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NLF_1344_0786241785_659ECM_N0630000NCAM14343_04_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NLF_1344_0786241785_659ECM_N0630000NCAM14343_04_195J01_1200.jpg" alt=""> </a>
-        
-   </div>
-    </div>
-  </div>
-</div>
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-     <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg" alt=""> </a>
-        
-      </div>
-    </div>
- <div class='panelColumn'>
-      <div class='rightColumn'>
-           <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt=""> </a>
-        
-   </div>
-    </div>
-  </div>
-</div>
 
 # Currently Compling
 {% include_relative current.md %}

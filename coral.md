@@ -12,6 +12,13 @@
 {% endfor %}
 </div>
 
+
+# Flair @blackgirlscode
+[Shields.io Concise, consistent, and legible badges](https://shields.io/badges)
+![](https://img.shields.io/badge/Code_in-HTML-orange)
+![](https://img.shields.io/badge/Code_in-CSS-blue)
+
+
 <div class="tupperware">
 <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
 <img src="https://mars.nasa.gov/system/resources/detail_files/25690_2-PIA24338-800.gif" />
