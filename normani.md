@@ -8,6 +8,16 @@ tags: saint
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 
 
+
+# Stevie Wonder - Creepin'
+<iframe loading=lazy width="560" height="315" src="https://www.youtube.com/embed/Akwvng0SEjA?si=mIhaeOcv3k3dm0yR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# – Fulfillingness' First Finale - Stevie Wonder 1974 [DiscoGs](https://www.discogs.com/master/87463-Stevie-Wonder-Fulfillingness-First-Finale)
+[<img src="https://i.discogs.com/mib8tH4RYmAofLyvOw-2VJnSCw69Ibusmhs2NM7LKCg/rs:fit/g:sm/q:90/h:144/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk1/MTUyLTE2MzEzNjky/MDAtNDY5Ni5qcGVn.jpeg" alt="8-Track Cartridge, Album Tamla Motown – 8X-STMA 8019 top" />](https://i.discogs.com/mib8tH4RYmAofLyvOw-2VJnSCw69Ibusmhs2NM7LKCg/rs:fit/g:sm/q:90/h:144/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk1/MTUyLTE2MzEzNjky/MDAtNDY5Ni5qcGVn.jpeg)
+[<img src="https://i.discogs.com/yFjTVV-93ZrGT-nhDg-BzfSBjYTEYd8e508cvgdTA1E/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk1/MTUyLTE2NTg5OTk4/OTctMTExOC5qcGVn.jpeg" alt="8-Track Cartridge, Album Tamla Motown – 8X-STMA 8019" />](https://i.discogs.com/yFjTVV-93ZrGT-nhDg-BzfSBjYTEYd8e508cvgdTA1E/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk1/MTUyLTE2NTg5OTk4/OTctMTExOC5qcGVn.jpeg) Following the epic scope and social consciousness themes of Innervisions, Fulfillingness' First Finale, in contrast, projected a more reflective, personal, and somber tone. The musical arrangements used in several songs, especially the bleak "They Won't Go When I Go" and the understated "Creepin'", were sparse compared to those of some of Wonder's other 1970s tracks. Wonder had not completely foregone social commentary, as evidenced by the Billboard Hot 100 number-one single "You Haven't Done Nothin'", which launched a pointed criticism of the Nixon administration bolstered by clavinet, drum machine, and a cameo by the Jackson 5. [WiKi](https://en.wikipedia.org/wiki/Fulfillingness%27_First_Finale) [BuY](https://shop.motownrecords.com/products/stevie-wonder-fulfillingness-first-finale-lp)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1kda4McF274Jl5x3aOAmPJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ![This Style Guide for the Branch Libraries of the New York Public Library](https://web.archive.org/web/20070706031151im_/http://www.nypl.org/styleguide/images/styleguidehead.gif)
 
 # Dear_Normani,
