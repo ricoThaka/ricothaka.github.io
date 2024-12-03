@@ -7,6 +7,8 @@ tags: saint
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/264t7usRIlj4zaqKsvpfuC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # loading="lazy"
 Lazy loading is a strategy to identify resources as non-blocking (non-critical) and load these only when needed. It's a way to shorten the length of the critical rendering path, which translates into reduced page load times.[MDn](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
 

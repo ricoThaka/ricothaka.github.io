@@ -45,10 +45,6 @@ carousels:
 {% endhighlight %}
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
-<iframe src="https://archive.org/embed/ng_20220827" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
 
 
 # Currently Compling
