@@ -7,6 +7,10 @@ tags: saint
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 
+
+# Pillars of Creation ([Visualization Mosaic](https://webbtelescope.org/contents/media/images/2024/020/01HZ7D2PPZVGY1H6TQGRH1N9JK?page=3&filterUUID=91dfa083-c258-4f9f-bef1-8f40c26f4c97))
+![pillars of creation](https://stsci-opo.org/STScI-01HZ7KQC9J3EF1RVAVWMNXJBPH.png)
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/264t7usRIlj4zaqKsvpfuC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # loading="lazy"
