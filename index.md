@@ -35,15 +35,17 @@ carousels:
 
 ---
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE##########Normani=NoiR####
-2 # TO##r*.g*.io/rashardlearned#/rashardmro#/compiling#/normani###
+2 # TO##r*.g*.io/rashardlearned#/coral#/compiling#/normani###
 3 # ANOTHER##########https://s.id/1kmbG################## 
 4 # UNiVERSE###┬─┬⃰͡ (ᵔᵕᵔ͜ )(∩｀-´)⊃━☆ﾟ.*･｡ﾟ#Hi####CORaL##
 {% endhighlight %}
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+<iframe src="https://archive.org/embed/ng_20220827" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ljDnzzqwnRIynr1g55um4?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6gpZSI0xEMTzleBc5ykOVA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
