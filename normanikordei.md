@@ -7,6 +7,12 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+
+
+# [Pilot Episode](https://en.wikipedia.org/wiki/Television_pilot)  I, Darrin, Take This Witch, Samantha  S1E1  Bewitched
+[Wiki](https://en.wikipedia.org/wiki/Television_pilot) A television pilot (also known as a pilot or a pilot episode and sometimes marketed as a tele-movie) in United Kingdom and United States television, is a standalone episode of a television series that is used to sell a show to a television network or other distributor. A pilot is created to be a testing ground to gauge whether a series will be successful. It is, therefore, a test episode for the intended television series, an early step in the series development, much like pilot studies serve as precursors to the start of larger activity. A successful pilot may be used as the [series premiere](https://en.wikipedia.org/wiki/Series_premiere) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB_vXlgcCpw?si=kwnp7HaD-Kx__r4j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # - Diamonds [Official Music Video] (Birds of Prey: The Album) - Megan Thee Stallion & Normani 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/r1MxCSRWgI0?si=N8KG_tbqmUdVW5oR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
