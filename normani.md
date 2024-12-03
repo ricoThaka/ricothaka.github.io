@@ -7,8 +7,28 @@ tags: saint
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 
+# loading="lazy"
+Lazy loading is a strategy to identify resources as non-blocking (non-critical) and load these only when needed. It's a way to shorten the length of the critical rendering path, which translates into reduced page load times.[MDn](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
+
+# (ソニック・ザ・ヘッジホッグ2
+
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/KQmuOCWjQB0?si=xHj7TN1yuZtVv-Xu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Sonic the Hedgehog 2 Rev 2
+### Sonic the Hedgehog 2  Sonikku za Hejjihoggu Tsū?)
+<iframe src="https://archive.org/embed/sg_Sonic_the_Hedgehog_2_Rev_2_1992_Sega" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## [sonic the Hedgehog 2 (World) (Rev A)](https://www.retrogames.cc/genesis-games/sonic-the-hedgehog-2-world-rev-a.html) 
+[Getting Sonic The Hedgehog 2 on Launch Day Nov 24th 1992 - My Retro Life](https://www.youtube.com/watch?v=CZOOo9BYRFk) [Sonic 2sDay: A Retrospective on Sonic the Hedgehog 2 and its Worldwide Launch on November 24, 1992!](https://www.youtube.com/watch?v=GX6cqZJMEfo)
 
 
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/O9RHZlnrVDc?si=jB0D0BtKMahv5GA3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<picture>
+  <source srcset="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg" media="(orientation: landscape)" />
+  <img src="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg" alt="" />
+</picture>
 # Stevie Wonder - Creepin'
 <iframe loading=lazy width="560" height="315" src="https://www.youtube.com/embed/Akwvng0SEjA?si=mIhaeOcv3k3dm0yR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
