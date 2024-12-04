@@ -35,7 +35,7 @@ carousels:
 
 ---
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
+
 
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE##########Normani=NoiR####
@@ -46,6 +46,20 @@ carousels:
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
+
+# A Decade of Sun
+This 10-year time lapse of the Sun at 17.1nm shows the rise and fall of the solar cycle and notable events, like transiting planets and solar eruptions. As of June 2020, NASA’s Solar Dynamics Observatory — SDO — has now been watching the Sun non-stop for over a full decade. From its orbit in space around the Earth, SDO has gathered 425 million high-resolution images of the Sun, amassing 20,000,000 gigabytes of data over the past ten years[HelioPhysics](https://svs.gsfc.nasa.gov/13641/)
+<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013641/SDO_Year10_Poster_4k.jpg">
+  
+<source src="https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013641/SDO_10_Year_Sun_1080_15mbps.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013641/SDO_10_Year_Sun_1080_15mbps.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 # Currently Compling
 {% include_relative current.md %}
