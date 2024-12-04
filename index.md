@@ -62,7 +62,7 @@ carousels:
 
 
 # A Decade of Sun
-This 10-year time lapse of the Sun at 17.1nm shows the rise and fall of the solar cycle and notable events, like transiting planets and solar eruptions. As of June 2020, NASA’s Solar Dynamics Observatory — SDO — has now been watching the Sun non-stop for over a full decade. From its orbit in space around the Earth, SDO has gathered 425 million high-resolution images of the Sun, amassing 20,000,000 gigabytes of data over the past ten years[HelioPhysics](https://svs.gsfc.nasa.gov/13641/)
+This 10-year time lapse of the Sun at 17.1nm shows the rise and fall of the solar cycle and notable events, like transiting planets and solar eruptions. As of June 2020, NASA’s Solar Dynamics Observatory — SDO — has now been watching the Sun non-stop for over a full decade. From its orbit in space around the Earth, SDO has gathered 425 million high-resolution images of the Sun, amassing 20,000,000 gigabytes of data over the past ten years[HelioPhysics](https://svs.gsfc.nasa.gov/13641/) [Scott](https://x.com/ScottWiessinger/photo)
 
 # Currently Compling
 {% include_relative current.md %}
