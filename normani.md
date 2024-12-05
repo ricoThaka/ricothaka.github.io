@@ -7,6 +7,10 @@ tags: saint
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 
+# Hooverphonic : A New Stereophonic Sound Spectacular - 1996
+ the debut studio album by the Belgian band Hooverphonic. The album was released by Columbia Records on 29 July 1996,[9] initially credited to the band's original name, Hoover. It is Hooverphonic's only album with lead singer Liesje Sadonius.[wiki](https://en.wikipedia.org/wiki/A_New_Stereophonic_Sound_Spectacular) [YouTube - 1File](https://www.youtube.com/watch?v=9c5kNUj2GLA&themeRefresh=1) [DiscoGs](https://www.discogs.com/release/59438-Hooverphonic-A-New-Stereophonic-Sound-Spectacular?srsltid=AfmBOoq2S7hw4b5z6aBGEljTah0IuLVe1RydRqyz6rcP4XbjRprgvWws) 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6FFKUYyfC9S8fDy725qLAq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 # Pillars of Creation ([Visualization Mosaic](https://webbtelescope.org/contents/media/images/2024/020/01HZ7D2PPZVGY1H6TQGRH1N9JK?page=3&filterUUID=91dfa083-c258-4f9f-bef1-8f40c26f4c97))
 ![pillars of creation](https://stsci-opo.org/STScI-01HZ7KQC9J3EF1RVAVWMNXJBPH.png)
