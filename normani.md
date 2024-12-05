@@ -8,12 +8,20 @@ tags: saint
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 
 # Pentium II
->Intel microprocessor [wikiwand](https://www.wikiwand.com/en/articles/Pentium_II)
+>Intel microprocessor [wikiwand](https://www.wikiwand.com/en/articles/Pentium_II) [Internet Arcade: Turbo Edition](https://archive.org/details/internetarcadeturbo)
 
 Containing 7.5 million transistors (27.4 million in the case of the mobile Dixon with 256 KB on-die L2 cache), the Pentium II featured an improved version of the first P6-generation core of the Pentium Pro, which contained 5.5 million transistors. However, its L2 cache subsystem was a downgrade when compared to the Pentium Pro's. In 1998, Intel stratified the Pentium II family by releasing the Pentium II-based Celeron line of processors for low-end computers and the Intel Pentium II Xeon line for servers and workstations.
 [<img src="ricoThaka/ricothaka.github.io/assets/normani/file.png"  alt="GO" />](ricoThaka/ricothaka.github.io/assets/normani/file.png) 
 <caption>Pentium II processor with MMX technology, SECC cartridge.</caption>
 
+# @blackGirlsCode re:[retrogaming](https://www.neogeofun.com/)
+Nior, I put up a Pentium2 bc that is a good processor to learn linux on, im so upset about [hardware hoarders](https://www.wcrecycler.com/blog/dont-be-guilty-of-hoarding-old-unused-electronics) that buy up everything on [ebay!](https://www.ebay.com/itm/256645621595?itmmeta=01JEC282NBJWWSR67CGMYVBKW9&hash=item3bc145675b:g:HMgAAOSwH9lm6yX~&itmprp=enc%3AAQAJAAAA4Mxmj%2BiGvOveHXEBClPb29hP%2BtvC8uoTI0Hu8iEjYB62IigS9mev7O1ys0KbBShC%2FC%2FVb4uJ81c%2FJLAhL11wiUNQTeFKsfv06b5kQmgorma1xKhnyBNHZ75shNGTwASrGkcybfZ73KmeOrFJCynypUaUsZi0zFh5KMFj5pCNp43%2BtDdKbCECGGT1OAecR%2B8n3ANXsglHT9xrihExvLlANpDjEXQAd3cEuuMYbUNMN6kCedxju7q23k7hrkzkBchSSQI%2BuHXZ9UPiKxCYgO6z6%2BxpFYi%2Fh5lU4TfFiLwoofDj%7Ctkp%3ABk9SR-KqoILzZA&var=556935501663) at $15 i never expect to need that much money to buy one, you have no idea how well [Xmen Vs StreetFighter](https://archive.org/details/arcade_xmvsf) run on one running [FinalBurnAlpha](https://emulation.gametechwiki.com/index.php/FinalBurn_Alpha) on [Windows2000](https://copy.sh/v86/?profile=windows2000) on a [Dell Optiplex G110](https://www.lakemichigancomputers.com/products/dell-optiplex-gx110-mt-intel-pentium-iii-600-mhz-256mb-ram-no-hdd-no-os) with an [y2kera](https://www.hercircle.in/engage/fashion/trends/what-is-y2k-fashion-and-why-is-it-trending-915.html#:~:text=Y2K%20fashion%2C%20short%20for%20%22Year,major%20comeback%20in%20recent%20years.) [Sony Trinitron](https://www.freegeektwincities.org/retro/r210gs) <style> img[src*=s-l1600.webp] {width: 30%;}</style> ![ebay!](https://i.ebayimg.com/images/g/HMgAAOSwH9lm6yX~/s-l1600.webp)
+
+[What about hardware hoarding? - REDDiT r/DataHoarder](https://www.reddit.com/r/DataHoarder/comments/11vtgwa/what_about_hardware_hoarding/?rdt=59848) [I seem to have a computer part hoarding illness...anyone else suffer from this? - Anandtech - u/Meghan54](https://forums.anandtech.com/threads/i-seem-to-have-a-computer-part-hoarding-illness-anyone-else-suffer-from-this.2575385/)
+![FinalBurnAlpha](https://emulation.gametechwiki.com/images/9/92/FBA_logo.png)
+# Three Wonders (World 910520)
+Three Wonders[a] is a 1991 video game collection developed and published by Capcom, originally released for the arcades using the CPS-1 platform [Wiki](https://en.wikipedia.org/wiki/Three_Wonders)
+<iframe src="https://archive.org/embed/arcade_3wonders" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [<img src="https://i.discogs.com/QxMo2q5KlL9Mpbly2KstTA7tMJDqaQSZZ7vCHuK9l7I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDM4/LTE0NjQ1OTU0MjAt/OTc5OC5qcGVn.jpeg" alt="HooverPhonicCd" />](https://i.discogs.com/QxMo2q5KlL9Mpbly2KstTA7tMJDqaQSZZ7vCHuK9l7I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDM4/LTE0NjQ1OTU0MjAt/OTc5OC5qcGVn.jpeg)
 
