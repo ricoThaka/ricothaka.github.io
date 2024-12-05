@@ -12,6 +12,19 @@
 {% endfor %}
 </div>
 
+# Björk – Post
+![Discogs](https://i.discogs.com/-PGN2lupYAZzqEctIjosIZGFtuVv9XYXkGgokZjLszU/rs:fit/g:sm/q:90/h:600/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYy/NDItMTYyMjg0NzAz/Ny01NzQ0LmpwZWc.jpeg)
+Dear Coral, a guy named nathan i met in Brooklyn on the train one day i was visiting NYC turned me on to this album i thik. I want to know if this is internet music, bc `post` can refer to [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) `[GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET), [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST), [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT), and [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE)` Those were real bloggers man, she was in [iceland](https://visibleearth.nasa.gov/images/69920/iceland#:~:text=The%20island%20country%20is%20completely,along%20its%20rugged%20northern%20shores.) i think, according to legend its her [origin](https://yandex.com/search/?text=bjork&lr=20765&search_source=yacom_desktop_common)! im experianceing emotions from ["Its Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl?si=7f9a2cf10f5e457d) with [Normani](https://ricothaka.github.io/normani), i was not yo mamma beard for the slice of her life i held so it was never this disruptive but [normani is](https://youtu.be/YRp1vqmAZoM) re:[AllYours](https://genius.com/Normani-all-yours-lyrics) its a pretty clean album so i assume you heard at least some of it since its mall music.  But the stories in Bjork album sound like a [blogscape](https://ntouk.wordpress.com/wp-content/uploads/2015/06/1994-information-superhighway.pdf) from longago that was super technical and it was like github with nothing centralized... since... if i think about her age and computing at the time, there may hasve been a town or villiage [mainframe](https://en.wikipedia.org/wiki/Mainframe_computer) everyone accessed that had a home directory u could publish [http(https://httpd.apache.org/docs/2.4/programs/httpd.html) from 
+
+
+[HTTP Methods Explained: Understanding GET, POST, PUT, and DELETE in RESTful API Design - Abdallah Shaaban - LinkDiN](https://www.linkedin.com/pulse/http-methods-explained-understanding-get-post-put-delete-shaaban-nqyyf/)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0FK76UEefHKQ78AXEWJY31?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2Ul7B1LEHxXzYubtkTMENs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+![img](https://media.licdn.com/dms/image/v2/D4D12AQHxG4Prn4ZrBQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1718998421506?e=1738800000&v=beta&t=c9j9I6TMR4aGPyyzFPV35yvxNmsgp0lJ6U5eYqp6ke0)
 
 # Flair @blackgirlscode
 [Shields.io Concise, consistent, and legible badges](https://shields.io/badges)
