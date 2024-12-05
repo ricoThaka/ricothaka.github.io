@@ -1,6 +1,17 @@
 # @blackgirlscode Normani Shares Some Of Her ... 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r5S_l7uAc1I?si=ovUMTTSMu1Ra0uBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+# Jay Electronica - Act II The Patents Of Nobility (Full Album)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/905357275&color=%231eff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-509969798" title="josh calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">josh calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-509969798/jay-electronica-act-ii-the-patents-of-nobility-full-album" title="Jay Electronica - Act II The Patents Of Nobility (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Jay Electronica - Act II The Patents Of Nobility (Full Album)</a></div>
+
+<iframe src="https://archive.org/embed/jay-electronica-act-II-the-patents-of-nobility-the-turn" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[[FRESH] Jay Electronica - "Act II: The Patents of Nobility (The Turn)" - r/hiphopheads - REDDiT](https://www.reddit.com/r/hiphopheads/comments/j5mvx6/fresh_jay_electronica_act_ii_the_patents_of/?rdt=34461) [PiTCHFORK](https://pitchfork.com/reviews/albums/jay-electronica-act-ii-the-patents-of-nobility-the-turn/)
+
+
+
+
+
 # [Pilot Episode](https://en.wikipedia.org/wiki/Television_pilot)  I, Darrin, Take This Witch, Samantha  S1E1  Bewitched
 [Wiki](https://en.wikipedia.org/wiki/Television_pilot) A television pilot (also known as a pilot or a pilot episode and sometimes marketed as a tele-movie) in United Kingdom and United States television, is a standalone episode of a television series that is used to sell a show to a television network or other distributor. A pilot is created to be a testing ground to gauge whether a series will be successful. It is, therefore, a test episode for the intended television series, an early step in the series development, much like pilot studies serve as precursors to the start of larger activity. A successful pilot may be used as the [series premiere](https://en.wikipedia.org/wiki/Series_premiere) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oB_vXlgcCpw?si=kwnp7HaD-Kx__r4j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
