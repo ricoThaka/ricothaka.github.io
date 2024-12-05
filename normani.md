@@ -8,10 +8,10 @@ tags: saint
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 
 # Pentium II
->Intel microprocessor [wikiwand](https://www.wikiwand.com/en/articles/Pentium_II) [Internet Arcade: Turbo Edition](https://archive.org/details/internetarcadeturbo)
+>Intel microprocessor 
 
-Containing 7.5 million transistors (27.4 million in the case of the mobile Dixon with 256 KB on-die L2 cache), the Pentium II featured an improved version of the first P6-generation core of the Pentium Pro, which contained 5.5 million transistors. However, its L2 cache subsystem was a downgrade when compared to the Pentium Pro's. In 1998, Intel stratified the Pentium II family by releasing the Pentium II-based Celeron line of processors for low-end computers and the Intel Pentium II Xeon line for servers and workstations.
-[<img src="ricoThaka/ricothaka.github.io/assets/normani/file.png"  alt="GO" />](ricoThaka/ricothaka.github.io/assets/normani/file.png) 
+Containing 7.5 million transistors (27.4 million in the case of the mobile Dixon with 256 KB on-die L2 cache), the Pentium II featured an improved version of the first P6-generation core of the Pentium Pro, which contained 5.5 million transistors. However, its L2 cache subsystem was a downgrade when compared to the Pentium Pro's. In 1998, Intel stratified the Pentium II family by releasing the Pentium II-based Celeron line of processors for low-end computers and the Intel Pentium II Xeon line for servers and workstations. - [wikiwand](https://www.wikiwand.com/en/articles/Pentium_II) [Internet Arcade: Turbo Edition](https://archive.org/details/internetarcadeturbo)
+[<img src="assets/normani/file.png"  alt="GO" />](assets/normani/file.png) 
 <caption>Pentium II processor with MMX technology, SECC cartridge.</caption>
 
 # @blackGirlsCode re:[retrogaming](https://www.neogeofun.com/)
@@ -19,22 +19,22 @@ Nior, I put up a Pentium2 bc that is a good processor to learn linux on, im so u
 
 [What about hardware hoarding? - REDDiT r/DataHoarder](https://www.reddit.com/r/DataHoarder/comments/11vtgwa/what_about_hardware_hoarding/?rdt=59848) [I seem to have a computer part hoarding illness...anyone else suffer from this? - Anandtech - u/Meghan54](https://forums.anandtech.com/threads/i-seem-to-have-a-computer-part-hoarding-illness-anyone-else-suffer-from-this.2575385/)
 ![FinalBurnAlpha](https://emulation.gametechwiki.com/images/9/92/FBA_logo.png)
-# Three Wonders (World 910520)
+# (World 910520) : Three Wonders by [CapCom](https://www.capcom.com/)
 Three Wonders[a] is a 1991 video game collection developed and published by Capcom, originally released for the arcades using the CPS-1 platform [Wiki](https://en.wikipedia.org/wiki/Three_Wonders)
 <iframe src="https://archive.org/embed/arcade_3wonders" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [<img src="https://i.discogs.com/QxMo2q5KlL9Mpbly2KstTA7tMJDqaQSZZ7vCHuK9l7I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDM4/LTE0NjQ1OTU0MjAt/OTc5OC5qcGVn.jpeg" alt="HooverPhonicCd" />](https://i.discogs.com/QxMo2q5KlL9Mpbly2KstTA7tMJDqaQSZZ7vCHuK9l7I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDM4/LTE0NjQ1OTU0MjAt/OTc5OC5qcGVn.jpeg)
 
 
-# Hooverphonic : A New Stereophonic Sound Spectacular - 1996
+# : A New Stereophonic Sound Spectacular - Hooverphonic :
  the debut studio album by the Belgian band Hooverphonic. The album was released by Columbia Records on 29 July 1996,[9] initially credited to the band's original name, Hoover. It is Hooverphonic's only album with lead singer Liesje Sadonius.[wiki](https://en.wikipedia.org/wiki/A_New_Stereophonic_Sound_Spectacular) [YouTube - 1File](https://www.youtube.com/watch?v=9c5kNUj2GLA&themeRefresh=1) [DiscoGs](https://www.discogs.com/release/59438-Hooverphonic-A-New-Stereophonic-Sound-Spectacular?srsltid=AfmBOoq2S7hw4b5z6aBGEljTah0IuLVe1RydRqyz6rcP4XbjRprgvWws) 
 
-[<img src="ricoThaka/ricothaka.github.io/assets/normani/hooverphonic-Photoroom.png" alt="HooverPhonicCd" />](ricoThaka/ricothaka.github.io/assets/normani/hooverphonic-Photoroom.png)
+[<img src="assets/normani/hooverphonic-Photoroom.png" alt="HooverPhonicCd" />](assets/normani/hooverphonic-Photoroom.png)
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6FFKUYyfC9S8fDy725qLAq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-[<img src="ricoThaka/ricothaka.github.io/assets/normani/file (1).png" alt="hooverphonic stereosound spectacular" />](ricoThaka/ricothaka.github.io/assets/normani/file1.png)
+[<img src="assets/normani/file1.png" alt="hooverphonic stereosound spectacular" />](assets/normani/file1.png)
 
 # Pillars of Creation ([Visualization Mosaic](https://webbtelescope.org/contents/media/images/2024/020/01HZ7D2PPZVGY1H6TQGRH1N9JK?page=3&filterUUID=91dfa083-c258-4f9f-bef1-8f40c26f4c97))
 ![pillars of creation](https://stsci-opo.org/STScI-01HZ7KQC9J3EF1RVAVWMNXJBPH.png)
