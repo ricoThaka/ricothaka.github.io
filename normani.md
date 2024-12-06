@@ -6,6 +6,9 @@ permalink: /normani
 tags: saint
 ---
 
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
+
 @normani @blackgirlscode
 # Learning Decatur 
 ![Draw The Line](https://upload.wikimedia.org/wikipedia/en/7/71/Draw_the_Line.jpg)
