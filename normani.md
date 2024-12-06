@@ -5,6 +5,13 @@ mermaid: true
 permalink: /normani 
 tags: saint
 ---
+
+@normani @blackgirlscode
+# Learning Decatur 
+![Draw The Line](https://upload.wikimedia.org/wikipedia/en/7/71/Draw_the_Line.jpg)
+Ghetto Mafia is an American hip hop group from Decatur, Georgia, United States, composed of Nino and Wicked.[1] Formed in 1993, the Ghetto Mafia signed to local hip hop label, Ichiban Records, who then released their debut album, Draw the Line on April 26, 1994 [Ghetto Mafia](https://en.wikipedia.org/wiki/Ghetto_Mafia)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/75l02En53A3H9CdVfzIk0z?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 
 # Pentium II
