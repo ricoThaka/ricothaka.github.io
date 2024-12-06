@@ -1,5 +1,17 @@
 
 # watchlist
+
+# Animal Farm
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Animal_Farm_-_1st_edition.jpg" alt="animal farm george orwell" />](https://upload.wikimedia.org/wikipedia/commons/f/fb/Animal_Farm_-_1st_edition.jpg)
+ 1954 [British](https://youtu.be/bwoHmubxDIg?si=JjDowEBAwy1dJZfX)-[American](https://youtu.be/bwoHmubxDIg?si=JjDowEBAwy1dJZfX) animated comedy-drama film produced by [Halas and Batchelor](https://en.wikipedia.org/wiki/Halas_and_Batchelor), based on the novel of the same name by [George Orwell](https://www.lapl.org/teens/books/teen-reviews/teen-review-1984-george-orwell). [AnimalFarm Trailer 1954](https://youtu.be/1KVYvlgCrao?si=rbllciWhcuwLg78Q) [imdb - summary](https://www.imdb.com/title/tt0047834/plotsummary/?ref_=tt_stry_pl) [Book - PDF - ARCHiVE - AnimalFarm](https://ia800905.us.archive.org/25/items/AnimalFarmByGeorgeOrwell/Animal%20Farm%20by%20George%20Orwell.pdf) [Alt download book](https://archive.org/details/AnimalFarm-English-GeorgeOrwell) [FANDOM](https://animal-farm.fandom.com/wiki/Animal_Farm_Wiki) [Wiki](https://en.wikipedia.org/wiki/Animal_Farm)
+
+  <video  controls src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" poster="https://pbs.twimg.com/media/GJ3oD4vacAADC3A?format=jpg&name=large">
+    Sorry, your browser doesn't support embedded videos, but don't worry, you can
+    <a href="https://vossenwheels.com/wheel/s21-01-carbon/">download it</a>
+    and watch it with your favorite video player!
+  </video>
+
+  Something wrong with that ninja turtles link, its like it was recoired with something to compensate for a wide screen, i understand the biology but goddam i hate that shit - rashard(thaka)
 # The Complete SEASON 1 Of TMNT 1987 5 FULL EPISODES Teenage Mutant Ninja Turtles [archive](https://archive.org/details/the-complete-season-1-of-tmnt-1987-5-full-episodes-teenage-mutant-ninja-turtles_202310)
 
 <iframe src="https://archive.org/embed/the-complete-season-1-of-tmnt-1987-5-full-episodes-teenage-mutant-ninja-turtles_202310" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
