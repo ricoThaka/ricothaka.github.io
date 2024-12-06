@@ -18,9 +18,9 @@ layout: default
 {% endif %}
   <small>{{ page.date | date: "%-d %B %Y" }}</small>
 {% endif %}
-<article>
+<ARTICLE itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
   {{ content }}
-</article>
+</ARTICLE>
 
 
 
