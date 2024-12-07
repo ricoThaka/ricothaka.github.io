@@ -1,3 +1,8 @@
+
+[Erika Opening MagicCity as LattoCity](https://www.tiktok.com/@thedronegoat/video/7285054108594130218)
+[DownTownAtlanta](https://www.tiktok.com/@mshannahkang/video/7284096620080434478)
+[Why Did Latto Change Magic City’s Name To Latto City? - uproxx](https://uproxx.com/music/why-latto-change-magic-city-name-latto-city/)
+
 # @blackgirlscode Normani Shares Some Of Her ... 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r5S_l7uAc1I?si=ovUMTTSMu1Ra0uBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
