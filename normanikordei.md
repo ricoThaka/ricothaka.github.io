@@ -7,6 +7,11 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+#  Mars 2020 Parachute ASPIRE Test 
+This high-definition image was taken on Sept. 7, 2018, during the third and final test flight of the ASPIRE payload. It was the fastest inflation of this size parachute in history and created a peak load of almost 70,000 pounds of force.
+[NASA/JPL-Caltech
+[<img src="https://www.nasa.gov/wp-content/uploads/2018/10/parachute-16.gif" alt="Mars Lander Persevere Rover" />](https://www.nasa.gov/wp-content/uploads/2018/10/parachute-16.gif)
+
 # Batman. The. Movie. 1966.i
 ![BATMAN 1966 is me an NORMANI at BUBBLETEA WILL](https://upload.wikimedia.org/wikipedia/en/6/69/Batman1966Poster.jpg)
 its an [html5 video player](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) so i hope u can find the play button! - [Rashard/Thaka](https://thakarashard.github.io/) 
