@@ -12,6 +12,11 @@
 {% endfor %}
 </div>
 
+
+# If I Ruled The World : Kurtis Blow
+Coral idk what u will think of nas take on this concept, [sampleCulture](https://www.emorywheel.com/article/2023/02/the-evolution-of-hip-hop-sampling-from-wu-tang-to-ye) is what we do at [BeatLab](https://www.youtube.com/watch?v=HORLJvUMs08) i miss u, [Normani](https://ricothaka.github.io/normanikordei) got a page she using to teach me what kordie is, i wanna puke that red carpet shit foolish . . . nothing is wrong with a cover, just remember 94 hiphop was post motown so you got that doowop shit in the [value system](https://www.youtube.com/watch?v=dCYApJtsyd0) [i like this, its about a soldier](https://youtu.be/uSPHfbHy2Bw?si=njlNux4xpzu_PtcH)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/887637964&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kurtis-blow-official" title="Kurtis Blow" target="_blank" style="color: #cccccc; text-decoration: none;">Kurtis Blow</a> · <a href="https://soundcloud.com/kurtis-blow-official/if-i-ruled-the-world-vocal" title="If I Ruled The World (Vocal Version) [feat. Alyson Williams &amp; Sheila E]" target="_blank" style="color: #cccccc; text-decoration: none;">If I Ruled The World (Vocal Version) [feat. Alyson Williams &amp; Sheila E]</a></div>
+
 # Your Wisdom 2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/btYlWphnfbE?si=iD0Ao_1QAY7ZPoKS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
