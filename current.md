@@ -1,4 +1,37 @@
 
+
+
+# [Dichlorodiphenyltrichloroethane (DDT):](https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.02110125) 
+
+Due to uncontrolled use for several decades, dichlorodiphenyltrichloroethane (DDT), probably
+the best known and most useful insecticide in the world, has damaged wildlife and might have
+negative effects on human health. This review gives a brief history of the use of DDT
+
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+             <a href="https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768"> <img src="https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768" alt="1945 dessau" ></a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+             <a href="https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768"> <img src="https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768" alt="LE DDT A DESSAU" ></a>
+   </div>
+  </div>    
+ </div>
+</div>
+
+
+[![MyChile](https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768)](https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768 "Redirect to homepage")
+
+
+[Dichlorodiphenyltrichloroethane (DDT):](https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.02110125) 
+
+In de jaren veertig verklaarden de Verenigde Staten insecten de oorlog. Helemaal uitgeroeid moesten ze, die nutteloze beesten. Daarom werd er kwistig met [DDT](https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.02110125) gesproeid. Tot bioloog Rachel Carson aantoonde dat het land een ramp over zich had afgeroepen.
+
+<img src="https://mars.nasa.gov/system/resources/detail_files/26822_E1-PIA25368-Curiositys_Mastcam_Views_Flaky_Streambed_Rocks-web.jpg" />
+
 [Erika Opening MagicCity as LattoCity](https://www.tiktok.com/@thedronegoat/video/7285054108594130218)
 [DownTownAtlanta](https://www.tiktok.com/@mshannahkang/video/7284096620080434478)
 [Why Did Latto Change Magic City’s Name To Latto City? - uproxx](https://uproxx.com/music/why-latto-change-magic-city-name-latto-city/)
