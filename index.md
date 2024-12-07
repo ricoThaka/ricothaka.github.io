@@ -48,8 +48,15 @@ carousels:
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
 
-#  Season 1 Episode 1 (1963) My Favorite Martin
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9bg9AGmYv84?si=dzueInOOGGiiFYAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# Batman (1966) - Trailer 
+@blackgirlscode i put it on [coral](https://ricothaka.github.io/coral) an [Normani](https://ricothaka.github.io/coral) page, erika i owe u but im healing...
+<video controls preload="none"  poster="https://sothebys-md.brightspotcdn.com/dims4/default/cb0c9ad/2147483647/strip/true/crop/2000x1509+0+0/resize/1024x773!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F6e%2Fcf%2F59f9f64b47638179e77c4901a27f%2Fl19985-b8x6v-01.jpg">
+<source src="https://archive.org/download/batman-1966_202112/Trailer%20%231%20%5B1%2735%27%27%5D%20%5BSD%5D.mp4" type="video/mp4" />
+  Download the
+  <a href="https://archive.org/download/batman-1966_202112/Trailer%20%231%20%5B1%2735%27%27%5D%20%5BSD%5D.mp4">MP4</a>
+  video.
+</video>
+
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 

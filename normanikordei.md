@@ -6,6 +6,23 @@ permalink: /normanikordei
 tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+
+# Batman. The. Movie. 1966.i
+![BATMAN 1966 is me an NORMANI at BUBBLETEA WILL](https://upload.wikimedia.org/wikipedia/en/6/69/Batman1966Poster.jpg)
+its an [html5 video player](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) so i hope u can find the play button! - [Rashard/Thaka](https://thakarashard.github.io/) 
+[ARCHiVE](https://archive.org/details/batman.-the.-movie.-1966.i) [IMDB](https://www.imdb.com/title/tt0060153/?ref_=tt_mv_close) [HTML5ViDEO - CLOUDFLARE - whitepaper?](https://www.cloudflare.com/learning/video/how-html5-video-works/) [HTML5 Video Tags: The Ultimate Guide [2024]](https://bitmovin.com/blog/html5-video-tag-guide/)
+
+>Batman (also known as Batman: The Movie) is a 1966 American superhero film directed by Leslie H. Martinson. Based on the television series, and the first full-length theatrical adaptation of the DC Comics character of the same name, the film stars Adam West as Batman and Burt Ward as Robin. The film hit theaters two months after the last episode of the first season of the television series. [WiKiPEDiA - BATMAN66](https://en.wikipedia.org/wiki/Batman_(1966_film)) [ArtDecoBatman 1943 Serial](https://archive.org/details/batman-1943-episode-01)
+
+
+<video controls preload="none"  poster="https://images.sbs.com.au/dims4/default/49ccab4/2147483647/strip/true/crop/1440x810+0+165/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fguide%2Fpublic%2Fpodcast_images%2Fcatwoman_batman_college.jpg&imwidth=960">
+<source src="https://ia803406.us.archive.org/32/items/batman.-the.-movie.-1966.i/Batman.The.Movie.1966.i.mp4" type="video/mp4" />
+  Download the
+  <a href="https://ia803406.us.archive.org/32/items/batman.-the.-movie.-1966.i/Batman.The.Movie.1966.i.mp4">MP4</a>
+  video.
+</video>
+
+
 # Fifth Harmony (Official Video) ft. Ty Dolla $ign - Work from Home 
 [RelatedTweet](https://x.com/RicoThaka/status/1865122489438998576) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5GL9JoH4Sws?si=C7oD79MIEQmtNoGD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

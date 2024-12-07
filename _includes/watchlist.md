@@ -1,6 +1,22 @@
 
 # watchlist
 
+
+# Batman. The. Movie. 1966.i
+![BATMAN 1966 is me an NORMANI at BUBBLETEA WILL](https://upload.wikimedia.org/wikipedia/en/6/69/Batman1966Poster.jpg)
+its an [html5 video player](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) so i hope u can find the play button! - [Rashard/Thaka](https://thakarashard.github.io/) 
+[ARCHiVE](https://archive.org/details/batman.-the.-movie.-1966.i) [IMDB](https://www.imdb.com/title/tt0060153/?ref_=tt_mv_close) [HTML5ViDEO - CLOUDFLARE - whitepaper?](https://www.cloudflare.com/learning/video/how-html5-video-works/) [HTML5 Video Tags: The Ultimate Guide [2024]](https://bitmovin.com/blog/html5-video-tag-guide/)
+
+>Batman (also known as Batman: The Movie) is a 1966 American superhero film directed by Leslie H. Martinson. Based on the television series, and the first full-length theatrical adaptation of the DC Comics character of the same name, the film stars Adam West as Batman and Burt Ward as Robin. The film hit theaters two months after the last episode of the first season of the television series. [WiKiPEDiA - BATMAN66](https://en.wikipedia.org/wiki/Batman_(1966_film)) [ArtDecoBatman 1943 Serial](https://archive.org/details/batman-1943-episode-01) [BATMAN(1966)](https://archive.org/details/batman-1966_202112)
+
+
+<video controls preload="none"  poster="https://images.sbs.com.au/dims4/default/49ccab4/2147483647/strip/true/crop/1440x810+0+165/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fguide%2Fpublic%2Fpodcast_images%2Fcatwoman_batman_college.jpg&imwidth=960">
+<source src="https://ia803406.us.archive.org/32/items/batman.-the.-movie.-1966.i/Batman.The.Movie.1966.i.mp4" type="video/mp4" />
+  Download the
+  <a href="https://ia803406.us.archive.org/32/items/batman.-the.-movie.-1966.i/Batman.The.Movie.1966.i.mp4">MP4</a>
+  video.
+</video>
+
 # Animal Farm
  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Animal_Farm_-_1st_edition.jpg" alt="animal farm george orwell" />](https://upload.wikimedia.org/wikipedia/commons/f/fb/Animal_Farm_-_1st_edition.jpg)
  1954 [British](https://youtu.be/bwoHmubxDIg?si=JjDowEBAwy1dJZfX)-[American](https://youtu.be/bwoHmubxDIg?si=JjDowEBAwy1dJZfX) animated comedy-drama film produced by [Halas and Batchelor](https://en.wikipedia.org/wiki/Halas_and_Batchelor), based on the novel of the same name by [George Orwell](https://www.lapl.org/teens/books/teen-reviews/teen-review-1984-george-orwell). [AnimalFarm Trailer 1954](https://youtu.be/1KVYvlgCrao?si=rbllciWhcuwLg78Q) [imdb - summary](https://www.imdb.com/title/tt0047834/plotsummary/?ref_=tt_stry_pl) [Book - PDF - ARCHiVE - AnimalFarm](https://ia800905.us.archive.org/25/items/AnimalFarmByGeorgeOrwell/Animal%20Farm%20by%20George%20Orwell.pdf) [Alt download book](https://archive.org/details/AnimalFarm-English-GeorgeOrwell) [FANDOM](https://animal-farm.fandom.com/wiki/Animal_Farm_Wiki) [Wiki](https://en.wikipedia.org/wiki/Animal_Farm)
