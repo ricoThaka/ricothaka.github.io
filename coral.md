@@ -15,7 +15,56 @@
 
 ![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
 [Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta) [Using CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting)
+<style> 
 
+img[src*="superman321.jpg"] {width: 100%;padding: 0px;}
+img[src*="superman-35264.jpg"] {width: 100%;padding: 0px;}
+
+</style>
+
+# Dear_ Coral,
+im hurting, i know u dont think... but just know im hurt
+[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPVX65m1VLCR2Z1nknEda-JLTpAPKspQovfSab9K2TP6I2cOwgH2Geo6e4QYEAxUyRa3XZ2_GqAGK8_0cn76lz7M1NAn1WzrK1YVsDLGu9zVSfTYzxMGym3Tkp4QIG0RISrF3U8qFHCAGs/s1600/superman321.jpg" />](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPVX65m1VLCR2Z1nknEda-JLTpAPKspQovfSab9K2TP6I2cOwgH2Geo6e4QYEAxUyRa3XZ2_GqAGK8_0cn76lz7M1NAn1WzrK1YVsDLGu9zVSfTYzxMGym3Tkp4QIG0RISrF3U8qFHCAGs/s1600/superman321.jpg)
+
+# Animated : スーパーマン Superman (1941)
+The Fleischer Superman cartoons are a series of seventeen animated superhero short films released in Technicolor by [Paramount Pictures](https://virtualglobetrotting.com/map/paramount-studios/view/google/) and based upon the comic book character Superman, making them his first animated appearance.
+[THE COMPLETE ORIGINAL SUPERMAN TOONS - YOUTUBE](https://www.youtube.com/watch?v=fjnupJIo0JQ) [A Key To Superman's History - BLOGSPOT](https://davescomicheroes.blogspot.com/2018/04/a-key-to-supermans-history.html) [ANiMATED SERiAL FiLES - 1941 archive.ORG](https://archive.org/download/superman-1941_202011/Superman%281940%27s%29/) [Who Took the Super Out oF Superman? - RiKDADS COMiC THOUGHTS](https://rikdad.blogspot.com/2011/07/who-took-super-out-of-superman.html)
+[ARCADE - REDDiT](https://www.reddit.com/r/superman/comments/18k3afj/superman_arcade_game_1988/?rdt=39425) [NES - Superman (USA)](https://www.retrogames.cc/nes-games/superman-usa.html) [SNES - Death And Return Of Superman, The (USA)](https://www.retrogames.cc/snes-games/death-and-return-of-superman-the-usa.html) @nasa-jpl that little girl on @blackgirlscode look like coral, im going with my gut 
+<video controls preload="none"   width="100%" height="auto" poster="https://64.media.tumblr.com/4c18619fb9a4e99833c21c9cd4250df9/tumblr_pvht05Lta71rn2dmao3_r2_400.gifv">
+    
+<source src="https://archive.org/download/superman-1941_202011/Superman%281940%27s%29/jungle_drums_512kb.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/superman-1941_202011/Superman%281940%27s%29/jungle_drums_512kb.mp4">MP4</a>
+        video.
+</video> 
+
+
+![SUPERMAN - TAiTO](https://www.arcade-museum.com/images-game/35/superman-35264.jpg)
+
+
+<iframe src="https://archive.org/embed/arcade_superman" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+
+
+![SUPERMAN - TAiTO](https://upload.wikimedia.org/wikipedia/en/8/8a/Superman_arcade_flyer.jpg)
+
+
+# Superman 1948 Serial [FullStory](https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/)
+## Superman Comes To Earth.mp4	
+Superman is a 1948 15-part Columbia Pictures film serial based on the comic book character Superman. It stars an uncredited Kirk Alyn (billed on-screen only by his character's name, Superman; but credited as Kirk Alyn on the promotional posters) and Noel Neill as Lois Lane. Like Batman (1943), it is notable as the first live-action appearance of Superman on film, and for the longevity of its distribution.[Wiki](https://en.wikipedia.org/wiki/Superman_(serial))
+[imdb](https://www.imdb.com/title/tt0040852/)
+<video controls preload="none"   width="100%" height="auto" poster="https://upload.wikimedia.org/wikipedia/en/8/81/Superman_serial.jpg">
+    
+<source src="https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/01.%20Superman%20Comes%20To%20Earth.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/01.%20Superman%20Comes%20To%20Earth.mp4">MP4</a>
+        video.
+</video> 
+
+## super Puzzle Fighter II Turbo
+There are a lot of folklore and stories about graffiti writers. The guy that introduced me to WestCoast fatca[p]Tags loved [SuperPuzzleFighter](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo). I had it on dreamcast. I never played it a ttheArcade  [Super Puzzle Fighter II X! I missed this game, and didn’t know Saturn version had extras! reddit](https://www.reddit.com/r/SegaSaturn/comments/131dnzi/super_puzzle_fighter_ii_x_i_missed_this_game_and/?rdt=38318) [Rack up chain reactions and use counter gems to put the pressure on your opponent! Super Puzzle Fighter II Turbo brings you the same heated match-ups you love from Capcom fighting games, but with puzzles!](https://www.capcom-games.com/cfc/en-us/title/spf2x.html)
+<iframe src="https://archive.org/embed/arcade_spf2t" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
 
 # If I Ruled The World : Kurtis Blow
 Coral idk what u will think of nas take on this concept, [sampleCulture](https://www.emorywheel.com/article/2023/02/the-evolution-of-hip-hop-sampling-from-wu-tang-to-ye) is what we do at [BeatLab](https://www.youtube.com/watch?v=HORLJvUMs08) i miss u, [Normani](https://ricothaka.github.io/normanikordei) got a page she using to teach me what kordie is, i wanna puke that red carpet shit foolish . . . nothing is wrong with a cover, just remember 94 hiphop was post motown so you got that doowop shit in the [value system](https://www.youtube.com/watch?v=dCYApJtsyd0) [i like this, its about a soldier](https://youtu.be/uSPHfbHy2Bw?si=njlNux4xpzu_PtcH)
