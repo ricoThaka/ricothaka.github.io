@@ -204,7 +204,7 @@ This movie is hard to get good quality. This is what Strip clubs do to a city.
 <IMG src="https://media.vanityfair.com/photos/60ad0575d4ff60d336a0244c/4:3/w_1776,h_1332,c_limit/Tallulah-Bankhead-1932-tout.jpg" />
 
 
-### Frank Looydd Wright
+### Frank Lloyd Wright
 
 <div class='twoPanelSpread'>
         <div class='row'>

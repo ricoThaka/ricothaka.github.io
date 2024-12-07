@@ -23,7 +23,8 @@ anyway last night [June 9th](https://www.amoeba.com/our-stores/store-news/469/th
 
 
 [Los Angeles 1940s in Color! Driving Downtown [60fps,Remastered] w/sound design added](https://www.youtube.com/watch?v=OiShtKv43hg) [California 1950s, Driving Wilshire Blvd in color [60fps, Remastered] w/sound design added](https://www.youtube.com/watch?v=5fL8n_aAisQ)
-The Los Angeles Times  1895-08-15
+
+# The Los Angeles Times  1895-08-15
 
 <iframe src="https://archive.org/embed/sim_los-angeles-times_the-los-angeles-times_1895-08-15" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
