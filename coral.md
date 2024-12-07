@@ -23,7 +23,11 @@ img[src*="superman-35264.jpg"] {width: 100%;padding: 0px;}
 </style>
 
 # Dear_ Coral,
-im hurting, i know u dont think... but just know im hurt
+im hurting, i know u dont think... but just know im hurt 
+> tHE SOUND TORTURE AND LONELINESS TALK TO [Monthly Board Meeting - Dec 2, 2024](https://youtu.be/Fm4iNtnLR6s?t=3222) [![Twitter Follow](https://img.shields.io/badge/Social-BOEAPS__-blue?style=social&logo=X)](https://twitter.com/BOEAPS) [![Twitter Follow](https://img.shields.io/badge/Social-GADFCS__-blue?style=social&logo=X)](https://twitter.com/GADFCS) [![Twitter Follow](https://img.shields.io/badge/Social-GADHS__-blue?style=social&logo=X)](https://twitter.com/GADHS)  [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) . . . 
+### IlOVEyoU  - Dad 
+ 
+
 [<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPVX65m1VLCR2Z1nknEda-JLTpAPKspQovfSab9K2TP6I2cOwgH2Geo6e4QYEAxUyRa3XZ2_GqAGK8_0cn76lz7M1NAn1WzrK1YVsDLGu9zVSfTYzxMGym3Tkp4QIG0RISrF3U8qFHCAGs/s1600/superman321.jpg" />](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPVX65m1VLCR2Z1nknEda-JLTpAPKspQovfSab9K2TP6I2cOwgH2Geo6e4QYEAxUyRa3XZ2_GqAGK8_0cn76lz7M1NAn1WzrK1YVsDLGu9zVSfTYzxMGym3Tkp4QIG0RISrF3U8qFHCAGs/s1600/superman321.jpg)
 
 # Animated : スーパーマン Superman (1941)
