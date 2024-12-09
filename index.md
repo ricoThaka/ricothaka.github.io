@@ -47,35 +47,18 @@ carousels:
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
-[LATER CHLOE](https://archive.org/details/walt-disneys-silly-symphonies-the-complete-collection-1929-39)
-# Batman (1966) - Trailer 
-@blackgirlscode i put it on [coral](https://ricothaka.github.io/coral) an [Normani](https://ricothaka.github.io/normanikordei) page, erika i owe u but im healing...
-
-<video controls preload="none"  poster="https://sothebys-md.brightspotcdn.com/dims4/default/cb0c9ad/2147483647/strip/true/crop/2000x1509+0+0/resize/1024x773!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F6e%2Fcf%2F59f9f64b47638179e77c4901a27f%2Fl19985-b8x6v-01.jpg">
-<source src="https://archive.org/download/batman-1966_202112/Trailer%20%231%20%5B1%2735%27%27%5D%20%5BSD%5D.mp4" type="video/mp4" />
-  Download the
-  <a href="https://archive.org/download/batman-1966_202112/Trailer%20%231%20%5B1%2735%27%27%5D%20%5BSD%5D.mp4">MP4</a>
-  video.
-</video>
-
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
+{{ 'now' | date: "%Y" }}
 
 
-<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013641/SDO_Year10_Poster_4k.jpg">
-  
-<source src="https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013641/SDO_10_Year_Sun_1080_15mbps.mp4" />
-  
-
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013641/SDO_10_Year_Sun_1080_15mbps.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
-
-
-# A Decade of Sun
-This 10-year time lapse of the Sun at 17.1nm shows the rise and fall of the solar cycle and notable events, like transiting planets and solar eruptions. As of June 2020, NASA’s Solar Dynamics Observatory — SDO — has now been watching the Sun non-stop for over a full decade. From its orbit in space around the Earth, SDO has gathered 425 million high-resolution images of the Sun, amassing 20,000,000 gigabytes of data over the past ten years[HelioPhysics](https://svs.gsfc.nasa.gov/13641/) [Scott](https://x.com/ScottWiessinger/photo)
 
 # Currently Compling
 {% include_relative current.md %}
