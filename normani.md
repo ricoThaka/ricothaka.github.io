@@ -6,8 +6,18 @@ permalink: /normani
 tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+#  Season 1 - Hong Kong Phooey
+ ![Hong Kong Phooey](https://upload.wikimedia.org/wikipedia/en/2/26/Hong_Kong_Phooey_logo.jpg)
+@blackgirlscode to my attachments, this shit SupAfunniE [AllFiles](https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses) [imdb](https://www.imdb.com/title/tt0070996/) Hong Kong Phooey is an American Saturday morning animated television series produced by Hanna-Barbera Productions and originally broadcast on [ABC](https://abc.com/) - [WiKi](https://en.wikipedia.org/wiki/Hong_Kong_Phooey)
 
-
+<video controls width="100%" height="auto" poster="https://media.tenor.com/e3Fx829AvBIAAAAM/hong-kong-phooey-change.gif">
+    
+<source src="https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses/Hong%20Kong%20Phooey%20-%20S01E01%20-%20Car%20Thieves%3B%20Zoo%20Story.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses/Hong%20Kong%20Phooey%20-%20S01E01%20-%20Car%20Thieves%3B%20Zoo%20Story.mp4">MP4</a>
+        video.
+</video>    
 ` For godssake, im dealing with heartbreak`
 >-[PushaT](https://soundcloud.com/pushat)
 @blackgirlscode::#NORMANi what do that mean, re:eastatlantagraffiti+dance411?
