@@ -19,3 +19,9 @@
 
 ### [VHS] Street Fighter III: 2nd Impact Trailer (Prototype Footage)  CFC Style '97 August, Vol. 5
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQFK0-6VNlc?si=zFc_8UYvik0EetjN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<picture>
+  <source srcset="https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096" media="(orientation: portrait)" />
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
+  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" alt="" />
+</picture>

@@ -19,8 +19,8 @@
   <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" alt="" />
 </picture>
 
-### [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up)
-<video controls preload="none"   width="100%" height="auto" poster="https://64.media.tumblr.com/4c18619fb9a4e99833c21c9cd4250df9/tumblr_pvht05Lta71rn2dmao3_r2_400.gifv">
+### [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up) 
+<video controls preload="none"   width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-03.jpg">
     
 <source src="https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4" type="video/mp4" />
          Download the
@@ -28,6 +28,8 @@
 <a href="https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4">MP4</a>
         video.
 </video> 
+
+[SillySymphonies Scan - Pinocchio](https://github.com/ricoThaka/ricothaka.github.io/tree/pixelsquare/assets/images/pinocchio)
 
 ![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
 [Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta) [Using CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting)
