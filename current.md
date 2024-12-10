@@ -16,7 +16,7 @@
         video.
 </video>   
 
-[Pinoccio - WaltDisneySignatureCollection](https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4) [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up) [The Adventures Of Pinocchio 1978 ( English Version) - movie](https://archive.org/details/TheAdventuresOfPinocchio1978EnglishVersion)
+[Pinoccio - WaltDisneySignatureCollection](https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4) [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up) [The Adventures Of Pinocchio 1978 ( English Version) - movie](https://archive.org/details/TheAdventuresOfPinocchio1978EnglishVersion) [wiki](https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio)
 
 
 #  Season 1 - Hong Kong Phooey
