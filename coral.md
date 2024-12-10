@@ -10,8 +10,51 @@
 </article>
 
 {% endfor %}
+
 </div>
 
+# Dear_Coral
+Remember the [RasberryPi](https://www.raspberrypi.com/) and [RetroPie](https://retropie.org.uk/)? I learned abt another [retrogaming platform](https://www.reddit.com/r/retrogaming/), [JAMMA](https://diyarcade.com/collections/jamma-board-jamma-arcade-diy-arcade-usa). You need a house to do it, it would be cool if [The Library](https://www.lapl.org/labs/octavia-lab) was not fucked up with me over ya mama an them girls from dance411 doing those loose scenes in the netflix shows under different characters, i know her breast like u, just differrnt, it hurts man, an normani too friendly with her body, its a different kind of [let down](https://www.essence.com/lifestyle/normani-boyfriend/) . . . anyway if this is not filtered try king of fighters, i started with [96](https://www.neogeofun.com/kof96-2) with my freind Brandon at the [PX](https://home.army.mil/stewart/about/Garrison/hunter-army-airfield), i later [purchased](https://archive.org/details/psx_kof95) it on [Playstation](https://archive.org/details/psxgames). I used to hide it from willie, [Vickeye saved your life💯](https://www.realtor.com/realestateandhomes-detail/1822-Quincy-St_Savannah_GA_31405_M65406-35118) 
+
+[The King of Fighters '96 (Jpn)](https://archive.org/details/psx_kof96) 
+[REDDiT - "The King of Fighters '96 Neo Geo Collection" - Neo Geo CD (English subs)](https://www.reddit.com/r/kof/comments/ftrqp3/the_king_of_fighters_96_neo_geo_collection_neo/)
+<picture>
+  <source srcset="https://retropie.org.uk/wp-content/uploads/2016/04/RetroPieWebsiteLogo.png" media="(orientation: landscape)" />
+  <source srcset="https://retropie.org.uk/wp-content/uploads/2016/04/RetroPieWebsiteLogo.png" media="(orientation: landscape)" />
+  <img src="https://retropie.org.uk/wp-content/uploads/2016/04/RetroPieWebsiteLogo.png" alt="Raspberry Pi OS is a free, Debian-based operating system optimised for the Raspberry Pi hardware" />
+</picture>
+<picture>
+  <source srcset="https://assets.raspberrypi.com/static/c671804c05a51efc4e3c2a1bdcbafbcf/e8238/raspberry-pi-5.webp" media="(orientation: portrait)" />
+  <source srcset="https://assets.raspberrypi.com/static/c671804c05a51efc4e3c2a1bdcbafbcf/e8238/raspberry-pi-5.webp" media="(orientation: portrait)" />
+  <img src="https://assets.raspberrypi.com/static/c671804c05a51efc4e3c2a1bdcbafbcf/e8238/raspberry-pi-5.webp" alt="RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine" />
+</picture>
+# Jamma Board
+JAMMA stands for Japan Amusement Machine and Marketing Association who in 1985 created the JAMMA wiring standard. This allowed all Arcade Cabinets that were wired in the JAMMA standard to run any game built to this standard. Since Japan designed most of the newer games in the 90’s the JAMMA became the standard by default. [ReadMore](https://diyarcade.com/collections/jamma-board-jamma-arcade-diy-arcade-usa)
+![JAMMA](https://flyers.arcade-museum.com/flyers_video/snk/14022603.jpg)
+# `emulated` The King of Fighters 2003 (Japan JAMMA PCB)
+![JAMMA](https://flyers.arcade-museum.com/flyers_video/snk/14022604.jpg)
+<iframe src="https://archive.org/embed/arcade_kf2k3pcb" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+
+[SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 2) - RETROGAMES](https://www.retrogames.cc/arcade-games/snk-vs-capcom-svc-chaos-jamma-pcb-set-2.html) [CAPCOM CLASSIC SERIES JAMMA ADAPTER](https://www.arcadeshop.com/i/357/capcom-jamma-adapter.htm) [Capcom cps 1.5 jamma pcb - youtube](https://youtu.be/tQG9vQ1VCjg?si=OPt7t0DQLlMiOoqi) [X-Men vs. Street Fighter cps2 capcom phoenix jamma repair - youtube](https://www.youtube.com/watch?v=nca8aNZfYpw) [Kieran Nolan – JAMMA Arcade: Association, Hardware Standard, and Aesthetic](https://archive.org/details/history-of-games-2020-owLv5ypujag)
+
+![JAMMA](https://flyers.arcade-museum.com/flyers_video/snk/14022601.jpg)
+![JAMMA](https://flyers.arcade-museum.com/flyers_video/snk/14022602.jpg)
+<picture>
+  <source srcset="https://diyarcade.com/cdn/shop/products/60in1DIYArcadeKit_BLACK_GREEN_0f3a3528-ce71-48b3-bdbf-9e3ddf7417a5_1024x1024@2x.jpg" media="(orientation: portrait)" />
+  <source srcset="https://diyarcade.com/cdn/shop/products/60in1DIYArcadeKit_BLACK_GREEN_0f3a3528-ce71-48b3-bdbf-9e3ddf7417a5_1024x1024@2x.jpg" media="(orientation: portrait)" />
+  <img src="https://diyarcade.com/cdn/shop/products/60in1DIYArcadeKit_BLACK_GREEN_0f3a3528-ce71-48b3-bdbf-9e3ddf7417a5_1024x1024@2x.jpg" alt="" />
+</picture>
+<picture>
+  <source srcset="https://flyers.arcade-museum.com/flyers_video/snk/14004901.jpg" media="(orientation: portrait)" />
+  <source srcset="https://flyers.arcade-museum.com/flyers_video/snk/14004901.jpg" media="(orientation: portrait)" />
+  <img src="https://flyers.arcade-museum.com/flyers_video/snk/14004901.jpg" alt="" />
+</picture>
+
+![Metal Slug 5](https://i.ebayimg.com/images/g/uZgAAOSwbEZa8pPw/s-l1200.jpg)
+
+<iframe loading="lazy" src="https://archive.org/embed/arcade_arcade_ms5pcb" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+
+![ikari warriors](https://flyers.arcade-museum.com/flyers_video/snk/14013701.jpg)
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" media="(orientation: portrait)" />
