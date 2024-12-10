@@ -1,4 +1,35 @@
 
+### cellular magic mirror
+<picture itemprop="image">
+  <source srcset="https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096" media="(orientation: portrait)" />
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
+  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" alt="" />
+</picture>
+
+## Snow White and the Seven Dwarfs.mp4
+<video itemscope itemtype="https://schema.org/VideoObjectcontrols width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" itemscope itemtype="https://schema.org/VideoObject preload="none" >
+    
+<source src="https://archive.org/download/WaltDisneySignatureCollection_201808/Snow%20White%20and%20the%20Seven%20Dwarfs.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/WaltDisneySignatureCollection_201808/Snow%20White%20and%20the%20Seven%20Dwarfs.mp4">MP4</a>
+        video.
+</video>   
+
+[Pinoccio](https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4)
+
+#  Season 1 - Hong Kong Phooey
+ ![Hong Kong Phooey](https://upload.wikimedia.org/wikipedia/en/2/26/Hong_Kong_Phooey_logo.jpg)
+@blackgirlscode to my attachments, this shit SupAfunniE [AllFiles](https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses) [imdb](https://www.imdb.com/title/tt0070996/) Hong Kong Phooey is an American Saturday morning animated television series produced by Hanna-Barbera Productions and originally broadcast on [ABC](https://abc.com/) - [WiKi](https://en.wikipedia.org/wiki/Hong_Kong_Phooey)
+
+<video controls width="100%" height="auto" poster="https://media.tenor.com/e3Fx829AvBIAAAAM/hong-kong-phooey-change.gif">
+    
+<source src="https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses/Hong%20Kong%20Phooey%20-%20S01E01%20-%20Car%20Thieves%3B%20Zoo%20Story.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses/Hong%20Kong%20Phooey%20-%20S01E01%20-%20Car%20Thieves%3B%20Zoo%20Story.mp4">MP4</a>
+        video.
+</video>    
 
 # Project Ako プロジェクトA子,
 ![ProjectAko](https://upload.wikimedia.org/wikipedia/en/7/70/Project_A-ko_Poster.jpg) [![Twitter Follow](https://img.shields.io/badge/Social-Latto__-blue?style=social&logo=X)](https://twitter.com/Latto) this is awkward, worst case you know i was a bigtime jehovhas Witness and im talking to you because you look like erika, and you know there was like one of your tribes women [Shannon Clausell](https://www.youtube.com/watch?v=N4oMrTT_fZw) and in the real world since im not in a cube anymore theres a lot of you that dont come into Jehovahs Witnesses bc you are [True Mulattos](https://en.wikipedia.org/wiki/Los_Angeles_Pobladores) of Southern California [`Los Angeles Pobladores`](https://en.wikipedia.org/wiki/Talk:Los_Angeles_Pobladores)  . I like [Project Ako]() Coral and other kids [![Twitter Follow](https://img.shields.io/badge/Social-parksideaps__-blue?style=social&logo=X)](https://twitter.com/parksideaps) so if coral still breathing she will like this, if not if her friend rose Jenevive Daughter an there was Raven in Constancia townhouse by [T_L_C_OlD_HOUSE](https://www.youtube.com/watch?v=92gHq1s6G-c) [Wiki Project Ako](https://en.wikipedia.org/wiki/Project_A-ko) [imdb](https://www.imdb.com/title/tt0091794/) [FanDom](https://a-ko.fandom.com/wiki/Project_A-ko) [RedditPost](https://www.reddit.com/r/TwoBestFriendsPlay/comments/13g27k1/ive_watched_all_the_project_ako_movies_this_is/) [Emi Shinohara, RIP](https://projecta-ko.com/emi-shinohara-rip/) [MyAnimeList](https://myanimelist.net/anime/212/Project_A-Ko)
@@ -14,7 +45,7 @@
 
 <figure>
   <figcaption>Future: `[WifiLit]()`</figcaption>
-  <audio controls src="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3"></audio>
+  <audio controls src="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3" itemscope itemtype="https://schema.org/MusicRecording"></audio>
   <a href="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3"> Download audio </a>
 </figure>
 

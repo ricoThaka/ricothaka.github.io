@@ -13,6 +13,16 @@
 </div>
 
 
+
+<video controls preload="none"   width="100%" height="auto" poster="https://64.media.tumblr.com/4c18619fb9a4e99833c21c9cd4250df9/tumblr_pvht05Lta71rn2dmao3_r2_400.gifv">
+    
+<source src="https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4">MP4</a>
+        video.
+</video> 
+
 ![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
 [Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta) [Using CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting)
 <style> 

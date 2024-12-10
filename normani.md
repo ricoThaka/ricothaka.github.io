@@ -6,6 +6,27 @@ permalink: /normani
 tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+
+
+### cellular magic mirror
+<picture>
+  <source srcset="https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096" media="(orientation: portrait)" />
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
+  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" alt="" />
+</picture>
+
+## Snow White and the Seven Dwarfs.mp4
+<video controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png">
+    
+<source src="https://archive.org/download/WaltDisneySignatureCollection_201808/Snow%20White%20and%20the%20Seven%20Dwarfs.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/WaltDisneySignatureCollection_201808/Snow%20White%20and%20the%20Seven%20Dwarfs.mp4">MP4</a>
+        video.
+</video>   
+
+[Pinoccio](https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4)
+
 #  Season 1 - Hong Kong Phooey
  ![Hong Kong Phooey](https://upload.wikimedia.org/wikipedia/en/2/26/Hong_Kong_Phooey_logo.jpg)
 @blackgirlscode to my attachments, this shit SupAfunniE [AllFiles](https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses) [imdb](https://www.imdb.com/title/tt0070996/) Hong Kong Phooey is an American Saturday morning animated television series produced by Hanna-Barbera Productions and originally broadcast on [ABC](https://abc.com/) - [WiKi](https://en.wikipedia.org/wiki/Hong_Kong_Phooey)
