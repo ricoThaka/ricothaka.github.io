@@ -25,7 +25,7 @@ tags: saint
         video.
 </video>   
 
-[Pinoccio](https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4)
+[Pinoccio](https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4) [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up)
 
 #  Season 1 - Hong Kong Phooey
  ![Hong Kong Phooey](https://upload.wikimedia.org/wikipedia/en/2/26/Hong_Kong_Phooey_logo.jpg)

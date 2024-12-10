@@ -13,7 +13,13 @@
 </div>
 
 
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" media="(orientation: portrait)" />
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" media="(orientation: portrait)" />
+  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" alt="" />
+</picture>
 
+### [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up)
 <video controls preload="none"   width="100%" height="auto" poster="https://64.media.tumblr.com/4c18619fb9a4e99833c21c9cd4250df9/tumblr_pvht05Lta71rn2dmao3_r2_400.gifv">
     
 <source src="https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4" type="video/mp4" />
