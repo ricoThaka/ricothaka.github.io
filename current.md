@@ -1,5 +1,5 @@
 
-### cellular magic mirror
+# cellular magic mirror
 <picture itemprop="image">
   <source srcset="https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096" media="(orientation: portrait)" />
   <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
@@ -7,7 +7,7 @@
 </picture>
 
 ## Snow White and the Seven Dwarfs.mp4
-<video itemscope itemtype="https://schema.org/VideoObjectcontrols width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" itemscope itemtype="https://schema.org/VideoObject preload="none" >
+<video itemscope itemtype="https://schema.org/VideoObject" controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" preload="none" >
     
 <source src="https://archive.org/download/WaltDisneySignatureCollection_201808/Snow%20White%20and%20the%20Seven%20Dwarfs.mp4" type="video/mp4" />
          Download the
