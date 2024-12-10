@@ -15,6 +15,7 @@
 
 # Dear_Coral
 Remember the [RasberryPi](https://www.raspberrypi.com/) and [RetroPie](https://retropie.org.uk/)? I learned abt another [retrogaming platform](https://www.reddit.com/r/retrogaming/), [JAMMA](https://diyarcade.com/collections/jamma-board-jamma-arcade-diy-arcade-usa). You need a house to do it, it would be cool if [The Library](https://www.lapl.org/labs/octavia-lab) was not fucked up with me over ya mama an them girls from dance411 doing those loose scenes in the netflix shows under different characters, i know her breast like u, just differrnt, it hurts man, an normani too friendly with her body, its a different kind of [let down](https://www.essence.com/lifestyle/normani-boyfriend/) . . . anyway if this is not filtered try king of fighters, i started with [96](https://www.neogeofun.com/kof96-2) with my freind Brandon at the [PX](https://home.army.mil/stewart/about/Garrison/hunter-army-airfield), i later [purchased](https://archive.org/details/psx_kof95) it on [Playstation](https://archive.org/details/psxgames). I used to hide it from willie, [Vickeye saved your life💯](https://www.realtor.com/realestateandhomes-detail/1822-Quincy-St_Savannah_GA_31405_M65406-35118) 
+ - check out [MrWizard](https://archive.org/details/Yugi-Moto_likes-to_Fart)
 
 [The King of Fighters '96 (Jpn)](https://archive.org/details/psx_kof96) 
 [REDDiT - "The King of Fighters '96 Neo Geo Collection" - Neo Geo CD (English subs)](https://www.reddit.com/r/kof/comments/ftrqp3/the_king_of_fighters_96_neo_geo_collection_neo/)
