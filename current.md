@@ -1,4 +1,19 @@
 
+
+# アキラ
+## Akira 
+@blackgirlscode Normani i found this one on Archive , more later, the subs were hardcoded 
+<video itemscope itemtype="https://schema.org/VideoObject" controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/akira.jpg" preload="none" >
+    
+<source src="https://archive.org/download/akira_1988_202404/akira_1988.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/akira_1988_202404/akira_1988.mp4">MP4</a>
+        video.
+</video>   
+
+![kaneda](https://e7.pngegg.com/pngimages/515/767/png-clipart-shotaro-kaneda-model-sheet-art-anime-akira-manga-logo-thumbnail.png)
+
 # cellular magic mirror
 <picture itemprop="image">
   <source srcset="https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096" media="(orientation: portrait)" />
