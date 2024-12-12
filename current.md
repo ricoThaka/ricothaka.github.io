@@ -18,6 +18,11 @@
 [Neo Geo X, a handheld revival of the 1990's game platform - WiRED](https://www.wired.com/2012/09/neo-geo-x-standalon/) [FANDOM](https://snk.fandom.com/wiki/Neo_Geo_X)
 [Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html#)
 [PC Games on Android ? - r/retroarch - REDDiT](https://www.reddit.com/r/RetroArch/comments/bzfwi2/pc_games_on_android/?rdt=56401)
+
+# SNK LSPC2-A2
+## LSPC2-A2 (line sprite generator & VRAM interface) @ 24 MHz
+![NEOGEO - processorDie](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snk_lspc2-a2_mcmaster_mz_ns20x.jpg/2172px-Snk_lspc2-a2_mcmaster_mz_ns20x.jpg)
+
 # NTP
 NTP (Network Time Protocol) provides highly accurate atomic time for individuals connected to the Internet [caltech](https://www.imss.caltech.edu/services/wired-wireless-remote-access/about-caltech-network/ntp-time-service) [https://www.ntp.org](https://www.ntp.org/documentation/4.2.8-series/) [Malibufire](https://yandex.com/search/?text=malibu+fire+news&lr=20765&search_source=yacom_desktop_common)
 ##  
