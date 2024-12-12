@@ -4,7 +4,8 @@
 ![neogeo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Neo-Geo-AES-Console-Set.png)
 [Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html#)
 
-# 
+# NTP
+NTP (Network Time Protocol) provides highly accurate atomic time for individuals connected to the Internet [caltech](https://www.imss.caltech.edu/services/wired-wireless-remote-access/about-caltech-network/ntp-time-service) [https://www.ntp.org](https://www.ntp.org/documentation/4.2.8-series/)
 ##  
 ![アキラ Akira](https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Akira.svg/1850px-Logo_Akira.svg.png)
 
