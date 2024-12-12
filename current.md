@@ -2,10 +2,11 @@
 
 
 # Looking for a good file
-@blackgirlscode @normani share this with [riri](https://www.tiktok.com/@rihsmybiih/video/7441305910451981590) [ANTi - DiSCOGS](https://www.discogs.com/master/950545-Rihanna-Anti) [RrlatedTweet](https://x.com/thakasartu/status/1867026192202912230)
+@blackgirlscode @normani share this with [riri](https://www.tiktok.com/@rihsmybiih/video/7441305910451981590) [ANTi - DiSCOGS](https://www.discogs.com/master/950545-Rihanna-Anti) [RelatedTweet](https://x.com/thakasartu/status/1867026192202912230)
 [<img src="https://i.discogs.com/-vDh7gKuPAgqG3pdRAxZ2A7Kn060j6uIVZ5C5mPPL8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NTcwLTE0OTkzMDg1/NTEtMzUwNC5qcGVn.jpeg" alt="rihanna anti" />](https://i.discogs.com/-vDh7gKuPAgqG3pdRAxZ2A7Kn060j6uIVZ5C5mPPL8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NTcwLTE0OTkzMDg1/NTEtMzUwNC5qcGVn.jpeg)
 
-
+# Aircrack-ng
+Aircrack is an all in one packet sniffer [readmore - geeksforgeeks](https://www.geeksforgeeks.org/kali-linux-aircrack-ng/)
 
 ![neogeo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Neo-Geo-AES-Console-Set.png)
 [Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html#)
