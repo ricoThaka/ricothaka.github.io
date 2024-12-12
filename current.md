@@ -2,10 +2,10 @@
 
 
 # Looking for a good file
-@blackgirlscode @normani share this with [riri](https://www.tiktok.com/@rihsmybiih/video/7441305910451981590) [ANTi - DiSCOGS](https://www.discogs.com/master/950545-Rihanna-Anti) 
+@blackgirlscode @normani share this with [riri](https://www.tiktok.com/@rihsmybiih/video/7441305910451981590) [ANTi - DiSCOGS](https://www.discogs.com/master/950545-Rihanna-Anti) [RrlatedTweet](https://x.com/thakasartu/status/1867026192202912230)
 [<img src="https://i.discogs.com/-vDh7gKuPAgqG3pdRAxZ2A7Kn060j6uIVZ5C5mPPL8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NTcwLTE0OTkzMDg1/NTEtMzUwNC5qcGVn.jpeg" alt="rihanna anti" />](https://i.discogs.com/-vDh7gKuPAgqG3pdRAxZ2A7Kn060j6uIVZ5C5mPPL8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NTcwLTE0OTkzMDg1/NTEtMzUwNC5qcGVn.jpeg)
 
-<iframe width="912" height="513" src="https://www.youtube.com/embed/0YHE4CcvYes" title="DK - Solid Steel Mix (promo) (CD2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ![neogeo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Neo-Geo-AES-Console-Set.png)
 [Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html#)
