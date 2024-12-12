@@ -6,8 +6,8 @@
 [<img src="https://i.discogs.com/-vDh7gKuPAgqG3pdRAxZ2A7Kn060j6uIVZ5C5mPPL8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NTcwLTE0OTkzMDg1/NTEtMzUwNC5qcGVn.jpeg" alt="rihanna anti" />](https://i.discogs.com/-vDh7gKuPAgqG3pdRAxZ2A7Kn060j6uIVZ5C5mPPL8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NTcwLTE0OTkzMDg1/NTEtMzUwNC5qcGVn.jpeg)
 
 # Aircrack-ng
-Aircrack is an all in one packet sniffer [readmore - geeksforgeeks](https://www.geeksforgeeks.org/kali-linux-aircrack-ng/)
-
+Aircrack is an all in one packet sniffer [readmore - geeksforgeeks](https://www.geeksforgeeks.org/kali-linux-aircrack-ng/) [packet analyzer (also packet sniffer or network analyzer) - Wikipedia](https://en.wikipedia.org/wiki/Packet_analyzer) is a computer program or computer hardware such as a packet capture appliance that can analyze and log traffic that passes over a computer network or part of a network [Capturing mobile phone traffic on Wireshark - STACKOVERFLOW](https://stackoverflow.com/questions/9555403/capturing-mobile-phone-traffic-on-wireshark)
+![STACKOVERFLOW](https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg)
 ![neogeo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Neo-Geo-AES-Console-Set.png)
 [Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html#)
 [PC Games on Android ? - r/retroarch - REDDiT](https://www.reddit.com/r/RetroArch/comments/bzfwi2/pc_games_on_android/?rdt=56401)
