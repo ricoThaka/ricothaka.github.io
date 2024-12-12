@@ -11,6 +11,10 @@
 ![eh](https://media.licdn.com/dms/image/v2/D4E12AQGQCAXUUHUGHw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1701001297339?e=2147483647&v=beta&t=O58g4mvPMvvAOl_WrlnSHIBeExya6BPqqc6A7dD4710)
 
 ![neogeo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Neo-Geo-AES-Console-Set.png)
+<iframe src="https://archive.org/embed/arcade_garou" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![NEO*GEO_X](https://upload.wikimedia.org/wikipedia/commons/0/00/Neo-geo-x-console.png)
+[Neo Geo X, a handheld revival of the 1990's game platform - WiRED](https://www.wired.com/2012/09/neo-geo-x-standalon/)
 [Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html#)
 [PC Games on Android ? - r/retroarch - REDDiT](https://www.reddit.com/r/RetroArch/comments/bzfwi2/pc_games_on_android/?rdt=56401)
 # NTP
