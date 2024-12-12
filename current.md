@@ -1,9 +1,15 @@
 
 
 
+# Looking for a good file
+@blackgirlscode @normani share this with [riri](https://www.tiktok.com/@rihsmybiih/video/7441305910451981590) [ANTi - DiSCOGS](https://www.discogs.com/master/950545-Rihanna-Anti) 
+[<img src="https://i.discogs.com/-vDh7gKuPAgqG3pdRAxZ2A7Kn060j6uIVZ5C5mPPL8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NTcwLTE0OTkzMDg1/NTEtMzUwNC5qcGVn.jpeg" alt="rihanna anti" />](https://i.discogs.com/-vDh7gKuPAgqG3pdRAxZ2A7Kn060j6uIVZ5C5mPPL8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NTcwLTE0OTkzMDg1/NTEtMzUwNC5qcGVn.jpeg)
+
+<iframe width="912" height="513" src="https://www.youtube.com/embed/0YHE4CcvYes" title="DK - Solid Steel Mix (promo) (CD2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![neogeo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Neo-Geo-AES-Console-Set.png)
 [Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html#)
-
+[PC Games on Android ? - r/retroarch - REDDiT](https://www.reddit.com/r/RetroArch/comments/bzfwi2/pc_games_on_android/?rdt=56401)
 # NTP
 NTP (Network Time Protocol) provides highly accurate atomic time for individuals connected to the Internet [caltech](https://www.imss.caltech.edu/services/wired-wireless-remote-access/about-caltech-network/ntp-time-service) [https://www.ntp.org](https://www.ntp.org/documentation/4.2.8-series/) [Malibufire](https://yandex.com/search/?text=malibu+fire+news&lr=20765&search_source=yacom_desktop_common)
 ##  
