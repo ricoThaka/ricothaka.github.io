@@ -2,9 +2,12 @@
 
 
 ![neogeo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Neo-Geo-AES-Console-Set.png)
+[Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html#)
 
-# アキラ
-## Akira 
+# 
+##  
+![アキラ Akira](https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Akira.svg/1850px-Logo_Akira.svg.png)
+
 @blackgirlscode Normani i found this one on Archive , more later, the subs were hardcoded 
 <video itemscope itemtype="https://schema.org/VideoObject" controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/akira.jpg" preload="none" >
     
@@ -15,7 +18,7 @@
         video.
 </video>   
 
-![kaneda](https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Akira.svg/1850px-Logo_Akira.svg.png)
+
 
 # cellular magic mirror
 ## Snow White and the Seven Dwarfs.mp4
