@@ -12,6 +12,7 @@
 {% endfor %}
 
 </div>
+![LYNX](https://ia800203.us.archive.org/27/items/lynx_20240322/lynx.png)
 [Retroarch System Files (BIOS\Firmwares\OSs)](https://archive.org/details/RetroarchSystemFiles)
 # [Inuyasha Movie 1: Affections Touching Across Time](https://www.youtube.com/watch?v=DRXKcazeSkE)
 
