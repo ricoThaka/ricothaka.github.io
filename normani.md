@@ -7,6 +7,7 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+![NES](https://ia600601.us.archive.org/17/items/nes-romset-ultra-us/Nintendo_Entertainment_System_Model.png)
 
 ### cellular magic mirror
 # snow White and the seven Dwarfs.mp4
