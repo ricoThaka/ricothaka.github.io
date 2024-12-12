@@ -1,5 +1,8 @@
 
 
+
+![neogeo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Neo-Geo-AES-Console-Set.png)
+
 # アキラ
 ## Akira 
 @blackgirlscode Normani i found this one on Archive , more later, the subs were hardcoded 
@@ -12,15 +15,9 @@
         video.
 </video>   
 
-![kaneda](https://e7.pngegg.com/pngimages/515/767/png-clipart-shotaro-kaneda-model-sheet-art-anime-akira-manga-logo-thumbnail.png)
+![kaneda](https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Akira.svg/1850px-Logo_Akira.svg.png)
 
 # cellular magic mirror
-<picture itemprop="image">
-  <source srcset="https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096" media="(orientation: portrait)" />
-  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
-  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" alt="" />
-</picture>
-
 ## Snow White and the Seven Dwarfs.mp4
 <video itemscope itemtype="https://schema.org/VideoObject" controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" preload="none" >
     
@@ -497,3 +494,10 @@ US Astronaut Tony lands at a small island. While waiting to be rescued, he comes
 
 
 # [older posts](./current03)
+
+
+<picture itemprop="image">
+  <source srcset="https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096" media="(orientation: portrait)" />
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
+  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" alt="" />
+</picture>
