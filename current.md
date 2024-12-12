@@ -11,8 +11,29 @@
 ![eh](https://media.licdn.com/dms/image/v2/D4E12AQGQCAXUUHUGHw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1701001297339?e=2147483647&v=beta&t=O58g4mvPMvvAOl_WrlnSHIBeExya6BPqqc6A7dD4710)
 ![NEOGEO - MOTHERBOARD](https://upload.wikimedia.org/wikipedia/commons/4/40/Neo-Geo-AES-Opened-FL.jpg)
 ![neogeo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Neo-Geo-AES-Console-Set.png)
+
+# Garou Densetsu Special (NGM-058 ~ NGH-058 set 1)
+## Fatal Fury special
+<iframe src="https://archive.org/embed/arcade_fatfursp" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# [1994 VHS DUB] : Fatal Fury : Legend Of The Hungry Wolf 
+Fatal Fury: Legend of the Hungry Wolf, released in Japan as Battle Fighters Garou Densetsu (バトルファイターズ餓狼伝説, Batoru Faitāzu Garō Densetsu) is an anime TV Special based on the fighting game Fatal Fury. The movie was directed by Hiroshi Fukutomi and features character designs by Masami Obari.
+
+It originally aired on Fuji TV on December 23, 1992. The English version of the movie was distributed by VIZ Media in 1994.
+<video itemscope itemtype="https://schema.org/VideoObject" controls width="100%" height="auto" poster="https://m.media-amazon.com/images/S/pv-target-images/5b13ea6706478551a6c4c050338f4350f97b721add171729738647f47d099b87.jpg" preload="none" >
+    
+<source src="https://archive.org/download/fatal-fury-legend-of-the-hungry-wolf-1994-vhs-dub/FatalFury_LegendOfTheHungryWolf_%5B1994%5D.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/fatal-fury-legend-of-the-hungry-wolf-1994-vhs-dub/FatalFury_LegendOfTheHungryWolf_%5B1994%5D.mp4">MP4</a>
+        video.
+</video>  
+
+# Garou: Mark of the Wolves 
+[ARChiVE](https://archive.org/details/arcade_garou)
 <iframe src="https://archive.org/embed/arcade_garou" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+![garou](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/garou-mark-of-the-wolves_marquee.jpg?fit=1332%2C1632&ssl=1)
 ![NEOGEO - MVS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Neo_Geo_full_on.png)
 ![NEO*GEO_X](https://upload.wikimedia.org/wikipedia/commons/0/00/Neo-geo-x-console.png)
 [Neo Geo X, a handheld revival of the 1990's game platform - WiRED](https://www.wired.com/2012/09/neo-geo-x-standalon/) [FANDOM](https://snk.fandom.com/wiki/Neo_Geo_X)
