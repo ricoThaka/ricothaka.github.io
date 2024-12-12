@@ -19,7 +19,7 @@
 # [1994 VHS DUB] : Fatal Fury : Legend Of The Hungry Wolf 
 Fatal Fury: Legend of the Hungry Wolf, released in Japan as Battle Fighters Garou Densetsu (バトルファイターズ餓狼伝説, Batoru Faitāzu Garō Densetsu) is an anime TV Special based on the fighting game Fatal Fury. The movie was directed by Hiroshi Fukutomi and features character designs by Masami Obari.
 
-It originally aired on Fuji TV on December 23, 1992. The English version of the movie was distributed by VIZ Media in 1994.
+It originally aired on Fuji TV on December 23, 1992. The English version of the movie was distributed by VIZ Media in 1994. [YOUTUBE - Fatal Fury The Motion Picture (English Dubbed) [VHS]](https://www.youtube.com/watch?v=3zL3sHYkxeQ)
 <video itemscope itemtype="https://schema.org/VideoObject" controls width="100%" height="auto" poster="https://m.media-amazon.com/images/S/pv-target-images/5b13ea6706478551a6c4c050338f4350f97b721add171729738647f47d099b87.jpg" preload="none" >
     
 <source src="https://archive.org/download/fatal-fury-legend-of-the-hungry-wolf-1994-vhs-dub/FatalFury_LegendOfTheHungryWolf_%5B1994%5D.mp4" type="video/mp4" />
