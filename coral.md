@@ -1,3 +1,7 @@
+
+
+![SNES](https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Super_Famicom_logo.svg/2560px-Super_Famicom_logo.svg.png)
+
 <div class="tupperware">
 {% for post in site.posts %}
     

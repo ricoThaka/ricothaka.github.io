@@ -1,5 +1,5 @@
 ---
-layout: normani
+layout: default
 title: Normani
 mermaid: true
 permalink: /normani 
@@ -7,7 +7,23 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
-![NES](https://ia600601.us.archive.org/17/items/nes-romset-ultra-us/Nintendo_Entertainment_System_Model.png)
+![sNES](https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_SNES.png)
+![sNES](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SNES-Mod1-Console-Set.png/2560px-SNES-Mod1-Console-Set.png)
+I played the mose amazing game this morning [Secret Of Mana](https://www.youtube.com/watch?v=Nwj_h8QzmwE) i am running a rom but its on [RetroGames](https://www.retrogames.cc/snes-games/secret-of-mana-usa.html) and several other [OnlineConsole](https://yandex.com/search/?text=secret+of+mana+play+online&lr=200&search_source=yacom_desktop_common), its an [rpg](https://nintendo.fandom.com/wiki/Secret_of_Mana). Mana is a big world, and the fighting engine is fun. I am a [Final Fantasy 7](https://www.youtube.com/watch?v=QDz9A4ByHIQ) fan and oG release buyer so the [SquareFormat](https://archive.org/details/square-enix-commercial-pack) was really accecible. I hope you doing good, i made a video tweet, referencing you... i hope u dig this album, there so many clues to whats going on right now,u might hate his ass... @blackgirlscode, @normani i talk to everyone @nasa @nasa-jpl thats how i got into this mess, the witnesses were right u will meet people if u talk
+
+
+ <figure>
+  <figcaption>DJ Scream & OJ Da Juiceman: `[Alaska N Atlanta 3](Brickhouse (Feat. Block 125) [Prod. By Dubba Aa & Louie Bands])`</figcaption>
+  <audio controls src="https://archive.org/download/DJ_Scream_and_OJ_Da_Juiceman_-_Alaska_N_Atlanta_3-2021/04%20Oj%20Da%20Juiceman%20-%20Brickhouse%20%28Feat.%20Block%20125%29%20%5BProd.%20By%20Dubba%20Aa%20%26%20Louie%20Bands%5D.mp3" itemscope itemtype="https://schema.org/MusicRecording"></audio>
+  <a href="https://archive.org/download/DJ_Scream_and_OJ_Da_Juiceman_-_Alaska_N_Atlanta_3-2021/04%20Oj%20Da%20Juiceman%20-%20Brickhouse%20%28Feat.%20Block%20125%29%20%5BProd.%20By%20Dubba%20Aa%20%26%20Louie%20Bands%5D.mp3"> Download audio </a>
+</figure>
+
+<iframe src="https://archive.org/embed/DJ_Scream_and_OJ_Da_Juiceman_-_Alaska_N_Atlanta_3-2021" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+![Secret Of Mana](https://static.wikia.nocookie.net/nintendo/images/3/3a/Secret_of_Mana_%28NA%29.jpg/revision/latest?cb=20081001193927&path-prefix=en)
+
+
 
 ### cellular magic mirror
 # snow White and the seven Dwarfs.mp4
