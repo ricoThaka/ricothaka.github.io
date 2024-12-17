@@ -341,6 +341,7 @@ grid-template-rows: auto auto auto;
   position:fixed;
 
 } */
+
 header {display:block;
   color:white;
 height:auto}
@@ -405,16 +406,25 @@ nav li#active a {
   border-right: 4px solid #2e97f2;
   color: #fff;
 }
-.css3badge {
-  display: inline;
-  float: right;
-  flex-wrap: nowrap;
-}
 
 .logo {
   float: left;
   background-color: black;
   display: block;
+}
+
+
+
+
+ul ul {
+  position: absolute;
+  display: none;
+  transition:all 0.3s ease-in-out;
+}
+
+li:hover ul {
+  display: block;
+  transition:all 0.3s ease-in-out;
 }
 
 /* Buttons
