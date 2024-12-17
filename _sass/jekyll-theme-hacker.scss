@@ -341,19 +341,82 @@ grid-template-rows: auto auto auto;
   position:fixed;
 
 } */
+.gullies {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  
+  flex-wrap: wrap;
+  width: 100%;
+  height: 1em;
+
+}
+.gullies div:nth-child(1) {
+  background: #3029f2;
+    animation: .2s ease-out 0s 1 slideInFromLeft;
+ 
+
+}
+.gullies div:nth-child(2) {
+  background: #446ff2;
+  animation: .2s ease-in 0s 1 slideInFromRight;
+  
+}
+.gullies div:nth-child(3) {
+  background: #3098f2;
+  animation: .8s ease-in 0s 1 slideInFromLeft;
+  
+}
+.gullies div:nth-child(4) {
+  background: #0dd9c4;
+  animation: .9s ease-in 0s 1 slideInFromRight;
+  
+}
+.gullies div:nth-child(5) {
+  background: #3df28b;
+    
+  animation: .8s ease-in 0s 1 slideInFromLeft;  
+
+}
+
+.gullies div {
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
+  display:block;
+padding-bottom:280px;
+
+}
+
+hgroup h1 {
+  display: block;
+line-height: 1rem;
+font: normal 14px/18px 'Fredoka One', "Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+font-size: 3rem;
+word-break: break-all;
+color: #fff;
+text-shadow:
+
+      0 0 42px #0DCBFF,
+      0 0 82px #0DCBFF,
+      0 0 92px #0DCBFF,
+      0 0 102px #0DCBFF,
+      0 0 125px #0DCBFF;
+}
 
 header {display:block;
   color:white;
 height:auto}
 
 nav ul {
+  padding-top:20px;
   display: list-item;
   padding: 0;
   height: 20px;
   display: flex;
-  background-color: magenta;
-    color: white;
-    border: 0;
+  color: white;
+  border: 0;
   margin: 0;
   padding: 0;
   list-style-type: none;
@@ -407,14 +470,6 @@ nav li#active a {
   color: #fff;
 }
 
-.logo {
-  float: left;
-  background-color: black;
-  display: block;
-}
-
-
-
 
 ul ul {
   position: absolute;
@@ -426,6 +481,7 @@ li:hover ul {
   display: block;
   transition:all 0.3s ease-in-out;
 }
+
 
 /* Buttons
 */
