@@ -5,7 +5,7 @@ mermaid: true
 permalink: /normani 
 tags: saint
 ---
-#  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
 ![sNES](https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_SNES.png)
 ![sNES](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SNES-Mod1-Console-Set.png/2560px-SNES-Mod1-Console-Set.png)
@@ -20,9 +20,6 @@ I played the mose amazing game this morning [Secret Of Mana](https://www.youtube
 </figure>
 
 <iframe src="https://archive.org/embed/DJ_Scream_and_OJ_Da_Juiceman_-_Alaska_N_Atlanta_3-2021" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-![Secret Of Mana](https://static.wikia.nocookie.net/nintendo/images/3/3a/Secret_of_Mana_%28NA%29.jpg/revision/latest?cb=20081001193927&path-prefix=en)
 
 ![snes+vscode](https://pbs.twimg.com/media/GfCEGatacAAybTn?format=jpg&name=large)
 
