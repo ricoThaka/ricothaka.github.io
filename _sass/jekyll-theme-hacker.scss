@@ -341,117 +341,66 @@ grid-template-rows: auto auto auto;
   position:fixed;
 
 } */
+header {display:block;
+  color:white;
+height:auto}
 
-.logo {
-  float: left;
-  background-color: black;
-  display: block;
-}
-
-ul {
+nav ul {
+  display: list-item;
   padding: 0;
-  margin: 0;
-  color: white;
-}
-
-li {
-  display: inline;
-  position: relative;
-  color: white;
-}
-
-ul ul {
-  position: absolute;
-  display: none;
-}
-
-li:hover ul {
-  display: block;
-}
-
-.logo {
-  float: left;
-  background-color: black;
-  display: block;
-}
-
-ul {
-  padding: 0;
-  margin: 0;
-  color: white;
-}
-
-li {
-  display: inline;
-  position: relative;
-  color: white;
-}
-
-ul ul {
-  position: absolute;
-  display: none;
-}
-
-li:hover ul {
-  display: block;
-}
-
-#navcontainer {
-  display:block;
-  padding: 0;
-width: 55vw;
   height: 20px;
   display: flex;
-  background-color: black;
-  position: fixed;
-  color: white;
-  top: 0;
-}
-
-#navcontainer ul {
-  border: 0;
+  background-color: magenta;
+    color: white;
+    border: 0;
   margin: 0;
   padding: 0;
   list-style-type: none;
   text-align: center;
+
 }
 
-#navcontainer ul li {
-  display: block;
+nav ul {
 
-  float: right;
+  
+}
+
+nav ul li {
+  display: inline-block;
   text-align: center;
   padding: 0px;
   margin: 0;
 }
 
-#navcontainer ul li a {
-  width: 100px;
+nav ul li a {
+  width: auto;
   height: max-content;
-  background: #262626;
+  background: #26262675;
   border-left: 1px dashed #f5d7b4;
   border-bottom: 1px solid #262626;
   border-right: 1px solid #262626;
-  padding: 0;
+  padding: 5px;
   margin: 0 0 0px 0;
   color: #a6a6a6;
   text-decoration: none;
   display: block;
   text-align: center;
+  transition:all 1.3s ease-in-out;
 }
 
-#navcontainer ul li a:hover {
+nav ul li a:hover {
   color: #f2f2f2;
-  background: #262626;
+  background: red;
   border-top: 1px solid magenta;
+  
 }
 
-#navcontainer a:active {
+nav a:active {
   background: #262626;
   color: #fff;
 }
 
-#navcontainer li#active a {
+nav li#active a {
   background: #262626;
   border-right: 4px solid #2e97f2;
   color: #fff;
@@ -462,6 +411,11 @@ width: 55vw;
   flex-wrap: nowrap;
 }
 
+.logo {
+  float: left;
+  background-color: black;
+  display: block;
+}
 
 /* Buttons
 */
