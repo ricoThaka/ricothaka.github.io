@@ -1,4 +1,8 @@
 
+<picture>
+  <source srcset="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/EarthFleetChart-120224.png" media="(orientation: portrait)" />
+  <img src="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/EarthFleetChart-120224.png" alt="" />
+</picture>
 
 
 ![π](https://s3.linksys.com/support/images/KB4231-001_EN.png)
