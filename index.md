@@ -35,7 +35,7 @@ carousels:
 
 ---
 
-![PIA25417: Curiosity's Navcams View Paraitepuy Pass](https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg)
+
 
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE##########Normani=NoiR####
