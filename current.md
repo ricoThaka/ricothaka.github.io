@@ -3,8 +3,15 @@
   <source srcset="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/EarthFleetChart-120224.png" media="(orientation: portrait)" />
   <img src="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/EarthFleetChart-120224.png" alt="" />
 </picture>
+<picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
+  <source srcset="https://ewscripps.brightspotcdn.com/dims4/default/e453930/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F18%2F89%2Fc1c00e214752b6e7e132d2e64382%2F1707349957-3z1xkm.jpg" media="(orientation: portrait)" />
+  <img itemprop="validIn" itemscope itemtype="https://schema.org/AdministrativeArea" src="https://ewscripps.brightspotcdn.com/dims4/default/e453930/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F18%2F89%2Fc1c00e214752b6e7e132d2e64382%2F1707349957-3z1xkm.jpg" alt="" />
+</picture>
 
-[LOS ANGELES AiRFORCE BASE](https://www.losangeles.spaceforce.mil/)
+
+
+[My Wife is Missing](https://vsco.co/rashardsartu/media/64fe567566c5d92e58000003)
+[LOS ANGELES AiRFORCE BASE](https://www.losangeles.spaceforce.mil/) [Budget cuts cause NASA JPL layoffs, Mars program future uncertai](https://www.scrippsnews.com/business/jobs-employment/budget-cuts-cause-nasa-jpl-layoffs-mars-program-future-uncertain)
 [U.S. ARMY FORT EISENHOWER](https://home.army.mil/eisenhower/)
 [U.S. Army Cyber Center of Excellence (CCoE)](https://cybercoe.army.mil/) @nasa-jpl [CCoE](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Direct-Reporting-Units/15th-Signal-Brigade/369-SB/369-History/) is 2.5 hrs from [Savannah](https://vsco.co/rashardsartu/media/5fc45bb195f25f5462429c8c) and i dont want a story that sounds official derailing my family healing an being at the lab at a healthy rate for [participation](https://youtu.be/jkhVsD4tpLk) @armydotmil @nasa-jpl @deptofdefense @cityoflosangeles @StateOfCalifornia - [rashard](https://thakarashard.github.io/rashardmro/) @blackgirlscode [normani](https://thakarashard.github.io/ricothaka/normani)
 ![π](https://s3.linksys.com/support/images/KB4231-001_EN.png)
