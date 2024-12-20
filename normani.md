@@ -8,6 +8,9 @@ tags: saint
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1dL3GaoLR6Bx4zH5ajCX2L?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 [SCHEMA-GAMEPLATFORM](https://schema.org/gamePlatform) [SCHEMA-CREATiVEWORK](https://schema.org/CreativeWork) [SCHEMA-IMAGE](https://schema.org/image)
 ![sNES](https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_SNES.png)
 ![sNES](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SNES-Mod1-Console-Set.png/2560px-SNES-Mod1-Console-Set.png)
