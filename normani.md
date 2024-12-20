@@ -7,8 +7,8 @@ tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
-
-
+[![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani)
+[HTML Learning Path - List and Nav Elements - GoRails TutoriaL](https://www.youtube.com/watch?v=5havRPfNCQE)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1dL3GaoLR6Bx4zH5ajCX2L?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [SCHEMA-GAMEPLATFORM](https://schema.org/gamePlatform) [SCHEMA-CREATiVEWORK](https://schema.org/CreativeWork) [SCHEMA-IMAGE](https://schema.org/image)
