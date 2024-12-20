@@ -4,6 +4,7 @@
   <img src="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/EarthFleetChart-120224.png" alt="" />
 </picture>
 
+[LOS ANGELES AiRFORCE BASE](https://www.losangeles.spaceforce.mil/)
 [U.S. ARMY FORT EISENHOWER](https://home.army.mil/eisenhower/)
 [U.S. Army Cyber Center of Excellence (CCoE)](https://cybercoe.army.mil/) @nasa-jpl [CCoE](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Direct-Reporting-Units/15th-Signal-Brigade/369-SB/369-History/) is 2.5 hrs from [Savannah](https://vsco.co/rashardsartu/media/5fc45bb195f25f5462429c8c) and i dont want a story that sounds official derailing my family healing an being at the lab at a healthy rate for [participation](https://youtu.be/jkhVsD4tpLk) @armydotmil @nasa-jpl @deptofdefense @cityoflosangeles @StateOfCalifornia - [rashard](https://thakarashard.github.io/rashardmro/) @blackgirlscode [normani](https://thakarashard.github.io/ricothaka/normani)
 ![π](https://s3.linksys.com/support/images/KB4231-001_EN.png)
