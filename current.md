@@ -6,7 +6,7 @@
   <img itemprop="validIn" itemscope itemtype="https://www.lroc.asu.edu/ckeditor_assets/pictures/709/content_AS08-13-2329x2.1100pixelc.png" alt="First to See the Farside" />
 </picture>
 
->First photograph (BW) taken of the famous Apollo 8 Earthrise sequence, the following images were acquired with color film [AS08-13-2329, NASA]. [LROC](https://www.lroc.asu.edu/images/1235)
+>First photograph (BW) taken of the famous Apollo 8 Earthrise sequence, the following images were acquired with color film [AS08-13-2329, NASA]. [LROC](https://www.lroc.asu.edu/images/1235) https://www.youtube.com/watch?v=lzkamLShZsY&pp=ygUMI3NwYWNlY2FyZWVy
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758629126&color=%23b5e853&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-394607873" title="Pink Floyd Albums" target="_blank" style="color: #cccccc; text-decoration: none;">Pink Floyd Albums</a> · <a href="https://soundcloud.com/user-394607873/pink-floyd-the-dark-side-of-the-moon-1973-full-album" title="Pink Floyd - The Dark Side of the Moon 1973 (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Pink Floyd - The Dark Side of the Moon 1973 (Full Album)</a></div>
 <picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
