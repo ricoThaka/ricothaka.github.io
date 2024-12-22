@@ -1,5 +1,13 @@
 
 
+
+
+<picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
+  <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif/lossy-page1-2694px-An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif.jpg" media="(orientation: portrait)" />
+ <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif/lossy-page1-2694px-An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif.jpg" media="(orientation: landscape)" />
+  <img itemprop="validIn" itemscope itemtype="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif/lossy-page1-2694px-An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif.jpg" alt="First to See the Farside" />
+</picture>
+## A rocket-assisted Boeing B-47B takeoff.
 <picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
   <source srcset="https://upload.wikimedia.org/wikipedia/commons/8/81/Boeing_B-47B_rocket-assisted_take_off_on_April_15%2C_1954_061024-F-1234S-011.jpg" media="(orientation: portrait)" />
  <source srcset="https://upload.wikimedia.org/wikipedia/commons/8/81/Boeing_B-47B_rocket-assisted_take_off_on_April_15%2C_1954_061024-F-1234S-011.jpg" media="(orientation: landscape)" />
