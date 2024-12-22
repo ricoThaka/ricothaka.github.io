@@ -7,6 +7,10 @@ tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+[![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani)  [![Twitter Follow](https://img.shields.io/badge/Social-NormaniUpdate__-blue?style=social&logo=X)](https://twitter.com/NormaniUpdate) @blackgirlscode
+i was in east hollywood and passed by the [swapmeet](https://laccswap.com/) dr dre was not there, i wish u were on the sidewalk... bye... if u did not see my note its on [kordie]() [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) 
+ [![Twitter Follow](https://img.shields.io/badge/Social-NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) thats on the page..bc i was sad we are not together. now i know i know [issarae](https://www.imdb.com/name/nm4793987/) an idk what to do..... #crashes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kIuQK_zLN9c?si=A0xwFFjYvp1nhp2V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
 <object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
