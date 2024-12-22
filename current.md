@@ -3,6 +3,7 @@
 
 <picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
   <source srcset="https://www.lroc.asu.edu/ckeditor_assets/pictures/709/content_AS08-13-2329x2.1100pixelc.png" media="(orientation: portrait)" />
+    <source srcset="https://www.lroc.asu.edu/ckeditor_assets/pictures/709/content_AS08-13-2329x2.1100pixelc.png" media="(orientation: landscape)" />
   <img itemprop="validIn" itemscope itemtype="https://www.lroc.asu.edu/ckeditor_assets/pictures/709/content_AS08-13-2329x2.1100pixelc.png" alt="First to See the Farside" />
 </picture>
 
