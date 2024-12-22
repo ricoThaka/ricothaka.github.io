@@ -1,9 +1,23 @@
 
 
+<picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
+  <source srcset="https://upload.wikimedia.org/wikipedia/commons/8/81/Boeing_B-47B_rocket-assisted_take_off_on_April_15%2C_1954_061024-F-1234S-011.jpg" media="(orientation: portrait)" />
+ <source srcset="https://upload.wikimedia.org/wikipedia/commons/8/81/Boeing_B-47B_rocket-assisted_take_off_on_April_15%2C_1954_061024-F-1234S-011.jpg" media="(orientation: landscape)" />
+  <img itemprop="validIn" itemscope itemtype="https://upload.wikimedia.org/wikipedia/commons/8/81/Boeing_B-47B_rocket-assisted_take_off_on_April_15%2C_1954_061024-F-1234S-011.jpg" alt="First to See the Farside" />
+</picture>
+By US Air Force - This image was released by the United States Air Force with the ID 061024-F-1234S-011 (next).This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.العربية ∙ বাংলা ∙ Deutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1782310
+[JATO (acronym for jet-assisted take-off) ](https://en.wikipedia.org/wiki/JATO)
+# : TRINITY through BUSTER-JANGLE : Atomic Weapons Tests
+<iframe itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization" width="560" height="315" src="https://www.youtube.com/embed/MWIJVM9kdek?si=dIhd787Ocd2CKeXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0T5L4oi5KqfAwTH2nS4FHj?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 <picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
   <source srcset="https://www.lroc.asu.edu/ckeditor_assets/pictures/709/content_AS08-13-2329x2.1100pixelc.png" media="(orientation: portrait)" />
-    <source srcset="https://www.lroc.asu.edu/ckeditor_assets/pictures/709/content_AS08-13-2329x2.1100pixelc.png" media="(orientation: landscape)" />
+ <source srcset="https://www.lroc.asu.edu/ckeditor_assets/pictures/709/content_AS08-13-2329x2.1100pixelc.png" media="(orientation: landscape)" />
   <img itemprop="validIn" itemscope itemtype="https://www.lroc.asu.edu/ckeditor_assets/pictures/709/content_AS08-13-2329x2.1100pixelc.png" alt="First to See the Farside" />
 </picture>
 
