@@ -7,7 +7,10 @@
 Merry chrismas Coral, ill write later. Im at the library trying to pick out a PSX game to play, im goinbg to store my links here
 @blackgirlscode  [bustamove](https://cdromance.org/psx-iso/bust-a-move-99-usa/) [CrashBandicoot](https://cdromance.org/psx-iso/crash-bandicoot-usa/) [Ridge Racer (USA) PSX ISO](https://cdromance.org/psx-iso/ridge-racer-usa/)  [[Question] Will Retroarch play eboot.pbp PSX?](https://www.reddit.com/r/RetroArch/comments/98ccdi/question_will_retroarch_play_ebootpbp_psx/)
 
+# How to play PSX2PSP eboots on a PSP Console:
+Copy the folder containing the EBOOT.PBP to \PSP\GAME\, note that each eboot needs to be "in a folder", else they'll show up as corrupted data.
 
+Example Path: X:\PSP\GAME\SLPS-02985\EBOOT.PBP - [CDROMANCE](https://cdromance.org/faq/#q3)
 # LAPD 
 [![Twitter Follow](https://img.shields.io/badge/Social-LAPDPIO__-blue?style=social&logo=X)](https://twitter.com/LAPDPIO) 
  try this game [Future Cop - L.A.P.D. (USA) - .ISO](https://archive.org/details/psx_futurcop) [https://archive.org/details/psx_futurcop - REDDiT](https://www.reddit.com/r/patientgamers/comments/16n0akt/future_cop_is_a_good_example_of_youre_not_playing/?rdt=47745)
