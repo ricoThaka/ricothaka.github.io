@@ -1,13 +1,16 @@
 
-# Minolta AF 50mm f/1.7
-The Minolta AF 50mm f/1.7 is a discontinued lens with autofocus that was produced by Minolta for A-mount single lens reflex cameras from 1985[1] through 2006. It is still in use today by users of digital and film SLRs from Minolta (later Konica-Minolta) and Sony. The relatively large maximum aperture (f/1.7) allows the photographer to take shots indoors even when operating at ISO 100 - 200.[wiki](https://en.wikipedia.org/wiki/Minolta_AF_50mm_f/1.7) [DYXUM](https://www.dyxum.com/lenses/Minolta-AF-50mm-F1.7_lens17.html)
-![1.7](https://www.dyxum.com/images/Lenses/17/17_4.jpg)
 
-
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Minolta-50mm-F17.jpg/800px-Minolta-50mm-F17.jpg" />
 
 # Matt Field Interview
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_MS9GWOWC4?si=9tHVZfGRyt_rYX9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+# Minolta AF 50mm f/1.7
+The Minolta AF 50mm f/1.7 is a discontinued lens with autofocus that was produced by Minolta for A-mount single lens reflex cameras from 1985[1] through 2006. It is still in use today by users of digital and film SLRs from Minolta (later Konica-Minolta) and Sony. The relatively large maximum aperture (f/1.7) allows the photographer to take shots indoors even when operating at ISO 100 - 200.[wiki](https://en.wikipedia.org/wiki/Minolta_AF_50mm_f/1.7) [DYXUM](https://www.dyxum.com/lenses/Minolta-AF-50mm-F1.7_lens17.html)
+![1.7](https://www.dyxum.com/images/Lenses/17/17_4.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Minolta-50mm-F17.jpg/800px-Minolta-50mm-F17.jpg" />
+
+
 <picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
   <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif/lossy-page1-2694px-An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif.jpg" media="(orientation: portrait)" />
  <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif/lossy-page1-2694px-An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif.jpg" media="(orientation: landscape)" />
