@@ -7,6 +7,18 @@ tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+
+[Photo.NET WEddiNG PHotoG Gary Friedman,](https://www.friedmanarchives.com/minolta-maxxum-dynax-7/) [ewoodsphoto MaxxUm7](https://ewoodsphoto.com/2018/01/06/maxxum-7-and-maxxum-7d-analog-and-digital-vintage-wonderfulness-twins/)
+[Thoughts on the Minolta Maxxum 7? : r/AnalogCommunity](https://www.reddit.com/r/AnalogCommunity/comments/o9764m/thoughts_on_the_minolta_maxxum_7/?rdt=58057) [35mmc.com maxxum 7 review](https://www.35mmc.com/15/04/2024/minolta-maxxum-7-review/) 
+[casualphotophile maxxum 7 review](https://casualphotophile.com/2017/11/22/minolta-a7-review-maxxum-7-dynax-7/) [earthsunfilm maxxum 7 review](https://earthsunfilm.com/vmlp-28-the-minolta-maxxum-7-im-pretty-sure-picard-has-one/) 
+<img src="https://i0.wp.com/casualphotophile.com/wp-content/uploads/2017/11/Minolta-Alpha-Maxxum-7-FIlm-Camera-Review-1.jpg?fit=1080%2C608&ssl=1" />
+<img src="https://i0.wp.com/casualphotophile.com/wp-content/uploads/2017/11/Minolta-Alpha-Maxxum-7-FIlm-Camera-Review-3.jpg?fit=1080%2C608&ssl=1" />
+<img src="https://earthsunfilm.com/wp-content/uploads/2022/12/Max720221130_06-1024x650.jpeg" />
+
+
+
+[Roddy Ricch - The Box [Official Music Video]](https://youtu.be/UNZqm3dxd2w?si=irOUZVZvkLG5r6DM) [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) im so angry with u, bc i dont know your personal life, and every guy i see, im upset bc im scared they are your intimate partner, i really wanna like his song to this day! [![Twitter Follow](https://img.shields.io/badge/Social-ricothaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) [Future - Mask Off ](https://www.youtube.com/watch?v=xvZqHgFz51I)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani)  [![Twitter Follow](https://img.shields.io/badge/Social-NormaniUpdate__-blue?style=social&logo=X)](https://twitter.com/NormaniUpdate) @blackgirlscode
 i was in east hollywood and passed by the [swapmeet](https://laccswap.com/) dr dre was not there, i wish u were on the sidewalk... bye... if u did not see my note its on [kordie](https://ricothaka.github.io/normanikordei) [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) 
  [![Twitter Follow](https://img.shields.io/badge/Social-NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) thats on the page..bc i was sad we are not together. now i know i know [issarae](https://www.imdb.com/name/nm4793987/) an idk what to do..... #crashes
