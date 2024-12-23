@@ -5,7 +5,7 @@
 ![ps1](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PSX-Console-wController.png/1280px-PSX-Console-wController.png) [Wrestling Wrecks - WOODYWOODPECKr](https://www.b98.tv/video/wrestling-wrecks/)
 # PlayStation
 Merry chrismas Coral, ill write later. Im at the library trying to pick out a PSX game to play, im goinbg to store my links here
-@blackgirlscode  [bustamove](https://cdromance.org/psx-iso/bust-a-move-99-usa/) [CrashBandicoot](https://cdromance.org/psx-iso/crash-bandicoot-usa/)   
+@blackgirlscode  [bustamove](https://cdromance.org/psx-iso/bust-a-move-99-usa/) [CrashBandicoot](https://cdromance.org/psx-iso/crash-bandicoot-usa/)   [[Question] Will Retroarch play eboot.pbp PSX?](https://www.reddit.com/r/RetroArch/comments/98ccdi/question_will_retroarch_play_ebootpbp_psx/)
 
 
 # LAPD 
