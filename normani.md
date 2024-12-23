@@ -6,7 +6,7 @@ permalink: /normani
 tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
-# [Maxxum/Dynax a 7 in practice](https://www.dyxum.com/dforum/
+# [Maxxum/Dynax a 7 in practice](https://www.dyxum.com/dforum/)
 
 <img src="https://c1.staticflickr.com/6/5460/30119076310_948e5ec06e_c.jpg" />
 
