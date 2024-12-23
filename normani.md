@@ -7,7 +7,7 @@ tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
-
+[Minolta Maxxum 7/ Dynax 7 - manual PDF](https://butkus.org/chinon/minolta/minolta_maxxum_7/minolta_maxxum_7.htm)
 [Photo.NET WEddiNG PHotoG Gary Friedman,](https://www.friedmanarchives.com/minolta-maxxum-dynax-7/) [TecData](https://www.mhohner.de/sony-minolta/onebody/7) [Just got a Dynax/Maxxum 7, what do I check? - dyxum.com](https://www.dyxum.com/dforum/just-got-a-dynax-maxxum-7-what-do-i-check_topic137663.html) [ewoodsphoto MaxxUm7](https://ewoodsphoto.com/2018/01/06/maxxum-7-and-maxxum-7d-analog-and-digital-vintage-wonderfulness-twins/)
 [Thoughts on the Minolta Maxxum 7? : r/AnalogCommunity](https://www.reddit.com/r/AnalogCommunity/comments/o9764m/thoughts_on_the_minolta_maxxum_7/?rdt=58057) [35mmc.com maxxum 7 review](https://www.35mmc.com/15/04/2024/minolta-maxxum-7-review/) [MAXXUM 7 - SteveHuff](https://www.stevehuffphoto.com/2018/05/21/back-to-basics-with-a-minolta-maxxum-7-by-ibraar-hussain/)
 [casualphotophile maxxum 7 review](https://casualphotophile.com/2017/11/22/minolta-a7-review-maxxum-7-dynax-7/) [earthsunfilm maxxum 7 review](https://earthsunfilm.com/vmlp-28-the-minolta-maxxum-7-im-pretty-sure-picard-has-one/) [CAMERA REVIEW BLOG NO. 104 – MINOLTA MAXXUM 7](http://www.alexluyckx.com/blog/2019/04/08/camera-review-blog-no-104-minolta-maxxum-7/)
