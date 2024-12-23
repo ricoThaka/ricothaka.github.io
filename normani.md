@@ -8,14 +8,13 @@ tags: saint
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
 
-[Photo.NET WEddiNG PHotoG Gary Friedman,](https://www.friedmanarchives.com/minolta-maxxum-dynax-7/) [ewoodsphoto MaxxUm7](https://ewoodsphoto.com/2018/01/06/maxxum-7-and-maxxum-7d-analog-and-digital-vintage-wonderfulness-twins/)
-[Thoughts on the Minolta Maxxum 7? : r/AnalogCommunity](https://www.reddit.com/r/AnalogCommunity/comments/o9764m/thoughts_on_the_minolta_maxxum_7/?rdt=58057) [35mmc.com maxxum 7 review](https://www.35mmc.com/15/04/2024/minolta-maxxum-7-review/) 
-[casualphotophile maxxum 7 review](https://casualphotophile.com/2017/11/22/minolta-a7-review-maxxum-7-dynax-7/) [earthsunfilm maxxum 7 review](https://earthsunfilm.com/vmlp-28-the-minolta-maxxum-7-im-pretty-sure-picard-has-one/) 
+[Photo.NET WEddiNG PHotoG Gary Friedman,](https://www.friedmanarchives.com/minolta-maxxum-dynax-7/) [TecData](https://www.mhohner.de/sony-minolta/onebody/7) [Just got a Dynax/Maxxum 7, what do I check? - dyxum.com](https://www.dyxum.com/dforum/just-got-a-dynax-maxxum-7-what-do-i-check_topic137663.html) [ewoodsphoto MaxxUm7](https://ewoodsphoto.com/2018/01/06/maxxum-7-and-maxxum-7d-analog-and-digital-vintage-wonderfulness-twins/)
+[Thoughts on the Minolta Maxxum 7? : r/AnalogCommunity](https://www.reddit.com/r/AnalogCommunity/comments/o9764m/thoughts_on_the_minolta_maxxum_7/?rdt=58057) [35mmc.com maxxum 7 review](https://www.35mmc.com/15/04/2024/minolta-maxxum-7-review/) [MAXXUM 7 - SteveHuff](https://www.stevehuffphoto.com/2018/05/21/back-to-basics-with-a-minolta-maxxum-7-by-ibraar-hussain/)
+[casualphotophile maxxum 7 review](https://casualphotophile.com/2017/11/22/minolta-a7-review-maxxum-7-dynax-7/) [earthsunfilm maxxum 7 review](https://earthsunfilm.com/vmlp-28-the-minolta-maxxum-7-im-pretty-sure-picard-has-one/) [CAMERA REVIEW BLOG NO. 104 – MINOLTA MAXXUM 7](http://www.alexluyckx.com/blog/2019/04/08/camera-review-blog-no-104-minolta-maxxum-7/)
 <img src="https://i0.wp.com/casualphotophile.com/wp-content/uploads/2017/11/Minolta-Alpha-Maxxum-7-FIlm-Camera-Review-1.jpg?fit=1080%2C608&ssl=1" />
 <img src="https://i0.wp.com/casualphotophile.com/wp-content/uploads/2017/11/Minolta-Alpha-Maxxum-7-FIlm-Camera-Review-3.jpg?fit=1080%2C608&ssl=1" />
 <img src="https://earthsunfilm.com/wp-content/uploads/2022/12/Max720221130_06-1024x650.jpeg" />
-
-
+<img src="https://www.thephoblographer.com/wp-content/uploads/2017/05/Chris-Gampat-The-Phoblographer-Minolta-Maxxum-a7-review-product-images-8.jpg" />
 
 [Roddy Ricch - The Box [Official Music Video]](https://youtu.be/UNZqm3dxd2w?si=irOUZVZvkLG5r6DM) [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) im so angry with u, bc i dont know your personal life, and every guy i see, im upset bc im scared they are your intimate partner, i really wanna like his song to this day! [![Twitter Follow](https://img.shields.io/badge/Social-ricothaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) [Future - Mask Off ](https://www.youtube.com/watch?v=xvZqHgFz51I)
 
