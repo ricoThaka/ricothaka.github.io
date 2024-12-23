@@ -5,7 +5,7 @@
 ![ps1](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PSX-Console-wController.png/1280px-PSX-Console-wController.png)
 # PlayStation
 Merry chrismas Coral, ill write later. Im at the library trying to pick out a PSX game to play, im goinbg to store my links here
-@blackgirlscode 
+@blackgirlscode  [bustamove](https://cdromance.org/psx-iso/bust-a-move-99-usa/)
 [![SNES](https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Super_Famicom_logo.svg/2560px-Super_Famicom_logo.svg.png)]
 
 ![SNES](https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Super_Famicom_logo.svg/2560px-Super_Famicom_logo.svg.png)
