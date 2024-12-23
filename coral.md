@@ -2,10 +2,19 @@
 
 
 ![psx](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png)
-![ps1](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PSX-Console-wController.png/1280px-PSX-Console-wController.png)
+![ps1](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PSX-Console-wController.png/1280px-PSX-Console-wController.png) [Wrestling Wrecks - WOODYWOODPECKr](https://www.b98.tv/video/wrestling-wrecks/)
 # PlayStation
 Merry chrismas Coral, ill write later. Im at the library trying to pick out a PSX game to play, im goinbg to store my links here
-@blackgirlscode  [bustamove](https://cdromance.org/psx-iso/bust-a-move-99-usa/)
+@blackgirlscode  [bustamove](https://cdromance.org/psx-iso/bust-a-move-99-usa/) [CrashBandicoot](https://cdromance.org/psx-iso/crash-bandicoot-usa/)   
+
+
+# LAPD 
+[![Twitter Follow](https://img.shields.io/badge/Social-LAPDPIO__-blue?style=social&logo=X)](https://twitter.com/LAPDPIO) 
+ try this game 
+<iframe src="https://archive.org/embed/psx_futurcop" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Media Coverage of Law Enfor age of Law Enforcement and E cement and Effects of the Image ects of the Image Created](https://scholar.dominican.edu/cgi/viewcontent.cgi?article=1150&context=senior-theses) [Police Image And Public Perception Is Not True From Race And More. Special Episode.](https://www.letradio.com/police-image-and-public-perception-is-not-true-from/)
+
 [![SNES](https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Super_Famicom_logo.svg/2560px-Super_Famicom_logo.svg.png)]
 
 ![SNES](https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Super_Famicom_logo.svg/2560px-Super_Famicom_logo.svg.png)
