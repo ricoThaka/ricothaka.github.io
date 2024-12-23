@@ -6,19 +6,25 @@ permalink: /normani
 tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
-# [Maxxum/Dynax a 7 in practice](https://www.dyxum.com/dforum/maxxum-dynax-a-7-in-practice_topic123861.html)
-![exposure lock? ](https://c1.staticflickr.com/6/5460/30119076310_948e5ec06e_c.jpg)
+# [Maxxum/Dynax a 7 in practice](https://www.dyxum.com/dforum/
+# Minolta AF 50mm f/1.7
+The Minolta AF 50mm f/1.7 is a discontinued lens with autofocus that was produced by Minolta for A-mount single lens reflex cameras from 1985[1] through 2006. It is still in use today by users of digital and film SLRs from Minolta (later Konica-Minolta) and Sony. The relatively large maximum aperture (f/1.7) allows the photographer to take shots indoors even when operating at ISO 100 - 200.[wiki](https://en.wikipedia.org/wiki/Minolta_AF_50mm_f/1.7) [DYXUM](https://www.dyxum.com/lenses/Minolta-AF-50mm-F1.7_lens17.html)
+![1.7](https://www.dyxum.com/images/Lenses/17/17_4.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Minolta-50mm-F17.jpg/800px-Minolta-50mm-F17.jpg" />
+
 [Minolta Maxxum 7/ Dynax 7 - manual PDF](https://butkus.org/chinon/minolta/minolta_maxxum_7/minolta_maxxum_7.htm)
 [Photo.NET WEddiNG PHotoG Gary Friedman,](https://www.friedmanarchives.com/minolta-maxxum-dynax-7/) [TecData](https://www.mhohner.de/sony-minolta/onebody/7) [Just got a Dynax/Maxxum 7, what do I check? - dyxum.com](https://www.dyxum.com/dforum/just-got-a-dynax-maxxum-7-what-do-i-check_topic137663.html) [ewoodsphoto MaxxUm7](https://ewoodsphoto.com/2018/01/06/maxxum-7-and-maxxum-7d-analog-and-digital-vintage-wonderfulness-twins/) [LEARNCAMERAREPAiR](https://learncamerarepair.com/product.php?product=1043)
 [Thoughts on the Minolta Maxxum 7? : r/AnalogCommunity](https://www.reddit.com/r/AnalogCommunity/comments/o9764m/thoughts_on_the_minolta_maxxum_7/?rdt=58057) [35mmc.com maxxum 7 review](https://www.35mmc.com/15/04/2024/minolta-maxxum-7-review/) [MAXXUM 7 - SteveHuff](https://www.stevehuffphoto.com/2018/05/21/back-to-basics-with-a-minolta-maxxum-7-by-ibraar-hussain/)
-[casualphotophile maxxum 7 review](https://casualphotophile.com/2017/11/22/minolta-a7-review-maxxum-7-dynax-7/) [earthsunfilm maxxum 7 review](https://earthsunfilm.com/vmlp-28-the-minolta-maxxum-7-im-pretty-sure-picard-has-one/) [CAMERA REVIEW BLOG NO. 104 – MINOLTA MAXXUM 7](http://www.alexluyckx.com/blog/2019/04/08/camera-review-blog-no-104-minolta-maxxum-7/)
+[casualphotophile maxxum 7 review](https://casualphotophile.com/2017/11/22/minolta-a7-review-maxxum-7-dynax-7/) [earthsunfilm maxxum 7 review](https://earthsunfilm.com/vmlp-28-the-minolta-maxxum-7-im-pretty-sure-picard-has-one/) [CAMERA REVIEW BLOG NO. 104 – MINOLTA MAXXUM 7](http://www.alexluyckx.com/blog/2019/04/08/camera-review-blog-no-104-minolta-maxxum-7/) [Roddy Ricch - The Box [Official Music Video]](https://youtu.be/UNZqm3dxd2w?si=irOUZVZvkLG5r6DM) [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) im so angry with u, bc i dont know your personal life, and every guy i see, im upset bc im scared they are your intimate partner, i really wanna like his song to this day! [![Twitter Follow](https://img.shields.io/badge/Social-ricothaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) [Future - Mask Off ](https://www.youtube.com/watch?v=xvZqHgFz51I)
+
+<img src="https://c1.staticflickr.com/6/5460/30119076310_948e5ec06e_c.jpg" />
 <img src="https://i0.wp.com/casualphotophile.com/wp-content/uploads/2017/11/Minolta-Alpha-Maxxum-7-FIlm-Camera-Review-1.jpg?fit=1080%2C608&ssl=1" />
 <img src="https://i0.wp.com/casualphotophile.com/wp-content/uploads/2017/11/Minolta-Alpha-Maxxum-7-FIlm-Camera-Review-3.jpg?fit=1080%2C608&ssl=1" />
 <img src="https://earthsunfilm.com/wp-content/uploads/2022/12/Max720221130_06-1024x650.jpeg" />
 <img src="https://www.thephoblographer.com/wp-content/uploads/2017/05/Chris-Gampat-The-Phoblographer-Minolta-Maxxum-a7-review-product-images-8.jpg" />
 <img src="https://learncamerarepair.com/cw4/images/product_full/Minolta-Maxxum7-Parts.jpg" />
 
-[Roddy Ricch - The Box [Official Music Video]](https://youtu.be/UNZqm3dxd2w?si=irOUZVZvkLG5r6DM) [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) im so angry with u, bc i dont know your personal life, and every guy i see, im upset bc im scared they are your intimate partner, i really wanna like his song to this day! [![Twitter Follow](https://img.shields.io/badge/Social-ricothaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) [Future - Mask Off ](https://www.youtube.com/watch?v=xvZqHgFz51I)
+
 
 [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani)  [![Twitter Follow](https://img.shields.io/badge/Social-NormaniUpdate__-blue?style=social&logo=X)](https://twitter.com/NormaniUpdate) @blackgirlscode
 i was in east hollywood and passed by the [swapmeet](https://laccswap.com/) dr dre was not there, i wish u were on the sidewalk... bye... if u did not see my note its on [kordie](https://ricothaka.github.io/normanikordei) [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) 
