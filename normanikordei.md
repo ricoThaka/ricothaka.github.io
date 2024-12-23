@@ -6,6 +6,10 @@ permalink: /normanikordei
 tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+
+
+
+![hiu](https://pbs.twimg.com/media/GfhFx8KbUAAhFN4?format=jpg&name=large)
 [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) 
 # HELP ME! [![Twitter Follow](https://img.shields.io/badge/Social-NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) 
 ![MayorBASS I WANT TO LEAVE LOS ANGELES FOR A COUNTRY THAT IS LOVING](https://www.rollingstone.com/wp-content/uploads/2024/12/HAPPYMONDAY_Wrapped24-07844-1.jpg?w=1581&h=1054&crop=1)
