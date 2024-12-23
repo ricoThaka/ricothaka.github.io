@@ -10,7 +10,7 @@ Merry chrismas Coral, ill write later. Im at the library trying to pick out a PS
 
 # LAPD 
 [![Twitter Follow](https://img.shields.io/badge/Social-LAPDPIO__-blue?style=social&logo=X)](https://twitter.com/LAPDPIO) 
- try this game 
+ try this game [Future Cop - L.A.P.D. (USA) - .ISO](https://archive.org/details/psx_futurcop) [https://archive.org/details/psx_futurcop - REDDiT](https://www.reddit.com/r/patientgamers/comments/16n0akt/future_cop_is_a_good_example_of_youre_not_playing/?rdt=47745)
 <iframe src="https://archive.org/embed/psx_futurcop" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Media Coverage of Law Enfor age of Law Enforcement and E cement and Effects of the Image ects of the Image Created](https://scholar.dominican.edu/cgi/viewcontent.cgi?article=1150&context=senior-theses) [Police Image And Public Perception Is Not True From Race And More. Special Episode.](https://www.letradio.com/police-image-and-public-perception-is-not-true-from/)
