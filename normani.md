@@ -7,10 +7,8 @@ tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 # [Maxxum/Dynax a 7 in practice](https://www.dyxum.com/dforum/
-# Minolta AF 50mm f/1.7
-The Minolta AF 50mm f/1.7 is a discontinued lens with autofocus that was produced by Minolta for A-mount single lens reflex cameras from 1985[1] through 2006. It is still in use today by users of digital and film SLRs from Minolta (later Konica-Minolta) and Sony. The relatively large maximum aperture (f/1.7) allows the photographer to take shots indoors even when operating at ISO 100 - 200.[wiki](https://en.wikipedia.org/wiki/Minolta_AF_50mm_f/1.7) [DYXUM](https://www.dyxum.com/lenses/Minolta-AF-50mm-F1.7_lens17.html)
-![1.7](https://www.dyxum.com/images/Lenses/17/17_4.jpg)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Minolta-50mm-F17.jpg/800px-Minolta-50mm-F17.jpg" />
+
+<img src="https://c1.staticflickr.com/6/5460/30119076310_948e5ec06e_c.jpg" />
 
 [Minolta Maxxum 7/ Dynax 7 - manual PDF](https://butkus.org/chinon/minolta/minolta_maxxum_7/minolta_maxxum_7.htm)
 [Photo.NET WEddiNG PHotoG Gary Friedman,](https://www.friedmanarchives.com/minolta-maxxum-dynax-7/) [TecData](https://www.mhohner.de/sony-minolta/onebody/7) [Just got a Dynax/Maxxum 7, what do I check? - dyxum.com](https://www.dyxum.com/dforum/just-got-a-dynax-maxxum-7-what-do-i-check_topic137663.html) [ewoodsphoto MaxxUm7](https://ewoodsphoto.com/2018/01/06/maxxum-7-and-maxxum-7d-analog-and-digital-vintage-wonderfulness-twins/) [LEARNCAMERAREPAiR](https://learncamerarepair.com/product.php?product=1043)
@@ -24,7 +22,10 @@ The Minolta AF 50mm f/1.7 is a discontinued lens with autofocus that was produce
 <img src="https://www.thephoblographer.com/wp-content/uploads/2017/05/Chris-Gampat-The-Phoblographer-Minolta-Maxxum-a7-review-product-images-8.jpg" />
 <img src="https://learncamerarepair.com/cw4/images/product_full/Minolta-Maxxum7-Parts.jpg" />
 
-
+# Minolta AF 50mm f/1.7
+The Minolta AF 50mm f/1.7 is a discontinued lens with autofocus that was produced by Minolta for A-mount single lens reflex cameras from 1985[1] through 2006. It is still in use today by users of digital and film SLRs from Minolta (later Konica-Minolta) and Sony. The relatively large maximum aperture (f/1.7) allows the photographer to take shots indoors even when operating at ISO 100 - 200.[wiki](https://en.wikipedia.org/wiki/Minolta_AF_50mm_f/1.7) [DYXUM](https://www.dyxum.com/lenses/Minolta-AF-50mm-F1.7_lens17.html)
+![1.7](https://www.dyxum.com/images/Lenses/17/17_4.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Minolta-50mm-F17.jpg/800px-Minolta-50mm-F17.jpg" />
 
 [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani)  [![Twitter Follow](https://img.shields.io/badge/Social-NormaniUpdate__-blue?style=social&logo=X)](https://twitter.com/NormaniUpdate) @blackgirlscode
 i was in east hollywood and passed by the [swapmeet](https://laccswap.com/) dr dre was not there, i wish u were on the sidewalk... bye... if u did not see my note its on [kordie](https://ricothaka.github.io/normanikordei) [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) 
