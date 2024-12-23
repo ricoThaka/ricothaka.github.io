@@ -1,10 +1,12 @@
 
 
 
+
+
 # Matt Field Interview
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_MS9GWOWC4?si=9tHVZfGRyt_rYX9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+![Jet Propulsion Laboratory, 4800 Oak Grove Dr, La Cañada Flintridge, CA 91011](https://pbs.twimg.com/media/GfhHJLxbIAESqUw?format=jpg&name=large)
 # Minolta AF 50mm f/1.7
 The Minolta AF 50mm f/1.7 is a discontinued lens with autofocus that was produced by Minolta for A-mount single lens reflex cameras from 1985[1] through 2006. It is still in use today by users of digital and film SLRs from Minolta (later Konica-Minolta) and Sony. The relatively large maximum aperture (f/1.7) allows the photographer to take shots indoors even when operating at ISO 100 - 200.[wiki](https://en.wikipedia.org/wiki/Minolta_AF_50mm_f/1.7) [DYXUM](https://www.dyxum.com/lenses/Minolta-AF-50mm-F1.7_lens17.html)
 ![1.7](https://www.dyxum.com/images/Lenses/17/17_4.jpg)
