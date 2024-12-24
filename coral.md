@@ -31,7 +31,6 @@ Example Path: X:\PSP\GAME\SLPS-02985\EBOOT.PBP - [CDROMANCE](https://cdromance.o
 
 [Media Coverage of Law Enfor age of Law Enforcement and E cement and Effects of the Image ects of the Image Created](https://scholar.dominican.edu/cgi/viewcontent.cgi?article=1150&context=senior-theses) [Police Image And Public Perception Is Not True From Race And More. Special Episode.](https://www.letradio.com/police-image-and-public-perception-is-not-true-from/)
 
-[![SNES](https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Super_Famicom_logo.svg/2560px-Super_Famicom_logo.svg.png)]
 
 ![SNES](https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Super_Famicom_logo.svg/2560px-Super_Famicom_logo.svg.png)
 
