@@ -1,7 +1,8 @@
 
 # watchlist
 
-
+# Astroboy / Tetsuwan Atom (1963) (japanese)
+<iframe src="https://archive.org/embed/anonymoose034dvd10bit9673730c" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Project Ako プロジェクトA子,
 ![ProjectAko](https://upload.wikimedia.org/wikipedia/en/7/70/Project_A-ko_Poster.jpg) [![Twitter Follow](https://img.shields.io/badge/Social-Latto__-blue?style=social&logo=X)](https://twitter.com/Latto) this is awkward, worst case you know i was a bigtime jehovhas Witness and im talking to you because you look like erika, and you know there was like one of your tribes women [Shannon Clausell](https://www.youtube.com/watch?v=N4oMrTT_fZw) and in the real world since im not in a cube anymore theres a lot of you that dont come into Jehovahs Witnesses bc you are [True Mulattos](https://en.wikipedia.org/wiki/Los_Angeles_Pobladores) of Southern California [`Los Angeles Pobladores`](https://en.wikipedia.org/wiki/Talk:Los_Angeles_Pobladores)  . I like [Project Ako]() Coral and other kids [![Twitter Follow](https://img.shields.io/badge/Social-parksideaps__-blue?style=social&logo=X)](https://twitter.com/parksideaps) so if coral still breathing she will like this, if not if her friend rose Jenevive Daughter an there was Raven in Constancia townhouse by [T_L_C_OlD_HOUSE](https://www.youtube.com/watch?v=92gHq1s6G-c) [Wiki Project Ako](https://en.wikipedia.org/wiki/Project_A-ko) [imdb](https://www.imdb.com/title/tt0091794/) [FanDom](https://a-ko.fandom.com/wiki/Project_A-ko) [RedditPost](https://www.reddit.com/r/TwoBestFriendsPlay/comments/13g27k1/ive_watched_all_the_project_ako_movies_this_is/) [Emi Shinohara, RIP](https://projecta-ko.com/emi-shinohara-rip/) [MyAnimeList](https://myanimelist.net/anime/212/Project_A-Ko)
