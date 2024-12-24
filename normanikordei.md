@@ -8,6 +8,10 @@ tags: saint
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
 
+# Turbo GraphX-16 
+I SAW SOME ALBUM ART, kanye dont look like he play that well at the arcade, i dont want your boring friends interrupting me 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3699nku1eU?si=LYndWB0WZPOCPfT5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![iloveu](https://cdromance.org/wp-content/uploads/2018/11/Powerpuff-Girls-The-Chemical-X-Traction.jpg) [The Powerpuff Girls: Chemical X-Traction](https://cdromance.org/psx-iso/the-powerpuff-girls-chemical-x-traction-usa/) [Ridge Racer (USA) PSX ISO](https://cdromance.org/psx-iso/ridge-racer-usa/)
 ![hiu](https://pbs.twimg.com/media/GfhFx8KbUAAhFN4?format=jpg&name=large)
 
