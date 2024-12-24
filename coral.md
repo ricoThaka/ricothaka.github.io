@@ -1,4 +1,17 @@
+<div class="tupperware">
+{% for post in site.posts %}
+    
+<article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
 
+{% endfor %}
+
+</div>
 
 
 ![psx](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png)
@@ -22,20 +35,7 @@ Example Path: X:\PSP\GAME\SLPS-02985\EBOOT.PBP - [CDROMANCE](https://cdromance.o
 
 ![SNES](https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Super_Famicom_logo.svg/2560px-Super_Famicom_logo.svg.png)
 
-<div class="tupperware">
-{% for post in site.posts %}
-    
-<article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
 
-{% endfor %}
-
-</div>
 
 ![LYNX](https://ia800203.us.archive.org/27/items/lynx_20240322/lynx.png)
 [Retroarch System Files (BIOS\Firmwares\OSs)](https://archive.org/details/RetroarchSystemFiles)
