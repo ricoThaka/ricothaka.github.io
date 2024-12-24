@@ -1,0 +1,1 @@
+[Tekken2](https://cdromance.org/psx-iso/tekken-2-usa/)
