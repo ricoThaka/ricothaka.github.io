@@ -5,7 +5,7 @@
 ![ps1](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PSX-Console-wController.png/1280px-PSX-Console-wController.png) [Wrestling Wrecks - WOODYWOODPECKr](https://www.b98.tv/video/wrestling-wrecks/)
 # PlayStation
 Merry chrismas Coral, ill write later. Im at the library trying to pick out a PSX game to play, im goinbg to store my links here
-@blackgirlscode  [bustamove](https://cdromance.org/psx-iso/bust-a-move-99-usa/) [CrashBandicoot](https://cdromance.org/psx-iso/crash-bandicoot-usa/) [Ridge Racer (USA) PSX ISO](https://cdromance.org/psx-iso/ridge-racer-usa/)  [[Question] Will Retroarch play eboot.pbp PSX?](https://www.reddit.com/r/RetroArch/comments/98ccdi/question_will_retroarch_play_ebootpbp_psx/)
+@blackgirlscode  [bustamove](https://cdromance.org/psx-iso/bust-a-move-99-usa/) [CrashBandicoot](https://cdromance.org/psx-iso/crash-bandicoot-usa/) [Ridge Racer (USA) PSX ISO](https://cdromance.org/psx-iso/ridge-racer-usa/)  [[Question] Will Retroarch play eboot.pbp PSX?](https://www.reddit.com/r/RetroArch/comments/98ccdi/question_will_retroarch_play_ebootpbp_psx/) [The Lion King: Simba's Mighty Adventure iso](https://cdromance.org/psx-iso/disneys-the-lion-king-simbas-mighty-adventure-usa/) [Mega Man Legends (Europe) PSX ISO ](https://cdromance.org/psx-iso/mega-man-legends-europe/)
 
 # How to play PSX2PSP eboots on a PSP Console:
 Copy the folder containing the EBOOT.PBP to \PSP\GAME\, note that each eboot needs to be "in a folder", else they'll show up as corrupted data.
