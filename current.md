@@ -11,7 +11,8 @@ Gulliver's Travels is a 1939 American animated musical fantasy film produced by 
         video.
 </video> 
 
-
+img[src*="777_front.jpg"] {width: 100%;padding: 0px;}
+[SillySymphonies Scan - Pinocchio](https://github.com/ricoThaka/ricothaka.github.io/tree/pixelsquare/assets/images/pinocchio) [Pinoccio](https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4) [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up)
 
 [<IMG src="https://cdromance.org/wp-content/uploads/2021/02/777_front.jpg" alt="FiNALFANTASY7" />](https://cdromance.org/wp-content/uploads/2021/02/777_front.jpg)
 

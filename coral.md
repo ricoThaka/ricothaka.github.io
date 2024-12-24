@@ -101,7 +101,6 @@ JAMMA stands for Japan Amusement Machine and Marketing Association who in 1985 c
         video.
 </video> 
 
-[SillySymphonies Scan - Pinocchio](https://github.com/ricoThaka/ricothaka.github.io/tree/pixelsquare/assets/images/pinocchio)
 
 ![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
 [Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta) [Using CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting)
