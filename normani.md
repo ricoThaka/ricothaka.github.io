@@ -7,9 +7,10 @@ tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 # [Maxxum/Dynax a 7 in practice](https://www.dyxum.com/dforum/)
-
+[KEH_dOt_COM](https://www.keh.com/)
 <img src="https://c1.staticflickr.com/6/5460/30119076310_948e5ec06e_c.jpg" />
 
+[Rival Schools: United by Fate](https://cdromance.org/psx-iso/rival-schools-united-by-fate-usa/) [JUMPiNGFLASH](https://cdromance.org/psx-iso/jumping-flash-usa/) [Lunar: Silver Star Story Complete](https://cdromance.org/psx-iso/lunar-silver-star-story-complete-usa/)
 [Minolta Maxxum 7/ Dynax 7 - manual PDF](https://butkus.org/chinon/minolta/minolta_maxxum_7/minolta_maxxum_7.htm)
 [Photo.NET WEddiNG PHotoG Gary Friedman,](https://www.friedmanarchives.com/minolta-maxxum-dynax-7/) [TecData](https://www.mhohner.de/sony-minolta/onebody/7) [Just got a Dynax/Maxxum 7, what do I check? - dyxum.com](https://www.dyxum.com/dforum/just-got-a-dynax-maxxum-7-what-do-i-check_topic137663.html) [ewoodsphoto MaxxUm7](https://ewoodsphoto.com/2018/01/06/maxxum-7-and-maxxum-7d-analog-and-digital-vintage-wonderfulness-twins/) [LEARNCAMERAREPAiR](https://learncamerarepair.com/product.php?product=1043)
 [Thoughts on the Minolta Maxxum 7? : r/AnalogCommunity](https://www.reddit.com/r/AnalogCommunity/comments/o9764m/thoughts_on_the_minolta_maxxum_7/?rdt=58057) [35mmc.com maxxum 7 review](https://www.35mmc.com/15/04/2024/minolta-maxxum-7-review/) [MAXXUM 7 - SteveHuff](https://www.stevehuffphoto.com/2018/05/21/back-to-basics-with-a-minolta-maxxum-7-by-ibraar-hussain/)
