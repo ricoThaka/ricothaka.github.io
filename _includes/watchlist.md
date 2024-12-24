@@ -66,6 +66,7 @@ its an [html5 video player](https://developer.mozilla.org/en-US/docs/Web/HTML/El
   </video>
 
   Something wrong with that ninja turtles link, its like it was recoired with something to compensate for a wide screen, i understand the biology but goddam i hate that shit - rashard(thaka)
+
 # The Complete SEASON 1 Of TMNT 1987 5 FULL EPISODES Teenage Mutant Ninja Turtles [archive](https://archive.org/details/the-complete-season-1-of-tmnt-1987-5-full-episodes-teenage-mutant-ninja-turtles_202310)
 
 <iframe src="https://archive.org/embed/the-complete-season-1-of-tmnt-1987-5-full-episodes-teenage-mutant-ninja-turtles_202310" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -105,13 +106,13 @@ its an [html5 video player](https://developer.mozilla.org/en-US/docs/Web/HTML/El
 
 <video controls preload="none"  width="100%" height="auto" poster="https://pbs.twimg.com/media/GW55EZPboAAdLG0?format=jpg&name=large">
 
-  <source src="https://archive.org/download/teenage-mutant-ninja-turtles-1990-720p-blu-ray-yts.-mx/Teenage.Mutant.Ninja.Turtles.1990.720p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/teenage-mutant-ninja-turtles-open-matte/Teenage%20Mutant%20Ninja%20Turtles%20Open%20Matte.mp4" type="video/mp4" />
 
   <source src="https://archive.org/download/teenage-mutant-ninja-turtles-1990-720p-blu-ray-yts.-mx/Teenage.Mutant.Ninja.Turtles.1990.720p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
 
   Download the
   or
-  <a href="https://archive.org/download/teenage-mutant-ninja-turtles-1990-720p-blu-ray-yts.-mx/Teenage.Mutant.Ninja.Turtles.1990.720p.BluRay.x264-%5BYTS.AM%5D.mp4">MP4</a>
+  <a href="https://archive.org/download/teenage-mutant-ninja-turtles-open-matte/Teenage%20Mutant%20Ninja%20Turtles%20Open%20Matte.mp4">MP4</a>
   video.
 </video>
 

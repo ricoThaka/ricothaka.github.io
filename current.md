@@ -52,14 +52,18 @@ The Minolta AF 50mm f/1.7 is a discontinued lens with autofocus that was produce
 </picture>
 
 ## A rocket-assisted Boeing B-47B takeoff.
+By US Air Force - This image was released by the United States Air Force with the ID 061024-F-1234S-011 (next).This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.العربية ∙ বাংলা ∙ Deutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1782310
+[JATO (acronym for jet-assisted take-off) ](https://en.wikipedia.org/wiki/JATO)
+
 <picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
   <source srcset="https://upload.wikimedia.org/wikipedia/commons/8/81/Boeing_B-47B_rocket-assisted_take_off_on_April_15%2C_1954_061024-F-1234S-011.jpg" media="(orientation: portrait)" />
  <source srcset="https://upload.wikimedia.org/wikipedia/commons/8/81/Boeing_B-47B_rocket-assisted_take_off_on_April_15%2C_1954_061024-F-1234S-011.jpg" media="(orientation: landscape)" />
   <img itemprop="validIn" itemscope itemtype="https://upload.wikimedia.org/wikipedia/commons/8/81/Boeing_B-47B_rocket-assisted_take_off_on_April_15%2C_1954_061024-F-1234S-011.jpg" alt="First to See the Farside" />
 </picture>
 
-By US Air Force - This image was released by the United States Air Force with the ID 061024-F-1234S-011 (next).This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.العربية ∙ বাংলা ∙ Deutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1782310
-[JATO (acronym for jet-assisted take-off) ](https://en.wikipedia.org/wiki/JATO)
+
+
+
 # : TRINITY through BUSTER-JANGLE : Atomic Weapons Tests
 <iframe itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization" width="560" height="315" src="https://www.youtube.com/embed/MWIJVM9kdek?si=dIhd787Ocd2CKeXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
