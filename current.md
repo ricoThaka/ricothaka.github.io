@@ -1,4 +1,17 @@
 
+# Gulliver's Travels (1939 film)
+Gulliver's Travels is a 1939 American animated musical fantasy film produced by Max Fleischer and directed by Dave Fleischer for Fleischer Studios.[3] Released to cinemas in the United States on December 22, 1939
+<video controls preload="none"   width="100%" height="auto" poster="https://i.makeagif.com/media/4-22-2017/pjLoJG.gif">
+
+<source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/Gullivers_Travels_%281939%29.webm/Gullivers_Travels_%281939%29.webm.720p.vp9.webm" type="video/webm" />    
+<source src="https://archive.org/download/GulliversTravels1939_201707/Gulliver%27s%20Travels%20%281939%29.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/GulliversTravels1939_201707/Gulliver%27s%20Travels%20%281939%29.mp4">MP4</a>
+        video.
+</video> 
+
+
 
 [<IMG src="https://cdromance.org/wp-content/uploads/2021/02/777_front.jpg" alt="FiNALFANTASY7" />](https://cdromance.org/wp-content/uploads/2021/02/777_front.jpg)
 
