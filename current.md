@@ -1,3 +1,18 @@
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" media="(orientation: portrait)" />
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" media="(orientation: portrait)" />
+  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" alt="" />
+</picture>
+
+### [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up) 
+<video controls preload="none"   width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-03.jpg">
+    
+<source src="https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4">MP4</a>
+        video.
+</video> 
 
 # Gulliver's Travels (1939 film)
 Gulliver's Travels is a 1939 American animated musical fantasy film produced by Max Fleischer and directed by Dave Fleischer for Fleischer Studios.[3] Released to cinemas in the United States on December 22, 1939
