@@ -4,6 +4,15 @@
 
 
 # MerryChristMas [![Twitter Follow](https://img.shields.io/badge/Social-iamcardib__-blue?style=social&logo=X)](https://twitter.com/iamcardib) 
+
+
+<picture>
+  <source srcset="https://cdromance.org/wp-content/uploads/2022/11/34123_front.jpg" media="(orientation: portrait)" />
+  <source srcset="https://cdromance.org/wp-content/uploads/2022/11/34123_front.jpg" media="(orientation: landscape)" />
+  <img src="https://cdromance.org/wp-content/uploads/2022/11/34123_front.jpg" alt="JUMPiNGFLASH" />
+</picture>
+
+
 i shared this old [film body](https://www.keh.com/shop/shopby?nbt=nb%3Aadwords%3Ag%3A653563188%3A167580326792%3A719170397183&nb_adtype=&nb_kwd=keh&nb_ti=kwd-115144764&nb_mi=&nb_pc=&nb_pi=&nb_ppi=&nb_placement=&nb_li_ms=&nb_lp_ms=&nb_fii=&nb_ap=&nb_mt=e&gad_source=1&gclid=Cj0KCQiAsaS7BhDPARIsAAX5cSC0kNdYCJvod8gNELrLwXj56cVJv3a-gD5d_hR5X5ZdHdS7SiuiMngaAi-bEALw_wcB) with Normani i want u to study it too
 
 # [Maxxum/Dynax a 7 in practice](https://www.dyxum.com/dforum/)
@@ -39,6 +48,8 @@ i shared this old [film body](https://www.keh.com/shop/shopby?nbt=nb%3Aadwords%3
 
 <picture>
   <source srcset="https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096" media="(orientation: portrait)" />
-  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: landscape)" />
   <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" alt="" />
 </picture>
+
+
