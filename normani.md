@@ -6,6 +6,8 @@ permalink: /normani
 tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+
+[https://thakarashard.github.io/BUBBLEGUMPOP_HUMA/](https://thakarashard.github.io/BUBBLEGUMPOP_HUMA/)
 [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) i got this off [DefConRadio on SOMAfm](https://somafm.com/defcon/) now [Run & Tell That](https://www.youtube.com/watch?v=zLmFhBv0Zfc)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/94498846&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/embrz" title="EMBRZ" target="_blank" style="color: #cccccc; text-decoration: none;">EMBRZ</a> · <a href="https://soundcloud.com/embrz/slow-down" title="Slow Down" target="_blank" style="color: #cccccc; text-decoration: none;">Slow Down</a></div>
 
