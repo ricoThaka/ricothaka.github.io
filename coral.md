@@ -13,7 +13,7 @@
 
 </div>
 
-
+[FinalFight -SegaCD find the hacks*commonsense](https://cdromance.org/sega_cd_isos/final-fight-cd-japan/)
 
 ![GAMEBOY](https://upload.wikimedia.org/wikipedia/commons/7/7c/Game-Boy-FL.png)
 
