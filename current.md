@@ -11,7 +11,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IlobJ8_OKsM?si=3ETkio5qV7YGbuHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![DEFCON](https://media.defcon.org/fancyindex/dc-logo.webp)
-[Im Gonna GitYOU SuckA](https://youtu.be/bK2a9L6gdu4?si=OH5D4KYMAPQnHqac) [Defcon Media Server](https://media.defcon.org/DEF%20CON%2031/) Kenya know a lot of ppl, idk if they scary tho [Run Tell Dat!](https://www.youtube.com/watch?v=zLmFhBv0Zfc) [![Twitter Follow](https://img.shields.io/badge/Social-Latto__-blue?style=social&logo=X)](https://twitter.com/Latto)
+[Im Gonna GitYOU SuckA](https://youtu.be/bK2a9L6gdu4?si=OH5D4KYMAPQnHqac) [Defcon Media Server](https://media.defcon.org/DEF%20CON%2031/) Kenya know a lot of ppl, idk if they scary tho [Run Tell Dat!](https://www.youtube.com/watch?v=zLmFhBv0Zfc) [![Twitter Follow](https://img.shields.io/badge/Social-Latto__-blue?style=social&logo=X)](https://twitter.com/Latto) [a thaka blog: covidLockdown note https://munathaka.github.io/thaka/](https://munathaka.github.io/thaka/)
 ## Teenage Mutant Ninja Turtles 1990 
 
 <video controls preload="none"  width="100%" height="auto" poster="https://pbs.twimg.com/media/GW55EZPboAAdLG0?format=jpg&name=large">
