@@ -14,7 +14,7 @@
 </div>
 
 
-![SewerShark](https://cdromance.org/wp-content/uploads/2018/03/79143-sewer-shark-sega-cd-front-cover.jpg)
+![SewerShark](https://cdromance.org/wp-content/uploads/2018/03/79143-sewer-shark-sega-cd-front-cover.jpg) [Road Rash (USA) SEGA CD ISO](https://cdromance.org/sega_cd_isos/road-rash-usa/)
 [The Amazing Spider-Man vs. the Kingpin (USA, Europe) SEGA CD ISO](https://cdromance.org/sega_cd_isos/the-amazing-spid-usa/)
 [FinalFight -SegaCD find the hacks*commonsense](https://cdromance.org/sega_cd_isos/final-fight-cd-japan/) [Make My Video: Kris Kross (USA, Europe) SEGA CD ISO](https://cdromance.org/sega_cd_isos/make-my-video-kris-kross-usa/) [Heavy Nova (Japan) SEGA CD ISO - BEPATiENT!its a good mechaanime feel](https://cdromance.org/sega_cd_isos/heavy-nova-japan/) [Supreme Warrior (32X) (USA) SEGA CD ISO](https://cdromance.org/sega_cd_isos/supreme-warrior-32x-usa/) [Sewer Shark (USA, Europe) SEGA CD ISO](https://cdromance.org/sega_cd_isos/sewer-shark-usa/) [HOWTOPLAY-SEWERSHARK](https://dn790009.ca.archive.org/0/items/Sewer_Shark_1992_Sony_Imagesoft_US_a/Sewer_Shark_1992_Sony_Imagesoft_US_a_text.pdf) [Fahrenheit (32X) (USA) SEGA CD ISO](https://cdromance.org/sega_cd_isos/fahrenheit-32x/)
 ![Fahrenheit](https://cdromance.org/wp-content/uploads/2018/03/45084_front.jpg)
