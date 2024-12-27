@@ -1,5 +1,12 @@
 
 
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/CoRAL_CLOUT.jpg"  />
+  <source srcset="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/CoRAL_CLOUT.jpg"  />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/CoRAL_CLOUT.jpg" alt="" />
+</picture>
+
+
 # Martin Lawrence - You So Crazy (1994)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IlobJ8_OKsM?si=3ETkio5qV7YGbuHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -24,8 +31,8 @@
 
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" media="(orientation: portrait)" />
-  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" media="(orientation: portrait)" />
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg"  />
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg"  />
   <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" alt="" />
 </picture>
 
