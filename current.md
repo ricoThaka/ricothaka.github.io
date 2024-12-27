@@ -1,3 +1,10 @@
+
+
+# Martin Lawrence - You So Crazy (1994)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IlobJ8_OKsM?si=3ETkio5qV7YGbuHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![DEFCON](https://media.defcon.org/fancyindex/dc-logo.webp)
+[Im Gonna GitYOU SuckA](https://youtu.be/bK2a9L6gdu4?si=OH5D4KYMAPQnHqac)
 ## Teenage Mutant Ninja Turtles 1990 
 
 <video controls preload="none"  width="100%" height="auto" poster="https://pbs.twimg.com/media/GW55EZPboAAdLG0?format=jpg&name=large">
