@@ -13,7 +13,7 @@
 
 </div>
 
-[FinalFight -SegaCD find the hacks*commonsense](https://cdromance.org/sega_cd_isos/final-fight-cd-japan/) [Make My Video: Kris Kross (USA, Europe) SEGA CD ISO](https://cdromance.org/sega_cd_isos/make-my-video-kris-kross-usa/)
+[FinalFight -SegaCD find the hacks*commonsense](https://cdromance.org/sega_cd_isos/final-fight-cd-japan/) [Make My Video: Kris Kross (USA, Europe) SEGA CD ISO](https://cdromance.org/sega_cd_isos/make-my-video-kris-kross-usa/) [Heavy Nova (Japan) SEGA CD ISO - BEPATiENT!its a good mechaanime feel](https://cdromance.org/sega_cd_isos/heavy-nova-japan/)
 
 ![GAMEBOY](https://upload.wikimedia.org/wikipedia/commons/7/7c/Game-Boy-FL.png)
 
