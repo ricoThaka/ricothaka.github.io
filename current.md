@@ -1,9 +1,8 @@
-<a itemprop="url" href="https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg">
+
 <picture itemprop="image" itemscope itemtype="https://schema.org/CreativeWork">
-  <source srcset="https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg" />
+  <source srcset="https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg" itemprop="url" />
   <IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg" />
 </picture>
-</a>
   
 {% include nav.html %}
 

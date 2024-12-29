@@ -409,8 +409,9 @@ padding-bottom:280px;
 
 }
 
-hgroup h1 {
-  display: block;
+HGROUP h1 {
+display: block;
+z-index: auto;
 line-height: 1rem;
 font: normal 14px/18px 'Fredoka One', "Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
 font-size: 3rem;
