@@ -1,6 +1,12 @@
+<a itemprop="url" href="https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg">
+<picture itemprop="image" itemscope itemtype="https://schema.org/CreativeWork">
+  <source srcset="https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg" />
+  <IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg" />
+</picture>
+</a>
+  
+{% include nav.html %}
 
-{% include nav.html %}
-{% include nav.html %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hzPylqS01qU?si=DPTexd6AM7kRczIn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <picture>
