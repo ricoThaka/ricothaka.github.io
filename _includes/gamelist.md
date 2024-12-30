@@ -1,3 +1,7 @@
+# Gunners Heaven (Japan) PSX ISO 
+Rapid Reload, known in Japan as Gunners Heaven (ガンナーズヘヴン), is a 1995 run and gun video game developed by Media.Vision and published by Sony Computer Entertainment for the PlayStation. It was released in both Japan and Europe in 1995. The game was re-released on the PlayStation Network in Japan in 2007 and in Asia in 2010. [wiki](https://en.wikipedia.org/wiki/Rapid_Reload) [cdRomance](https://cdromance.org/psx-iso/gunners-heaven-japan/)
+![Rapid Reload](https://cdromance.org/wp-content/uploads/2021/03/35795_front.jpg)
+
 # Red Earth (Euro 961121)
 <iframe src="https://archive.org/embed/arcade_redearth" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
