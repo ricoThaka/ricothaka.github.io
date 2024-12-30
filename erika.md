@@ -1,3 +1,9 @@
+
+
+
+
+https://eoimages.gsfc.nasa.gov/images/imagerecords/12000/12383/CAfires_TAS2003298_lrg.jpg
+
 ![DEFCON](https://media.defcon.org/fancyindex/dc-logo.webp)
 Since i dont have the kingdomhall i like to listen to @deptofdefense an @defcon for sermons check out the [Defcon Media Server](https://media.defcon.org/DEF%20CON%2031/) Kenya know a lot of ppl, idk if they scary tho [Run Tell Dat!](https://www.youtube.com/watch?v=zLmFhBv0Zfc)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/94498846&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/embrz" title="EMBRZ" target="_blank" style="color: #cccccc; text-decoration: none;">EMBRZ</a> · <a href="https://soundcloud.com/embrz/slow-down" title="Slow Down" target="_blank" style="color: #cccccc; text-decoration: none;">Slow Down</a></div>
