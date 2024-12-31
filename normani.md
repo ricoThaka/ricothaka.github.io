@@ -6,7 +6,11 @@ permalink: /normani
 tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
-![nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg)
+
+# LawnCAre+GameTrades
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sega-Saturn-Console-Set-Mk2.png" alt="8-Track Cartridge, Album Tamla Motown – 8X-STMA 8019 top" />](https://upload.wikimedia.org/wikipedia/commons/c/cb/Sega-Saturn-Console-Set-Mk2.png)
+![NiGHTS](https://upload.wikimedia.org/wikipedia/fr/4/4d/NiGHTS_Logo.png)
+[nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg) [launch era ad](https://www.youtube.com/watch?v=hv1BE1bexCg)
 ## [Zelda](https://www.nesfiles.com/NES/Zelda/) wow
 <IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" />
 <IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" />
@@ -192,7 +196,7 @@ Lazy loading is a strategy to identify resources as non-blocking (non-critical) 
 
 
 <picture>
-  <source srcset="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg" media="(orientation: landscape)" />
+  <source srcset="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg"  />
   <img src="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg" alt="" />
 </picture>
 # Stevie Wonder - Creepin'
