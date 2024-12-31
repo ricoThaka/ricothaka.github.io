@@ -6,8 +6,8 @@ permalink: /normani
 tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
-
-[Zelda](https://www.nesfiles.com/NES/Zelda/) wow
+[nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg)
+## [Zelda](https://www.nesfiles.com/NES/Zelda/) wow
 <IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" />
 <IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" />
 [Documentary: Raised on Porn – the new sex education - watch](https://www.youtube.com/watch?v=hzPylqS01qU) - [RiOTiMEs](https://www.riotimesonline.com/brazil-news/modern-day-censorship/documentary-raised-on-porn-the-new-sex-education/) [In today’s world, porn is ubiquitous. It’s everywhere, - https://sexandrelationshiphealing.com/](https://sexandrelationshiphealing.com/blog/documentary-film-raised-on-porn-37-minutes/)
@@ -22,7 +22,7 @@ tags: saint
 [KEH_dOt_COM](https://www.keh.com/)
 <img src="https://c1.staticflickr.com/6/5460/30119076310_948e5ec06e_c.jpg" />
 
-![nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg)
+[nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg)
 
 [Rival Schools: United by Fate](https://cdromance.org/psx-iso/rival-schools-united-by-fate-usa/) [JUMPiNGFLASH](https://cdromance.org/psx-iso/jumping-flash-usa/) [Lunar: Silver Star Story Complete](https://cdromance.org/psx-iso/lunar-silver-star-story-complete-usa/)
 [Minolta Maxxum 7/ Dynax 7 - manual PDF](https://butkus.org/chinon/minolta/minolta_maxxum_7/minolta_maxxum_7.htm)
