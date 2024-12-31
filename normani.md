@@ -6,7 +6,7 @@ permalink: /normani
 tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
-[nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg)
+![nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg)
 ## [Zelda](https://www.nesfiles.com/NES/Zelda/) wow
 <IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" />
 <IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" />
