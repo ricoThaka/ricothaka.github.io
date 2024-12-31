@@ -7,6 +7,7 @@ franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka
 [FANDOM](https://zelda.fandom.com/wiki/The_Legend_of_Zelda) [WiKi](https://en.wikipedia.org/wiki/The_Legend_of_Zelda) [NinTenDo](https://www.nintendo.com/en-gb/Games/NES/The-Legend-of-Zelda-796345.html)
 <IMG alt="PIA25417: The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" itemprop="quest" itemscope itemtype="https://schema.org/VideoGameSeries" />
 <IMG alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" itemprop="quest" itemscope itemtype="https://schema.org/VideoGameSeries" />
+<IMG alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN4ZHMxZWJxYW9xdnU4dndvbnd4YTUxYTlwb2dpeW5yZ2x0cTh5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/leAV27tKs2PiE/giphy.webp" itemprop="isFamilyFriendly" itemscope itemtype="https://schema.org/VideoGameSeries" /> 
 
 ![om1](https://geocities.ws/sb202us/optimized/volueonehead.jpg)
 ![TYME](https://geocities.ws/sb202us/optimized/TYME.jpg)
