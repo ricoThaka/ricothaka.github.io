@@ -6,6 +6,10 @@ permalink: /normani
 tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+
+[Zelda](https://www.nesfiles.com/NES/Zelda/) wow
+<IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" />
+<IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" />
 [Documentary: Raised on Porn – the new sex education - watch](https://www.youtube.com/watch?v=hzPylqS01qU) - [RiOTiMEs](https://www.riotimesonline.com/brazil-news/modern-day-censorship/documentary-raised-on-porn-the-new-sex-education/) [In today’s world, porn is ubiquitous. It’s everywhere, - https://sexandrelationshiphealing.com/](https://sexandrelationshiphealing.com/blog/documentary-film-raised-on-porn-37-minutes/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hzPylqS01qU?si=DPTexd6AM7kRczIn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
