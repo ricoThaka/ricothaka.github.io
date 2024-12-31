@@ -56,7 +56,9 @@ carousels:
   </ul>
 {% endfor %}
 
-{{ 'now' | date: "%Y" }}
+# {{ 'now' | date: "%Y" }}
+# {{ site.time | date: '%B %d, %Y' }}
+{{ site.time | date: '%c' }}
 
 
 
