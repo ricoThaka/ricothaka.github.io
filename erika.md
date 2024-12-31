@@ -1,8 +1,16 @@
 
+![SantaMonica AugBySea](https://eoimages.gsfc.nasa.gov/images/imagerecords/12000/12383/CAfires_TAS2003298_lrg.jpg)
 
+# The Legend of Zelda
+franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka... [Amazing](https://www.youtube.com/watch?v=Sz_YPczxzZc)
+[<IMG src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg" />](https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg)
+[Zelda](https://www.nesfiles.com/NES/Zelda/) wow
+[FANDOM](https://zelda.fandom.com/wiki/The_Legend_of_Zelda) [WiKi](https://en.wikipedia.org/wiki/The_Legend_of_Zelda) [NinTenDo](https://www.nintendo.com/en-gb/Games/NES/The-Legend-of-Zelda-796345.html)
+<IMG alt="PIA25417: The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" itemprop="quest" itemscope itemtype="https://schema.org/VideoGameSeries" />
+<IMG alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" itemprop="quest" itemscope itemtype="https://schema.org/VideoGameSeries" />
 
 ![Mars](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01368/ids/edr/browse/ncam/NLF_1368_0788381521_159ECM_N0642278NCAM00501_01_295J01_1200.jpg)
-https://eoimages.gsfc.nasa.gov/images/imagerecords/12000/12383/CAfires_TAS2003298_lrg.jpg
+
 
 ![DEFCON](https://media.defcon.org/fancyindex/dc-logo.webp)
 Since i dont have the kingdomhall i like to listen to @deptofdefense an @defcon for sermons check out the [Defcon Media Server](https://media.defcon.org/DEF%20CON%2031/) Kenya know a lot of ppl, idk if they scary tho [Run Tell Dat!](https://www.youtube.com/watch?v=zLmFhBv0Zfc)

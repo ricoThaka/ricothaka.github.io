@@ -1,6 +1,12 @@
+
+
+# The Legend of Zelda
+franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka... [Amazing](https://www.youtube.com/watch?v=Sz_YPczxzZc)
+[<IMG src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg" />](https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg)
 [Zelda](https://www.nesfiles.com/NES/Zelda/) wow
-<IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" />
-<IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" />
+[FANDOM](https://zelda.fandom.com/wiki/The_Legend_of_Zelda) [WiKi](https://en.wikipedia.org/wiki/The_Legend_of_Zelda) [NinTenDo](https://www.nintendo.com/en-gb/Games/NES/The-Legend-of-Zelda-796345.html)
+<IMG alt="PIA25417: The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" itemprop="quest" itemscope itemtype="https://schema.org/VideoGameSeries" />
+<IMG alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" itemprop="quest" itemscope itemtype="https://schema.org/VideoGameSeries" />
 
 ![om1](https://geocities.ws/sb202us/optimized/volueonehead.jpg)
 ![TYME](https://geocities.ws/sb202us/optimized/TYME.jpg)
