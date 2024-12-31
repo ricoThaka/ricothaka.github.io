@@ -13,7 +13,7 @@
 
 </div>
 
-
+[KI & KI2 in MAME v140 - Pre-configured MAME 7-Zip Package Instructions](https://www.thekillerinstinctproject.com/kiproject/kimame.html)
 ### Dear Coral
 heres some old letter is wrote u 
 [Groove Theory - Come Home](https://youtu.be/MAz6QaL3Z8g?si=XsMBndqOUXuVZmS-)
