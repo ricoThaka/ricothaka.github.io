@@ -7,6 +7,9 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+>[HALLMARKKARD](https://www.hallmark.com/shop-mahogany/)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/34dReQjdnWRSXfucoilWGm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # Gunners Heaven (Japan) PSX ISO 
 Rapid Reload, known in Japan as Gunners Heaven (ガンナーズヘヴン), is a 1995 run and gun video game developed by Media.Vision and published by Sony Computer Entertainment for the PlayStation. It was released in both Japan and Europe in 1995. The game was re-released on the PlayStation Network in Japan in 2007 and in Asia in 2010. [wiki](https://en.wikipedia.org/wiki/Rapid_Reload) [cdRomance](https://cdromance.org/psx-iso/gunners-heaven-japan/)
 ![Rapid Reload](https://cdromance.org/wp-content/uploads/2021/03/35795_front.jpg)
