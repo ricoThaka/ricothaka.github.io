@@ -6,6 +6,8 @@ permalink: /normani
 tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+[Sega MAster System Ads](https://youtu.be/CcOZpDCKK3w?si=1M0dD30LORV9f8i5) idk if its a good idea to smash them together[TimeContext](https://time.gov/)
+![nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg)
 
 # LawnCAre+GameTrades
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sega-Saturn-Console-Set-Mk2.png" alt="8-Track Cartridge, Album Tamla Motown – 8X-STMA 8019 top" />](https://upload.wikimedia.org/wikipedia/commons/c/cb/Sega-Saturn-Console-Set-Mk2.png)
