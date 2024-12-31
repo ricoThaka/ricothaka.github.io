@@ -7,6 +7,9 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+[Zelda](https://www.nesfiles.com/NES/Zelda/) wow
+<IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" />
+<IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" />
 >[HALLMARKKARD](https://www.hallmark.com/shop-mahogany/)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/34dReQjdnWRSXfucoilWGm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

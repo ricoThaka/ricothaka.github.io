@@ -1,3 +1,7 @@
+[Zelda](https://www.nesfiles.com/NES/Zelda/) wow
+<IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" />
+<IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" />
+
 ![om1](https://geocities.ws/sb202us/optimized/volueonehead.jpg)
 ![TYME](https://geocities.ws/sb202us/optimized/TYME.jpg)
 ![deshavious](https://geocities.ws/sb202us/poemtitles/bottled.gif)
@@ -8,7 +12,7 @@
 ![Tiana phenix](https://geocities.ws/sb202us/poemtitles/44lines.gif)
 ![comfortjidenma](https://geocities.ws/sb202us/poemtitles/whaticantsay.gif)
 ![om3](https://geocities.ws/sb202us/optimized/vol3head.jpg)
-![vanessa](https://geocities.ws/sb202us/poemtitles/fantasy2.gif)
+![vanessatyrapooh](https://geocities.ws/sb202us/poemtitles/fantasy2.gif)
 
 <picture itemprop="image" itemscope itemtype="https://schema.org/CreativeWork">
   <source srcset="https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg" itemprop="url" />
