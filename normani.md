@@ -6,13 +6,17 @@ permalink: /normani
 tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
-[Sega MAster System Ads](https://youtu.be/CcOZpDCKK3w?si=1M0dD30LORV9f8i5) idk if its a good idea to smash them together[TimeContext](https://time.gov/)
-![nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg)
+
 
 # LawnCAre+GameTrades
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sega-Saturn-Console-Set-Mk2.png" alt="8-Track Cartridge, Album Tamla Motown – 8X-STMA 8019 top" />](https://upload.wikimedia.org/wikipedia/commons/c/cb/Sega-Saturn-Console-Set-Mk2.png)
 ![NiGHTS](https://upload.wikimedia.org/wikipedia/fr/4/4d/NiGHTS_Logo.png)
 [nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg) [launch era ad](https://www.youtube.com/watch?v=hv1BE1bexCg)
+
+[Sega MAster System Ads](https://youtu.be/CcOZpDCKK3w?si=1M0dD30LORV9f8i5) idk if its a good idea to smash them together[TimeContext](https://time.gov/)
+![nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg)
+
+
 ## [Zelda](https://www.nesfiles.com/NES/Zelda/) wow
 <IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" />
 <IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" />
