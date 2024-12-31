@@ -22,6 +22,8 @@ tags: saint
 [KEH_dOt_COM](https://www.keh.com/)
 <img src="https://c1.staticflickr.com/6/5460/30119076310_948e5ec06e_c.jpg" />
 
+![nights into dreams](https://upload.wikimedia.org/wikipedia/commons/b/b8/Sega-Saturn-3D-Controller.jpg)
+
 [Rival Schools: United by Fate](https://cdromance.org/psx-iso/rival-schools-united-by-fate-usa/) [JUMPiNGFLASH](https://cdromance.org/psx-iso/jumping-flash-usa/) [Lunar: Silver Star Story Complete](https://cdromance.org/psx-iso/lunar-silver-star-story-complete-usa/)
 [Minolta Maxxum 7/ Dynax 7 - manual PDF](https://butkus.org/chinon/minolta/minolta_maxxum_7/minolta_maxxum_7.htm)
 [Photo.NET WEddiNG PHotoG Gary Friedman,](https://www.friedmanarchives.com/minolta-maxxum-dynax-7/) [TecData](https://www.mhohner.de/sony-minolta/onebody/7) [Just got a Dynax/Maxxum 7, what do I check? - dyxum.com](https://www.dyxum.com/dforum/just-got-a-dynax-maxxum-7-what-do-i-check_topic137663.html) [ewoodsphoto MaxxUm7](https://ewoodsphoto.com/2018/01/06/maxxum-7-and-maxxum-7d-analog-and-digital-vintage-wonderfulness-twins/) [LEARNCAMERAREPAiR](https://learncamerarepair.com/product.php?product=1043)
