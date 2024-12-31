@@ -1,4 +1,4 @@
-[How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/) [It's time to lazy-load offscreen iframes!](https://web.dev/articles/iframe-lazy-loading)
+{{ site.url }}{{ site.baseurl }}[How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/) [It's time to lazy-load offscreen iframes!](https://web.dev/articles/iframe-lazy-loading)
 
 # URL Pairing
 Psuedo Selectors
