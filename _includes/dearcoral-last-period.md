@@ -1,7 +1,4 @@
-![Mario64](https://upload.wikimedia.org/wikipedia/commons/4/44/Super_Mario_64_logo.png)
-![PAperMArio](https://upload.wikimedia.org/wikipedia/commons/5/54/Paper_Mario_Logo.png)
-![SuperMarioRPG](https://upload.wikimedia.org/wikipedia/commons/4/46/Super_Mario_RPG_Logo.png)
-![BOwseR](https://pbs.twimg.com/media/GZ99Nrdb0AoAS8B?format=jpg&name=large)
+
 
 # Dear_Coral,
 After years i finally got a clean try at MArioRPG. Maybe TedRoss is not as bad as i thought. A save state might spoil this one, i played actraiser as well  
@@ -11,6 +8,12 @@ After years i finally got a clean try at MArioRPG. Maybe TedRoss is not as bad a
 ![BERKELEY ERiKA CorMiEr Akire Akeevah Konnie Esther Kevin Leonard](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1XSUdSojWNJCgNqKNxfcVr?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+![SPF](https://upload.wikimedia.org/wikipedia/en/a/a3/Puzzle_Fighter_flyer.png) 
+## super Puzzle Fighter II Turbo
+There are a lot of folklore and stories about graffiti writers. The guy that introduced me to WestCoast fatca[p]Tags loved [SuperPuzzleFighter](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo). I had it on dreamcast. I never played it a ttheArcade  [Super Puzzle Fighter II X! I missed this game, and didn’t know Saturn version had extras! reddit](https://www.reddit.com/r/SegaSaturn/comments/131dnzi/super_puzzle_fighter_ii_x_i_missed_this_game_and/?rdt=38318) [Rack up chain reactions and use counter gems to put the pressure on your opponent! Super Puzzle Fighter II Turbo brings you the same heated match-ups you love from Capcom fighting games, but with puzzles!](https://www.capcom-games.com/cfc/en-us/title/spf2x.html)
+<iframe src="https://archive.org/embed/arcade_spf2t" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
 
 
 ## Dear_Coral
@@ -113,3 +116,8 @@ Are you being bullied? Did someone give you a perm or a vaccine ? ?  ??
 
 ASTER is a cooperative effort between NASA and Japan's Ministry of Economy Trade and Industry (METI), with the collaboration of scientific and industry organizations in both countries. The ASTER instrument provides the next generation in remote sensing imaging capabilities when compared to the older Landsat Thematic Mapper and Japan's JERS-1 OPS scanner. ASTER captures high spatial resolution data in 14 bands, from the visible to the thermal infrared wavelengths, and provides stereo viewing capability for digital elevation model creation. As the "zoom lens" for Terra, ASTER data are used by other Terra and space-borne instruments for validation and calibration.
 ![asterWeb](http://asterweb.jpl.nasa.gov/gallery/images/split/la-natural.jpg)
+
+![Mario64](https://upload.wikimedia.org/wikipedia/commons/4/44/Super_Mario_64_logo.png)
+![PAperMArio](https://upload.wikimedia.org/wikipedia/commons/5/54/Paper_Mario_Logo.png)
+![SuperMarioRPG](https://upload.wikimedia.org/wikipedia/commons/4/46/Super_Mario_RPG_Logo.png)
+![BOwseR](https://pbs.twimg.com/media/GZ99Nrdb0AoAS8B?format=jpg&name=large)
