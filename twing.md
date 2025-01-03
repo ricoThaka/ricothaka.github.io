@@ -10,3 +10,5 @@ img {
 [RelatedTweet](https://x.com/RicoThaka/status/1874950753053487433)
 ![LAPD BLOCKED TELNET!](https://pbs.twimg.com/media/GgPfvvya0AApXVu?format=jpg&name=medium)
 [RELATEDTWEET](https://x.com/RicoThaka/status/1874587892267581552)
+![MOBZWORLD](https://pbs.twimg.com/media/GgTzlL6bgAEJ2jj?format=jpg&name=large)
+[RElateDtweeT](https://pbs.twimg.com/media/GgTzlL6bgAEJ2jj?format=jpg&name=large)
