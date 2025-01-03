@@ -12,3 +12,5 @@ img {
 [RELATEDTWEET](https://x.com/RicoThaka/status/1874587892267581552)
 ![MOBZWORLD](https://pbs.twimg.com/media/GgTzlL6bgAEJ2jj?format=jpg&name=large)
 [RElateDtweeT](https://pbs.twimg.com/media/GgTzlL6bgAEJ2jj?format=jpg&name=large)
+![PrecipatationPlot](https://pbs.twimg.com/media/GgUq6idaIAAFJ1a?format=jpg&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1874952345991389358)
