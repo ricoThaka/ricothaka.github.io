@@ -1,3 +1,7 @@
+
+
+[SVG DROPSHADOWS - CSSTRiCKS](https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/)
+
 [JeKYLL DATE+TiME](https://jekyll.one/pages/public/tools/toolbox/jekyll/date_time_formats/)
 
 {{ site.url }}{{ site.baseurl }}[How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/) [It's time to lazy-load offscreen iframes!](https://web.dev/articles/iframe-lazy-loading)
