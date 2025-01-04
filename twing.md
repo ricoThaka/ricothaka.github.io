@@ -6,7 +6,8 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+![SolarDynamicsLAb not updating](https://pbs.twimg.com/media/GgZxONka8AcVuKf?format=jpg&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1875310937806422237)
 ![DesertSTrikeSegaGenesis](https://pbs.twimg.com/media/Ggck0V7a8AEkR-2?format=png&name=medium)
 [relatedTweet](https://x.com/RicoThaka/status/1875507415606816828)
 ![GiOvanni](https://pbs.twimg.com/media/Ggck0V7a8AUUiLf?format=jpg&name=medium)
