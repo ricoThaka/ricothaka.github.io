@@ -6,8 +6,9 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
-
+![CALiFORNiA RAiNWATERSOURCE TO OCEAN](https://pbs.twimg.com/media/GgKNGZlbIAAjDnS?format=jpg&name=medium)
+![WiFiHollyWOOD0](https://pbs.twimg.com/media/GgO2c6oXwAAI_Vv?format=jpg&name=medium)
+[realtedtweeT](https://x.com/RicoThaka/status/1874542653192421380)
 ![GTSOLUTiONS_NYC @blackgirlscode!](https://pbs.twimg.com/media/GeT6_mFa0AAP-is?format=jpg&name=large)
 ![Rashard](https://pbs.twimg.com/media/GgE56K2bsAAs7cv?format=jpg&name=medium)
 ![acdisc.gesdisc.eosdis.nasa.gov](https://pbs.twimg.com/media/GgUpZEvakAACXsc?format=png&name=medium)
