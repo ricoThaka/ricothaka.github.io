@@ -1,6 +1,23 @@
-![nssdc.gsfc.nasa.gov/image/spacecraft/mariner09.jpg](https://nssdc.gsfc.nasa.gov/image/spacecraft/mariner09.jpg)
+### CLimatology
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4G1qRhOk1YY0kewtMaCrMC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<video controls preload="none"  width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp.0000_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp_1080p30.mp4" type="video/mp4" />
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp_1080p30.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp_1080p30.mp4">MP4</a>
+  video.
+</video>
+
+![CLimatology](https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_climatology_colorbar_white.png)
+
+
+
+{% include twing.md %}
+
 
 ![LOSANGELES - Library of congress](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17900/6a17974r.jpg)
 ![LOSANGELES - Library of congress](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001797/full/pct:25/0/default.jpg)
@@ -8,6 +25,7 @@
 ![LAPL-CENTRAL](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0200/ca0235/photos/012386pv.jpg)
 ![LA 1942](https://tile.loc.gov/storage-services/service/pnp/ppmsca/73100/73164v.jpg)
 [KI & KI2 in MAME v140 - Pre-configured MAME 7-Zip Package Instructions](https://www.thekillerinstinctproject.com/kiproject/kimame.html)
+
 # The Legend of Zelda
 franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka... [Amazing](https://www.youtube.com/watch?v=Sz_YPczxzZc)
 [<IMG src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg" />](https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg)
