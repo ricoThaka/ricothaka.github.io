@@ -6,6 +6,7 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+![FF7 1stBoss](https://pbs.twimg.com/media/GgJCqJLbIAA6he3?format=jpg&name=medium)
 ![MM2](https://pbs.twimg.com/media/GgJW37caAAAEOCX?format=png&name=medium)
 ![JPL](https://pbs.twimg.com/media/GgJW37GbMAA2pw4?format=jpg&name=medium)
 ![CALiFORNiA RAiNWATERSOURCE TO OCEAN](https://pbs.twimg.com/media/GgKNGZlbIAAjDnS?format=jpg&name=medium)
