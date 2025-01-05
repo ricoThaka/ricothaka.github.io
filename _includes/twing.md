@@ -8,7 +8,7 @@ img {
 
 
 ![TRACEROUTE](https://pbs.twimg.com/media/Gf60sapaoAAtowY?format=jpg&name=medium)
-[RELATEDTWEET](https://x.com/RicoThaka/status/1873133716345913619)
+[RELATEDTWEET](https://x.com/RicoThaka/status/1873133716345913619) [RELATEDTweet](https://x.com/RicoThaka/status/1872595146216521836)
 ![CALiFORNia CONSTiTUTiON](https://pbs.twimg.com/media/Gf624LmawAAEwYI?format=jpg&name=medium)
 [RelatedTweet](https://x.com/RicoThaka/status/1873135672103714996)
 
