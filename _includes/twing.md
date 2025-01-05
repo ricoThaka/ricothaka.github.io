@@ -6,7 +6,7 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+![TELNET](https://pbs.twimg.com/media/Gfv7a12acAA480F?format=jpg&name=large)
 ![TRACEROUTE](https://pbs.twimg.com/media/Gf60sapaoAAtowY?format=jpg&name=medium)
 [RELATEDTWEET](https://x.com/RicoThaka/status/1873133716345913619) [RELATEDTweet](https://x.com/RicoThaka/status/1872595146216521836)
 ![CALiFORNia CONSTiTUTiON](https://pbs.twimg.com/media/Gf624LmawAAEwYI?format=jpg&name=medium)
