@@ -7,6 +7,10 @@ img {
 </style>
 
 
+
+![MARSPATHFinDER](https://pbs.twimg.com/media/Gf7Z7A7bwAAw9nc?format=jpg&name=medium)
+[NASA Renames Mars Lander in Honor of Late Carl Sagan ](https://www.jpl.nasa.gov/news/nasa-renames-mars-lander-in-honor-of-late-carl-sagan/) [How did everyone feel about Donald Glover in the Martian? His character was a complete rip off of Abed and it really grated my biscuits.](https://www.reddit.com/r/community/comments/125hv8d/how_did_everyone_feel_about_donald_glover_in_the/?rdt=49228)
+![ANDROiD JPL HORiZONS](https://pbs.twimg.com/media/Gf7Z7A7awAI-z-S?format=jpg&name=medium)
 ![SANTAMONICA](https://pbs.twimg.com/media/GHNoJ6AaYAAD2Ur?format=jpg&name=large)
 ![CHURCH IN SANTAMONICA](https://pbs.twimg.com/media/Gf_dHOybQAACQtz?format=jpg&name=large)
 [RELATEDTWEET](https://x.com/RicoThaka/status/1873459478894633370)
