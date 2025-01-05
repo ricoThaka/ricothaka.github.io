@@ -6,6 +6,8 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![TRACEROUTE](https://pbs.twimg.com/media/Gf60sapaoAAtowY?format=jpg&name=medium)
 ![CALiFORNia CONSTiTUTiON](https://pbs.twimg.com/media/Gf624LmawAAEwYI?format=jpg&name=medium)
 [RelatedTweet](https://x.com/RicoThaka/status/1873135672103714996)
 
