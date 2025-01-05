@@ -40,3 +40,7 @@ img {
 [RelatedTweet](https://x.com/RicoThaka/status/1874952345991389358)
 ![normani](https://pbs.twimg.com/media/GfNjeVgasAACGJ6?format=jpg&name=large)
 [relatedtweet](https://x.com/RicoThaka/status/1869948055266701362)
+![RASHARD](https://pbs.twimg.com/media/Geywz7kbAAARRz4?format=jpg&name=medium)
+[RelatedTwwet](https://x.com/RicoThaka/status/1868062492737601660)
+![iss](https://pbs.twimg.com/media/GehQEP6aEAAJLth?format=jpg&name=medium)
+[tweet](https://x.com/RicoThaka/status/1866830783186395315/photo/4)
