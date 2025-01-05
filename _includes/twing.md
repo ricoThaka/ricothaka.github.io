@@ -64,3 +64,5 @@ img {
 [plot](https://x.com/RicoThaka/status/1870185750429610390)
 ![cloud](https://pbs.twimg.com/media/Gej5rgMaQAAIYfN?format=jpg&name=medium)
 ![MRO 3d](https://pbs.twimg.com/media/Gf7Tcxka8AAaMQ5?format=jpg&name=large)
+[RELATEDTWEET](https://x.com/RicoThaka/status/1873137625944735918)
+![RASHARD AKA THAKA AKA SHAADI AKA DJ_TUCK_ROCK](https://pbs.twimg.com/media/GXD6zMRa0AAa-IU?format=jpg&name=large) [RELATEDTWEET](https://x.com/RicoThaka/status/1833241028037644698)
