@@ -44,3 +44,4 @@ img {
 [RelatedTwwet](https://x.com/RicoThaka/status/1868062492737601660)
 ![iss](https://pbs.twimg.com/media/GehQEP6aEAAJLth?format=jpg&name=medium)
 [tweet](https://x.com/RicoThaka/status/1866830783186395315/photo/4)
+![plot](https://pbs.twimg.com/media/GfQ71-Ta0AA22An?format=jpg&name=medium)
