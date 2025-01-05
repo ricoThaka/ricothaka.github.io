@@ -6,7 +6,8 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+![CALiFORNia CONSTiTUTiON](https://pbs.twimg.com/media/Gf624LmawAAEwYI?format=jpg&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1873135672103714996)
 
 ![MARSPATHFinDER](https://pbs.twimg.com/media/Gf7Z7A7bwAAw9nc?format=jpg&name=medium)
 [NASA Renames Mars Lander in Honor of Late Carl Sagan ](https://www.jpl.nasa.gov/news/nasa-renames-mars-lander-in-honor-of-late-carl-sagan/) [How did everyone feel about Donald Glover in the Martian? His character was a complete rip off of Abed and it really grated my biscuits.](https://www.reddit.com/r/community/comments/125hv8d/how_did_everyone_feel_about_donald_glover_in_the/?rdt=49228)
