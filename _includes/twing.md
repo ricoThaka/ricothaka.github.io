@@ -6,9 +6,10 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
-
-
+![CHURCH IN SANTAMONICA](https://pbs.twimg.com/media/Gf_dHOybQAACQtz?format=jpg&name=large)
+[RELATEDTWEET](https://x.com/RicoThaka/status/1873459478894633370)
+![DTLA R in graffiti font](https://pbs.twimg.com/media/Gf_fB6FaQAE2k9B?format=jpg&name=4096x4096)
+[RELATEDTWEET](https://x.com/RicoThaka/status/1873461247091569051)
 ![FATALBERT - SOFTCORE](https://pbs.twimg.com/media/Gfu4GWfakAADXY1?format=jpg&name=medium) 
 [RelatedTweet](https://x.com/RicoThaka/status/1872293095171330419)
 ![CYBERSECURITY JOB AT WHITEHOUSE](https://pbs.twimg.com/media/GfQthu-asAMKDey?format=jpg&name=large)
