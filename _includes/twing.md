@@ -7,6 +7,12 @@ img {
 </style>
 
 
+
+
+![FATALBERT - SOFTCORE](https://pbs.twimg.com/media/Gfu4GWfakAADXY1?format=jpg&name=medium) 
+[RelatedTweet](https://x.com/RicoThaka/status/1872293095171330419)
+![CYBERSECURITY JOB AT WHITEHOUSE](https://pbs.twimg.com/media/GfQthu-asAMKDey?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1870168545574957366)
 ![LOSANGELES WATERPOWER OUTAGEMAP](https://pbs.twimg.com/media/GgkIFoqaMAE4ZfW?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1876039619487449175)
 ![FF7 1stBoss](https://pbs.twimg.com/media/GgJCqJLbIAA6he3?format=jpg&name=medium)
