@@ -38,4 +38,5 @@ img {
 [RElateDtweeT](https://pbs.twimg.com/media/GgTzlL6bgAEJ2jj?format=jpg&name=large)
 ![PrecipatationPlot](https://pbs.twimg.com/media/GgUq6idaIAAFJ1a?format=jpg&name=medium)
 [RelatedTweet](https://x.com/RicoThaka/status/1874952345991389358)
-![]
+![normani](https://pbs.twimg.com/media/GfNjeVgasAACGJ6?format=jpg&name=large)
+[relatedtweet](https://x.com/RicoThaka/status/1869948055266701362)
