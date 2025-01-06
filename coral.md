@@ -13,6 +13,10 @@
 
 </div>
 
+
+![ARTCRiMES.ORG ATLAnTA](https://www.graffiti.org/assets/images/kezaclogowhitetontrans.gif)
+[Artcrimes.com gets blocked, its storage from an era ppl trying to mimick, the class is not that big, maybe 40-60 of us](https://www.graffiti.org/) [my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5a4O1bH0qMx1XGGUi87Zkl?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ![LOSANGELES - Library of congress](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17900/6a17974r.jpg)

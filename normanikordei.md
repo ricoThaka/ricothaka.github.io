@@ -6,7 +6,7 @@ permalink: /normanikordei
 tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
-
+[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
 # The Legend of Zelda
 franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka... [Amazing](https://www.youtube.com/watch?v=Sz_YPczxzZc)
 [<IMG src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg" />](https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg)
