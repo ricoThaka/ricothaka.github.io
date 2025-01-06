@@ -1,8 +1,6 @@
-## [americanRoyalty](https://archive.org/download/Childish_Gambino_-_Royalty-2012) 
-# Childish_Gambino_-_Royalty-2012
+ [americanRoyalty](https://archive.org/download/Childish_Gambino_-_Royalty-2012) 
 <audio controls>
-  <source src="https://ia800305.us.archive.org/35/items/Childish_Gambino_-_Royalty-2012/08%20-%20American%20Royalty%20%28ft%20RZA%20and%20Hypnotic%20Brass%20Orchestra%29%20prod%20Childish%20Gambino.mp3
-  " type="audio/mpeg">
+  <source src="https://ia800305.us.archive.org/35/items/Childish_Gambino_-_Royalty-2012/08%20-%20American%20Royalty%20%28ft%20RZA%20and%20Hypnotic%20Brass%20Orchestra%29%20prod%20Childish%20Gambino.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 [GiOVANNi](https://giovanni.gsfc.nasa.gov/giovanni/)
