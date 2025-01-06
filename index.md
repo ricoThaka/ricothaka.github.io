@@ -56,7 +56,8 @@ carousels:
   </ul>
 {% endfor %}
 
-# {{ 'now' | date: "%Y" }}
+#  <time datetime="{{ 'now' | date: "%Y" }}">{{ 'now' | date: "%Y" }} </time>
+#  <time datetime=`{{ site.time | date: '%B %d, %Y' }}`>{{ 'now' | date: "%Y" }} </time>
 # {{ site.time | date: '%B %d, %Y' }}
 {{ site.time | date: '%c' }}
 
