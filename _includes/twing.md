@@ -6,6 +6,9 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+
+![abt senatorBill](https://pbs.twimg.com/media/GbKoYkDakAAvEm4?format=jpg&name=large)
 ![TWitterRelay](https://pbs.twimg.com/media/Gf7JuI0bsAAOwd_?format=jpg&name=large)
 ![WOLRDViEW](https://pbs.twimg.com/media/GXD4kAPb0AASoAu?format=jpg&name=large)
 ![Horizons  jose m pi photo](https://pbs.twimg.com/media/Gf624LjaoAAzDTf?format=jpg&name=large)
