@@ -1,3 +1,12 @@
+
+    <style>
+      .whitebg {     background-color:white; }
+    </style>
+
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
 ![%](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
 
 [my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
