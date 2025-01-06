@@ -1,7 +1,7 @@
 
-    <style>
-      .whitebg {     background-color:white; }
-    </style>
+<style>
+.whitebg {     background-color:white; }
+</style>
 
 ## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
 
