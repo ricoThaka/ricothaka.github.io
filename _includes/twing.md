@@ -6,6 +6,11 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![WOLRDViEW](https://pbs.twimg.com/media/GXD4kAPb0AASoAu?format=jpg&name=large)
+![Horizons  jose m pi photo](https://pbs.twimg.com/media/Gf624LjaoAAzDTf?format=jpg&name=large)
+![DATETiME](https://pbs.twimg.com/media/Ggomi1vbAAAHeNF?format=jpg&name=large)
+[RELATEDTWEET](https://x.com/RicoThaka/status/1876356181985562770)
 ![s](https://pbs.twimg.com/media/GUZz3D5a8AAcrNE?format=jpg&name=small)
 ![TELNET](https://pbs.twimg.com/media/Gfv7a12acAA480F?format=jpg&name=large)
 ![TRACEROUTE](https://pbs.twimg.com/media/Gf60sapaoAAtowY?format=jpg&name=medium)
