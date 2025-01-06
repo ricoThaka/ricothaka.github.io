@@ -7,8 +7,9 @@ img {
 </style>
 
 
-
+![UCLAHiSTORYJPL](https://pbs.twimg.com/media/GbuOYWcaQAA6XCg?format=jpg&name=large)
 ![abt senatorBill](https://pbs.twimg.com/media/GbKoYkDakAAvEm4?format=jpg&name=large)
+[JohnnyQuest - RELATEDTWEET](https://x.com/RicoThaka/status/1851727751633604811)
 ![TWitterRelay](https://pbs.twimg.com/media/Gf7JuI0bsAAOwd_?format=jpg&name=large)
 ![WOLRDViEW](https://pbs.twimg.com/media/GXD4kAPb0AASoAu?format=jpg&name=large)
 ![Horizons  jose m pi photo](https://pbs.twimg.com/media/Gf624LjaoAAzDTf?format=jpg&name=large)
