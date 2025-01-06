@@ -56,14 +56,14 @@ carousels:
   </ul>
 {% endfor %}
 
-#  <time datetime="{{ 'now' | date: "%Y" }}">{{ 'now' | date: "%Y" }} </time>
+#  <time datetime=`{{ 'now' | date: "%Y" }}`>{{ 'now' | date: "%Y" }} </time>
 #  <time datetime=`{{ site.time | date: '%B %d, %Y' }}`>{{ 'now' | date: "%Y" }} </time>
 # {{ site.time | date: '%B %d, %Y' }}
 {{ site.time | date: '%c' }}
 
 
 
-# Currently Compling
+# Currently Compling g_e, m/s^2
 {% include_relative current.md %}
 
 
