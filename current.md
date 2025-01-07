@@ -1,4 +1,9 @@
 
+# Cold and Snow Wallop the U.S.
+### The first major, widespread winter storm of 2025 delivered snow, ice, and frigid temperatures to a large swath of the country.[ReadMore - Nasa_EarthObservatory](https://earthobservatory.nasa.gov/images/153789/cold-and-snow-wallop-the-us) Tools`>[AquaModis](https://aqua.nasa.gov/modis) [OCEANCOLOR](https://oceancolor.gsfc.nasa.gov/about/missions/aqua/) 
+
+![AiRTEMP](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153789/usarcticchill_geos5_20250106_lrg.jpg)
+
 # The “IT” GIRLS 💗💅🏽| A Kinigra Deon Original
 [book with same title](https://www.amazon.com/Girls-Novel-Karen-Harper/dp/0062567772) [LightboxViewer](https://youtu.be/gbOlCyQ4Hr8?si=pKj80MmOTMhRvsRa) [Kinigra Deon](https://www.youtube.com/@KinigraDeon) [Kinigra TiKTOK](https://www.tiktok.com/@kinigradeon?lang=en) [KinigRa on @twitter](https://x.com/kinigra?lang=en) @nasa-jpl this is one of the girls from atlanta(ish) that need protection digitally @blackgirlscode she made a movie an she know coral~
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c_AqZMlbm4c?si=WzsKwYmFkxrk-u2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
