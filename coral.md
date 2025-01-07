@@ -13,6 +13,7 @@
 
 </div>
 
+![MARS - 26036_E2-PIA19074](https://mars.nasa.gov/system/resources/detail_files/26036_E2-PIA19074-web.jpg)
 
 ![ARTCRiMES.ORG ATLAnTA](https://www.graffiti.org/assets/images/kezaclogowhitetontrans.gif)
 [Artcrimes.com gets blocked, its storage from an era ppl trying to mimick, the class is not that big, maybe 40-60 of us](https://www.graffiti.org/) [my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
