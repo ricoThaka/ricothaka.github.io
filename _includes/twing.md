@@ -6,18 +6,7 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-![news](https://pbs.twimg.com/media/GgpHBifWoAAbIOi?format=jpg&name=large)
-On Jan. 6, 2021, during the certification of Joe Biden's election victory, a mob of then-President Donald Trump's supporters violently broke their way into the U.S. Capitol under the false belief that the 2020 election had been stolen. The insurrection lead to at least seven people losing their lives, according to a bipartisan Senate report. [ReadMore - PBSnews](https://x.com/NewsHour/status/1876390307773714530)
 
-![ECOSTRESS](https://pbs.twimg.com/media/GYwiy8dasAAoT9o?format=jpg&name=large)
-[RelatedTweet](https://pbs.twimg.com/media/GYwiy8dasAAoT9o?format=jpg&name=large)
-![UPDATESTORY ON RASHRD MRO](https://pbs.twimg.com/media/GgpiG8IasAA2TSl?format=jpg&name=large)
-![PRESiDENTTWiTTER](https://pbs.twimg.com/media/GgpiNQmaEAAKwfu?format=png&name=small)
-[realtedTWT](https://x.com/RicoThaka/status/1876420538106864089)
-
-![LA_COUNTY_JOB](https://pbs.twimg.com/media/GEEQ0IbbYAEtYIX?format=jpg&name=large)
-[RelatedTwT](https://x.com/RicoThaka/status/1747696625555038638)
-![gavin](https://pbs.twimg.com/media/Ggpgp31bgAA2PoY?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1876415966944653616) [RelatedTwT](https://x.com/RicoThaka/status/1876415966944653616)
 ![PGE_PiPELiNE](https://pbs.twimg.com/media/GgpeIInbEAAw5mj?format=jpg&name=large)
 ![InsurrectionUpdates](https://pbs.twimg.com/media/GgpiG8IasAA2TSl?format=jpg&name=large)
