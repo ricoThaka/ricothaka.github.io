@@ -7,6 +7,11 @@ tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+[<IMG src="https://images.launchbox-app.com/9c048b70-5ef0-4d0d-94d2-ac2a6421172e.png" />](src="https://images.launchbox-app.com/9c048b70-5ef0-4d0d-94d2-ac2a6421172e.png")
+[<IMG src="https://images.launchbox-app.com/765b2372-849a-40fe-af2b-546fc720eb8c.png" />](src="https://images.launchbox-app.com/765b2372-849a-40fe-af2b-546fc720eb8c.png")
+[<IMG src="https://images.launchbox-app.com/3e4beca8-1315-4188-bf09-ab56a9d1f1d1.png" />](src="https://images.launchbox-app.com/3e4beca8-1315-4188-bf09-ab56a9d1f1d1.png")
+[<IMG src="https://images.launchbox-app.com/74ee801b-71fc-46c4-80f2-c831abeb87e2.png" />](src="https://images.launchbox-app.com/74ee801b-71fc-46c4-80f2-c831abeb87e2.png")
+
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4G1qRhOk1YY0kewtMaCrMC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

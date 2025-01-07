@@ -6,6 +6,14 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![LA_COUNTY_JOB](https://pbs.twimg.com/media/GEEQ0IbbYAEtYIX?format=jpg&name=large)
+[RelatedTwT](https://x.com/RicoThaka/status/1747696625555038638)
+![gavin](https://pbs.twimg.com/media/Ggpgp31bgAA2PoY?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1876415966944653616) [RelatedTwT](https://x.com/RicoThaka/status/1876415966944653616)
+![PGE_PiPELiNE](https://pbs.twimg.com/media/GgpeIInbEAAw5mj?format=jpg&name=large)
+![InsurrectionUpdates](https://pbs.twimg.com/media/GgpiG8IasAA2TSl?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1876420538106864089) 
 ![ESA CARTOGRAPHY](https://pbs.twimg.com/media/GdWCP7haoAIff_p?format=jpg&name=large)
 [RELATEDTWEET](https://x.com/RicoThaka/status/1861537679554519542)
 ![UCLAHiSTORYJPL](https://pbs.twimg.com/media/GbuOYWcaQAA6XCg?format=jpg&name=large)
