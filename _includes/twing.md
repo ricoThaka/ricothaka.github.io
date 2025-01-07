@@ -6,6 +6,9 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![SpoilerAlert](https://pbs.twimg.com/media/Ggr4q2UbgAAQwZG?format=jpg&name=medium)
+[RelatedEvents](https://x.com/RicoThaka/status/1876585647198416909) [Related Times](https://x.com/RicoThaka/status/1876521512917987565)
 ![imagemagick](https://pbs.twimg.com/media/GgtWWKXXYAAub3a?format=jpg&name=4096x4096)
 [Demo](https://x.com/RicoThaka/status/1876688797510832568)
 
