@@ -2,8 +2,10 @@
 [<IMG src="https://images.launchbox-app.com/765b2372-849a-40fe-af2b-546fc720eb8c.png" />](src="https://images.launchbox-app.com/765b2372-849a-40fe-af2b-546fc720eb8c.png")
 [<IMG src="https://images.launchbox-app.com/3e4beca8-1315-4188-bf09-ab56a9d1f1d1.png" />](src="https://images.launchbox-app.com/3e4beca8-1315-4188-bf09-ab56a9d1f1d1.png")
 [<IMG src="https://images.launchbox-app.com/74ee801b-71fc-46c4-80f2-c831abeb87e2.png" />](src="https://images.launchbox-app.com/74ee801b-71fc-46c4-80f2-c831abeb87e2.png")
-
-
+![TRUMPDAY INSURRECTION UPDATE](https://pbs.twimg.com/media/Ggpql9mbAAAuSmX?format=jpg&name=large)
+[relatedtwt](https://x.com/RicoThaka/status/1876429413052768734) 
+![SpeedRail](https://pbs.twimg.com/media/Ggpgp31bgAA2PoY?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1876418675080905137)
 
  [americanRoyalty](https://archive.org/download/Childish_Gambino_-_Royalty-2012) 
 <audio controls>
