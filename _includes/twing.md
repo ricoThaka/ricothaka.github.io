@@ -7,6 +7,8 @@ img {
 </style>
 
 
+
+[RELATEDTWEET]()
 [RelatedTweet](https://x.com/RicoThaka/status/1876415966944653616) [RelatedTwT](https://x.com/RicoThaka/status/1876415966944653616)
 ![PGE_PiPELiNE](https://pbs.twimg.com/media/GgpeIInbEAAw5mj?format=jpg&name=large)
 ![InsurrectionUpdates](https://pbs.twimg.com/media/GgpiG8IasAA2TSl?format=jpg&name=large)
