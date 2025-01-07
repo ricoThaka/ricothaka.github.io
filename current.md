@@ -1,4 +1,7 @@
 
+# The “IT” GIRLS 💗💅🏽| A Kinigra Deon Original
+[book with same title](https://www.amazon.com/Girls-Novel-Karen-Harper/dp/0062567772) [LightboxViewer](https://youtu.be/gbOlCyQ4Hr8?si=pKj80MmOTMhRvsRa)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c_AqZMlbm4c?si=WzsKwYmFkxrk-u2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ![news](https://pbs.twimg.com/media/GgpHBifWoAAbIOi?format=jpg&name=large)
 On Jan. 6, 2021, during the certification of Joe Biden's election victory, a mob of then-President Donald Trump's supporters violently broke their way into the U.S. Capitol under the false belief that the 2020 election had been stolen. The insurrection lead to at least seven people losing their lives, according to a bipartisan Senate report. [ReadMore - PBSnews](https://x.com/NewsHour/status/1876390307773714530)
 
