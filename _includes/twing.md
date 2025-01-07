@@ -12,7 +12,7 @@ img {
 ![imagemagick](https://pbs.twimg.com/media/GgtWWKXXYAAub3a?format=jpg&name=4096x4096)
 [Demo](https://x.com/RicoThaka/status/1876688797510832568)
 
-![LocalLA](https://pbs.twimg.com/media/GgthAVlbQAAPv_h?format=jpg&name=large0
+![LocalLA](https://pbs.twimg.com/media/GgthAVlbQAAPv_h?format=jpg&name=large)
 [RelatedtweeT](https://x.com/RicoThaka/status/1876700438621257874) [NYC French?](https://x.com/RicoThaka/status/1876698142672109706)
 ![HOMEPAGE](https://pbs.twimg.com/media/GgtpXEybwAAvcx4?format=jpg&name=large)
 [RELATEDTWEET](https://x.com/RicoThaka/status/1876709752664715451)
