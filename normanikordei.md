@@ -6,6 +6,9 @@ permalink: /normanikordei
 tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+
+# MyReality @nasa-jpl plz help
+![NORMANI](https://pbs.twimg.com/media/GCd2EtYbQAAEJYL?format=png&name=small)
 [waybackmachine](https://web.archive.org/)
 [my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
 # The Legend of Zelda
