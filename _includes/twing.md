@@ -6,9 +6,18 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+![imagemagick](https://pbs.twimg.com/media/GgtWWKXXYAAub3a?format=jpg&name=4096x4096)
+[Demo](https://x.com/RicoThaka/status/1876688797510832568)
 
-
-[RELATEDTWEET]()
+![LocalLA](https://pbs.twimg.com/media/GgthAVlbQAAPv_h?format=jpg&name=large0
+[RelatedtweeT](https://x.com/RicoThaka/status/1876700438621257874) [NYC French?](https://x.com/RicoThaka/status/1876698142672109706)
+![HOMEPAGE](https://pbs.twimg.com/media/GgtpXEybwAAvcx4?format=jpg&name=large)
+[RELATEDTWEET](https://x.com/RicoThaka/status/1876709752664715451)
+![Posix](https://pbs.twimg.com/media/Ggt2hfobEAA8P_s?format=jpg&name=large)
+![JimmyCarter](https://pbs.twimg.com/media/GgtxezmaoAAqYNw?format=jpg&name=large)
+[RELATEDTWEET](https://x.com/RicoThaka/status/1876725471896838213)
+![WorkForce Disablement](https://pbs.twimg.com/media/Ggt07PAa0AAlAZJ?format=jpg&name=medium)
+[RELATEDTWEET](https://x.com/RicoThaka/status/1876722253632508008)
 [RelatedTweet](https://x.com/RicoThaka/status/1876415966944653616) [RelatedTwT](https://x.com/RicoThaka/status/1876415966944653616)
 ![PGE_PiPELiNE](https://pbs.twimg.com/media/GgpeIInbEAAw5mj?format=jpg&name=large)
 ![InsurrectionUpdates](https://pbs.twimg.com/media/GgpiG8IasAA2TSl?format=jpg&name=large)
