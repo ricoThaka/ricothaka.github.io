@@ -1,3 +1,4 @@
+{% include twing.md %}
 
 # Cold and Snow Wallop the U.S.
 ### The first major, widespread winter storm of 2025 delivered snow, ice, and frigid temperatures to a large swath of the country.[ReadMore - Nasa_EarthObservatory](https://earthobservatory.nasa.gov/images/153789/cold-and-snow-wallop-the-us) Tools`>[AquaModis](https://aqua.nasa.gov/modis) [OCEANCOLOR](https://oceancolor.gsfc.nasa.gov/about/missions/aqua/) 
@@ -6,7 +7,7 @@
 
 # The “IT” GIRLS 💗💅🏽| A Kinigra Deon Original
 [book with same title](https://www.amazon.com/Girls-Novel-Karen-Harper/dp/0062567772) [LightboxViewer](https://youtu.be/gbOlCyQ4Hr8?si=pKj80MmOTMhRvsRa) [Kinigra Deon](https://www.youtube.com/@KinigraDeon) [Kinigra TiKTOK](https://www.tiktok.com/@kinigradeon?lang=en) [KinigRa on @twitter](https://x.com/kinigra?lang=en) @nasa-jpl this is one of the girls from atlanta(ish) that need protection digitally @blackgirlscode she made a movie an she know coral~
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c_AqZMlbm4c?si=WzsKwYmFkxrk-u2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/c_AqZMlbm4c?si=WzsKwYmFkxrk-u2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![news](https://pbs.twimg.com/media/GgpHBifWoAAbIOi?format=jpg&name=large)
 On Jan. 6, 2021, during the certification of Joe Biden's election victory, a mob of then-President Donald Trump's supporters violently broke their way into the U.S. Capitol under the false belief that the 2020 election had been stolen. The insurrection lead to at least seven people losing their lives, according to a bipartisan Senate report. [ReadMore - PBSnews](https://x.com/NewsHour/status/1876390307773714530)
@@ -74,9 +75,8 @@ find sega sonic promosite [window](https://codepen.io/ricoThaka/pen/eYqoGbp?edit
 
 ![CLimatology](https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_climatology_colorbar_white.png)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4G1qRhOk1YY0kewtMaCrMC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe loading="lazy" style="border-radius:12px" src="https://open.spotify.com/embed/track/4G1qRhOk1YY0kewtMaCrMC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-{% include twing.md %}
 
 
 ![LOSANGELES - Library of congress](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17900/6a17974r.jpg)
@@ -114,7 +114,7 @@ franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka
   
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hzPylqS01qU?si=DPTexd6AM7kRczIn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/hzPylqS01qU?si=DPTexd6AM7kRczIn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/CoRAL_CLOUT.jpg"  />
@@ -124,7 +124,7 @@ franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka
 
 
 # Martin Lawrence - You So Crazy (1994)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IlobJ8_OKsM?si=3ETkio5qV7YGbuHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/IlobJ8_OKsM?si=3ETkio5qV7YGbuHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![DEFCON](https://media.defcon.org/fancyindex/dc-logo.webp)
 [Im Gonna GitYOU SuckA](https://youtu.be/bK2a9L6gdu4?si=OH5D4KYMAPQnHqac) [Defcon Media Server](https://media.defcon.org/DEF%20CON%2031/) Kenya know a lot of ppl, idk if they scary tho [Run Tell Dat!](https://www.youtube.com/watch?v=zLmFhBv0Zfc) [![Twitter Follow](https://img.shields.io/badge/Social-Latto__-blue?style=social&logo=X)](https://twitter.com/Latto) [a thaka blog: covidLockdown note https://munathaka.github.io/thaka/](https://munathaka.github.io/thaka/)
@@ -184,7 +184,7 @@ img[src*="800px-Minolta-50mm-F17.jpg"] {width: 100%;padding: 0px;}
 
 
 # Matt Field Interview
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8_MS9GWOWC4?si=9tHVZfGRyt_rYX9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/8_MS9GWOWC4?si=9tHVZfGRyt_rYX9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![Jet Propulsion Laboratory, 4800 Oak Grove Dr, La Cañada Flintridge, CA 91011](https://pbs.twimg.com/media/GfhHJLxbIAESqUw?format=jpg&name=large)
 # Minolta AF 50mm f/1.7
@@ -213,11 +213,11 @@ By US Air Force - This image was released by the United States Air Force with th
 
 
 # : TRINITY through BUSTER-JANGLE : Atomic Weapons Tests
-<iframe itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization" width="560" height="315" src="https://www.youtube.com/embed/MWIJVM9kdek?si=dIhd787Ocd2CKeXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization" width="560" height="315" src="https://www.youtube.com/embed/MWIJVM9kdek?si=dIhd787Ocd2CKeXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0T5L4oi5KqfAwTH2nS4FHj?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe loading="lazy" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0T5L4oi5KqfAwTH2nS4FHj?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 <picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
