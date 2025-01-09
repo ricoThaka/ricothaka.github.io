@@ -6,6 +6,14 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![PALiSADESFiRE](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107_lrg.jpg)
+![EmilyCassidy](https://pbs.twimg.com/media/Gg4jZDGbEAANr5Y?format=jpg&name=large)
+
+[Fires Tear Through Los Angeles - VisibLEEarth](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles) [RelatedTweet](https://x.com/RicoThaka/status/1877477441020530799) [![Twitter Follow](https://img.shields.io/badge/Social-EnviroEm__-blue?style=social&logo=X)](https://twitter.com/EnviroEm) 
+
+![PolarVortex](https://pbs.twimg.com/media/GWzTGwBXgAAfEYU?format=jpg&name=900x900)
+ [RelatedTweet](https://x.com/NASAEarth/status/1832071263700779153)
 ![SnowCovered MeatBall](https://pbs.twimg.com/media/Ggn1QIaXUAACvSx?format=jpg&name=4096x4096)
 [RelatedTweet](https://x.com/cspan/status/1876728632246239515)
 ![JiMMYCARTER](https://pbs.twimg.com/media/GgtfyHmWQAARzX-?format=jpg&name=900x900)
