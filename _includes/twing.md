@@ -6,7 +6,8 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+![EATONFiRE](https://pbs.twimg.com/media/Gg4FRxoWMAAZyje?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1877797084981559488)
 ![PALiSADESFiRE](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107_lrg.jpg)
 ![EmilyCassidy](https://pbs.twimg.com/media/Gg4jZDGbEAANr5Y?format=jpg&name=large)
 
