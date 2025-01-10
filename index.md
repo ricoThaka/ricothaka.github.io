@@ -57,7 +57,7 @@ carousels:
 {% endfor %}
 
 #  <time datetime="{{ 'now' | date: "%Y" }}">{{ 'now' | date: "%Y" }} </time>
-## [Thank You for science MrCarter💯❤️‍🔥❤️‍🩹💯🥺💔](https://youtu.be/kpa0GklJHHA?si=GSFjS97CqeRiEELL)
+## [Thank You for science MrCarter💯❤️‍🔥❤️‍🩹💯🥺💔](https://youtu.be/kpa0GklJHHA?si=GSFjS97CqeRiEELL) @whitehouse @nasa-jpl thanks for caring for my family with science tools. I use so much u provide to teach and share `independance`
 #  <time datetime="{{ site.time | date: '%B %d, %Y' }}">{{ 'now' | date: "%Y" }} </time>
 # {{ site.time | date: '%B %d, %Y' }}
 {{ site.time | date: '%c' }}
