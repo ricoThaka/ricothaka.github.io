@@ -14,7 +14,7 @@ img {
 ![NASAJPL_LAB_STATUS](https://pbs.twimg.com/media/GgzCO-0WMAAuasW?format=jpg&name=4096x4096)
 ![Firms](https://pbs.twimg.com/media/Gg04TwgaMAMkvkd?format=jpg&name=medium) [RelatedTweet](https://x.com/NASAJPL/status/1877088825383460977)
  [![Twitter Follow](https://img.shields.io/badge/Social-NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL)
-![EatonFire-DataOutage](https://pbs.twimg.com/media/Gg9O4O_bkAEdu_I?format=png&name=small)
+![EatonFire-DataOutage](https://pbs.twimg.com/media/Gg9O4O_bkAEdu_I?format=png&name=small) [RelatedTweet](https://x.com/KTLA/status/1877870685466370343)
 [RelatedTweet](https://x.com/RicoThaka/status/1877806305844305977) [RELATEDTWEET-RobRoyce_](https://x.com/RobRoyce_/status/1877443901839069539) [![Twitter Follow](https://img.shields.io/badge/Social-RobRoyce___-blue?style=social&logo=X)](https://twitter.com/RobRoyce_) 
 ![RASHARD_IMAN_KELLY](https://pbs.twimg.com/media/Gg9O4PGagAAqoTE?format=jpg&name=large)
 ![EATONFiRE-FiRMS](https://pbs.twimg.com/media/Gg97qRibsAAvFRB?format=jpg&name=medium)
