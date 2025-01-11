@@ -7,7 +7,7 @@ img {
 </style>
 
 
-
+![LA](https://pbs.twimg.com/media/GhDB2sFbEAAYm_D?format=jpg&name=large) [relatedtweet](https://x.com/RicoThaka/status/1878214332921888961/photo/1)
 ![MAP](https://pbs.twimg.com/media/GhDE3eObEAAj1rV?format=jpg&name=large) [RelatedTweet](https://x.com/RicoThaka/status/1878217800193622498)
 ![Plot](https://pbs.twimg.com/media/GhDH1b8bUAAPYw1?format=jpg&name=medium)
 [Palisades Fire reaches Brentwood, threatens San Fernando Valley](https://www.youtube.com/watch?v=DNkLoBtWFhA&list=RDNSSV0kzuY6bKI&index=7) [Art Crimes: Los Angeles 1](https://www.graffiti.org/la/la_1.html) [Saturday DAtaPlots](https://x.com/RicoThaka/status/1878221093712122224) [socalfires](https://x.com/RicoThaka/status/1878218525707518390)
