@@ -8,6 +8,7 @@
 #theSUN() resources
 [Johs Hopkins APL](https://x.com/JHUAPL)
 [the STEREO website](https://stereo.gsfc.nasa.gov/)
+[SDOlab](https://sdo.gsfc.nasa.gov/)
 [TheSun](https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul9_171A_motion.mp4)
  [DEEP SPACE NETWORK](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
  ![DNS](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
