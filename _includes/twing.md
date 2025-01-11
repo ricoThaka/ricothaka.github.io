@@ -7,6 +7,7 @@ img {
 </style>
 
 ![EatonFire-DataOutage](https://pbs.twimg.com/media/Gg9O4O_bkAEdu_I?format=png&name=small)
+[RelatedTweet](https://x.com/RicoThaka/status/1877806305844305977) [RELATEDTWEET-RobRoyce_](https://x.com/RobRoyce_/status/1877443901839069539) [![Twitter Follow](https://img.shields.io/badge/Social-RobRoyce___-blue?style=social&logo=X)](https://twitter.com/RobRoyce_) 
 ![RASHARD_IMAN_KELLY](https://pbs.twimg.com/media/Gg9O4PGagAAqoTE?format=jpg&name=large)
 ![EATONFiRE-FiRMS](https://pbs.twimg.com/media/Gg97qRibsAAvFRB?format=jpg&name=medium)
 ![EATONFiRE](https://pbs.twimg.com/media/Gg4FRxoWMAAZyje?format=jpg&name=large)
