@@ -6,7 +6,7 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+[Palisades Fire reaches Brentwood, threatens San Fernando Valley](https://www.youtube.com/watch?v=DNkLoBtWFhA&list=RDNSSV0kzuY6bKI&index=7) [Art Crimes: Los Angeles 1](https://www.graffiti.org/la/la_1.html)
 ![Los ANgelesWave](https://pbs.twimg.com/media/Gg-X01NaEAASdY_?format=png&name=4096x4096)
 ![LATimES](https://pbs.twimg.com/media/Gg-XyWFbcAAF848?format=png&name=4096x4096)
 ![LA_FiRE-NYT](https://pbs.twimg.com/media/Gg-XyVda8AA80FF?format=png&name=4096x4096)
