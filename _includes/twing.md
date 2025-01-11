@@ -17,7 +17,7 @@ img {
 ![EatonFire-DataOutage](https://pbs.twimg.com/media/Gg9O4O_bkAEdu_I?format=png&name=small) [RelatedTweet](https://x.com/KTLA/status/1877870685466370343)
 [RelatedTweet](https://x.com/RicoThaka/status/1877806305844305977) [RELATEDTWEET-RobRoyce_](https://x.com/RobRoyce_/status/1877443901839069539) [![Twitter Follow](https://img.shields.io/badge/Social-RobRoyce___-blue?style=social&logo=X)](https://twitter.com/RobRoyce_) 
 ![RASHARD_IMAN_KELLY](https://pbs.twimg.com/media/Gg9O4PGagAAqoTE?format=jpg&name=large)
-![EATONFiRE-FiRMS](https://pbs.twimg.com/media/Gg97qRibsAAvFRB?format=jpg&name=medium)
+![EATONFiRE-FiRMS](https://pbs.twimg.com/media/Gg97qRibsAAvFRB?format=jpg&name=medium) [Related](https://x.com/RicoThaka/status/1877870433187549645)
 ![EATONFiRE](https://pbs.twimg.com/media/Gg4FRxoWMAAZyje?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1877797084981559488)
 ![PALiSADESFiRE](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107_lrg.jpg)
