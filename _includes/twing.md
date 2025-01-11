@@ -6,6 +6,10 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+
+
+![Plot](https://pbs.twimg.com/media/GhDH1b8bUAAPYw1?format=jpg&name=medium)
 [Palisades Fire reaches Brentwood, threatens San Fernando Valley](https://www.youtube.com/watch?v=DNkLoBtWFhA&list=RDNSSV0kzuY6bKI&index=7) [Art Crimes: Los Angeles 1](https://www.graffiti.org/la/la_1.html) [Saturday DAtaPlots](https://x.com/RicoThaka/status/1878221093712122224)
 ![Los ANgelesWave](https://pbs.twimg.com/media/Gg-X01NaEAASdY_?format=png&name=4096x4096)
 ![LATimES](https://pbs.twimg.com/media/Gg-XyWFbcAAF848?format=png&name=4096x4096)
