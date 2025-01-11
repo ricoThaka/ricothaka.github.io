@@ -6,6 +6,10 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![Los ANgelesWave](https://pbs.twimg.com/media/Gg-X01NaEAASdY_?format=png&name=4096x4096)
+![LATimES](https://pbs.twimg.com/media/Gg-XyWFbcAAF848?format=png&name=4096x4096)
+![LA_FiRE-NYT](https://pbs.twimg.com/media/Gg-XyVda8AA80FF?format=png&name=4096x4096)
 ![EatonFire-DataOutage](https://pbs.twimg.com/media/Gg9O4O_bkAEdu_I?format=png&name=small)
 [RelatedTweet](https://x.com/RicoThaka/status/1877806305844305977) [RELATEDTWEET-RobRoyce_](https://x.com/RobRoyce_/status/1877443901839069539) [![Twitter Follow](https://img.shields.io/badge/Social-RobRoyce___-blue?style=social&logo=X)](https://twitter.com/RobRoyce_) 
 ![RASHARD_IMAN_KELLY](https://pbs.twimg.com/media/Gg9O4PGagAAqoTE?format=jpg&name=large)
