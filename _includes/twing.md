@@ -6,7 +6,7 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+![latimes](https://pbs.twimg.com/media/GhC-XVMaEAAfq94?format=jpg&name=large)
 ![LA](https://pbs.twimg.com/media/GhDB2sFbEAAYm_D?format=jpg&name=large) [relatedtweet](https://x.com/RicoThaka/status/1878214332921888961/photo/1)
 ![MAP](https://pbs.twimg.com/media/GhDE3eObEAAj1rV?format=jpg&name=large) [RelatedTweet](https://x.com/RicoThaka/status/1878217800193622498)
 ![Plot](https://pbs.twimg.com/media/GhDH1b8bUAAPYw1?format=jpg&name=medium)
