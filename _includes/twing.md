@@ -6,6 +6,9 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+![EatonFire-DataOutage](https://pbs.twimg.com/media/Gg9O4O_bkAEdu_I?format=png&name=small)
+![RASHARD_IMAN_KELLY](https://pbs.twimg.com/media/Gg9O4PGagAAqoTE?format=jpg&name=large)
+![EATONFiRE-FiRMS](https://pbs.twimg.com/media/Gg97qRibsAAvFRB?format=jpg&name=medium)
 ![EATONFiRE](https://pbs.twimg.com/media/Gg4FRxoWMAAZyje?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1877797084981559488)
 ![PALiSADESFiRE](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107_lrg.jpg)
