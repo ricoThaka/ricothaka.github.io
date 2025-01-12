@@ -1,10 +1,6 @@
-
-## forums
-[EarthData](https://forum.earthdata.nasa.gov/viewforum.php?f=7&tagMatch=all&DAAC=3&keywords=&sid=42a07a8c348c09f8d868d2ba19c68587)
-[12ozProphet](https://forum.12ozprophet.com/) [graffhelp](https://www.reddit.com/r/graffhelp/comments/9bi06b/12_oz_prophet/)
-
-[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
+![Earth](https://epic.gsfc.nasa.gov/archive/natural/2025/01/09/jpg/epic_1b_20250109195657.jpg)
 ## webtools
+[DSCOVR: EPIC](https://epic.gsfc.nasa.gov/)
 [Earth](https://earthobservatory.nasa.gov/)
  ## NASA DsN
 #theSUN() resources
@@ -36,3 +32,10 @@ ASTER is a cooperative effort between NASA and Japan's Ministry of Economy Trade
 [Places to Telnet - TELNET.ORG](https://telnet.org/htm/places.htm)
 [TELNETDiR - https://victoria.tc.ca/history/internet/telnet-sites.html - BLOCKED at LAPL](https://victoria.tc.ca/history/internet/telnet-sites.html)
 [What are your favorite Telnet sites (Besides Fozz's) - REDDiT r/retrobattlestations/](https://www.reddit.com/r/retrobattlestations/)
+
+
+## forums
+[EarthData](https://forum.earthdata.nasa.gov/viewforum.php?f=7&tagMatch=all&DAAC=3&keywords=&sid=42a07a8c348c09f8d868d2ba19c68587)
+[12ozProphet](https://forum.12ozprophet.com/) [graffhelp](https://www.reddit.com/r/graffhelp/comments/9bi06b/12_oz_prophet/)
+
+[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
