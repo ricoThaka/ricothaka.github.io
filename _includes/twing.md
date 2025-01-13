@@ -19,6 +19,16 @@ img {
   <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/free-nav/assets/video/NLDAS_NOAH0125_M_2_0_SMLiq_0_10cm_animationVideo.webm">MP4</a>
   video.
 </video>
+<video controls >
+
+  <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/free-nav/assets/video/NLDAS_NOAH0125_M_2_0_SMLiq_0_10cm_animationVideo.webm"  type="video/webm" />
+  
+  
+    Download the
+
+  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/free-nav/assets/video/NLDAS_NOAH0125_M_2_0_SMLiq_0_10cm_animationVideo.webm">MP4</a>
+  video.
+</video>
 
 ![GioVanni](https://opengraph.githubassets.com/a005f8ddaf86a9b03f1eedf00a73b3762026f743f468b6f48dc9617976869e5c/nasa/Giovanni)
 
