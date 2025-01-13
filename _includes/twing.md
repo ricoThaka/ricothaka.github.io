@@ -6,6 +6,23 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+### Liquid soil moisture content (0-10cm) monthly 0.125 deg. [NLDAS Model NLDAS_NOAH0125_M v2.0] kg m-2
+- Selected date range was 2000-Jan - 2024-Dec. Title reflects the date range of the granules that went into making this result. @nasa-jpl @blackgirlscode plots by -#rashard [giovanni](https://ntrs.nasa.gov/api/citations/20190001147/downloads/20190001147.pdf) [Search](https://ntrs.nasa.gov/search)
+<video controls >
+
+  <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/free-nav/assets/video/NLDAS_NOAH0125_M_2_0_SMLiq_0_10cm_animationVideo.webm"  type="video/webm" />
+  
+  
+    Download the
+
+  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/free-nav/assets/video/NLDAS_NOAH0125_M_2_0_SMLiq_0_10cm_animationVideo.webm">MP4</a>
+  video.
+</video>
+
+![GioVanni](https://opengraph.githubassets.com/a005f8ddaf86a9b03f1eedf00a73b3762026f743f468b6f48dc9617976869e5c/nasa/Giovanni)
+
+
 ![latimes](https://pbs.twimg.com/media/GhC-XVMaEAAfq94?format=jpg&name=large) [relatedTweet](https://x.com/RicoThaka/status/1878211071540158475)
 ![LA](https://pbs.twimg.com/media/GhDB2sFbEAAYm_D?format=jpg&name=large) [relatedtweet](https://x.com/RicoThaka/status/1878214332921888961/photo/1)
 ![MAP](https://pbs.twimg.com/media/GhDE3eObEAAj1rV?format=jpg&name=large) [RelatedTweet](https://x.com/RicoThaka/status/1878217800193622498)
