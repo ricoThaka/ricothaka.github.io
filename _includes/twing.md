@@ -10,19 +10,22 @@ img {
 
 
 
+# Europa Clipper @nasa-jpl
+![EC](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Europa_Clipper_spacecraft_model.png/2468px-Europa_Clipper_spacecraft_model.png)
 
-![BUSWAR](https://pbs.twimg.com/media/GhNrnNqbUAA-EOI?format=jpg&name=large)
-[RelatedTweet](https://x.com/thakasartu/status/1878964049473659246) 
-![plot](https://pbs.twimg.com/media/GhN7cMmbMAAsXNh?format=jpg&name=medium)
-[RELATED](https://x.com/thakasartu/status/1878981359525650928) [The Computer Chronicles - BUS Wars (1988) - youtube](https://youtu.be/aYt4ZPxVkSs?si=x4H-owpBVuouAc-k)
 
-![Unix](https://pbs.twimg.com/media/GhNmeWXaEAASTga?format=jpg&name=small)
-[RelatedTweet](https://x.com/thakasartu/status/1878958097458430076)
 # Data collected from Mariner 4's flyby on a modern map
 ![MARSFLYBY](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mariner4_flyby.jpg/1022px-Mariner4_flyby.jpg)
 ![EuropaClipper FLYBY](https://pbs.twimg.com/media/GhR1zU0aUAEzsda?format=jpg&name=large)
+[EUROPACLiPPER-MiSSiONWEBSiTE](https://science.nasa.gov/mission/europa-clipper/europa-clipper-multimedia/)
+[RelatedTweet](https://x.com/RicoThaka/status/1879256763842941126) [MarsBlogOnRack - Codepen dev area @blackgirlscode](https://codepen.io/ricoThaka/pen/gbYXxNr) [MissionTimeline](https://europa.nasa.gov/mission/timeline/) [MarsFlyby](https://en.wikipedia.org/wiki/Mars_flyby)  is a movement of spacecraft passing in the vicinity of the planet Mars, but not entering orbit or landing on it.[1] Uncrewed space probes have used this method to collect data on Mars, as opposed to orbiting or landing.[2] A spacecraft designed for a flyby is also known as a "flyby bus" or "flyby spacecraft".[3] [Wiki](https://en.wikipedia.org/wiki/Mars_flyby) [Basics of Spaceflight - Chapter 16: Encounter](https://science.nasa.gov/learn/basics-of-space-flight/chapter16-1/) [Europa Clipper Sticker (White - English)](https://europa.nasa.gov/resources/389/europa-clipper-sticker-white-english/)
 
-[RelatedTweet](https://x.com/RicoThaka/status/1879256763842941126) [MissionTimeline](https://europa.nasa.gov/mission/timeline/) [MarsFlyby](https://en.wikipedia.org/wiki/Mars_flyby)  is a movement of spacecraft passing in the vicinity of the planet Mars, but not entering orbit or landing on it.[1] Uncrewed space probes have used this method to collect data on Mars, as opposed to orbiting or landing.[2] A spacecraft designed for a flyby is also known as a "flyby bus" or "flyby spacecraft".[3] [Wiki](https://en.wikipedia.org/wiki/Mars_flyby) [Basics of Spaceflight - Chapter 16: Encounter](https://science.nasa.gov/learn/basics-of-space-flight/chapter16-1/)
+
+![EuropaClipper](https://europa.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhkSEkzWTNock5ESmplbTFwWjNoNk9XWmlZV0YwYm1GM1pYRmhjZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpYTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWtWVlVrOVFRVjlNVDBkUFgwaFBVa2xhVDA1VVFVeGZWMGhKVkVVdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRGVlZKUFVFRmZURTlIVDE5SVQxSkpXazlPVkVGTVgxZElTVlJGTG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRNkVYTmxjblpwWTJWZmJtRnRaVG9LYkc5allXdz0iLCJleHAiOm51bGwsInB1ciI6ImJsb2Jfa2V5In19--4a931e4dbac271c1f1f693977fbd2c3e59009d7d/EUROPA_LOGO_HORIZONTAL_WHITE.png)
+
+![Unix](https://pbs.twimg.com/media/GhNmeWXaEAASTga?format=jpg&name=small)
+[RelatedTweet](https://x.com/thakasartu/status/1878958097458430076)
+
 ![LOSANGELES-FirmsJAN14](https://pbs.twimg.com/media/GhRgG51aAAA1m3t?format=jpg&name=large)
 [RELATEDTWEET](https://x.com/RicoThaka/status/1879233365007884393) [MAP](https://firms.modaps.eosdis.nasa.gov/usfs/map/#t:tsd;d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,landsat_human,earth;@-118.31,34.18,12.00z)
 ![CLPS LUNAR](https://pbs.twimg.com/media/GhRxzOSbgAA-Ha8?format=jpg&name=medium)
@@ -32,6 +35,10 @@ img {
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thankfully, the laboratory remains untouched by fire due to the brave dedication of our first responders. But our community has been seriously impacted with over 150 JPLers who have lost their homes and many more remain displaced.</p>&mdash; NASA JPL (@NASAJPL) <a href="https://twitter.com/NASAJPL/status/1878548370387829032?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![BUSWAR](https://pbs.twimg.com/media/GhNrnNqbUAA-EOI?format=jpg&name=large)
+[RelatedTweet](https://x.com/thakasartu/status/1878964049473659246) 
+![plot](https://pbs.twimg.com/media/GhN7cMmbMAAsXNh?format=jpg&name=medium)
+[RELATED](https://x.com/thakasartu/status/1878981359525650928) [The Computer Chronicles - BUS Wars (1988) - youtube](https://youtu.be/aYt4ZPxVkSs?si=x4H-owpBVuouAc-k)
 
 ![THeSims](https://pbs.twimg.com/media/GhRJoHEW8AAdZOV?format=jpg&name=4096x4096)
 [RelatedTweet](https://x.com/RicoThaka/status/1879241505191424284)
