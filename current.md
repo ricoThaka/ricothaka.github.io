@@ -9,7 +9,7 @@
         video.
 </video> 
 
-[AT&T Archives: Telstar!](https://www.youtube.com/watch?v=uKH-GijnAGk&t=4s) 
+[AT&T Archives: Telstar!](https://www.youtube.com/watch?v=uKH-GijnAGk&t=4s) [Building Telephone Lines in the desert 1929](https://youtu.be/Yi2uqD7nA74?si=4npSboAbMoW78S6F)
 [Telstar 1](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1962-029A)
 [AT&T Archives: A Modern Aladdin's Lamp, about vacuum tubes,1940](https://youtu.be/_-JzxX75oYc?list=PLDB8B8220DEE96FD9)
 ![TELSTAR302](https://upload.wikimedia.org/wikipedia/commons/4/47/STS41D-37-050.jpg)
