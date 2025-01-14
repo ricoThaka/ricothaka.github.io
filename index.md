@@ -66,7 +66,7 @@ carousels:
 
 # Currently Compling g_e, m/s^2
 {% include_relative current.md %}
-
+![TELSTAR](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1962-029A)
 
 
 --- 
