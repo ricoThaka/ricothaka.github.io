@@ -1,6 +1,11 @@
 
+### All Night Long : by [Common](https://www.thinkcommon.com/) Feat [EryKah Badu](https://erykahbadu.com/)
+<audio controls>
+  <source src="https://archive.org/download/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
-
+![SPECTROGRAM](https://ia803409.us.archive.org/24/items/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29_spectrogram.png)
 
 {% include twing.md %}
 
