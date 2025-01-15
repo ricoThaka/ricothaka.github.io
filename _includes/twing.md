@@ -8,7 +8,8 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+![Gavin+ELON](https://pbs.twimg.com/media/GhXIc1NbQAAPq8Y?format=jpg&name=900x900)
+[RelatedTweet](https://x.com/RicoThaka/status/1879628924164128949) [NHL_OPEN_ICE:TRY on MAME](https://archive.org/details/arcade_openice) [DOCUMENTARY:Unveiling the Creation of 1995's NHL Open Ice 🕹️👾 | The Drop 🏒](https://youtu.be/TiLchlUVhlY?si=JFlmwYIHpxL_xg9x)
 ![TedRoss_SMART_LA](https://pbs.twimg.com/media/GhTeg4xaUAAv2QG?format=jpg&name=large)
 [RelatedTweet-SMARTLA](https://x.com/RicoThaka/status/1879371995974164889) [SMART_LA:PDF_DOWNLOAD](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)
 ![ViiRs](https://pbs.twimg.com/media/GhWqkcQaAAAmibP?format=jpg&name=large)

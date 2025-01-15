@@ -14,7 +14,8 @@
 
 </div>
 
-
+![Gavin+ELON](https://pbs.twimg.com/media/GhXIc1NbQAAPq8Y?format=jpg&name=900x900)
+[RelatedTweet](https://x.com/RicoThaka/status/1879628924164128949) [NHL_OPEN_ICE:TRY on MAME](https://archive.org/details/arcade_openice) [DOCUMENTARY:Unveiling the Creation of 1995's NHL Open Ice 🕹️👾 | The Drop 🏒](https://youtu.be/TiLchlUVhlY?si=JFlmwYIHpxL_xg9x)
 
 ![SharpZaurus](https://upload.wikimedia.org/wikipedia/commons/e/e8/Sharp_Zaurus_SL-C1000_--_open_1280x960.jpg)
 [The UNIX System: Making Computers Easier to Use](https://youtu.be/pzf3VlKNLiI) [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) [Computer Pioneers: Pioneer Computers Part 1](https://www.youtube.com/watch?v=qundvme1Tik) [The Computer Chronicles - UNIX (1985)](https://www.youtube.com/watch?v=0DdoGPav3fc)
