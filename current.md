@@ -1,19 +1,6 @@
-![TELSTAR](https://nssdc.gsfc.nasa.gov/planetary/image/telstar_1.jpg)
 
-<video controls preload="none"   width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-03.jpg">
-    
-<source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/1962-07-12_A_Day_in_History.webm/1962-07-12_A_Day_in_History.webm.720p.vp9.webm" type="video/webm" />
-         Download the
-        or
-<a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/1962-07-12_A_Day_in_History.webm/1962-07-12_A_Day_in_History.webm.720p.vp9.webm">MP4</a>
-        video.
-</video> 
 
-[AT&T Archives: Telstar!](https://www.youtube.com/watch?v=uKH-GijnAGk&t=4s) [Building Telephone Lines in the desert 1929](https://youtu.be/Yi2uqD7nA74?si=4npSboAbMoW78S6F)
-[Telstar 1](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1962-029A)
-[AT&T Archives: A Modern Aladdin's Lamp, about vacuum tubes,1940](https://youtu.be/_-JzxX75oYc?list=PLDB8B8220DEE96FD9)
-![TELSTAR302](https://upload.wikimedia.org/wikipedia/commons/4/47/STS41D-37-050.jpg)
-![GoDDArd](https://i.ebayimg.com/images/g/HPsAAOSwbVZkXnFg/s-l1200.jpg)
+
 
 {% include twing.md %}
 
