@@ -58,6 +58,30 @@ HGROUP h1 {
   text-shadow: 0 1px 0 #CCCCCC, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
   }
   
+  #MAiN {
+    margin: 0 auto;
+    width: 55vw;
+    height: 100vh;
+    margin: auto;
+    
+  
+  }
+  #content {
+  
+  
+  }
+  #FOOTER {
+    flex-wrap: nowrap;
+  
+    display: block;
+    grid-template-rows: auto auto auto;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 55vw;
+  
+  }
+  
 
   p {
     display: inline-block;
@@ -79,13 +103,7 @@ HGROUP h1 {
   }
 
 
-.floatright img:nth-child(odd) {
-  float: right;
-}
-.floatleft img:nth-child(even) {
-  float: left;
-  border-bottom: solid 10px #ffffff50;
-}
+
 
 H1 {
 
@@ -180,7 +198,44 @@ BODY {
 
 }
 
+img {  max-height: 100%;
+  max-width: 100%;
+display:block;}
+img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
 
+img[alt^="L"] {
+  width: 100%;
+  border-top:solid 10px #f4bf75;
+  
+  }
+
+  img[src*="poesiatranscend"] {
+    width: 100%;}
+
+  
+
+img[alt*="USGS"] {
+  width: 100%;
+  border-bottom:solid 10px #c9ff23;
+  
+  }
+img[src*="nasa.gov"] {
+width: 100%;
+border-bottom:solid 10px #c9ff23;
+
+}
+img[alt="kk"] {
+  width: 100%;
+  
+}
+img[alt="whiteslavery"] {
+  max-width: 15%;
+  float: right;
+}
+img[alt="whiteslavery40"] {
+  max-width: 40%;
+  transform: rotate(45deg);
+}
 img[src*="Midway_Games_logo"] {background: transparent
   url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
   center repeat; width: 100%;}
@@ -194,23 +249,15 @@ img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
 svg { width: max-content;
 display: inline-block; }
 
-  /*
-p {
-  display: flex;
-  text-align: left;
-  color: white;
-  background: black;
-  background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%);
-  border-left: 1px solid dodgerblue;
-  border-right: 1px solid #582C83;
-  column-count: auto;
-  column-fill: balance-all;
-  word-break: break-all;
-  hyphens: auto;
-  display:block;
+.floatright img:nth-child(odd) {
+  float: right;
+}
+.floatleft img:nth-child(even) {
+  float: left;
+  border-bottom: solid 10px #ffffff50;
 }
 
-*/
+
 @keyframes slidein {
   from {
     margin-right: 100%;
@@ -256,18 +303,7 @@ p:first-of-type {
   padding-left: 3px;
 }
 
-#MAiN {
-  margin: 0 auto;
-  width: 55vw;
-  height: 100vh;
-  margin: auto;
-  
 
-}
-#content {
-
-
-}
 
 
 .featured-post {
@@ -327,22 +363,7 @@ p:first-of-type {
 
 
 
-/*
-#heading {
 
-  flex-wrap:nowrap;
-    width:50vw;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-   position:fixed;
-    display: grid;
-grid-template-rows: auto auto auto;
-    background-color: black;
-  color:white;
-  padding:5px;
-  position:fixed;
-
-} */
 .gullies {
   /*display: grid;
   grid-gap: 5px;
@@ -558,37 +579,6 @@ hr {
   border-bottom: 1px dashed #b5e853;
   color: #b5e853;
 }
-
-#footer {
-  flex-wrap: nowrap;
-
-  display: block;
-  grid-template-rows: auto auto auto;
-  background-color: black;
-  color: white;
-  padding: 5px;
-  width: 55vw;
-
-}
-
-/*
-#content {
-
-  border-radius:12px;
-  padding: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 20em;
-  margin-left: 20em; 	
-  /* opera does not like 'margin:20px auto' astrxneeded/
-  border: 0px solid #ccc;
-  text-align:left; 
-  voice-family: "\"}\"";
-  voice-family:inherit;
-
-  }
-*/
-
 
 
 
@@ -2696,47 +2686,6 @@ transform: scale(1.05);
   right: 35px;
   bottom: 0;
   
-  img{
-    display: block;
-    width: 32px;
-  }
-}
-
-img {  max-height: 100%;
-  max-width: 100%;
-display:block;}
-img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
-
-img[alt^="L"] {
-  width: 100%;
-  border-top:solid 10px #f4bf75;
-  
-  }
-
-  img[src*="poesiatranscend"] {
-    width: 100%;}
-
-  
-
-img[alt*="USGS"] {
-  width: 100%;
-  border-bottom:solid 10px #c9ff23;
-  
-  }
-img[src*="nasa.gov"] {
-width: 100%;
-border-bottom:solid 10px #c9ff23;
 
 }
-img[alt="kk"] {
-  width: 100%;
-  
-}
-img[alt="whiteslavery"] {
-  max-width: 15%;
-  float: right;
-}
-img[alt="whiteslavery40"] {
-  max-width: 40%;
-  transform: rotate(45deg);
-}
+

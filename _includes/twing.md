@@ -9,7 +9,12 @@ img {
 </style>
 
 
-
+![TedRoss_SMART_LA](https://pbs.twimg.com/media/GhTeg4xaUAAv2QG?format=jpg&name=large)
+[RelatedTweet-SMARTLA](https://x.com/RicoThaka/status/1879371995974164889) [SMART_LA:PDF_DOWNLOAD](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)
+![ViiRs](https://pbs.twimg.com/media/GhWqkcQaAAAmibP?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1879597612325822522) [RelatedTweet](https://x.com/RicoThaka/status/1879460115751022624) [KML_FiLES for GOOGLEEARTH](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-kml)
+![ViiRS](https://pbs.twimg.com/media/GhWsa8tbsAAqo15?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1879598348933698006)
 # Europa Clipper @nasa-jpl
 ![EC](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Europa_Clipper_spacecraft_model.png/2468px-Europa_Clipper_spacecraft_model.png)
 

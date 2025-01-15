@@ -1,3 +1,9 @@
+
+#  <time datetime="{{ 'now' | date: "%Y" }}">{{ 'now' | date: "%Y" }} </time>
+## [Thank You for science MrCarter💯❤️‍🔥❤️‍🩹💯🥺💔](https://youtu.be/kpa0GklJHHA?si=GSFjS97CqeRiEELL) @whitehouse @nasa-jpl thanks for caring for my family with science tools. I use so much u provide to teach and share `independance`
+
+{% include twing.md %}
+
 [HOLLYWOOD LIBRARY](https://whatismyipaddress.com/ip/155.190.3.5)
 ### All Night Long : by [Common](https://www.thinkcommon.com/) Feat [EryKah Badu](https://erykahbadu.com/)
 <audio controls>
@@ -7,7 +13,7 @@ Your browser does not support the audio element.
 
 ![SPECTROGRAM](https://ia803409.us.archive.org/24/items/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29_spectrogram.png)
 
-{% include twing.md %}
+
 
 # Cold and Snow Wallop the U.S.
 ### The first major, widespread winter storm of 2025 delivered snow, ice, and frigid temperatures to a large swath of the country.[ReadMore - Nasa_EarthObservatory](https://earthobservatory.nasa.gov/images/153789/cold-and-snow-wallop-the-us) Tools`>[AquaModis](https://aqua.nasa.gov/modis) [OCEANCOLOR](https://oceancolor.gsfc.nasa.gov/about/missions/aqua/) 
