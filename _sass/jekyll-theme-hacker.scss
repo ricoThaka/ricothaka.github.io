@@ -41,8 +41,11 @@ HTML {
 
 
 HGROUP {
-  padding: 0px;
-  margin: 0px;
+  
+  margin: 0 auto;
+  width: 60vw;
+  margin: auto; 
+  
 }
 HGROUP h1 {
   display: block;
@@ -60,27 +63,25 @@ HGROUP h1 {
   
   #MAiN {
     margin: 0 auto;
-    width: 55vw;
+    width: 60vw;
     height: 100vh;
-    margin: auto;
-    
-  
+    margin: auto;  
   }
-  #content {
-  
-  
-  }
+
+
   #FOOTER {
     flex-wrap: nowrap;
-  
-    display: block;
+    display: inline-block;
     grid-template-rows: auto auto auto;
     background-color: black;
     color: white;
     padding: 5px;
-    width: 55vw;
+    width: 60vw;
   
   }
+
+
+
   
 
   p {
