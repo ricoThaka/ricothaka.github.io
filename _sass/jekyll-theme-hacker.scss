@@ -68,21 +68,7 @@ HGROUP h1 {
     margin: auto;  
   }
 
-
-  #FOOTER {
-    flex-wrap: nowrap;
-    display: inline-block;
-    grid-template-rows: auto auto auto;
-    background-color: black;
-    color: white;
-    padding: 5px;
-    width: 60vw;
-  
-  }
-
-
-
-  
+/* footer embedded in include as of jan15_2025 */ 
 
   p {
     display: inline-block;
