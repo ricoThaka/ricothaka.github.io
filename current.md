@@ -1,5 +1,34 @@
 
 #  <time datetime="{{ 'now' | date: "%Y" }}">{{ 'now' | date: "%Y" }} </time>
+
+[AL](https://search.asf.alaska.edu/#/?zoom=13.000&center=-118.196,34.159&dataset=SENTINEL-1%20BURSTS)
+# President Biden’s Farewell 
+[Remarks by President Biden in a Farewell Address to the Nation - @whitehouse @nasa-jpl](https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/15/remarks-by-president-biden-in-a-farewell-address-to-the-nation/)
+ [NYTimES - Transcript](https://www.nytimes.com/2025/01/15/us/politics/full-transcript-of-president-bidens-farewell-address.html)
+ 
+<video controls preload="none"   width="100%" height="auto" poster="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR2MWI1bmswMXZzbHhrMnN6MHNyZDVyeGFxN2RkNWxvYjRjb2RteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxjYIG40lpjkEDbARF/giphy.gif">
+    
+<source src="https://archive.org/download/screenshot-2025-01-16-11.03.15-am/Screen%20recording%202025-01-16%2012.25.31%20PM.webm" type="video/webm" />
+         Download the
+        or
+<a href="https://archive.org/download/screenshot-2025-01-16-11.03.15-am/Screen%20recording%202025-01-16%2012.25.31%20PM.webm">webm</a>
+        video.
+</video> 
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+
+![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
+
+# i did it for jehovah, now i do it for the world-casualDaily atm!
+![MyCAbinet](https://pbs.twimg.com/media/GhcBnUraMAAAh6F?format=jpg&name=large)
+![MY_CABinet](https://pbs.twimg.com/media/GhcDZhJacAIZrjr?format=jpg&name=large)
+![i did it for jehovah, now i do it for the world-casualDaily atm!](https://pbs.twimg.com/media/GhcKpEmakAAfi2j?format=jpg&name=large)
+
+
+
+
 ## [Thank You for science MrCarter💯❤️‍🔥❤️‍🩹💯🥺💔](https://youtu.be/kpa0GklJHHA?si=GSFjS97CqeRiEELL) @whitehouse @nasa-jpl thanks for caring for my family with science tools. I use so much u provide to teach and share `independance`
 
 {% include twing.md %}
