@@ -9,6 +9,9 @@ img {
 </style>
 
 
+
+![sartu](https://pbs.twimg.com/media/FsYxIfVaAAA85WY?format=jpg&name=medium)
+![Launchers](https://pbs.twimg.com/media/FsYxGsWaEAQ8nPc?format=jpg&name=medium)
 ![linuxCMDandroid](https://pbs.twimg.com/media/Fqqz5xpaAAEh0es?format=png&name=medium)
 ![terminus](https://pbs.twimg.com/media/Fqqz6A4aQAAqFPY?format=jpg&name=medium)
 ![KASHDOLLNORMANi](https://pbs.twimg.com/media/GeYXYk4aUAE2bGG?format=jpg&name=large)
