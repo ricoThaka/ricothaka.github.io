@@ -8,13 +8,18 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+
+
 ![conker](https://pbs.twimg.com/media/F52w4hGawAAsOc3?format=jpg&name=medium)
 [PlayConKeR](https://arcadespot.com/game/conkers-bad-fur-day/) [RapidMirror](https://www.retrogames.cc/n64-games/conker-s-bad-fur-day-usa.html)
+![PoliceReport](https://pbs.twimg.com/media/F52ug0VagAAhIHM?format=jpg&name=medium)
 ![DistroSea](https://pbs.twimg.com/media/GMC0QOYasAA0Fjm?format=jpg&name=large)
 [DistroSea](https://distrosea.com/) [RelatedTweet](https://x.com/thakasartu/status/1783623802129453301)
 [CustomAndroidRoms](https://x.com/thakasartu/status/1740149560264265979) [CustomAndroid](https://beebom.com/best-custom-roms-android-phones/)
 ![trappedinthedollhouse](https://pbs.twimg.com/media/ChVB6NBWIAAQWLh?format=jpg&name=large)
 [RELATED](https://x.com/kashdoll/status/726559393869889536)
+![whoarethesepeople](https://pbs.twimg.com/media/GBwv6TBbMAAmC-T?format=jpg&name=small)
 ![Ansel](https://pbs.twimg.com/media/FrtKhyPaIAAxQrj?format=jpg&name=medium)
 [VSCO](https://vsco.co/rashardsartu/gallery)
 ![firefox](https://pbs.twimg.com/media/F3_gjFNW8AE3HIj?format=jpg&name=medium)
