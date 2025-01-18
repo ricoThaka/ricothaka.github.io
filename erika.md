@@ -1,6 +1,7 @@
 
 
-
+[https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025)
+[Eaton Fire Leaves California Landscape Charred](https://earthobservatory.nasa.gov/images/153821/eaton-fire-leaves-california-landscape-charred?utm_source=TWITTER&utm_medium=NASAEarth&utm_campaign=NASASocial&linkId=715793698)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/12822137&color=%233098f2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user7684094" title="user7684094" target="_blank" style="color: #cccccc; text-decoration: none;">user7684094</a> · <a href="https://soundcloud.com/user7684094/01-j-rocc-v-j-man" title="01 J Rocc V J Man" target="_blank" style="color: #cccccc; text-decoration: none;">01 J Rocc V J Man</a></div>
 ![LOSANGELES - Library of congress](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17900/6a17974r.jpg)
 ![SantaMonica AugBySea](https://eoimages.gsfc.nasa.gov/images/imagerecords/12000/12383/CAfires_TAS2003298_lrg.jpg)

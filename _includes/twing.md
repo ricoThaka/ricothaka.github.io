@@ -9,10 +9,10 @@ img {
 </style>
 
 
-![thanks_kenny](https://pbs.twimg.com/media/GBwtCkYbIAE1DMh?format=jpg&name=large)
+![thanks_kenny](https://pbs.twimg.com/media/GBwtCkYbIAE1DMh?format=jpg&name=large) [Selamawit Yohannes - Milash (ምላሽ) - Ethiopian Music Video 2015](https://www.youtube.com/watch?v=YulL8DPKSEE)
 ![galileo](https://pbs.twimg.com/media/GeN-QYSaYAAJC0x?format=jpg&name=medium)
 ![conker](https://pbs.twimg.com/media/F52w4hGawAAsOc3?format=jpg&name=medium)
-[PlayConKeR](https://arcadespot.com/game/conkers-bad-fur-day/) [RapidMirror](https://www.retrogames.cc/n64-games/conker-s-bad-fur-day-usa.html)
+[PlayConKeR](https://arcadespot.com/game/conkers-bad-fur-day/) [RapidMirror](https://www.retrogames.cc/n64-games/conker-s-bad-fur-day-usa.html) [twt](https://x.com/thakasartu/status/1675236616539979776)
 ![PoliceReport](https://pbs.twimg.com/media/F52ug0VagAAhIHM?format=jpg&name=medium)
 ![DistroSea](https://pbs.twimg.com/media/GMC0QOYasAA0Fjm?format=jpg&name=large)
 [DistroSea](https://distrosea.com/) [RelatedTweet](https://x.com/thakasartu/status/1783623802129453301)
