@@ -8,6 +8,10 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![DistroSea](https://pbs.twimg.com/media/GMC0QOYasAA0Fjm?format=jpg&name=large)
+[DistroSea](https://distrosea.com/) [RelatedTweet](https://x.com/thakasartu/status/1783623802129453301)
+[CustomAndroidRoms](https://x.com/thakasartu/status/1740149560264265979) [CustomAndroid](https://beebom.com/best-custom-roms-android-phones/)
 ![trappedinthedollhouse](https://pbs.twimg.com/media/ChVB6NBWIAAQWLh?format=jpg&name=large)
 [RELATED](https://x.com/kashdoll/status/726559393869889536)
 ![Ansel](https://pbs.twimg.com/media/FrtKhyPaIAAxQrj?format=jpg&name=medium)
