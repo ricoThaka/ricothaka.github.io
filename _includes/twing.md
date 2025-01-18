@@ -9,7 +9,7 @@ img {
 </style>
 
 
-
+![KASHDOLLNORMANi](https://pbs.twimg.com/media/GeYXYk4aUAE2bGG?format=jpg&name=large)
 ![kashdoll](https://pbs.twimg.com/media/FlfjPlPacAA0ny6?format=jpg&name=medium)
 [trappedinthedollhouse](https://femalerappers.tumblr.com/post/144514181346/kash-dolls-mixtape-trapped-in-the-dollhouse) [NormaniTikTok](https://www.tiktok.com/@normani?lang=en) [KashDollTikTok](https://www.tiktok.com/@kashdoll?lang=en)
 ![sms](https://pbs.twimg.com/media/Fk_3lSdaMAAdxf4?format=jpg&name=large)
