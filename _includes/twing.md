@@ -9,7 +9,7 @@ img {
 </style>
 
 
-
+![latrice](https://pbs.twimg.com/media/GAN3T9VaIAAsgnF?format=jpg&name=medium)
 ![b](https://pbs.twimg.com/media/GfIc6qobUAAq1C1?format=jpg&name=large)
 [https://x.com/BubbleGumPop626/status/1869589209549615199](https://x.com/BubbleGumPop626/status/1869589209549615199)
 ![erika](https://pbs.twimg.com/media/GI0sM2caAAAoFMs?format=jpg&name=large)
