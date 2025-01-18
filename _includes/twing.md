@@ -7,7 +7,7 @@ img {
 .drop {filter: drop-shadow(4px 4px 1px #b71c1c);}
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
-
+![kashdoll](https://pbs.twimg.com/media/FlfjPlPacAA0ny6?format=jpg&name=medium)
 ![sms](https://pbs.twimg.com/media/Fk_3lSdaMAAdxf4?format=jpg&name=large)
 ![whitetwitter](https://pbs.twimg.com/media/Fkrj1a6UoAAQ2fJ?format=jpg&name=large)
 
