@@ -8,6 +8,9 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+![sms](https://pbs.twimg.com/media/Fk_3lSdaMAAdxf4?format=jpg&name=large)
+![whitetwitter](https://pbs.twimg.com/media/Fkrj1a6UoAAQ2fJ?format=jpg&name=large)
+
 ![sfa3](https://pbs.twimg.com/media/F15VllwakAEdOOI?format=jpg&name=medium)
 [relatedtweet](https://x.com/thakasartu/status/1683877539247452160)
 ![HollywoodIce](https://pbs.twimg.com/media/F4HV2pPaEAECMpO?format=jpg&name=large)
