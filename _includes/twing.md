@@ -9,7 +9,7 @@ img {
 </style>
 
 
-
+![thanks_kenny](https://pbs.twimg.com/media/GBwtCkYbIAE1DMh?format=jpg&name=large)
 ![galileo](https://pbs.twimg.com/media/GeN-QYSaYAAJC0x?format=jpg&name=medium)
 ![conker](https://pbs.twimg.com/media/F52w4hGawAAsOc3?format=jpg&name=medium)
 [PlayConKeR](https://arcadespot.com/game/conkers-bad-fur-day/) [RapidMirror](https://www.retrogames.cc/n64-games/conker-s-bad-fur-day-usa.html)
