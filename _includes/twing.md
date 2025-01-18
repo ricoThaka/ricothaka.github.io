@@ -8,6 +8,14 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![CarbonMonoxide](https://pbs.twimg.com/media/GhhtVywacAE-7Ut?format=jpg&name=large)
+
+![MAP](https://pbs.twimg.com/media/GhiJMPdasAA5xjf?format=jpg&name=large)
+[relatedtwt](https://x.com/BubbleGumPop626/status/1880403695441240530) 
+
+
+
 ![Gavin+ELON](https://pbs.twimg.com/media/GhXIc1NbQAAPq8Y?format=jpg&name=900x900)
 [RelatedTweet](https://x.com/RicoThaka/status/1879628924164128949) [NHL_OPEN_ICE:TRY on MAME](https://archive.org/details/arcade_openice) [DOCUMENTARY:Unveiling the Creation of 1995's NHL Open Ice 🕹️👾 | The Drop 🏒](https://youtu.be/TiLchlUVhlY?si=JFlmwYIHpxL_xg9x)
 ![TedRoss_SMART_LA](https://pbs.twimg.com/media/GhTeg4xaUAAv2QG?format=jpg&name=large)
