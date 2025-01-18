@@ -8,6 +8,8 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![linuxCMDandroid](https://pbs.twimg.com/media/Fqqz5xpaAAEh0es?format=png&name=medium)
 ![terminus](https://pbs.twimg.com/media/Fqqz6A4aQAAqFPY?format=jpg&name=medium)
 ![KASHDOLLNORMANi](https://pbs.twimg.com/media/GeYXYk4aUAE2bGG?format=jpg&name=large)
 ![kashdoll](https://pbs.twimg.com/media/FlfjPlPacAA0ny6?format=jpg&name=medium)
