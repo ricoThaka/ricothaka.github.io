@@ -19,6 +19,7 @@ img {
 [trappedinthedollhouse](https://femalerappers.tumblr.com/post/144514181346/kash-dolls-mixtape-trapped-in-the-dollhouse) [NormaniTikTok](https://www.tiktok.com/@normani?lang=en) [KashDollTikTok](https://www.tiktok.com/@kashdoll?lang=en)
 ![sms](https://pbs.twimg.com/media/Fk_3lSdaMAAdxf4?format=jpg&name=large)
 ![whitetwitter](https://pbs.twimg.com/media/Fkrj1a6UoAAQ2fJ?format=jpg&name=large)
+[RelatedTweet](https://x.com/thakasartu/status/1680718203192999936)
 ![MarsBlog](https://pbs.twimg.com/media/GYl-hYTasAALW9G?format=jpg&name=large)
 ![sfa3](https://pbs.twimg.com/media/F15VllwakAEdOOI?format=jpg&name=medium)
 [relatedtweet](https://x.com/thakasartu/status/1683877539247452160)
