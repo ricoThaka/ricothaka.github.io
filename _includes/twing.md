@@ -8,7 +8,7 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+![inout](https://pbs.twimg.com/media/GhMONDqbkAAL95v?format=jpg&name=4096x4096)
 
 ![jpss](https://pbs.twimg.com/media/Ghh0-Ala8AA74NN?format=jpg&name=large)
 [jpss blocked ](https://www.jpss.noaa.gov/viirs.html) [twt](https://x.com/RicoThaka/status/1880381837425672406)
