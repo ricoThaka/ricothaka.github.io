@@ -8,6 +8,13 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+![trappedinthedollhouse](https://pbs.twimg.com/media/ChVB6NBWIAAQWLh?format=jpg&name=large)
+[RELATED](https://x.com/kashdoll/status/726559393869889536)
+![Ansel](https://pbs.twimg.com/media/FrtKhyPaIAAxQrj?format=jpg&name=medium)
+[VSCO](https://vsco.co/rashardsartu/gallery)
+![firefox](https://pbs.twimg.com/media/F3_gjFNW8AE3HIj?format=jpg&name=medium)
+[The Mozilla Manifesto Addendum](https://www.mozilla.org/en-US/about/manifesto/)
+![launchers](https://pbs.twimg.com/media/F0KMmKvaYAAPzha?format=jpg&name=medium)
 ![ebook](https://pbs.twimg.com/media/F1ay61MaUAA1bD7?format=jpg&name=medium)
 ![pkgManagement](https://pbs.twimg.com/media/F1ay7CkaEAAfsTU?format=png&name=medium)
 ![sartu](https://pbs.twimg.com/media/FsYxIfVaAAA85WY?format=jpg&name=medium)
