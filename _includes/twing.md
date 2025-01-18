@@ -11,7 +11,7 @@ img {
 
 
 ![b](https://pbs.twimg.com/media/GfIc6qobUAAq1C1?format=jpg&name=large)
-
+[https://x.com/BubbleGumPop626/status/1869589209549615199](https://x.com/BubbleGumPop626/status/1869589209549615199)
 ![erika](https://pbs.twimg.com/media/GI0sM2caAAAoFMs?format=jpg&name=large)
 ![inout](https://pbs.twimg.com/media/GhMONDqbkAAL95v?format=jpg&name=4096x4096)
 
