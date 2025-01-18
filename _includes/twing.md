@@ -8,9 +8,10 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+![sfa3](https://pbs.twimg.com/media/F15VllwakAEdOOI?format=jpg&name=medium)
+[relatedtweet](https://x.com/thakasartu/status/1683877539247452160)
 ![HollywoodIce](https://pbs.twimg.com/media/F4HV2pPaEAECMpO?format=jpg&name=large)
-[Nintendo Holiday Demonstration Programm Training 1993 Promo](https://www.youtube.com/watch?v=SZXaljfzHhA)
+[Nintendo Holiday Demonstration Programm Training 1993 Promo](https://www.youtube.com/watch?v=SZXaljfzHhA) [Steve Jobs Interview - 2/18/1981](https://www.youtube.com/watch?v=DbfejwP1d3c)
 ![Garou](https://pbs.twimg.com/media/F4qPa2jbcAAwpln?format=jpg&name=medium)
 
 ![TRON](https://pbs.twimg.com/media/F52rRZBbcAA27rD?format=jpg&name=medium)
