@@ -9,6 +9,13 @@ img {
 </style>
 
 
+![HollywoodIce](https://pbs.twimg.com/media/F4HV2pPaEAECMpO?format=jpg&name=large)
+[Nintendo Holiday Demonstration Programm Training 1993 Promo](https://www.youtube.com/watch?v=SZXaljfzHhA)
+![Garou](https://pbs.twimg.com/media/F4qPa2jbcAAwpln?format=jpg&name=medium)
+
+![TRON](https://pbs.twimg.com/media/F52rRZBbcAA27rD?format=jpg&name=medium)
+[RelatedTweet](https://x.com/thakasartu/status/1701704556407849251) [ANDROiDiNG-muniwallpaper](https://x.com/thakasartu/status/1696984867014336600) [Androiding MetroLosAngeles](https://x.com/thakasartu/status/1697417969343848854)
+
 ![latrice](https://pbs.twimg.com/media/GAN3T9VaIAAsgnF?format=jpg&name=medium)
 ![b](https://pbs.twimg.com/media/GfIc6qobUAAq1C1?format=jpg&name=large)
 [https://x.com/BubbleGumPop626/status/1869589209549615199](https://x.com/BubbleGumPop626/status/1869589209549615199)
