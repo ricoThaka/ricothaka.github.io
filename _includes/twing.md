@@ -8,9 +8,9 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+![CO2](https://pbs.twimg.com/media/GhhtckNaYAEa1ry?format=jpg&name=medium)
 ![CarbonMonoxide](https://pbs.twimg.com/media/GhhtVywacAE-7Ut?format=jpg&name=large)
-
+[CarbonMonoxide](https://x.com/RicoThaka/status/1880373476550496379)
 ![MAP](https://pbs.twimg.com/media/GhiJMPdasAA5xjf?format=jpg&name=large)
 [relatedtwt](https://x.com/BubbleGumPop626/status/1880403695441240530) 
 
