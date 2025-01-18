@@ -8,7 +8,8 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+![conker](https://pbs.twimg.com/media/F52w4hGawAAsOc3?format=jpg&name=medium)
+[PlayConKeR](https://arcadespot.com/game/conkers-bad-fur-day/) [RapidMirror](https://www.retrogames.cc/n64-games/conker-s-bad-fur-day-usa.html)
 ![DistroSea](https://pbs.twimg.com/media/GMC0QOYasAA0Fjm?format=jpg&name=large)
 [DistroSea](https://distrosea.com/) [RelatedTweet](https://x.com/thakasartu/status/1783623802129453301)
 [CustomAndroidRoms](https://x.com/thakasartu/status/1740149560264265979) [CustomAndroid](https://beebom.com/best-custom-roms-android-phones/)
