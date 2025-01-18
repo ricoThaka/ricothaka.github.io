@@ -8,8 +8,8 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
-
+![ebook](https://pbs.twimg.com/media/F1ay61MaUAA1bD7?format=jpg&name=medium)
+![pkgManagement](https://pbs.twimg.com/media/F1ay7CkaEAAfsTU?format=png&name=medium)
 ![sartu](https://pbs.twimg.com/media/FsYxIfVaAAA85WY?format=jpg&name=medium)
 ![Launchers](https://pbs.twimg.com/media/FsYxGsWaEAQ8nPc?format=jpg&name=medium)
 ![linuxCMDandroid](https://pbs.twimg.com/media/Fqqz5xpaAAEh0es?format=png&name=medium)
