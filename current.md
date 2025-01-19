@@ -5,7 +5,8 @@
 [The Palisades Fire’s Footprint](https://earthobservatory.nasa.gov/images/153831/the-palisades-fires-footprint)
 ![PalisadesFire](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153831/lafires_oli2_20250114.jpg)
 ![Troposphere](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153838/lafires_tempo_20250106.jpg)
-
+[![Twitter Follow](https://img.shields.io/badge/Social-realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/realDonaldTrump) 
+[![Twitter Follow](https://img.shields.io/badge/Social-GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/GavinNewsom)
 ### [Rhythm Roulette: 9th Wonder | Mass Appeal](https://youtu.be/-5wwEu_8KsY?si=gkXaIh6KI5sHjeFz)
 [https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025)
 [Eaton Fire Leaves California Landscape Charred](https://earthobservatory.nasa.gov/images/153821/eaton-fire-leaves-california-landscape-charred?utm_source=TWITTER&utm_medium=NASAEarth&utm_campaign=NASASocial&linkId=715793698)
