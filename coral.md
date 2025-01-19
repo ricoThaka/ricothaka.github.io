@@ -13,7 +13,7 @@
 {% endfor %}
 
 </div>
-
+![π](https://archive.org/download/rr-sega-mega-cd/sega%20mega%20cd.jpg)
 [hazardmap](https://sedac.ciesin.columbia.edu/mapping/hazards/#) [DATATOOLS](https://www.earthdata.nasa.gov/data/tools)
 ![Gavin+ELON](https://pbs.twimg.com/media/GhXIc1NbQAAPq8Y?format=jpg&name=900x900)
 [RelatedTweet](https://x.com/RicoThaka/status/1879628924164128949) [NHL_OPEN_ICE:TRY on MAME](https://archive.org/details/arcade_openice) [DOCUMENTARY:Unveiling the Creation of 1995's NHL Open Ice 🕹️👾 | The Drop 🏒](https://youtu.be/TiLchlUVhlY?si=JFlmwYIHpxL_xg9x)
