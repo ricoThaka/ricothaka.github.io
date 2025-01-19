@@ -7,6 +7,11 @@
 ![Troposphere](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153838/lafires_tempo_20250106.jpg)
 [![Twitter Follow](https://img.shields.io/badge/Social-realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/realDonaldTrump) 
 [![Twitter Follow](https://img.shields.io/badge/Social-GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/GavinNewsom)
+![t](https://pbs.twimg.com/media/GhsOC3vbwAAbnR6?format=jpg&name=medium)
+
+# NASA Maps California Drought Effects on Sierra Trees 
+![drought](https://d2pn8kiwq2w21t.cloudfront.net/images/imagesearth20160627bPIA20717-16.width-1024.jpg)
+
 ### [Rhythm Roulette: 9th Wonder | Mass Appeal](https://youtu.be/-5wwEu_8KsY?si=gkXaIh6KI5sHjeFz)
 [https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025)
 [Eaton Fire Leaves California Landscape Charred](https://earthobservatory.nasa.gov/images/153821/eaton-fire-leaves-california-landscape-charred?utm_source=TWITTER&utm_medium=NASAEarth&utm_campaign=NASASocial&linkId=715793698)
