@@ -8,7 +8,15 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+![MARS](https://pbs.twimg.com/media/Gh2dnI_aYAEW23F?format=jpg&name=large)
+@blackgirlscode @normani yall can look at [Mars Like This! BigScreenShit!](https://eyes.nasa.gov/apps/mrn/#/mars?target=MRO&range=near&time=2025-021T22:35:34.815)
 
+![MRO](https://pbs.twimg.com/media/Gh2cxjeasAAFkbV?format=jpg&name=large)
+[RELATEDTWEET](https://x.com/RicoThaka/status/1881833616982020317) @whitehouse @nasa @nasa-jpl 
+
+![Jan21](https://pbs.twimg.com/media/Gh1oYFhacAAwP25?format=jpg&name=medium)
+[RELATEDTWEET](https://x.com/RicoThaka/status/1881776470907076747)
+[LOS ANGELES FiRE - ALTADENA RecoVery](https://x.com/RicoThaka/status/1881844750090928486)
 ![thanks_kenny](https://pbs.twimg.com/media/GBwtCkYbIAE1DMh?format=jpg&name=large) [Selamawit Yohannes - Milash (ምላሽ) - Ethiopian Music Video 2015](https://www.youtube.com/watch?v=YulL8DPKSEE)
 ![galileo](https://pbs.twimg.com/media/GeN-QYSaYAAJC0x?format=jpg&name=medium)
 ![conker](https://pbs.twimg.com/media/F52w4hGawAAsOc3?format=jpg&name=medium)
