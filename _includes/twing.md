@@ -8,6 +8,10 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![LiquidGold](https://pbs.twimg.com/media/GhsGx9kboAAfKe2?format=jpg&name=large)
+[RelatedTwT](https://x.com/RicoThaka/status/1881105019564671358)
+
 ![MARS](https://pbs.twimg.com/media/Gh2dnI_aYAEW23F?format=jpg&name=large)
 @blackgirlscode @normani yall can look at [Mars Like This! BigScreenShit!](https://eyes.nasa.gov/apps/mrn/#/mars?target=MRO&range=near&time=2025-021T22:35:34.815)
 
