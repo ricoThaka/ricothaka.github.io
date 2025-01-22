@@ -8,7 +8,8 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
-
+![DTLA](https://pbs.twimg.com/media/Gh2sKqcaAAAoHQm?format=jpg&name=medium)
+[Rela](https://x.com/RicoThaka/status/1881852281920086077)
 ![LiquidGold](https://pbs.twimg.com/media/GhsGx9kboAAfKe2?format=jpg&name=large)
 [RelatedTwT](https://x.com/RicoThaka/status/1881105019564671358)
 [Foster](https://x.com/RicoThaka/status/1881108788264177756)
