@@ -47,7 +47,7 @@ In order to have access to shared storage (/sdcard or /storage/emulated/0), Term
 [![Twitter Follow](https://img.shields.io/badge/Social-realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/realDonaldTrump) 
 [![Twitter Follow](https://img.shields.io/badge/Social-GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/GavinNewsom)
 ![t](https://pbs.twimg.com/media/GhsOC3vbwAAbnR6?format=jpg&name=medium)
-
+![curl](https://upload.wikimedia.org/wikipedia/commons/8/8a/Curl-logo.svg)
 # NASA Maps California Drought Effects on Sierra Trees 
 ![drought](https://d2pn8kiwq2w21t.cloudfront.net/images/imagesearth20160627bPIA20717-16.width-1024.jpg)
 
