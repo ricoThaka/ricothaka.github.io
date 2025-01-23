@@ -8,7 +8,7 @@
 Panoply plots geo-referenced and other arrays from [netCDF](https://www.unidata.ucar.edu/software/netcdf/), [HDF](https://en.wikipedia.org/wiki/Hierarchical_Data_Format), [GRIB](https://community.wmo.int/en/activity-areas/wis/grib-edition-1), and other datasets.
 
 Panoply is a cross-platform application that runs on Macintosh, Windows, Linux and other desktop computers. Panoply requires that your computer has have had a compatible Java 11 (or later version) JRE or JDK installed.
-
+[A quick tour of netCDF data - Argis](https://pro.arcgis.com/en/pro-app/latest/help/data/multidimensional/a-quick-tour-of-netcdf-data.htm)
 ![HDF](https://upload.wikimedia.org/wikipedia/commons/6/65/HDF_logo_%282017%29.svg)
 [GOES-VieWR-WEATHER](https://www.star.nesdis.noaa.gov/goes/index.php)
 ![TELSTAR](https://nssdc.gsfc.nasa.gov/planetary/image/telstar_1.jpg)
