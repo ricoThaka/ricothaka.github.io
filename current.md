@@ -39,7 +39,8 @@ In order to have access to shared storage (/sdcard or /storage/emulated/0), Term
 ![EUGENiCS](https://pbs.twimg.com/media/Gh3iYCcaoAAwC2p?format=jpg&name=4096x4096)
 [RelatedTweet](https://x.com/RicoThaka/status/1881909188278018307)
 ![EastCoast](https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/GEOCOLOR/20250230311_GOES16-ABI-eus-GEOCOLOR-2000x2000.jpg)
-![HOT97](https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/ne/GEOCOLOR/20250130326_GOES16-ABI-ne-GEOCOLOR-1200x1200.jpg)
+![HOT97-SHAAKiRAGATHERS](https://solarsystem.nasa.gov/images/casJPGFullS60/W00064211.jpg)
+
 # January 14, 2025 
 [The Palisades Fire’s Footprint](https://earthobservatory.nasa.gov/images/153831/the-palisades-fires-footprint)
 ![PalisadesFire](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153831/lafires_oli2_20250114.jpg)
