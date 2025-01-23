@@ -4,7 +4,8 @@
 
 ![Los Angeles Fires 2025](https://pbs.twimg.com/media/Gh3euE3a4AAt2ob?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1881905119887048732) [Nasa EarthObservatory](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025) 
-
+![PALiSADESFOOTPRiNT](https://pbs.twimg.com/media/Gh3V8lHa0AA1pEl?format=jpg&name=medium)
+[NASA_EARTHOBSERVATORY - The Palisades Fire’s Footprint](https://earthobservatory.nasa.gov/images/153831/the-palisades-fires-footprint) [RelatedTweet](https://x.com/RicoThaka/status/1881895494986895736) 
 <video controls preload="none"   width="100%" height="auto" poster="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg">
     
 <source src="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4" type="video/mp4" />
@@ -16,6 +17,10 @@
 
 ![3dSUN](https://pbs.twimg.com/media/GdFzqLlagAEzrn_?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1860395564120309861)
+![Now Orbiting MArs](https://pbs.twimg.com/media/Gh2dnI_aYAEW23F?format=jpg&name=large)
+
+[Now Orbiting MArs](https://eyes.nasa.gov/apps/mrn/#/mars?target=MRO&range=near&time=2025-021T22:35:34.815) [RelatedTweet](https://x.com/RicoThaka/status/1881833616982020317)
+
 ![AreoSolOpticalDepth](https://pbs.twimg.com/media/Gh7BXzaasAAuT9J?format=jpg&name=medium)
 ![EUGENiCS](https://pbs.twimg.com/media/Gh3iYCcaoAAwC2p?format=jpg&name=4096x4096)
 [RelatedTweet](https://x.com/RicoThaka/status/1881909188278018307)
