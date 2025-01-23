@@ -8,6 +8,13 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+![HelioPhysics](https://pbs.twimg.com/media/GdFzqLlagAEzrn_?format=jpg&name=large)
+![DOS_SSF2t](https://pbs.twimg.com/media/Gh7CW57bgAAnVSM?format=png&name=medium)
+![Win95](https://pbs.twimg.com/media/Gh7HFHHbwAIe-QB?format=png&name=medium)
+![DOS](https://pbs.twimg.com/media/Gh7HFHEaMAAVr9M?format=png&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1882160690858958887)
+![Artifacts_RetroArch_JPG](https://pbs.twimg.com/media/Gh7CW55aIAAdZA2?format=jpg&name=medium)
+[RelatedTweeT](https://x.com/RicoThaka/status/1882156673227501885)
 ![DTLA](https://pbs.twimg.com/media/Gh2sKqcaAAAoHQm?format=jpg&name=medium)
 [Rela](https://x.com/RicoThaka/status/1881852281920086077)
 ![LiquidGold](https://pbs.twimg.com/media/GhsGx9kboAAfKe2?format=jpg&name=large)
