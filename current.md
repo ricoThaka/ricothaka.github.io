@@ -19,8 +19,19 @@
 [RelatedTweet](https://x.com/RicoThaka/status/1860395564120309861)
 ![Now Orbiting MArs](https://pbs.twimg.com/media/Gh2dnI_aYAEW23F?format=jpg&name=large)
 
-[Now Orbiting MArs](https://eyes.nasa.gov/apps/mrn/#/mars?target=MRO&range=near&time=2025-021T22:35:34.815) [RelatedTweet](https://x.com/RicoThaka/status/1881833616982020317)
+[Now Orbiting MArs](https://eyes.nasa.gov/apps/mrn/#/mars?target=MRO&range=near&time=2025-021T22:35:34.815) [RelatedTweet](https://x.com/RicoThaka/status/1881833616982020317) [ elNino - Nasa Worldview 2024 DEC 01 To 2025 JAN 06](https://archive.org/details/nasa-worldview-2024-dec-01-to-2025-jan-06)
 
+# Termux-setup-storage
+In order to have access to shared storage (/sdcard or /storage/emulated/0), Termux needs a storage access permission. It is not granted by default and is not requested on application startup since it is not necessary for normal application functioning. - [wiki.termux.com](https://wiki.termux.com/wiki/Termux-setup-storage)
+
+<video controls preload="none"   width="100%" height="700" poster="https://pbs.twimg.com/media/Gh8txRHaIAAxzXY?format=png&name=small">
+    
+<source src="https://ia800104.us.archive.org/9/items/screen-20250121-030005/screen-20250120-203902.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://ia800104.us.archive.org/9/items/screen-20250121-030005/screen-20250120-203902.mp4">mp4</a>
+        video.
+</video> 
 
 ![Protest](https://pbs.twimg.com/media/Gh2sKqcaAAAoHQm?format=jpg&name=medium) [RelatedTweet](https://x.com/RicoThaka/status/1881849528003043594)
 [RelatedTweet](https://x.com/BubbleGumPop510/status/1881494388809089478)
