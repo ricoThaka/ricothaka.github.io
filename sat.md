@@ -1,5 +1,15 @@
 
 
+
+![NETCDFViEWER](https://www.giss.nasa.gov/tools/panoply/gfx/panoply_500_1440x960.png)
+
+## Panoply netCDF, HDF and GRIB Data Viewer
+### panoply \PAN-uh-plee\, noun: 1. A splendid or impressive array. ...
+Panoply plots geo-referenced and other arrays from [netCDF](https://www.unidata.ucar.edu/software/netcdf/), [HDF](https://en.wikipedia.org/wiki/Hierarchical_Data_Format), [GRIB](https://community.wmo.int/en/activity-areas/wis/grib-edition-1), and other datasets.
+
+Panoply is a cross-platform application that runs on Macintosh, Windows, Linux and other desktop computers. Panoply requires that your computer has have had a compatible Java 11 (or later version) JRE or JDK installed.
+
+![HDF](https://upload.wikimedia.org/wikipedia/commons/6/65/HDF_logo_%282017%29.svg)
 [GOES-VieWR-WEATHER](https://www.star.nesdis.noaa.gov/goes/index.php)
 ![TELSTAR](https://nssdc.gsfc.nasa.gov/planetary/image/telstar_1.jpg)
 [AT&T Archives: Telstar!](https://www.youtube.com/watch?v=uKH-GijnAGk&t=4s) 
