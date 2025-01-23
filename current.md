@@ -1,6 +1,9 @@
 
 
+# LoS Angeles Fires 2025
 
+![Los Angeles Fires 2025](https://pbs.twimg.com/media/Gh3euE3a4AAt2ob?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1881905119887048732) [Nasa EarthObservatory](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025) 
 
 <video controls preload="none"   width="100%" height="auto" poster="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg">
     
