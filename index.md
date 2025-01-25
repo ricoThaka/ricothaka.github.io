@@ -60,6 +60,9 @@ carousels:
 #  <time datetime="{{ site.time | date: '%B %d, %Y' }}">{{ 'now' | date: "%Y" }} </time>
 # {{ site.time | date: '%B %d, %Y' }}
 {{ site.time | date: '%c' }}
+[WATER_TABLE](https://x.com/RicoThaka/status/1883249912495898766)
+[National Water Information System: Mapper](https://maps.waterdata.usgs.gov/mapper/index.html)
+
 
 ![LOOK_AT_DATA_ACCUiSiTiON](https://ecostress.jpl.nasa.gov/logo.png) [ECOSTRESS - LOOK_AT_DATA_ACCUiSiTiON `task`](https://ecostress.jpl.nasa.gov/)
 ![vi](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
