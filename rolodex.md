@@ -1,5 +1,8 @@
 
-![RASHARD](https://pbs.twimg.com/media/GiLiJrabEAALoKf?format=jpg&name=large) [Related](https://x.com/thakasartu/status/1883316592202952912)
+![RASHARD](https://pbs.twimg.com/media/GiLiJrabEAALoKf?format=jpg&name=large) [Related](https://x.com/thakasartu/status/1883316592202952912) 
+
+![WWATER](https://pbs.twimg.com/media/GiKf_-nbMAAPV9z?format=jpg&name=large)
+[FLOODs](https://x.com/RicoThaka/status/1883244406746309089)
 ![Big City Bev](https://pbs.twimg.com/media/GiLmJmCboAI8WE_?format=jpg&name=large)
 [RelatedTweet](https://x.com/thakasartu/status/1883321009740353951) [Related](https://x.com/thakasartu/status/1883319310518718936) [WHereisErika](https://x.com/thakasartu/status/1883318491991982282) [Normani](https://x.com/thakasartu/status/1883317419839791116)
 
