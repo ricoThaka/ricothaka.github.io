@@ -1,5 +1,5 @@
 
-
+[UNIX Programming Enviornment](https://archive.org/details/UnixProgrammingEnviornment/page/n3/mode/2up)
 [NeoGeo Encyclopedia](https://archive.org/download/the-neo-geo-encyclopedia-book/the%20Neo-Geo%20Encyclopedia%20Book.pdf)
 ![m](https://pbs.twimg.com/media/GiKY1WZa4AAAygM?format=jpg&name=large)
 [related](https://x.com/RicoThaka/status/1883247452863832326)
