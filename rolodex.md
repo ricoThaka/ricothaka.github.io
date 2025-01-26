@@ -1,4 +1,4 @@
-
+[The Transistor: a 1953 documentary, anticipating its coming impact on technology](https://www.youtube.com/watch?v=V9xUQWo4vN0)
 [GoogleEARTUh](https://earth.google.com/web/@33.580315,-110.97608,801.86479507a,12784262.40994074d,30y,0h,0t,0r/data=CgRCAggBQgIIAEoICPLTutoEEAA)
 
 ![Earth](https://epic.gsfc.nasa.gov/archive/natural/2025/01/09/jpg/epic_1b_20250109195657.jpg)
