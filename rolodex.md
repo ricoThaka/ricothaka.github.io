@@ -1,3 +1,8 @@
+
+
+![Big City Bev](https://pbs.twimg.com/media/GiLmJmCboAI8WE_?format=jpg&name=large)
+[RelatedTweet](https://x.com/thakasartu/status/1883321009740353951) [Related](https://x.com/thakasartu/status/1883319310518718936) [WHereisErika](https://x.com/thakasartu/status/1883318491991982282)
+
 [The Transistor: a 1953 documentary, anticipating its coming impact on technology](https://www.youtube.com/watch?v=V9xUQWo4vN0) [FREAKNiK on HULU @nasa](https://www.hulu.com/movie/4a430eba-73a7-46fa-bc54-7ccfdbbc2e76?cmp=11932&utm_source=google&utm_medium=SEM&utm_campaign=CM_SEM_Various+Niche+Originals&utm_term=&gad_source=1&gclid=EAIaIQobChMIg_bl946SiwMV8l0PAh2ZBzmoEAAYASAAEgK27fD_BwE&gclsrc=aw.ds)
 [GoogleEARTUh](https://earth.google.com/web/@33.580315,-110.97608,801.86479507a,12784262.40994074d,30y,0h,0t,0r/data=CgRCAggBQgIIAEoICPLTutoEEAA)
 
