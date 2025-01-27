@@ -27,6 +27,12 @@
   <img src="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" alt="Chris standing up holding his daughter Elva" />
 </picture>
 
+<video  controls autoplay>
+  <source src="https://ia902205.us.archive.org/18/items/screen-20250127-031342/screen-20250127-031342.mp4" type="video/mp4">
+  
+  Your browser does not support the video tag.
+</video>
+
 ![FLAC](https://wiki.xiph.org/images/e/e9/FLAC_Logo_Transparent.svg)
 [WATER_TABLE](https://x.com/RicoThaka/status/1883249912495898766)
 # [National Water Information System: Mapper](https://maps.waterdata.usgs.gov/mapper/index.html)
