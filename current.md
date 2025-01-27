@@ -1,5 +1,67 @@
 
 
+![Earth](https://pbs.twimg.com/media/GiF1j4uaUAAqBSc?format=jpg&name=large)
+[Related](https://x.com/BubbleGumPop626/status/1882915417666290042)
+
+<figure>
+  <figcaption>Babylon:OUTKAST_ATLiens</figcaption>
+  <audio controls src="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits/OutKast%20-%20ATLiens%20-%2008%20-%20Babylon.mp3"></audio>
+  <a href="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits/OutKast%20-%20ATLiens%20-%2008%20-%20Babylon.mp3"> Download audio </a>
+</figure>
+
+![SS5](https://pbs.twimg.com/media/F-WC6onaYAASdpW?format=jpg&name=medium)
+![mood](https://pbs.twimg.com/media/GiLh88Kb0AAHt7f?format=jpg&name=medium)
+[Related](https://x.com/thakasartu/status/1883316255337435418) [Related](https://x.com/thakasartu/status/1883317419839791116)
+[RelatedTweet](https://x.com/RicoThaka/status/1883963513389080963) [RelatedTweet](https://x.com/RicoThaka/status/1883958827730735173)
+![FloodDanger](https://pbs.twimg.com/media/GiUuRgKaYAEiOqz?format=jpg&name=large)
+![FloodHazard](https://pbs.twimg.com/media/GiUuRc-aYAMSCkv?format=jpg&name=large)
+<h1 itemscope itemtype="https://schema.org/MusicGroup" itemprop="name" > 
+
+[OutKast - ATLiens](https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits) 25th Anniversary Edition  [FLAC 24 Bits](https://xiph.org/flac/) </h1>
+
+<iframe src="https://archive.org/embed/outkast-atliens-25th-anniversary-edition-flac-24-bits" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<picture itemprop="album" itemscope itemtype="https://schema.org/MusicRecording">
+  <source media="(width: 100%)" srcset="https://i.discogs.com/huWj20LMWJ4H4K3WaH3Fu5_rdl-2H1zHX1hcpjYmQD4/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU1/MzYtMTY5MTEzMDQ5/Ni03OTk2LmpwZWc.jpeg" />
+  <source media="(width: 100%)" srcset="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" />
+  <img src="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" alt="Chris standing up holding his daughter Elva" />
+</picture>
+
+![FLAC](https://wiki.xiph.org/images/e/e9/FLAC_Logo_Transparent.svg)
+[WATER_TABLE](https://x.com/RicoThaka/status/1883249912495898766)
+# [National Water Information System: Mapper](https://maps.waterdata.usgs.gov/mapper/index.html)
+![m](https://pbs.twimg.com/media/GiKlnO6aAAAQZf2?format=jpg&name=small) 
+
+### Time Averaged Map of Irrigated water rate daily 0.125 deg. [NCA-LDAS Model NCALDAS_NOAH0125_D v2.0] kg m-2 s-1
+over 1979-01-02 00:00:00Z - 2017-01-01 00:00:00Z 
+![USA](https://pbs.twimg.com/media/GiUl-WubsAAGlZ5?format=jpg&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1883953960341626910)
+
+
+![secretofmana](https://pbs.twimg.com/media/GiUS7hSaMAAdXHT?format=jpg&name=medium)
+![Madden](https://pbs.twimg.com/media/GiUS7hWaYAAB5MW?format=jpg&name=medium)
+![JackieChan](https://pbs.twimg.com/media/GiQq-A0aIAAeAHC?format=jpg&name=medium)
+![JackieChan](https://pbs.twimg.com/media/GiQq-AzbAAEGP_2?format=jpg&name=medium)
+![ELON-DOGE](https://pbs.twimg.com/media/GiQKZ7YakAAKEpJ?format=jpg&name=large)
+![DoGE @spacex](https://pbs.twimg.com/media/GiQKngKa0AAF-U2?format=png&name=900x900)
+![DOGE](https://pbs.twimg.com/media/GiQJZIaagAAueHc?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1883640877102628879)
+![Bubblegumpop01](https://pbs.twimg.com/media/GiLCN0basAAiOpx?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1883283292105093559)
+![Elnino](https://pbs.twimg.com/media/GiFzwl4b0AEuPEw?format=jpg&name=large)
+[RelatedTweet](https://x.com/BubbleGumPop626/status/1882913405801263331)
+
+
+
+# [DOE Explains...Atmospheric Rivers](https://www.energy.gov/science/doe-explainsatmospheric-rivers#:~:text=Atmospheric%20rivers%20are%20large%2C%20narrow,atmospheric%20rivers%20at%20any%20time.)
+
+[Biological and Environmental Research](https://www.energy.gov/science/ber/biological-and-environmental-research) [What are atmospheric rivers?](https://www.noaa.gov/media/image_download/1288544a-c014-4256-ba6a-57551c7c5967)
+![DOE Explains...Atmospheric Rivers](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2024-07/doe-explains-atmospheric-rivers.png?itok=e6go6sKZ)
+
+![AtmosphereicRiver](https://pbs.twimg.com/media/GiUuRbaaYAATJmf?format=jpg&name=large)
+
+![LOOK_AT_DATA_ACCUiSiTiON](https://ecostress.jpl.nasa.gov/logo.png) [ECOSTRESS - LOOK_AT_DATA_ACCUiSiTiON `task`](https://ecostress.jpl.nasa.gov/)
+![vi](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
 ## Panoply netCDF, HDF and GRIB Data Viewer
 ![NETCDFViEWER](https://www.giss.nasa.gov/tools/panoply/gfx/panoply_500_1440x960.png)
 
@@ -18,7 +80,7 @@ By @NASA - <a rel="nofollow" class="external free" href="https://photojournal.jp
 
 # ### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
 ![HDF](https://upload.wikimedia.org/wikipedia/commons/6/65/HDF_logo_%282017%29.svg)
-
+![WAKUWAKU](https://ia800106.us.archive.org/30/items/progit_202412/Screenshot_20241223-095723.png)
 [https://github.com/ricoThaka/legacy-mars-global-climate-model]
 # [gfortran — the GNU Fortran compiler, part of GCC](https://gcc.gnu.org/wiki/GFortran) Gfortran is the name of the GNU Fortran project, developing a free Fortran 95/2003/2008/2018 compiler for GCC
 
@@ -41,7 +103,7 @@ Program Hello
   print *, 'Hello, World!'
 end program Hello
 ```
-
+![ll](https://pbs.twimg.com/media/GhA3LA8WsAAUVZS?format=jpg&name=medium)
 # LoS Angeles Fires 2025
 
 ![Los Angeles Fires 2025](https://pbs.twimg.com/media/Gh3euE3a4AAt2ob?format=jpg&name=large)

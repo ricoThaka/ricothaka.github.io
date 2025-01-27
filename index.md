@@ -61,29 +61,6 @@ carousels:
 # {{ site.time | date: '%B %d, %Y' }}
 {{ site.time | date: '%c' }}
 
-
-<h1 itemscope itemtype="https://schema.org/MusicGroup" itemprop="name" > 
-
-[OutKast - ATLiens](https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits) 25th Anniversary Edition  [FLAC 24 Bits](https://xiph.org/flac/) </h1>
-
-<iframe src="https://archive.org/embed/outkast-atliens-25th-anniversary-edition-flac-24-bits" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-<picture itemprop="album" itemscope itemtype="https://schema.org/MusicRecording">
-  <source media="(width: 100%)" srcset="https://i.discogs.com/huWj20LMWJ4H4K3WaH3Fu5_rdl-2H1zHX1hcpjYmQD4/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU1/MzYtMTY5MTEzMDQ5/Ni03OTk2LmpwZWc.jpeg" />
-  <source media="(width: 100%)" srcset="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" />
-  <img src="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" alt="Chris standing up holding his daughter Elva" />
-</picture>
-
-![FLAC](https://wiki.xiph.org/images/e/e9/FLAC_Logo_Transparent.svg)
-
-
-[WATER_TABLE](https://x.com/RicoThaka/status/1883249912495898766)
-# [National Water Information System: Mapper](https://maps.waterdata.usgs.gov/mapper/index.html)
-![m](https://pbs.twimg.com/media/GiKlnO6aAAAQZf2?format=jpg&name=small) 
-
-
-![LOOK_AT_DATA_ACCUiSiTiON](https://ecostress.jpl.nasa.gov/logo.png) [ECOSTRESS - LOOK_AT_DATA_ACCUiSiTiON `task`](https://ecostress.jpl.nasa.gov/)
-![vi](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
 # Currently Compling g_e, m/s^2
 {% include_relative current.md %}
 ![TELSTAR](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1962-029A)
