@@ -23,14 +23,14 @@
 
 <iframe itemscope itemtype="https://schema.org/AudioObject" src="https://archive.org/embed/outkast-atliens-25th-anniversary-edition-flac-24-bits" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<picture itemprop="album" itemscope itemtype="https://schema.org/MusicRecording">
+<picture itemscope itemtype="https://schema.org/MusicRecording">
   <source itemscope itemtype="https://schema.org/AudioObject" media="(width: 100%)" srcset="https://i.discogs.com/huWj20LMWJ4H4K3WaH3Fu5_rdl-2H1zHX1hcpjYmQD4/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU1/MzYtMTY5MTEzMDQ5/Ni03OTk2LmpwZWc.jpeg" />
   <source media="(width: 100%)" srcset="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" />
   <img src="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" alt="Chris standing up holding his daughter Elva" />
 </picture>
 
 <video  controls >
-  <source src="https://ia902205.us.archive.org/18/items/screen-20250127-031342/screen-20250127-031342.mp4" type="video/mp4">
+  <source src="https://ia902205.us.archive.org/18/items/screen-20250127-031342/screen-20250127-031342.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
 </video>
