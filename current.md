@@ -4,9 +4,9 @@
 ![Earth](https://pbs.twimg.com/media/GiF1j4uaUAAqBSc?format=jpg&name=large)
 [Related](https://x.com/BubbleGumPop626/status/1882915417666290042)
 
-<figure>
+<figure itemscope itemtype="https://schema.org/AudioObject">
   <figcaption>Babylon:OUTKAST_ATLiens</figcaption>
-  <audio controls src="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits/OutKast%20-%20ATLiens%20-%2008%20-%20Babylon.mp3"></audio>
+  <audio controls src="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits/OutKast%20-%20ATLiens%20-%2008%20-%20Babylon.mp3"  itemprop="contentUrl"></audio>
   <a href="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits/OutKast%20-%20ATLiens%20-%2008%20-%20Babylon.mp3"> Download audio </a>
 </figure>
 
@@ -17,19 +17,19 @@
 ![FloodDanger](https://pbs.twimg.com/media/GiUuRgKaYAEiOqz?format=jpg&name=large)
 ![FloodHazard](https://pbs.twimg.com/media/GiUuRc-aYAMSCkv?format=jpg&name=large)
 
-<h itemscope itemtype="https://schema.org/MusicGroup" itemprop="name" markdown="1" > 
+<h1 itemscope itemtype="https://schema.org/MusicGroup" itemprop="name" > 
 
-[OutKast - ATLiens](https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits) 25th Anniversary Edition  [FLAC 24 Bits](https://xiph.org/flac/) </h1>
+<a itemscope itemtype="https://schema.org/AudioObject" href="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits" alt="25th Anniversary Edition">OutKast - ATLiens</a>  <a href="https://xiph.org/flac/" >[FLAC 24 Bits]</a> </h1>
 
-<iframe src="https://archive.org/embed/outkast-atliens-25th-anniversary-edition-flac-24-bits" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe itemscope itemtype="https://schema.org/AudioObject" src="https://archive.org/embed/outkast-atliens-25th-anniversary-edition-flac-24-bits" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <picture itemprop="album" itemscope itemtype="https://schema.org/MusicRecording">
-  <source media="(width: 100%)" srcset="https://i.discogs.com/huWj20LMWJ4H4K3WaH3Fu5_rdl-2H1zHX1hcpjYmQD4/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU1/MzYtMTY5MTEzMDQ5/Ni03OTk2LmpwZWc.jpeg" />
+  <source itemscope itemtype="https://schema.org/AudioObject" media="(width: 100%)" srcset="https://i.discogs.com/huWj20LMWJ4H4K3WaH3Fu5_rdl-2H1zHX1hcpjYmQD4/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU1/MzYtMTY5MTEzMDQ5/Ni03OTk2LmpwZWc.jpeg" />
   <source media="(width: 100%)" srcset="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" />
   <img src="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" alt="Chris standing up holding his daughter Elva" />
 </picture>
 
-<video  controls autoplay>
+<video  controls >
   <source src="https://ia902205.us.archive.org/18/items/screen-20250127-031342/screen-20250127-031342.mp4" type="video/mp4">
   
   Your browser does not support the video tag.
