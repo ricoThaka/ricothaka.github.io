@@ -5,7 +5,8 @@
 
 
 
-[RelatedTweet](https://x.com/RicoThaka/status/1884060535731486825)
+[RelatedTweet](https://x.com/RicoThaka/status/1884060535731486825) [DroughtMonitor](https://droughtmonitor.unl.edu/CurrentMap.aspx)
+
 # GRACE and GRACE-FO track California's land water changes
 
 [MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET](https://x.com/RicoThaka/status/1882498520122548642)
