@@ -1,11 +1,18 @@
 
 
 
+# Reductions in Pollution Associated with Decreased Fossil Fuel Use Resulting from COVID-19 Mitigation
+**Released** Friday, April 24, 2020
+>Written by: [Bryan Duncan](https://svs.gsfc.nasa.gov/search/?people=Bryan%20Duncan)
+Over the past several weeks, the United States has seen significant reductions in air pollution over its major metropolitan areas. Similar reductions in air pollution have been observed in other regions of the world. [READMORE **Released** Friday, April 24, 2020](https://svs.gsfc.nasa.gov/4810/#media_group_320045)
+![LOS ANGELES](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/no2-LA.gif)
+![CALiFORNiA](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/los_angeles_w_cities_2015_2019_print.jpg)
 
 
-
-
-[RelatedTweet](https://x.com/RicoThaka/status/1884060535731486825) [DroughtMonitor](https://droughtmonitor.unl.edu/CurrentMap.aspx)
+![Georgia](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/SE_image_2015_2019_w_cities_print.jpg)
+![molecul;es](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/cbar_NO2_2019_white_text.png)
+![DroughtMon](https://pbs.twimg.com/media/GiWG1hjbMAA55ug?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1884060535731486825) [DroughtMonitor - CURRENT_MAP - CLiCK HERE!](https://droughtmonitor.unl.edu/CurrentMap.aspx) [California Reservoirs Rise from Drought to Deluge](https://earthobservatory.nasa.gov/images/90062/california-reservoirs-rise-from-drought-to-deluge)
 
 # GRACE and GRACE-FO track California's land water changes
 
