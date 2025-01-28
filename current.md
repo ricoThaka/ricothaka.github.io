@@ -17,6 +17,11 @@ Credit
 NASA / JPL
 
 
+<video  controls >
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/bio4sos.4096x2048p30.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
 
 
 [RelatedTweet](https://x.com/RicoThaka/status/1884022696700436660)
@@ -24,11 +29,6 @@ By monitoring the color of reflected light via satellite, scientists can determi
 
 ![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/ndvi_cbar.png)
 
-<video  controls >
-  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/bio4sos.4096x2048p30.mp4" type="video/mp4" />
-  
-  Your browser does not support the video tag.
-</video>
 
 
 # Science On a Sphere: 4 Years of Biosphere
