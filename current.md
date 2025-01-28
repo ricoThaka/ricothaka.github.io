@@ -1,4 +1,11 @@
 
+
+
+
+
+
+
+[RelatedTweet](https://x.com/RicoThaka/status/1884060535731486825)
 # GRACE and GRACE-FO track California's land water changes
 
 [MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET](https://x.com/RicoThaka/status/1882498520122548642)
@@ -84,7 +91,7 @@ over 1979-01-02 00:00:00Z - 2017-01-01 00:00:00Z
 ![USA](https://pbs.twimg.com/media/GiUl-WubsAAGlZ5?format=jpg&name=medium)
 [RelatedTweet](https://x.com/RicoThaka/status/1883953960341626910)
 
-
+![jupiterNASAWEBB](https://stsci-opo.org/STScI-01HCX1B69H5ZEF6S18S0F6PM1V.png)
 ![secretofmana](https://pbs.twimg.com/media/GiUS7hSaMAAdXHT?format=jpg&name=medium)
 ![Madden](https://pbs.twimg.com/media/GiUS7hWaYAAB5MW?format=jpg&name=medium)
 ![JackieChan](https://pbs.twimg.com/media/GiQq-A0aIAAeAHC?format=jpg&name=medium)
