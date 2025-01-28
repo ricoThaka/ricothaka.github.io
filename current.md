@@ -11,30 +11,16 @@
 
 NASA’s Gravity Recovery and Climate Experiment (GRACE, 2002 - 2017) mission, and its successor GRACE Follow-On (launched in 2018), map month-to-month changes in Earth's gravity field resulting from the movement of mass, such as water, near the surface of the planet. This animation shows how the total amount of water (snow, surface water, soil moisture, and groundwater) varies in space and time, with the passage of dry seasons and wet seasons as well as with flooding, drought, and transport due to water management. Blue colors represent wetter than average conditions (relative to 2004-2010), while red colors represent drier than average conditions. The yellow line in the graph on the left shows the evolution of the long-term inter-annual variations for the area outlined in yellow on the map (note: the average seasonal cycle has been removed).
 
-The Sacramento and San Joaquin River basins are outlined [in](https://grace.jpl.nasa.gov/resources/21/occultmov/) yellow, and rivers and tributaries are shown as blue lines. The basins include California's Central Valley, the most productive agricultural region in the U.S. Repeated drought conditions and increased water use in California have led to a long-term decline of terrestrial water, interspersed with above-average precipitation periods (e.g., 2015/2016, 2022/2023) that have allowed some recovery of the land water storage.
+The Sacramento and [San Joaquin River](https://www.jpl.nasa.gov/images/pia24691-sacramento-san-joaquin-river-delta-ca/) [basins](https://eoimages.gsfc.nasa.gov/images/imagerecords/8000/8235/sacramento_ast_2006120_lrg.jpg) are outlined [in](https://grace.jpl.nasa.gov/resources/21/occultmov/) yellow, and rivers and tributaries are shown as blue lines. The basins include California's Central Valley, the most productive agricultural region in the U.S. Repeated drought conditions and increased water use in California have led to a long-term decline of terrestrial water, interspersed with above-average precipitation periods (e.g., 2015/2016, 2022/2023) that have allowed some recovery of the land water storage.
 
 Credit
 NASA / JPL
 
-
-<video  controls >
-  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/bio4sos.4096x2048p30.mp4" type="video/mp4" />
-  
-  Your browser does not support the video tag.
-</video>
-
-
-[RelatedTweet](https://x.com/RicoThaka/status/1884022696700436660)
-By monitoring the color of reflected light via satellite, scientists can determine how successfully plant life is photosynthesizing. A measurement of photosynthesis is essentially a measurement of successful growth, and growth means successful use of ambient carbon. This data visualization represents four years' worth of data taken primarily by Suomi NPP/VIIRS satellite sensors, showing the abundance of life both on land and in the sea[READMORE](https://svs.gsfc.nasa.gov/5474/)
-
-![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/ndvi_cbar.png)
-
-
+![ASTER ](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA24691.jpg)
 
 # Science On a Sphere: 4 Years of Biosphere
 [RelatedTweet](https://x.com/RicoThaka/status/1884022696700436660)
 By monitoring the color of reflected light via satellite, scientists can determine how successfully plant life is photosynthesizing. A measurement of photosynthesis is essentially a measurement of successful growth, and growth means successful use of ambient carbon. This data visualization represents four years' worth of data taken primarily by Suomi NPP/VIIRS satellite sensors, showing the abundance of life both on land and in the sea[READMORE](https://svs.gsfc.nasa.gov/5474/)
-
 ![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/ndvi_cbar.png)
 
 <video  controls >
@@ -44,6 +30,12 @@ By monitoring the color of reflected light via satellite, scientists can determi
 </video>
 
 ![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/chloro_cbar.png)
+![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/ndvi_cbar.png)
+
+
+
+
+
 
 # SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS @nasa @blackgirlscode @nasa-jpl @whitehouse
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=2fyjp_ZlRTUFmPxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
