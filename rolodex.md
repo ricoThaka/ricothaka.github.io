@@ -1,7 +1,7 @@
 
 # RoSe Pocahantas
 ![SteveHArvey](https://pbs.twimg.com/media/Giaf8w7bgAAn4Hg?format=jpg&name=large)
-
+[RelatedTweet](https://x.com/thakasartu/status/1884369895967932640) [RelatedInfo](https://hotspotatl.com/)
 [UNIX Programming Enviornment](https://archive.org/details/UnixProgrammingEnviornment/page/n3/mode/2up)
 [NeoGeo Encyclopedia](https://archive.org/download/the-neo-geo-encyclopedia-book/the%20Neo-Geo%20Encyclopedia%20Book.pdf)
 ![m](https://pbs.twimg.com/media/GiKY1WZa4AAAygM?format=jpg&name=large)
