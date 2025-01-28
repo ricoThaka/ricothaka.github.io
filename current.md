@@ -1,4 +1,13 @@
+# Nitrogen Dioxide over the Continental US and Los Angeles
 
+ Upon zooming into Southern California, finer details of pollution gradients are clearly visible over the Los Angeles/San Diego region. Here the concentration of NO2 is shown in shades of light blue to dark pink/purple indicating values ranging from low to high [by CindyStarr](https://svs.gsfc.nasa.gov/search/?people=Cindy%20Starr)
+
+
+<video  controls >
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005132/CONUS_LA_NO2_comp_v0086_1080p60.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
 
 
 # Reductions in Pollution Associated with Decreased Fossil Fuel Use Resulting from COVID-19 Mitigation
