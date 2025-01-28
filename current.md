@@ -1,3 +1,5 @@
+[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
+
 # Nitrogen Dioxide over the Continental US and Los Angeles
 
  Upon zooming into [Southern California](https://www.ca.gov/), finer details of pollution gradients are clearly visible over the [Los Angeles](https://lacounty.gov/)/[San Diego](https://www.sandiegocounty.gov/) region. Here the concentration of [NO2](https://so2.gsfc.nasa.gov/no2/no2_index.html) is shown in shades of light blue to dark pink/purple indicating values ranging from low to high [by CindyStarr](https://svs.gsfc.nasa.gov/search/?people=Cindy%20Starr)
