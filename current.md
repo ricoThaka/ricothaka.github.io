@@ -1,7 +1,7 @@
 
 # GRACE and GRACE-FO track California's land water changes
 
-[MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET]()
+[MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET](https://x.com/RicoThaka/status/1882498520122548642)
 <video  controls >
   <source src="https://grace.jpl.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dac742eb358a1539ab5b7e1125a3bf91e5348bbc/grace_ca_water_2002-2023_seasonal_2160p.mp4?disposition=inline" type="video/mp4" />
   
