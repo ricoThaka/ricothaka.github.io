@@ -1,9 +1,10 @@
 # Nitrogen Dioxide over the Continental US and Los Angeles
 
- Upon zooming into Southern California, finer details of pollution gradients are clearly visible over the Los Angeles/San Diego region. Here the concentration of NO2 is shown in shades of light blue to dark pink/purple indicating values ranging from low to high [by CindyStarr](https://svs.gsfc.nasa.gov/search/?people=Cindy%20Starr)
+ Upon zooming into [Southern California](https://www.ca.gov/), finer details of pollution gradients are clearly visible over the [Los Angeles](https://lacounty.gov/)/[San Diego](https://www.sandiegocounty.gov/) region. Here the concentration of [NO2](https://so2.gsfc.nasa.gov/no2/no2_index.html) is shown in shades of light blue to dark pink/purple indicating values ranging from low to high [by CindyStarr](https://svs.gsfc.nasa.gov/search/?people=Cindy%20Starr)
+ [Global Nitrogen Dioxide Monitoring Home Page](https://so2.gsfc.nasa.gov/no2/no2_index.html) @nasa @nasa-jpl @blackgirlscode @normani hi 
 
 
-<video  controls >
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005132/CONUS_LA_NO2_comp_v0086.03000_print.jpg">
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005132/CONUS_LA_NO2_comp_v0086_1080p60.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
