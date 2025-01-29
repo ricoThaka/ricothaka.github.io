@@ -1,0 +1,1088 @@
+[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
+
+# Nitrogen Dioxide over the Continental US and Los Angeles
+
+ Upon zooming into [Southern California](https://www.ca.gov/), finer details of pollution gradients are clearly visible over the [Los Angeles](https://lacounty.gov/)/[San Diego](https://www.sandiegocounty.gov/) region. Here the concentration of [NO2](https://so2.gsfc.nasa.gov/no2/no2_index.html) is shown in shades of light blue to dark pink/purple indicating values ranging from low to high [by CindyStarr](https://svs.gsfc.nasa.gov/search/?people=Cindy%20Starr)
+ [Global Nitrogen Dioxide Monitoring Home Page](https://so2.gsfc.nasa.gov/no2/no2_index.html) @nasa @nasa-jpl @blackgirlscode @normani hi 
+
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005132/CONUS_LA_NO2_comp_v0086.03000_print.jpg">
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005132/CONUS_LA_NO2_comp_v0086_1080p60.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+
+# Reductions in Pollution Associated with Decreased Fossil Fuel Use Resulting from COVID-19 Mitigation
+**Released** Friday, April 24, 2020
+>Written by: [Bryan Duncan](https://svs.gsfc.nasa.gov/search/?people=Bryan%20Duncan)
+Over the past several weeks, the United States has seen significant reductions in air pollution over its major metropolitan areas. Similar reductions in air pollution have been observed in other regions of the world. [READMORE **Released** Friday, April 24, 2020](https://svs.gsfc.nasa.gov/4810/#media_group_320045)
+![LOS ANGELES](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/no2-LA.gif)
+![CALiFORNiA](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/los_angeles_w_cities_2015_2019_print.jpg)
+
+
+![Georgia](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/SE_image_2015_2019_w_cities_print.jpg)
+![molecul;es](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/cbar_NO2_2019_white_text.png)
+![DroughtMon](https://pbs.twimg.com/media/GiWG1hjbMAA55ug?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1884060535731486825) [DroughtMonitor - CURRENT_MAP - CLiCK HERE!](https://droughtmonitor.unl.edu/CurrentMap.aspx) [California Reservoirs Rise from Drought to Deluge](https://earthobservatory.nasa.gov/images/90062/california-reservoirs-rise-from-drought-to-deluge)
+
+# GRACE and GRACE-FO track California's land water changes
+
+[MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET](https://x.com/RicoThaka/status/1882498520122548642)
+<video  controls >
+  <source src="https://grace.jpl.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dac742eb358a1539ab5b7e1125a3bf91e5348bbc/grace_ca_water_2002-2023_seasonal_2160p.mp4?disposition=inline" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+
+NASA’s Gravity Recovery and Climate Experiment (GRACE, 2002 - 2017) mission, and its successor GRACE Follow-On (launched in 2018), map month-to-month changes in Earth's gravity field resulting from the movement of mass, such as water, near the surface of the planet. This animation shows how the total amount of water (snow, surface water, soil moisture, and groundwater) varies in space and time, with the passage of dry seasons and wet seasons as well as with flooding, drought, and transport due to water management. Blue colors represent wetter than average conditions (relative to 2004-2010), while red colors represent drier than average conditions. The yellow line in the graph on the left shows the evolution of the long-term inter-annual variations for the area outlined in yellow on the map (note: the average seasonal cycle has been removed).
+
+The [Sacramento](https://earthobservatory.nasa.gov/images/8235/sacramento-san-joaquin-river-delta) and [San Joaquin River](https://www.jpl.nasa.gov/images/pia24691-sacramento-san-joaquin-river-delta-ca/) [basins](https://eoimages.gsfc.nasa.gov/images/imagerecords/8000/8235/sacramento_ast_2006120_lrg.jpg) are outlined [in](https://grace.jpl.nasa.gov/resources/21/occultmov/) yellow, and rivers and tributaries are shown as blue lines. The basins include California's Central Valley, the most productive agricultural region in the U.S. Repeated drought conditions and increased water use in California have led to a long-term decline of terrestrial water, interspersed with above-average precipitation periods (e.g., 2015/2016, 2022/2023) that have allowed some recovery of the land water storage.
+
+Credit
+NASA / JPL
+
+![ASTER](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA24691.jpg)
+
+# Science On a Sphere: 4 Years of Biosphere
+[RelatedTweet](https://x.com/RicoThaka/status/1884022696700436660)
+By monitoring the color of reflected light via satellite, scientists can determine how successfully plant life is photosynthesizing. A measurement of photosynthesis is essentially a measurement of successful growth, and growth means successful use of ambient carbon. This data visualization represents four years' worth of data taken primarily by Suomi NPP/VIIRS satellite sensors, showing the abundance of life both on land and in the sea[READMORE](https://svs.gsfc.nasa.gov/5474/)
+![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/ndvi_cbar.png)
+
+<video  controls >
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/bio4sos.4096x2048p30.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/chloro_cbar.png)
+![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/ndvi_cbar.png)
+
+
+[Levee Break Floods Central California](https://earthobservatory.nasa.gov/images/13298/levee-break-floods-central-california)
+
+
+
+# SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS @nasa @blackgirlscode @nasa-jpl @whitehouse
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=2fyjp_ZlRTUFmPxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![Earth](https://pbs.twimg.com/media/GiF1j4uaUAAqBSc?format=jpg&name=large)
+[Related](https://x.com/BubbleGumPop626/status/1882915417666290042)
+
+<figure itemscope itemtype="https://schema.org/AudioObject">
+  <figcaption>Babylon:OUTKAST_ATLiens</figcaption>
+  <audio controls src="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits/OutKast%20-%20ATLiens%20-%2008%20-%20Babylon.mp3"  itemprop="contentUrl"></audio>
+  <a href="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits/OutKast%20-%20ATLiens%20-%2008%20-%20Babylon.mp3"> Download audio </a>
+</figure>
+
+![SS5](https://pbs.twimg.com/media/F-WC6onaYAASdpW?format=jpg&name=medium)
+![mood](https://pbs.twimg.com/media/GiLh88Kb0AAHt7f?format=jpg&name=medium)
+[Related](https://x.com/thakasartu/status/1883316255337435418) [Related](https://x.com/thakasartu/status/1883317419839791116)
+[RelatedTweet](https://x.com/RicoThaka/status/1883963513389080963) [RelatedTweet](https://x.com/RicoThaka/status/1883958827730735173)
+![FloodDanger](https://pbs.twimg.com/media/GiUuRgKaYAEiOqz?format=jpg&name=large)
+![FloodHazard](https://pbs.twimg.com/media/GiUuRc-aYAMSCkv?format=jpg&name=large)
+
+<h1 itemscope itemtype="https://schema.org/MusicGroup" itemprop="name" > 
+
+<a itemscope itemtype="https://schema.org/AudioObject" href="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits" alt="25th Anniversary Edition">OutKast - ATLiens</a>  <a href="https://xiph.org/flac/" >[FLAC 24 Bits]</a> </h1>
+
+<iframe itemscope itemtype="https://schema.org/AudioObject" src="https://archive.org/embed/outkast-atliens-25th-anniversary-edition-flac-24-bits" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<picture itemscope itemtype="https://schema.org/MusicRecording">
+  <source itemscope itemtype="https://schema.org/AudioObject" media="(width: 100%)" srcset="https://i.discogs.com/huWj20LMWJ4H4K3WaH3Fu5_rdl-2H1zHX1hcpjYmQD4/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU1/MzYtMTY5MTEzMDQ5/Ni03OTk2LmpwZWc.jpeg" />
+  <source media="(width: 100%)" srcset="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" />
+  <img src="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" alt="Chris standing up holding his daughter Elva" />
+</picture>
+
+<video  controls >
+  <source src="https://ia902205.us.archive.org/18/items/screen-20250127-031342/screen-20250127-031342.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+![FLAC](https://wiki.xiph.org/images/e/e9/FLAC_Logo_Transparent.svg)
+[WATER_TABLE](https://x.com/RicoThaka/status/1883249912495898766)
+# [National Water Information System: Mapper](https://maps.waterdata.usgs.gov/mapper/index.html)
+![m](https://pbs.twimg.com/media/GiKlnO6aAAAQZf2?format=jpg&name=small) 
+
+### Time Averaged Map of Irrigated water rate daily 0.125 deg. [NCA-LDAS Model NCALDAS_NOAH0125_D v2.0] kg m-2 s-1
+over 1979-01-02 00:00:00Z - 2017-01-01 00:00:00Z 
+![USA](https://pbs.twimg.com/media/GiUl-WubsAAGlZ5?format=jpg&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1883953960341626910)
+
+![jupiterNASAWEBB](https://stsci-opo.org/STScI-01HCX1B69H5ZEF6S18S0F6PM1V.png)
+![secretofmana](https://pbs.twimg.com/media/GiUS7hSaMAAdXHT?format=jpg&name=medium)
+![Madden](https://pbs.twimg.com/media/GiUS7hWaYAAB5MW?format=jpg&name=medium)
+![JackieChan](https://pbs.twimg.com/media/GiQq-A0aIAAeAHC?format=jpg&name=medium)
+![JackieChan](https://pbs.twimg.com/media/GiQq-AzbAAEGP_2?format=jpg&name=medium)
+![ELON-DOGE](https://pbs.twimg.com/media/GiQKZ7YakAAKEpJ?format=jpg&name=large)
+![DoGE @spacex](https://pbs.twimg.com/media/GiQKngKa0AAF-U2?format=png&name=900x900)
+![DOGE](https://pbs.twimg.com/media/GiQJZIaagAAueHc?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1883640877102628879)
+![Bubblegumpop01](https://pbs.twimg.com/media/GiLCN0basAAiOpx?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1883283292105093559)
+![Elnino](https://pbs.twimg.com/media/GiFzwl4b0AEuPEw?format=jpg&name=large)
+[RelatedTweet](https://x.com/BubbleGumPop626/status/1882913405801263331)
+
+
+
+# [DOE Explains...Atmospheric Rivers](https://www.energy.gov/science/doe-explainsatmospheric-rivers#:~:text=Atmospheric%20rivers%20are%20large%2C%20narrow,atmospheric%20rivers%20at%20any%20time.)
+
+[Biological and Environmental Research](https://www.energy.gov/science/ber/biological-and-environmental-research) [What are atmospheric rivers?](https://www.noaa.gov/media/image_download/1288544a-c014-4256-ba6a-57551c7c5967)
+![DOE Explains...Atmospheric Rivers](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2024-07/doe-explains-atmospheric-rivers.png?itok=e6go6sKZ)
+
+![AtmosphereicRiver](https://pbs.twimg.com/media/GiUuRbaaYAATJmf?format=jpg&name=large)
+
+![LOOK_AT_DATA_ACCUiSiTiON](https://ecostress.jpl.nasa.gov/logo.png) [ECOSTRESS - LOOK_AT_DATA_ACCUiSiTiON `task`](https://ecostress.jpl.nasa.gov/)
+![vi](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+## Panoply netCDF, HDF and GRIB Data Viewer
+![NETCDFViEWER](https://www.giss.nasa.gov/tools/panoply/gfx/panoply_500_1440x960.png)
+
+
+### panoply \PAN-uh-plee\, noun: 1. A splendid or impressive array. ...
+Panoply plots geo-referenced and other arrays from [netCDF](https://www.unidata.ucar.edu/software/netcdf/), [HDF](https://en.wikipedia.org/wiki/Hierarchical_Data_Format), [GRIB](https://community.wmo.int/en/activity-areas/wis/grib-edition-1), and other datasets.
+
+Panoply is a cross-platform application that runs on Macintosh, Windows, Linux and other desktop computers. Panoply requires that your computer has have had a compatible Java 11 (or later version) JRE or JDK installed. @blackgirlscode this looks cool like  [HiView ](https://www.uahirise.org/hiview/) Hi view is a camera on my primary mission [Mars Reconnaissance Orbiter](https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/) [HiViEW-INSTRUCTiONS](https://pirlwww.lpl.arizona.edu/software/HiView/Users_Guide/Introduction/Description-Quick_Start_.html) [DOWNLOAD - HiViEW](https://pirlwww.lpl.arizona.edu/software/registration/registration.cgi?software=HiView) HiView is the best way to explore HiRISE images of the Martian surface at the full resolution of the imagery. Tracks of boulders that have fallen down crater walls, delicate rays of ejecta from fresh impact craters, and the unearthly formations created by carbon dioxide ice on the Martian south pole are just a few of the things that are waiting to be discovered by anyone using a tool like HiView with HiRISE imagery. 
+
+![HiRiSE-MRO](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mars_Reconnaissance_Orbiter_HiRISE.jpg/1024px-Mars_Reconnaissance_Orbiter_HiRISE.jpg)
+By @NASA - <a rel="nofollow" class="external free" href="https://photojournal.jpl.nasa.gov/catalog/PIA07087">http://photojournal.jpl.nasa.gov/catalog/PIA07087</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=208964">Link</a>
+![MARS](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_083000_083099/ESP_083043_1790_ESP_083188_1790/ESP_083043_1790_ESP_083188_1790_RED.browse.png)
+![MRO](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+[A quick tour of netCDF data - Argis](https://pro.arcgis.com/en/pro-app/latest/help/data/multidimensional/a-quick-tour-of-netcdf-data.htm)
+
+# ### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+![HDF](https://upload.wikimedia.org/wikipedia/commons/6/65/HDF_logo_%282017%29.svg)
+![WAKUWAKU](https://ia800106.us.archive.org/30/items/progit_202412/Screenshot_20241223-095723.png)
+[https://github.com/ricoThaka/legacy-mars-global-climate-model]
+# [gfortran — the GNU Fortran compiler, part of GCC](https://gcc.gnu.org/wiki/GFortran) Gfortran is the name of the GNU Fortran project, developing a free Fortran 95/2003/2008/2018 compiler for GCC
+
+```fortran
+! 
+! Welcome to GDB Online.
+! GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+! C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+! Code, Compile, Run and Debug online from anywhere in world.
+! 
+! 
+
+Program Hello
+!Print *, "Hello World
+
+!End Program Hello
+
+!program hello
+  ! This is a comment line; it is ignored by the compiler
+  print *, 'Hello, World!'
+end program Hello
+```
+![ll](https://pbs.twimg.com/media/GhA3LA8WsAAUVZS?format=jpg&name=medium)
+# LoS Angeles Fires 2025
+
+![Los Angeles Fires 2025](https://pbs.twimg.com/media/Gh3euE3a4AAt2ob?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1881905119887048732) [Nasa EarthObservatory](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025) 
+![PALiSADESFOOTPRiNT](https://pbs.twimg.com/media/Gh3V8lHa0AA1pEl?format=jpg&name=medium)
+[NASA_EARTHOBSERVATORY - The Palisades Fire’s Footprint](https://earthobservatory.nasa.gov/images/153831/the-palisades-fires-footprint) [RelatedTweet](https://x.com/RicoThaka/status/1881895494986895736) 
+<video controls preload="none"   width="100%" height="auto" poster="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg">
+    
+<source src="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4">mp4</a>
+        video.
+</video> 
+
+![3dSUN](https://pbs.twimg.com/media/GdFzqLlagAEzrn_?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1860395564120309861)
+![Now Orbiting MArs](https://pbs.twimg.com/media/Gh2dnI_aYAEW23F?format=jpg&name=large)
+
+[Now Orbiting MArs](https://eyes.nasa.gov/apps/mrn/#/mars?target=MRO&range=near&time=2025-021T22:35:34.815) [RelatedTweet](https://x.com/RicoThaka/status/1881833616982020317) [ elNino - Nasa Worldview 2024 DEC 01 To 2025 JAN 06](https://archive.org/details/nasa-worldview-2024-dec-01-to-2025-jan-06)
+
+# Termux-setup-storage
+In order to have access to shared storage (/sdcard or /storage/emulated/0), Termux needs a storage access permission. It is not granted by default and is not requested on application startup since it is not necessary for normal application functioning. - [wiki.termux.com](https://wiki.termux.com/wiki/Termux-setup-storage)
+
+<video controls preload="none"   width="100%" height="700" poster="https://pbs.twimg.com/media/Gh8txRHaIAAxzXY?format=png&name=small">
+    
+<source src="https://ia800104.us.archive.org/9/items/screen-20250121-030005/screen-20250120-203902.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://ia800104.us.archive.org/9/items/screen-20250121-030005/screen-20250120-203902.mp4">mp4</a>
+        video.
+</video> 
+
+![Protest](https://pbs.twimg.com/media/Gh2sKqcaAAAoHQm?format=jpg&name=medium) [RelatedTweet](https://x.com/RicoThaka/status/1881849528003043594)
+[RelatedTweet](https://x.com/BubbleGumPop510/status/1881494388809089478)
+![AreoSolOpticalDepth](https://pbs.twimg.com/media/Gh7BXzaasAAuT9J?format=jpg&name=medium)
+![EUGENiCS](https://pbs.twimg.com/media/Gh3iYCcaoAAwC2p?format=jpg&name=4096x4096)
+[RelatedTweet](https://x.com/RicoThaka/status/1881909188278018307)
+![EastCoast](https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/GEOCOLOR/20250230311_GOES16-ABI-eus-GEOCOLOR-2000x2000.jpg)
+![HOT97-SHAAKiRAGATHERS](https://solarsystem.nasa.gov/images/casJPGFullS60/W00064211.jpg)
+
+# January 14, 2025 
+[The Palisades Fire’s Footprint](https://earthobservatory.nasa.gov/images/153831/the-palisades-fires-footprint)
+![PalisadesFire](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153831/lafires_oli2_20250114.jpg)
+![Troposphere](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153838/lafires_tempo_20250106.jpg)
+[![Twitter Follow](https://img.shields.io/badge/Social-realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/realDonaldTrump) 
+[![Twitter Follow](https://img.shields.io/badge/Social-GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/GavinNewsom)
+![t](https://pbs.twimg.com/media/GhsOC3vbwAAbnR6?format=jpg&name=medium)
+![curl](https://upload.wikimedia.org/wikipedia/commons/8/8a/Curl-logo.svg)
+# NASA Maps California Drought Effects on Sierra Trees 
+![drought](https://d2pn8kiwq2w21t.cloudfront.net/images/imagesearth20160627bPIA20717-16.width-1024.jpg)
+
+### [Rhythm Roulette: 9th Wonder | Mass Appeal](https://youtu.be/-5wwEu_8KsY?si=gkXaIh6KI5sHjeFz)
+[https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025)
+[Eaton Fire Leaves California Landscape Charred](https://earthobservatory.nasa.gov/images/153821/eaton-fire-leaves-california-landscape-charred?utm_source=TWITTER&utm_medium=NASAEarth&utm_campaign=NASASocial&linkId=715793698)
+[10 Best Data Import Tools for GIS Applications to Unlock Spatial Data - READLATER](https://www.maplibrary.org/850/best-data-import-tools-for-gis-applications/)
+
+[s1](https://sentiwiki.copernicus.eu/web/s1-applications) [AViRiS](https://popo.jpl.nasa.gov/mmgis-aviris/?mission=AVIRIS&site=ert&mapLon=-93.95507812500001&mapLat=40.245991504199026&mapZoom=4&globeLon=undefined&globeLat=undefined&globeZoom=undefined&panePercents=0,100,0&on=e4d92155-7af4-4ec3-ba97-1d6e4639c5d6$1.00,d068949c-3a21-45c0-8aa9-7dd29bfc8adc$1.00&startTime=2006-04-01T00:00:01.000Z&endTime=2024-02-15T21:27:02.653Z)
+[AL](https://search.asf.alaska.edu/#/?zoom=13.000&center=-118.196,34.159&dataset=SENTINEL-1%20BURSTS)
+{% include twing.md %}
+
+
+# President Biden’s Farewell 
+[Remarks by President Biden in a Farewell Address to the Nation - @whitehouse @nasa-jpl](https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/15/remarks-by-president-biden-in-a-farewell-address-to-the-nation/)
+ [NYTimES - Transcript](https://www.nytimes.com/2025/01/15/us/politics/full-transcript-of-president-bidens-farewell-address.html)
+ 
+<video controls preload="none"   width="100%" height="auto" poster="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR2MWI1bmswMXZzbHhrMnN6MHNyZDVyeGFxN2RkNWxvYjRjb2RteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxjYIG40lpjkEDbARF/giphy.gif">
+    
+<source src="https://archive.org/download/screenshot-2025-01-16-11.03.15-am/Screen%20recording%202025-01-16%2012.25.31%20PM.webm" type="video/webm" />
+         Download the
+        or
+<a href="https://archive.org/download/screenshot-2025-01-16-11.03.15-am/Screen%20recording%202025-01-16%2012.25.31%20PM.webm">webm</a>
+        video.
+</video> 
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+
+![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
+
+# i did it for jehovah, now i do it for the world-casualDaily atm!
+![MyCAbinet](https://pbs.twimg.com/media/GhcBnUraMAAAh6F?format=jpg&name=large)
+![MY_CABinet](https://pbs.twimg.com/media/GhcDZhJacAIZrjr?format=jpg&name=large)
+![i did it for jehovah, now i do it for the world-casualDaily atm!](https://pbs.twimg.com/media/GhcKpEmakAAfi2j?format=jpg&name=large)
+
+
+
+
+## [Thank You for science MrCarter💯❤️‍🔥❤️‍🩹💯🥺💔](https://youtu.be/kpa0GklJHHA?si=GSFjS97CqeRiEELL) @whitehouse @nasa-jpl thanks for caring for my family with science tools. I use so much u provide to teach and share `independance`
+
+
+
+[HOLLYWOOD LIBRARY](https://whatismyipaddress.com/ip/155.190.3.5)
+### All Night Long : by [Common](https://www.thinkcommon.com/) Feat [EryKah Badu](https://erykahbadu.com/)
+<audio controls>
+  <source src="https://archive.org/download/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+![SPECTROGRAM](https://ia803409.us.archive.org/24/items/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29_spectrogram.png)
+
+
+
+# Cold and Snow Wallop the U.S.
+### The first major, widespread winter storm of 2025 delivered snow, ice, and frigid temperatures to a large swath of the country.[ReadMore - Nasa_EarthObservatory](https://earthobservatory.nasa.gov/images/153789/cold-and-snow-wallop-the-us) Tools`>[AquaModis](https://aqua.nasa.gov/modis) [OCEANCOLOR](https://oceancolor.gsfc.nasa.gov/about/missions/aqua/) 
+
+![AiRTEMP](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153789/usarcticchill_geos5_20250106_lrg.jpg)
+
+# The “IT” GIRLS 💗💅🏽| A Kinigra Deon Original
+[book with same title](https://www.amazon.com/Girls-Novel-Karen-Harper/dp/0062567772) [LightboxViewer](https://youtu.be/gbOlCyQ4Hr8?si=pKj80MmOTMhRvsRa) [Kinigra Deon](https://www.youtube.com/@KinigraDeon) [Kinigra TiKTOK](https://www.tiktok.com/@kinigradeon?lang=en) [KinigRa on @twitter](https://x.com/kinigra?lang=en) @nasa-jpl this is one of the girls from atlanta(ish) that need protection digitally @blackgirlscode she made a movie an she know coral~
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/c_AqZMlbm4c?si=WzsKwYmFkxrk-u2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![news](https://pbs.twimg.com/media/GgpHBifWoAAbIOi?format=jpg&name=large)
+On Jan. 6, 2021, during the certification of Joe Biden's election victory, a mob of then-President Donald Trump's supporters violently broke their way into the U.S. Capitol under the false belief that the 2020 election had been stolen. The insurrection lead to at least seven people losing their lives, according to a bipartisan Senate report. [ReadMore - PBSnews](https://x.com/NewsHour/status/1876390307773714530)
+
+![ECOSTRESS](https://pbs.twimg.com/media/GYwiy8dasAAoT9o?format=jpg&name=large)
+[RelatedTweet](https://pbs.twimg.com/media/GYwiy8dasAAoT9o?format=jpg&name=large)
+![UPDATESTORY ON RASHRD MRO](https://pbs.twimg.com/media/GgpiG8IasAA2TSl?format=jpg&name=large)
+![PRESiDENTTWiTTER](https://pbs.twimg.com/media/GgpiNQmaEAAKwfu?format=png&name=small)
+[realtedTWT](https://x.com/RicoThaka/status/1876420538106864089)
+
+![LA_COUNTY_JOB](https://pbs.twimg.com/media/GEEQ0IbbYAEtYIX?format=jpg&name=large)
+[RelatedTwT](https://x.com/RicoThaka/status/1747696625555038638)
+![gavin](https://pbs.twimg.com/media/Ggpgp31bgAA2PoY?format=jpg&name=large)
+
+[<IMG src="https://images.launchbox-app.com/9c048b70-5ef0-4d0d-94d2-ac2a6421172e.png" />](src="https://images.launchbox-app.com/9c048b70-5ef0-4d0d-94d2-ac2a6421172e.png")
+[<IMG src="https://images.launchbox-app.com/765b2372-849a-40fe-af2b-546fc720eb8c.png" />](src="https://images.launchbox-app.com/765b2372-849a-40fe-af2b-546fc720eb8c.png")
+[<IMG src="https://images.launchbox-app.com/3e4beca8-1315-4188-bf09-ab56a9d1f1d1.png" />](src="https://images.launchbox-app.com/3e4beca8-1315-4188-bf09-ab56a9d1f1d1.png")
+[<IMG src="https://images.launchbox-app.com/74ee801b-71fc-46c4-80f2-c831abeb87e2.png" />](src="https://images.launchbox-app.com/74ee801b-71fc-46c4-80f2-c831abeb87e2.png")
+![TRUMPDAY INSURRECTION UPDATE](https://pbs.twimg.com/media/Ggpql9mbAAAuSmX?format=jpg&name=large)
+[relatedtwt](https://x.com/RicoThaka/status/1876429413052768734) 
+![SpeedRail](https://pbs.twimg.com/media/Ggpgp31bgAA2PoY?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1876418675080905137)
+
+ [americanRoyalty](https://archive.org/download/Childish_Gambino_-_Royalty-2012) 
+<audio controls>
+  <source src="https://ia800305.us.archive.org/35/items/Childish_Gambino_-_Royalty-2012/08%20-%20American%20Royalty%20%28ft%20RZA%20and%20Hypnotic%20Brass%20Orchestra%29%20prod%20Childish%20Gambino.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+[GiOVANNi](https://giovanni.gsfc.nasa.gov/giovanni/)
+
+[blueMArble](https://worldview.earthdata.nasa.gov/?l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,GEDI_ISS_L4B_Aboveground_Biomass_Density_Mean_201904-202303,MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&t=2019-04-19-T00%3A00%3A00Z)
+
+[ELNiNOLinGO](https://worldview.earthdata.nasa.gov/?v=-248.06956668783653,-69.43034971052901,35.635836808033844,70.20590357259468&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2023-10-22-T06%3A19%3A29Z)
+- [+2TUPPERWARELATER - Explore data from ESA's Solar System missions](https://psa.esa.int/psa/#/pages/search) 
+- [4rashardmro - W3.CSS Navigation Tabs](https://www.w3schools.com/w3css/w3css_tabulators.asp)
+find sega sonic promosite [window](https://codepen.io/ricoThaka/pen/eYqoGbp?editors=1100)
+[refnews TrumpPhotos onashardMRO](https://www.pbs.org/newshour/politics/heres-where-jan-6-trials-stand-on-the-fourth-anniversary-of-the-capitol-riot)
+
+
+<style>
+.whitebg {background-color:white;}
+</style>
+
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
+![%](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
+
+[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
+### CLimatology
+
+<video controls preload="none"  width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp.0000_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp_1080p30.mp4" type="video/mp4" />
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp_1080p30.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp_1080p30.mp4">MP4</a>
+  video.
+</video>
+
+![CLimatology](https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_climatology_colorbar_white.png)
+
+<iframe loading="lazy" style="border-radius:12px" src="https://open.spotify.com/embed/track/4G1qRhOk1YY0kewtMaCrMC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+![LOSANGELES - Library of congress](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17900/6a17974r.jpg)
+![LOSANGELES - Library of congress](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001797/full/pct:25/0/default.jpg)
+![CROCKER CiTiZENS BANK](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0200/ca0235/photos/012379pv.jpg)
+![LAPL-CENTRAL](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0200/ca0235/photos/012386pv.jpg)
+![LA 1942](https://tile.loc.gov/storage-services/service/pnp/ppmsca/73100/73164v.jpg)
+[KI & KI2 in MAME v140 - Pre-configured MAME 7-Zip Package Instructions](https://www.thekillerinstinctproject.com/kiproject/kimame.html)
+
+# The Legend of Zelda
+franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka... [Amazing](https://www.youtube.com/watch?v=Sz_YPczxzZc)
+[<IMG src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg" />](https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg)
+[Zelda](https://www.nesfiles.com/NES/Zelda/) wow
+[FANDOM](https://zelda.fandom.com/wiki/The_Legend_of_Zelda) [WiKi](https://en.wikipedia.org/wiki/The_Legend_of_Zelda) [NinTenDo](https://www.nintendo.com/en-gb/Games/NES/The-Legend-of-Zelda-796345.html) [inside cart photos](https://forums.atariage.com/topic/325208-it-appears-that-i-have-a-pretty-early-copy-of-zelda/)
+<IMG alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" itemprop="quest" itemscope itemtype="https://schema.org/VideoGameSeries" />
+<IMG alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" itemprop="quest" itemscope itemtype="https://schema.org/VideoGameSeries" />
+<IMG alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN4ZHMxZWJxYW9xdnU4dndvbnd4YTUxYTlwb2dpeW5yZ2x0cTh5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/leAV27tKs2PiE/giphy.webp" itemprop="isFamilyFriendly" itemscope itemtype="https://schema.org/VideoGameSeries" /> 
+
+![om1](https://geocities.ws/sb202us/optimized/volueonehead.jpg)
+![TYME](https://geocities.ws/sb202us/optimized/TYME.jpg)
+![deshavious](https://geocities.ws/sb202us/poemtitles/bottled.gif)
+![om2](https://geocities.ws/sb202us/optimized/vol2head.jpg)
+![headATL](https://geocities.ws/sb202us/optimized/Atl_carac.jpg)
+![Alfredo](https://geocities.ws/sb202us/poemtitles/thinkofher.gif)
+![kaeHock](https://geocities.ws/sb202us/poemtitles/untitled1.gif)
+![Tiana phenix](https://geocities.ws/sb202us/poemtitles/44lines.gif)
+![comfortjidenma](https://geocities.ws/sb202us/poemtitles/whaticantsay.gif)
+![om3](https://geocities.ws/sb202us/optimized/vol3head.jpg)
+![vanessatyrapooh](https://geocities.ws/sb202us/poemtitles/fantasy2.gif)
+
+<picture itemprop="image" itemscope itemtype="https://schema.org/CreativeWork">
+  <source srcset="https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg" itemprop="url" />
+  <IMG alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg" />
+</picture>
+  
+
+
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/hzPylqS01qU?si=DPTexd6AM7kRczIn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/CoRAL_CLOUT.jpg"  />
+  <source srcset="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/CoRAL_CLOUT.jpg"  />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/CoRAL_CLOUT.jpg" alt="" />
+</picture>
+
+
+# Martin Lawrence - You So Crazy (1994)
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/IlobJ8_OKsM?si=3ETkio5qV7YGbuHB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![DEFCON](https://media.defcon.org/fancyindex/dc-logo.webp)
+[Im Gonna GitYOU SuckA](https://youtu.be/bK2a9L6gdu4?si=OH5D4KYMAPQnHqac) [Defcon Media Server](https://media.defcon.org/DEF%20CON%2031/) Kenya know a lot of ppl, idk if they scary tho [Run Tell Dat!](https://www.youtube.com/watch?v=zLmFhBv0Zfc) [![Twitter Follow](https://img.shields.io/badge/Social-Latto__-blue?style=social&logo=X)](https://twitter.com/Latto) [a thaka blog: covidLockdown note https://munathaka.github.io/thaka/](https://munathaka.github.io/thaka/)
+## Teenage Mutant Ninja Turtles 1990 
+
+<video controls preload="none"  width="100%" height="auto" poster="https://pbs.twimg.com/media/GW55EZPboAAdLG0?format=jpg&name=large">
+
+  <source src="https://archive.org/download/teenage-mutant-ninja-turtles-open-matte/Teenage%20Mutant%20Ninja%20Turtles%20Open%20Matte.mp4" type="video/mp4" />
+
+  <source src="https://archive.org/download/teenage-mutant-ninja-turtles-1990-720p-blu-ray-yts.-mx/Teenage.Mutant.Ninja.Turtles.1990.720p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://archive.org/download/teenage-mutant-ninja-turtles-open-matte/Teenage%20Mutant%20Ninja%20Turtles%20Open%20Matte.mp4">MP4</a>
+  video.
+</video>
+
+![TMNT](https://pbs.twimg.com/media/GW59Xgea8AEo9Pr?format=jpg&name=large)
+
+
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg"  />
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg"  />
+  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-02.jpg" alt="" />
+</picture>
+
+### [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up) 
+<video controls preload="none"   width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/images/pinocchio/image-03.jpg">
+    
+<source src="https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4">MP4</a>
+        video.
+</video> 
+
+# Gulliver's Travels (1939 film)
+Gulliver's Travels is a 1939 American animated musical fantasy film produced by Max Fleischer and directed by Dave Fleischer for Fleischer Studios.[3] Released to cinemas in the United States on December 22, 1939
+<video controls preload="none"   width="100%" height="auto" poster="https://i.makeagif.com/media/4-22-2017/pjLoJG.gif">
+
+<source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/Gullivers_Travels_%281939%29.webm/Gullivers_Travels_%281939%29.webm.720p.vp9.webm" type="video/webm" />    
+<source src="https://archive.org/download/GulliversTravels1939_201707/Gulliver%27s%20Travels%20%281939%29.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/GulliversTravels1939_201707/Gulliver%27s%20Travels%20%281939%29.mp4">MP4</a>
+        video.
+</video> 
+<style>
+img[src*="777_front.jpg"] {width: 100%;padding: 0px;}
+img[src*="800px-Minolta-50mm-F17.jpg"] {width: 100%;padding: 0px;}
+</style>
+
+[SillySymphonies Scan - Pinocchio](https://github.com/ricoThaka/ricothaka.github.io/tree/pixelsquare/assets/images/pinocchio) [Pinoccio](https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4) [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up)
+
+[<IMG src="https://cdromance.org/wp-content/uploads/2021/02/777_front.jpg" alt="FiNALFANTASY7" />](https://cdromance.org/wp-content/uploads/2021/02/777_front.jpg)
+
+
+# Matt Field Interview
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/8_MS9GWOWC4?si=9tHVZfGRyt_rYX9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![Jet Propulsion Laboratory, 4800 Oak Grove Dr, La Cañada Flintridge, CA 91011](https://pbs.twimg.com/media/GfhHJLxbIAESqUw?format=jpg&name=large)
+# Minolta AF 50mm f/1.7
+The Minolta AF 50mm f/1.7 is a discontinued lens with autofocus that was produced by Minolta for A-mount single lens reflex cameras from 1985[1] through 2006. It is still in use today by users of digital and film SLRs from Minolta (later Konica-Minolta) and Sony. The relatively large maximum aperture (f/1.7) allows the photographer to take shots indoors even when operating at ISO 100 - 200.[wiki](https://en.wikipedia.org/wiki/Minolta_AF_50mm_f/1.7) [DYXUM](https://www.dyxum.com/lenses/Minolta-AF-50mm-F1.7_lens17.html)
+![1.7](https://www.dyxum.com/images/Lenses/17/17_4.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Minolta-50mm-F17.jpg/800px-Minolta-50mm-F17.jpg" />
+
+
+<picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
+  <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif/lossy-page1-2694px-An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif.jpg" media="(orientation: portrait)" />
+ <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif/lossy-page1-2694px-An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif.jpg" media="(orientation: landscape)" />
+  <img itemprop="validIn" itemscope itemtype="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif/lossy-page1-2694px-An_airplane_taking_off_with_the_aid_of_330_horsepower_jet-assisted_unit_in_about_half_the_normal_run._-_NARA_-_295602.tif.jpg" alt="First to See the Farside" />
+</picture>
+
+## A rocket-assisted Boeing B-47B takeoff.
+By US Air Force - This image was released by the United States Air Force with the ID 061024-F-1234S-011 (next).This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.العربية ∙ বাংলা ∙ Deutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1782310
+[JATO (acronym for jet-assisted take-off) ](https://en.wikipedia.org/wiki/JATO)
+
+<picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
+  <source srcset="https://upload.wikimedia.org/wikipedia/commons/8/81/Boeing_B-47B_rocket-assisted_take_off_on_April_15%2C_1954_061024-F-1234S-011.jpg" media="(orientation: portrait)" />
+ <source srcset="https://upload.wikimedia.org/wikipedia/commons/8/81/Boeing_B-47B_rocket-assisted_take_off_on_April_15%2C_1954_061024-F-1234S-011.jpg" media="(orientation: landscape)" />
+  <img itemprop="validIn" itemscope itemtype="https://upload.wikimedia.org/wikipedia/commons/8/81/Boeing_B-47B_rocket-assisted_take_off_on_April_15%2C_1954_061024-F-1234S-011.jpg" alt="First to See the Farside" />
+</picture>
+
+
+
+
+# : TRINITY through BUSTER-JANGLE : Atomic Weapons Tests
+<iframe loading="lazy" itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization" width="560" height="315" src="https://www.youtube.com/embed/MWIJVM9kdek?si=dIhd787Ocd2CKeXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<iframe loading="lazy" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0T5L4oi5KqfAwTH2nS4FHj?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
+  <source srcset="https://www.lroc.asu.edu/ckeditor_assets/pictures/709/content_AS08-13-2329x2.1100pixelc.png" media="(orientation: portrait)" />
+ <source srcset="https://www.lroc.asu.edu/ckeditor_assets/pictures/709/content_AS08-13-2329x2.1100pixelc.png" media="(orientation: landscape)" />
+  <img itemprop="validIn" itemscope itemtype="https://www.lroc.asu.edu/ckeditor_assets/pictures/709/content_AS08-13-2329x2.1100pixelc.png" alt="First to See the Farside" />
+</picture>
+
+>First photograph (BW) taken of the famous Apollo 8 Earthrise sequence, the following images were acquired with color film [AS08-13-2329, NASA]. [LROC](https://www.lroc.asu.edu/images/1235) [SPACEFORCE-CareeRCHaT](https://www.youtube.com/watch?v=lzkamLShZsY&pp=ygUMI3NwYWNlY2FyZWVy)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758629126&color=%23b5e853&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-394607873" title="Pink Floyd Albums" target="_blank" style="color: #cccccc; text-decoration: none;">Pink Floyd Albums</a> · <a href="https://soundcloud.com/user-394607873/pink-floyd-the-dark-side-of-the-moon-1973-full-album" title="Pink Floyd - The Dark Side of the Moon 1973 (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Pink Floyd - The Dark Side of the Moon 1973 (Full Album)</a></div>
+<picture itemprop="issuedBy" itemscope itemtype="https://schema.org/GovernmentOrganization">
+  <source srcset="https://ewscripps.brightspotcdn.com/dims4/default/e453930/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F18%2F89%2Fc1c00e214752b6e7e132d2e64382%2F1707349957-3z1xkm.jpg" media="(orientation: portrait)" />
+  <img itemprop="validIn" itemscope itemtype="https://schema.org/AdministrativeArea" src="https://ewscripps.brightspotcdn.com/dims4/default/e453930/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F18%2F89%2Fc1c00e214752b6e7e132d2e64382%2F1707349957-3z1xkm.jpg" alt="" />
+</picture>
+
+
+
+[My Wife is Missing](https://vsco.co/rashardsartu/media/64fe567566c5d92e58000003)
+[LOS ANGELES AiRFORCE BASE](https://www.losangeles.spaceforce.mil/) [Budget cuts cause NASA JPL layoffs, Mars program future uncertai](https://www.scrippsnews.com/business/jobs-employment/budget-cuts-cause-nasa-jpl-layoffs-mars-program-future-uncertain)
+[U.S. ARMY FORT EISENHOWER](https://home.army.mil/eisenhower/)
+[U.S. Army Cyber Center of Excellence (CCoE)](https://cybercoe.army.mil/) @nasa-jpl [CCoE](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Direct-Reporting-Units/15th-Signal-Brigade/369-SB/369-History/) is 2.5 hrs from [Savannah](https://vsco.co/rashardsartu/media/5fc45bb195f25f5462429c8c) and i dont want a story that sounds official derailing my family healing an being at the lab at a healthy rate for [participation](https://youtu.be/jkhVsD4tpLk) @armydotmil @nasa-jpl @deptofdefense @cityoflosangeles @StateOfCalifornia - [rashard](https://thakarashard.github.io/rashardmro/) @blackgirlscode [normani](https://thakarashard.github.io/ricothaka/normani)
+
+
+
+{% include nav.html %}
+
+<picture>
+  <source srcset="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/EarthFleetChart-120224.png" media="(orientation: portrait)" />
+  <img src="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/EarthFleetChart-120224.png" alt="" />
+</picture>
+
+![π](https://s3.linksys.com/support/images/KB4231-001_EN.png)
+[LiSTAMATiC - DROPDOWN](https://css.maxdesign.com.au/listamatic2/horizontal04.htm) [stacked - LiSTAMATiC](https://css.maxdesign.com.au/listamatic2/horizontal05.htm) 
+[LiSTAMATiC -ListuroriaL](https://css.maxdesign.com.au/listutorial/index.htm)
+[DD_WRT](https://dd-wrt.com/) [NMAP](https://nmap.org/) [Linksys WRT54G](https://en.m.wikipedia.org/wiki/Linksys_WRT54G_series)
+ [GUiDE-DOSBOX_RETROARCH](https://forums.libretro.com/t/guide-add-and-launch-dosbox-games-in-retroarch/31356)
+# Atari Jaguar
+![TEMPEST2000](https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Tempest_2000_Jaguar_cover.jpg/220px-Tempest_2000_Jaguar_cover.jpg)
+I have been haing trouble getting to play smoothly, at the library [tempest](https://www.retrogames.cc/jaguar-games/tempest-2000-world.html) is so slow and choppy and i tried [Pitfall](https://www.myabandonware.com/game/pitfall-the-mayan-adventure-876). [RetroArch-DosBox](https://docs.libretro.com/library/dosbox/) might be a better route if my [Current Android 12/16/24](https://www.cloudmobileusa.com/products/p/stratus-c7-smartphone)'s system [Architecture](https://static1.squarespace.com/static/603d5307619ec655aab8c728/t/63cfd14cd067a363563283f4/1674563926598/Cloud+Mobile+-+Stratus+C7+-+User+Manual.pdf) is not copmplimentary to running [Jaguar games](https://www.youtube.com/watch?v=ndcTWeaVbLQ). On my [lastDroid](https://www.ebay.com/itm/186822683034?itmmeta=01JF8V02GYY49N8QT46RCNMYA4&hash=item2b7f7fe99a:g:grQAAOSwuNRnTkTb&itmprp=enc%3AAQAJAAAA4Mxmj%2BiGvOveHXEBClPb29jBT7RXeg7ubrjCyrN%2B1iDaFrwlX9dwTymWrVfBkLVkS8EDie2tI6u5A271wMYZ23GB%2FCoTBmIFNOqBg5K5JDfD0qcluiI6jprVRTXOF22shyU8sI1LGJS4yCkxfJbpScbOGqzb%2FTnMwm8mWsm7cO8TxhW%2BJIJkbLI3Iwp8mTt%2FZyjzJqe4iv47RM2WAIyhsltZGeoc9xxfSGrj36t9N5HR7ixO7d3oKjNcDYWfkJ8XbqupHqNxiJB6zYpLrg2VAAs5peIlx2wdbcYgcD20iIgL%7Ctkp%3ABk9SR4CpgJv6ZA) I played [UBiSoft-RAYMAN](https://www.youtube.com/watch?v=GkQPrRq-6sQ) the MAZE with [emulated playstation hardware](https://www.androidauthority.com/best-playstation-emulators-android-694579/) which worked well but the chosen color pallates on Playstation games was always less [saturated](https://thedarkroom.com/kodak-utramax-400-vs-fujifilm-superia-x-tra-400-comparision/) like a [portra](https://www.facebook.com/photo.php?fbid=1746393975522252&set=pb.100004549987965.-2207520000&type=3) vs a [slide](https://www.facebook.com/photo.php?fbid=1751689458326037&set=pb.100004549987965.-2207520000&type=3) [WiKi](https://en.wikipedia.org/wiki/Atari_Jaguar) [ShopAtari](https://atari.com/collections/jaguar) [ATariJaguarHistory-ATARi Age](https://www.atariage.com/Jaguar/history.html)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Atari-Jaguar-Console-Set.png" alt="Atari Jaguar" />](https://upload.wikimedia.org/wikipedia/commons/9/90/Atari-Jaguar-Console-Set.png)
+
+# Looking for a good file
+@blackgirlscode @normani share this with [riri](https://www.tiktok.com/@rihsmybiih/video/7441305910451981590) [ANTi - DiSCOGS](https://www.discogs.com/master/950545-Rihanna-Anti) [RelatedTweet](https://x.com/thakasartu/status/1867026192202912230)
+[<img src="https://i.discogs.com/-vDh7gKuPAgqG3pdRAxZ2A7Kn060j6uIVZ5C5mPPL8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NTcwLTE0OTkzMDg1/NTEtMzUwNC5qcGVn.jpeg" alt="rihanna anti" />](https://i.discogs.com/-vDh7gKuPAgqG3pdRAxZ2A7Kn060j6uIVZ5C5mPPL8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NTcwLTE0OTkzMDg1/NTEtMzUwNC5qcGVn.jpeg)
+
+# Aircrack-ng
+[Aircrack](https://www.aircrack-ng.org/doku.php?id=install_aircrack) is an all in one packet sniffer [readmore - geeksforgeeks](https://www.geeksforgeeks.org/kali-linux-aircrack-ng/) [packet analyzer (also packet sniffer or network analyzer) - Wikipedia](https://en.wikipedia.org/wiki/Packet_analyzer) is a computer program or computer hardware such as a packet capture appliance that can analyze and log traffic that passes over a computer network or part of a network [Capturing mobile phone traffic on Wireshark - STACKOVERFLOW](https://stackoverflow.com/questions/9555403/capturing-mobile-phone-traffic-on-wireshark) [Wireshark is a network data analysis tool - LiNKEDiN - AHMED_JABER_QARRADi](https://www.linkedin.com/pulse/wireshark-network-data-analysis-tool-ahmed-jaber-qarradi-wkuke) [DOD Recognizes 2024 Defense Acquisition Award Winners](https://www.defense.gov/Multimedia/Videos/)
+![STACKOVERFLOW](https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg)
+![eh](https://media.licdn.com/dms/image/v2/D4E12AQGQCAXUUHUGHw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1701001297339?e=2147483647&v=beta&t=O58g4mvPMvvAOl_WrlnSHIBeExya6BPqqc6A7dD4710)
+![NEOGEO - MOTHERBOARD](https://upload.wikimedia.org/wikipedia/commons/4/40/Neo-Geo-AES-Opened-FL.jpg)
+![neogeo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Neo-Geo-AES-Console-Set.png)
+
+# Garou Densetsu Special (NGM-058 ~ NGH-058 set 1)
+## Fatal Fury special
+<iframe src="https://archive.org/embed/arcade_fatfursp" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# [1994 VHS DUB] : Fatal Fury : Legend Of The Hungry Wolf 
+Fatal Fury: Legend of the Hungry Wolf, released in Japan as Battle Fighters Garou Densetsu (バトルファイターズ餓狼伝説, Batoru Faitāzu Garō Densetsu) is an anime TV Special based on the fighting game Fatal Fury. The movie was directed by Hiroshi Fukutomi and features character designs by Masami Obari.
+
+It originally aired on Fuji TV on December 23, 1992. The English version of the movie was distributed by VIZ Media in 1994. [YOUTUBE - Fatal Fury The Motion Picture (English Dubbed) [VHS]](https://www.youtube.com/watch?v=3zL3sHYkxeQ)
+<video itemscope itemtype="https://schema.org/VideoObject" controls width="100%" height="auto" poster="https://m.media-amazon.com/images/S/pv-target-images/5b13ea6706478551a6c4c050338f4350f97b721add171729738647f47d099b87.jpg" preload="none" >
+    
+<source src="https://archive.org/download/fatal-fury-legend-of-the-hungry-wolf-1994-vhs-dub/FatalFury_LegendOfTheHungryWolf_%5B1994%5D.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/fatal-fury-legend-of-the-hungry-wolf-1994-vhs-dub/FatalFury_LegendOfTheHungryWolf_%5B1994%5D.mp4">MP4</a>
+        video.
+</video>  
+
+# Garou: Mark of the Wolves 
+[ARChiVE](https://archive.org/details/arcade_garou)
+<iframe src="https://archive.org/embed/arcade_garou" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![garou](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/garou-mark-of-the-wolves_marquee.jpg?fit=1332%2C1632&ssl=1)
+![NEOGEO - MVS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Neo_Geo_full_on.png)
+![NEO*GEO_X](https://upload.wikimedia.org/wikipedia/commons/0/00/Neo-geo-x-console.png)
+[Neo Geo X, a handheld revival of the 1990's game platform - WiRED](https://www.wired.com/2012/09/neo-geo-x-standalon/) [FANDOM](https://snk.fandom.com/wiki/Neo_Geo_X)
+[Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html#)
+[PC Games on Android ? - r/retroarch - REDDiT](https://www.reddit.com/r/RetroArch/comments/bzfwi2/pc_games_on_android/?rdt=56401)
+
+# SNK LSPC2-A2
+## LSPC2-A2 (line sprite generator & VRAM interface) @ 24 MHz
+![NEOGEO - processorDie](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snk_lspc2-a2_mcmaster_mz_ns20x.jpg/2172px-Snk_lspc2-a2_mcmaster_mz_ns20x.jpg)
+
+# NTP
+NTP (Network Time Protocol) provides highly accurate atomic time for individuals connected to the Internet [caltech](https://www.imss.caltech.edu/services/wired-wireless-remote-access/about-caltech-network/ntp-time-service) [https://www.ntp.org](https://www.ntp.org/documentation/4.2.8-series/) [Malibufire](https://yandex.com/search/?text=malibu+fire+news&lr=20765&search_source=yacom_desktop_common)
+##  
+![アキラ Akira](https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Akira.svg/1850px-Logo_Akira.svg.png)
+
+@blackgirlscode Normani i found this one on Archive , more later, the subs were hardcoded 
+<video itemscope itemtype="https://schema.org/VideoObject" controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/akira.jpg" preload="none" >
+    
+<source src="https://archive.org/download/akira_1988_202404/akira_1988.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/akira_1988_202404/akira_1988.mp4">MP4</a>
+        video.
+</video>   
+
+
+
+# cellular magic mirror
+## Snow White and the Seven Dwarfs.mp4
+<video itemscope itemtype="https://schema.org/VideoObject" controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" preload="none" >
+    
+<source src="https://archive.org/download/WaltDisneySignatureCollection_201808/Snow%20White%20and%20the%20Seven%20Dwarfs.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/WaltDisneySignatureCollection_201808/Snow%20White%20and%20the%20Seven%20Dwarfs.mp4">MP4</a>
+        video.
+</video>   
+
+[Pinoccio - WaltDisneySignatureCollection](https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4) [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up) [The Adventures Of Pinocchio 1978 ( English Version) - movie](https://archive.org/details/TheAdventuresOfPinocchio1978EnglishVersion) [wiki](https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio)
+
+
+#  Season 1 - Hong Kong Phooey
+ ![Hong Kong Phooey](https://upload.wikimedia.org/wikipedia/en/2/26/Hong_Kong_Phooey_logo.jpg)
+@blackgirlscode to my attachments, this shit SupAfunniE [AllFiles](https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses) [imdb](https://www.imdb.com/title/tt0070996/) Hong Kong Phooey is an American Saturday morning animated television series produced by Hanna-Barbera Productions and originally broadcast on [ABC](https://abc.com/) - [WiKi](https://en.wikipedia.org/wiki/Hong_Kong_Phooey)
+
+<video controls width="100%" height="auto" poster="https://media.tenor.com/e3Fx829AvBIAAAAM/hong-kong-phooey-change.gif">
+    
+<source src="https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses/Hong%20Kong%20Phooey%20-%20S01E01%20-%20Car%20Thieves%3B%20Zoo%20Story.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses/Hong%20Kong%20Phooey%20-%20S01E01%20-%20Car%20Thieves%3B%20Zoo%20Story.mp4">MP4</a>
+        video.
+</video>    
+
+# Project Ako プロジェクトA子,
+![ProjectAko](https://upload.wikimedia.org/wikipedia/en/7/70/Project_A-ko_Poster.jpg) [![Twitter Follow](https://img.shields.io/badge/Social-Latto__-blue?style=social&logo=X)](https://twitter.com/Latto) this is awkward, worst case you know i was a bigtime jehovhas Witness and im talking to you because you look like erika, and you know there was like one of your tribes women [Shannon Clausell](https://www.youtube.com/watch?v=N4oMrTT_fZw) and in the real world since im not in a cube anymore theres a lot of you that dont come into Jehovahs Witnesses bc you are [True Mulattos](https://en.wikipedia.org/wiki/Los_Angeles_Pobladores) of Southern California [`Los Angeles Pobladores`](https://en.wikipedia.org/wiki/Talk:Los_Angeles_Pobladores)  . I like [Project Ako]() Coral and other kids [![Twitter Follow](https://img.shields.io/badge/Social-parksideaps__-blue?style=social&logo=X)](https://twitter.com/parksideaps) so if coral still breathing she will like this, if not if her friend rose Jenevive Daughter an there was Raven in Constancia townhouse by [T_L_C_OlD_HOUSE](https://www.youtube.com/watch?v=92gHq1s6G-c) [Wiki Project Ako](https://en.wikipedia.org/wiki/Project_A-ko) [imdb](https://www.imdb.com/title/tt0091794/) [FanDom](https://a-ko.fandom.com/wiki/Project_A-ko) [RedditPost](https://www.reddit.com/r/TwoBestFriendsPlay/comments/13g27k1/ive_watched_all_the_project_ako_movies_this_is/) [Emi Shinohara, RIP](https://projecta-ko.com/emi-shinohara-rip/) [MyAnimeList](https://myanimelist.net/anime/212/Project_A-Ko)
+
+<video controls preload="none"   width="100%" height="auto" poster="https://media.tenor.com/ew7jC3Fu9hIAAAAM/project-a-ko-ako.gif">
+    
+<source src="https://archive.org/download/ProjectAKo1/Project%20A%20Ko%201.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/ProjectAKo1/Project%20A%20Ko%201.mp4">MP4</a>
+        video.
+</video> 
+
+<figure>
+  <figcaption>Future: `[WifiLit]()`</figcaption>
+  <audio controls src="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3" itemscope itemtype="https://schema.org/MusicRecording"></audio>
+  <a href="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3"> Download audio </a>
+</figure>
+
+
+
+### SchoolSupplies
+[ERIC ED460023: What To Make of Mars. Smithsonian in Your Classroom.](https://archive.org/details/ERIC_ED460023)
+[Degradation at the InSight Landing Site, Homestead Hollow,
+Mars: Constraints From Rock Heights and Shapes](https://web.archive.org/web/20220426130810id_/https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021EA001953)
+
+# Now Reading 
+[Martian summer : robot arms, cowboy spacemen and my 90 days with the Phoenix Mars Mission](https://archive.org/details/martiansummerrob0000kess_m5t7)
+[A Writer's 'Martian Summer' On Earth](https://www.npr.org/2011/04/16/135464282/a-writers-martian-summer-on-earth)
+[Smithsonian book of Mars](https://archive.org/details/smithsonianbooko00boyc)
+[Mars by Birch, Robin](https://archive.org/details/mars0000birc_r5s2/page/n39/mode/2up)
+
+[The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
+
+[![MurrayLabs](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large)](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large "Redirect to homepage")
+
+
+# Batman (1966) - Trailer 
+@blackgirlscode i put it on [coral](https://ricothaka.github.io/coral) an [Normani](https://ricothaka.github.io/normanikordei) page, erika i owe u but im healing...
+
+<video controls preload="none"  poster="https://sothebys-md.brightspotcdn.com/dims4/default/cb0c9ad/2147483647/strip/true/crop/2000x1509+0+0/resize/1024x773!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F6e%2Fcf%2F59f9f64b47638179e77c4901a27f%2Fl19985-b8x6v-01.jpg">
+<source src="https://archive.org/download/batman-1966_202112/Trailer%20%232%20%5B3%2703%27%27%5D%20%5BSD%5D.mp4" type="video/mp4" />
+  Download the
+  <a href="https://archive.org/download/batman-1966_202112/Trailer%20%232%20%5B3%2703%27%27%5D%20%5BSD%5D.mp4">MP4</a>
+  video.
+</video>
+
+
+![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
+# [AViRiS](https://avirisng.jpl.nasa.gov/index.html)
+
+# Pillars of Creation ([Visualization Mosaic](https://webbtelescope.org/contents/media/images/2024/020/01HZ7D2PPZVGY1H6TQGRH1N9JK?page=3&filterUUID=91dfa083-c258-4f9f-bef1-8f40c26f4c97))
+![pillars of creation](https://stsci-opo.org/STScI-01HZ7KQC9J3EF1RVAVWMNXJBPH.png)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6LOWgH9NaSheAz0U4b7uQL?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+
+
+
+[HTML `<video>` Tag](https://www.w3schools.com/tags/tag_video.asp)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5J169iIjpxBuXzzpj0Lf9e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# Martian polar ice caps 
+
+<picture>
+  <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Martian_north_polar_cap.jpg/1024px-Martian_north_polar_cap.jpg" media="(orientation: portrait)" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Martian_north_polar_cap.jpg/1024px-Martian_north_polar_cap.jpg" alt="" />
+</picture>
+
+@esa [Water at Martian south pole](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Water_at_Martian_south_pole)
+# <picture>: The Picture element
+@blackgirlscode @normani im really enjoying HTML5 there are so many new tags that add more networking support so images dont go down or are rendered correctly [ReadMore `<picture>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) @mozilla how do i know im a healthy web developer @nasa-jpl ? THats as u know our man browser on campus
+
+{% highlight html %}
+
+<picture>
+  <source srcset="/media/cc0-images/surfer-240-200.jpg" media="(orientation: portrait)" />
+  <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" />
+</picture>
+
+
+[<picture srcset="/media/cc0-images/surfer-240-200.jpg" media="(orientation: portrait)"  <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" /> ]( <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" />)
+
+{% endhighlight %}
+
+
+![m](https://photojournal.jpl.nasa.gov/jpeg/PIA25563.jpg)
+# Mars Perseverance Sol 1336: Right Navigation Camera (Navcam) 
+[<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01336/ids/edr/browse/ncam/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ01_1200.jpg" alt="" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01336/ids/edr/browse/ncam/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ01_1200.jpg)
+
+NASA's Mars Perseverance rover acquired this image using its onboard Right Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
+
+This image was acquired on Nov. 22, 2024 (Sol 1336) at the local mean solar time of 12:15:08.
+
+Image Credit: NASA/JPL-Caltech
+@caltech @whitehouse to kamala [today mars pic ](https://mars.nasa.gov/mars2020/multimedia/raw-images/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ)
+[<img src="https://myripplerecords.com/wp-content/uploads/2023/03/reasonable-doubt-front.jpg" />](https://myripplerecords.com/wp-content/uploads/2023/03/reasonable-doubt-front.jpg)
+
+
+[Coming OF Age](https://archive.org/download/jay-z-reasonable-doubt/Reasonable%20Doubt/11-Coming%20Of%20Age%20%28Ft.%20Memphis%20Bleek%29.mp3) @nasa its a perfect plan to get out of "the ghetto" u just have to pick a career and watch out for criminality @blackgirlscode - @nasa-jpl
+# Jay-Z – Reasonable Doubt
+<iframe src="https://archive.org/embed/jay-z-reasonable-doubt" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmZgao8FfvZoxX7UnIcHqJUnwx-mUieK3Z7t80UwXeNtCLPs1GQn1pM_T3dSw4Ppw1TgibxGKRwcp0LKlunyBSaUwocfntyU9CbZqaugoShjStxk4D2xS8rJ_BkQIQPa1N54UHZkSJg0-e/s1600/Jay-Z+Reasonable+Doubt+Source+8-96.jpg" />](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmZgao8FfvZoxX7UnIcHqJUnwx-mUieK3Z7t80UwXeNtCLPs1GQn1pM_T3dSw4Ppw1TgibxGKRwcp0LKlunyBSaUwocfntyU9CbZqaugoShjStxk4D2xS8rJ_BkQIQPa1N54UHZkSJg0-e/s1600/Jay-Z+Reasonable+Doubt+Source+8-96.jpg)
+
+
+# Ella Mai Verified : 3
+@blackgirlscode, im not jumping ahead, but ella mai, is this music too personal for me to listen to ? am i at risk of being distracted ? im moving to  Mozilla standard for multi item flex boxes as a base, prepare for a lot to change @nasa i was trying to get a new wife when erika left me and i dont communicate follow up well, so im also am alone socially bc i talked to too many girls and went on dates too an some came in my house. But they acrobats an would do ninja work to intergrate into my household, some of the lyrics in some of the songs by the sex servants of hollywood on break in atlanta mention a little girl and a guy that works 9-5 in some sort of modern setting. @nasa-jpl we super old an [Jetsons](https://archive.org/details/jetson-complete), but they dont know that 
+
+{% highlight css %}
+
+.box > * {
+  border: 2px solid rgb(96 139 168);
+  border-radius: 5px;
+  background-color: rgb(96 139 168 / 0.2);
+  width: 200px;
+}
+
+.box {
+  width: 500px;
+  border: 2px dotted rgb(96 139 168);
+  display: flex;
+  flex-wrap: wrap;
+}
+{% endhighlight %}
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1898959435&color=%23ad7c50&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/sets/3-77254742" title="3" target="_blank" style="color: #cccccc; text-decoration: none;">3</a></div>
+
+
+# Shot Clock:Ella Mai
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/509765250&color=%23c59792&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/shot-clock" title="Shot Clock" target="_blank" style="color: #cccccc; text-decoration: none;">Shot Clock</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/308016317&color=%23a5999d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/bood-up" title="Boo&#x27;d Up" target="_blank" style="color: #cccccc; text-decoration: none;">Boo&#x27;d Up</a></div>
+
+### Adding Tags to Jekyll Blog Posts
+[Simple](https://emmatheeng.github.io/projects/blog_setup/blog-tags.html) [Complex](https://www.untangled.dev/2020/06/02/tag-management-jekyll/)
+# Earth Rotation from Galileo Imagery: 600 x Real-Time
+>Released Tuesday, September 1, 1998 
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the [Galileo spacecraft](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html) during a close pass of the Earth on December 11-12, 1990. The animations range from real-time, in which no rotation can be perceived . . . [Visualizations by: Horace Mitchell](https://svs.gsfc.nasa.gov/1374/)
+<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
+  
+<source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296704218&color=%23e1cbae&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lapalux" title="Lapalux" target="_blank" style="color: #cccccc; text-decoration: none;">Lapalux</a> · <a href="https://soundcloud.com/lapalux/midnight-peelers-1" title="Midnight Peelers" target="_blank" style="color: #cccccc; text-decoration: none;">Midnight Peelers</a></div>
+
+# VIDEO: LUNAR OCCULTATION 2020: 2020
+<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
+  
+<source src="https://epic.gsfc.nasa.gov/epic-galleries/2020/lunar_occultation/20201002lunartransitrear.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://epic.gsfc.nasa.gov/epic-galleries/2020/lunar_occultation/20201002lunartransitrear.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+
+[https://epic.gsfc.nasa.gov/](https://epic.gsfc.nasa.gov/)
+
+[<img src="https://ia801301.us.archive.org/29/items/AILS_AC76-0564/AC76-0564.jpg" alt="" />](https://ia801301.us.archive.org/29/items/AILS_AC76-0564/AC76-0564.jpg)
+[BUBBLEGUMPOP633](https://archive.org/details/fav-bubblegumpop633) [thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) [ThakaRasharD - FaVs](https://archive.org/details/fav-thakaserika_selassie_kelly) [Designing CSS Web pages](https://archive.org/details/isbn_9780735712638/mode/2up) [EarthObservatory](https://earthobservatory.nasa.gov/)
+
+<div class="oncall">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+
+# word-break
+The [word-break](https://x.com/RicoThaka/status/1858945542526775388) CSS property sets whether line breaks appear wherever the text would otherwise overflow its content box. My @github profile has a broken div, this could fix it @jekyllrb @blackgirlscode 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://pbs.twimg.com/media/GcxMc6bbcAIhh4b?format=jpg&name=large"><img src="https://pbs.twimg.com/media/GcxMc6bbcAIhh4b?format=jpg&name=large" alt="BUBBLEGUM_POP"> </a>
+
+   </div>
+   </div>
+   <div class='panelColumn'>
+
+      <a href="https://pbs.twimg.com/media/GcxMoYAbcAQBVA8?format=png&name=900x900"><img src="https://pbs.twimg.com/media/GcxMoYAbcAQBVA8?format=png&name=900x900" alt="BUBBLEGUM_POP"> </a>
+
+   </div>
+  </div>
+</div>
+
+[international Convention](https://x.com/RicoThaka/status/1858962935844139033) [SpaceForceDocs 4 G20](https://x.com/RicoThaka/status/1858949305434075381) 
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/538559907&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ninja-tune" title="Ninja Tune" target="_blank" style="color: #cccccc; text-decoration: none;">Ninja Tune</a> · <a href="https://soundcloud.com/ninja-tune/solid-steel-radio-show-02122018-hour-1-dk" title="Solid Steel Radio Show 02/12/2018 Hour 1 - DK" target="_blank" style="color: #cccccc; text-decoration: none;">Solid Steel Radio Show 02/12/2018 Hour 1 - DK</a></div>
+
+<div class="gullies">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+        
+
+
+![EC](https://europa.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhjVGRpZG1JMmFqQmpabTloYkRSa2RXOXNNemhrYkhFNGJEaHNPQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWDJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWtWVlVrOVFRVjlNVDBkUFgwaFBVa2xhVDA1VVFVd3VjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0SnlkRlZWSlBVRUZmVEU5SFQxOUlUMUpKV2s5T1ZFRk1MbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9rZXkifX0=--7200d35655ddeb30f93ddb8e1876eca78e7bdee4/EUROPA_LOGO_HORIZONTAL.png)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/13YyYNBofurxZCNYiFDibB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# Project Ako プロジェクトA子,
+![ProjectAko](https://upload.wikimedia.org/wikipedia/en/7/70/Project_A-ko_Poster.jpg) [![Twitter Follow](https://img.shields.io/badge/Social-Latto__-blue?style=social&logo=X)](https://twitter.com/Latto) this is awkward, worst case you know i was a bigtime jehovhas Witness and im talking to you because you look like erika, and you know there was like one of your tribes women [Shannon Clausell](https://www.youtube.com/watch?v=N4oMrTT_fZw) and in the real world since im not in a cube anymore theres a lot of you that dont come into Jehovahs Witnesses bc you are [True Mulattos](https://en.wikipedia.org/wiki/Los_Angeles_Pobladores) of Southern California [`Los Angeles Pobladores`](https://en.wikipedia.org/wiki/Talk:Los_Angeles_Pobladores)  . I like [Project Ako]() Coral and other kids [![Twitter Follow](https://img.shields.io/badge/Social-parksideaps__-blue?style=social&logo=X)](https://twitter.com/parksideaps) so if coral still breathing she will like this, if not if her friend rose Jenevive Daughter an there was Raven in Constancia townhouse by [T_L_C_OlD_HOUSE](https://www.youtube.com/watch?v=92gHq1s6G-c) [Wiki Project Ako](https://en.wikipedia.org/wiki/Project_A-ko) [imdb](https://www.imdb.com/title/tt0091794/) [FanDom](https://a-ko.fandom.com/wiki/Project_A-ko) [RedditPost](https://www.reddit.com/r/TwoBestFriendsPlay/comments/13g27k1/ive_watched_all_the_project_ako_movies_this_is/) [Emi Shinohara, RIP](https://projecta-ko.com/emi-shinohara-rip/) [MyAnimeList](https://myanimelist.net/anime/212/Project_A-Ko)
+
+<video controls preload="none"   width="100%" height="auto" poster="https://media.tenor.com/ew7jC3Fu9hIAAAAM/project-a-ko-ako.gif">
+    
+<source src="https://archive.org/download/ProjectAKo1/Project%20A%20Ko%201.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/ProjectAKo1/Project%20A%20Ko%201.mp4">MP4</a>
+        video.
+</video> 
+
+# [Where is SDO?](https://sdo.gsfc.nasa.gov/mission/moc.php)
+<video controls preload="none"   width="100%" height="auto" poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg">
+    
+<source src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4">MP4</a>
+        video.
+</video> 
+
+<iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/693520531&color=%239e8a5a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joshua-calhoun-780374481" title="joshua calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">joshua calhoun</a> · <a href="https://soundcloud.com/joshua-calhoun-780374481/goodie-mob-soul-food-full-album" title="Goodie Mob - Soul Food (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Goodie Mob - Soul Food (Full Album)</a></div>
+<iframe src="https://archive.org/embed/arcade_svc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+#  FlexiBleBoX
+I was able to get fresh reading materials thanks [![Twitter Follow](https://img.shields.io/badge/Social-LAPublicLibrary__-blue?style=social&logo=X)](https://twitter.com/LAPublicLibrary) [![Twitter Follow](https://img.shields.io/badge/Social-BiblioSzabo__-blue?style=social&logo=X)](https://twitter.com/BiblioSzabo) !
+
+
+{% highlight css %}
+
+.box > * {
+  border: 2px solid rgb(96 139 168);
+  border-radius: 5px;
+  background-color: rgb(96 139 168 / 0.2);
+}
+
+.box {
+  border: 2px dotted rgb(96 139 168);
+  display: flex;
+}
+
+{% endhighlight %}
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://hips.hearstapps.com/hmg-prod/images/elm080123fobcover-glorilla-digital-64b0537e94e9a.jpg?resize=768:*"><img src="https://hips.hearstapps.com/hmg-prod/images/elm080123fobcover-glorilla-digital-64b0537e94e9a.jpg?resize=768:*" alt="BUBBLEGUM_POP"> </a>
+
+      </div>
+    </div>
+    <div class='panelColumn'>
+
+      <a href="https://hips.hearstapps.com/hmg-prod/images/glorilla-q557-tha-elle-fj8a0065-fnl-64a6e8955c392.jpg?resize=980:*"><img src="https://hips.hearstapps.com/hmg-prod/images/glorilla-q557-tha-elle-fj8a0065-fnl-64a6e8955c392.jpg?resize=980:*" alt="BUBBLEGUM_POP"> </a>
+
+    </div>
+  </div>
+</div>
+<iframe src="https://archive.org/embed/screen-recording-2024-07-02-2.48.05-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/arcade_mshvsf" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<div class="oncall">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1154196106&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/on-call" title="On Call" target="_blank" style="color: #cccccc; text-decoration: none;">On Call</a></div>
+
+{% highlight css %}
+
+.oncall {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 1em;
+}
+.oncall div:nth-child(1) {
+  background: #f2a922;
+}
+.oncall div:nth-child(2) {
+  background: #f28b0c;
+    animation: 1s ease-in 1s 1 slideInFromLeft;
+}
+.oncall div:nth-child(3) {
+  background: #f27405;
+}
+.oncall div:nth-child(4) {
+  background: #732e07;
+
+}
+.oncall div:nth-child(5) {
+  background: #bf3706;
+}
+
+.oncall div {
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+
+}
+
+{% endhighlight %}
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7qwIiNFri8RklFl2hJt5JV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# @nasa-jpl @usdisa @nasa @deptofdefense [RelatedTweet](https://github.com/ricoThaka/)
+[InTroduction: Why Computer Ethics - Deborah G. Johnson - PDF](https://web.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/PHI320_Ch01.pdf)
+@whitehouse we need all computerusers including cellular to have a ethics discussion, culture shift... personal responsibility ![computer ethics](https://engineering.virginia.edu/sites/default/files/styles/square_xxsml/public/DeborahJohnson_headshot.webp?itok=-Jhm_zT_)
+[Computer ethics - Johnson, Deborah G., 1945-](https://archive.org/details/computerethics3r00debo) Written in clear, accessible prose, this text brings together philosophy, law, and technology to provide a rigorous, in-depth analysis of the ethical implications of widespread use of computer technology. The author proposes that the ethical issues surrounding computers are new species of traditional and recurrent moral issues.[Deborah G. Johnson - Professor Emeritus, Engineering and Society](https://engineering.virginia.edu/faculty/deborah-g-johnson)[Deborah G. Johnson - GoogleScholar](https://scholar.google.com/citations?user=BW7aBmEAAAAJ&hl=en) [GoogleBooks](https://books.google.com/books/about/Computer_Ethics.html?id=vYXmxXkecZMC) [InterNetArchive](https://archive.org/details/computerethics3r00debo) [MariahCarey - The Roof](https://youtu.be/sOApp3n-abA?si=Dq7uhTmnYYCr7yZP) [Computer Systems: Moral Entities but not Moral Agents.](https://nissenbaum.tech.cornell.edu/papers/computer_systems.pdf) 
+
+# 20000 Leagues Under The Sea: WalTdisNeY
+<video controls preload="none"   width="100%" height="auto" poster="https://i0.wp.com/duchessofdisneyland.com/wp-content/uploads/2015/04/20000leaguesundertheseaexhibit1.jpg">
+    
+<source src="https://archive.org/download/20000leaguesunderthesea_202003/20000%20Leagues%20Under%20the%20Sea.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/20000leaguesunderthesea_202003/20000%20Leagues%20Under%20the%20Sea.mp4">MP4</a>
+        video.
+</video> 
+
+[Dutchess of disney land - 20000 Leagus Under The sea blogStory](https://duchessofdisneyland.com/park-history/20000-leagues-under-the-sea-exhibit/)
+
+[BubblegumpopFavs](https://archive.org/details/fav-bubblegumpop633?page=2)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2TfBqG6KbHArJOmn1WtIBz?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+![JpSS2](https://upload.wikimedia.org/wikipedia/commons/c/c7/JPSS-2_logo.svg) 
+>missionScavengerhunt
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5PlA7xVCN59vR0YAnRVisM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# [Satellite Eyes on Typhoon Dolphin](https://earthobservatory.nasa.gov/images/85924/satellite-eyes-on-typhoon-dolphin)
+
+![dolphin](https://eoimages.gsfc.nasa.gov/images/imagerecords/85000/85924/dolphin_cld_2015136.jpg)
+
+# [Cassini Radar Operation](https://pds-imaging.jpl.nasa.gov/documentation/Cassini_RADAR_Users_Guide_2nd_Ed_191004_cmp_200421.pdf)
+
+# Mars Perseverance Sol 1320: Right Mastcam-Z Camera
+### PERSEVERANCE RAW IMAGES:Image of the Week
+This photo was selected by public vote and featured as "Image of the Week" for __Week 195 (Nov. 3 - 9, 2024)__ of the Perseverance rover mission on Mars.
+
+NASA's Mars Perseverance rover acquired this image using its Right Mastcam-Z camera. Mastcam-Z is a pair of cameras located high on the rover's mast.
+
+This image was acquired on Nov. 5, 2024 (Sol 1320) at the local mean solar time of 10:23:50.
+
+Image Credit: [NASA/JPL-Caltech/ASU](https://mars.nasa.gov/mars2020/multimedia/raw-images/image-of-the-week/week-195)
+
+# [Dichlorodiphenyltrichloroethane (DDT):](https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.02110125) 
+
+Due to uncontrolled use for several decades, dichlorodiphenyltrichloroethane (DDT), probably
+the best known and most useful insecticide in the world, has damaged wildlife and might have
+negative effects on human health. This review gives a brief history of the use of DDT
+
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+             <a href="https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768"> <img src="https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768" alt="1945 dessau" ></a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+             <a href="https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768"> <img src="https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768" alt="LE DDT A DESSAU" ></a>
+   </div>
+  </div>    
+ </div>
+</div>
+
+
+[![MyChile](https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768)](https://media.mutualart.com/Images/2017_04/25/15/155755276/a1e8b888-5494-422e-be49-181bc4ac761c.Jpeg?w=768 "Redirect to homepage")
+
+
+[Dichlorodiphenyltrichloroethane (DDT):](https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.02110125) 
+
+In de jaren veertig verklaarden de Verenigde Staten insecten de oorlog. Helemaal uitgeroeid moesten ze, die nutteloze beesten. Daarom werd er kwistig met [DDT](https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.02110125) gesproeid. Tot bioloog Rachel Carson aantoonde dat het land een ramp over zich had afgeroepen.
+
+<img src="https://mars.nasa.gov/system/resources/detail_files/26822_E1-PIA25368-Curiositys_Mastcam_Views_Flaky_Streambed_Rocks-web.jpg" />
+
+[Erika Opening MagicCity as LattoCity](https://www.tiktok.com/@thedronegoat/video/7285054108594130218)
+[DownTownAtlanta](https://www.tiktok.com/@mshannahkang/video/7284096620080434478)
+[Why Did Latto Change Magic City’s Name To Latto City? - uproxx](https://uproxx.com/music/why-latto-change-magic-city-name-latto-city/)
+
+# @blackgirlscode Normani Shares Some Of Her ... 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r5S_l7uAc1I?si=ovUMTTSMu1Ra0uBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Jay Electronica - Act II The Patents Of Nobility (Full Album)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/905357275&color=%231eff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-509969798" title="josh calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">josh calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-509969798/jay-electronica-act-ii-the-patents-of-nobility-full-album" title="Jay Electronica - Act II The Patents Of Nobility (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Jay Electronica - Act II The Patents Of Nobility (Full Album)</a></div>
+
+<iframe src="https://archive.org/embed/jay-electronica-act-II-the-patents-of-nobility-the-turn" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[[FRESH] Jay Electronica - "Act II: The Patents of Nobility (The Turn)" - r/hiphopheads - REDDiT](https://www.reddit.com/r/hiphopheads/comments/j5mvx6/fresh_jay_electronica_act_ii_the_patents_of/?rdt=34461) [PiTCHFORK](https://pitchfork.com/reviews/albums/jay-electronica-act-ii-the-patents-of-nobility-the-turn/)
+
+
+
+
+
+# [Pilot Episode](https://en.wikipedia.org/wiki/Television_pilot)  I, Darrin, Take This Witch, Samantha  S1E1  Bewitched
+[Wiki](https://en.wikipedia.org/wiki/Television_pilot) A television pilot (also known as a pilot or a pilot episode and sometimes marketed as a tele-movie) in United Kingdom and United States television, is a standalone episode of a television series that is used to sell a show to a television network or other distributor. A pilot is created to be a testing ground to gauge whether a series will be successful. It is, therefore, a test episode for the intended television series, an early step in the series development, much like pilot studies serve as precursors to the start of larger activity. A successful pilot may be used as the [series premiere](https://en.wikipedia.org/wiki/Series_premiere) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB_vXlgcCpw?si=kwnp7HaD-Kx__r4j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### The Lady in the Bottle
+>Episode aired Sep 18, 1965
+US Astronaut Tony lands at a small island. While waiting to be rescued, he comes across Jeannie, a cute genie. - [imdb](https://www.imdb.com/title/tt0609160/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F41Y37XTZck?si=KRtN1RTbFHgIuKUr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ljDnzzqwnRIynr1g55um4?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6gpZSI0xEMTzleBc5ykOVA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# What It’s Come To - [![Twitter Follow](https://img.shields.io/badge/Social-Tip__-blue?style=social&logo=X)](https://twitter.com/Tip) [T.I.](https://www.officialti.com/)
+<iframe loading=lazy width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1052095885&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tiofficial" title="T.I." target="_blank" style="color: #cccccc; text-decoration: none;">T.I.</a> · <a href="https://soundcloud.com/tiofficial/what-its-come-to" title="What It’s Come To" target="_blank" style="color: #cccccc; text-decoration: none;">What It’s Come To</a></div>
+
+[RashardLearNed](https://ricothaka.github.io/rashardlearned/) and [SpaceForce](https://www.spaceforce.mil/) tweeted [RashardMRO](ricothaka.github.io/rashardmro) so [![Twitter Follow](https://img.shields.io/badge/Social-US_SpaceCom__-blue?style=social&logo=X)](https://twitter.com/US_SpaceCom) ... [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) ### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+[California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa [- Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) 
+
+
+
+
+# [older posts](./current03)
+
+
+<picture itemprop="image">
+  <source srcset="https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096" media="(orientation: portrait)" />
+  <source srcset="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" media="(orientation: portrait)" />
+  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png" alt="" />
+</picture>

@@ -1,0 +1,167 @@
+
+@media print, screen and (max-width: 1060px) {
+
+    div.wrapper {
+      width:auto;
+      margin:0;
+    }
+  
+    nav{
+      display: none;
+    }
+  
+    header, section, footer {
+      float:none;
+  
+      h1 {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -o-text-overflow: ellipsis;
+        -ms-text-overflow: ellipsis;
+      }
+    }
+  
+    #banner {
+      width: 100%;
+  
+      .downloads {
+          margin-right: 60px;
+        }
+  
+      .fork {
+      }
+  
+      #logo {
+        margin-right: 15px;
+      }
+    }
+  
+    #MAiN {
+      border:1px solid #e5e5e5;
+      border-width:1px 0;
+      padding:20px 0;
+      margin: 190px auto 20px;
+     
+    }
+  
+    footer{
+      text-align: center;
+      margin: 20px auto;
+      position: relative;
+      left:auto;
+      bottom:auto;
+      width:auto;
+      }
+  }
+  
+  @media print, screen and (max-width: 1000px) {
+    body {
+      word-wrap:break-word;
+    }
+  
+    header {
+      padding:20px 20px;
+      margin: 0;
+  
+      h1 {
+        font-size: 32px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -o-text-overflow: ellipsis;
+        -ms-text-overflow: ellipsis;
+      }
+  
+      p { display: none;}
+    }
+  
+    #banner {
+      top: 80px;
+  
+      .fork {
+        float: left;
+        display: inline-block;
+        margin-left: 0px;
+      position:fixed;
+      left:20px;
+  
+        }
+    }
+  
+    #MAiN {
+      margin-top: 0px;
+      margin-bottom: 0px;
+      width: auto;
+    }
+  
+    header ul, header p.view {
+      position:static;
+    }
+  }
+  
+  @media print, screen and (max-width: 1024px) {
+    body {
+    }
+  
+    header{
+      position: relative;
+      padding: 0px 0px;
+      min-height: 0px;
+  
+      h1 {
+        font-size: 24px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -o-text-overflow: ellipsis;
+        -ms-text-overflow: ellipsis;
+      }
+    }
+    section {
+      margin-top: 0px;
+    }
+  
+    #banner { display: none;}
+    header ul {
+      display:none;
+    }
+  }
+  
+  @media print {
+    body {
+      padding:0.4in;
+      font-size:12pt;
+      color:#444;
+    }
+  }
+  
+  @media print, screen and (max-height: 680px) {
+  
+    footer {
+      text-align: center;
+      margin: 20px auto;
+      position: relative;
+      left:auto;
+      bottom:auto;
+      width:auto;
+    }
+  }
+  
+  @media print, screen and (max-height: 480px) {
+    nav {
+      display: none;
+    }
+  
+    footer {
+      text-align: center;
+      margin: 20px auto;
+      position: relative;
+      left:auto;
+      bottom:auto;
+      width:auto;
+    }
+  }
+  
+  
+  
