@@ -1,3 +1,11 @@
+
+
+
+
+
+![FALkeN](https://pbs.twimg.com/media/E0ut3ByVgAA4MdC?format=jpg&name=large)
+[RelatedTweet](https://x.com/FalkenTire/status/1390396077002543105) [Justin Pawlak and the Falken Tire Ford Mustang in Action | Formula DRIFT | Ford Performance](https://www.youtube.com/watch?v=_WGPAN-fegU) [MONSTER DRIFT: The Wall](https://www.youtube.com/watch?v=mQVWIsnav3c)
+
 [Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
 
 # Nitrogen Dioxide over the Continental US and Los Angeles
