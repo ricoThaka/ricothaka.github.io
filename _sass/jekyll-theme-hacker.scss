@@ -44,7 +44,7 @@ HTML {
 HGROUP {
   
   margin: 0 auto;
-  width: 60vw;
+  width: 70vw;
   margin: auto; 
   
 }
@@ -64,12 +64,41 @@ HGROUP h1 {
   
   #MAiN {
     margin: 0 auto;
-    width: 65vw;
+    width: 70vw;
     height: 100vh;
     margin: auto;  
   }
 
 /* footer embedded in include as of jan15_2025 */ 
+#footer {
+  flex-wrap: wrap;
+  align-self: center;
+  justify-self: center;
+  bottom: 0;
+  position: fixed;
+  display: inline;
+  grid-template-rows: auto auto auto;
+  background-color: none;
+  color: white;
+  padding: 0px;
+  width: 70vw;
+  overflow-wrap: break-all;
+}
+
+#footer img {
+
+}
+
+
+.logo {
+  float: none;
+  background-color: none;
+  display: block;
+}
+
+
+
+
 
   p {
     display: inline-block;
