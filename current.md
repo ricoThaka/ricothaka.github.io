@@ -1,6 +1,10 @@
 
-
-
+# PIA26339: Checking the Cover on Perseverance's SHERLOC
+<video  controls poster="https://photojournal.jpl.nasa.gov/jpegMod/PIA26339_modest.jpg">
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
 # PIA26377: Perseverance Drives Backward Up Jezero Crater's Rim
 <video  controls poster="https://photojournal.jpl.nasa.gov/jpegMod/PIA26377_modest.jpg">
   <source src="https://photojournal.jpl.nasa.gov/archive/PIA26377.mp4" type="video/mp4" />
