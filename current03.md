@@ -719,7 +719,8 @@ border-bottom:solid 10px  #c9ff23;}
 
 
  
- ![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
+
 
 
 ### ᕙ(⇀‸↼‶)ᕗ
+# [older posts](./current02)
