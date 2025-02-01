@@ -1,4 +1,18 @@
+# Los ANGELES Area LandSlides
+### NASA Radar Imagery Reveals Details About Los Angeles-Area Landslides
+Researchers at NASA’s Jet Propulsion Laboratory in Southern California used data from an airborne radar to measure the movement of the slow-moving landslides on the Palos Verdes Peninsula in Los Angeles County - [ReadMorE](https://www.nasa.gov/science-research/earth-science/nasa-radar-imagery-reveals-details-about-los-angeles-area-landslides/)
+![LANDSLiDE_VELOCiTY](https://www.nasa.gov/wp-content/uploads/2025/01/1-pia26495-pv-landslides.jpg)
 
+[What is the Earth's "water cycle?"](https://www.usgs.gov/faqs/what-earths-water-cycle)
+The water cycle, also known as the hydrologic cycle, describes where water is stored on Earth and how it moves.
+[<img src="https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/USGS_WaterCycle_English_ScaledDown.png" alt="What is the Earths water cycle?" />](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/USGS_WaterCycle_English_ScaledDown.png)
+
+
+There are two ways in which water moves from the ground to the atmosphere as part of the hydrologic cycle: evaporation and transpiration. Transpiration is basically evaporation of water from inside plant leaves.  - [Learning Lesson: Leaf it to Me](https://www.noaa.gov/jetstream/ll-leaf#:~:text=Overview,water%20from%20inside%20plant%20leaves.) @NOAAGov @nasa-jpl [Transpiration in Plants: Its Importance and Applications](https://cid-inc.com/blog/transpiration-in-plants-its-importance-and-applications/)
+[Evaporation and Transpiration Basic Concepts](https://www.hec.usace.army.mil/confluence/hmsdocs/hmstrm/evaporation-and-transpiration/evaporation-and-transpiration-basic-concepts) [Transpiration - What and Why?](https://passel2.unl.edu/view/lesson/c242ac4fbaaf/3)
+
+# [The Biology of Transpiration. From Guard Cells to Globe](https://pmc.ncbi.nlm.nih.gov/articles/PMC1761997/)
+`Transpiration in higher plants accounts for about three-quarters of the water that is vaporized at the global land surface and one-eighth of that vaporized over the entire globe. The availability of water is one of the major factors restricting terrestrial plant production on a global scale.` [Susanne von Caemmerer 1, Neil Baker 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC1761997/pdf/pp1430003.pdf)
 
  ![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
