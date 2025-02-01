@@ -1,8 +1,12 @@
 
 
 
+# ARIA/OPERA Surface Disturbance from Sentinel-1 (DIST-S1) prototype
 
+Researchers working with the Advanced Rapid Imaging and Analysis (ARIA) and Observational Products for End-Users from Remote Sensing Analysis (OPERA) teams at NASA's Jet Propulsion Laboratory, Pasadena, California, created the OPERA Surface Disturbance Alert from Sentinel-1 (DIST-S1-ALERT) prototype  product suite to create maps of surface disturbance due to ongoing wildfires in Los Angeles County in January 2025.
+[NASA’s Jet Propulsion Laboratory unscathed by Eaton fire, but not its workforce - LATiMES](https://www.latimes.com/california/story/2025-01-18/nasas-jet-propulsion-lab-unscathed-by-eaton-fire-but-not-its-workforce) <~ @datadesk 
 [<img src="https://d1z62tir4fw0q0.cloudfront.net/20250113-GreaterLosAngeles_Fires/DIST-HLS/LA_Fire_DIST-ALERT_01-12-2025.jpg" alt="GreaterLosAngeles_Fires" />](https://d1z62tir4fw0q0.cloudfront.net/20250113-GreaterLosAngeles_Fires/DIST-HLS/LA_Fire_DIST-ALERT_01-12-2025.jpg)
+[<img src="https://d1z62tir4fw0q0.cloudfront.net/20250113-GreaterLosAngeles_Fires/DIST-S1_prototype/LA_Fires_OPERA_DIST_S1.png" alt="OPERA SURFACE DiSTURBANCE from Sentinel-1" />](https://d1z62tir4fw0q0.cloudfront.net/20250113-GreaterLosAngeles_Fires/DIST-S1_prototype/LA_Fires_OPERA_DIST_S1.png)
 ### FoR LATER [ARiA](https://aria.jpl.nasa.gov/)
 ![ARiA](https://aria.jpl.nasa.gov/assets/images/content/tmp/home/color2.png)
 # PIA26339: Checking the Cover on Perseverance's SHERLOC
