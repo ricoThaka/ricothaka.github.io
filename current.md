@@ -1,5 +1,5 @@
 # Los ANGELES Area LandSlides
-### NASA Radar Imagery Reveals Details About Los Angeles-Area Landslides
+### NASA Radar Imagery Reveals Details About Los Angeles-Area Landslides [RelatedTweeT](https://x.com/RicoThaka/status/1881110574538625488)
 Researchers at NASA’s Jet Propulsion Laboratory in Southern California used data from an airborne radar to measure the movement of the slow-moving landslides on the Palos Verdes Peninsula in Los Angeles County - [ReadMorE](https://www.nasa.gov/science-research/earth-science/nasa-radar-imagery-reveals-details-about-los-angeles-area-landslides/)
 ![LANDSLiDE_VELOCiTY](https://www.nasa.gov/wp-content/uploads/2025/01/1-pia26495-pv-landslides.jpg)
 
