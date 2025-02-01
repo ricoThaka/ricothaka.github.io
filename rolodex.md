@@ -59,7 +59,7 @@ ASTER is a cooperative effort between NASA and Japan's Ministry of Economy Trade
 [TELNETDiR - https://victoria.tc.ca/history/internet/telnet-sites.html - BLOCKED at LAPL](https://victoria.tc.ca/history/internet/telnet-sites.html)
 [What are your favorite Telnet sites (Besides Fozz's) - REDDiT r/retrobattlestations/](https://www.reddit.com/r/retrobattlestations/)
 
-
+GO-5Y7R5 - the globe program 
 ## forums
 [EarthData](https://forum.earthdata.nasa.gov/viewforum.php?f=7&tagMatch=all&DAAC=3&keywords=&sid=42a07a8c348c09f8d868d2ba19c68587)
 [12ozProphet](https://forum.12ozprophet.com/) [graffhelp](https://www.reddit.com/r/graffhelp/comments/9bi06b/12_oz_prophet/)

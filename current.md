@@ -3,12 +3,21 @@
 
 # ARIA/OPERA Surface Disturbance from Sentinel-1 (DIST-S1) prototype
 
-Researchers working with the Advanced Rapid Imaging and Analysis (ARIA) and Observational Products for End-Users from Remote Sensing Analysis (OPERA) teams at NASA's Jet Propulsion Laboratory, Pasadena, California, created the OPERA Surface Disturbance Alert from Sentinel-1 (DIST-S1-ALERT) prototype  product suite to create maps of surface disturbance due to ongoing wildfires in Los Angeles County in January 2025.
+Researchers working with the Advanced Rapid Imaging and Analysis (ARIA) and Observational Products for End-Users from Remote Sensing Analysis (OPERA) teams at NASA's Jet Propulsion Laboratory, Pasadena, California, created the [OPERA](https://lpdaac.usgs.gov/products/opera_l3_dist-alert-hls_provisional_v0v000/) [Surface Disturbance Alert](https://www.jpl.nasa.gov/go/opera/products/dist-product-suite/) from [Sentinel-1](https://www.earthdata.nasa.gov/data/platforms/space-based-platforms/sentinel-1) (DIST-S1-ALERT) prototype  product suite to create maps of surface disturbance due to ongoing [wildfires in Los Angeles County](https://spacenews.com/nasa-jet-propulsion-laboratory-evacuated-due-to-la-wildfire/) in January 2025. The land Surface Disturbance product (DIST) maps disturbance detected when there is a change outside a historical norm using optical or SAR imagery. [DIST Product Suite](https://www.jpl.nasa.gov/go/opera/products/dist-product-suite/) [DAAC - OPERA_L3_DIST-ALERT-HLS_PROVISIONAL_V0 v000](https://lpdaac.usgs.gov/products/opera_l3_dist-alert-hls_provisional_v0v000/)
 [NASA’s Jet Propulsion Laboratory unscathed by Eaton fire, but not its workforce - LATiMES](https://www.latimes.com/california/story/2025-01-18/nasas-jet-propulsion-lab-unscathed-by-eaton-fire-but-not-its-workforce) <~ @datadesk 
 [<img src="https://d1z62tir4fw0q0.cloudfront.net/20250113-GreaterLosAngeles_Fires/DIST-HLS/LA_Fire_DIST-ALERT_01-12-2025.jpg" alt="GreaterLosAngeles_Fires" />](https://d1z62tir4fw0q0.cloudfront.net/20250113-GreaterLosAngeles_Fires/DIST-HLS/LA_Fire_DIST-ALERT_01-12-2025.jpg)
 [<img src="https://d1z62tir4fw0q0.cloudfront.net/20250113-GreaterLosAngeles_Fires/DIST-S1_prototype/LA_Fires_OPERA_DIST_S1.png" alt="OPERA SURFACE DiSTURBANCE from Sentinel-1" />](https://d1z62tir4fw0q0.cloudfront.net/20250113-GreaterLosAngeles_Fires/DIST-S1_prototype/LA_Fires_OPERA_DIST_S1.png)
 ### FoR LATER [ARiA](https://aria.jpl.nasa.gov/)
 ![ARiA](https://aria.jpl.nasa.gov/assets/images/content/tmp/home/color2.png)
+
+
+![EARTH](https://www.globe.gov/o/gov-globe-main-theme/images/what_is_globe_earth.svg)
+# GLOBE Program Overview
+With the support of NASA and the federal science agencies that sponsor GLOBE, namely the National Oceanic and Atmospheric Administration (NOAA), the National Science Foundation (NSF) and the U.S. Department of State (DoS), GLOBE engages learners in the scientific process and advances scientific literacy and science diplomacy. Through GLOBE’s community engagement, the program serves as a bridge between the researchers of today and those of tomorrow.
+[READMORE](https://www.globe.gov/about/learn/program-overview)
+
+![FALL](https://science.nasa.gov/wp-content/uploads/2024/10/fall-leaves.png?resize=1024,215)
+
 # PIA26339: Checking the Cover on Perseverance's SHERLOC
 <video  controls poster="https://photojournal.jpl.nasa.gov/jpegMod/PIA26339_modest.jpg">
   <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
