@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang='{{ site.lang | default: "en-US" }}'>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,7 +17,7 @@
   </head>
   
   <BODY itemprop="Blog" itemscope itemtype="https://schema.org/Blog">
-    {% include HGROUP.HTML %}
+    
     <div id="wrapper">
        <div id="heading">
   
@@ -26,7 +26,7 @@
       </div>      
   
     </div>
-  
+    {% include HGROUP.HTML %}
  <div id="main" class="floatleft floatright">
     
         {{ content }}
