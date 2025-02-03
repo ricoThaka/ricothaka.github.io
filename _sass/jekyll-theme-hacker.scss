@@ -69,27 +69,6 @@ HGROUP h1 {
     margin: auto;  
   }
 
-/* footer embedded in include as of jan15_2025 */ 
-#footer {
-  flex-wrap: wrap;
-  align-self: center;
-  justify-self: center;
-  margin: 0 auto;
-  bottom: 0;
-  position: fixed;
-  display: inline;
-  grid-template-rows: auto auto auto;
-  background-color: none;
-  color: white;
-  padding: 0px;
-  width: 70vw;
-  overflow-wrap: break-all;
-}
-
-#footer img {
-
-}
-
 
 .logo {
   float: none;
