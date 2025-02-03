@@ -317,7 +317,7 @@ video {
 
 
 #main {
-margin-top: 15px;
+margin-top: 0px;
 }
 
 #footer {
@@ -523,7 +523,7 @@ a {
 #wrapper
 {
 
-  width: 50vw;
+  width: 70vw;
   height: 100vh;
   margin: auto;
 }
