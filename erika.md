@@ -1,6 +1,6 @@
 
 
-
+[Collection of emojis and one line text art like (╯°□°）╯︵ ┻━┻ 🤗](https://gist.github.com/ricoThaka/2c0ec19d350331cd16ba2444156b77fa)
 [Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf)
 part of the - Ground Data System (GDS) tool suite 
 
