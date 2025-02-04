@@ -1,7 +1,12 @@
 
 
 [Collection of emojis and one line text art like (╯°□°）╯︵ ┻━┻ 🤗](https://gist.github.com/ricoThaka/2c0ec19d350331cd16ba2444156b77fa)
-[Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf)
+
+
+[This document is the AMMOS Catalog, Version 5.1 for the Multimission Ground Systemand Services (MGSS) Program, Interplanetary Network Directorate (IND) Office](https://ammos.nasa.gov/pdf/AMMOS_Catalog-V5_2_Public_Release.pdf) The capabilities described in this AMMOS Catalog are intended to serve as guidance
+and as the ‘gold source’ capability descriptions when developing Service Level
+Agreements (SLAs) with mission customers
+[Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf)
 part of the - Ground Data System (GDS) tool suite 
 
 [Ground & Flight Data Systems Group](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/)  creates systems to facilitate transmission and processing of data between spacecraft, rovers, satellites, ground control, and distributed mission teams. Data ranges from communications, telemetry, and Integrated Systems Health Management (ISHM) data, to planetary, astrophysical, medical, and biological science research data and analytics. Ground processing of data is accomplished by science pipeline data systems, which transform raw, uncorrected, uncalibrated data into usable products for the science community. GFDS designs systems to satisfy carefully defined and documented user requirements involving the secure handling of sensitive and irreplaceable mission data. The group supports space and planetary exploration missions, as well as Earth and space sciences, small satellite, and aeronautics missions and projects. [The Mars 2020 Ground Data System Architecture](https://ntrs.nasa.gov/citations/20230007026)
