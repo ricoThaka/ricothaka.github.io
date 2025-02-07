@@ -3,7 +3,7 @@
 
 ![rna](https://pbs.twimg.com/media/GRGqGbObEAALo1X?format=jpg&name=large)
 [RelatedTweet](https://x.com/BubbleGumPop626/status/1806412742796148916)
-[Mario64](https://youtu.be/1uDQ8mTYUHQ?si=p0dQbBDu6WLgUyaQ) [Breaking the limits: Installing Windows 2000 in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-2000-in-dosbox-x/)
+[Mario64](https://youtu.be/1uDQ8mTYUHQ?si=p0dQbBDu6WLgUyaQ) [Breaking the limits: Installing Windows 2000 in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-2000-in-dosbox-x/) [MGS](https://x.com/BubbleGumPop510/status/1796298706448474603)
 
 [Exoplanet Count Tops 5,000](https://www.caltech.edu/about/news/exoplanet-count-tops-5000) [EXOPLANET_ARCHiVE](https://exoplanetarchive.ipac.caltech.edu/) [5kDOWNLOAD](https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4)
 
