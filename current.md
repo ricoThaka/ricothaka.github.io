@@ -1,6 +1,6 @@
 
 
-
+![f](https://pbs.twimg.com/media/F985MfrasAApswF?format=jpg&name=large)
 ![rna](https://pbs.twimg.com/media/GRGqGbObEAALo1X?format=jpg&name=large)
 [RelatedTweet](https://x.com/BubbleGumPop626/status/1806412742796148916)
 [Mario64](https://youtu.be/1uDQ8mTYUHQ?si=p0dQbBDu6WLgUyaQ) [Breaking the limits: Installing Windows 2000 in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-2000-in-dosbox-x/) [MGS](https://x.com/BubbleGumPop510/status/1796298706448474603) [matt](https://x.com/BubbleGumPop510/status/1715448873823633708) [eric](https://x.com/BubbleGumPop510/status/1761172205478785064)
