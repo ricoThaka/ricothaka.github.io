@@ -6,9 +6,9 @@ NASA's Mars rover Curiosity acquired this image using its Mars Hand Lens Imager 
 
 When this image was obtained, the focus motor count position was 12660. This number indicates [ReadMore](https://mars.nasa.gov/raw_images/311412/?site=msl) [RelatedTweet-CuriosityWebSiteError](https://x.com/RicoThaka/status/1887708019586441316) [LARiVER](https://x.com/RicoThaka/status/1887200958259540046) [GraveYard_EAV_RELATiONSHiPS](https://x.com/RicoThaka/status/1842666782785683687) 
 ![Chun_Li](https://pbs.twimg.com/media/GZkHa1BaAAMc-zZ?format=jpg&name=large)
-[STREETFiGHTER3](https://x.com/RicoThaka/status/1844514052338483687) [CorALs_first_Complete_Scratch](https://x.com/RicoThaka/status/1844888512786726996)
+[STREETFiGHTER3](https://x.com/RicoThaka/status/1844514052338483687) [CorALs_first_Complete_Scratch](https://x.com/RicoThaka/status/1844888512786726996) [RashardDancing](https://x.com/RicoThaka/status/1844889450142368126)
 
-[Coral](https://pbs.twimg.com/media/GZpcKs_aUAAtGM9?format=jpg&name=medium)
+![Coral](https://pbs.twimg.com/media/GZpcKs_aUAAtGM9?format=jpg&name=medium)
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239117456&color=%2300ff3e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kodak-black" title="Kodak Black" target="_blank" style="color: #cccccc; text-decoration: none;">Kodak Black</a> · <a href="https://soundcloud.com/kodak-black/18-like-dat" title="18 Like Dat" target="_blank" style="color: #cccccc; text-decoration: none;">18 Like Dat</a></div>
