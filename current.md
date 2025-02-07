@@ -1,4 +1,16 @@
 
+
+
+
+[Mario64](https://youtu.be/1uDQ8mTYUHQ?si=p0dQbBDu6WLgUyaQ) [Breaking the limits: Installing Windows 2000 in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-2000-in-dosbox-x/)
+
+
+
+![RayMan](https://pbs.twimg.com/media/F7ZU0jJaoAAOnhp?format=jpg&name=medium)
+![android wheres my phone](https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium)
+![Termux](https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium)
+![BMX](https://pbs.twimg.com/media/F6UzcaRa0AEqcqk?format=jpg&name=medium)
+
 # Mars Hand Lens Imager (MAHLI) Sol 1245: 
 ![Sol 1245: Mars Hand Lens Imager (MAHLI)](https://mars.nasa.gov/msl-raw-images/msss/01245/mhli/1245MH0002590000403763E01_DXXX.jpg)
 
