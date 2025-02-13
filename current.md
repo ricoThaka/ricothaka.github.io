@@ -1,4 +1,18 @@
 
+# [PrivateSnafu](https://en.wikipedia.org/wiki/Private_Snafu): [Rumors](https://www.youtube.com/watch?v=nL2_x5sO7xI) [(1943)](https://www.loc.gov/search/?dates=1943/1943)
+
+<video  controls poster="https://pbs.twimg.com/media/GXngg4PagAABGUm?format=jpg&name=large">
+  <source src="https://ia801302.us.archive.org/22/items/private-snafu_202401/Private%20Snafu%20Golden%20Classics%20%281943%E2%80%931946%29%20%281080p%20BluRay%20x265%20HEVC%2010bit%20AC3%202.0%20Garshasp%29/8%20-%20Rumors%20%281943%29%20%281080p%20BluRay%20x265%20Garshasp%29.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+
+<picture>
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: portrait)" />
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: landscape)" />
+  <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
+</picture>
 
 ![f](https://pbs.twimg.com/media/F985MfrasAApswF?format=jpg&name=large)
 ![rna](https://pbs.twimg.com/media/GRGqGbObEAALo1X?format=jpg&name=large)
