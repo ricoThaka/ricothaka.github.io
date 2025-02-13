@@ -19,7 +19,9 @@
   <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
 </picture>
 
-[Related](https://x.com/RicoThaka/status/1725377028017529103)
+[Related](https://x.com/RicoThaka/status/1725377028017529103) [Message To RepKamlager](https://x.com/RicoThaka/status/1890138011494674876) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKamlagerDove__-blue?style=social&logo=X)](https://twitter.com/@RepKamlagerDove) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)  review [#myGitHub] 4 
+@ [![Twitter Follow](https://img.shields.io/badge/Social-@LACityCouncil__-blue?style=social&logo=X)](https://twitter.com/@LACityCouncil) 
+
 ![LACiTYViEW](https://pbs.twimg.com/media/Gjs5q94bEAAEX2E?format=jpg&name=large)  [TUNE_IN_interNEtTV LA_CiTY_ViEW](https://lacityview.org/live) [intown](https://x.com/RicoThaka/status/1881386651236319482) [PrivateSecurityPleaseStopHurtingUs!](https://x.com/Jasmyne/status/1890099604517191685) [RELATEDTWEET](https://x.com/RicoThaka/status/1890162131011793028)
 
 
