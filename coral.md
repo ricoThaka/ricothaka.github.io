@@ -15,6 +15,16 @@
 </div>
 
 
+<h3> Exoplanet Catalog</h3>
+       
+  <video controls preload="none"controls autoplay
+    src="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4"
+    poster="https://svs.gsfc.nasa.gov/vis/a010000/a012400/a012439/Exoplanet_Scale-3840_print.jpg">
+  
+    Sorry, your browser doesn't support embedded videos, but don't worry, you can
+    <a href="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4">download it</a>
+    and watch it with your favorite video player!
+  </video>
 
 # Jackie Chan's Action Kung Fu ( USA)
 Coral this game is super fun, i was playing it on the train. - dad @nasa @whitehouse [Jackie Chan's Action Kung Fu (ジャッキー・チェン, Jakkī Chen, Jackie Chan)](https://en.wikipedia.org/wiki/Jackie_Chan%27s_Action_Kung_Fu)
