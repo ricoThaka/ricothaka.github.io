@@ -4,7 +4,8 @@
 
 # [PrivateSnafu](https://en.wikipedia.org/wiki/Private_Snafu): [Rumors](https://www.youtube.com/watch?v=nL2_x5sO7xI) [(1943)](https://www.loc.gov/search/?dates=1943/1943)
 https://svs.gsfc.nasa.gov/31309/
-<video  controls poster="https://pbs.twimg.com/media/GXngg4PagAABGUm?format=jpg&name=large">
+
+<video controls poster="https://pbs.twimg.com/media/GXngg4PagAABGUm?format=jpg&name=large">
   <source src="https://ia801302.us.archive.org/22/items/private-snafu_202401/Private%20Snafu%20Golden%20Classics%20%281943%E2%80%931946%29%20%281080p%20BluRay%20x265%20HEVC%2010bit%20AC3%202.0%20Garshasp%29/8%20-%20Rumors%20%281943%29%20%281080p%20BluRay%20x265%20Garshasp%29.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
@@ -13,10 +14,8 @@ https://svs.gsfc.nasa.gov/31309/
 # Two Decades of Soil Moisture from Space
 These maps combine data from the Gravity Recovery and Climate Experiment (GRACE) and GRACE Follow-On (GRACE-FO) with other satellite and ground-based measurements to model the relative amount of water stored at three different depths [READMORE](https://svs.gsfc.nasa.gov/31176/) [NiLSen-Animator](https://svs.gsfc.nasa.gov/search/?people=Marit%20Jentoft-Nilsen)
 
-<video controls preload="none"controls autoplay
-    src="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031176/GRACE_US_7D_RTZSM_GWS_040_1080p10.webm"
-    poster="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031176/GRACE_US_7D_RTZSM_GWS_20241028_040_print.jpg">
-  
+<video controls preload="none" poster="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031176/GRACE_US_7D_RTZSM_GWS_20241028_040_print.jpg">
+    <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031176/GRACE_US_7D_RTZSM_GWS_040_1080p10.webm" type="video/webm" />
    Sorry, your browser doesn't support embedded videos, but don't worry, you can
     <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031176/GRACE_US_7D_RTZSM_GWS_040_1080p10.mp4">download it</a>
     and watch it with your favorite video player!
