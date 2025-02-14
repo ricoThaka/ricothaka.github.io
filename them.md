@@ -1,7 +1,7 @@
 ---
 layout : null
 ---
-
+[Saweetie Adds “Lead Role” To 2025 Bucket List After Debut Album](https://www.hot97.com/news/saweetie-adds-lead-role-to-2025-bucket-list-after-debut-album/)
 [Summer of '67 - how Detroit changed forever in 5 days](https://www.youtube.com/watch?v=kn1gcdgiLac)
 [Detroit Classic - The Rise and Fall of Detroit's Black Bottom"](https://www.youtube.com/watch?v=iSVgOCiT93Y)
 
