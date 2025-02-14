@@ -2,6 +2,9 @@
 layout : null
 ---
 
+[Summer of '67 - how Detroit changed forever in 5 days](https://www.youtube.com/watch?v=kn1gcdgiLac)
+[Detroit Classic - The Rise and Fall of Detroit's Black Bottom"](https://www.youtube.com/watch?v=iSVgOCiT93Y)
+
 # [Fine Ho, Stay](https://www.rcarecords.com/news/flo-milli-announces-new-album-fine-ho-stay/)
 [![FloMilli](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png)](https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2023/07/Unknown-1.png "Redirect to homepage")
 <embed  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1772831295&color=%2300ffc8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />

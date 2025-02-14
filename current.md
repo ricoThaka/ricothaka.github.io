@@ -1,6 +1,12 @@
 
+# Klarity - [KashDoLL](https://archive.org/details/Kash_Doll_-_The_Vault-2018)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bFe0VbIzGK0?si=Vf3JufoQ4Aiw88F-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[Summer of '67 - how Detroit changed forever in 5 days](https://www.youtube.com/watch?v=kn1gcdgiLac)
+[Detroit Classic - The Rise and Fall of Detroit's Black Bottom"](https://www.youtube.com/watch?v=iSVgOCiT93Y) [Kash Doll On Drake, Kendrick Lamar, Chief Keef, Detroit, Men, Relationships & Performs!](https://youtu.be/SpvgXZ9_pTs?si=-XmrTIRWR2gg5M_H) [Kash Doll Opens Up About Home Invasion Involving Shootout With Tracy T](https://power1051.iheart.com/content/2024-08-19-kash-doll-opens-up-about-home-invasion-involving-shootout-with-tracy-t/) [Kash Doll Says She Was Robbed of $500,000 Worth of Jewelry](https://www.complex.com/music/a/mack/kash-doll-robbed-500000-jewelry) [Kash Doll Reveals There Were Multiple Arrests Following Attempted Home Robbery - HollywoodUnlocked](https://hollywoodunlocked.com/kash-doll-reveals-there-were-multiple-arrests-following-attempted-home-robbery/) 
+[RAPPER KASH DOLL CLAIMS SHE LOST $500K IN CAR BURGLARY While Shooting Music Vid!!! - TMZ](https://www.tmz.com/2021/05/15/rapper-kash-doll-car-burglary-la-music-video/)
 
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1881608747&color=%23ed90c7&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/sets/the-last-doll-1" title="The Last Doll" target="_blank" style="color: #cccccc; text-decoration: none;">The Last Doll</a></div>
 
 # [PrivateSnafu](https://en.wikipedia.org/wiki/Private_Snafu): [Rumors](https://www.youtube.com/watch?v=nL2_x5sO7xI) [(1943)](https://www.loc.gov/search/?dates=1943/1943)
 https://svs.gsfc.nasa.gov/31309/
