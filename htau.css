@@ -74,9 +74,8 @@ font: normal 12px/18px "Red Hat Mono","Lucida Grande", "Lucida Sans Unicode", ve
 
 body {
   background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01417/ids/edr/browse/ncam/NLF_1417_0792725409_849ECM_N0690000NCAM00501_01_295J01_1200.jpg) no-repeat center center fixed; 
-  
-  /* background: url(https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153054/heatwavezm_geos5_20240710.jpg) no-repeat center center fixed;  */
- /* background: url(https://science.nasa.gov/wp-content/uploads/2023/09/PIA14943-full.jpg) no-repeat center center fixed;  */
+/* background: url(https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153054/heatwavezm_geos5_20240710.jpg) no-repeat center center fixed;  */
+/* background: url(https://science.nasa.gov/wp-content/uploads/2023/09/PIA14943-full.jpg) no-repeat center center fixed;  */
   line-height: 1.5;
   -webkit-background-size: cover;
  -moz-background-size: cover;
@@ -85,6 +84,7 @@ body {
 color:white;
   font-optical-sizing: auto;
 }
+
 /*
 body {
   
