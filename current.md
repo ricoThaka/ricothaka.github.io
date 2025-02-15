@@ -1,3 +1,6 @@
+# [El Niño](https://www.youtube.com/watch?v=WPA-KpldDVc) Southern Oscillation
+![ELNINO](https://mynasadata.larc.nasa.gov/sites/default/files/2019-02/12601-El-Nino-3D-print.jpg)
+
 
 # [KD Diary](https://soundcloud.com/kashdoll/sets/stacked-5) - [KashDoLL](https://archive.org/details/Kash_Doll_-_The_Vault-2018)
 @blackgirlscode idk if Normani is Kashdoll or They sisters but they / it has been my friend above all an i want her to get an audience that is really into hearing a story like a magazine you pick up. That will protect her from predators. Its a pattern for you all
@@ -18,6 +21,9 @@ https://svs.gsfc.nasa.gov/31309/
   
   Your browser does not support the video tag.
 </video>
+
+
+
 
 # Two Decades of Soil Moisture from Space
 These maps combine data from the Gravity Recovery and Climate Experiment (GRACE) and GRACE Follow-On (GRACE-FO) with other satellite and ground-based measurements to model the relative amount of water stored at three different depths [READMORE](https://svs.gsfc.nasa.gov/31176/) [NiLSen-Animator](https://svs.gsfc.nasa.gov/search/?people=Marit%20Jentoft-Nilsen)
