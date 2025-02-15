@@ -74,7 +74,8 @@ font: normal 12px/18px "Red Hat Mono","Lucida Grande", "Lucida Sans Unicode", ve
 
 body {
   
-  background: url(https://science.nasa.gov/wp-content/uploads/2023/09/PIA14943-full.jpg) no-repeat center center fixed; 
+  background: url(https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153054/heatwavezm_geos5_20240710.jpg) no-repeat center center fixed; 
+ /* background: url(https://science.nasa.gov/wp-content/uploads/2023/09/PIA14943-full.jpg) no-repeat center center fixed;  */
   line-height: 1.5;
   -webkit-background-size: cover;
  -moz-background-size: cover;
@@ -82,8 +83,6 @@ body {
  background-size: cover;
 color:white;
   font-optical-sizing: auto;
-  width: 100vw;
-  height: 100vh;
 }
 /*
 body {
