@@ -80,7 +80,14 @@ HTML {
   }
 
 
-
+.floatright img:nth-child(odd) {
+    float: right;
+  }
+.floatleft img:nth-child(even) {
+    float: left;
+    border-bottom: solid 1px #ffffff50;
+  }
+  
 
 H1 {
 
@@ -230,13 +237,6 @@ img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
 svg { width: max-content;
 display: inline-block; }
 
-.floatright img:nth-child(odd) {
-  float: right;
-}
-.floatleft img:nth-child(even) {
-  float: left;
-  border-bottom: solid 1px #ffffff50;
-}
 
 
 @keyframes slidein {
