@@ -1,4 +1,4 @@
----
+you---
 layout: normani
 title: Normani
 mermaid: true
@@ -7,7 +7,7 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
-
+git hub work on the train
 # Frozen Lake Saint Clair:[Great Lakes system](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Great_Lakes_from_space_during_early_spring.webp/1280px-Great_Lakes_from_space_during_early_spring.webp.png)
 [<IMG src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153936/valentinesday_oli2_20250127_lrg.jpg" />](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153936/valentinesday_oli2_20250127_lrg.jpg)
 [Detroit, late 1940s in color](https://youtu.be/OnxJVSfDmuY?si=dS8ZxIo_rdFSAGit) [Detroit - 1951](https://www.youtube.com/watch?v=5_bNKJyfL1Q)
