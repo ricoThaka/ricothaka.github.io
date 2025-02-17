@@ -1,3 +1,6 @@
+[FavoriteRadio](https://hotspotatl.com/listen-live/)
+[Manasseh Warner, NCC](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/)
+
 # [El Niño](https://www.youtube.com/watch?v=WPA-KpldDVc) Southern Oscillation
 ![ELNINO](https://mynasadata.larc.nasa.gov/sites/default/files/2019-02/12601-El-Nino-3D-print.jpg)
 
