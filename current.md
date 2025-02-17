@@ -1,5 +1,5 @@
 [FavoriteRadio](https://hotspotatl.com/listen-live/)
-[Manasseh Warner, NCC](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/) [HollywoodBae?](https://x.com/RicoThaka/status/1891287707352994054) [DAM_LiST](https://x.com/RicoThaka/status/1887227109619474919)
+[Manasseh Warner, NCC](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/) [HollywoodBae?](https://x.com/RicoThaka/status/1891287707352994054) [DAM_LiST](https://x.com/RicoThaka/status/1887227109619474919) [LA_SNOW](https://x.com/RicoThaka/status/1891286555844567506)
 
 # [El Niño](https://www.youtube.com/watch?v=WPA-KpldDVc) Southern Oscillation
 ![ELNINO](https://mynasadata.larc.nasa.gov/sites/default/files/2019-02/12601-El-Nino-3D-print.jpg)
