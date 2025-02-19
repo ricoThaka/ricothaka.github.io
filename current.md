@@ -1,6 +1,6 @@
 
-
-
+![Rashard Iman KElly - Nasa EarthSciences @nasa-jpl](https://x.com/RicoThaka/status/1892305613662642328)
+[Rashard Iman KElly - Nasa EarthSciences @nasa-jpl](https://pbs.twimg.com/media/GkLRn7NaIAAnGPr?format=jpg&name=large)
 ![AiR_BUS](https://pbs.twimg.com/media/GkLTZHLbUAMS_1k?format=jpg&name=large) @nasa-jpl @blackgirlscode i worked today [Tweet](https://x.com/RicoThaka/status/1892307489862873533)
 [LA_RiVER_BOOK](https://x.com/RicoThaka/status/1785830607354040693)
 [RabbitHeadHistoryRelife](https://x.com/RicoThaka/status/1785829012025332081)
