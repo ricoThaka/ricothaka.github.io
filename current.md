@@ -1,7 +1,8 @@
 
-![Rashard Iman KElly - Nasa EarthSciences @nasa-jpl](https://x.com/RicoThaka/status/1892305613662642328)
+# [Rashard Iman KElly - Nasa EarthSciences @nasa-jpl](https://x.com/RicoThaka/status/1892305613662642328)
 [Rashard Iman KElly - Nasa EarthSciences @nasa-jpl](https://pbs.twimg.com/media/GkLRn7NaIAAnGPr?format=jpg&name=large)
-![AiR_BUS](https://pbs.twimg.com/media/GkLTZHLbUAMS_1k?format=jpg&name=large) @nasa-jpl @blackgirlscode i worked today [Tweet](https://x.com/RicoThaka/status/1892307489862873533)
+![AiR_BUS](https://pbs.twimg.com/media/GkLTZHLbUAMS_1k?format=jpg&name=large) @nasa-jpl @blackgirlscode i worked today [Tweet](https://x.com/RicoThaka/status/1892307489862873533) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a) [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars) [![Twitter Follow](https://img.shields.io/badge/Social-realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/realDonaldTrump) 
+[![Twitter Follow](https://img.shields.io/badge/Social-GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/GavinNewsom)
 [LA_RiVER_BOOK](https://x.com/RicoThaka/status/1785830607354040693)
 [RabbitHeadHistoryRelife](https://x.com/RicoThaka/status/1785829012025332081)
 [FavoriteRadio](https://hotspotatl.com/listen-live/)
