@@ -1,4 +1,5 @@
 ![Rashard Iman Kelly - NAsaEarth](https://pbs.twimg.com/media/Gj8kxWXbQAAmnQR?format=jpg&name=medium)
+![Rashards ComputerPhone from HollywoodTrash GreG Sparta](https://pbs.twimg.com/media/Gj8kxWgaAAANYcV?format=png&name=medium)
 [CityClerk](https://x.com/RicoThaka/status/1729339063151611927)
 [FoodLine-DTLA](https://x.com/BubbleGumPop626/status/1743039251963658565) [Private Security on The rise](https://x.com/BubbleGumPop626/status/1757580894725124594) [atlantaFamilyDrama](https://x.com/BubbleGumPop626/status/1750663365285040364) [Anti Trump-Musk protest](https://x.com/FrancisLozano7/status/1891625655017574775) [DarkEnerGyCamera](https://x.com/BubbleGumPop626/status/1849916504269328469) [OnlyFans on 60min](https://x.com/BubbleGumPop626/status/1794117625137750222) [WW2 in Color](https://x.com/RicoThaka/status/1891922920869404698) [AfricanAmericansDuringWW2](https://x.com/RicoThaka/status/1891924067055464871) [GoogleEarthMobile](https://x.com/RicoThaka/status/1891939731786621138)
 ## [Rashard Iman KElly - Nasa EarthSciences @nasa-jpl](https://x.com/RicoThaka/status/1892305613662642328)
@@ -9,7 +10,15 @@
 [RabbitHeadHistoryRelife](https://x.com/RicoThaka/status/1785829012025332081)
 [FavoriteRadio](https://hotspotatl.com/listen-live/)
 [Manasseh Warner, NCC](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/) [HollywoodBae?](https://x.com/RicoThaka/status/1891287707352994054) [DAM_LiST](https://x.com/RicoThaka/status/1887227109619474919) [LA_SNOW](https://x.com/RicoThaka/status/1891286555844567506)
+[This document is the AMMOS Catalog, Version 5.1 for the Multimission Ground Systemand Services (MGSS) Program, Interplanetary Network Directorate (IND) Office](https://ammos.nasa.gov/pdf/AMMOS_Catalog-V5_2_Public_Release.pdf) The capabilities described in this AMMOS Catalog are intended to serve as guidance
+and as the ‘gold source’ capability descriptions when developing Service Level
+Agreements (SLAs) with mission customers
+[Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf)
+part of the - Ground Data System (GDS) tool suite 
 
+[Ground & Flight Data Systems Group](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/)  creates systems to facilitate transmission and processing of data between spacecraft, rovers, satellites, ground control, and distributed mission teams. Data ranges from communications, telemetry, and Integrated Systems Health Management (ISHM) data, to planetary, astrophysical, medical, and biological science research data and analytics. Ground processing of data is accomplished by science pipeline data systems, which transform raw, uncorrected, uncalibrated data into usable products for the science community. GFDS designs systems to satisfy carefully defined and documented user requirements involving the secure handling of sensitive and irreplaceable mission data. The group supports space and planetary exploration missions, as well as Earth and space sciences, small satellite, and aeronautics missions and projects. [The Mars 2020 Ground Data System Architecture](https://ntrs.nasa.gov/citations/20230007026)
+[The Mars Observer Camera Ground Data System](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025) [https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html](https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html)
+[Eaton Fire Leaves California Landscape Charred](https://earthobservatory.nasa.gov/images/153821/eaton-fire-leaves-california-landscape-charred?utm_source=TWITTER&utm_medium=NASAEarth&utm_campaign=NASASocial&linkId=715793698)
 # [El Niño](https://www.youtube.com/watch?v=WPA-KpldDVc) Southern Oscillation
 ![ELNINO](https://mynasadata.larc.nasa.gov/sites/default/files/2019-02/12601-El-Nino-3D-print.jpg)
 

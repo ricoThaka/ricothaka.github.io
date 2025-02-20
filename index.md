@@ -63,7 +63,7 @@ carousels:
 
 # Currently Compling g_e, m/s^2
 {% include_relative current.md %}
-![TELSTAR](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1962-029A)
+
 
 
 --- 
@@ -174,7 +174,19 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
   </div>
   </div>
 </div>
-
+ <A itemprop="url" href="https://photojournal.jpl.nasa.gov/jpegMod/PIA26474_modest.jpg">
+    <picture itemprop="image" itemscope itemtype="https://schema.org/CreativeWork">
+      <source srcset="https://photojournal.jpl.nasa.gov/jpegMod/PIA26474_modest.jpg" />
+      <IMG itemprop="publisher" itemscope="" itemtype="https://schema.org/CollegeOrUniversity" alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" src="https://photojournal.jpl.nasa.gov/jpegMod/PIA26474_modest.jpg" />
+    </picture>
+    </A>
+    <DIV class="gullieslo">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </DIV>
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" alt="CuriosityOnMArs">
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg" alt="martianLandscape">
 
