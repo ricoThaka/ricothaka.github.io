@@ -15,6 +15,13 @@
 </div>
 
 
+  
+  <video preload="none" controls itemprop="publisher" itemscope="" itemtype="https://schema.org/CollegeOrUniversity" alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" poster="https://photojournal.jpl.nasa.gov/jpegMod/PIA26339_modest.jpg">
+    <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
+    
+    Your browser does not support the video tag.
+  </video>
+ 
 <h3> Exoplanet Catalog</h3>
        
   <video controls preload="none"controls autoplay
