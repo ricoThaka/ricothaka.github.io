@@ -7,6 +7,9 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+
+
+[ImportantTweet](https://x.com/RicoThaka/status/1822376081770582135)
 [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) 
 git hub work on the train, I'm going to willow st in LongBeach to collect a sample of the algeBlooms ... I love u💯
 
