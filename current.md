@@ -1,6 +1,9 @@
 
 ## sonta "Your Mistake" [Official Video](https://youtu.be/FiGAkDE7s7o?si=R5PbUm03gx7dEhC-)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/996852493&color=%23b5e853&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonta-4" title="Sonta" target="_blank" style="color: #cccccc; text-decoration: none;">Sonta</a> · <a href="https://soundcloud.com/sonta-4/your-mistake-1" title="Your Mistake" target="_blank" style="color: #cccccc; text-decoration: none;">Your Mistake</a></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=9cMFvv5XYiplegKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 [How to show all images within a folder directory?](https://www.reddit.com/r/Jekyll/comments/17eavo4/how_to_show_all_images_within_a_folder_directory/?rdt=41676)
 @blackgirlscode : : Normani i joined `r/jekyll` on the bubblegumpop email
