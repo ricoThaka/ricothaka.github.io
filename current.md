@@ -1,6 +1,7 @@
 
 
 # [2024 Atlantic Hurricane Season](https://svs.gsfc.nasa.gov/5468/)
+The NASA Terra  and Aqua  satellites, each which carries a MODIS imager, are currently planning to cease science data collection January 2027 and August 2026, respectively. After the end of satellite operations, a final MODIS calibration will be developed followed by a complete reprocessing of all MODIS data; this is planned for completion by October 2029. [ReadMore](https://ladsweb.modaps.eosdis.nasa.gov/learn/continuity-efforts-for-modis-to-viirs-data/)
 ![ViirS](https://ladsweb.modaps.eosdis.nasa.gov/images/learn/modis-to-viirs-dorian.gif)
 
 
