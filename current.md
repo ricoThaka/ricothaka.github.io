@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
 <img src="https://pbs.twimg.com/media/GiK-Xz7b0AARj64?format=jpg&name=large" alt="@nasa-jpl is this my kid coral in n this photo?" />
 
+![CORAL](https://pbs.twimg.com/media/GIL0g6lbEAAdPn7?format=jpg&name=medium)
+
 ## sonta "Your Mistake" [Official Video](https://youtu.be/FiGAkDE7s7o?si=R5PbUm03gx7dEhC-)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=9cMFvv5XYiplegKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
