@@ -3,7 +3,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=9cMFvv5XYiplegKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+[Soil Moisture Visualizer - AirMOSS](https://airmoss.ornl.gov/visualize/)
 
 [How to show all images within a folder directory?](https://www.reddit.com/r/Jekyll/comments/17eavo4/how_to_show_all_images_within_a_folder_directory/?rdt=41676)
 @blackgirlscode : : Normani i joined `r/jekyll` on the bubblegumpop email
