@@ -9,7 +9,7 @@ tags: saint
 
 
 
-[ImportantTweet](https://x.com/RicoThaka/status/1822376081770582135)
+[ImportantTweet](https://x.com/RicoThaka/status/1822376081770582135) [SantamonicaFire](https://x.com/RicoThaka/status/1873610283073278386)
 [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) 
 git hub work on the train, I'm going to willow st in LongBeach to collect a sample of the algeBlooms ... I love u💯
 
