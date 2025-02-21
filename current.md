@@ -1,3 +1,7 @@
+### @nasa Robin_M_R_O is that u? i found a couple daacs i
+<img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
+<img src="https://pbs.twimg.com/media/GiK-Xz7b0AARj64?format=jpg&name=large" alt="@nasa-jpl is this my kid coral in n this photo?" />
+
 ## sonta "Your Mistake" [Official Video](https://youtu.be/FiGAkDE7s7o?si=R5PbUm03gx7dEhC-)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=9cMFvv5XYiplegKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -6,6 +10,7 @@
 
 [How to show all images within a folder directory?](https://www.reddit.com/r/Jekyll/comments/17eavo4/how_to_show_all_images_within_a_folder_directory/?rdt=41676)
 @blackgirlscode : : Normani i joined `r/jekyll` on the bubblegumpop email
+
 ### @nasa Robin_M_R_O is that u? i found a couple daacs i
 <img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
 
