@@ -1,3 +1,6 @@
+[![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) 
+git hub work on the train
+
 [Documentary: Raised on Porn – the new sex education - watch](https://www.youtube.com/watch?v=hzPylqS01qU) - [RiOTiMEs](https://www.riotimesonline.com/brazil-news/modern-day-censorship/documentary-raised-on-porn-the-new-sex-education/) [In today’s world, porn is ubiquitous. It’s everywhere, - https://sexandrelationshiphealing.com/](https://sexandrelationshiphealing.com/blog/documentary-film-raised-on-porn-37-minutes/) <iframe width="560" height="315" src="https://www.youtube.com/embed/hzPylqS01qU?si=DPTexd6AM7kRczIn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 https://thakarashard.github.io/BUBBLEGUMPOP_HUMA/ Twitter Follow i got this off DefConRadio on SOMAfm now Run & Tell That
 
@@ -7,7 +10,8 @@ https://thakarashard.github.io/BUBBLEGUMPOP_HUMA/ Twitter Follow i got this off 
 
 [Soil Moisture Visualizer - AirMOSS](https://airmoss.ornl.gov/visualize/)
 
-[Saturday Morning Breakfast](https://locator.lacounty.gov/lac/Location/3174007/st-francis-center---los-angeles) @nasa-jpl @blackgirlscode .. [La county LosAngeles California Services Locator -WebTooL](https://locator.lacounty.gov/)
+[Saturday Morning Breakfast](https://locator.lacounty.gov/lac/Location/3174007/st-francis-center---los-angeles) @nasa-jpl [![Twitter Follow](https://img.shields.io/badge/Social-SFCLA__-blue?style=social&logo=X)](https://twitter.com/SFCLA) 
+git hub work on the train @blackgirlscode .. [La county LosAngeles California Services Locator -WebTooL](https://locator.lacounty.gov/)
 
 ### @nasa Robin_M_R_O is that u? i found a couple daacs i
 <img src="https://raw.githubusercontent.com/ricoThaka/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
