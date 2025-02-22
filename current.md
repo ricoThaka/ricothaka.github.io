@@ -1,8 +1,6 @@
 
 
-[![Twitter Follow](https://img.shields.io/badge/Social-Power106LA
-__-blue?style=social&logo=X)](https://twitter.com/Power106LA
-) 
+[![Twitter Follow](https://img.shields.io/badge/Social-Power106LA__-blue?style=social&logo=X)](https://twitter.com/Power106LA) 
 
 [map or dams to resiovior chlorophyll map](https://x.com/RicoThaka/status/1893413192308576517) ::::[2025FEB21-CHLOROPHYLL_REPORT](https://worldview.earthdata.nasa.gov/?v=-185.26971653659623,-37.948590897592716,-44.25825883432569,100.85956277807986&l=Reference_Labels_15m,Coastlines_15m,GRanD_Dams,GRanD_Reservoirs,OCI_PACE_Chlorophyll_a,OCI_PACE_True_Color&lg=true&t=2025-02-21-T00%3A00%3A00Z) ill make the [google earth wrap later](https://x.com/RicoThaka/status/1893414846802141388) the internet is really infected by [CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/IntroductionUseCases.html) bullying, the library did not pay they @cisco bill @nasa 
 # [504 Error](https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2025-02-21T00:00:00Z&BBOX=-90,-180,90,180&CRS=EPSG:4326&LAYERS=OCI_PACE_True_Color,OCI_PACE_Chlorophyll_a,Coastlines_15m&WRAP=day,day,x&FORMAT=application/vnd.google-earth.kmz&WIDTH=8192&HEIGHT=4096&colormaps=,MODIS_Chlorophyll,&ts=1740259328839)
