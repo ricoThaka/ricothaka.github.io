@@ -1,3 +1,6 @@
+[Documentary: Raised on Porn – the new sex education - watch](https://www.youtube.com/watch?v=hzPylqS01qU) - [RiOTiMEs](https://www.riotimesonline.com/brazil-news/modern-day-censorship/documentary-raised-on-porn-the-new-sex-education/) [In today’s world, porn is ubiquitous. It’s everywhere, - https://sexandrelationshiphealing.com/](https://sexandrelationshiphealing.com/blog/documentary-film-raised-on-porn-37-minutes/) <iframe width="560" height="315" src="https://www.youtube.com/embed/hzPylqS01qU?si=DPTexd6AM7kRczIn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://thakarashard.github.io/BUBBLEGUMPOP_HUMA/ Twitter Follow i got this off DefConRadio on SOMAfm now Run & Tell That
+
 ## sonta "Your Mistake" [OfficialVideo](https://youtu.be/FiGAkDE7s7o?si=R5PbUm03gx7dEhC-)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=9cMFvv5XYiplegKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
