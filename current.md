@@ -1,4 +1,10 @@
 '
+[![Twitter Follow](https://img.shields.io/badge/Social-iss_research_-blue?style=social&logo=X)](https://twitter.com/iss_research) '
+[![Twitter Follow](https://img.shields.io/badge/Social-space_station_-blue?style=social&logo=X)](https://twitter.com/space_station) 
+### [EcoStress DataUpdate](https://x.com/RicoThaka/status/1893454797858050098) [RelatedTweet](https://x.com/RicoThaka/status/1893453710568648891) [Elon Musk Calls For SpaceStationDeorbiting](https://x.com/ABC/status/1893441128776581220) [2cents](https://x.com/RicoThaka/status/1893452333113319826)
+![ecoStress](https://pbs.twimg.com/media/Gkbm_y1boAACZfw?format=jpg&name=large)
+![ECOSTRESS @usgs](https://pbs.twimg.com/media/Gkbl3sfWkAUC3Xz?format=jpg&name=large)
+![ECoSTRESS](https://pbs.twimg.com/media/GkbkxS4XUAECq2M?format=jpg&name=large)
 [![Twitter Follow](https://img.shields.io/badge/Social-Power106LA__-blue?style=social&logo=X)](https://twitter.com/Power106LA) 
 
 [map or dams to resiovior chlorophyll map](https://x.com/RicoThaka/status/1893413192308576517) ::::[2025FEB21-CHLOROPHYLL_REPORT](https://worldview.earthdata.nasa.gov/?v=-185.26971653659623,-37.948590897592716,-44.25825883432569,100.85956277807986&l=Reference_Labels_15m,Coastlines_15m,GRanD_Dams,GRanD_Reservoirs,OCI_PACE_Chlorophyll_a,OCI_PACE_True_Color&lg=true&t=2025-02-21-T00%3A00%3A00Z) ill make the [google earth wrap later](https://x.com/RicoThaka/status/1893414846802141388) the internet is really infected by [CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/IntroductionUseCases.html) bullying, the library did not pay they @cisco bill @nasa 
