@@ -1,7 +1,19 @@
 '
 [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/) [Related Tweet](https://x.com/RicoThaka/status/1893818593155899603)
 ![water data dashboard](https://pbs.twimg.com/media/GkgxSekaEAATA7B?format=jpg&name=medium) 
+[Hollywood Resivior-kcal news climate data](https://youtu.be/vHrRy0elIj0?si=BmrQfvaqqTtnG0Bw) @nasa
+## Los Angeles Plaza 1869
+![Los Angeles Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg)
 
+## Groundwater Declines in the U.S. Southwest
+![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
+
+## cellular magic mirror
+![cellular](https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096)
+
+![Me mars active duty](https://pbs.twimg.com/media/GXjF8GVbMAAsGSI?format=jpg&name=large)
+![SCABSMOSTLYLARVE](https://pbs.twimg.com/media/GXjTxD-XIAAVhBO?format=png&name=4096x4096)
+![SCabSheet](https://pbs.twimg.com/media/GXjT0hmXAAA75Lt?format=png&name=4096x4096)
 [![Twitter Follow](https://img.shields.io/badge/Social-iss_research_-blue?style=social&logo=X)](https://twitter.com/iss_research) '
 [![Twitter Follow](https://img.shields.io/badge/Social-space_station_-blue?style=social&logo=X)](https://twitter.com/space_station) 
 ### [EcoStress DataUpdate](https://x.com/RicoThaka/status/1893454797858050098) [RelatedTweet](https://x.com/RicoThaka/status/1893453710568648891) [Elon Musk Calls For SpaceStationDeorbiting](https://x.com/ABC/status/1893441128776581220) [2cents](https://x.com/RicoThaka/status/1893452333113319826)
