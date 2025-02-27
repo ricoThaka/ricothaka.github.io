@@ -2,6 +2,7 @@
     "githubPullRequests.ignoredPullRequestBranches": [
         "master",
         "letterbox",
-        "pixelsquare"
+        "pixelsquare",
+        "master"
     ]
 }
