@@ -1,4 +1,6 @@
 
+## [Thick Terrain #3 animation - Wakana Y.K.](https://codepen.io/wakana-k/pen/ZYEBggM?editors=1100)
+![Thick Terrain #3 animation](https://pbs.twimg.com/media/Gk5_F51aQAADi9O?format=jpg&name=large) [RelatedTweeT @blackgirlscode](https://x.com/BubbleGumPop626/status/1895592718719729873)
 # Vortex [NasaWorlDViEw - California Coast](https://worldview.earthdata.nasa.gov/?v=-120.40125637695687,33.45647924203562,-118.97907818693304,34.85643589784032&l=Reference_Labels_15m(hidden),Reference_Features_15m,Coastlines_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_NDWI_Sentinel(hidden,bandCombo=%7B%22assets%22%3A%5B%22B08%22;%22B03%22%5D;%22expression%22%3A%22%3CB03-B08%3E%2F%3CB03%2BB08%3E%22;%22rescale%22%3A%22-1;1%22;%22colormap_name%22%3A%22gnbu%22%7D),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2024-12-20-T16%3A00%3A00Z)
 
 ![Vortex](https://pbs.twimg.com/media/Gk2CVKoXoAA6V9F?format=jpg&name=4096x4096)
