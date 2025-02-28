@@ -1,4 +1,10 @@
 
+
+# Learning FlexBox
+[RelatedTweet @nasa-jpl @mdn @blackgirlscode](https://x.com/BubbleGumPop626/status/1895595146944922054) [Mastering wrapping of flex items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Mastering_wrapping_of_flex_items) :: completed coursework @nasa [flexSizing tupperware ricothaka on @codepen](https://codepen.io/ricoThaka/pen/vEYELoB)
+![tupperware](https://pbs.twimg.com/media/Gk6BYA_bQAAaNAE?format=jpg&name=large) 
+
+
 ## [Thick Terrain #3 animation - Wakana Y.K.](https://codepen.io/wakana-k/pen/ZYEBggM?editors=1100)
 ![Thick Terrain #3 animation - Wakana Y.K.](https://pbs.twimg.com/media/Gk5_F51aQAADi9O?format=jpg&name=large) [RelatedTweeT @blackgirlscode](https://x.com/BubbleGumPop626/status/1895592718719729873)
 
