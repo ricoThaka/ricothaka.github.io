@@ -2,6 +2,33 @@
 
 # Learning FlexBox
 [RelatedTweet @nasa-jpl @mdn @blackgirlscode](https://x.com/BubbleGumPop626/status/1895595146944922054) [Mastering wrapping of flex items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Mastering_wrapping_of_flex_items) :: completed coursework @nasa [flexSizing tupperware ricothaka on @codepen](https://codepen.io/ricoThaka/pen/vEYELoB)
+
+<div class="box">
+
+{% for post in site.posts %}
+   
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+
+   
+{% endfor %}
+ 
+</div> 
+
+<div class="tupperware">
+{% for post in site.posts %}
+    
+<article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+{% endfor %}
+
+</div>
+
 ![tupperware](https://pbs.twimg.com/media/Gk6BYA_bQAAaNAE?format=jpg&name=large) 
 
 
