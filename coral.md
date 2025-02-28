@@ -17,7 +17,14 @@
 ![From DAd](https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&name=large)
 ![MiDWAY](https://upload.wikimedia.org/wikipedia/commons/9/9a/Midway_Games_logo.svg)
 [MiDWAY GAme list - Coral](https://en.wikipedia.org/wiki/List_of_video_games_by_Midway_Games) 
-Dear Coral, most midway title perform really weel in retroarch under mame!
+Dear Coral, most [Midway Games](https://en.wikipedia.org/wiki/Midway_Games) titles perform really weel in [retroarch](https://www.retroarch.com/) under [mame](https://www.mamedev.org/)!
+  
+
+
+
+  # Governor Gavin Newsom
+  This your aunt akire govenor if u not in California. I heard Gradaddied Fred Aribba in Sacremento, i hope u remember him. 
+  ![GAViN NEWSOM](https://pbs.twimg.com/media/GkhrgsCXcAAMsGx?format=jpg&name=medium)
   
   <video preload="none" controls itemprop="publisher" itemscope="" itemtype="https://schema.org/CollegeOrUniversity" alt="PIA25417: Curiosity's Navcams View Paraitepuy Pass" poster="https://photojournal.jpl.nasa.gov/jpegMod/PIA26339_modest.jpg">
     <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
