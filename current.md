@@ -1,3 +1,5 @@
+[JPL Fire Victim interview](https://youtu.be/HrJl3sBOUo4?si=RxPGyj7hfKLXQepA)
+
 @blackgirlscode @normani [ThursdayDump vlogscreen-20250227-090209](https://archive.org/details/screen-20250227-090209) theres LA_RiVER Footage for today @Nasa-JPl @usgs 
 
 [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/) [Related Tweet](https://x.com/RicoThaka/status/1893818593155899603)
