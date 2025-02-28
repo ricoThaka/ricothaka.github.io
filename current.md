@@ -1,3 +1,9 @@
+
+# Vortex [NasaWorlDViEw - California Coast](https://worldview.earthdata.nasa.gov/?v=-120.40125637695687,33.45647924203562,-118.97907818693304,34.85643589784032&l=Reference_Labels_15m(hidden),Reference_Features_15m,Coastlines_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_NDWI_Sentinel(hidden,bandCombo=%7B%22assets%22%3A%5B%22B08%22;%22B03%22%5D;%22expression%22%3A%22%3CB03-B08%3E%2F%3CB03%2BB08%3E%22;%22rescale%22%3A%22-1;1%22;%22colormap_name%22%3A%22gnbu%22%7D),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2024-12-20-T16%3A00%3A00Z)
+
+![Vortex](https://pbs.twimg.com/media/Gk2CVKoXoAA6V9F?format=jpg&name=4096x4096)
+[RelatedTweet](https://x.com/RicoThaka/status/1895314867592274306)
+
 [JPL Fire Victim interview](https://youtu.be/HrJl3sBOUo4?si=RxPGyj7hfKLXQepA)
 
 @blackgirlscode @normani [ThursdayDump vlogscreen-20250227-090209](https://archive.org/details/screen-20250227-090209) theres LA_RiVER Footage for today @Nasa-JPl @usgs 
