@@ -1,3 +1,26 @@
+  Download the
+  or
+  <a href="">MP4</a>
+  video.
+</video>
+## Graffiti Rock
+
+<video playsinline loop controls src="https://archive.org/download/graffiti.-rock.-1984.-dvdrip.x-264-handjob/Graffiti.Rock.1984.DVDRip.x264-HANDJOB.mp4" poster="https://m.media-amazon.com/images/M/MV5BMTcxOTAzYmUtN2VmZi00NDdhLWJlMDQtYmY3OGZjMmI0NGI1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg">
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/details/graffiti.-rock.-1984.-dvdrip.x-264-handjob">download it</a>
+  and watch it with your favorite video player!
+</video>
+<iframe src="https://archive.org/embed/SmokeyAndTheBandit" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<div class=" track">
+
+  <IMG src="https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg">
+  <audio controls loop>
+    <source src="https://archive.org/download/outkast-atliens/Album/08-Babylon.mp3">
+    Your browser dose not Support the audio Tag
+  </audio>
+</div>
+<iframe src="https://archive.org/embed/detrmi-Census_2020_-_Kash_Doll" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [Speed up your Jekyll builds - Mike Neumegen](https://cloudcannon.com/blog/speed-up-your-jekyll-builds/) Use front matter to add metadata to your content. [GoHUGO - FRONTMATTER Docs](https://gohugo.io/content-management/front-matter/)
 to: @nasa-jpl manessa is Kash Doll have her come in this is an interview with her at club Shay Shay I never saw Coral again so my daughter is really missing with a woman named Kash Doll that talks to like retired NFL players at a place named club shay shay I want to know a club shay shay let me see Coral [club shay shay](https://youtu.be/SpvgXZ9_pTs?si=Zww139GX3wrzI8e3)
 [htmlCleaner-WEBTOOL](https://html-cleaner.com/)
