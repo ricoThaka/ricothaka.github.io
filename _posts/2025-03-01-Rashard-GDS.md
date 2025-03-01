@@ -2,8 +2,6 @@
 layout: post
 title:  "RashardGDS"
 date:   2024-11-12 22:51:06 -0800
-params:
-  author: Rashard Kelly - NASAJPL
 categories: nasajpl earth 
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
