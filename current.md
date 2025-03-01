@@ -1,8 +1,4 @@
-  Download the
-  or
-  <a href="">MP4</a>
-  video.
-</video>
+
 ## Graffiti Rock
 
 <video playsinline loop controls src="https://archive.org/download/graffiti.-rock.-1984.-dvdrip.x-264-handjob/Graffiti.Rock.1984.DVDRip.x264-HANDJOB.mp4" poster="https://m.media-amazon.com/images/M/MV5BMTcxOTAzYmUtN2VmZi00NDdhLWJlMDQtYmY3OGZjMmI0NGI1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg">
