@@ -300,7 +300,7 @@ There are two ways in which water moves from the ground to the atmosphere as par
 # [The Biology of Transpiration. From Guard Cells to Globe](https://pmc.ncbi.nlm.nih.gov/articles/PMC1761997/)
 `Transpiration in higher plants accounts for about three-quarters of the water that is vaporized at the global land surface and one-eighth of that vaporized over the entire globe. The availability of water is one of the major factors restricting terrestrial plant production on a global scale.` [Susanne von Caemmerer 1, Neil Baker 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC1761997/pdf/pp1430003.pdf)
 
- ![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
+![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
 
 # The Legend of Zelda
