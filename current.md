@@ -1,3 +1,16 @@
+
+<div class="box">
+
+  {% for post in site.posts %}
+     
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
+   
+  </div>  
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uOq9PHp7MTo?si=_pdjMKVT23l5qyrf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <video controls width="100%" height="auto" poster="https://i.redd.it/qv9qfpq69dc91.gif">
