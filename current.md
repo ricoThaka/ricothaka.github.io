@@ -1,11 +1,8 @@
 to
 [htmlCleaner-WEBTOOL](https://html-cleaner.com/)
 # Learning FlexBox
-[RelatedTweet](https://x.com/BubbleGumPop626/status/1895595146944922054) [Mastering wrapping of flex items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Mastering_wrapping_of_flex_items) :: completed coursework @nasa [flexSizing tupperware ricothaka](https://codepen.io/ricoThaka/pen/vEYELoB)
+[RelatedTweet](https://x.com/BubbleGumPop626/status/1895595146944922054) [Mastering wrapping of flex items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Mastering_wrapping_of_flex_items) :: completed 
 
- # Dear_NormANi
- I have been working from Mozilla Web Developers Documentation. ITs @nasa-jpl coursework if you file it right... Can you help me update whoever i need to talk to on this day about my frontend programming skills. When I set up the date theres never any touch, so we can keep that role, u your body ok... i dont own u, an if erika dead, please give me a good story so i can wed [yo fine ass](https://www.youtube.com/watch?v=FKXSh14svlQ&themeRefresh=1) ° [Moon to Mars Program](https://www.nasa.gov/wp-content/uploads/2023/11/moon-to-mars-nac-nov-2023-v2.pdf) π [NASA org Chart](https://www.nasa.gov/wp-content/uploads/2023/10/nasa-org-chart-oct-2023.pdf) [OrgChartBae](https://www.nasa.gov/history/historical-organizational-charts/) [SpaceWeatherhthatsMEblackgirlscode](https://science.gsfc.nasa.gov/heliophysics/spaceweather/orgchart) [MarsSampleReturn](https://science.nasa.gov/wp-content/uploads/2024/01/smd-web-org-chart-1-29-24.pdf) ,💯✌️👀🙇🏾‍♂️🌬️🍦🗿🕋🕌🏬🛕⛪💒📟📠🔌💻🖥️⌨️📀💿💾💽📞☎️📱🪫
- 
 <div class="box">
 
 {% for post in site.posts %}
@@ -16,6 +13,13 @@ to
 {% endfor %}
  
 </div> 
+
+coursework @nasa [flexSizing tupperware ricothaka](https://codepen.io/ricoThaka/pen/vEYELoB)
+
+ # Dear_NormANi
+ I have been working from Mozilla Web Developers Documentation. ITs @nasa-jpl coursework if you file it right... Can you help me update whoever i need to talk to on this day about my frontend programming skills. When I set up the date theres never any touch, so we can keep that role, u your body ok... i dont own u, an if erika dead, please give me a good story so i can wed [yo fine ass](https://www.youtube.com/watch?v=FKXSh14svlQ&themeRefresh=1) ° [Moon to Mars Program](https://www.nasa.gov/wp-content/uploads/2023/11/moon-to-mars-nac-nov-2023-v2.pdf) π [NASA org Chart](https://www.nasa.gov/wp-content/uploads/2023/10/nasa-org-chart-oct-2023.pdf) [OrgChartBae](https://www.nasa.gov/history/historical-organizational-charts/) [SpaceWeatherhthatsMEblackgirlscode](https://science.gsfc.nasa.gov/heliophysics/spaceweather/orgchart) [MarsSampleReturn](https://science.nasa.gov/wp-content/uploads/2024/01/smd-web-org-chart-1-29-24.pdf) ,💯✌️👀🙇🏾‍♂️🌬️🍦🗿🕋🕌🏬🛕⛪💒📟📠🔌💻🖥️⌨️📀💿💾💽📞☎️📱🪫
+ 
+
 
 <div class="tupperware">
 {% for post in site.posts %}
