@@ -213,6 +213,7 @@ img[alt="kk"] {
   
 }
 
+
 .box {
   width: 80%;
   border: 1px solid #3DF28B;
@@ -224,8 +225,10 @@ img[alt="kk"] {
   background-size: 100% auto;
   font-kerning: normal;
   letter-spacing: .2rem;
-  font: bold 10px/18px  verdana, lucida, sans-serif;
-
+  font: bold 10px/18px verdana, lucida, sans-serif;
+  background: url(https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg);
+  background-size: 20% auto;
+  background-attachment: fixed;
 }
 
 .box>* {
@@ -252,7 +255,6 @@ img[alt="kk"] {
   color: white;
   
 }
-
 
 
 

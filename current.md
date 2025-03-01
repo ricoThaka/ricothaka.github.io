@@ -5,14 +5,14 @@ to
 
 <div class="box">
 
-{% for post in site.posts %}
+  {% for post in site.posts %}
+     
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
    
-  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-
-   
-{% endfor %}
- 
-</div> 
+  </div>  
 
 coursework @nasa [flexSizing tupperware ricothaka](https://codepen.io/ricoThaka/pen/vEYELoB)
 
