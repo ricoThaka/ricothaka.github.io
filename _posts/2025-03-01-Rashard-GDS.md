@@ -9,6 +9,23 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+
+  <ARTICLE>
+    <HEADER>
+      NEAR_SPACE_NETWORK
+    </HEADER>
+    <object class="scroller" data="https://scan-now.gsfc.nasa.gov/dte" type="text/html" /></object>
+    <FOOTER>HOLE TO ANOTHER UNiVERSE</FOOTER>
+  </ARTICLE>
+  <ARTICLE>
+    <HEADER>
+      DEEP_SPACE_NETWORK
+    </HEADER>
+    <object class="scroller" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" /></object>
+    <FOOTER>HOLE TO ANOTHER UNiVERSE</FOOTER>
+  </ARTICLE>
+
+[Locust Watch](https://www.fao.org/locust-watch/en)
 ![Earth](https://epic.gsfc.nasa.gov/archive/natural/2025/01/09/jpg/epic_1b_20250109195657.jpg)
 [Scientific Visualization Studio](https://svs.gsfc.nasa.gov/)
 ## webtools
