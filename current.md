@@ -17,7 +17,9 @@ to
 coursework @nasa [flexSizing tupperware ricothaka](https://codepen.io/ricoThaka/pen/vEYELoB)
 
  # Dear_NormANi
- I have been working from Mozilla Web Developers Documentation. ITs @nasa-jpl coursework if you file it right... Can you help me update whoever i need to talk to on this day about my frontend programming skills. When I set up the date theres never any touch, so we can keep that role, u your body ok... i dont own u, an if erika dead, please give me a good story so i can wed [yo fine ass](https://www.youtube.com/watch?v=FKXSh14svlQ&themeRefresh=1) ° [Moon to Mars Program](https://www.nasa.gov/wp-content/uploads/2023/11/moon-to-mars-nac-nov-2023-v2.pdf) π [NASA org Chart](https://www.nasa.gov/wp-content/uploads/2023/10/nasa-org-chart-oct-2023.pdf) [OrgChartBae](https://www.nasa.gov/history/historical-organizational-charts/) [SpaceWeatherhthatsMEblackgirlscode](https://science.gsfc.nasa.gov/heliophysics/spaceweather/orgchart) [MarsSampleReturn](https://science.nasa.gov/wp-content/uploads/2024/01/smd-web-org-chart-1-29-24.pdf) ,💯✌️👀🙇🏾‍♂️🌬️🍦🗿🕋🕌🏬🛕⛪💒📟📠🔌💻🖥️⌨️📀💿💾💽📞☎️📱🪫
+ I have been working from Mozilla Web Developers Documentation. ITs @nasa-jpl coursework if you file it right... Can you help me update whoever i need to talk to on this day about my frontend programming skills. When I set up the date theres never any touch, so we can keep that role, u your body ok... i dont own u, an if erika dead, please give me a good story so i can wed [yo fine ass](https://www.youtube.com/watch?v=FKXSh14svlQ&themeRefresh=1) ° [Moon to Mars Program](https://www.nasa.gov/wp-content/uploads/2023/11/moon-to-mars-nac-nov-2023-v2.pdf) π [NASA org Chart](https://www.nasa.gov/wp-content/uploads/2023/10/nasa-org-chart-oct-2023.pdf) [OrgChartBae](https://www.nasa.gov/history/historical-organizational-charts/) [SpaceWeatherhthatsMEblackgirlscode](https://science.gsfc.nasa.gov/heliophysics/spaceweather/orgchart) [MarsSampleReturn](https://science.nasa.gov/wp-content/uploads/2024/01/smd-web-org-chart-1-29-24.pdf) ,💯✌️👀🙇🏾‍♂️🌬️🍦🗿🕋🕌🏬🛕⛪💒📟📠🔌💻🖥️⌨️📀💿💾💽📞☎️📱🪫### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf)
  
 
 
@@ -67,10 +69,11 @@ that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nas
 
 ![![SPACE FORCE 101](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)
 
-### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
-[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
-[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf)
 
+## Groundwater Declines in the U.S. Southwest;
+## Los Angeles Plaza 1869
+![Los Angeles Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg)
+![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
 
 ## [Thick Terrain #3 animation - Wakana Y.K.](https://codepen.io/wakana-k/pen/ZYEBggM?editors=1100)
 ![Thick Terrain #3 animation - Wakana Y.K.](https://pbs.twimg.com/media/Gk5_F51aQAADi9O?format=jpg&name=large) [RelatedTweeT @blackgirlscode](https://x.com/BubbleGumPop626/status/1895592718719729873)
@@ -88,12 +91,17 @@ that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nas
 [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/) [Related Tweet](https://x.com/RicoThaka/status/1893818593155899603)
 ![water data dashboard](https://pbs.twimg.com/media/GkgxSekaEAATA7B?format=jpg&name=medium) 
 [Hollywood Resivior-kcal news climate data](https://youtu.be/vHrRy0elIj0?si=BmrQfvaqqTtnG0Bw) @nasa
-## Los Angeles Plaza 1869
-![Los Angeles Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg)
 
-## Groundwater Declines in the U.S. Southwest
-![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
 
+
+<div class="gullies" itemscope itemprop="workExample" itemtype="https://schema.org/CreativeWork">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </section> 
 ## cellular magic mirror
 ![cellular](https://pbs.twimg.com/media/GXi7nA_aUAAxaeX?format=png&name=4096x4096)
 
