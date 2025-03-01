@@ -1,5 +1,5 @@
 
-
+[Speed up your Jekyll builds - Mike Neumegen](https://cloudcannon.com/blog/speed-up-your-jekyll-builds/) Use front matter to add metadata to your content. [GoHUGO - FRONTMATTER Docs](https://gohugo.io/content-management/front-matter/)
 [SVG DROPSHADOWS - CSSTRiCKS](https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/)
 
 [JeKYLL DATE+TiME](https://jekyll.one/pages/public/tools/toolbox/jekyll/date_time_formats/)
