@@ -27,14 +27,14 @@ Panoply is a cross-platform application that runs on Macintosh, Windows, Linux a
     <HEADER>
       NEAR_SPACE_NETWORK
     </HEADER>
-    <object class="scroller" data="https://scan-now.gsfc.nasa.gov/dte" type="text/html" /></object>
+    <object class="scroller" data="https://scan-now.gsfc.nasa.gov/dte" type="text/html" ></object>
     <FOOTER>HOLE TO ANOTHER UNiVERSE</FOOTER>
   </ARTICLE>
   <ARTICLE>
     <HEADER>
       DEEP_SPACE_NETWORK
     </HEADER>
-    <object class="scroller" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" /></object>
+    <object class="scroller" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" ></object>
     <FOOTER>HOLE TO ANOTHER UNiVERSE</FOOTER>
   </ARTICLE>
 
