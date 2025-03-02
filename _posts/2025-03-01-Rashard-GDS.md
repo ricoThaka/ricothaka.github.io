@@ -25,7 +25,7 @@ atmospheric science data products and services [TOOLS](https://asdc.larc.nasa.go
 
 # Imagery 
 
-[AVIRIS-3 L1B Calibrated Radiance, Facility Instrument Collection](https://search.earthdata.nasa.gov/search/granules?p=C3236537162-ORNL_CLOUD!C3236537162-ORNL_CLOUD&pg[1][a]=3380792059!3380791927!3380791981!3380791895!ORNL_CLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&tl=1736865834!3!!&lat=34.20913181444835&long=-120.13330078125&zoom=7)
+[AVIRIS-3 L1B Calibrated Radiance, Facility Instrument Collection](https://search.earthdata.nasa.gov/search/granules?p=C3236537162-ORNL_CLOUD!C3236537162-ORNL_CLOUD&pg[1][a]=3380792059!3380791927!3380791981!3380791895!ORNL_CLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&tl=1736865834!3!!&lat=34.20913181444835&long=-120.13330078125&zoom=7) [related](https://x.com/ORNLDAAC/status/1239235050081865728)
 ![Aviris](https://pbs.twimg.com/media/GlEk3vCbIAEwijN?format=jpg&name=large)
 
 [AvirisTweet](https://x.com/RicoThaka/status/1880056257509462328) [Holly Bender](https://x.com/hollyaprilb/status/371082545804226562) [AvirisDataPortal](https://popo.jpl.nasa.gov/mmgis-aviris/?mission=AVIRIS&site=ert&mapLon=-93.95507812500001&mapLat=40.245991504199026&mapZoom=4&globeLon=undefined&globeLat=undefined&globeZoom=undefined&panePercents=0,100,0&on=e4d92155-7af4-4ec3-ba97-1d6e4639c5d6$1.00,d068949c-3a21-45c0-8aa9-7dd29bfc8adc$1.00&startTime=2006-04-01T00:00:01.000Z&endTime=2024-02-15T21:27:02.653Z) [AVIRIS-Classic Data Portal](https://aviris.jpl.nasa.gov/dataportal/) [CUBE](https://x.com/DrGeoffSmith/status/1235461899376103424)
