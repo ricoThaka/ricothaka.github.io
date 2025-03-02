@@ -6,6 +6,9 @@ published: true
 image: pico_twitter_font.gif
 ---
 
+![Ethiopian SoiL](https://eoimages.gsfc.nasa.gov/images/imagerecords/148000/148314/locustswide_lis_2020170_lrg.jpg)
+[Ethiopian Agriculture Data](https://x.com/RicoThaka/status/1895934817398898973)
+
 ![s](https://pbs.twimg.com/media/Gk-6m55bQAQYc9b?format=jpg&name=large)
 [LOCUST_CORCAST](https://x.com/RicoThaka/status/1895939537702179272) [Related](https://ldas.gsfc.nasa.gov/index.php/fldas/models/forecast)
 ![AFRiCADAM_MAP](https://pbs.twimg.com/media/Gk--eDhW4AAMx4b?format=jpg&name=large)
