@@ -7,10 +7,21 @@ image: pico_twitter_font.gif
 ---
 
 <div class="tupperware">
+<img src="https://pbs.twimg.com/media/Ghm67NhbgAAIIbq?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/Ghm67NhbgAAIIbq?format=jpg&name=medium" />
+</div>
+
+[Related](https://x.com/thakasartu/status/1880737684043489628) [Tweet](https://x.com/thakasartu/status/1880739891186958758/photo/1)
+
+![GOOGLEEARTH](https://pbs.twimg.com/media/GiGMVkubgAAduKi?format=jpg&name=large)
+[RelatedTweet](https://x.com/thakasartu/status/1882941151805890876)
+
+<div class="tupperware">
 <img src="https://pbs.twimg.com/media/GiLimy_bUAAgEKi?format=png&name=small" />
 <img src="https://pbs.twimg.com/media/GiLimy_bUAAgEKi?format=png&name=small" />
 </div>
 
+[RELATEDTWEET](https://x.com/thakasartu/status/1883317419839791116)
 ![LOSANGELES](https://pbs.twimg.com/media/GiLmJmCboAI8WE_?format=jpg&name=large)
 [RelatedTweet](https://x.com/thakasartu/status/1883321009740353951)
 ![Windows21](https://pbs.twimg.com/media/GieoGSAWgAA9RxR?format=png&name=medium)
