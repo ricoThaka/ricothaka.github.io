@@ -7,7 +7,7 @@ image: pico_twitter_font.gif
 ---
 
 
-![fulgore censorship lore](https://pbs.twimg.com/media/F-NAYKXagAAckAT?format=jpg&name=large
+![fulgore censorship lore](https://pbs.twimg.com/media/F-NAYKXagAAckAT?format=jpg&name=large)
 [crt_GEOM](https://x.com/BubbleGumPop510/status/1721290588203684194)
 ![Finding Vanessa](https://pbs.twimg.com/media/F_k14DCa4AAUgt1?format=jpg&name=medium)
 [Related](https://x.com/BubbleGumPop510/status/1727471592530416004)
