@@ -8,5 +8,5 @@ image: pico_twitter_font.gif
 
 
 ![PiCO-ALPHABET](https://mksd.jp/f02.pico.gif)
-[Maniackers Design- FLiCKr](https://www.flickr.com/photos/mksd/with/3660452106)
-[Pico-Alphabet Black & White / ピコ・アルファベット（ブラック＆ホワイト](https://mksd.jp/pico2.gif)
+[Maniackers Design- FLiCKr](https://www.flickr.com/photos/mksd/with/3660452106) [MAniaCkRs-OPENTYPE-TTF](https://mksd.jp/designfont.html)
+![PicOAlphabet Black & White / ピコ・アルファベット（ブラック＆ホワイト](https://mksd.jp/pico2.gif)
