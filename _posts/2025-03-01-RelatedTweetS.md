@@ -6,7 +6,18 @@ published: true
 image: pico_twitter_font.gif
 ---
 
+
+![SpaceX](https://pbs.twimg.com/media/GB51dVhbEAArSYr?format=jpg&name=large)
+[related SpaceX](https://x.com/BubbleGumPop510/status/1737956171343139024)
+
+![normaniBossBae](https://pbs.twimg.com/media/GMmBFBJaYAIwST4?format=jpg&name=large)
+[Related](https://x.com/BubbleGumPop510/status/1786101199328116994) [LBTV3](https://x.com/BubbleGumPop510/status/1786839332441203036)
+[exile](https://x.com/BubbleGumPop510/status/1736536478648549612)
 ![filmisnotdead](https://pbs.twimg.com/media/GNQMSxQbwAAJ2-a?format=jpg&name=medium)
+ [Mormons](https://x.com/BubbleGumPop510/status/1773101102998737254) [Missing ppl](https://x.com/BubbleGumPop510/status/1760796115648332062) [My family](https://x.com/BubbleGumPop510/status/1760112219894014104)[Ivf](https://x.com/BubbleGumPop510/status/1763004166102974724) [Willie](https://x.com/thakasartu/status/1683772008557867008) [1975](https://x.com/thakasartu/status/1683601862086508544)
+[migration](https://x.com/thakasartu/status/1758226971421798775)
+
+
 [related](https://x.com/BubbleGumPop510/status/1789068613930078682) [Griffith observatory-TeslaCoil](https://x.com/BubbleGumPop510/status/1799177832742195527)
 
 
