@@ -5,6 +5,9 @@ categories: nasajpl family x twitter socialcatchup workblogging
 published: true
 image: pico_twitter_font.gif
 ---
+
+## [DTLA Car hits Water hydranT](https://x.com/BubbleGumPop510/status/1894982417368199568) 
+![grandpark](https://pbs.twimg.com/media/GkxYA7aWIAAtWsp?format=jpg&name=large) [RelatedTwT](https://x.com/BubbleGumPop510/status/1894989032108486902)
 ### [Floods Swamp Tennessee](https://visibleearth.nasa.gov/images/153957/floods-swamp-tennessee)
 
 ![manessa](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153957/tennflooding_oli2_20250217_front.jpg)
