@@ -6,6 +6,14 @@ published: true
 image: pico_twitter_font.gif
 ---
 
+
+
+<div class="tupperware">
+<img src="https://pbs.twimg.com/media/Gk9Z1U3XIAAoT-e?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/Gk9Z1UMbgAAzlBF?format=jpg&name=medium" />
+</div>
+
+[RelatedTweet](https://x.com/RicoThaka/status/1895832937540792393)
 <div class="tupperware">
 <img src="https://pbs.twimg.com/media/Ghm67NhbgAAIIbq?format=jpg&name=medium" />
 <img src="https://pbs.twimg.com/media/Ghm67NhbgAAIIbq?format=jpg&name=medium" />
