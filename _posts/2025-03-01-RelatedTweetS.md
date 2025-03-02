@@ -5,7 +5,7 @@ categories: nasajpl family x twitter socialcatchup workblogging
 published: true
 image: pico_twitter_font.gif
 ---
-### [mamasah](https://x.com/thakasartu/status/1678932886790066176)
+### [Mamasah](https://x.com/thakasartu/status/1678932886790066176) u ever saw me pain this? I took coral toghe spot @blackgirlscode [TimeLapsePeice](https://youtu.be/7TRStCd7qYU?si=XWNzLoGpCvW_pHqW)
 ![coral](https://pbs.twimg.com/media/GDmkAeWaYAAjWNN?format=jpg&name=medium)
 [related](https://x.com/BubbleGumPop510/status/1745606708825878951) [rashard appearance history](https://x.com/BubbleGumPop510/status/1747698287422169481) 
 @nasa 
