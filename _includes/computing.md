@@ -1,7 +1,7 @@
 
 [Speed up your Jekyll builds - Mike Neumegen](https://cloudcannon.com/blog/speed-up-your-jekyll-builds/) Use front matter to add metadata to your content. [GoHUGO - FRONTMATTER Docs](https://gohugo.io/content-management/front-matter/)
-[SVG DROPSHADOWS - CSSTRiCKS](https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/) [Upgrading to Jekyll 4 and overhauling Theme](https://www.xavierjortiz.com/jekyll4_theme_overhaul/) [All versions of jekyll - rubygems.org](https://rubygems.org/gems/jekyll/versions)
-
+[SVG DROPSHADOWS - CSSTRiCKS](https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/) [Upgrading to Jekyll 4 and overhauling Theme](https://www.xavierjortiz.com/jekyll4_theme_overhaul/) [All versions of jekyll - rubygems.org](https://rubygems.org/gems/jekyll/versions) [Organising my Jekyll Blog with Categories](https://emmatheeng.github.io/projects/blog_setup/blog-categories.html)
+[CatagoryLoop](https://gist.github.com/sskylar/968daf7dd6a876381c2d0663a1a933af)  [3 Simple steps to setup Jekyll Categories and Tags](https://blog.webjeda.com/jekyll-categories/#google_vignette)
 [JeKYLL DATE+TiME](https://jekyll.one/pages/public/tools/toolbox/jekyll/date_time_formats/)
 
 {{ site.url }}{{ site.baseurl }}[How to resize an image in HTML?](https://imagekit.io/blog/how-to-resize-image-in-html/) [It's time to lazy-load offscreen iframes!](https://web.dev/articles/iframe-lazy-loading)
