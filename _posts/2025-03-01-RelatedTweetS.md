@@ -8,6 +8,12 @@ image: pico_twitter_font.gif
 
 
 
+![AFRiCADAM_MAP](https://pbs.twimg.com/media/Gk--eDhW4AAMx4b?format=jpg&name=large)
+
+![FLEXBOXCOURSEWORK](https://pbs.twimg.com/media/Gk_AWWOWYAA3u21?format=jpg&name=large)
+
+[RelatedTweet](https://x.com/RicoThaka/status/1895945753367101797) 
+
 <div class="tupperware">
 <img src="https://pbs.twimg.com/media/Gk9Z1U3XIAAoT-e?format=jpg&name=medium" />
 <img src="https://pbs.twimg.com/media/Gk9Z1UMbgAAzlBF?format=jpg&name=medium" />
