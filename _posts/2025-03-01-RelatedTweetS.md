@@ -7,7 +7,7 @@ image: pico_twitter_font.gif
 ---
 
 ![bubblegumfm](https://pbs.twimg.com/media/GB6TQwzboAAkSzq?format=png&name=900x900)
-[RelatedTwT](https://x.com/BubbleGumPop510/status/1737988716965331063)
+[RelatedTwT](https://x.com/BubbleGumPop510/status/1737988716965331063) [vlog](https://x.com/thakasartu/status/1699357560305004864)
 
 ![fulgore censorship lore](https://pbs.twimg.com/media/F-NAYKXagAAckAT?format=jpg&name=large)
 [crt_GEOM](https://x.com/BubbleGumPop510/status/1721290588203684194)
