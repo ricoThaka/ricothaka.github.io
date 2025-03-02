@@ -6,7 +6,7 @@ published: true
 image: pico_twitter_font.gif
 ---
 ![dosBox](https://pbs.twimg.com/media/GY64pDabsAAYqYn?format=png&name=large)
-[RelatedTwT](https://x.com/RicoThaka/status/1841612652948423088) [CosPlayAlumni](https://x.com/RicoThaka/status/1794824272705425855)
+[RelatedTwT](https://x.com/RicoThaka/status/1841612652948423088) [CosPlayAlumni](https://x.com/RicoThaka/status/1794824272705425855) [BussitdowN](https://x.com/RicoThaka/status/1895624776783364431)
 ![mronasajol](https://pbs.twimg.com/media/Gk7WlQyWQAAiuGa?format=jpg&name=medium)
 [CovidRelated](https://x.com/RicoThaka/status/1863768414822760572)
 [RelatedTwT](https://x.com/RicoThaka/status/1895688652795363708)
