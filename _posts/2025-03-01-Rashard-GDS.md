@@ -6,6 +6,9 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+![NASAEARTHDATA](https://earthdata.nasa.gov/s3fs-public/styles/hero_background/public/2024-10/home-test-2.jpg?VersionId=6U_sY81dO7op0_7QUpBt1GeRyQaCTFMV&itok=HdewaSKg)
+[Data Alerts and Outages](https://www.earthdata.nasa.gov/data/alerts-outages)
+
 [NEAR SPACE NETWORK (NSN)](https://esc.gsfc.nasa.gov/projects/NSN)
 [Monitoring NSN](https://scan-now.gsfc.nasa.gov/dte)
 [NISAR Sample Data Product Suite](https://nisar.jpl.nasa.gov/data/sample-data/)
