@@ -34,12 +34,15 @@ Dear Coral, most [Midway Games](https://en.wikipedia.org/wiki/Midway_Games) titl
  
 <h3> Exoplanet Catalog</h3>
        
-  <video controls preload="none"controls autoplay
-    src="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4"
-    poster="https://svs.gsfc.nasa.gov/vis/a010000/a012400/a012439/Exoplanet_Scale-3840_print.jpg">
+
+<video controls preload="none" controls  poster="https://svs.gsfc.nasa.gov/vis/a010000/a012400/a012439/Exoplanet_Scale-3840_print.jpg">
+
+  <source src="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4" type="video/mp4" />
+
+   
   
     Sorry, your browser doesn't support embedded videos, but don't worry, you can
-    <a href="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4">download it</a>
+<a href="https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/2023/09/5K_Exoplanets_360_4096x2048_60fps-2.mp4">download it</a>
     and watch it with your favorite video player!
   </video>
 
