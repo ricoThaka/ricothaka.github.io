@@ -2,6 +2,24 @@
 # watchlist
 
 
+# Terminator 2
+
+<video controls preload="none" width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/secdefanime.png">
+
+<source src="https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/terminator-2-judgment-day-vhs-mkv-encode/Terminator%202_%20Judgment%20Day%20%28VHS%29%20MKV%20Encode.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+
+
+[T2](https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4)
+
+
 # Macross Plus 
 ep 2
 <video controls preload="none" width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/secdefanime.png">
