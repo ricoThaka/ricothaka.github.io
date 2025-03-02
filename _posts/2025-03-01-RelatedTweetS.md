@@ -6,6 +6,10 @@ published: true
 image: pico_twitter_font.gif
 ---
 
+![filmisnotdead](https://pbs.twimg.com/media/GNQMSxQbwAAJ2-a?format=jpg&name=medium)
+[related](https://x.com/BubbleGumPop510/status/1789068613930078682) [Griffith observatory-TeslaCoil](https://x.com/BubbleGumPop510/status/1799177832742195527)
+
+
 ![bubblegumfm](https://pbs.twimg.com/media/GB6TQwzboAAkSzq?format=png&name=900x900)
 [RelatedTwT](https://x.com/BubbleGumPop510/status/1737988716965331063) [vlog](https://x.com/thakasartu/status/1699357560305004864)
 
