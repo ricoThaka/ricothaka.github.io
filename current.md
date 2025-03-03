@@ -9,7 +9,7 @@
    
   </div>  
 
-
+[Guidelines for Proposers to ROSES Dual-Anonymous Peer Review Programs](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=1014953/solicitationId=%7B4B711EDE-75AF-5D9D-963D-C5D15D5F9529%7D/viewSolicitationDocument=1/SMDDAPRguidelines_120224_clean.pdf)
 [NASA Solicitation and Proposal Integrated Review and Evaluation System](https://nspires.nasaprs.com/external/)
 ## Bookworms Beware: Hackers Launch Cyberattacks On Libraries Globally
 Sausalito, Calif. – May 15, 2024
