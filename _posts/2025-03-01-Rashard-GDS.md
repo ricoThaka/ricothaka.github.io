@@ -5,6 +5,10 @@ categories: nasajpl earth
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
+
+# EARTH SCIENCE RESEARCH PROGRAM
+### EARTH SCIENCE RESEARCH OVERVIEW ROSES-2024
+[APPENDIX A.](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=974331/solicitationId=%7B3314EF2F-63D5-9A7C-0E74-1F9A8ABB4332%7D/viewSolicitationDocument=1/A.01%20Earth%20Science%20Overview.pdf)
 # Ground Data Systems and Mission Operations
 # Ground & Flight Data Systems Group
 Overview
