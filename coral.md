@@ -13,6 +13,7 @@
 {% endfor %}
 
 </div>
+<img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/600b63321d78311648000001/vsco600b633af04a1.jpg" >
 
 ![From DAd](https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&name=large)
 ![MiDWAY](https://upload.wikimedia.org/wikipedia/commons/9/9a/Midway_Games_logo.svg)
