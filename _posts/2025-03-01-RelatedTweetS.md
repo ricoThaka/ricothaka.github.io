@@ -11,7 +11,7 @@ image: pico_twitter_font.gif
 # Palisades Fire
 [KTLA Palisades Fire reaches Brentwood, threatens San Fernando Valley](https://youtu.be/DNkLoBtWFhA?list=RDNSSV0kzuY6bKI&t=35)
 ![NASAWORLDViEW](https://pbs.twimg.com/media/GhDE3eObEAAj1rV?format=jpg&name=large)
-[RelatedTweet](https://x.com/RicoThaka/status/1878217800193622498)
+[RelatedTweet](https://x.com/RicoThaka/status/1878217800193622498) [LA_TiMEs](https://www.latimes.com/california/live/2025-01-10/fire-los-angeles-california-eaton-palisades-updates)
 ![NAsaWorldView](https://pbs.twimg.com/media/GhDB2sFbEAAYm_D?format=jpg&name=large)
 [Related Tweet](https://x.com/RicoThaka/status/1878214332921888961)
 
