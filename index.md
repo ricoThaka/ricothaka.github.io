@@ -1,5 +1,5 @@
 ---
-layout: normani
+layout: default
 title: ./HoleToAnotherUniVersE
 mermaid: true
 carousels:
