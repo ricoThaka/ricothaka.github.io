@@ -81,20 +81,30 @@ Panoply is a cross-platform application that runs on Macintosh, Windows, Linux a
 [Telstar 1](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1962-029A)
 [AT&T Archives: A Modern Aladdin's Lamp, about vacuum tubes,1940](https://youtu.be/_-JzxX75oYc?list=PLDB8B8220DEE96FD9)
 
+
+
   <ARTICLE>
     <HEADER>
-      NEAR_SPACE_NETWORK
+      DEEP_SPACE_NETWORK
     </HEADER>
-    <object type="text/html" data="https://scan-now.gsfc.nasa.gov/dte"  style="height:50vh;width:100%;" > 
+    <object type="text/html" data="https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-83.8,33.8,6.0z"  style="height:50vh;width:100%;" > 
     <FOOTER>HOLE TO ANOTHER UNiVERSE</FOOTER>
   </ARTICLE>
-  <ARTICLE>
+    <ARTICLE>
     <HEADER>
       DEEP_SPACE_NETWORK
     </HEADER>
     <object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html"  style="height:50vh;width:100%;" > 
     <FOOTER>HOLE TO ANOTHER UNiVERSE</FOOTER>
   </ARTICLE>
+  <ARTICLE>
+    <HEADER>
+      NEAR_SPACE_NETWORK
+    </HEADER>
+    <object type="text/html" data="https://scan-now.gsfc.nasa.gov/dte"  style="height:50vh;width:100%;" > </object>
+    <FOOTER>HOLE TO ANOTHER UNiVERSE</FOOTER>
+  </ARTICLE>
+
 
 
 
