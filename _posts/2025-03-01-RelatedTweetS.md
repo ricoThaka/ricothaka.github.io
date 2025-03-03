@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: normani
 title:  "RelatedTwT"
 categories: nasajpl family x twitter socialcatchup workblogging 
 published: true
