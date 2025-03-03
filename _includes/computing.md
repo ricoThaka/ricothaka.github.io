@@ -1,4 +1,20 @@
 
+![imageScaling](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2xsai_example.svg/800px-2xsai_example.svg.png)
+
+![Raster vs Vector](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bitmap_VS_SVG.svg/800px-Bitmap_VS_SVG.svg.png)
+
+### [Image scaling](https://en.wikipedia.org/wiki/Image_scaling#:~:text=In%20computer%20graphics%20and%20digital,as%20upscaling%20or%20resolution%20enhancement.)
+
+In computer graphics and digital imaging, image scaling refers to the resizing of a digital image. In video technology, the magnification of digital material is known as upscaling or resolution enhancement.
+
+When scaling a vector graphic image, the graphic primitives that make up the image can be scaled using geometric transformations with no loss of image quality.
+
+[Scalable Vector Graphics (SVG) ](https://en.wikipedia.org/wiki/SVG) is an XML-based vector image format for defining two-dimensional graphics, having support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium since 1999.
+[SVG](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SVG_Logo.svg/800px-SVG_Logo.svg.png)
+
+By <a href="//commons.wikimedia.org/wiki/File:2xsai_example.png" title="File:2xsai example.png">Original: </a> <a href="//commons.wikimedia.org/wiki/User:Kieff" class="mw-redirect" title="User:Kieff">Kieff</a> and <a href="//commons.wikimedia.org/wiki/User:Mysid" title="User:Mysid">Mysid</a> Vector: <a href="//commons.wikimedia.org/wiki/User:OmegaFallon" title="User:OmegaFallon">OmegaFallon</a> - <span class="int-own-work" lang="en">Own work</span>; vectorization of: <a href="//commons.wikimedia.org/wiki/File:2xsai_example.png" title="File:2xsai example.png">2xsai example.png</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=137922514">Link</a>
+[https://red-route.org/code/image-resizing-calculator](https://red-route.org/code/image-resizing-calculator) 
+
 [Speed up your Jekyll builds - Mike Neumegen](https://cloudcannon.com/blog/speed-up-your-jekyll-builds/) Use front matter to add metadata to your content. [GoHUGO - FRONTMATTER Docs](https://gohugo.io/content-management/front-matter/)
 [SVG DROPSHADOWS - CSSTRiCKS](https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/) [Upgrading to Jekyll 4 and overhauling Theme](https://www.xavierjortiz.com/jekyll4_theme_overhaul/) [All versions of jekyll - rubygems.org](https://rubygems.org/gems/jekyll/versions) [Organising my Jekyll Blog with Categories](https://emmatheeng.github.io/projects/blog_setup/blog-categories.html)
 [CatagoryLoop](https://gist.github.com/sskylar/968daf7dd6a876381c2d0663a1a933af)  [3 Simple steps to setup Jekyll Categories and Tags](https://blog.webjeda.com/jekyll-categories/#google_vignette)

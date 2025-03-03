@@ -82,6 +82,31 @@ atmospheric science data products and services [TOOLS](https://asdc.larc.nasa.go
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
 
 
+[S͟q̲uare p̲u̲sher - Fe͟ed Me͟ Wei͟rd Thi͟ngs (Full Album)](https://youtu.be/ACCGdh_JYLE?si=Cz85_dob5hCd5CLv&t=1210)
+![mapping losangles](https://pbs.twimg.com/media/GR62HDRaQAApmxg?format=jpg&name=large)
+[Open Metro](https://developer.metro.net/)
+
+![Fire Maps United States](https://pbs.twimg.com/media/GR6v9VpaUAAraWG?format=jpg&name=large)
+
+### Fire Information for Resource Management System
+
+Providing Active Fire Data for Near-Real Time Monitoring and Applications
+The Fire Information for Resource Management System (FIRMS) distributes Near Real-Time (NRT) active fire data from the Moderate Resolution Imaging Spectroradiometer (MODIS) aboard the Aqua and Terra satellites, and the Visible Infrared Imaging Radiometer Suite (VIIRS) aboard S-NPP, NOAA 20 and NOAA 21 (formally known as JPSS-1 and JPSS-2). Globally these data are available within 3 hours of satellite observation, but for the US and Canada active fire detections are available in real-time.
+
+[Nasa Lance Firms Fire Information Management Console (ClimateTooL)](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-116.6,34.8,6.9z)
+
+
+![coral iris kelly](https://pbs.twimg.com/media/GR6arCnacAEwgJA?format=jpg&name=medium)
+![oromo tygrinya](https://pbs.twimg.com/media/GR6awOAbQAAHTic?format=jpg&name=large)
+![gitgood](https://pbs.twimg.com/media/GR6ZDr2bIAAbrfl?format=jpg&name=large)
+[Making Git Good](https://blog.replit.com/git-good)
+![blog](https://pbs.twimg.com/media/GR6SpzAaMAAfZhW?format=jpg&name=large)
+![Landsatlook webtool](https://pbs.twimg.com/media/GR6Vmgkb0AA1zLB?format=jpg&name=large)
+[https://landsatlook.USGS climatetool](https://landsatlook.usgs.gov/explore) [USGS LandsatLook Viewer](https://www.un-spider.org/links-and-resources/gis-rs-software/usgs-landsatlook-viewer)
+
+`https://x.com/BubbleGumPop626/status/1810049106016112786` 
+
+![United States Of America](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg)
 ---
 
 ![NETCDFViEWER](https://www.giss.nasa.gov/tools/panoply/gfx/panoply_500_1440x960.png)
