@@ -5,7 +5,12 @@ categories: nasajpl earth
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
-
+# Ground Data Systems and Mission Operations
+# Ground & Flight Data Systems Group
+Overview
+The Ground & Flight Data Systems (GFDS) Group creates systems to facilitate transmission and processing of data between spacecraft, rovers, satellites, ground control, and distributed mission teams. Data ranges from communications, telemetry, and Integrated Systems Health Management (ISHM) data, to planetary, astrophysical, medical, and biological science research data and analytics. Ground processing of data is accomplished by science pipeline data systems, which transform raw, uncorrected, uncalibrated data into usable products for the science community. [ReadMore - NASA](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/)
+[READMORE - SWOT](https://swot.jpl.nasa.gov/mission/ground-systems-and-data/)
+[Documentation](https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations/) : [MULTI-MISSION GROUND DATA SYSTEMS: BREAKTHROUGHS AND CHALLENGES - M. Tankenson, J. Cruz](https://descanso.jpl.nasa.gov/RCSGSO/Paper/A0034Paper.pdf) [NASA JPL Data Center Consolidation, Ph. III](https://cegsolutions.com/jpl-dc)
 ![NASAEARTHDATA](https://earthdata.nasa.gov/s3fs-public/styles/hero_background/public/2024-10/home-test-2.jpg?VersionId=6U_sY81dO7op0_7QUpBt1GeRyQaCTFMV&itok=HdewaSKg)
 [Data Alerts and Outages](https://www.earthdata.nasa.gov/data/alerts-outages)
 
@@ -26,11 +31,15 @@ atmospheric science data products and services [TOOLS](https://asdc.larc.nasa.go
 # Imagery 
 
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
+### [RepKArenBassDeliverables](https://x.com/RicoThaka/status/1885490358324519039) 
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a)
+
 [AVIRIS-3 L1B Calibrated Radiance, Facility Instrument Collection](https://search.earthdata.nasa.gov/search/granules?p=C3236537162-ORNL_CLOUD!C3236537162-ORNL_CLOUD&pg[1][a]=3380792059!3380791927!3380791981!3380791895!ORNL_CLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&tl=1736865834!3!!&lat=34.20913181444835&long=-120.13330078125&zoom=7) [related](https://x.com/ORNLDAAC/status/1239235050081865728)
 ![Aviris](https://pbs.twimg.com/media/GlEk3vCbIAEwijN?format=jpg&name=large)
 
 [AvirisTweet](https://x.com/RicoThaka/status/1880056257509462328) [Holly Bender](https://x.com/hollyaprilb/status/371082545804226562) [AvirisDataPortal](https://popo.jpl.nasa.gov/mmgis-aviris/?mission=AVIRIS&site=ert&mapLon=-93.95507812500001&mapLat=40.245991504199026&mapZoom=4&globeLon=undefined&globeLat=undefined&globeZoom=undefined&panePercents=0,100,0&on=e4d92155-7af4-4ec3-ba97-1d6e4639c5d6$1.00,d068949c-3a21-45c0-8aa9-7dd29bfc8adc$1.00&startTime=2006-04-01T00:00:01.000Z&endTime=2024-02-15T21:27:02.653Z) [AVIRIS-Classic Data Portal](https://aviris.jpl.nasa.gov/dataportal/) [CUBE](https://x.com/DrGeoffSmith/status/1235461899376103424)
-### [RepKArenBassDeliverables](https://x.com/RicoThaka/status/1885490358324519039) [SoilMoistureVisualiser](https://x.com/RicoThaka/status/1882516168214487485) [Asking Mayor Bass to examine what we offer at JPL](https://x.com/RicoThaka/status/1882498520122548642) [Aviris FlightLines](https://x.com/RicoThaka/status/1885166999158087926)
+[SoilMoistureVisualiser](https://x.com/RicoThaka/status/1882516168214487485) [Asking Mayor Bass to examine what we offer at JPL](https://x.com/RicoThaka/status/1882498520122548642) [Aviris FlightLines](https://x.com/RicoThaka/status/1885166999158087926)
 
 ![RepKArenBass](https://pbs.twimg.com/media/GiqamBwbYAEKJg_?format=jpg&name=large)
 ![Aviris](https://pbs.twimg.com/media/Gik6w1SbYAM-MXE?format=jpg&name=large)
@@ -40,7 +49,7 @@ atmospheric science data products and services [TOOLS](https://asdc.larc.nasa.go
 # [Los Angeles Fires](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) : [Palisades](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california) : [Pepperdine](https://emergency.pepperdine.edu/)
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
 
-[FLiGHTLiNES.CSV](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/aVIRIS_Flight_Lines.csv) [Coast](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a) [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars)
+[FLiGHTLiNES.CSV](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/aVIRIS_Flight_Lines.csv) [Coast](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg)  [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars)
 
 [<IMG src="https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true" alt="AVIRIS-3 L1b Radiance Data Related to California Fires Now Available" />](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true)
 [RelatedTweet](https://x.com/RicoThaka/status/1885106591214801086) [RELATEDTWEET](https://x.com/RicoThaka/status/1885085716834902342)
@@ -85,6 +94,11 @@ Panoply is a cross-platform application that runs on Macintosh, Windows, Linux a
     <FOOTER>HOLE TO ANOTHER UNiVERSE</FOOTER>
   </ARTICLE>
 
+
+
+
+## OCEAN 
+[Distributed Oceanographic Matchup Service (DOMS)](https://doms.jpl.nasa.gov/)
 [Locust Watch](https://www.fao.org/locust-watch/en)
 ![Earth](https://epic.gsfc.nasa.gov/archive/natural/2025/01/09/jpg/epic_1b_20250109195657.jpg)
 [Scientific Visualization Studio](https://svs.gsfc.nasa.gov/)
