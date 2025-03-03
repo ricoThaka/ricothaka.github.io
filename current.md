@@ -9,6 +9,11 @@
    
   </div>  
 
+## Bookworms Beware: Hackers Launch Cyberattacks On Libraries Globally
+Sausalito, Calif. – May 15, 2024
+
+Taylor Fox spent five years working at libraries before joining Cybercrime Magazine as a media coordinator. The former page and clerk dug up some interesting market data on a disturbing trend that is affecting bookworms across the world: Our libraries are under cyberattack. [ReadMore](https://cybersecurityventures.com/bookworms-beware-hackers-launch-cyberattacks-on-libraries-globally/)
+
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/60218c77ef098d3a41bfa7ad/vsco60218c793112f.jpg" >
 
 # Terminator 2
