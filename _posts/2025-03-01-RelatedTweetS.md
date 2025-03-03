@@ -6,8 +6,8 @@ published: true
 image: pico_twitter_font.gif
 ---
 
-
-
+![MAnseesa](https://pbs.twimg.com/media/GlJ01LObkAAdQ9X?format=jpg&name=large)
+[RelatedTweet](https://x.com/thakasartu/status/1896706861338112040) [Manasseh Warner, NCC](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/)
 # Palisades Fire
 [KTLA Palisades Fire reaches Brentwood, threatens San Fernando Valley](https://youtu.be/DNkLoBtWFhA?list=RDNSSV0kzuY6bKI&t=35)
 ![NASAWORLDViEW](https://pbs.twimg.com/media/GhDE3eObEAAj1rV?format=jpg&name=large)
