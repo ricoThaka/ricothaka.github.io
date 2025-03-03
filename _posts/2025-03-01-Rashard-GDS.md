@@ -85,14 +85,14 @@ Panoply is a cross-platform application that runs on Macintosh, Windows, Linux a
     <HEADER>
       NEAR_SPACE_NETWORK
     </HEADER>
-    <object class="scroller" data="https://scan-now.gsfc.nasa.gov/dte" type="text/html" ></object>
+    <object type="text/html" data="https://scan-now.gsfc.nasa.gov/dte"  style="height:50vh;width:100%;" > 
     <FOOTER>HOLE TO ANOTHER UNiVERSE</FOOTER>
   </ARTICLE>
   <ARTICLE>
     <HEADER>
       DEEP_SPACE_NETWORK
     </HEADER>
-    <object class="scroller" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" ></object>
+    <object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html"  style="height:50vh;width:100%;" > 
     <FOOTER>HOLE TO ANOTHER UNiVERSE</FOOTER>
   </ARTICLE>
 
@@ -123,6 +123,6 @@ The real time status of communications with our deep space explorers
 [EarthData Search](https://search.earthdata.nasa.gov/search)
 [DAR Tool @usgs](https://dartool.cr.usgs.gov/Main.php)
 
-<object type="text/html" data="https://eyes.nasa.gov/apps/mrn/#/mars"  style="min-height:50vh;width:100%;" >    
+<object type="text/html" data="https://eyes.nasa.gov/apps/mrn/#/mars"  style="height:50vh;width:100%;" >    
 
 {% include computing.md %}
