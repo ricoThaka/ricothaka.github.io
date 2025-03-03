@@ -5,6 +5,17 @@ categories: nasajpl family x twitter socialcatchup workblogging
 published: true
 image: pico_twitter_font.gif
 ---
+
+
+
+# Palisades Fire
+[KTLA Palisades Fire reaches Brentwood, threatens San Fernando Valley]
+![NASAWORLDViEW](https://pbs.twimg.com/media/GhDE3eObEAAj1rV?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1878217800193622498)
+![NAsaWorldView](https://pbs.twimg.com/media/GhDB2sFbEAAYm_D?format=jpg&name=large)
+[Related Tweet](https://x.com/RicoThaka/status/1878214332921888961)
+
+
 ### [Mamasah](https://x.com/thakasartu/status/1678932886790066176) u ever saw me paint this? I took coral to the spot @blackgirlscode [TimeLapsePeice](https://youtu.be/7TRStCd7qYU?si=XWNzLoGpCvW_pHqW)
 ![coral](https://pbs.twimg.com/media/GDmkAeWaYAAjWNN?format=jpg&name=medium)
 [related](https://x.com/BubbleGumPop510/status/1745606708825878951) [rashard appearance history](https://x.com/BubbleGumPop510/status/1747698287422169481) 
