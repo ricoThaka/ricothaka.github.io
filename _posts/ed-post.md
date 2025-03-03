@@ -30,3 +30,5 @@ After becoming overwhelemed with joy that i was getting [UnixLessons](https://pe
 [<img src="https://archive.org/download/mondaycmd/mondaycmd.png" alt="Rashard commandline horizontal screenshot merge using imagemagick"/>](https://archive.org/download/mondaycmd/mondaycmd.png)
 
 ![GNU](https://upload.wikimedia.org/wikipedia/commons/5/53/GNU_and_Tux.svg)
+
+![gnu](https://commons.wikimedia.org/wiki/File:Gnu-listen-half.jpg)
