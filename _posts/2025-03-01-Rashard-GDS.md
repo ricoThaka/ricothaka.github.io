@@ -29,7 +29,7 @@ atmospheric science data products and services [TOOLS](https://asdc.larc.nasa.go
 # [Heading Link](#section-i-want)
 ### [1. Anchor Link](#anchor-link)
 # 1.1 [Header](#1.1) 
-
+![altText](myImage.png){#id .myClass width=40 height=50}
 # Imagery 
 
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
