@@ -6,6 +6,9 @@ permalink: /normani
 tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU2600b.PNG">
+
 [playlist](https://github.com/ricoThaka/ricothaka.github.io/commit/1a7a98f1b676691fe5e2b22ecc59691bd4de41d2) ... baby someone cut my fingernail idk y
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6s4slL3_jtI?si=tapzkvQwbp5wdLSP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
