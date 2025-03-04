@@ -10,7 +10,7 @@
   </div>  
 
 [`sHEREx and PUNCH Pre-Launch News Conference`](https://plus.nasa.gov/scheduled-video/spherex-and-punch-pre-launch-news-conference/)
-[Surface Biology and Geology (SBG) High-Frequency Time Series](https://impact.earthdata.nasa.gov/casei/campaign/SHIFT/)
+[Surface Biology and Geology (SBG) High-Frequency Time Series](https://impact.earthdata.nasa.gov/casei/campaign/SHIFT/) [JPL](https://www.jpl.nasa.gov/images/pia26319-ingenuity-teams-final-shift/)
 ![NASA](https://live.staticflickr.com/65535/52529253591_cc8b0ea933_k.jpg)
  [normani i put space goodies on](https://ricothaka.github.io/normani) @blackgirlscode [CodeTest](https://x.com/RicoThaka/status/1896991447972528505) [Aviris](https://x.com/RicoThaka/status/1885490358324519039) 
 [Mayor Bass/ Governor Newsom, i found older Aviris Scans of Santa Barbera](https://ricothaka.github.io/Rashard-GDS#repkarenbassdeliverables) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [NASAJPL WOMAN of AViRiS](https://x.com/hollyaprilb/status/371082545804226562) [AvirisFlights](https://x.com/RicoThaka/status/1885166999158087926) [HysplRl](https://x.com/McMaster_de/status/743127935587082240) @nasa-jpl [GoogleGraffiti](https://x.com/RicoThaka/status/1880056257509462328)
