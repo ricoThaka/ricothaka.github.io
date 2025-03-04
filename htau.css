@@ -352,7 +352,7 @@ video {
 	background-attachment:fixed;
   transition: 4s cubic-bezier(.25,.1,.2,3);
  /*    transition: 3s cubic-bezier(0.1, 0.2, 0.3, 0.4);
-   transition: 4s cubic-bezier(.25,.1,.2,3); */
+   transition: 3s cubic-bezier(.25,.1,.2,3); */
 }
 
 
@@ -453,18 +453,18 @@ img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
 
 img[alt^="L"] {
   width: 100%;
-  border-top:solid 10px #f4bf75;
+  border-top:solid 1px yellow;
   
   }
 
 img[alt*="USGS"] {
   width: 100%;
-  border-bottom:solid 10px #c9ff23;
+  border-bottom:solid 2px #c9ff23;
   
   }
 img[src*="nasa.gov"] {
 width: 100%;
-border-bottom:solid 5px #c9ff23;
+border-bottom:solid 3px #c9ff23;
 
 }
 img[alt="kk"] {
