@@ -9,7 +9,7 @@
    
   </div>  
 
-
+[Old Design - ThakaSartu-ASTRONOMY](https://ricothaka.github.io/astronomy/) [RelatedTweet - LightBox on thakarashard](https://x.com/RicoThaka/status/1896767752276426861) [gonder](https://x.com/RicoThaka/status/1896743573414195464) [ManessA](https://x.com/thakasartu/status/1896706861338112040) [GitHub On TheGO](https://x.com/RicoThaka/status/1896717090893287429) @nasa @nasa-jpl 
 ![DisneYHALL](https://pbs.twimg.com/media/GlL9eb4WYAAhmxs?format=jpg&name=4096x4096)
 ![PalisadesPepperdine](https://pbs.twimg.com/media/GlMA-IZXkAE5rY-?format=jpg&name=medium)
 ## Las Vegas: [Bus](https://www.rtcsnv.com/)

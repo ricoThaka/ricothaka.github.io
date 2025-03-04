@@ -6,7 +6,17 @@ permalink: /normanikordei
 tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
-[Pinterest ~2012](https://www.pinterest.com/drstankenstein/)
+
+
+![NORMANi i can take it](https://pbs.twimg.com/media/GlJCbPYaAAAaS0F?format=jpg&name=large) [Normani im not hiding](https://x.com/RicoThaka/status/1896651509963854334)
+[Pinterest ~2012](https://www.pinterest.com/drstankenstein/) [Subway History Slab Questioned](https://x.com/RicoThaka/status/1896638598721757588) [SteveHarvey Blocked inLA](https://x.com/RicoThaka/status/1896558394515067207) [AVP on RetroArch](https://x.com/RicoThaka/status/1896426869383467321) [FireMApping](https://x.com/RicoThaka/status/1896361857163887056) [Normani i tried to see if i could spot u on the red Carpet](https://x.com/RicoThaka/status/1896357491770056978) i get it... [red](https://bones.com/) [skateboard](https://www.youtube.com/watch?v=HZGWTfq8Yy0) [wheels](https://www.spitfirewheels.com/) /// 
+
+
+![BONES](https://d2or613lp2h38m.cloudfront.net/assets/boneswheels/productimage/size/1396x1396/method/strict/v/f830/WSCPRR065680R4.jpg)
+
+![SPitFire](https://www.spitfirewheels.com/summer24/sf-urethane-web-sapphires.png)
+
+
 <img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fc456bce1ebb64f08283bf2/vsco5fc456bd41267.jpg" />	
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU2600b.PNG" />
 
