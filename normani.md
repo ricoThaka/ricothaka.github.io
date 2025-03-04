@@ -7,6 +7,10 @@ tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+
+
+![KASHDOLL](https://pbs.twimg.com/media/GlN55r2bgAACVfj?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1896991447972528505) [RelatedTweet](https://x.com/RicoThaka/status/1896912399799902558) [Mecca](https://x.com/RicoThaka/status/1896870475520999784) [gnu](https://x.com/Interior/status/1896559006967267675)
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU2600b.PNG">
 
 [playlist](https://github.com/ricoThaka/ricothaka.github.io/commit/1a7a98f1b676691fe5e2b22ecc59691bd4de41d2) ... baby someone cut my fingernail idk y
