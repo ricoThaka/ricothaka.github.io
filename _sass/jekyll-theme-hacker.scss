@@ -182,8 +182,8 @@ BODY {
 
 }
 
-img {  max-height: auto;
-  max-width: auto;
+img {  max-height:100%;
+  max-width:100%;
 display:block;}
 img[alt*="USGS"] {width: 100%;border-bottom:solid 1px  #BF785E;}
 
