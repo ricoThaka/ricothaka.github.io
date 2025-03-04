@@ -1,4 +1,12 @@
 
+
+```
+# [Heading Link](#section-i-want)
+### [1. Anchor Link](#anchor-link)
+# 1.1 [Header](#1.1) 
+![altText](myImage.png){#id .myClass width=40 height=50}
+```
+
 ### Fire Information for Resource Management System [FiRMS](https://www.earthdata.nasa.gov/data/tools/firms)
 [NASA | LANCE | FIRMS - NASA Firms ](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.0z)
 

@@ -6,6 +6,9 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+
+
+
 # EARTH SCIENCE RESEARCH PROGRAM
 ### EARTH SCIENCE RESEARCH OVERVIEW ROSES-2024
 [APPENDIX A.](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=974331/solicitationId=%7B3314EF2F-63D5-9A7C-0E74-1F9A8ABB4332%7D/viewSolicitationDocument=1/A.01%20Earth%20Science%20Overview.pdf) [WorkEffortTemplate](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=1036510/solicitationId=%7B40DCE90A-0924-7D5B-55E2-CC98DD824A5C%7D/viewSolicitationDocument=1/FarmFlux_WorkEffortTableTemplate.pdf)
@@ -43,6 +46,11 @@ Researchers working with the Advanced Rapid Imaging and Analysis (ARIA) and Obse
 atmospheric science data products and services [TOOLS](https://asdc.larc.nasa.gov/tools-and-services)
 ## Alaska Satellite Facility
 [Training](https://asf.alaska.edu/training-resources/) + [USERGuides](https://asf.alaska.edu/user-guides/)
+## Oak Ridge
+### NAtional Laboratory
+
+[Nasa Projects](https://daac.ornl.gov/get_data/#projects)
+Oak Ridge National Laboratory delivers scientific discoveries and technical breakthroughs needed to realize solutions in energy and national security and provide economic benefit to the nation. [ReadMore](https://www.ornl.gov/what-we-do) [DataManagement](https://daac.ornl.gov/datamanagement/) 
 
 # [Heading Link](#section-i-want)
 ### [1. Anchor Link](#anchor-link)
@@ -53,6 +61,13 @@ atmospheric science data products and services [TOOLS](https://asdc.larc.nasa.go
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
 # [RepKArenBassDeliverables](https://x.com/RicoThaka/status/1885490358324519039) 
 [RepKArenBassDeliverables](#repkarenbassdeliverables) 
+
+Mayor Bass/ Governor Newsom, i found older Aviris Scans of Santa Barbera `Published - 2024-01-25` This imagery was collected as part of the Surface Biology and Geology High-Frequency Time Series ([SHIFT](https://www.jpl.nasa.gov/images/pia25144-shift-campaign-research-plane-flight-area-map/)) campaign which occurred during February to May, 2022, with a follow up activity for one week in September. [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [![Twitter Follow](https://img.shields.io/badge/Social-@SMBRF__-blue?style=social&logo=X)](https://twitter.com/@SMBRF) [![Twitter Follow](https://img.shields.io/badge/Social-@eliasonmike__-blue?style=social&logo=X)](https://twitter.com/@eliasonmike)
+![Aviris](https://pbs.twimg.com/media/GlODeO6bwAAFKVF?format=jpg&name=large)
+[RelatedTwT](https://x.com/thakasartu/status/1897004746168533217) [SHIFT: AVIRIS-NG Full-Resolution True Color Images](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2189) [MissionDocs](https://daac.ornl.gov/daacdata/shift/SHIFT_AVNG_FullRes_QkLook/comp/SHIFT_AVNG_FullRes_QkLook.pdf)
+![SMB-KELP](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25144.width-1024.jpg) [The Bay Foundation](https://www.santamonicabay.org/) [RelatedTweet](https://x.com/SMBRF/status/1756043837011546286)
+### Data Use and Citation
+Brodrick, P.G., R. Pavlick, M. Bernas, J.W. Chapman, R. Eckert, M. Helmlinger, M. Hess-Flores, L.M. Rios, F.D. Schneider, M.M. Smyth, M. Eastwood, R.O. Green, D.R. Thompson, K.D. Chadwick, and D.S. Schimel. 2023. SHIFT: AVIRIS-NG Full-Resolution True Color Images. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/2189
 [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a)
 [Selected Palisades Files to sample](https://github.com/ricoThaka/ricothaka.github.io/tree/master/assets/images/aviris)
 [AVIRIS-3 L1B Calibrated Radiance, Facility Instrument Collection](https://search.earthdata.nasa.gov/search/granules?p=C3236537162-ORNL_CLOUD!C3236537162-ORNL_CLOUD&pg[1][a]=3380792059!3380791927!3380791981!3380791895!ORNL_CLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&tl=1736865834!3!!&lat=34.20913181444835&long=-120.13330078125&zoom=7) [related](https://x.com/ORNLDAAC/status/1239235050081865728)
@@ -69,6 +84,8 @@ atmospheric science data products and services [TOOLS](https://asdc.larc.nasa.go
 # [Los Angeles Fires](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) : [Palisades](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california) : [Pepperdine](https://emergency.pepperdine.edu/)
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
 
+### Fire Information for Resource Management System [FiRMS](https://www.earthdata.nasa.gov/data/tools/firms)
+[NASA | LANCE | FIRMS - NASA Firms ](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.0z)
 [FLiGHTLiNES.CSV](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/aVIRIS_Flight_Lines.csv) [Coast](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg)  [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars)
 
 [<IMG src="https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true" alt="AVIRIS-3 L1b Radiance Data Related to California Fires Now Available" />](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true)

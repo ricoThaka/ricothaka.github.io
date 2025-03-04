@@ -6,6 +6,8 @@ published: true
 image: pico_twitter_font.gif
 ---
 
+![NORMANi](https://pbs.twimg.com/media/GlOFCjQaYAA4saa?format=jpg&name=large)
+[RelatedTweet](https://x.com/thakasartu/status/1897006454177194140)
 ![MAnseesa](https://pbs.twimg.com/media/GlJ01LObkAAdQ9X?format=jpg&name=large)
 [RelatedTweet](https://x.com/thakasartu/status/1896706861338112040) [Manasseh Warner, NCC](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/)
 # Palisades Fire
