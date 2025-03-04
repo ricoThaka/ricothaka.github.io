@@ -182,6 +182,14 @@ BODY {
 
 }
 
+img {
+  max-height: auto;
+  max-width: 100%;
+}
+section img {
+  max-height: auto;
+  max-width: 100%;
+}
 img {  max-height:100%;
   max-width:100%;
 display:block;}
