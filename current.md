@@ -9,7 +9,14 @@
    
   </div>  
 
-[Old Design - ThakaSartu-ASTRONOMY](https://ricothaka.github.io/astronomy/) [RelatedTweet - LightBox on thakarashard](https://x.com/RicoThaka/status/1896767752276426861) [gonder](https://x.com/RicoThaka/status/1896743573414195464) [ManessA](https://x.com/thakasartu/status/1896706861338112040) [GitHub On TheGO](https://x.com/RicoThaka/status/1896717090893287429) @nasa @nasa-jpl 
+
+![NASA](https://live.staticflickr.com/65535/52529253591_cc8b0ea933_k.jpg)
+ [normani i put space goodies on](https://ricothaka.github.io/normani) @blackgirlscode [CodeTest](https://x.com/RicoThaka/status/1896991447972528505) [Aviris](https://x.com/RicoThaka/status/1885490358324519039) 
+[Mayor Bass/ Governor Newsom, i found older Aviris Scans of Santa Barbera](https://ricothaka.github.io/Rashard-GDS#repkarenbassdeliverables) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [NASAJPL WOMAN of AViRiS](https://x.com/hollyaprilb/status/371082545804226562) [AvirisFlights](https://x.com/RicoThaka/status/1885166999158087926) [HysplRl](https://x.com/McMaster_de/status/743127935587082240) @nasa-jpl [GoogleGraffiti](https://x.com/RicoThaka/status/1880056257509462328)
+![iss](https://pbs.twimg.com/media/GipAWaibYAQOkZR?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1885390186068271340) [Reminding Karen](https://x.com/RicoThaka/status/1882498520122548642) to get a [DataCube](https://x.com/DrGeoffSmith/status/1235461899376103424)
+[Old Design - ThakaSartu-ASTRONOMY](https://ricothaka.github.io/astronomy/) [RelatedTweet - LightBox on thakarashard](https://x.com/RicoThaka/status/1896767752276426861) [gonder](https://x.com/RicoThaka/status/1896743573414195464) [ManessA](https://x.com/thakasartu/status/1896706861338112040) [GitHub On TheGO](https://x.com/RicoThaka/status/1896717090893287429) @nasa @nasa-jpl [SoilMoistture](https://x.com/RicoThaka/status/1882516168214487485) [BarbiePopulation - CaliforniaFire](https://x.com/RicoThaka/status/1885168225497080224)
+![soil](https://pbs.twimg.com/media/GiAKVUtbgAAiDtj?format=jpg&name=large) [isro](https://x.com/NIRDPR_India/status/1187388524825169922) [infrared imaging market - research](https://x.com/RNGSConsulting/status/1800036654167830817)
 ![DisneYHALL](https://pbs.twimg.com/media/GlL9eb4WYAAhmxs?format=jpg&name=4096x4096)
 ![PalisadesPepperdine](https://pbs.twimg.com/media/GlMA-IZXkAE5rY-?format=jpg&name=medium)
 ## Las Vegas: [Bus](https://www.rtcsnv.com/)
