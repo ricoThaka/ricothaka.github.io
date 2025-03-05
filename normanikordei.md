@@ -12,7 +12,7 @@ tags: saint
 ## Normani... I love you
 
 
- <div class="pinupImage pinupgallery expandingGallery">
+<div class="pinupImage pinupgallery expandingGallery">
 <img src="https://pbs.twimg.com/media/GDrT9UDbYAA5ue9?format=jpg&name=large" />
    <img src="https://pbs.twimg.com/media/GDrSn71bsAA7NSt?format=jpg&name=large" />
    </div>
