@@ -23,7 +23,8 @@ tags: saint
 
 </div>
 
-
+![Normani](https://pbs.twimg.com/media/GN5KdZaa4AAygGS?format=png&name=large)
+![Normani](https://pbs.twimg.com/media/GN5KzxZacAAGGzW?format=jpg&name=large)
 
 <div class="panel4-container">
 
