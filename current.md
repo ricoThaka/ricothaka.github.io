@@ -10,7 +10,7 @@
   </div>  
 
 ![Voyager](https://pbs.twimg.com/media/Gc7sebibIAAzZsc?format=jpg&name=large)
-[Datamining at NASAJPL](https://x.com/RicoThaka/status/1859683807466750326)
+[Datamining at NASAJPL](https://x.com/RicoThaka/status/1859683807466750326) [My Disovery](https://x.com/RicoThaka/status/1859786430467407976)
 ![l5p graffiti](https://pbs.twimg.com/media/GE4s0IYacAAOuHv?format=jpg&name=large)
 [Related](https://x.com/RicoThaka/status/1751352695494213844) [ATL](https://x.com/RicoThaka/status/1751352695494213844)
 ![Coral Iris Kelly](https://pbs.twimg.com/media/GE40lnxa4AAhlhU?format=jpg&name=large)
