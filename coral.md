@@ -1,6 +1,21 @@
 
+<div class="tupperware">
+{% for post in site.posts %}
+  {% if post.categories contains 'coral' %}
+  
+  <article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endif %}
+{% endfor %}
 
 
+<div>
 
 ![Coral at TASHi_B home](https://pbs.twimg.com/media/GE4r6owaoAACP9n?format=jpg&name=large)
 
@@ -485,9 +500,9 @@ Coral I like to get the full aspect ration files when I can, I know people get m
     
 <article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
   <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
-    </div>
+
+  <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
+ 
   </a>
 </article>
 
