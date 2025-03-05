@@ -495,13 +495,13 @@ Coral I like to get the full aspect ration files when I can, I know people get m
 </video>
 
 
-<div class="tupperware">
+<div class="box">
 {% for post in site.posts %}
     
 <article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
   <a href="{{ site.github.url }}{{ post.url }}">
 
-  <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
+  <h3 itemprop="headline"><span>{{ post.title }}</span></h3>
  
   </a>
 </article>
