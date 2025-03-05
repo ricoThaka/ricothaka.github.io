@@ -13,6 +13,11 @@
 {% endfor %}
 
 </div>
+
+### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
+
+![WaterProof](https://www.sandia.gov/app/uploads/sites/81/2024/05/fluid.gif)
+
 <img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/600b63321d78311648000001/vsco600b633af04a1.jpg" >
 
 ![From DAd](https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&name=large)

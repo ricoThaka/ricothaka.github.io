@@ -8,6 +8,30 @@ tags: saint
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
 
+
+## Normani... I love you
+
+<div class="panel4-container">
+
+  <div class="item1">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
+  </div>
+
+  <div class="item2">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
+  </div>
+
+  <div class="item3">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/5DlSbwa.jpg">
+  </div>
+
+  <div class="item4">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/XyUmyb9.jpg">
+  </div>
+
+</div>
+
+
 ![NORMANi i can take it](https://pbs.twimg.com/media/GlJCbPYaAAAaS0F?format=jpg&name=large) [Normani im not hiding](https://x.com/RicoThaka/status/1896651509963854334)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Multiplatinum chart-topping artist <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> joined the <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> community at our LA Camp! 🤩 It was an exciting time for all, as she dove headfirst into camp activities, eagerly participating with our campers, and immersing herself in the games they designed. 🎮️🕹️👾 <a href="https://t.co/B9zHpTmHee">pic.twitter.com/B9zHpTmHee</a></p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://twitter.com/BlackGirlsCode/status/1824159527098318896?ref_src=twsrc%5Etfw">August 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

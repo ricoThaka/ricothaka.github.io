@@ -235,7 +235,7 @@ Jesus Christ, swamped by requests for guidance and divine forgiveness, hired 38-
 
   [Voyeurism##_OUT_IN_THe_OPEN YOUTUBE MY_FAMILY_HAS THIS_ISSUE With these kinds of criminals ](https://www.youtube.com/watch?v=oETVDKbThcE)
   [Scientists Prove That Telepathic Communication Is Within Reach](https://www.smithsonianmag.com/innovation/scientists-prove-that-telepathic-communication-is-within-reach-180952868/)
-  
+
   ```
   echo "An international research team develops a way to say “hello” with your mind"
   ```
@@ -296,3 +296,7 @@ Jesus Christ, swamped by requests for guidance and divine forgiveness, hired 38-
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/PALMDALE_STANGBANGAZ.jpg" > 
 
 [Big Boss Vette St. Louis, United States, SARTU_I_SEE_YOU MADE_SOME UNCLAiMED_MUSiC](https://soundcloud.com/user-320282599?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)  [NiGERiAN_MOViE::How D Prostitute Pretend 2Be A Church Girl 2 Lure & Marry D Billionaire Until Her Past Came Knocking 6hrs_iN_DURATiON PERCEPTiON_ALTERED_PERMANENTLY](https://www.youtube.com/watch?v=8HsHwO7m6t8)
+
+### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
+
+![WaterProof](https://www.sandia.gov/app/uploads/sites/81/2024/05/fluid.gif)

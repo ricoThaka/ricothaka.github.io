@@ -6,7 +6,7 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
-
+![BRokenWheel](https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large)
 [iSS_Research on /compiling](https://ricothaka.github.io/compiling/The-Iss-Research)
 https://x.com/RicoThaka/status/1853624210314400048
 ![raw mars](https://pbs.twimg.com/media/GblkCitbMAA6KQr?format=jpg&name=large)
