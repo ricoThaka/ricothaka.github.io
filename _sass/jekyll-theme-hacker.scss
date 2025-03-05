@@ -1,3 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import "normalize";
+@import "fonts";
+@import "rouge-base16-dark";
+@import "_media.css";
+@font-face {
+  font-family: Cluster;
+  src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
+}
+@import "default_colors";
+
+$body-background: $cod-grey !default;
+$body-foreground: $gallery !default;
+$header: $conifer !default;
+$blockquote-color: $silver-chalice !default;
+$blockquote-border: $dove-grey !default;
+$container-max-width: 1000px;
+
+@mixin media-max-width($max-width) {
+  @media (max-width: $max-width) {
+      @content;
+  }
+}
+
+
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -52,30 +78,6 @@ table {
 
 * {
   box-sizing: border-box;
-}
-
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import "normalize";
-@import "fonts";
-@import "rouge-base16-dark";
-@import "_media.css";
-@font-face {
-  font-family: Cluster;
-  src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
-}
-@import "default_colors";
-
-$body-background: $cod-grey !default;
-$body-foreground: $gallery !default;
-$header: $conifer !default;
-$blockquote-color: $silver-chalice !default;
-$blockquote-border: $dove-grey !default;
-$container-max-width: 1000px;
-
-@mixin media-max-width($max-width) {
-  @media (max-width: $max-width) {
-      @content;
-  }
 }
 
 
@@ -240,8 +242,10 @@ body {
 
 img {
 
+
+  max-width:100%;
   display:block;
-  width:100%;
+  
   
 }
 /*
