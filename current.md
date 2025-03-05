@@ -10,7 +10,19 @@
   </div>  
 
 
+<div class="expandingGallery">
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+</div>
 
+
+
+
+
+[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
 [Nija Drops New Single ‘Love Like This’](https://www.udiscovermusic.com/news/nija-love-like-this/)
 <audio controls class="broken-width">
   <source src="https://github.com/ThakaRashard/bubblegumpop00/raw/master/assets/audio/Nija_LoveLikeThisOfficial_Audio320k.mp3" />

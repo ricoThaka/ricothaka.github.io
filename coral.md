@@ -14,6 +14,16 @@
 
 </div>
 
+<a href="https://upload.wikimedia.org/wikipedia/en/9/9a/Yoshi%27s_Island_%28Super_Mario_World_2%29_box_art.jpg"> <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Yoshi%27s_Island_%28Super_Mario_World_2%29_box_art.jpg" style="width:378px;height:263px;margin-left:15px;" align="right" alt="Pineapple" /> </a>
+
+Super Mario World 2: Yoshi's Island[a] is a 1995 platform game developed and published by Nintendo for the Super Nintendo Entertainment System (SNES). It is the sequel follow-up to Super Mario World. The player controls Yoshi, a friendly dinosaur, on a quest to reunite baby Mario with his brother Luigi, who has been kidnapped by Kamek. As a Super Mario series platformer, Yoshi runs and jumps to reach the end of the level while solving puzzles and collecting items with Mario's help. The game has a hand-drawn aesthetic and was the first in the franchise to have Yoshi as its main character, where it introduces his signature flutter jump and egg spawning abilities
+After four years of development, Yoshi's Island was released in Japan in August 1995 and worldwide two months later....[ReadMore](https://en.wikipedia.org/wiki/Yoshi%27s_Island) src=https://en.wikipedia.org/wiki/Yoshi%27s_Island [SuperMarioWiki](https://www.mariowiki.com/Super_Mario_World_2:_Yoshi%27s_Island) [YoshiWiki](https://yoshi.fandom.com/wiki/Super_Mario_World_2:_Yoshi%27s_Island) [Play](https://www.smbgames.be/mario-world-2-yoshis-island.php) [Play](https://www.retrogames.onl/2017/03/super-mario-world-2-snes.html)
+
+NBA Jam
+![monaleo](https://pbs.twimg.com/media/GMrVIeSasAARkGO?format=jpg&name=large)
+[play](https://www.retrogames.cc/arcade-games/nba-jam-rev-3-01-4-07-93.html) NBA Jam is a basketball video game developed and published by Midway for arcades in 1993. 
+
+
 ### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
 
 ![WaterProof](https://www.sandia.gov/app/uploads/sites/81/2024/05/fluid.gif)
