@@ -9,6 +9,10 @@
    
   </div>  
 
+# radio
+[KJAZZ 88.1](https://player.live365.com/KKJZ) [WefunkRadio](https://www.wefunkradio.com/) [SomaFM](https://somafm.com/) [Hot1079 - ATLANTA](https://hotspotatl.com/listen-live/)
+
+# NasaNews
 [spHEREx and PUNCH Pre-Launch News Conference](https://plus.nasa.gov/scheduled-video/spherex-and-punch-pre-launch-news-conference/) [GLacierFlow](https://its-live.jpl.nasa.gov/) [kelp](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA25144.jpg)
 [Surface Biology and Geology (SBG) High-Frequency Time Series](https://impact.earthdata.nasa.gov/casei/campaign/SHIFT/) [JPL](https://www.jpl.nasa.gov/images/pia26319-ingenuity-teams-final-shift/)
 ![NASA](https://live.staticflickr.com/65535/52529253591_cc8b0ea933_k.jpg)
@@ -20,6 +24,7 @@
 ![soil](https://pbs.twimg.com/media/GiAKVUtbgAAiDtj?format=jpg&name=large) [isro](https://x.com/NIRDPR_India/status/1187388524825169922) [infrared imaging market - research](https://x.com/RNGSConsulting/status/1800036654167830817)
 ![DisneYHALL](https://pbs.twimg.com/media/GlL9eb4WYAAhmxs?format=jpg&name=4096x4096)
 ![PalisadesPepperdine](https://pbs.twimg.com/media/GlMA-IZXkAE5rY-?format=jpg&name=medium)
+
 ## Las Vegas: [Bus](https://www.rtcsnv.com/)
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/60218c77ef098d3a41bfa7ad/vsco60218c793112f.jpg" />
 
