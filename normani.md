@@ -7,7 +7,7 @@ tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
-[SpelmanTwitter](https://x.com/SpelmanCollege/status/1807778215575814325)
+[SpelmanTwitter](https://x.com/SpelmanCollege/status/1807778215575814325) [DistroWatch with Ruby](https://x.com/RicoThaka/status/1848142644305600592)
 @blackgirlscode @normani i talked about u to Laurie @nasa-jpl [TweetWithSpelman](https://x.com/RicoThaka/status/1897076889585697172)
 ![KASHDOLL](https://pbs.twimg.com/media/GlN55r2bgAACVfj?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1896991447972528505) [RelatedTweet](https://x.com/RicoThaka/status/1896912399799902558) [Mecca](https://x.com/RicoThaka/status/1896870475520999784) [gnu](https://x.com/Interior/status/1896559006967267675)

@@ -6,6 +6,21 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+![Curiosity Parts](https://pbs.twimg.com/media/Gacc7-bWEAA_f2f?format=jpg&name=large)
+<div class="tupperware">
+<img src="https://pbs.twimg.com/media/GacdJwaXsAAPeJp?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GacdO3eWoAAAlyB?format=jpg&name=large" />
+</div>
+
+[RelatedTweet](https://x.com/RicoThaka/status/1895832937540792393)
+<div class="tupperware">
+<img src="https://pbs.twimg.com/media/Ghm67NhbgAAIIbq?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/Ghm67NhbgAAIIbq?format=jpg&name=medium" />
+</div>
+
+[Related](https://x.com/thakasartu/status/1880737684043489628) [Tweet](https://x.com/thakasartu/status/1880739891186958758/photo/1)
+
+
 [Questioning Slate](https://x.com/RicoThaka/status/1863340837003993509)
 ![JACOB BROGAN](https://pbs.twimg.com/media/GdvqRQIbUAAzDr3?format=jpg&name=large)
 

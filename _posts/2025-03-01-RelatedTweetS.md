@@ -7,6 +7,20 @@ image: pico_twitter_font.gif
 ---
 
 
+<div class="tupperware">
+<img src="https://pbs.twimg.com/media/Gk9Z1U3XIAAoT-e?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/Gk9Z1UMbgAAzlBF?format=jpg&name=medium" />
+</div>
+
+[RelatedTweet](https://x.com/RicoThaka/status/1895832937540792393)
+<div class="tupperware">
+<img src="https://pbs.twimg.com/media/Ghm67NhbgAAIIbq?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/Ghm67NhbgAAIIbq?format=jpg&name=medium" />
+</div>
+
+[Related](https://x.com/thakasartu/status/1880737684043489628) [Tweet](https://x.com/thakasartu/status/1880739891186958758/photo/1)
+
+
 ![always aaround stealing!](https://pbs.twimg.com/media/GlPGYqvbUAAzhEP?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1897078002699395261) @nasa they comment on her programming group an its like so many little girls im super scared they chopped off a man dick in hollywood @nasa-jpl @whitehouse [Related](https://x.com/RicoThaka/status/1897076889585697172)
 
