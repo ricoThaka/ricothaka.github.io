@@ -9,6 +9,18 @@
    
   </div>  
 
+
+
+[Nija Drops New Single ‘Love Like This’](https://www.udiscovermusic.com/news/nija-love-like-this/)
+<audio controls class="broken-width">
+  <source src="https://github.com/ThakaRashard/bubblegumpop00/raw/master/assets/audio/Nija_LoveLikeThisOfficial_Audio320k.mp3" />
+
+  Your browser does not support the <code>audio</code> element.
+</audio>
+<blockquote>
+  Nija is back with the smooth and sultry summer single “Love Like This.” The track finds her mixing joy with vulnerability as she adjusts to the happy reality of finding someone who truly loves and accepts her, baggage and all.
+</blockquote>
+
 # radio
 [KJAZZ 88.1](https://player.live365.com/KKJZ) [WefunkRadio](https://www.wefunkradio.com/) [SomaFM](https://somafm.com/) [Hot1079 - ATLANTA](https://hotspotatl.com/listen-live/)
 
