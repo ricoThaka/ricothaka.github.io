@@ -6,6 +6,8 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+[Questioning Slate](https://x.com/RicoThaka/status/1863340837003993509)
+![JACOB BROGAN](https://pbs.twimg.com/media/GdvqRQIbUAAzDr3?format=jpg&name=large)
 
 ![ALAMY](https://media.gettyimages.com/id/458981575/photo/mariner-10-venus-murcury-mission.jpg?s=612x612&w=gi&k=20&c=oKe19g7rzI9CSBj9MINzMx_Y1cWIHiKoG5z_d8jVYXg=)
 [RelatedTweet](https://x.com/thakasartu/status/1896995321508659670)
