@@ -90,8 +90,8 @@ html {
     linear-gradient(90deg, #262626 1px, transparent 0);
   background-size: 30px 30px;
   background-attachment: fixed;
-  height: 100vh;
-  width: 100vw;
+  height: 100%;
+  width: 100%
 }
 
 
@@ -100,7 +100,7 @@ html {
 
   #MAiN {
     margin: 0 auto;
-    width: 70vw;
+    width: 70%;
     height: 100vh;
     margin: auto;  
   }
@@ -237,15 +237,14 @@ body {
   color: white;
 
 }
-/*
+
 img {
 
   display:block;
-  max-width: 100%;
   width:100%;
   
 }
-
+/*
 
 img {
   max-height: auto;
