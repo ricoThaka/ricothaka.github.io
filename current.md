@@ -9,6 +9,13 @@
    
   </div>  
 
+
+![NORMANi an RicoThaka on Google](https://pbs.twimg.com/media/GlUJ5-haoAA8uBm?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1897434020398657787) [GOOGLEQuERY](https://www.google.com/search?sca_esv=aebc663c531febdd&rlz=1CASLJZ_enUS1152&sxsrf=AHTn8zrmSDx53jhbuGYblH42GeVR5vivAg:1741218267193&q=ricothaka&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqekYoUzDaOcDDjQfK4KpR2OIx89VvS5aatXTnNt-qgjySyinU5ijtTN1RLytWiQb-L08r0IlyBwhmhmKk-6U0A05aMI2auI99wrCCkIEouFqHEwppFIzcn73Lg0uFC6Khg8gSwpdaHPcqbLW8Z5Wz7sk_yHXkw&sa=X&ved=2ahUKEwjdmqvCj_SLAxWWDEQIHUMpLdgQtKgLegQIExAB&biw=960&bih=945&dpr=1#vhid=S61_EHM75LyiOM&vssid=mosaic) [YANDEX - RiCOTHAKA](https://yandex.com/search/?text=ricothaka&lr=200&search_source=yacom_desktop_common)
+
+![ricothaka on google](https://pbs.twimg.com/media/GlUJVBPbUAA7lmF?format=jpg&name=medium)
+
+
 ![Voyager](https://pbs.twimg.com/media/Gc7sebibIAAzZsc?format=jpg&name=large)
 [Datamining at NASAJPL](https://x.com/RicoThaka/status/1859683807466750326) [My Disovery](https://x.com/RicoThaka/status/1859786430467407976) [FLYBY](https://x.com/RicoThaka/status/1864101025906610335)
 ![l5p graffiti](https://pbs.twimg.com/media/GE4s0IYacAAOuHv?format=jpg&name=large)
