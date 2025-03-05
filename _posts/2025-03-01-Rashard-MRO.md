@@ -6,7 +6,8 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
-
+![raw mars](https://pbs.twimg.com/media/GblkCitbMAA6KQr?format=jpg&name=large)
+[Mars Perseverance](https://mars.nasa.gov/mars2020/multimedia/raw-images/) [Related](https://x.com/RicoThaka/status/1853623028653126042)
 # HelioPhysics
 ![MarsSun](https://pbs.twimg.com/media/GdFzqLlagAEzrn_?format=jpg&name=large)
 [Related](https://x.com/RicoThaka/status/1860395564120309861) [The Sun in 3d CLiCKHERE](https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.html)
