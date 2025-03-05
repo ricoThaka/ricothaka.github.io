@@ -1,6 +1,8 @@
 #  <time datetime="{{ site.time | date: '%B %d, %Y' }}">{{ 'now' | date: "%Y" }} </time>
 # {{ site.time | date: '%B %d, %Y' }}m5rt5
 
+
+![Me And Erika](https://pbs.twimg.com/media/GE4slZFa0AAnIvT?format=jpg&name=large)
 [About Erika](https://x.com/RicoThaka/status/1775947939615322288)
 [Erika did he hurt you?](https://transformationoffice.mandela.ac.za/tme/media/Store/documents/Sexual%20Harrassment/A-man-s-guide-to-helping-a-rape-victim.pdf) im still with @normani in that way, just work with me, you it was time for me to expand at a level due to my age and structure of our relationship in JW. That was a perfect playpen to learn family structure. I love her an she can move at her own pace keep a tab or two on her, in love she follows every change made to this account and we worktogether. She was my assistant at RentPath for a min, the reality was i was to train her to replace me, but at the same time i work for @nasa so there is a MAN DUTY side to it all, an since we were intimate i gotta take her to work. You put me out! [She Told mE She Wrote this with me in mind](https://www.youtube.com/watch?v=5GL9JoH4Sws) [LiVE](https://www.youtube.com/watch?app=desktop&v=3YbV0Gkys4o&t=00m20s)
 

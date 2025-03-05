@@ -7,6 +7,10 @@ image: pico_twitter_font.gif
 ---
 
 
+![MARTA](https://pbs.twimg.com/media/GE4tNTFawAAlkwM?format=jpg&name=large)
+
+![GhettoKrogerMomAnChild](https://pbs.twimg.com/media/GE4t4lqa0AAXwZX?format=jpg&name=large)
+
 <div class="tupperware">
 <img src="https://pbs.twimg.com/media/Gk9Z1U3XIAAoT-e?format=jpg&name=medium" />
 <img src="https://pbs.twimg.com/media/Gk9Z1UMbgAAzlBF?format=jpg&name=medium" />
