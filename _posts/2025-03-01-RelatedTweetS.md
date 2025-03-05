@@ -6,6 +6,10 @@ published: true
 image: pico_twitter_font.gif
 ---
 
+
+![always aaround stealing!](https://pbs.twimg.com/media/GlPGYqvbUAAzhEP?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1897078002699395261) @nasa they comment on her programming group an its like so many little girls im super scared they chopped off a man dick in hollywood @nasa-jpl @whitehouse [Related](https://x.com/RicoThaka/status/1897076889585697172)
+
 ![NORMANi](https://pbs.twimg.com/media/GlOFCjQaYAA4saa?format=jpg&name=large)
 [RelatedTweet](https://x.com/thakasartu/status/1897006454177194140)
 ![MAnseesa](https://pbs.twimg.com/media/GlJ01LObkAAdQ9X?format=jpg&name=large)
