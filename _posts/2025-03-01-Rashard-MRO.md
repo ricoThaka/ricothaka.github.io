@@ -6,7 +6,14 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+
+# HelioPhysics
+![MarsSun](https://pbs.twimg.com/media/GdFzqLlagAEzrn_?format=jpg&name=large)
+[Related](https://x.com/RicoThaka/status/1860395564120309861) [The Sun in 3d CLiCKHERE](https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.html)
+#  [Curiosity PArts](https://www.msss.com/all_projects/msl-mahli.php)
+### MARS SCIENCE LABORATORY ([MSL](https://x.com/RicoThaka/status/1848478640385773811)) MARS HAND LENS IMAGER (MAHLI)
 ![Curiosity Parts](https://pbs.twimg.com/media/Gacc7-bWEAA_f2f?format=jpg&name=large)
+
 <div class="tupperware">
 <img src="https://pbs.twimg.com/media/GacdJwaXsAAPeJp?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GacdO3eWoAAAlyB?format=jpg&name=large" />
