@@ -46,3 +46,6 @@ https://x.com/RicoThaka/status/1853624210314400048
 
 ![MADRiD_DSN](https://www.nasa.gov/wp-content/uploads/2023/08/madrid-dss-56-01.jpg)
 >Deep Space Network, Deep Space Station 56 (DSS-56), a 112-foot-wide antenna at [Madrid Deep Space Communications Complex](https://www.mdscc.nasa.gov/index.php/en/start/) in Madrid, Spain. Image Credit: [NASA](https://plus.nasa.gov/series/)
+
+
+![RashardKellySolaris](https://pbs.twimg.com/media/GOJIhWJa4AAc5WC?format=jpg&name=large)
