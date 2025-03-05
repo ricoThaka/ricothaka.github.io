@@ -9,6 +9,9 @@ tags: saint
 
 
 ![NORMANi i can take it](https://pbs.twimg.com/media/GlJCbPYaAAAaS0F?format=jpg&name=large) [Normani im not hiding](https://x.com/RicoThaka/status/1896651509963854334)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Multiplatinum chart-topping artist <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> joined the <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> community at our LA Camp! 🤩 It was an exciting time for all, as she dove headfirst into camp activities, eagerly participating with our campers, and immersing herself in the games they designed. 🎮️🕹️👾 <a href="https://t.co/B9zHpTmHee">pic.twitter.com/B9zHpTmHee</a></p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://twitter.com/BlackGirlsCode/status/1824159527098318896?ref_src=twsrc%5Etfw">August 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [Pinterest ~2012](https://www.pinterest.com/drstankenstein/) [Subway History Slab Questioned](https://x.com/RicoThaka/status/1896638598721757588) [SteveHarvey Blocked inLA](https://x.com/RicoThaka/status/1896558394515067207) [AVP on RetroArch](https://x.com/RicoThaka/status/1896426869383467321) [FireMApping](https://x.com/RicoThaka/status/1896361857163887056) [Normani i tried to see if i could spot u on the red Carpet](https://x.com/RicoThaka/status/1896357491770056978) i get it... [red](https://bones.com/) [skateboard](https://www.youtube.com/watch?v=HZGWTfq8Yy0) [wheels](https://www.spitfirewheels.com/) /// 
 
 
