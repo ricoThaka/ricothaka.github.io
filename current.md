@@ -12,7 +12,7 @@
 
 
 ![l5p graffiti](https://pbs.twimg.com/media/GE4s0IYacAAOuHv?format=jpg&name=large)
-[Related](https://x.com/RicoThaka/status/1751352695494213844) 
+[Related](https://x.com/RicoThaka/status/1751352695494213844) [ATL](https://x.com/RicoThaka/status/1751352695494213844)
 ![Coral Iris Kelly](https://pbs.twimg.com/media/GE40lnxa4AAhlhU?format=jpg&name=large)
 [Coral](https://x.com/RicoThaka/status/1751395214609310011) [Erika](https://x.com/RicoThaka/status/1751388353604554872) [Related](https://x.com/RicoThaka/status/1751386120175419555) [5755](https://x.com/RicoThaka/status/1751385826557395283)
 ![Normani Magiccity wit BankheadBih](https://pbs.twimg.com/media/GlS9ZEubMAAFKa6?format=jpg&name=large)
