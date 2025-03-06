@@ -8,6 +8,9 @@
   {% endfor %}
    
   </div>  
+
+ [The Acid Tests are:](https://www.acidtests.org/) 
+ The Acid Tests were originally published as part of the [Web Standards Project (WaSP)](https://www.webstandards.org/), a grassroots coalition fighting for standards which ensure simple, affordable access to web technologies for all.
 ![p](https://pbs.twimg.com/media/GlYUenvaIAAuSq0?format=jpg&name=large)
 # Jupiter
 `/vgr/pdart16/wenkert_pdart16_vgr_rav1ciun/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/` - [Planetary Data System](https://pds-imaging.jpl.nasa.gov/beta/)
