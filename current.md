@@ -10,6 +10,12 @@
   </div>  
 
 {% include bash.md %}
+
+
+
+# SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS @nasa @blackgirlscode @nasa-jpl @whitehouse
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=2fyjp_ZlRTUFmPxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
  [The Acid Tests are:](https://www.acidtests.org/) 
  The Acid Tests were originally published as part of the [Web Standards Project (WaSP)](https://www.webstandards.org/), a grassroots coalition fighting for standards which ensure simple, affordable access to web technologies for all.
 ![p](https://pbs.twimg.com/media/GlYUenvaIAAuSq0?format=jpg&name=large)
@@ -634,10 +640,6 @@ By monitoring the color of reflected light via satellite, scientists can determi
 
 [Levee Break Floods Central California](https://earthobservatory.nasa.gov/images/13298/levee-break-floods-central-california)
 
-
-
-# SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS @nasa @blackgirlscode @nasa-jpl @whitehouse
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=2fyjp_ZlRTUFmPxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![Earth](https://pbs.twimg.com/media/GiF1j4uaUAAqBSc?format=jpg&name=large)
 [Related](https://x.com/BubbleGumPop626/status/1882915417666290042)
