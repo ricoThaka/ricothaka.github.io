@@ -13,7 +13,7 @@
 `/vgr/pdart16/wenkert_pdart16_vgr_rav1ciun/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/` - [Planetary Data System](https://pds-imaging.jpl.nasa.gov/beta/)
 
 [Voyager 2](https://science.nasa.gov/mission/voyager/voyager-2/) is the only [spacecraft](https://science.nasa.gov/image-detail/pia21737/) to visit Uranus and Neptune.
-[RelatedTweet](https://x.com/RicoThaka/status/1897491944458297650) [Related](https://x.com/RicoThaka/status/1897493448741282030) [NORMANiLife](https://x.com/thakasartu/status/1897351276897403366) [injuryReport](https://x.com/RicoThaka/status/1897343547873042706)
+[RelatedTweet](https://x.com/RicoThaka/status/1897491944458297650) [Related](https://x.com/RicoThaka/status/1897493448741282030) [NORMANiLife](https://x.com/thakasartu/status/1897351276897403366) [injuryReport](https://x.com/RicoThaka/status/1897343547873042706) [RiVERFOOTAGE](https://x.com/RicoThaka/status/1897081876898308428) [SuperMArioWold2](https://x.com/RicoThaka/status/1897086405643555018)
 
 
 <div class="tupperware">
