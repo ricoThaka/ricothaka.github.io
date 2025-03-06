@@ -6,7 +6,38 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+
+
+<video controls preload="none"   width="100%" height="auto" poster="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg">
+    
+<source src="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4">mp4</a>
+        video.
+</video> 
+
+![MarsHighSun](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/ncam/NLF_1396_0790870193_597ECM_N0650000NCAM00501_01_295J01_1200.jpg)
+
+![MARSSuN](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/ncam/NLF_1396_0790870040_037ECM_N0650000NCAM00501_01_295J01_1200.jpg)
+
+NASA's [Mars Perseverance rover](https://mars.nasa.gov/mars2020/multimedia/raw-images/NLF_1396_0790870040_037ECM_N0650000NCAM00501_01_295J) acquired this image using its onboard Left Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
+![mars2020](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/fcam/FLF_1396_0790869729_050ECM_N0650000FHAZ00219_01_295J01_1200.jpg) [Cite](https://mars.nasa.gov/mars2020/multimedia/raw-images/FLF_1396_0790869729_050ECM_N0650000FHAZ00219_01_295J)
+
+# Mars Perseverance Sol 1396: Left Navigation Camera (Navcam)
+![NAVCAM mars2020](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/fcam/FLF_1396_0790869729_050ECM_N0650000FHAZ00219_01_295J01_1200.jpg)
+
+![SPECTROGRAM](https://ia803409.us.archive.org/24/items/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29_spectrogram.png)
+
 ![BRokenWheel](https://pbs.twimg.com/media/GIz-b_FasAAFssX?format=jpg&name=large)
+
+# MarsPano 
+![MarsPano](https://pbs.twimg.com/media/GigDa_2a4AAEdzj?format=jpg&name=large)
+[RelatedTweeT](https://x.com/RicoThaka/status/1884760551156510720) [2](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00532/ids/edr/browse/zcam/ZR0_0532_0714160208_098EBY_N0261222ZCAM03426_1100LMJ01_1200.jpg) [1](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00532/ids/edr/browse/zcam/ZR0_0532_0714159981_098EBY_N0261222ZCAM03426_1100LMJ01_1200.jpg) [w](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00690/ids/edr/browse/shrlc/SI1_0690_0728205224_570ECM_N0321184SRLC08040_0000LMJ05_1200.jpg)
+
+[Mars Perseverance Raw Images](https://mars.nasa.gov/mars2020/multimedia/raw-images/)
+[RelatedTweet](https://x.com/RicoThaka/status/1884759440655839323) 
+
 [iSS_Research on /compiling](https://ricothaka.github.io/compiling/The-Iss-Research)
 https://x.com/RicoThaka/status/1853624210314400048
 ![raw mars](https://pbs.twimg.com/media/GblkCitbMAA6KQr?format=jpg&name=large)
@@ -37,6 +68,8 @@ https://x.com/RicoThaka/status/1853624210314400048
 
 ![ALAMY](https://media.gettyimages.com/id/458981575/photo/mariner-10-venus-murcury-mission.jpg?s=612x612&w=gi&k=20&c=oKe19g7rzI9CSBj9MINzMx_Y1cWIHiKoG5z_d8jVYXg=)
 [RelatedTweet](https://x.com/thakasartu/status/1896995321508659670)
+
+
 # Deep Space Network Now @nasa-jpl
 ![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
 

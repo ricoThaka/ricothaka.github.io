@@ -10,6 +10,16 @@
   </div>  
 
 
+### All Night Long : by [Common](https://www.thinkcommon.com/) Feat [EryKah Badu](https://erykahbadu.com/)
+<audio controls>
+  <source src="https://archive.org/download/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+[<img src="https://www.nasa.gov/wp-content/uploads/2018/10/parachute-16.gif" alt="Mars Lander Persevere Rover PARACHuTE" />](https://www.nasa.gov/wp-content/uploads/2018/10/parachute-16.gif)
+
+
+
 ![NORMANi an RicoThaka on Google](https://pbs.twimg.com/media/GlUJ5-haoAA8uBm?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1897434020398657787) [GOOGLEQuERY](https://www.google.com/search?sca_esv=aebc663c531febdd&rlz=1CASLJZ_enUS1152&sxsrf=AHTn8zrmSDx53jhbuGYblH42GeVR5vivAg:1741218267193&q=ricothaka&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqekYoUzDaOcDDjQfK4KpR2OIx89VvS5aatXTnNt-qgjySyinU5ijtTN1RLytWiQb-L08r0IlyBwhmhmKk-6U0A05aMI2auI99wrCCkIEouFqHEwppFIzcn73Lg0uFC6Khg8gSwpdaHPcqbLW8Z5Wz7sk_yHXkw&sa=X&ved=2ahUKEwjdmqvCj_SLAxWWDEQIHUMpLdgQtKgLegQIExAB&biw=960&bih=945&dpr=1#vhid=S61_EHM75LyiOM&vssid=mosaic) [YANDEX - RiCOTHAKA](https://yandex.com/search/?text=ricothaka&lr=200&search_source=yacom_desktop_common)
 
