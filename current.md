@@ -9,6 +9,19 @@
    
   </div>  
 
+# Jupiter
+`/vgr/pdart16/wenkert_pdart16_vgr_rav1ciun/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/` - [Planetary Data System](https://pds-imaging.jpl.nasa.gov/beta/)
+
+[Voyager 2](https://science.nasa.gov/mission/voyager/voyager-2/) is the only [spacecraft](https://science.nasa.gov/image-detail/pia21737/) to visit Uranus and Neptune.
+
+<div class="tupperware">
+<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020200-DATA-020200.014.png::1:md.webp" />
+<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020180-DATA-020180.019.png::1:md.webp" />
+<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1204-MAMQTV-012210-DATA-012210.001.png::1:md.webp" />
+<img src="https://science.nasa.gov/wp-content/uploads/2024/04/pia21737.jpg" />
+</div>
+
+
 [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
 
 ### All Night Long : by [Common](https://www.thinkcommon.com/) Feat [EryKah Badu](https://erykahbadu.com/)

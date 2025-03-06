@@ -1,0 +1,4 @@
+wget -q --show-progress -nc -P ./pdsimg-atlas-wget_2025-03-06T03_10_19_989/ https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020180-DATA-020180.010.png::1
+wget -q --show-progress -nc -P ./pdsimg-atlas-wget_2025-03-06T03_10_19_989/ https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020180-DATA-020180.019.png::1
+wget -q --show-progress -nc -P ./pdsimg-atlas-wget_2025-03-06T03_10_19_989/ https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020180-DATA-020180.023.png::1
+wget -q --show-progress -nc -P ./pdsimg-atlas-wget_2025-03-06T03_10_19_989/ https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020200-DATA-020200.014.png::1
