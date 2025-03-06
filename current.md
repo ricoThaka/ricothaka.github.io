@@ -26,7 +26,9 @@
 
 
 ![overlay](https://pbs.twimg.com/media/GBYg8WIbAAAtTAn?format=jpg&name=large)
+
 ![android keyboard](https://pbs.twimg.com/media/FyZaAkXaYAA_QK9?format=jpg&name=900x900)
+
 ### Working on my CArtography \
 [NORthAMEriCA](https://worldview.earthdata.nasa.gov/?v=-412.59375,-219.375,412.59375,219.375&z=4&ics=true&ici=5&icd=10&as=2025-03-01-T19%3A00%3A00Z&ae=2025-03-06-T02%3A35%3A59Z&l=Coastlines_15m,GOES-West_ABI_GeoColor,Land_Water_Map&lg=true&tr=atmospheric_rivers&av=7.5&ab=on&t=2025-03-05-T02%3A34%3A48Z)
 ![NASAWORLDViEW](https://pbs.twimg.com/media/GlU6EkybkAAUOxS?format=jpg&name=4096x4096)
