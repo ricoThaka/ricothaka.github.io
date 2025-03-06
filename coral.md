@@ -22,6 +22,9 @@
 
 [Coral](https://x.com/RicoThaka/status/1751395214609310011) [Erika](https://x.com/RicoThaka/status/1751388353604554872) [Related](https://x.com/RicoThaka/status/1751386120175419555) [5755](https://x.com/RicoThaka/status/1751385826557395283)
 
+![overlay](https://pbs.twimg.com/media/GBYg8WIbAAAtTAn?format=jpg&name=large)
+
+
 # NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
 <video controls preload="none" 
   src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
