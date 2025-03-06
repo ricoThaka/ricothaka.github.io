@@ -21,6 +21,9 @@
 <img src="https://science.nasa.gov/wp-content/uploads/2024/04/pia21737.jpg" />
 </div>
 
+### Working on my CArtography \
+[NORthAMEriCA](https://worldview.earthdata.nasa.gov/?v=-412.59375,-219.375,412.59375,219.375&z=4&ics=true&ici=5&icd=10&as=2025-03-01-T19%3A00%3A00Z&ae=2025-03-06-T02%3A35%3A59Z&l=Coastlines_15m,GOES-West_ABI_GeoColor,Land_Water_Map&lg=true&tr=atmospheric_rivers&av=7.5&ab=on&t=2025-03-05-T02%3A34%3A48Z)
+![NASAWORLDViEW](https://pbs.twimg.com/media/GlU6EkybkAAUOxS?format=jpg&name=4096x4096)
 
 [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
 
