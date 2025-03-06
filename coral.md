@@ -17,6 +17,11 @@
 
 </div>
 
+![Coral Iris Kelly](https://pbs.twimg.com/media/GE40lnxa4AAhlhU?format=jpg&name=large)
+[Danielle Mushonga on Linkedin](https://www.linkedin.com/in/danielle-mushonga-msw-26262132/) [Manessa Warner on LinkediN](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/)
+
+[Coral](https://x.com/RicoThaka/status/1751395214609310011) [Erika](https://x.com/RicoThaka/status/1751388353604554872) [Related](https://x.com/RicoThaka/status/1751386120175419555) [5755](https://x.com/RicoThaka/status/1751385826557395283)
+
 # NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
 <video controls preload="none" 
   src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
@@ -32,7 +37,7 @@ NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it wil
 [wiki](https://en.wikipedia.org/wiki/Europa_Clipper#:~:text=It%20was%20launched%20on%20October,while%20in%20orbit%20around%20Jupiter.)
 
 
-![Coral at TASHi_B home](https://pbs.twimg.com/media/GE4r6owaoAACP9n?format=jpg&name=large)
+![Coral at TASHi_B home](https://pbs.twimg.com/media/GE4r6owaoAACP9n?format=jpg&name=large) [Danielle Mushonga on Linkedin](https://www.linkedin.com/in/danielle-mushonga-msw-26262132/) [Manessa Warner on LinkediN](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/)
 
 ### NBA Jam
 ![monaleo](https://pbs.twimg.com/media/GMrVIeSasAARkGO?format=jpg&name=large)

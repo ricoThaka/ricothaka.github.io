@@ -32,6 +32,8 @@ Your browser does not support the audio element.
 ![l5p graffiti](https://pbs.twimg.com/media/GE4s0IYacAAOuHv?format=jpg&name=large)
 [Related](https://x.com/RicoThaka/status/1751352695494213844) [ATL](https://x.com/RicoThaka/status/1751352695494213844)
 ![Coral Iris Kelly](https://pbs.twimg.com/media/GE40lnxa4AAhlhU?format=jpg&name=large)
+[Danielle Mushonga on Linkedin](https://www.linkedin.com/in/danielle-mushonga-msw-26262132/) [Manessa Warner on LinkediN](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/)
+
 [Coral](https://x.com/RicoThaka/status/1751395214609310011) [Erika](https://x.com/RicoThaka/status/1751388353604554872) [Related](https://x.com/RicoThaka/status/1751386120175419555) [5755](https://x.com/RicoThaka/status/1751385826557395283)
 ![Normani Magiccity wit BankheadBih](https://pbs.twimg.com/media/GlS9ZEubMAAFKa6?format=jpg&name=large)
 [RelatedTweet](https://x.com/thakasartu/status/1897349604620034428) [SexualAssault](https://x.com/RicoThaka/status/1897343547873042706) [CAnnaBiS](https://x.com/RicoThaka/status/1859780416326205598) @blackgirlscode [Me an Muna](https://x.com/RicoThaka/status/1751394096839831932) [ChildrensATL Muna](https://x.com/RicoThaka/status/1751394614752485471) [NormaniNicolD](https://x.com/RicoThaka/status/1751394940188512543)
