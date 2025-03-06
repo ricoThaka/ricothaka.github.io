@@ -9,6 +9,7 @@
    
   </div>  
 
+[NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
 
 ### All Night Long : by [Common](https://www.thinkcommon.com/) Feat [EryKah Badu](https://erykahbadu.com/)
 <audio controls>
