@@ -6,7 +6,9 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+![3dMARS](https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_mosaic/browse/sol/00013/ids/rdr/mosaic/N_GRGB_0013_RZS_0030028_CYP_R_AUTOGENJ03.png:lg.webp)
 
+[RelatedTweet](https://x.com/RicoThaka/status/1894952477684048147)
 
 <video controls preload="none"   width="100%" height="auto" poster="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg">
     
