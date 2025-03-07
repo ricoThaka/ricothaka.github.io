@@ -8,9 +8,14 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+
+![LONGBEACH](https://pbs.twimg.com/media/GlYOY4Ma4AEx8mh?format=jpg&name=large)
+[TheDay](https://x.com/RicoThaka/status/1897783496476967157) [ON ARCHiVE](https://archive.org/details/vid-20250306-090621) [Ma NASAJPL ONBOARDiNG](https://x.com/RicoThaka/status/1897759877453529527) @nasa 
 ![GavinNewsomPodCast](https://pbs.twimg.com/media/GlZ4RmZbwAQ_jHK?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1897837465064665397) iHeartPodcasts and California Governor Gavin Newsom Announce a New Solo Podcast, [“This is Gavin Newsom”](https://www.iheartmedia.com/press/iheartpodcasts-and-california-governor-gavin-newsom-announce-new-solo-podcast-gavin-newsom)
 ![ThakaRashardHomePage](https://pbs.twimg.com/media/GlaIwSmbwAAFJuX?format=jpg&name=large)
+![NASA](https://pbs.twimg.com/media/GlYLadsaUAAxirg?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1897854690316239144) @blackgirlscode @normani should i sync ? 
 ![HelioPhysics](https://pbs.twimg.com/media/GdFzqLlagAEzrn_?format=jpg&name=large)
 ![DOS_SSF2t](https://pbs.twimg.com/media/Gh7CW57bgAAnVSM?format=png&name=medium)
