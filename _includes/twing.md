@@ -9,7 +9,8 @@ img {
 </style>
 
 
-
+![Voyager](https://pbs.twimg.com/media/GlU_bdvbMAAAGgR?format=jpg&name=large)
+[Jupiter](https://x.com/RicoThaka/status/1897515300826046782)
 ![LONGBEACH](https://pbs.twimg.com/media/GlYOY4Ma4AEx8mh?format=jpg&name=large)
 [TheDay](https://x.com/RicoThaka/status/1897783496476967157) [ON ARCHiVE](https://archive.org/details/vid-20250306-090621) [Ma NASAJPL ONBOARDiNG](https://x.com/RicoThaka/status/1897759877453529527) @nasa 
 ![GavinNewsomPodCast](https://pbs.twimg.com/media/GlZ4RmZbwAQ_jHK?format=jpg&name=large)
