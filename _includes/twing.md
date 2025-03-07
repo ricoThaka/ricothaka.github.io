@@ -8,6 +8,11 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![Mario2](https://ia601404.us.archive.org/14/items/vid-20250307-063619/Screenshot_20250307-100456.png)
+
+[Cryosphere](https://x.com/RicoThaka/status/1898103184343941185)
+[JPL - DisCOVrEpiC](https://x.com/RicoThaka/status/1898098752113828182)
 ![NASA_JPL_EDu](https://pbs.twimg.com/media/GldooSlbwAARglR?format=jpg&name=large)
 [Slice of History @nasa-jpl](https://www.jpl.nasa.gov/who-we-are/slice-of-history/) [Slice of History - Eliot Middle School Was Head Over Heels for JPL](https://www.jpl.nasa.gov/images/slice-of-history-eliot-middle-school-was-head-over-heels-for-jpl/)
 ![Voyager](https://pbs.twimg.com/media/GlU_bdvbMAAAGgR?format=jpg&name=large)
