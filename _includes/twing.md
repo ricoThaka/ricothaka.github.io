@@ -8,6 +8,10 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+![GavinNewsomPodCast](https://pbs.twimg.com/media/GlZ4RmZbwAQ_jHK?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1897837465064665397) iHeartPodcasts and California Governor Gavin Newsom Announce a New Solo Podcast, [“This is Gavin Newsom”](https://www.iheartmedia.com/press/iheartpodcasts-and-california-governor-gavin-newsom-announce-new-solo-podcast-gavin-newsom)
+![ThakaRashardHomePage](https://pbs.twimg.com/media/GlaIwSmbwAAFJuX?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1897854690316239144) @blackgirlscode @normani should i sync ? 
 ![HelioPhysics](https://pbs.twimg.com/media/GdFzqLlagAEzrn_?format=jpg&name=large)
 ![DOS_SSF2t](https://pbs.twimg.com/media/Gh7CW57bgAAnVSM?format=png&name=medium)
 ![Win95](https://pbs.twimg.com/media/Gh7HFHHbwAIe-QB?format=png&name=medium)
