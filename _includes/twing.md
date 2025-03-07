@@ -8,6 +8,9 @@ img {
 /* images are set to fill container https://www.w3schools.com/css/css_rwd_images.asp */
 </style>
 
+
+![Normani+GNU_SOFTWARE](https://pbs.twimg.com/media/GlPrY6kbgAApBWa?format=jpg&name=large)
+[RelatedFridayTweet](https://x.com/thakasartu/status/1898154754267922545) [RelatedArt](https://x.com/thakasartu/status/1880739891186958758)
 [t](https://x.com/RicoThaka/status/1897982100323659802)
 [iss flyover this mornin](https://x.com/RicoThaka/status/1897993582897693059) [CityHallProtest](https://x.com/RicoThaka/status/1898021857460162593)
 ![Mario2](https://ia601404.us.archive.org/14/items/vid-20250307-063619/Screenshot_20250307-100456.png)
