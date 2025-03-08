@@ -7,6 +7,21 @@ image: pico_twitter_font.gif
 ---
 
 
+![PSn](https://pbs.twimg.com/media/Gjny8HObMAANg_I?format=jpg&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1889809291022053384)
+
+![NORMANi](https://pbs.twimg.com/media/F-NG1Aqa4AAr-mM?format=jpg&name=large)
+[RelatedTweet](https://x.com/BubbleGumPop510/status/1721297570147033342)
+
+
+<div class="tupperware">
+<img src="https://pbs.twimg.com/media/GVsF25_akAA7_BN?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GVsF25_akAA7_BN?format=jpg&name=medium" />
+</div>
+
+[Reaching out to Sen OssoFF via Darpa on X](https://x.com/thakasartu/status/1758222871850279360)
+[ChemicalBurns](https://x.com/thakasartu/status/1827060520773677199) [Trying to access Normani to get foodstamp card via twitter](https://x.com/thakasartu/status/1884349359397208263)
+
 ![MARTA](https://pbs.twimg.com/media/GE4tNTFawAAlkwM?format=jpg&name=large)
 
 ![GhettoKrogerMomAnChild](https://pbs.twimg.com/media/GE4t4lqa0AAXwZX?format=jpg&name=large)

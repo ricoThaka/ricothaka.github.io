@@ -9,8 +9,15 @@ img {
 </style>
 
 
+![KASHDOLL-JT-LAUREN](https://pbs.twimg.com/media/F-sSiK8aMAAQ2AC?format=jpg&name=large)
+[RELATED_TWEET](https://x.com/BubbleGumPop510/status/1723483861831880719) [777RADiO - RELATEDTWEET](https://x.com/BubbleGumPop510/status/1723491903117922417)
+![SARTUADEM](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission%20(1).png)
+![KASHDOLLNORMANi](https://pbs.twimg.com/media/F-sSjw2agAEw85S?format=jpg&name=large)
+![STATE_OF_PLAY](https://pbs.twimg.com/media/Gjg1PKAWMAAnEdB?format=jpg&name=medium)
+[Related - Telling Laurie during the WRokday im going to take a break](https://x.com/RicoThaka/status/1889803303720268040)
+[PasadenaEugenics](https://x.com/RicoThaka/status/1838353046474240214) [Missing Wife Spotted](https://x.com/thakasartu/status/1693749957235294719)
 ![Normani+GNU_SOFTWARE](https://pbs.twimg.com/media/GlPrY6kbgAApBWa?format=jpg&name=large)
-[RelatedFridayTweet](https://x.com/thakasartu/status/1898154754267922545) [RelatedArt](https://x.com/thakasartu/status/1880739891186958758)
+[RelatedFridayTweet](https://x.com/thakasartu/status/1898154754267922545) [RelatedArt](https://x.com/thakasartu/status/1880739891186958758) [Related](https://x.com/RicoThaka/status/1894935908115444208) [LROC](https://x.com/RicoThaka/status/1894949877307842647)
 [t](https://x.com/RicoThaka/status/1897982100323659802)
 [iss flyover this mornin](https://x.com/RicoThaka/status/1897993582897693059) [CityHallProtest](https://x.com/RicoThaka/status/1898021857460162593)
 ![Mario2](https://ia601404.us.archive.org/14/items/vid-20250307-063619/Screenshot_20250307-100456.png)
