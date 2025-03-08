@@ -10,7 +10,7 @@
   </div>  
 
 
-![NORMANi](https://static.wikia.nocookie.net/headhuntersholosuite/images/0/0a/Maxx_logo.gif/revision/latest?cb=20180330202437)
+![NORMANi](https://upload.wikimedia.org/wikipedia/en/6/68/The_Maxx_cover_1.jpg)
 [The Maxx [1996 VHS]](https://archive.org/details/the-maxx-1996-vhs) [The Maxx MTV Complete Season 1 (1996)](https://archive.org/details/the-maxx_202209) [The Maxx : Maxximized. Volume 6](https://archive.org/details/maxxmaxximizedvo0000kiet)
 
 <iframe src="https://archive.org/embed/the-maxx_202209" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
