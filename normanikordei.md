@@ -7,6 +7,8 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+
+![hi](https://pbs.twimg.com/media/F-hti3easAA54F1?format=jpg&name=large)
 ![′°′](https://pbs.twimg.com/media/Fyb6PNuaAAAlWQc?format=jpg&name=medium)
 
 ## Normani... I love you
