@@ -1,6 +1,8 @@
 
 
-
+![TekkenTAg](https://pbs.twimg.com/media/F-60yQpbcAA73zx?format=jpg&name=large)
+[RelatedTweetiNCLUDESLink](https://x.com/BubbleGumPop510/status/1724514755560473087)
+[WARGODS](https://x.com/BubbleGumPop510/status/1718007912810123420)
 
 # Gunners Heaven (Japan) PSX ISO 
 Rapid Reload, known in Japan as Gunners Heaven (ガンナーズヘヴン), is a 1995 run and gun video game developed by Media.Vision and published by Sony Computer Entertainment for the PlayStation. It was released in both Japan and Europe in 1995. The game was re-released on the PlayStation Network in Japan in 2007 and in Asia in 2010. [wiki](https://en.wikipedia.org/wiki/Rapid_Reload) [cdRomance](https://cdromance.org/psx-iso/gunners-heaven-japan/)
