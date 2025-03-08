@@ -9,6 +9,23 @@
    
   </div>  
 
+<div class="tupperware">
+
+<img src="https://pbs.twimg.com/media/F74BPB0awAATnRc?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/F74BOnfaIAAQmNf?format=jpg&name=medium" />
+</div>
+
+
+[My Childs Removal Document](https://x.com/BubbleGumPop510/status/1725672533847163192)
+<div class="tupperware">
+
+<img src="https://pbs.twimg.com/media/F_LR_0LaMAAxFYA?format=jpg&name=small" />
+<img src="https://pbs.twimg.com/media/F_LSA12aUAAL20z?format=jpg&name=900x900" />
+</div>
+
+[HER_MOTHER](https://x.com/BubbleGumPop510/status/1725665280448483631)
+
+
 # Stone Mountain Georgia
 May Bass, MR_NewSom,
 idk what [sza](https://www.szasos.com/) is, but my significant other [Normani](https://normani.fandom.com/wiki/Normani) has played that role or they have been brotheled together. [California Artist Kendrick Lamar](https://soundcloud.com/dnateggun/kendrick-lamar-good-kid-m-a-a?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) has a sorted past, and i think he is similar... More than one person is [KendrickLamar!](https://archive.org/details/OverlyDedicatedKendrickMixtapesFLAC) but n of them is involved with [Sza](https://www.youtube.com/watch?v=JQbjS0_ZfJ0) romantically to one degree or another. The issue is i know [KashDoll](https://kashdoll.com/) at somelevel is my intimate partner. You know [TheBunnies](https://www.candidcandace.com/my_weblog/2018/01/ringing-in-the-new-year-with-wedding-bells-and-playboy-bunnies.html) are entertainers an [Kash doll](https://codepen.io/ricoThaka/pen/WNVvgYj) done hit me with that [CockTail Waitress Energy](https://www.youtube.com/watch?v=_ST6ZRbhGiA) 

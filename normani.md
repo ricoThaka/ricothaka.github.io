@@ -7,6 +7,12 @@ tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+
+![NORMANi](https://pbs.twimg.com/media/F6UwSv-asAADdQz?format=jpg&name=medium)
+[The Maxx [1996 VHS]](https://archive.org/details/the-maxx-1996-vhs) [The Maxx MTV Complete Season 1 (1996)](https://archive.org/details/the-maxx_202209)
+
+<iframe src="https://archive.org/embed/the-maxx_202209" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [SpelmanTwitter](https://x.com/SpelmanCollege/status/1807778215575814325) [DistroWatch with Ruby](https://x.com/RicoThaka/status/1848142644305600592)
 @blackgirlscode @normani i talked about u to Laurie @nasa-jpl [TweetWithSpelman](https://x.com/RicoThaka/status/1897076889585697172)
 ![KASHDOLL](https://pbs.twimg.com/media/GlN55r2bgAACVfj?format=jpg&name=large)

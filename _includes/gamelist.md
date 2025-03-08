@@ -3,7 +3,7 @@
 
 
 ![TekkenTAg](https://pbs.twimg.com/media/F-60yQpbcAA73zx?format=jpg&name=large)
-[RelatedTweetiNCLUDESLink](https://x.com/BubbleGumPop510/status/1724514755560473087)
+[RelatedTweetiNCLUDESLink](https://x.com/BubbleGumPop510/status/1724514755560473087) [RELATED](https://x.com/RicoThaka/status/1898228071532229040)
 [WARGODS](https://x.com/BubbleGumPop510/status/1718007912810123420)
 
 ![ThePunisher - CApcom](https://pbs.twimg.com/media/F-2a9CUbcAA177W?format=jpg&name=large)
