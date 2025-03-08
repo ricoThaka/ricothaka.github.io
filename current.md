@@ -9,6 +9,16 @@
    
   </div>  
 
+# Stone Mountain Georgia
+May Bass, MR_NewSom,
+idk what [sza](https://www.szasos.com/) is, but my significant other [Normani](https://normani.fandom.com/wiki/Normani) has played that role or they have been brotheled together. [California Artist Kendrick Lamar](https://soundcloud.com/dnateggun/kendrick-lamar-good-kid-m-a-a?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) has a sorted past, and i think he is similar... More than one person is [KendrickLamar!](https://archive.org/details/OverlyDedicatedKendrickMixtapesFLAC) but n of them is involved with [Sza](https://www.youtube.com/watch?v=JQbjS0_ZfJ0) romantically to one degree or another. The issue is i know [KashDoll](https://kashdoll.com/) at somelevel is my intimate partner. You know [TheBunnies](https://www.candidcandace.com/my_weblog/2018/01/ringing-in-the-new-year-with-wedding-bells-and-playboy-bunnies.html) are entertainers an [Kash doll](https://codepen.io/ricoThaka/pen/WNVvgYj) done hit me with that [CockTail Waitress Energy](https://www.youtube.com/watch?v=_ST6ZRbhGiA) 
+>I cant watch youtube right now, one of normani escourt companions or rapist needs the public not to hear any songs [he plays](https://codepen.io/ricoThaka)
+Anyway! Whatever private security is doing to slow down los angeles, i dont want to be connected to slowing down [@nasa-JPL!](https://www.jpl.nasa.gov/press-kits/spherex/mission-overview/) I embedded [SZa Video](https://www.youtube.com/watch?v=MSRcC626prw) Broken Clocks. Take it seriously! [i WAS WORKiNG](https://girlgeek.io/company/ionic-security/) so I need you to know whatever sex went down is not me and she is back burnering me all the time and wont get my foodstamp card back from [Erika](https://www.essence.com/tags/erika-kelly/).
+![[Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zVc-K1kKkVk?si=Ap95D9nep2ueRX5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![KASHDOLL](https://pbs.twimg.com/media/F-hti3easAA54F1?format=jpg&name=large)
 
 ![ZOOM_HEARiNG](https://pbs.twimg.com/media/GlJqgT7bsAE8SCi?format=jpg&name=large) [MAnessaeh](https://x.com/thakasartu/status/1896706014474551728)
 [CORAL is Missing](https://x.com/thakasartu/status/1896695613976449071) 
