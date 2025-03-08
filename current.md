@@ -9,6 +9,9 @@
    
   </div>  
 
+
+![ZOOM_HEARiNG](https://pbs.twimg.com/media/GlJqgT7bsAE8SCi?format=jpg&name=large) [MAnessaeh](https://x.com/thakasartu/status/1896706014474551728)
+[CORAL is Missing](https://x.com/thakasartu/status/1896695613976449071) 
 {% include tar.md %}
 {% include twing.md %}
 {% include bash.md %}
