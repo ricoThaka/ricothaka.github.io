@@ -10,10 +10,14 @@
   </div>  
 
 
-![NORMANi](https://upload.wikimedia.org/wikipedia/en/6/68/The_Maxx_cover_1.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nq_fZZpg93Y?si=hOqZAbZTExL4jajM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> @blackgirlscode who been wit yola, i gotta cut that shit off man! @nasa-jpl this one of them guys, i think . . . he was a cool person to run into in atlanta or to recive a compliment that you acted like him in a situation 
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1815876125240703%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+ [![Twitter Follow](https://img.shields.io/badge/Social-@V103Atlanta__-blue?style=social&logo=X)](https://twitter.com/@V103Atlanta) [![Twitter Follow](https://img.shields.io/badge/Social-@hot1079atl__-blue?style=social&logo=X)](https://twitter.com/@hot1079atl)
 [The Maxx [1996 VHS]](https://archive.org/details/the-maxx-1996-vhs) [The Maxx MTV Complete Season 1 (1996)](https://archive.org/details/the-maxx_202209) [The Maxx : Maxximized. Volume 6](https://archive.org/details/maxxmaxximizedvo0000kiet)
 
-<iframe src="https://archive.org/embed/the-maxx_202209" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 <div class="tupperware">
