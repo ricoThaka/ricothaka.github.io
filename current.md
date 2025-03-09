@@ -11,8 +11,15 @@
 
 # National Water Dashboard @usgs @noaa
 [drought.gov](https://www.drought.gov/data-maps-tools/national-water-dashboard)  [USGS Water Data for the Nation](https://waterdata.usgs.gov/nwis) [CURRENT_CONDiTiONS](https://waterdata.usgs.gov/nwis)
-![RECENT_PERCiPiTATiON](https://pbs.twimg.com/media/GlocQB5aMAAGykY?format=jpg&name=large)
+<video  controls poster="https://pbs.twimg.com/media/Gloey-DaIAAzpAl?format=jpg&name=large">
+  <source src="https://archive.org/download/vid-20250309-133824/VID_20250309_122531.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
 
+[Sunday Vlog Mar9 on Archive](https://archive.org/details/vid-20250309-133824) [SATurDayMAr8](https://archive.org/details/screen-20250308-102510)
+![RECENT_PERCiPiTATiON](https://pbs.twimg.com/media/GlocQB5aMAAGykY?format=jpg&name=large)
+[JW](https://pbs.twimg.com/media/Glofj48aIAAJ0UN?format=jpg&name=large) [JW, The BorganiZation behind the name 1990 on Youtube](https://youtu.be/hThVzMExULQ?si=sdlW7m0OGzIcP09a) . . . @nasa @nasa-jpl someone got uncomfortable like me [UN an JW](https://youtu.be/o2pvvGnBbIo?si=mcHHiBqN0FICsjkM)
 [The Maxx [1996 VHS]](https://archive.org/details/the-maxx-1996-vhs) [The Maxx MTV Complete Season 1 (1996)](https://archive.org/details/the-maxx_202209) [The Maxx : Maxximized. Volume 6](https://archive.org/details/maxxmaxximizedvo0000kiet)
 
 
