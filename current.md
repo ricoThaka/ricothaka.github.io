@@ -1,4 +1,4 @@
-n<div class="box">
+<div class="box">
 
   {% for post in site.posts %}
      
@@ -9,7 +9,7 @@ n<div class="box">
    
   </div>  
 
-![Twitter logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Twitter_logo.svg/320px-Twitter_logo.svg.png)
+![Twitter logo](https://upload.wikimedia.org/wikipedia/commons/3/34/Twitter_logo_%282006-2012%29.png)
 twing doesn't work on Metrro so a lot of data is missing for an audience @blackgirlscode : @normani I'm sad 😣🙇🏾‍♂️😿🙍🏾‍♂️
 # National Water Dashboard @usgs @noaa
 [drought.gov](https://www.drought.gov/data-maps-tools/national-water-dashboard)  [USGS Water Data for the Nation](https://waterdata.usgs.gov/nwis) [CURRENT_CONDiTiONS](https://waterdata.usgs.gov/nwis) [Current Dam MAP - global - NASAWORLDViEW data](https://worldview.earthdata.nasa.gov/?v=-123.66386525448716,34.8361307851648,-114.59428246894358,39.300066062424534&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,LPRM_AMSR2_Surface_Soil_Moisture_C1_Band_Night_Daily(hidden),GRanD_Dams,NLDAS_Underground_Soil_Moisture_Noah_Monthly,BlueMarble_NextGeneration(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2025-03-05-T20%3A00%3A00Z)
