@@ -10,7 +10,7 @@
    
  </div>  
 
-[LapDLiveFeeD](https://www.youtube.com/live/w-ml4vis_Uo?si=Nf1zech1NTUjjxD6)
+[LapDLiveFeeD](https://www.youtube.com/live/w-ml4vis_Uo?si=Nf1zech1NTUjjxD6) [Life story Africa](https://youtu.be/Oa0iuAFYBfQ?si=fAMtHtIAdkMEZAu6)
 
 [Windows 95 Launch](https://youtu.be/_JzfROUDsK0?si=b4ZYt8XQYfFFnRR3) 
 
