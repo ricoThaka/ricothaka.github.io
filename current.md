@@ -9,7 +9,8 @@
   {% endfor %}
    
  </div>  
-
+[grep, awk and sed – three VERY useful command-line utilities Matt Probert, Uni of York ](https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/guides/grep_awk_sed.pdf)
+[Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/Sed.html)
 [LapDLiveFeeD](https://www.youtube.com/live/w-ml4vis_Uo?si=Nf1zech1NTUjjxD6) [Life story Africa](https://youtu.be/Oa0iuAFYBfQ?si=fAMtHtIAdkMEZAu6)
 
 [Windows 95 Launch](https://youtu.be/_JzfROUDsK0?si=b4ZYt8XQYfFFnRR3) 
