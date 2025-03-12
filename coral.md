@@ -18,9 +18,10 @@
 </div>
 
 # Black On Both Sides
-by Mos Def
+by [Mos Def](https://x.com/mosdefofficial?lang=en)
 <iframe src="https://archive.org/embed/mos-def-black-on-both-sides" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+![BLACK ON BOTH SiDES TAPE](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/img/mosdefblackonbothsides.png)
 [listing](https://yahoo.aleado.com/lot?auctionID=c721653242#enlargeimg)
 
 [Coral hi are you in danger?](https://x.com/RicoThaka/status/1883276942805541227)
