@@ -1215,8 +1215,6 @@ GO-5Y7R5 - the globe program
 ![CROCKER CiTiZENS BANK](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0200/ca0235/photos/012379pv.jpg)
 ![LAPL-CENTRAL](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0200/ca0235/photos/012386pv.jpg)
 ![LA 1942](https://tile.loc.gov/storage-services/service/pnp/ppmsca/73100/73164v.jpg)
-[KI & KI2 in MAME v140 - Pre-configured MAME 7-Zip Package Instructions](https://www.thekillerinstinctproject.com/kiproject/kimame.html)
-
 
 ![om1](https://geocities.ws/sb202us/optimized/volueonehead.jpg)
 ![TYME](https://geocities.ws/sb202us/optimized/TYME.jpg)
