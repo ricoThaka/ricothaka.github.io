@@ -1,6 +1,11 @@
 #  <time datetime="{{ site.time | date: '%B %d, %Y' }}">{{ 'now' | date: "%Y" }} </time>
 # {{ site.time | date: '%B %d, %Y' }}m5rt5
 
+
+# Black On Both Sides
+by Mos Def
+<iframe src="https://archive.org/embed/mos-def-black-on-both-sides" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe
+
 # Europa Clipper Camera Passes First Test in Space
 Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
 

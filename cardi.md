@@ -1,4 +1,9 @@
 
+
+# Black On Both Sides
+by Mos Def
+<iframe src="https://archive.org/embed/mos-def-black-on-both-sides" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ![Yoshi](https://pbs.twimg.com/media/GEJ6_QKacAA-nlR?format=jpg&name=large)
 [About Erika](https://x.com/RicoThaka/status/1775947939615322288)
 ![Cardi and Normani](https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/DEAR_MEGAN_iiAM_WORKiNG_ON_EVERYONES_PUBLiC_PERCEPTION_THE_PORN_HAS_MESSED_US_ALL_UP_aND_WE_ALL_INNOCENT.png)
