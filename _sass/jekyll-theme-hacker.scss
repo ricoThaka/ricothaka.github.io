@@ -100,7 +100,7 @@ html {
 
 
 
-  #MAiN {
+#MAiN {
     margin: 0 auto;
     width: 70%;
     height: 100vh;
@@ -273,11 +273,7 @@ img[alt^="L"] {
 
   
 
-img[alt*="USGS"] {
-  width: 100%;
-  border-bottom:solid 5px #c9ff2350;
-  
-  }
+
 img[src*="nasa.gov"] {
 width: 100%;
 border-bottom:solid 5px #c9ff2350;
