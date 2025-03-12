@@ -18,7 +18,7 @@ Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon o
 Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
 ![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
 
-
+<object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="900" height="400"></object>   
 
 # NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
 <video controls preload="none" 
