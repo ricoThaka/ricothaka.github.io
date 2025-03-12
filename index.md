@@ -39,7 +39,7 @@ carousels:
 
 
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+
 
 
 
@@ -73,7 +73,7 @@ carousels:
 4 # UNiVERSE###┬─┬⃰͡ (ᵔᵕᵔ͜ )(∩｀-´)⊃━☆ﾟ.*･｡ﾟ#Hi####CORaL##
 {% endhighlight %}
 
-
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
 <a href="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg" style="width:213px;height:316px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
 

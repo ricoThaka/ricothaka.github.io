@@ -16,9 +16,10 @@
 Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
 
 Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
+
 ![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
 
-<object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="900" height="400"></object>   
+<object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="600" height="400"></object>   
 
 # NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
 <video controls preload="none" 
@@ -36,6 +37,20 @@ NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it wil
 
 
 [wiki](https://en.wikipedia.org/wiki/Europa_Clipper#:~:text=It%20was%20launched%20on%20October,while%20in%20orbit%20around%20Jupiter.)
+
+# @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
+### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) 
+![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large)
+
+
+
+
+<picture>
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: portrait)" />
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: landscape)" />
+  <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
+</picture>
+
 
 ![Ci_MESSAGE:NO_STATUS](https://pbs.twimg.com/media/GlsonxqbsAA_JKq?format=jpg&name=large) [#RelatedTweet](https://x.com/RicoThaka/status/1899156619084300541) @github 
 [grep, awk and sed – three VERY useful command-line utilities Matt Probert, Uni of York ](https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/guides/grep_awk_sed.pdf)
@@ -626,18 +641,7 @@ These maps combine data from the Gravity Recovery and Climate Experiment (GRACE)
     and watch it with your favorite video player!
   </video>
 
-# @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
-### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) 
-![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large)
 
-
-
-
-<picture>
-  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: portrait)" />
-  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: landscape)" />
-  <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
-</picture>
 
 [Related](https://x.com/RicoThaka/status/1725377028017529103) [Message To RepKamlager](https://x.com/RicoThaka/status/1890138011494674876) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKamlagerDove__-blue?style=social&logo=X)](https://twitter.com/@RepKamlagerDove) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)  review [#myGitHub] 4 
 [![Twitter Follow](https://img.shields.io/badge/Social-@LACityCouncil__-blue?style=social&logo=X)](https://twitter.com/@LACityCouncil) 
