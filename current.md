@@ -10,61 +10,10 @@
    
  </div>  
  
-[Recent California Precipitation maP](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=state-ca&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-131.74955003553436%2C12.39074881083234%2C-97.12361341020858%2C66.32571775472586%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C11%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.4%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A3%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D) 
 
-# Europa Clipper Camera Passes First Test in Space
-Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
-
-Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
-
-![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
-
-<object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="600" height="400"></object>   
-
-# NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
-<video controls preload="none" 
-  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
-  poster="https://blogs.nasa.gov/europaclipper/wp-content/uploads/sites/378/2024/10/Screenshot-2024-10-14-13-05-50_result.jpg?resize=768,432">
-
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm">download it</a>
-  and watch it with your favorite video player!
-</video>
-
-# Europa Clipper separates from Falcon Heavy's Second Stage after deployment
-NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it will investigate Europa, a moon with an enormous subsurface ocean that may have conditions to support life. The spacecraft launched Oct. 14, 2024, from NASA’s Kennedy Space Center in [Florida.](https://blogs.nasa.gov/europaclipper/2024/10/14/nasas-europa-clipper-spacecraft-separates-from-falcon-heavy-second-stage/) [Europa Clipper Instrument Summaries](https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf) 
-
-
-
-[wiki](https://en.wikipedia.org/wiki/Europa_Clipper#:~:text=It%20was%20launched%20on%20October,while%20in%20orbit%20around%20Jupiter.)
-
-# @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
-### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) 
-![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large)
-
-
-
-
-<picture>
-  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: portrait)" />
-  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: landscape)" />
-  <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
-</picture>
-
-
-![Ci_MESSAGE:NO_STATUS](https://pbs.twimg.com/media/GlsonxqbsAA_JKq?format=jpg&name=large) [#RelatedTweet](https://x.com/RicoThaka/status/1899156619084300541) @github 
-[grep, awk and sed – three VERY useful command-line utilities Matt Probert, Uni of York ](https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/guides/grep_awk_sed.pdf)
-[Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/Sed.html)
-[LapDLiveFeeD](https://www.youtube.com/live/w-ml4vis_Uo?si=Nf1zech1NTUjjxD6) [Life story Africa](https://youtu.be/Oa0iuAFYBfQ?si=fAMtHtIAdkMEZAu6)
-
-[Windows 95 Launch](https://youtu.be/_JzfROUDsK0?si=b4ZYt8XQYfFFnRR3) 
-
-[Recent California Precipitation maP](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=state-ca&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-131.74955003553436%2C12.39074881083234%2C-97.12361341020858%2C66.32571775472586%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C11%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.4%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A3%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D) 
-[1930s-40s in Color](https://www.flickr.com/photos/8623220@N02/albums/72157603671370361/)
 
 <?xml version="1.0" encoding="utf-8"?>
-  <!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
-  <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
   <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
      width="425.2px" height="99.21px" viewBox="0 0 425.2 99.21" enable-background="new 0 0 425.2 99.21" xml:space="preserve" stroke="white" stroke-width=".5%">
   <g>
@@ -207,6 +156,58 @@ NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it wil
 <img src="https://pbs.twimg.com/media/F_LR_0LaMAAxFYA?format=jpg&name=small" />
 <img src="https://pbs.twimg.com/media/F_LSA12aUAAL20z?format=jpg&name=900x900" />
 </div>
+[Recent California Precipitation maP](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=state-ca&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-131.74955003553436%2C12.39074881083234%2C-97.12361341020858%2C66.32571775472586%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C11%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.4%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A3%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D) 
+
+# Europa Clipper Camera Passes First Test in Space
+Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
+
+Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
+
+![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
+
+<object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="600" height="400"></object>   
+
+# NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
+<video controls preload="none" 
+  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
+  poster="https://blogs.nasa.gov/europaclipper/wp-content/uploads/sites/378/2024/10/Screenshot-2024-10-14-13-05-50_result.jpg?resize=768,432">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+# Europa Clipper separates from Falcon Heavy's Second Stage after deployment
+NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it will investigate Europa, a moon with an enormous subsurface ocean that may have conditions to support life. The spacecraft launched Oct. 14, 2024, from NASA’s Kennedy Space Center in [Florida.](https://blogs.nasa.gov/europaclipper/2024/10/14/nasas-europa-clipper-spacecraft-separates-from-falcon-heavy-second-stage/) [Europa Clipper Instrument Summaries](https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf) 
+
+
+
+[wiki](https://en.wikipedia.org/wiki/Europa_Clipper#:~:text=It%20was%20launched%20on%20October,while%20in%20orbit%20around%20Jupiter.)
+
+# @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
+### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) 
+![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large)
+
+
+
+
+<picture>
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: portrait)" />
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: landscape)" />
+  <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
+</picture>
+
+
+![Ci_MESSAGE:NO_STATUS](https://pbs.twimg.com/media/GlsonxqbsAA_JKq?format=jpg&name=large) [#RelatedTweet](https://x.com/RicoThaka/status/1899156619084300541) @github 
+[grep, awk and sed – three VERY useful command-line utilities Matt Probert, Uni of York ](https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/guides/grep_awk_sed.pdf)
+[Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/Sed.html)
+[LapDLiveFeeD](https://www.youtube.com/live/w-ml4vis_Uo?si=Nf1zech1NTUjjxD6) [Life story Africa](https://youtu.be/Oa0iuAFYBfQ?si=fAMtHtIAdkMEZAu6)
+
+[Windows 95 Launch](https://youtu.be/_JzfROUDsK0?si=b4ZYt8XQYfFFnRR3) 
+
+[Recent California Precipitation maP](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=state-ca&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-131.74955003553436%2C12.39074881083234%2C-97.12361341020858%2C66.32571775472586%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C11%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.4%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A3%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D) 
+[1930s-40s in Color](https://www.flickr.com/photos/8623220@N02/albums/72157603671370361/)
+
 
 [HER_MOTHER](https://x.com/BubbleGumPop510/status/1725665280448483631)
 
