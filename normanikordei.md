@@ -6,8 +6,12 @@ permalink: /normanikordei
 tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+### newsbae
+# Europa Clipper Camera Passes First Test in Space
+Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
 
-
+Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
+![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
 ![hi](https://pbs.twimg.com/media/F-hti3easAA54F1?format=jpg&name=large)
 ![′°′](https://pbs.twimg.com/media/Fyb6PNuaAAAlWQc?format=jpg&name=medium)
 

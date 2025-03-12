@@ -1,6 +1,12 @@
 #  <time datetime="{{ site.time | date: '%B %d, %Y' }}">{{ 'now' | date: "%Y" }} </time>
 # {{ site.time | date: '%B %d, %Y' }}m5rt5
 
+# Europa Clipper Camera Passes First Test in Space
+Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
+
+Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
+![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
+
 <div class="tupperware">
 <img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020200-DATA-020200.014.png::1:md.webp" />
 <img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020180-DATA-020180.019.png::1:md.webp" />

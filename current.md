@@ -10,8 +10,30 @@
    
  </div>  
 
+# Europa Clipper Camera Passes First Test in Space
+Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
+
+Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
+![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
 
 
+
+# NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
+<video controls preload="none" 
+  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
+  poster="https://blogs.nasa.gov/europaclipper/wp-content/uploads/sites/378/2024/10/Screenshot-2024-10-14-13-05-50_result.jpg?resize=768,432">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+# Europa Clipper separates from Falcon Heavy's Second Stage after deployment
+NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it will investigate Europa, a moon with an enormous subsurface ocean that may have conditions to support life. The spacecraft launched Oct. 14, 2024, from NASA’s Kennedy Space Center in [Florida.](https://blogs.nasa.gov/europaclipper/2024/10/14/nasas-europa-clipper-spacecraft-separates-from-falcon-heavy-second-stage/) [Europa Clipper Instrument Summaries](https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf) 
+
+
+
+[wiki](https://en.wikipedia.org/wiki/Europa_Clipper#:~:text=It%20was%20launched%20on%20October,while%20in%20orbit%20around%20Jupiter.)
 
 ![Ci_MESSAGE:NO_STATUS](https://pbs.twimg.com/media/GlsonxqbsAA_JKq?format=jpg&name=large) [#RelatedTweet](https://x.com/RicoThaka/status/1899156619084300541) @github 
 [grep, awk and sed – three VERY useful command-line utilities Matt Probert, Uni of York ](https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/guides/grep_awk_sed.pdf)
