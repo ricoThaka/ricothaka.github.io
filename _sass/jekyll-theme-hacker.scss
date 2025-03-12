@@ -102,7 +102,7 @@ html {
 
 #MAiN {
     margin: 0 auto;
-    width: 70%;
+    width: 70vw;
     height: 100vh;
     margin: auto;  
   }
@@ -243,22 +243,8 @@ img {
   
   
 }
-/*
 
-img {
-  max-height: auto;
-  max-width: 100%;
-}
-section img {
-  max-height: auto;
-  max-width: 100%;
-}
-img {
-  max-height:100%;
-  max-width:100%;
-display:block;
-}
-*/
+
 
 img[alt*="USGS"] {width: 100%;border-bottom:solid 1px  #BF785E;}
 
@@ -554,14 +540,6 @@ blockquote {
 
 
 
-code.highlighter-rouge {
-  background: rgba(0, 0, 0, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 0px 3px;
-  margin: 0px -3px;
-  color: #aa759f;
-  border-radius: 0px;
-}
 
 table {
   width: 100%;
