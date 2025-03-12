@@ -21,6 +21,8 @@
 by Mos Def
 <iframe src="https://archive.org/embed/mos-def-black-on-both-sides" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+[listing](https://yahoo.aleado.com/lot?auctionID=c721653242#enlargeimg)
+
 [Coral hi are you in danger?](https://x.com/RicoThaka/status/1883276942805541227)
 [imissu](https://x.com/BubbleGumPop510/status/1718736155607466199)
 ![Coral Iris Kelly](https://pbs.twimg.com/media/GE40lnxa4AAhlhU?format=jpg&name=large)
