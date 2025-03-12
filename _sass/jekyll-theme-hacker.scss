@@ -112,6 +112,7 @@ html {
   float: none;
   background-color: none;
   display: block;
+  font-variant: small-caps;
 }
 
 
@@ -138,13 +139,7 @@ html {
   }
 
 
-.floatright img:nth-child(odd) {
-    float: right;
-  }
-.floatleft img:nth-child(even) {
-    float: left;
-    border-bottom: solid 1px #ffffff50;
-  }
+
   
 
 h1 {
@@ -2649,3 +2644,10 @@ transform: scale(1.05);
 
 }
 
+.floatright img:nth-child(odd) {
+  float: right;
+}
+.floatleft img:nth-child(even) {
+  float: left;
+  border-bottom: solid 1px #ffffff50;
+}
