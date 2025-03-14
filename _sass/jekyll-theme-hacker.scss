@@ -1,3 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import "normalize";
+@import "fonts";
+@import "rouge-base16-dark";
+@import "_media.css";
+@font-face {
+  font-family: Cluster;
+  src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
+}
+@import "default_colors";
+
+$body-background: $cod-grey !default;
+$body-foreground: $gallery !default;
+$header: $conifer !default;
+$blockquote-color: $silver-chalice !default;
+$blockquote-border: $dove-grey !default;
+$container-max-width: 1000px;
+
+@mixin media-max-width($max-width) {
+  @media (max-width: $max-width) {
+      @content;
+  }
+}
+
+
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -54,154 +80,295 @@ table {
   box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Silkscreen:wght@400;700&family=Trade+Winds&display=swap');
-html { 
 
-  font: normal 10px/18px 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;
 
-  height: 100%;
-  width: 100%;
-  background: transparent
-} /*url(https://eoimages.gsfc.nasa.gov/images/imagerecords/91000/91578/CrevassedGlacier1_dms_2017301_lrg.JPG)
-    center repeat;
-  background-attachment: fixed;
-} 
-/* Buttons
-*/
-/*
 html {
-  height: 100vh;
-  width: 100vw;
-
-  font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
-  background: linear-gradient(45deg, 
-  #595959 25%, #262626 0, #262626 50%,
-  #595959 0, #595959 75%, #262626 0);
-background-size: 280.4px 280.4px;
-
-transition: 4s cubic-bezier(.25,.1,.2,3);
-
+  color: white;
+  font-family: "Ubuntu Mono", serif;
+  font-size: 1rem;
+  background: #0D0D0D;
+  background-image:
+    linear-gradient(#262626 1px, transparent 0),
+    linear-gradient(90deg, #262626 1px, transparent 0);
+  background-size: 30px 30px;
   background-attachment: fixed;
+  height: 100%;
+  width: 100%
 }
 
-html:hover {
 
-  background: linear-gradient(45deg, 
-              #262626 25%, #595959 0, #595959 50%,
-              #262626 0, #262626 75%, #595959 0);
-background-size: 80.4px 80.4px;
-  background-attachment: fixed;
+
+
+
+#MAiN {
+    margin: 0 auto;
+    width: 70vw;
+    margin: auto;  
+  }
+
+
+.logo {
+  float: none;
+  background-color: none;
+  display: block;
+  font-variant: small-caps;
+}
+
+
+
+
+
+  p {
+    display: inline-block;
+    padding: 5px;
+    font-size: 1.2rem;
+    display: block;
+    color: white;
+    text-shadow: 0 0 5px rgba(242, 242, 242, 0.5);
+    background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+    background: black; 
+    background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%); 
+    column-count: auto;
+    column-fill: balance-all;
+    word-break: break-word;
+    hyphens: auto;
+    
+  }
+
+
+
+  
+
+h1 {
+
+  display: relative;
+  line-height: 1.7rem;
+  font-size: 2rem;
+  word-break: break-all;
+  color: #fff;
+  text-shadow:
+
+    0 0 42px #0DCBFF,
+    0 0 82px #0DCBFF;
 
 }
-*/
 
+h2 {
+  display:block;
+  word-spacing: -.2ch;
+  font-kerning: auto;
+  letter-spacing: 2pt;
+  background: transparent
+   url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
+  font-size: 30pt;
+  color: white;
+  font-family: Cluster;
+  word-break: break-all; 
+  width: 100%;
+}
+
+
+
+h3 {
+  
+  text-shadow:
+  0 0 7px white,
+  0 0 10px #2e97f2,
+  0 0 21px white,
+  0 0 42px white;
+
+
+}
 h1,
 h2,
 h3,
-h4{
+h4,
+h5,
+h6 {
   color: white;
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     center repeat;
-  font-weight: 900;
-  margin: 5px;
-  padding: 5px;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+
 }
+
+h6 {
+
+  display: block;
+  word-break: break-all;
+font-size: 3rem;
+  line-height: 1.7rem;
+  margin: auto;
+  font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+    text-shadow:
+
+        0 0 42px #0DCBFF,
+        0 0 82px #0DCBFF,
+        0 0 92px #0DCBFF,
+        0 0 102px #0DCBFF,
+        0 0 125px #0DCBFF;
+    letter-spacing: -1px;
+
+}
+
+
+h4 {
+width: 100%;
+text-shadow:
+  0 0 7px white,
+  0 0 10px #2e97f2,
+  0 0 21px white,
+  0 0 42px white;
+
+}
+
+
+
+
 body {
-  text-shadow: 0 0 8px #FFFFFF;
-  font-size:140%;
+  /* seems resource heavy text-shadow: 0 0 11px #ffffff;
+  */
   color: white;
-  background: linear-gradient(45deg, 
-    #262626 25%, #595959 0, #595959 50%,
-    #262626 0, #262626 75%, #595959 0);
-  background-size: 80.4px 80.4px;
-  font-family: "VT323", monospace;
-  background-attachment: fixed;
-
 
 }
 
-p {
-  display:block;
-padding:0%;
-  text-align: left;
-  color:white;
-    background: transparent
-    url(https://us.canvasartrocks.com/cdn/shop/products/Dark_wood_texture_Wall_Mural_Wallpaper_a_1400x.jpg?v=1571715189)
-   ;
-  background-size: cover;
-  border-style: inset;
-}
+img {
 
-
-.dotgrid {
+  max-height:100%;
+  max-width:100%;
+  display:inline;
   
-  padding:10px;
---polka-bg-image:
-  radial-gradient(rgb(13, 13, 13) 13.2%, transparent 13.2%);
---polka-bg-position: 4px 4px;
---polka-bg-size: 8px 8px;
---polka-bg-color: rgb(89, 89, 89);
-background-image: 
-  radial-gradient(rgb(13, 13, 13) 13.2%, transparent 13.2%);
-background-position: 4px 4px;
-background-size: 8px 8px;
-background-color: rgb(89, 89, 89);
-/*
-background: linear-gradient(45deg, 
-            #fb3 25%, #58a 0, #58a 50%,
-            #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
- font-family: "VT323", monospace;
-background-attachment: fixed;
-*/ 
+  
 }
 
+
+
+img[alt*="USGS"] {width: 100%;border-bottom:solid 1px  #BF785E;}
+
+img[alt^="L"] {
+  width: 100%;
+  border-top:solid 1px greenyellow;
+  
+  }
+
+  img[src*="poesiatranscend"] {
+    width: 100%;}
+
+  
+
+
+img[src*="nasa.gov"] {
+width: 100%;
+border-bottom:solid 5px #c9ff2350;
+
+}
+img[alt="kk"] {
+  width: 100%;
+  
+}
+
+
+  .box {
+    width: 80%;
+    border: 1px solid #3DF28B;
+    display: flex;
+    flex-wrap: wrap;
+    margin: .1rem;
+    background-attachment: fixed;
+    justify-content: space-evenly;
+    background-size: 100% auto;
+    font-kerning: normal;
+    letter-spacing: .2rem;
+    font: bold 10px/18px verdana, lucida, sans-serif;
+    background: url(https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg);
+    background-size: 20% auto;
+    background-attachment: fixed;
+  }
+
+  .box>* {
+    display: block;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+    border: 1px solid #c9ff23;
+    padding: 1px;
+    margin: 1px;
+    background-color: #3DF28B20;
+    transition: all .2s ease-in-out;
+    flex-shrink:1;
+    flex-grow:1;
+ 
+    
+          &:hover {
+        flex-grow: 3;
+        
+      }
+    }
+  
+  .box a:link {
+    
+    color: white;
+    
+  }
+
+  img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;float: left;}
+  img[src*="Logo_of_the_United_States_Space_Force.png"] {width: 188px;padding: 4px;float: right;}
+/* img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {max-width: 250px;padding: 4px;float: right;} */
+img[alt="whiteslavery"] {
+  max-width: 15%;
+  float: right;
+}
+img[alt="whiteslavery40"] {
+  max-width: 40%;
+  transform: rotate(45deg);
+}
+img[src*="Midway_Games_logo"] {background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
+  center repeat; width: 100%;}
+img[src*="6071cc4b982fd393d892490ed7a702738c595099"] {background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
+  center repeat; width: 100%;}
+  img[src*="859740137800_cover.jpg/1200x1200bf-60.jpg"] {width: 25%; border: 5px solid #003da550;}
+img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
+img[src*="https://badge.fury.io"] {width: 100%;}
+img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
+svg { width: max-content;
+display: inline-block; }
+
+
+
+@keyframes slidein {
+  from {
+    margin-right: 100%;
+    width: 300%;
+        opacity: 0 ;
+    display: flex;
+  }
+
+
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+    opacity: 1;
+    display: flex;
+  }
+}
 
 ::selection {
-color: #AAFF00;
-background: #454B1B;
-}
-
-.crt {
-  padding: 10px;
-  background: black;
-}
-img.crt {
-  padding: 5px;
-  background: black;
-}
-
-.section_hr {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 1fr;
-  grid-column-gap: 0px;
-  position: relative;	box-shadow: 0px 10px 12px -2px #FFFFFF;
-  position:relative;
-  grid-row-gap: 0px;
-  padding: 5px;
-  font: normal 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
-  font-size: 120%;
-  background:
-    linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
-    linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
-    linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
-    linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
-    linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
-    linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
-  background-color: #131313;
-  background-size: 20px 20px;
+  color: #aaff00;
+  background: #454b1b;
 }
 
 p::first-letter {
-  font-size: 2rem;
+  font-size: 1.2em;
   font-weight: bold;
-  vertical-align: sub;
-  color: cyan;
+    color: white;
+}
+p:first-of-type {
+  animation-duration: 1s;
+  animation-name: slidein;
 }
 
 .firstcharacter {
@@ -216,215 +383,68 @@ p::first-letter {
   padding-left: 3px;
 }
 
-#MAiN
-{
-  margin:0 auto;
-  width: 55vw;
-  height: 99vh;
-  margin: auto;
-  background: transparent url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif) repeat;
-
-}
-
-/*
-#heading {
-
-  flex-wrap:nowrap;
-    width:50vw;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-   position:fixed;
-    display: grid;
-grid-template-rows: auto auto auto;
-    background-color: black;
-  color:white;
-  padding:5px;
-  position:fixed;
-
-} */
 
 
 
-.logo {
-
-  float: left;
-  background-color:black;
-  display:block;
-  animation: fadeIn 5s;
--webkit-animation: fadeIn 5s;
--moz-animation: fadeIn 5s;
--o-animation: fadeIn 5s;
--ms-animation: fadeIn 5s;
--webkit-font-smoothing: antialiased;
-webkit-background-clip: text;
--moz-background-clip: text;
-     background-clip: text;
-     animation-fill-mode: forwards;
-}
-
-ul {
-  padding: 0;
-  margin: 0;
-  color: white;
-}
-
-li {
-  display: inline;
+.featured-post {
+  height: 400px;
+  margin: 0px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
-  color: white;
 }
-
-ul ul {
-  position: absolute;
-  display: none;
-
-}
-
-li:hover ul {
-  display: block;
-}
-
-
-
-
-.logo {
-
-  float: left;
-  background-color:black;
-  display:block;
-
-}
-
-ul {
-  padding: 0;
+.featured-post h2 {
+  bottom: 0;
   margin: 0;
-  color: white;
-}
-
-li {
-  display: inline;
-  position: relative;
-  color: white;
-}
-
-ul ul {
+  padding: 10px;
   position: absolute;
-  display: none;
-
+}
+.featured-post h2 span {
+  display: inline-block;
+  color: white;
+  font: bold 24px/45px Helvetica, Sans-Serif;
+  letter-spacing: -1px;
+  background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}
+.featured-post span a {
+  color: white;
+}
+.featured-post h1 {
+  margin: 10px;
 }
 
-li:hover ul {
-  display: block;
-}
 
 
 
-#navcontainer {
-  padding: 0;
-  
-  height: 20px;
-  display: flex;
-  background-color:black;
-  position:fixed;
-  color:white;
-  top: 0;
-}
 
-#navcontainer ul {
-  border: 0;
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  text-align: center;
-}
-
-#navcontainer ul li {
-  display: block;
-
-  float: right;
-  text-align: center;
+.tupperware > * {
+  border: 1px solid #c9ff23;
+  border-radius: 5px;
   padding: 0px;
-  margin: 0;
+  flex: 1 1 160px;
+  overflow: hidden;
+  }
+
+.tupperware {
+  display: flex;
+  flex-flow: row wrap; 
+  padding: 15px;
+  gap: 5px;
+  width:100%;
+  height: auto;
 }
 
-#navcontainer ul li a {
-  width: 100px;
-  height: max-content;
-  background: #262626;
-  border-left: px solid #f5d7b4;
-  border-bottom: 1px solid #262626;
-  border-right: 1px solid #262626;
-  padding: 0;
-  margin: 0 0 0px 0;
-  color: #a6a6a6;
-  text-decoration: none;
-  display: block;
-  text-align: center;
 
-}
-
-#navcontainer ul li a:hover {
-  color: #f2f2f2;
-  background: #262626;
-  border-top: 1px solid magenta;
-}
-
-#navcontainer a:active {
-  background: #262626;
-  color: #fff;
-}
-
-#navcontainer li#active a {
-  background: #262626;
-  border-right: 4px solid #2e97f2;
-  color: #fff;
+.tupperware img {
+  width: 100%;
 }
 
 
 
-
-.css3badge {
-  display:inline;
-  float: right;
-  flex-wrap: nowrap;
-
-}
-h1 {
-
-   font-size: 170%;
- color:white;
-/* background: linear-gradient(45deg, 
- #F2D338 25%, #262626 0, #262626 50%,
- #F2D338 0, #F2D338 75%, #262626 0);
-background-size: 80.4px 80.4px; */
-font-family: "VT323", monospace;
-
-
-background: 
-linear-gradient(to top, transparent, #b1b1b1 100%),
-#262626 repeating-linear-gradient(45deg, transparent, transparent 35px,
-rgba(255, 255, 255, 0.5) 35px, 
-rgba(255, 255, 255, 0.5) 70px);
-background-clip: padding-box;
-border-left: 1px solid rgba(255, 255, 255, 0.3);
-border-top: 1px solid rgba(255, 255, 255, 0.7);
-box-shadow: 0px 1px 3px 1px #969494;
-background-attachment: fixed;
-}
-
-
-
-
-
-   
-h2 {
-    background: transparent
-     url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg)
-     center repeat;
-     font-size: 140%;
-   color:white;
-     }
-
+    
 /* Buttons
 */
 
@@ -432,41 +452,47 @@ dt {
   font-style: italic;
   font-weight: bold;
   background: transparent
-  url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg)
-  center repeat;
+    url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
 }
 
 ul li {
-  list-style-image:url('../images/bullet.png');
+  list-style-image: url("../images/bullet.png");
 }
 
 blockquote {
-  color: aqua;
-  padding-left: 10px;
-  border-left: 1px dotted yellow;
+  font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;  
+  padding-left: 20px;
+  color:white;
+  text-shadow: 1px 1px 2px white;
+  margin-right:20px;
+  border-left: 2px dotted yellow;
+  background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+  center repeat;
 }
 
 pre {
   background: rgba(0, 0, 0, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 2px;
   padding: 10px;
   font-size: 16px;
   color: #b5e853;
-  border-radius: 0px;
   word-wrap: normal;
   overflow: auto;
   overflow-y: hidden;
+
+
 }
 
 code.highlighter-rouge {
-  background: rgba(0,0,0,0.9);
+  background: rgba(0, 0, 0, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 0px 3px;
   margin: 0px -3px;
   color: #aa759f;
   border-radius: 0px;
 }
-
 
 table {
   width: 100%;
@@ -492,50 +518,13 @@ hr {
 
 
 
-#footer {
-  flex-wrap: nowrap;
-  bottom:0;
-  position:fixed;
-    display:inline;
-grid-template-rows: auto auto auto;
-    background-color: black;
-  color:white;
-  padding:5px;
-  position:fixed;
-  width:55vw;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-  }
 
-
-
-
-
-/*
-#content {
-
-  border-radius:12px;
-  padding: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 20em;
-  margin-left: 20em; 	
-  /* opera does not like 'margin:20px auto' astrxneeded/
-  border: 0px solid #ccc;
-  text-align:left; 
-  voice-family: "\"}\"";
-  voice-family:inherit;
-
-  }
-*/
-
-  img {
-  display:block;
-  max-width: 100%;
-  max-height: 100%;
-  width:100%;
+embed {
+  width: 100%;
+  display: block;
+  text-align: center;
+  border-bottom: 1px solid #b5e853;;
 }
-
 
 iframe {
   width: 100%;
@@ -543,33 +532,13 @@ iframe {
   text-align: center;
 }
 
-
-
 blockquote {
-  padding-left: 10px;
-  border-left: 1px dotted 
+  padding-left: 15px;
+  border-left: 1px dotted #b5e853;
 }
 
-pre {
-  background: rgba(0, 0, 0, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 10px;
-  font-size: 16px;
-  color: #b5e853;
-  border-radius: 0px;
-  word-wrap: normal;
-  overflow: auto;
-  overflow-y: hidden;
-}
 
-code.highlighter-rouge {
-  background: rgba(0,0,0,0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 0px 3px;
-  margin: 0px -3px;
-  color: #aa759f;
-  border-radius: 0px;
-}
+
 
 table {
   width: 100%;
@@ -596,123 +565,86 @@ hr {
 /* Buttons
 */
 
-a,
 a:hover,
 a:visited a:hover {
-  color: #c9ff23;
+  /*font-size: 130%; */
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  
+  
+
 }
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  padding: 0px;
+  color:#29F247 ;
+  text-shadow: 0 0 5px rgba(41, 242, 71, 0.5);
+ 
+
+
 }
-
-
-
+.crt {
+  padding: 50px;
+  background: black;
+}
+img.crt {
+  padding: 50px;
+  background: black;
+}
 video {
   height: 400px;
   width: 100%;
-  border-radius:0px;
+  border-radius: 0px;
   display: block;
   margin-block: 10px 10px;
-   background: rgb(217,4,121);
-    background: linear-gradient(0deg, 
-              #595959 25%, #262626 0, #262626 50%,
-              #595959 0, #595959 75%, #262626 0);
-background-size: 280.4px 280.4px;
-transition: 4s cubic-bezier(0.1, 0.2, 0.3, 0.4);
-/*  transition: 4s cubic-bezier(.25,.1,.2,3); */
+  background: rgb(217, 4, 121);
+  background: linear-gradient(
+    0deg,
+    #595959 25%,
+    #262626 0,
+    #262626 50%,
+    #595959 0,
+    #595959 75%,
+    #262626 0
+  );
+  background-size: 280.4px 280.4px;
+
+  transition: 3s cubic-bezier(0.25, 0.1, 0.2, 3);
 }
 
-
 embed {
-
-  height: 400px;
     width: 100%;
-    scrollbar-color: #595959 #262626;
-    scrollbar-width: thin;
+    height: fit-content;
+  scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
+}
 
-  }
-
-
-  .audio {
-    background: whitesmoke;
-    width:50%;
-    -webkit-transition: all 0.5s linear;
-    -moz-transition: all 0.5s linear;
-    -o-transition: all 0.5s linear;
-    transition: all 0.5s linear;
-    -moz-box-shadow: 2px 2px 4px 0px cyan;
-    -webkit-box-shadow: 2px 2px 4px 0px rgb(89, 89, 89);
-    box-shadow: 2px 2px 4px 0px rgb(89, 89, 89);
-    -moz-border-radius: 7px 7px 7px 7px;
-    -webkit-border-radius: 7px 7px 7px 7px;
-    border-radius: 7px 7px 7px 7px;
-  }
-  
-.audio:hover,
-.audio:focus,
-  .audio:active {
-    -webkit-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
-    -moz-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
-    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
-    -webkit-transform: scale(1.05);
-    -moz-transform: scale(1.05);
-    transform: scale(1.05);
-  }
-
-  audio {
-    background: whitesmoke;
-    width:50%;
-    -webkit-transition: all 0.5s linear;
-    -moz-transition: all 0.5s linear;
-    -o-transition: all 0.5s linear;
-    transition: all 0.5s linear;
-    -moz-box-shadow: 2px 2px 4px 0px cyan;
-    -webkit-box-shadow: 2px 2px 4px 0px rgb(89, 89, 89);
-    box-shadow: 2px 2px 4px 0px rgb(89, 89, 89);
-    -moz-border-radius: 7px 7px 7px 7px;
-    -webkit-border-radius: 7px 7px 7px 7px;
-    border-radius: 7px 7px 7px 7px;
-  }
-  
-  audio:hover,
-  audio:focus,
-  audio:active {
-    -webkit-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
-    -moz-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
-    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
-    -webkit-transform: scale(1.05);
-    -moz-transform: scale(1.05);
-    transform: scale(1.05);
-  }
 /* Image + PageLayout s */
 .panel4-container {
-
   display: flex;
-  justify-content: space-evenly;         width:100%;
-    object-fit: cover;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
   overflow: hidden;
-  height: 25%;
+  height: 100%;
   padding: 0px;
   gap: 5px;
-
 }
 
 .twoPanelSpread {
   margin: 0px;
   padding: 0px;
-  background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
+  background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp)
     center repeat;
 }
 
 .row {
-  border-radius:0px;
+  border-radius: 0px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-
 }
 
 .panelColumn {
@@ -723,104 +655,62 @@ embed {
   overflow: hidden;
 }
 
-
 .leftColumn {
   /* background-color: #2470FF; */
   width: 100%;
 }
 
 .leftColumn img {
-
-    flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden
-
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
 }
 
 .rightColumn {
   /* background-color: #c9ff23; */
 }
-.rightColumn img { 
-
-    flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden
+.rightColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
 }
-
-
-
 
 /* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
-
-
-
-
-/* screenshots portriats works well for up to 5 on standard monitors*/
-.border {
-  border-bottom:1px solid #c9ff23;
-  display:block;
-}
-.vert-container {
-
-  display: flex;
-   align-items: stretch; 
-   flex-flow: row nowrap;  
-  flex-direction: row; 
-  flex-wrap: nowrap; 
-  justify-content: center;
-  align-content: stretch;
-  padding: 15px;
-  gap: 5px;
-
-}
-
-.vert-container > div{
-
-  border: 1px solid #c9ff23;
-  border-radius: 1px;
-  padding: 8px;
-}
-
-.vert-container > img {
-object-fit: contain;
-max-width: 100%;
-border: 1px solid #c9ff23;
-  border-radius:0px
-
-}
 
 /* FLEX_BOX_FOR_3_IMAGES */
 .flex-container {
   align-items: stretch;
-/* flex-flow: row nowrap; */
-flex-direction: row;
-flex-wrap: nowrap;
-  padding: 0px;
-justify-content: center;
-align-content: stretch;
-display: grid;
-grid-template-columns: auto auto auto;
+  /* flex-flow: row nowrap; */
+  flex-direction: row;
+  flex-wrap: nowrap;
+
+
+  justify-content: center;
+  align-content: stretch;
+  display: grid;
+  grid-template-columns: auto auto auto;
 }
 
 .flex-container > div {
-border:  1px dotted #c9ff23;
-  
+
+
+
 }
 
 .flex-container > img {
-object-fit: contain;
-max-width: 100%;
-border: 1px solid #c9ff23;
-}
+  object-fit: contain;
+  max-width: 100%;
+  border: 1px solid #c9ff23;
 
+}
 
 :root {
   --magnifier: 8;
@@ -830,14 +720,57 @@ border: 1px solid #c9ff23;
 
 
 
+
+
+.gallery-wrap {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 70vh;
+}
+
+.item {
+  flex: 1;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: none;
+  transition: flex 0.8s ease;
+  
+  &:hover{
+    flex: 7;
+  }
+}
+
+.item-1 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04200/opgs/edr/ncam/NLB_770345493EDR_F1072484NCAM00256M_.JPG');
+}
+
+.item-2 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/msss/04202/mcam/4202MR1059130272102870C00_DXXX.jpg');
+}
+
+.item-3 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04250/opgs/edr/ncam/NRB_774801663EDR_F1080222NCAM00200M_.JPG');
+}
+
+.item-4 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/msss/04202/mcam/4202ML1059130291702010C00_DXXX.jpg');
+}
+
+.item-5 { 
+  background-image: url('https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04251/opgs/edr/ncam/NLB_774875074EDR_F1080438NCAM00274M_.JPG');
+}
+
+
 .pinupGallery {
-  display:block;
+  display: block;
   width: 100%;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   gap: 0px;
-   object-fit: contain;
+  object-fit: contain;
 }
 .expandingGallery {
   width: 100%;
@@ -859,51 +792,8 @@ border: 1px solid #c9ff23;
 }
 
 .expandingGallery > img:hover {
-
   flex: var(--magnifier);
 }
-
-
-
-/* ROLLOVER */ 
-.rollovercontainer {
-  margin: auto;
-  width: 500px;
-}
-
-
-
-/* image effect */
-.rollover {
-  position: relative;
-  display: inline-block;
-}
-.rollover img {
-  transition: opacity 1.5s ease-in-out;
-  backface-visibility: hidden;
-}
-.rollover .first {
-  top: 0;
-  left: 0;
-}
-.rollover .second {
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-}
-.rollover:hover .first {
-  opacity: 0;
-}
-.rollover:hover .second {
-  opacity: 1;
-}
-
-
-
-
-
-
 /** LIGHTBOX MARKUP **/
 
 .lightbox {
@@ -926,8 +816,6 @@ border: 1px solid #c9ff23;
 }
 
 
-
-
 /* @sarahlugor https://x.com/sarahlugor/status/1756724220388692100?s=20 */
 
 .sarahlugor {
@@ -936,32 +824,30 @@ border: 1px solid #c9ff23;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   width: 100%;
   height: 150px;
-  border-radius:0px
+  border-radius: 0px;
 }
 .sarahlugor div:nth-child(1) {
-  background: #4B93BF;
-  border-radius:0px
+  background: #4b93bf;
+  border-radius: 0px;
 }
 .sarahlugor div:nth-child(2) {
-  background: #85D3F2;
-  border-radius:0px
+  background: #85d3f2;
+  border-radius: 0px;
 }
 
 .sarahlugor div:nth-child(3) {
-  background: #9ABF15;
-  border-radius:0px
+  background: #9abf15;
+  border-radius: 0px;
 }
 
 .sarahlugor div:nth-child(4) {
-  background: #C8D98B;
-  border-radius:0px
+  background: #c8d98b;
+  border-radius: 0px;
 }
 .sarahlugor div:nth-child(5) {
-  background: #733E32;
-  border-radius:0px
+  background: #733e32;
+  border-radius: 0px;
 }
-
-
 
 .sarahlugor_bright {
   display: grid;
@@ -969,82 +855,94 @@ border: 1px solid #c9ff23;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   width: 100%;
   height: 150px;
-  border-radius:0px
+  border-radius: 0px;
 }
 .sarahlugor_bright div:nth-child(1) {
-  background: #4B93BF;
-  border-radius:0px
+  background: #4b93bf;
+  border-radius: 0px;
 }
 .sarahlugor_bright div:nth-child(2) {
-  background: #9ABF15;
-  border-radius:0px
+  background: #9abf15;
+  border-radius: 0px;
 }
 
 .sarahlugor_bright div:nth-child(3) {
-  background: #C6D982;
-  border-radius:0px
+  background: #c6d982;
+  border-radius: 0px;
 }
 
 .sarahlugor_bright div:nth-child(4) {
-  background: #D90404;
-  border-radius:0px
+  background: #d90404;
+  border-radius: 0px;
 }
 .sarahlugor_bright div:nth-child(5) {
-  background: #0D0D0D;
-  border-radius:0px
+  background: #0d0d0d;
+  border-radius: 0px;
 }
-
 
 .latto {
   display: grid;
   grid-gap: 0px;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   width: 100%;
-  height: 150px;
-  border-radius:0px
+  height: 1vh;
+  border-radius: 0px;
 }
 .latto div:nth-child(1) {
-  background: #151C26;
-  border-radius:1px
+  background: #151c26;
+  border-radius: 1px;
 }
 .latto div:nth-child(2) {
-  background: #5EF268;
-  border-radius:1px
+  background: #5ef268;
+  border-radius: 1px;
 }
 
 .latto div:nth-child(3) {
-  background: #A7F2AC;
-  border-radius:1px
+  background: #a7f2ac;
+  border-radius: 1px;
 }
 
 .latto div:nth-child(4) {
-  background: #BF7D65;
-  border-radius:1px
+  background: #bf7d65;
+  border-radius: 1px;
 }
 .latto div:nth-child(5) {
-  background: #F2B29B;
-  border-radius:1px
+  background: #f2b29b;
+  border-radius: 1px;
 }
+
 
 
 .swatch {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  position:relative;
+  opacity: 1;
+  z-index: auto;
+  max-width: max-content;
 
-    /*display: grid;
-    grid-gap: 5px;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-   position:relative;
-    opacity: 1;
-    max-width: max-content;
-  }
+
+}
+
+.swatch {
+
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+ position:relative;
+  opacity: 1;
+  max-width: max-content;
+}
 
 
 .swatch div {
 
-  flex: 1 1 auto;
-  padding: 10px;
+flex: 1 1 auto;
+padding: 10px;
 
 }
 
@@ -1054,26 +952,26 @@ border: 1px solid #c9ff23;
 
 
 .swatch div:nth-child(1) {
-  background: #352EF2;
-  border-radius:0px
+background: #352EF2;
+border-radius:0px
 }
 .swatch div:nth-child(2) {
-  background: #446FF2;
-  border-radius:0px
+background: #446FF2;
+border-radius:0px
 }
 
 .swatch div:nth-child(3) {
-  background: #2E97F2;
-  border-radius:0px
+background: #2E97F2;
+border-radius:0px
 }
 
 .swatch div:nth-child(4) {
-  background: #3DF28B;
-  border-radius:0px
+background: #3DF28B;
+border-radius:0px
 }
 .swatch div:nth-child(5) {
-  background: #29F247;
-  border-radius:0px
+background: #29F247;
+border-radius:0px
 }
 .swatch div:nth-child(6){ background: #CE0058; }
 .swatch div:nth-child(7){ background: #E10098; }
@@ -2404,13 +2302,13 @@ border: 1px solid #c9ff23;
 .swatch div:nth-child(1332){ background: #101820; }
 
 .normani {
-  /*display: grid;
-  grid-gap: 5px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-  height: 80px;
+/*display: grid;
+grid-gap: 5px;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+display: flex;
+flex-wrap: wrap;
+width: 100%;
+height: 80px;
 
 }
 .normani div:nth-child(1) { background: #F2E205;}
@@ -2421,11 +2319,12 @@ border: 1px solid #c9ff23;
 
 .normani div {
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+flex: 0 1 200px;
+flex: 1 1 200px;
+padding: 0px;
 
 }
+
 
 .gullies {
   /*display: grid;
@@ -2434,20 +2333,42 @@ border: 1px solid #c9ff23;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 5%;
+  height: 1em;
 
 }
-.gullies div:nth-child(1) { background: #3029F2;}
-.gullies div:nth-child(2) { background: #446FF2;}
-.gullies div:nth-child(3) { background: #3098F2;}
-.gullies div:nth-child(4) { background: #0DD9C4;}
-.gullies div:nth-child(5) { background: #3DF28B;}
+.gullies div:nth-child(1) {
+  background: #3029f2;
+    animation: .2s ease-out 0s 1 slideInFromLeft;
+ 
+
+}
+.gullies div:nth-child(2) {
+  background: #446ff2;
+  animation: .2s ease-out 0s 1 slideInFromRight;
+  
+}
+.gullies div:nth-child(3) {
+  background: #3098f2;
+  animation: .8s ease-in 0s 1 slideInFromLeft;
+  
+}
+.gullies div:nth-child(4) {
+  background: #0dd9c4;
+  animation: .9s ease-in 0s 1 slideInFromRight;
+  
+}
+.gullies div:nth-child(5) {
+  background: #3df28b;
+    
+  animation: .8s ease-in 0s 1 slideInFromLeft;  
+
+}
 
 .gullies div {
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
 
 }
 
@@ -2458,21 +2379,36 @@ border: 1px solid #c9ff23;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 5%;
+  height: 1em;
+}
+.oncall div:nth-child(1) {
+  background: #f2a922;
+}
+.oncall div:nth-child(2) {
+  background: #f28b0c;
+    animation: 1s ease-in 1s 1 slideInFromLeft;
+}
+.oncall div:nth-child(3) {
+  background: #f27405;
+}
+.oncall div:nth-child(4) {
+  background: #732e07;
 
 }
-.oncall div:nth-child(1) { background: #F2A922;}
-.oncall div:nth-child(2) { background: #F28B0C;}
-.oncall div:nth-child(3) { background: #F27405;}
-.oncall div:nth-child(4) { background: #732E07;}
-.oncall div:nth-child(5) { background: #BF3706;}
+.oncall div:nth-child(5) {
+  background: #bf3706;
+}
 
 .oncall div {
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+}
 
+#a-title {
+  text-decoration: none;
 }
 
 .megan {
@@ -2482,7 +2418,7 @@ border: 1px solid #c9ff23;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 3em;
+  height: 1em;
 
 }
 
@@ -2494,9 +2430,62 @@ border: 1px solid #c9ff23;
 
 .megan div {
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
+
+}
+
+
+
+.viking {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 1em;
+
+}
+.viking div:nth-child(1) { background: #F2F2F2; }
+.viking div:nth-child(2) { background: #73463C;}
+.viking div:nth-child(3) { background: #8C564A;}
+.viking div:nth-child(4) { background: #260101;}
+.viking div:nth-child(5) { background: #0D0000;}
+
+.viking div {
+
+  
+  flex: 1 1 100px;
   padding: 0px;
+
+
+}
+
+
+.vikingbright {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  height: 30px;
+
+}
+.vikingbright div:nth-child(1) { background: #F2F2F2;animation: 1s ease-out 0s 1 flip}
+.vikingbright div:nth-child(2) { background: #D9AA71;}
+.vikingbright div:nth-child(3) { background: #A65F46;}
+.vikingbright div:nth-child(4) { background: #73463C;}
+.vikingbright div:nth-child(5) { background: #0D0000;animation: 1s ease-out 0s 1 flip;}
+
+.vikingbright div {
+
+  flex: 1 1 auto;
+  padding: 5px 5px;
+  animation-direction: alternate;
 
 }
 
@@ -2505,117 +2494,133 @@ border: 1px solid #c9ff23;
 }
 
 
-.glass-content {
-  width: 100%;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-flow: column nowrap;
-  
-  
-}
-.glass-item {
-   scrollbar-color: #595959 #262626;
-scrollbar-width: thin;
-  flex: 1 0 80vw;
-    padding: 1em;
 
-  min-height: 50px;
-  max-height: 40vh;
-  background-color: rgba(255, 255, 255, 0.7);
-  text-align: left;
-  margin: 2vmin;
-  padding: 2vmin;
-  background-color: #fce4ec; /* for testing*/
-    max-width: 60vw;
-background: hsla(0,0%,100%,.25) border-box;
-overflow: auto;
+.playlist {
+  display:flex;
+  flex-flow: row wrap;
+  flex-direction: row;
 
-box-shadow: 0 0 0 1px hsla(0,0%,100%,.3) inset,
-      0 .5em 1em rgba(0, 0, 0, 0.6);
-text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
-}
+} 
 
-
-.strawberry {
-  /*display: grid;
-  grid-gap: 5px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-  height: 5%;
-}
-.strawberry div:nth-child(1) {
-  background: #485922;
-}
-.strawberry div:nth-child(2) {
-  background: #A0A676;
-}
-.strawberry div:nth-child(3) {
-  background: #A69F7C;
-}
-.strawberry div:nth-child(4) {
-  background: #8C8881;
-}
-.strawberry div:nth-child(5) {
-  background: #402E24;
-}
-
-.strawberry div {
-  flex: 0 1 200px;
+.track {
+ margin: 1px;
+  overflow:hidden;
   flex: 1 1 200px;
-  padding: 0px;
-}
+border-radius: 0.3em;
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
 
-
-/* banner styles */ 
-.mro_banner {
-  position: relative;
-    background-image: linear-gradient(90deg, rgba(2,0,36,0.9136029411764706) 30%, rgba(9,9,121,0) 87%), url(https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg), url(bubbles.png);
-    
-    font-family: Arial;
 
 }
 
-.innertext-block {
-  position: relative;
-  bottom: 20px;
-  right: 20px;
-  background-color: black;
-  color: white;
-  padding-left: 20px;
-  padding-right: 20px;
+.track:hover, .track:focus, .track:active
+{
+
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.09);
 }
 
-.multi-bg-example {
+.track {
+
+}
+
+.container-audio {
+
+    padding: 0px;
+
+
+}
+.track>img { width:100%;
+
+   -webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+}
+
+audio {
+
+
+
+
+    -webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+
+  text-shadow: 0 1px 1px hsla(0,0%,100%,.3);
+  background: hsla(0,0%,100%,.9) border-box;
+}
+audio:nth-child(2), audio:nth-child(4), audio:nth-child(6) {
+    margin: 0;
+}
+
+
+audio:hover, audio:focus, audio:active 
+{
+
+
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
+}
+
+
+.gallery-rover {
+  display: flex;
+  flex-direction: row;
   width: 100%;
-  height: 100px;
-  background-image: linear-gradient(90deg, rgba(2,0,36,0.9136029411764706) 30%, rgba(9,9,121,0) 87%), url(https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg), url(bubbles.png)
-    ;
-  background-repeat: no-repeat, no-repeat, no-repeat;
-  background-position:
-     
-    right;
-  background-size:100%;
-}
-.text-block {
-  position: absolute;
-  bottom: 20px;
-  right: 20px;
-  background-color: black;
-  color: white;
-  padding-left: 20px;
-  padding-right: 20px;
+  height: 70vh;
 }
 
-.heading {
-  display: block;
-  padding: 0%;
-  text-align: left;
-  color: white;
-  background: transparent
-    url(https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg);
+.item {
+  flex: 1;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: none;
+  transition: flex 0.8s ease;
   
+  &:hover{
+    flex: 7;
+  }
+}
+
+.item-rover1 { 
+  background-image: url('https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00450/ids/edr/browse/edl/EBE_0450_0706921761_624ECM_N0260000EDLC00450_0050LUJ01_1200.jpg');
+}
+
+.item-rover2 { 
+  background-image: url('https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00000/ids/edr/browse/edl/ESF_0000_0666965708_609ECM_N0010052EDLC00000_0000LUJ01_1200.jpg');
+}
+
+.item-rover3 { 
+  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/1005.gif?w=768&format=webp');
+}
+
+.item-rover4 { 
+  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/1007.gif?w=768&format=webp');
+}
+
+.item-rover5 { 
+  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/25703_PIA24490_ncam_left_drive-web.gif?w=768&format=webp');
+}
+
+.social{
+  position: absolute;
+  right: 35px;
+  bottom: 0;
   
+
+}
+
+.floatright img:nth-child(odd) {
+  float: right;
+}
+.floatleft img:nth-child(even) {
+  float: left;
+  border-bottom: solid 1px #ffffff50;
 }

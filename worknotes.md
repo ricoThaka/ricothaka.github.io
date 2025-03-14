@@ -1,45 +1,267 @@
  <div class="mro_banner">
   <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
-  <div class="innertext-block">
-    <h4>Los Angeles</h4>
-    <p>hole to another universe</p>
+  <div class="innertext-block" markdown=1>
+    <h4>Los Angeles</h4>  
+    <p>hole to another universe</p> 
+    
+
   </div>
 </div>   
 
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s)
+[back](./)
+# Planetary Data Sciences Update : : : M_R_O
+### August 1, 2024. The SHARAD radargrams from the SHARAD Science Team have been migrated to the PDS4 standard. See the PDS4 notes document for details.
+
+The PDS Geosciences Node Spectral Library is a database of laboratory spectra submitted by various data providers. It includes spectra from the Reflectance Experiment Laboratory (RELAB) at Brown University as well as XAS and reflectance spectra from the [PDS4 bundles below](https://pds-geosciences.wustl.edu/spectrallibrary/default.htm)... ~> 
+
+![M_R_O pds update](https://pbs.twimg.com/media/GUzSazybUAAaDMh?format=jpg&name=large)
+
+![Sabotage Recovery](https://pbs.twimg.com/media/GUvM1WZaoAI-_hP?format=jpg&name=large)
+
+```
+@Normani
+ #bae...i sent an email 
+@msdevUK we got issues n america i have to verify the account the message is not n drafts or sent @LACountyLibrary i lost work for @NASAJPL @USDOL #LateForWork @GADFCS@ LACo_DPSS @AtlantaFirstUMC to get the story start here https://thakarashard.github.io/ricothaka/dispositionforsherrif
+```
+![Contacting The Mayor](https://pbs.twimg.com/media/GUvMLSdbcAAwpwv?format=jpg&name=large)
+
+### This is my injury report Richard Kelly NASA JPL Mars
+<iframe src="https://archive.org/embed/vid-20240730-093425" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![Ntp](https://pbs.twimg.com/media/GUlEoJTa8AEv1wk?format=jpg&name=large) [Xujiaao Left Us The Global NTP fix in his Gist](https://gist.github.com/xujiaao/) i embedded it on [ThakaRashard.GitHuB.iO](thakarashard.github.io)
+
+![Bundler-update](https://pbs.twimg.com/media/GUkmPTTaYAAwIGP?format=jpg&name=large)
+[BundlerUpdate ScreenShare](https://pbs.twimg.com/media/GUkmfSfa8AAGAeR?format=jpg&name=large)
+
+### GitHub Pages Bundler Upgrade/date at Cahuenga Branch Library Los Angeles
+[Broken Github Commit](https://github.com/ricoThaka/ricothaka.github.io/actions/runs/10311579005/job/28545422112)
+<iframe src="https://archive.org/embed/screen-recording-2024-08-09-2.27.32-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+{% highlight ruby %}
+Resolving dependencies...
+Could not find compatible versions
+
+Because nokogiri = 1.16.2 depends on Ruby >= 3.0.0
+  and nokogiri >= 1.16.2, < 1.16.3 depends on Ruby >= 3.0, < 3.4.dev,
+  nokogiri >= 1.16.2, < 1.16.3 requires Ruby >= 3.0.0.
+So, because nokogiri = 1.16.3 depends on Ruby >= 3.0.0
+  and nokogiri >= 1.16.3, < 1.16.4 depends on Ruby >= 3.0, < 3.4.dev,
+  nokogiri >= 1.16.2, < 1.16.4 requires Ruby >= 3.0.0.
+Error: The process '/opt/hostedtoolcache/Ruby/2.7.8/x64/bin/bundle' failed with exit code 6
+{% endhighlight %}
+
+![RuBy](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/198px-Ruby_logo.svg.png?20101129171534)
+
+['Not just a sugar high': Initial buzz for Harris sets stage for rest of campaign](https://youtu.be/RBZtRlRyvV4?si=dqXowv2EW8Xtk2yh)
+
+
+### WHAT HiView DOES
+HiView is a data explorer and image viewing application supporting the [JPEG2000](https://jpeg.org/jpeg2000/) image format ![HiVeiw](https://www.uahirise.org/hiview/images/main-splash-screen.jpg) HiView is the best way to explore HiRISE images of the Martian surface at the full resolution of the imagery. Tracks of boulders that have fallen down crater walls, delicate rays of ejecta from fresh impact craters, and the unearthly formations created by carbon dioxide ice on the Martian south pole are just a few of the things that are waiting to be discovered by anyone using a tool like HiView with HiRISE imagery. [Video Tutorial](https://youtu.be/y3PCKnACusk?si=U5H8oqIfENLKOCNU)
+![hiview](https://www.uahirise.org/hiview/images/screen-shot.jpg)
+![HiView](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
+
+[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR) 
+[Magic Citys Mr Magic Reveals How He Created ATLs #1 Strip Club Sip N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s)
+[Pimp and Prostitutes Of America: Los Angeles Red Light District | Documentary](https://www.youtube.com/watch?v=EXQjtSO8QoA) [I Never Knew Atlanta, Georgia Was Like This. 🤩- Downtown - Nightlife - 2021 (MUST SEE)](https://youtu.be/uwwyk_MMdKI?si=9q6jQVhQTJ3P8451)
+
+Dear Cnn at what levl are you covering [our work](https://murray-lab.caltech.edu/CTX/) ? 
+![mars rover](https://pbs.twimg.com/media/GTnLas-a8AEU0Da?format=jpg&name=large)
+
+![l](https://pbs.twimg.com/media/GTrTgAeboAAQkX4?format=jpg&name=large)
+
+ [NASA’s Perseverance Rover Scientists Find Intriguing Mars Rock](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-scientists-find-intriguing-mars-rock)
+ 
+![baffled](https://pbs.twimg.com/media/GTC2RwkbwAAWolK?format=jpg&name=large) 
+![signage](https://pbs.twimg.com/media/GTW4G5kbEAAGTPr?format=jpg&name=medium)
+[Los Angeles City Hall, 200 North Spring Street, Los Angeles, Los Angeles County, CA](https://www.loc.gov/item/ca1261/#:~:text=Los%20Angeles%20City%20Hall%2C%20200,County%2C%20CA%20%7C%20Library%20of%20Congress) 
+![Matt](https://pbs.twimg.com/media/GMbrGfqaIAAaJeb?format=jpg&name=large)
+
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
+[McDonalds Ronald McDonald and Mayor McCheese in Space, 1978](https://youtu.be/nmL6pMQMBBk?si=LSk6f74OXwuxsFkq) [Another bill again-Tony Rebel](https://www.youtube.com/watch?v=U9ZLAgyn2-Q) [Astronaut Chick](https://www.youtube.com/watch?v=6kAsPbbp8GI) [Truth Gonna Hurt You](https://youtu.be/WBxjt78PG3s?si=NMtQTDZ7_AZMERGy) <~ late for work ? idk 
+
+[2nd Childhood](https://youtu.be/A5nM66F903I?si=hrqXLu-CYPuteESs) 
+
+### [Erika in Atlanta]
+[Black Girl Lost - Nas #ost](https://youtu.be/ZMAoZrJVQKI?si=C7cWL5UU0rnIABEx)
+Latto at Opium ATL! Southside's CyberTruck, Yung Miami, Ari Pull Up, Birthday Bash After Party!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HPIZ0yF_cEs?si=YZ-82DAgV_1EHC0y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+[Nas - It Ain't Hard to Tell](https://youtu.be/3hOZaTGnHU4?si=8hCAI2YL52OzImn2) [Illegal Business - Boogie Down Productions](https://youtu.be/yHeBotnrwEI?si=d1On7aJKibbpsiBx)[2nd Childhood](https://youtu.be/A5nM66F903I?si=hrqXLu-CYPuteESs) [Black Girl Lost - Nas #ost](https://youtu.be/ZMAoZrJVQKI?si=C7cWL5UU0rnIABEx)
+[Wild Wild West - Kool Moe Dee (willow+jaden `shade`)](https://youtu.be/auhwI00iKWg?si=XuzbjGWAtmM5KbF_) 
+
+---
+
+[Fire Marshall Bill In Space](https://youtu.be/BU7861MufFs?si=ZdpmPKIsr0idXTF1) [Nasa Mars $112k is what Jose Paid me](https://youtu.be/V6wtj04dJ_g?si=Bvgym0T5sRJ0istr)
+
+![bugs](https://pbs.twimg.com/media/GTHOJx_bcAIOjLv?format=jpg&name=large)
+[U.S. Board on Geographic Names](https://www.usgs.gov/us-board-on-geographic-names) The U.S. Board on Geographic Names (BGN) is a Federal body created in 1890 and established in its present form by Public Law in 1947 to maintain uniform geographic name usage throughout the Federal Government. The BGN comprises representatives of Federal agencies concerned with geographic information, population, ecology, and management of public lands.
+
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="ExByXEE" data-pen-title="Accordion Image Gallery" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/ExByXEE">
+  Accordion Image Gallery</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+[fair](https://media.cnn.com/api/v1/images/stellar/prod/e2-pia26367-curiosity-views-fascination-2500px.jpg?q=w_1015,c_fill/f_webp) [Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom/search/site)
+Welcome to the Central Intelligence Agency's Freedom of Information Act Electronic Reading Room. The FOIA Electronic Reading Room is provided as a public service by the Directorate of Digital Innovation's Information Management Services.  It has recently been enhanced and updated, and while many of the updates happened behind the scenes, we'd like to highlight several of the changes. [C.I.A UFO Collection](https://www.cia.gov/readingroom/search/site/?f%5B0%5D=im_field_taxonomy_keyword%3A477) [SECTION IV - TELEPATHIC BEHAVIOR MODIFICATION DST-1810S-387-75](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf)
+
+fair ? [Ashley Strickland](https://www.cnn.com/profiles/ashley-strickland-profile) [Moon cave that could shelter astronauts found beneath the Sea of Tranquility](https://www.cnn.com/2024/07/20/science/moon-cave-science-newsletter-wt/index.html) [Accidentally exposed yellowish-green crystals reveal ‘mind-blowing’ finding on Mars, scientists say](https://www.cnn.com/2024/07/20/science/nasa-curiosity-rover-mars-sulfur-rocks/index.html) [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock) [Curiosity Cracked Open a Rock on Mars And Found a Huge Surprise Space dOt cOm](https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-huge-surprise)[NASA's Curiosity rover accidentally reveals ultra-rare sulfur crystals after crushing a rock on Mars](https://www.livescience.com/space/mars/nasas-curiosity-rover-accidentally-reveals-ultra-rare-sulfur-crystals-after-crushing-a-rock-on-mars) [NASA's Curiosity rover accidentally crushes a Mars rock to discover this rare thing!](https://timesofindia.indiatimes.com/etimes/trending/nasas-curiosity-rover-accidentally-crushes-a-mars-rock-to-discover-this-rare-thing/articleshow/111888014.cms)
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/xbZnL3G8jS">https://t.co/xbZnL3G8jS</a> Video:Tracking <a href="https://twitter.com/hashtag/IllegalFishing?src=hash&amp;ref_src=twsrc%5Etfw">#IllegalFishing</a> &amp; Protecting <a href="https://twitter.com/hashtag/Marine?src=hash&amp;ref_src=twsrc%5Etfw">#Marine</a> <a href="https://twitter.com/hashtag/Ecosystems?src=hash&amp;ref_src=twsrc%5Etfw">#Ecosystems</a> with GIS <a href="https://twitter.com/NASAClimate?ref_src=twsrc%5Etfw">@NASAClimate</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/SenBillNelson?ref_src=twsrc%5Etfw">@SenBillNelson</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/hashtag/informationPolicy?src=hash&amp;ref_src=twsrc%5Etfw">#informationPolicy</a> , <a href="https://twitter.com/Esri?ref_src=twsrc%5Etfw">@Esri</a> say our data is classified <a href="https://t.co/ssf8S4ZJ9t">https://t.co/ssf8S4ZJ9t</a><a href="https://twitter.com/CassiniSaturn?ref_src=twsrc%5Etfw">@CassiniSaturn</a> <a href="https://twitter.com/KarenBassLA?ref_src=twsrc%5Etfw">@KarenBassLA</a> am i violating? <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/9kssynNErs">pic.twitter.com/9kssynNErs</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1801706200339464441?ref_src=twsrc%5Etfw">June 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/Esri?ref_src=twsrc%5Etfw">@Esri</a> <a href="https://twitter.com/hashtag/Porno?src=hash&amp;ref_src=twsrc%5Etfw">#Porno</a> took over los angeles and a lot of <a href="https://twitter.com/hashtag/academia?src=hash&amp;ref_src=twsrc%5Etfw">#academia</a> got shuffled around <a href="https://twitter.com/KaitlinOlson?ref_src=twsrc%5Etfw">@KaitlinOlson</a> <a href="https://twitter.com/VoteKatieOlson?ref_src=twsrc%5Etfw">@VoteKatieOlson</a> im watching a video on <a href="https://twitter.com/EsriBlog?ref_src=twsrc%5Etfw">@EsriBlog</a> an if someone from <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@nasamars</a> <a href="https://twitter.com/MarsCuriosity?ref_src=twsrc%5Etfw">@MarsCuriosity</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> reach out to u tellem know <a href="https://twitter.com/hashtag/RashardWasOnTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#RashardWasOnTwitter</a> 4 <a href="https://twitter.com/hashtag/OnlineDating?src=hash&amp;ref_src=twsrc%5Etfw">#OnlineDating</a> an it did not work out <a href="https://t.co/4NL8sK3b45">pic.twitter.com/4NL8sK3b45</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1801707183937359935?ref_src=twsrc%5Etfw">June 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/DA5DY9kBTZ">https://t.co/DA5DY9kBTZ</a> <a href="https://twitter.com/CENTCOM?ref_src=twsrc%5Etfw">@CENTCOM</a> <a href="https://twitter.com/CodePen?ref_src=twsrc%5Etfw">@codepen</a> i embedded this pen <a href="https://t.co/Ld19s5ld5y">https://t.co/Ld19s5ld5y</a><a href="https://t.co/5FwcPDapc7">https://t.co/5FwcPDapc7</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/Jeezy?ref_src=twsrc%5Etfw">@jeezy</a> impostor was in <a href="https://twitter.com/LBCityLibrary?ref_src=twsrc%5Etfw">@LBCityLibrary</a> get control of those ppl <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> they broke my work blog <a href="https://twitter.com/hashtag/nbafinals?src=hash&amp;ref_src=twsrc%5Etfw">#nbafinals</a> <a href="https://twitter.com/NBCSCeltics?ref_src=twsrc%5Etfw">@NBCSCeltics</a> <a href="https://twitter.com/nuggets?ref_src=twsrc%5Etfw">@nuggets</a> who all fukked <a href="https://twitter.com/dreamdoll?ref_src=twsrc%5Etfw">@dreamdoll</a> ? <a href="https://t.co/O7kCdQki1K">pic.twitter.com/O7kCdQki1K</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1801724511710269914?ref_src=twsrc%5Etfw">June 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Rashards Mental Health](https://archive.org/details/@thakaserika_selassie_kelly) please look at these screenshares if you are concenered with how i use a computer archive.org Member [Thaka aka Rashard](https://archive.org/details/@thakaserika_selassie_kelly) 
+[Mission Control](https://www.jpl.nasa.gov/news/explore-nasas-jet-propulsion-laboratory-with-the-new-virtual-tour) [RepKAren](https://www.politico.com/news/2024/04/16/karen-bass-state-of-the-city-00152431) [Jamie and Robin of Nasa Mars](https://science.nasa.gov/mars/) [Normani of thatheifer aint takin care of that man east atlanta fame](https://www.usmagazine.com/entertainment/news/normani-reveals-accident-behind-canceled-bet-awards-performance/)
 
+Below is the place i was going on Linden an 3rd in LongBeach i just stopped going because my book/sleeping bag cart got vandalized an ppl steal while im eating. But they were managing a rough crowd from out east. Im at peace. They likely know Erikas Family, she had an aunt named Doris and another named Teresa that lived in Longbeach. Her Paternal family is from PAsadena pre yuppie colonization and got pushed out to sanbernadino after a patriarch died. What is homeless i just need to sleep and i would like to see the baby i spent my savings to make. What is housig ? In my situation. Erika is still missing! 
+
+
+![Christian OutReach Longbeach](https://pbs.twimg.com/profile_banners/1133901253446995968/1708980319/1500x500)
+[Christian Outreach in Action (COA)](https://linktr.ee/christianoutreachinaction) is a [501(c)(3) #nonprofit #organization](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations) dedicated to helping needy families and individuals in our community. 
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+              <img src="https://pbs.twimg.com/media/GNKLazeaAAIonNH?format=jpg&name=large" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+              <img src="https://pbs.twimg.com/media/GNKLazga0AErklB?format=jpg&name=large" alt="Girl in a jacket" >
+      
+   </div>
+  </div>    
+ </div>
+</div>
+
+
+[Sheriff Statement](https://ricothaka.github.io/dispositionforsherrif)
+[Sheriff Statement](https://thakarashard.github.io/dispositionforsherrif)
+
+
+![CssFloatAuto](https://pbs.twimg.com/media/GS8ok0FaQAAkmOy?format=jpg&name=large) [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/) by [David Sawyer McFarland](https://www.oreilly.com/search/?q=author%3A%22David%20Sawyer%20McFarland%22&type=*&rows=10) @sawmac thanks 
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##########07/14/2024##########
+2 [@sawmac](https://github.com/sawmac) I checked your book out from [EastLosAngeles](https://x.com/eastlalibrary?lang=en) and have been doing probono work for some girls i got involved with while i was working at rentpath. Erika the one i brought to Park and Roll might be Vanessa Williams daughter, she put me out an her sister stole my cellphone after 20 years of marriage... I want to marry Nakeisha and help her deal with her baggage i work at NAsaJPL its like we worked the working thing out and it was just getting paid what do patrick think of me harassing Anderson Cooper @parkr
+
+img:nth-child(odd) {
+  float: right;
+}
+img:nth-child(even) {
+float: left;
+}
+
+
+3 # ANOTHER###############################################
+4 # UNiVERSE#####################iloveyounormani######
+{% endhighlight %}
+
+
+[GOES Satellite Network](https://science.nasa.gov/mission/goes/)
+![GOES](https://science.nasa.gov/wp-content/uploads/2023/07/goes-r-padded-withearthreflectioninsolarpanel-.webp?w=4096&format=png)
+Geostationary Operational Environmental Satellites (GOES) is a collaborative NOAA and NASA program providing continuous imagery and data on atmospheric conditions and solar activity ( space weather ). NASA builds and launches the GOES and NOAA operates them.Geostationary Operational Environmental Satellites (GOES) is a collaborative NOAA and NASA program providing continuous imagery and data on atmospheric conditions and solar activity ( space weather ). NASA builds and launches the GOES and NOAA operates them. [GOES Image Viewer](https://www.star.nesdis.noaa.gov/goes/index.php)
+
+### Dear Rep Karen,
+I was in the Meyer goldwyn branc and found these pages in the County Municipal ... Of your powers [RelatedTweet](https://x.com/BubbleGumPop510/status/1759007658462548349)
+
+
+[MuniCode.Com](https://library.municode.com/ca/los_angeles_county/codes/code_of_ordinances?nodeId=TIT3ADCOCO_CH3.10CISECO_3.10.020EVCHCISECO) has something like that binder but im having trouble finding the origional files. these site tyhat have [deepweb]() documents are so scketchy but ppl using them in patrol cars and in the courtroom and im afraid
+
+![Mayor is Chief Executive](https://pbs.twimg.com/media/GGk_-sAbEAAzy6b?format=png&name=900x900)
+![Mayoral Duties](https://pbs.twimg.com/media/GGlAAJXacAAKuq7?format=jpg&name=medium)
+![mayor](https://pbs.twimg.com/media/GGk_9YfbcAAfHg_?format=jpg&name=medium)
+
+
+
+
+
+
+
+
+
+# Main heading
+## Subheading
+### Sub-subheading
+#### sub-sub-subheading
+##### sub-sub-sub-subheading
+###### sub-sub-sub-sub-subheading
+
+
+twitter status `You are over the daily limit for sending posts.` https://x.com/RicoThaka [i always feel like - TRU](https://youtu.be/8zr-v8RWQ1U?si=8kgARcG2KJCHFZgt) [FEDz](https://youtu.be/gQMDTjdq8yw?si=deW05FjMcBNV6-YD) [The Ghettos Trying To KiLL Me](https://youtu.be/GjOQu-ujz9M?si=FQz0W6Xci1R3t6ZW)
+
+![security](https://pbs.twimg.com/media/GGQkcvAa4AAMadc?format=png&name=small)
+
+![cv](https://pbs.twimg.com/media/GGevoZ5bYAA2hHL?format=jpg&name=medium)
+![bullying](https://pbs.twimg.com/media/GGAeK_kakAAJ9UQ?format=jpg&name=large)
+[VSCO LOS ANGELES COViD19 PHOTOS](https://vsco.co/rashardsartu/gallery)
+![Santa Monica](https://pbs.twimg.com/media/GGlEm4TaUAAba7e?format=png&name=900x900)
+![Manessa](https://pbs.twimg.com/media/GILypkTaUAAdm6c?format=jpg&name=medium)
+![nasa](https://pbs.twimg.com/media/GG00UnjboAEi1vg?format=png&name=small)
+[![FloMilli Rashard Kelly](https://pbs.twimg.com/media/GHDn_XsbIAApHq5?format=jpg&name=medium)](https://ricothaka.github.io/cv/ "Redirect to homepage")
+![Parking Lot](https://pbs.twimg.com/media/GSK5YsuaEAAGOzM?format=jpg&name=medium)
+![warmachine](https://pbs.twimg.com/media/GGpq-CObgAAaYsX?format=jpg&name=large) 
+![Mariner](https://pbs.twimg.com/media/GHM3K5IaAAAu-Hl?format=jpg&name=4096x4096)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F41Y37XTZck?si=HxVuU6Jfb8BxT_AT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![HiRISE](https://pbs.twimg.com/media/GHY6KfDaoAAnDaG?format=jpg&name=large)
+
+![Saturn](https://photojournal.jpl.nasa.gov/jpegMod/PIA07772_modest.jpg)
+Few sights in the solar system are more strikingly beautiful than softly hued Saturn embraced by the shadows of its stately rings.
+
+The gas planet's subtle northward gradation from gold to azure is a striking visual effect that scientists don't fully understand. Current thinking says that it may be related to seasonal influences, tied to the cold temperatures in the northern (winter) hemisphere. Despite Cassini's revelations, Saturn remains a world of mystery.[Nasa Photo Journal](https://photojournal.jpl.nasa.gov/catalog/PIA07772)
+
+# Dear_Metro
+I had a conversation with a passenger visiting an observatory. [NASAJPL](https://www.jpl.nasa.gov/missions/psyche) that was rashard, i forgot were they were heading but he recognized me!
+
+Is this a part of my job ? [ImageAclibration](https://solarsystem.nasa.gov/images/casJPGBrowseS86/N00231855.jpg)
+```
+The camera was pointing toward LOGE, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System.
+```
+
+[YouTube Player Demo iframe player api](https://developers.google.com/youtube/youtube_player_demo)
+[Using CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting)
 ![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
 [Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
-{% include_relative civic.md %}
+
 
 [SVG Editor](https://yqnn.github.io/svg-path-editor/)
 ![TWitterLogo](https://upload.wikimedia.org/wikipedia/fr/0/08/Twitter_logo_2010.svg)
 [ManiackErs Design](https://www.flickr.com/photos/mksd/)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/8Zt5VWhumn">https://t.co/8Zt5VWhumn</a> <a href="https://twitter.com/LACity?ref_src=twsrc%5Etfw">@lacity</a> <a href="https://twitter.com/LACountyRRCC?ref_src=twsrc%5Etfw">@LACountyRRCC</a> <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a>/ <a href="https://twitter.com/MayorOfLA?ref_src=twsrc%5Etfw">@MayorOfLA</a> <br>my work notes page i have to keep updated for <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> my family is in pornography, this is not fair <a href="https://twitter.com/hashtag/SammyDavisJr?src=hash&amp;ref_src=twsrc%5Etfw">#SammyDavisJr</a> <a href="https://twitter.com/hashtag/JamesBaldwin?src=hash&amp;ref_src=twsrc%5Etfw">#JamesBaldwin</a> <a href="https://twitter.com/Playboy?ref_src=twsrc%5Etfw">@playboy</a> when do it stop <a href="https://twitter.com/hashtag/uncletoms?src=hash&amp;ref_src=twsrc%5Etfw">#uncletoms</a> ? <a href="https://t.co/VdcvFnQDzb">https://t.co/VdcvFnQDzb</a> <a href="https://t.co/3eBGEBy5dN">pic.twitter.com/3eBGEBy5dN</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1801768215401611563?ref_src=twsrc%5Etfw">June 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![Mars_Pathfinder](https://burodestruct.net/1997/mars/gfx/snowmars3.gif)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/HQxmVuaUKe">https://t.co/HQxmVuaUKe</a> <a href="https://twitter.com/GISPublicSafety?ref_src=twsrc%5Etfw">@GISPublicSafety</a> <a href="https://twitter.com/EsriBlog?ref_src=twsrc%5Etfw">@EsriBlog</a> r u my enemy? i wanna learn more, i have been doing some mapping for <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> &amp; <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a>* im in <a href="https://twitter.com/hashtag/LA?src=hash&amp;ref_src=twsrc%5Etfw">#LA</a> u may know me from <a href="https://twitter.com/GeorgiaPacific?ref_src=twsrc%5Etfw">@GeorgiaPacific</a> <a href="https://twitter.com/hashtag/KochEra?src=hash&amp;ref_src=twsrc%5Etfw">#KochEra</a> <a href="https://twitter.com/hashtag/Clariion?src=hash&amp;ref_src=twsrc%5Etfw">#Clariion</a> <a href="https://t.co/i5NIhBWK9g">https://t.co/i5NIhBWK9g</a> <a href="https://t.co/cNfEjmAw4f">https://t.co/cNfEjmAw4f</a> <a href="https://twitter.com/hashtag/SAN?src=hash&amp;ref_src=twsrc%5Etfw">#SAN</a> <a href="https://twitter.com/Dell_Edge?ref_src=twsrc%5Etfw">@Dell_Edge</a> <a href="https://t.co/aOeAyhZX5R">pic.twitter.com/aOeAyhZX5R</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1801700213960360354?ref_src=twsrc%5Etfw">June 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
+
+The Bruce Murray Laboratory for Planetary Visualization has completed a 5.7 terapixel mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+
+We emphasize transparency both in how the mosaic was generated and for users to understand where data in the mosaic come from. We have developed a Python-based pipeline that incorporates non-destructive image processing techniques that preserve all information about the original data that comprise the mosaic and map all seams.. [LearnMore](https://murray-lab.caltech.edu/CTX/index.html)
+![MarsSpaceFlight](https://mars.asu.edu/img/msff-logo.png)
+[Mars:SpaceFlightFacility](https://mars.asu.edu/) [Themis Mars Imageviewer](https://viewer.mars.asu.edu/viewer/themis#T=0) [Themis MArs Odyssey](https://global-data.mars.asu.edu/bin/themis.pl?res=32&clat=-51.956467&clon=34.130493&ids=I18584006&day_night=2&rel=0)
+
+### [Thermal Emission Imaging System](https://en.wikipedia.org/wiki/Thermal_Emission_Imaging_System)
+![THEMiS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tesvsthemis-med.jpg/1024px-Tesvsthemis-med.jpg)
+[The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
+
+[![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
+[![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
+[![MurrayLabs](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large)](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large "Redirect to homepage")
+[![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg)](https://science.nasa.gov/wp-content/uploads/2024/03/mars-dust-storms-global-pia03170.jpg "Redirect to homepage")
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
 
 ![a+](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/a-certification-logo-comptia-a-1636574.png)
 [Street Fighter II' Turbo - Hyper Fighting (street fighter 2' T 921209 Japan)](retrogames.cc/arcade-games/street-fighter-ii-turbo-hyper-fighting-street-fighter-2-t-921209-japan.html) [SaveState](ricothaka.github.io/sf2hfj.save)
 [ Source Code Viewer](https://iplocation.io/view-html-source-code)
 # Good Afternoon Cafeteria 
 im working on a little something cool. Its like that wrist watch flavor on any screen! I think i can make the tweets tile like tumblrs often do with [CSS3 Multi-Column Layout](https://dev.opera.com/articles/css3-multi-column-layout/) ! If thats not the case its still really usable for newspaper style layout for that type of reading ! [csstricksarticle](https://css-tricks.com/techniques-for-a-newspaper-layout-with-css-grid-and-border-lines-between-elements/) 
- <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="bGyYMYN" data-pen-title="Untitled" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/bGyYMYN">
-  Untitled</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 
 [https://www.svgviewer.dev/](https://www.svgviewer.dev/) [How to add border/outline/stroke to SVG elements in CSS?](https://stackoverflow.com/questions/18330344/how-to-add-border-outline-stroke-to-svg-elements-in-css)
 ## W3C's Editor
@@ -51,6 +273,7 @@ The git fetch command downloads commits, files, and refs from a remote repositor
 [Git remote](https://www.atlassian.com/git/tutorials/syncing) [Git CheatSheet](file:///C:/Users/pac/Downloads/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 ![today](https://pbs.twimg.com/media/GP1lEqSboAA8lhy?format=jpg&name=large)
 [Mars Global Surveyor: 7 Years in Orbit!](https://www.msss.com/mars_images/moc/2004/09/12/)
+
 ## M_R_O CheckiN
 ### Dear_Robin_Obrien
 You told me to study the weather on mars ... [The Last Report](https://www.msss.com/science-images/mars-valentine-2024.php) has no weather updates, whas that your baby ? Im concenred bc it was a really big deal at the time... Maybe it moved? idk but listen Erika is at Harolds Chicken sometimes. She won a grammy for a [nasty song](https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png) you can play it here [Latto - Big Energy (Official Lyric Video)](https://www.youtube.com/watch?v=IpHPBIdrak4) but youtube dont like me so my [lightbox](https://jekyllcodex.org/without-plugin/lightbox/) might not work <a href="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png"> <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png" style="width:250px;height:250px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
@@ -65,14 +288,7 @@ You told me to study the weather on mars ... [The Last Report](https://www.msss.
   and watch it with your favorite video player!
 </video>
 
-<video controls 
-  src="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4"
-  poster="http://www.msss.com/msss_images/icons/mars_map1.jpg">
 
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
 
 
 ## The scientific eyes of NASA’s Perseverance rover
@@ -84,6 +300,14 @@ This image was taken by Mars Descent Imager (MARDI) onboard NASA's Mars rover Cu
 ### MARS RECONNAISSANCE ORBITER (MRO) MARS COLOR IMAGER (MARCI)
 ![MarO](https://www.msss.com/images/science/MARCI140_cb.jpg)
 
+<video controls 
+  src="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4"
+  poster="http://www.msss.com/msss_images/icons/mars_map1.jpg">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 ### [What is CERES?](https://ceres.larc.nasa.gov/)
 Climate is controlled by the amount of sunlight absorbed by Earth and the amount of infrared energy emitted to space. These quantities–together with their difference–define Earth’s radiation budget (ERB). [Get_Environment_Data](https://ceres.larc.nasa.gov/data/)
@@ -94,11 +318,6 @@ Climate is controlled by the amount of sunlight absorbed by Earth and the amount
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"># <a href="https://twitter.com/MayorOfLA?ref_src=twsrc%5Etfw">@MayorOfLA</a> i thik <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/hashtag/NeoNazi?src=hash&amp;ref_src=twsrc%5Etfw">#NeoNazi</a> boyfriend <a href="https://twitter.com/AllCityMurals?ref_src=twsrc%5Etfw">@AllCityMurals</a> <a href="https://twitter.com/hashtag/MATT?src=hash&amp;ref_src=twsrc%5Etfw">#MATT</a> <a href="https://twitter.com/hashtag/LETRS?src=hash&amp;ref_src=twsrc%5Etfw">#LETRS</a> <a href="https://twitter.com/BombingScience?ref_src=twsrc%5Etfw">@BombingScience</a> took this photo! i was normal black person like <a href="https://twitter.com/hashtag/TheFreemanBrothers?src=hash&amp;ref_src=twsrc%5Etfw">#TheFreemanBrothers</a> on the boondoks <a href="https://twitter.com/kcrw?ref_src=twsrc%5Etfw">@kcrw</a> <a href="https://twitter.com/mbeKCRW?ref_src=twsrc%5Etfw">@mbeKCRW</a> <a href="https://twitter.com/nprpolitics?ref_src=twsrc%5Etfw">@nprpolitics</a> <a href="https://twitter.com/nprmusic?ref_src=twsrc%5Etfw">@nprmusic</a> the kids was getting humiliated in graff so i gave them pointers <a href="https://twitter.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> <a href="https://t.co/04qk0r4cRc">pic.twitter.com/04qk0r4cRc</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1718385330523664452?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## About Georgia 
-![Art](https://pbs.twimg.com/media/F9jt_g3akAAfNO3?format=jpg&name=large)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"># <a href="https://twitter.com/MayorOfLA?ref_src=twsrc%5Etfw">@MayorOfLA</a> i thik <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/hashtag/NeoNazi?src=hash&amp;ref_src=twsrc%5Etfw">#NeoNazi</a> boyfriend <a href="https://twitter.com/AllCityMurals?ref_src=twsrc%5Etfw">@AllCityMurals</a> <a href="https://twitter.com/hashtag/MATT?src=hash&amp;ref_src=twsrc%5Etfw">#MATT</a> <a href="https://twitter.com/hashtag/LETRS?src=hash&amp;ref_src=twsrc%5Etfw">#LETRS</a> <a href="https://twitter.com/BombingScience?ref_src=twsrc%5Etfw">@BombingScience</a> took this photo! i was normal black person like <a href="https://twitter.com/hashtag/TheFreemanBrothers?src=hash&amp;ref_src=twsrc%5Etfw">#TheFreemanBrothers</a> on the boondoks <a href="https://twitter.com/kcrw?ref_src=twsrc%5Etfw">@kcrw</a> <a href="https://twitter.com/mbeKCRW?ref_src=twsrc%5Etfw">@mbeKCRW</a> <a href="https://twitter.com/nprpolitics?ref_src=twsrc%5Etfw">@nprpolitics</a> <a href="https://twitter.com/nprmusic?ref_src=twsrc%5Etfw">@nprmusic</a> the kids was getting humiliated in graff so i gave them pointers <a href="https://twitter.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> <a href="https://t.co/04qk0r4cRc">pic.twitter.com/04qk0r4cRc</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1718385330523664452?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flex-wrap) by [Chris Coyier](https://css-tricks.com/author/chriscoyier/)
 ![Flex-wrap](https://css-tricks.com/wp-content/uploads/2018/10/flex-wrap.svg)
@@ -114,7 +333,6 @@ By default, flex items will all try to fit onto one line. You can change that an
   flex-wrap demp @css-tricks im following from your article</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 # Climate tool 4L8tR
 ![NEO](https://neo.gsfc.nasa.gov/about/globes_banner.jpg)
@@ -124,7 +342,6 @@ By default, flex items will all try to fit onto one line. You can change that an
 
 <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%2312bad0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
- <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> &#39; <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/hashtag/cafeteria?src=hash&amp;ref_src=twsrc%5Etfw">#cafeteria</a> <a href="https://twitter.com/LACountyLibrary?ref_src=twsrc%5Etfw">@LACountyLibrary</a> <a href="https://twitter.com/LASDHQ?ref_src=twsrc%5Etfw">@LASDHQ</a> <a href="https://twitter.com/hashtag/EastLosAngeles?src=hash&amp;ref_src=twsrc%5Etfw">#EastLosAngeles</a> this happened <a href="https://twitter.com/laplcentral?ref_src=twsrc%5Etfw">@laplcentral</a> <a href="https://twitter.com/CENTCOM?ref_src=twsrc%5Etfw">@CENTCOM</a> <a href="https://twitter.com/hashtag/LocalNews?src=hash&amp;ref_src=twsrc%5Etfw">#LocalNews</a> <a href="https://twitter.com/hashtag/NEW%E5%8D%88%E5%BE%8C%E3%83%86%E3%82%A3%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#NEW午後ティー</a> <a href="https://twitter.com/hashtag/MondayMemories?src=hash&amp;ref_src=twsrc%5Etfw">#MondayMemories</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/girlsinrap?ref_src=twsrc%5Etfw">@girlsinrap</a> is <a href="https://twitter.com/hashtag/Cardi?src=hash&amp;ref_src=twsrc%5Etfw">#Cardi</a> on <a href="https://twitter.com/hashtag/Figuroa?src=hash&amp;ref_src=twsrc%5Etfw">#Figuroa</a> ? how about <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> ? <a href="https://twitter.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a> <a href="https://twitter.com/hashtag/DTLA?src=hash&amp;ref_src=twsrc%5Etfw">#DTLA</a> <a href="https://twitter.com/hashtag/Hollywood?src=hash&amp;ref_src=twsrc%5Etfw">#Hollywood</a> <a href="https://twitter.com/OnlyFans?ref_src=twsrc%5Etfw">@onlyfans</a> <a href="https://twitter.com/janikalashae?ref_src=twsrc%5Etfw">@janikalashae</a> <a href="https://t.co/GSmDjHOSqY">pic.twitter.com/GSmDjHOSqY</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1800257968799461652?ref_src=twsrc%5Etfw">June 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # [Mars Odyssey](https://www.jpl.nasa.gov/missions/mars-odyssey)
 NASA’s 2001 Mars Odyssey mission created the first global map of chemical elements and minerals that make up the Martian surface.
@@ -137,7 +354,7 @@ Martian surface frost, made up largely of carbon dioxide, appears blueish-white 
 
 ## Game - [Mars_Odessy](https://store.playstation.com/en-us/concept/233712)
 
-{% include_relative marsmedia.md %}
+
 # IT_CERTS
 [![Microsoft Certification](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096)](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096 "Redirect to homepage")
 
@@ -210,8 +427,6 @@ An Atlanta-based company specializing in subprime credit cards and auto loans ha
   </div>
 </div>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@nasamars</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@essence</a> <a href="https://twitter.com/TanyaAChristian?ref_src=twsrc%5Etfw">@TanyaAChristian</a> <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/KingJames?ref_src=twsrc%5Etfw">@kingjames</a> im her <a href="https://twitter.com/hashtag/Dance?src=hash&amp;ref_src=twsrc%5Etfw">#Dance</a> and <a href="https://twitter.com/hashtag/Yoga?src=hash&amp;ref_src=twsrc%5Etfw">#Yoga</a> <a href="https://twitter.com/hashtag/Student?src=hash&amp;ref_src=twsrc%5Etfw">#Student</a> sometimes pal she is in one of those <a href="https://twitter.com/hashtag/HollywoodMasks?src=hash&amp;ref_src=twsrc%5Etfw">#HollywoodMasks</a> like <a href="https://twitter.com/iamcardib?ref_src=twsrc%5Etfw">@iamcardib</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@gadfcs</a> is her being with <a href="https://twitter.com/hashtag/Lebron?src=hash&amp;ref_src=twsrc%5Etfw">#Lebron</a> <a href="https://twitter.com/NBA?ref_src=twsrc%5Etfw">@nba</a> y im <a href="https://twitter.com/hashtag/bullied?src=hash&amp;ref_src=twsrc%5Etfw">#bullied</a> ? <a href="https://twitter.com/Lakers?ref_src=twsrc%5Etfw">@Lakers</a> <a href="https://twitter.com/LACo_DPSS?ref_src=twsrc%5Etfw">@LACo_DPSS</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> <a href="https://t.co/o6fh6c67kI">https://t.co/o6fh6c67kI</a> <a href="https://t.co/QPpjPlicop">pic.twitter.com/QPpjPlicop</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1799498986967232970?ref_src=twsrc%5Etfw">June 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/cVDHHvvuIg">https://t.co/cVDHHvvuIg</a> <a href="https://twitter.com/MsNormani?ref_src=twsrc%5Etfw">@msnormani</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> <a href="https://twitter.com/hashtag/Lebron?src=hash&amp;ref_src=twsrc%5Etfw">#Lebron</a> understand iWas@ her studio <a href="https://twitter.com/hashtag/EverySaturday?src=hash&amp;ref_src=twsrc%5Etfw">#EverySaturday</a> she is still a <a href="https://twitter.com/hashtag/SharedWoman?src=hash&amp;ref_src=twsrc%5Etfw">#SharedWoman</a> plz dont hurt me, when you guys bully me you look like matt // <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@Essence</a> <a href="https://twitter.com/brooklynrwhite?ref_src=twsrc%5Etfw">@brooklynrwhite</a> <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> She a <a href="https://twitter.com/hashtag/cheerleader?src=hash&amp;ref_src=twsrc%5Etfw">#cheerleader</a> an that shit sticky😢 <a href="https://t.co/TRwSCxG1k4">pic.twitter.com/TRwSCxG1k4</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1799494986914046284?ref_src=twsrc%5Etfw">June 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
@@ -247,6 +462,7 @@ The Bruce Murray Laboratory for Planetary Visualization has completed a 5.7 tera
 We emphasize transparency both in how the mosaic was generated and for users to understand where data in the mosaic come from. We have developed a Python-based pipeline that incorporates non-destructive image processing techniques that preserve all information about the original data that comprise the mosaic and map all seams.. [LearnMore](https://murray-lab.caltech.edu/CTX/index.html)
 
 ## [Perseverance Rover's Descent and Touchdown on Mars](https://svs.gsfc.nasa.gov/31250) 
+
 ### [Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
 
 >NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
@@ -271,7 +487,7 @@ Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbi
 ### Odyssey’s THEMIS Views the Horizon of Mars
 [![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png)](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png "Redirect to homepage")
 
- <video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1739.gif?w=768&format=webp">
+<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1739.gif?w=768&format=webp">
     
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6190_PIA26203_FigA.m4v" type="video/mp4" />
          Download the
@@ -351,7 +567,6 @@ The National Science Foundation (U.S.) sponsors meteorite-collecting expeditions
 [Read_Document_Here](https://www.lpi.usra.edu/lpi/meteorites/life.html)
 
 [REDDiT Linux users, what's your favourite bash prompt?](https://www.reddit.com/r/linux/comments/1z33lj/linux_users_whats_your_favourite_bash_prompt/)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/lN5NaRvIhX">https://t.co/lN5NaRvIhX</a> <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@NASAMars</a> <a href="https://twitter.com/hashtag/Robin?src=hash&amp;ref_src=twsrc%5Etfw">#Robin</a> <a href="https://twitter.com/hashtag/re?src=hash&amp;ref_src=twsrc%5Etfw">#re</a> <a href="https://twitter.com/hashtag/meteorology?src=hash&amp;ref_src=twsrc%5Etfw">#meteorology</a> thats <a href="https://twitter.com/hashtag/PathFinder?src=hash&amp;ref_src=twsrc%5Etfw">#PathFinder</a> <a href="https://twitter.com/hashtag/Viking?src=hash&amp;ref_src=twsrc%5Etfw">#Viking</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> can u team with <a href="https://twitter.com/OReillyMedia?ref_src=twsrc%5Etfw">@OReillyMedia</a> to stock <a href="https://twitter.com/LACountyLibrary?ref_src=twsrc%5Etfw">@LACountyLibrary</a> and <a href="https://twitter.com/LAPublicLibrary?ref_src=twsrc%5Etfw">@LAPublicLibrary</a> <a href="https://twitter.com/SMPublicLibrary?ref_src=twsrc%5Etfw">@SMPublicLibrary</a> and <a href="https://twitter.com/LBCityLibrary?ref_src=twsrc%5Etfw">@LBCityLibrary</a> i never want to stop l3arning! <a href="https://twitter.com/hashtag/astronomy?src=hash&amp;ref_src=twsrc%5Etfw">#astronomy</a> <a href="https://twitter.com/hashtag/blackexcellence?src=hash&amp;ref_src=twsrc%5Etfw">#blackexcellence</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/vzxLWcqIMa">pic.twitter.com/vzxLWcqIMa</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1777401550077374969?ref_src=twsrc%5Etfw">April 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Family Status
 ![FamilyLife](https://pbs.twimg.com/media/GO7qRggbEAMhCEp?format=jpg&name=large)
@@ -360,6 +575,8 @@ The National Science Foundation (U.S.) sponsors meteorite-collecting expeditions
 https://x.com/MooNLOVER404/status/1798491342202626461
 https://x.com/MooNLOVER404/status/1796629849072861473
 ```
+
+### <a id="Mori">It Involves Mori</a> 
 ### [Dear_Jamie](https://science.nasa.gov/mars/)
 While i was in atlanta A childhood sweetheart walked backinto my life. She did not tell me she was a sex slave. Alot of what I hear in the [Immigration Reform](https://www.americanimmigrationcouncil.org/topics/immigration-reform) headlines and [topics](https://www.congress.gov/bill/99th-congress/senate-bill/1200) (S.1200 - Immigration Reform and Control Act of 1986) would protect her from being sold on the street. But im wondering about how I can stay safe. Theres about 7 women all my age possibly 9 bc they have disquses like [Sartu](https://x.com/sartuadem) is also [Normani The Popstar](https://people.com/normani-calls-boyfriend-dk-metcalf-an-answered-prayer-8658837) so Get this! Erika has a deep history in East Los Angeles. I found a documenary on [Vicky's Town Chronicles](https://www.youtube.com/@VickysTownChronicles) called [Gangster Girls 1999 East LA](https://youtu.be/CIRxStt5jqI?si=SYGl2AUtd1DIZxzx) so she hid that from me, she was stalking me on [OkayPlayer](https://www.okayplayer.com/new-summer-albums-june) and [12ozProphet](https://forum.12ozprophet.com/forum/6-brick-slayers/) and those were not secret but segmented lives when I was a JehovahsWitness! So The confusion i have is that [Prostitution is illegal here!](https://www.keglawyers.com/prostitution-and-solicitation-penal-code-647b#:~:text=California%20Penal%20Code%20647). I never told you but a big part of the black community dont like me working here... I have been tortured and sabotaged eversince month 2 of my employment post [Mori Associates](https://moriassociates.com/) [Mori on Linkedin](https://www.linkedin.com/company/mori-associates) and when [Jose Pi](https://community.pmi.org/profile/josempi#_=_) <a href="https://static.projectmanagement.com/images/profile-photos/46666245_120718014114_p.jpg"><img src="https://static.projectmanagement.com/images/profile-photos/46666245_120718014114_p.jpg" style="width:180px;height:252px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a> told me i could not come back, i was coming in later than 8am bc i was troubleshooting [AirQuality](https://eospso.nasa.gov/earth-observer-archive) which is normal when your wife is having seizurs and your 3 year old is waking up in pools of blood!~ like it was serious! So now i understand that for the Pornography mob to take a family they havce to disable the breadwinner. Erika suggested we live outside, but that was a set up to dump me and i held on to the child as long as possible taking remote, devops and any position that would get me to the next meal with the kid and whatever i needed to keep her mother from running out in front of a car (YuppieSex). So The brown girl in the photo looks like #Muna_Ahmed from atlanta it could be Normani but we had a serious sexual relationship in georgia and she wanted to grow with a stable partner. And Coral was not a blacck Eye for a relationship bc She was happy and had dreadlocks the brown girls were from Africa so they loved me as a father and wanted to have a baby and We just continue. Then Muna died and Normani stepped in as Sartu at Muna funeral. I ended up back in California after someone saw Normani or Muna leave my East Atlanta Cottage (631 moreland ave) my life fell apart. Dwayne_Gooden of IonicSecurity and [USMC](https://www.marines.mil/) Started bullying me and saying Ethiopian girls are hard to get. He brought me in his office to talk about nightlife an i was questioned on "fuckinBitchiz" its a foriegn concept bc those prostitutes aka groupies are like stage children in regular population and being a JehovahsWitness stage child im a quick go to after they done murdered some pimp or something! And I want a peacful life. The guys that buy them for sex often molest children or turn a blind eye to it, so what do I do? i never bought anyone for sex or raped or even took advantage of anyone, maybe erika a little bit bc deepdown i knew we were just friends... But about the amout of women, they always comhome after they get a free break [MagicCity](https://www.magiccity.com/) dont talk about what they do to local men to perform... its dark, i want to work and earn money please help me
 [List Of StripCluB](https://en.wikipedia.org/wiki/List_of_strip_clubs)
@@ -401,8 +618,6 @@ Producer: Mathematics
 ![CareerGrowth](https://pbs.twimg.com/media/GPQnXGiboAA21pe?format=jpg&name=large)
 ![Sec2intheNew](https://pbs.twimg.com/media/GPP663haYAE0u8_?format=jpg&name=large)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/26Y4xQUiqJ">https://t.co/26Y4xQUiqJ</a> <a href="https://twitter.com/hashtag/DigitalBroadcast?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalBroadcast</a> <a href="https://twitter.com/hashtag/SystemsSupportEngineer?src=hash&amp;ref_src=twsrc%5Etfw">#SystemsSupportEngineer</a> <a href="https://twitter.com/hashtag/PartTime?src=hash&amp;ref_src=twsrc%5Etfw">#PartTime</a> ? ? ?<a href="https://twitter.com/josempi?ref_src=twsrc%5Etfw">@josempi</a> r u really <a href="https://twitter.com/USNavy?ref_src=twsrc%5Etfw">@USNavy</a> ? do u have authority over my <a href="https://twitter.com/hashtag/assignment?src=hash&amp;ref_src=twsrc%5Etfw">#assignment</a> since <a href="https://twitter.com/SSS_gov?ref_src=twsrc%5Etfw">@SSS_gov</a> has my <a href="https://twitter.com/hashtag/DraftAgreement?src=hash&amp;ref_src=twsrc%5Etfw">#DraftAgreement</a>??<a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/hashtag/SocialMediaManager?src=hash&amp;ref_src=twsrc%5Etfw">#SocialMediaManager</a> i dont want a job that break my <a href="https://twitter.com/hashtag/HoneyDoPromises?src=hash&amp;ref_src=twsrc%5Etfw">#HoneyDoPromises</a> <a href="https://twitter.com/hashtag/imLooking?src=hash&amp;ref_src=twsrc%5Etfw">#imLooking</a> <a href="https://t.co/HEaz5tWwaR">pic.twitter.com/HEaz5tWwaR</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1798103082838180120?ref_src=twsrc%5Etfw">June 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DigitalBroadcast?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalBroadcast</a> Systems Support Engineer<br>$68k-$101k<a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasaJPL</a> is an <a href="https://twitter.com/hashtag/EqualOpportunityEmployer?src=hash&amp;ref_src=twsrc%5Etfw">#EqualOpportunityEmployer</a>. <a href="https://t.co/e8YX53Rxnl">https://t.co/e8YX53Rxnl</a> its my job 2share things wit u <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@NASAMars</a> understand <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> things r always movin <a href="https://twitter.com/MarsCuriosity?ref_src=twsrc%5Etfw">@MarsCuriosity</a> can die so i want to spread myself out <a href="https://t.co/AItxCDGKqQ">https://t.co/AItxCDGKqQ</a> <a href="https://t.co/vgttcpDszx">pic.twitter.com/vgttcpDszx</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1798105852630765999?ref_src=twsrc%5Etfw">June 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 [cv]({{ site.baseurl }}/cv)
@@ -528,30 +743,7 @@ NASA/JPL-Caltech</p>
 
 <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />    
       
- <title>js-dos api</title>
-        <style type="text/css">
-          .dosbox-container { width: 100%; height: 400px; }
-          .dosbox-container > .dosbox-overlay { background: url(https://i.ebayimg.com/images/g/OTgAAOSwYINj50PW/s-l1200.webp); }
-        </style>
-    
-<body>
-        <div id="dosbox"></div>
-        <br/>
-        <button onclick="dosbox.requestFullScreen();">Make fullscreen</button>
-        
- <script type="text/javascript" src="https://js-dos.com/cdn/js-dos-api.js"></script>
-        <script type="text/javascript">
-          var dosbox = new Dosbox({
-            id: "dosbox",
-            onload: function (dosbox) {
-              dosbox.run("https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/DOSBOX_SSF2T.ZIP", "./SF2TURBO.EXE");
-            },
-            onrun: function (dosbox, app) {
-              console.log("App '" + app + "' is runned");
-            }
-          });
-        </script>  
-</body>
+
 <video controls >
 
   <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6085_sol_200_autonav.mp4" type="video/mp4" />
@@ -564,23 +756,19 @@ NASA/JPL-Caltech</p>
  <img src="https://mars.nasa.gov/system/resources/detail_files/27872_PIA26209-web.gif">
      <img src="https://murray-lab.caltech.edu/Mars2020/img/Jezero-perspective.jpg">
     <img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00001/ids/edr/browse/edl/EBF_0001_0667022756_679ECV_N0010052EDLC00001_0010LUJ01_1200.jpg">
-     
 
-<h1><span id="Main_heading">Main heading</span></h1>
-    <h2><span id="Subheading">Subheading</span></h2>
-    <h3><span id="Sub-subheading">Sub-subheading</span></h3>
-    <h4><span id="sub-sub-subheading">sub-sub-subheading</span></h4>
-    <h5><span id="sub-sub-sub-subheading">sub-sub-sub-subheading</span></h5>
-    <h6><span id="sub-sub-sub-sub-subheading">sub-sub-sub-sub-subheading</span></h6>
-    
+
+
+![Pages Error](https://pbs.twimg.com/media/GQ3Q770bwAI-S6b?format=jpg&name=large)
  <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" />
-     Future i got in trouble with them male dancers an im really distracted about the scope... can i use this instumental someday for a #NasaMars presentation im working on?  ? ? (Thugga)
- <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633670590&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alilmilk" title="alilmilk" target="_blank" style="color: #cccccc; text-decoration: none;">alilmilk</a> · <a href="https://soundcloud.com/alilmilk/future-red-carpet-feat-young-thug-prod-by-wheezy" title="Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]" target="_blank" style="color: #cccccc; text-decoration: none;">Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]</a></div>
+
+Future i got in trouble with them male dancers an im really distracted about the scope... can i use this instumental someday for a #NasaMars presentation im working on?  ? ? (Thugga)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633670590&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alilmilk" title="alilmilk" target="_blank" style="color: #cccccc; text-decoration: none;">alilmilk</a> · <a href="https://soundcloud.com/alilmilk/future-red-carpet-feat-young-thug-prod-by-wheezy" title="Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]" target="_blank" style="color: #cccccc; text-decoration: none;">Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]</a></div>
 <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission%20(1).png" />
-         <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
+<img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
 
     Hi hun, i dont want u to feel like rentpath wherever we make it to the lab. Help me accept you for all you are - #Shaadi  
-      
+     ![Mars](https://pbs.twimg.com/media/GQ3SUgaaQAMBz2L?format=jpg&name=large) 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/694087468&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
 <a href="https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_m.html">The Global CTX Mosaic
       of Mars</a>
@@ -649,12 +837,6 @@ NASA/JPL-Caltech</p>
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg" alt="martianLandscape">
 
 
-### I learned a little [Blender](www.blender.org)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> im installing <a href="https://twitter.com/Blender?ref_src=twsrc%5Etfw">@blender</a> (<a href="https://twitter.com/BlenderDev?ref_src=twsrc%5Etfw">@blenderdev</a>)<a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> for ppl at the <a href="https://twitter.com/hashtag/Shelters?src=hash&amp;ref_src=twsrc%5Etfw">#Shelters</a> an <a href="https://twitter.com/hashtag/SoupKitchens?src=hash&amp;ref_src=twsrc%5Etfw">#SoupKitchens</a> many can work if they had access to <a href="https://twitter.com/hashtag/OnlineTools?src=hash&amp;ref_src=twsrc%5Etfw">#OnlineTools</a>! iCan do anything from <a href="https://twitter.com/LBCityLibrary?ref_src=twsrc%5Etfw">@LBCityLibrary</a> w/an <a href="https://twitter.com/hashtag/internetConnection?src=hash&amp;ref_src=twsrc%5Etfw">#internetConnection</a> 2 <a href="https://twitter.com/hashtag/Verify?src=hash&amp;ref_src=twsrc%5Etfw">#Verify</a> wit my <a href="https://twitter.com/hashtag/Employer?src=hash&amp;ref_src=twsrc%5Etfw">#Employer</a> its just slow <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/WMPxAkFxIa">pic.twitter.com/WMPxAkFxIa</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1783598525152145864?ref_src=twsrc%5Etfw">April 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[LateForWorK](https://griffithobservatory.org/)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/0i1GGtEBvk">https://t.co/0i1GGtEBvk</a> <a href="https://twitter.com/Tesla?ref_src=twsrc%5Etfw">@tesla</a> <a href="https://twitter.com/hashtag/TeslaCoils?src=hash&amp;ref_src=twsrc%5Etfw">#TeslaCoils</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> i climbed <a href="https://twitter.com/hashtag/MountHollywood?src=hash&amp;ref_src=twsrc%5Etfw">#MountHollywood</a> &amp; saw the <a href="https://twitter.com/hashtag/TeslaCoils?src=hash&amp;ref_src=twsrc%5Etfw">#TeslaCoils</a> <a href="https://twitter.com/GriffithObserv?ref_src=twsrc%5Etfw">@GriffithObserv</a> / <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> ppl playing <a href="https://twitter.com/Coolio?ref_src=twsrc%5Etfw">@Coolio</a> <a href="https://twitter.com/hashtag/GangstersParadise?src=hash&amp;ref_src=twsrc%5Etfw">#GangstersParadise</a> in <a href="https://twitter.com/Braves?ref_src=twsrc%5Etfw">@Braves</a> <a href="https://twitter.com/hashtag/hats?src=hash&amp;ref_src=twsrc%5Etfw">#hats</a> <a href="https://twitter.com/LBCityLibrary?ref_src=twsrc%5Etfw">@LBCityLibrary</a> tell them girls from <a href="https://twitter.com/hashtag/Georgia?src=hash&amp;ref_src=twsrc%5Etfw">#Georgia</a> <a href="https://twitter.com/hashtag/walkoffame?src=hash&amp;ref_src=twsrc%5Etfw">#walkoffame</a> <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/xm_muva?ref_src=twsrc%5Etfw">@xm_muva</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/hashtag/ilovethem?src=hash&amp;ref_src=twsrc%5Etfw">#ilovethem</a> <a href="https://t.co/HV1THJGDaU">pic.twitter.com/HV1THJGDaU</a></p>&mdash; BubbleGumPop626 (@BubbleGumPop626) <a href="https://twitter.com/BubbleGumPop626/status/1799156543474274418?ref_src=twsrc%5Etfw">June 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [CssPodcast](https://open.spotify.com/playlist/4SgASJ9N3B8TsNaNquHm0u)
 ![420](https://pbs.twimg.com/media/GLaBUzIbUAAS7iS?format=jpg&name=large)
@@ -664,18 +846,6 @@ i need to update you guys on my maurajuana use
 # Family
 
 Robin,,,! hi... idk if im being tortured because my relatives mad an been convinced im an athiest after finding out about [blackJesus](https://en.wikipedia.org/wiki/Black_Madonna)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/Sevananda?ref_src=twsrc%5Etfw">@Sevananda</a> <a href="https://twitter.com/hashtag/Religion?src=hash&amp;ref_src=twsrc%5Etfw">#Religion</a> <a href="https://twitter.com/hashtag/Mashonga?src=hash&amp;ref_src=twsrc%5Etfw">#Mashonga</a> <a href="https://twitter.com/hashtag/SekMet?src=hash&amp;ref_src=twsrc%5Etfw">#SekMet</a> im not out of line ... like when i say <a href="https://twitter.com/hashtag/DeReligion?src=hash&amp;ref_src=twsrc%5Etfw">#DeReligion</a> its like saying a word is loaded <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/SartuAdem?ref_src=twsrc%5Etfw">@sartuadem</a> erika is not a respectful person so pleasse <a href="https://twitter.com/hashtag/educateme?src=hash&amp;ref_src=twsrc%5Etfw">#educateme</a> if u need to make an impression <a href="https://twitter.com/hashtag/Watts?src=hash&amp;ref_src=twsrc%5Etfw">#Watts</a> <a href="https://twitter.com/hashtag/DTLA?src=hash&amp;ref_src=twsrc%5Etfw">#DTLA</a> <a href="https://twitter.com/LACityView35?ref_src=twsrc%5Etfw">@LACityView35</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://twitter.com/hashtag/habesha?src=hash&amp;ref_src=twsrc%5Etfw">#habesha</a> <a href="https://t.co/t0M4VUc2Fe">pic.twitter.com/t0M4VUc2Fe</a></p>&mdash; BubbleGumPop626 (@BubbleGumPop626) <a href="https://twitter.com/BubbleGumPop626/status/1783292800571998404?ref_src=twsrc%5Etfw">April 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-### LosAngelesCyberSecurity
-## MimeSniffing
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/DeptofDefense?ref_src=twsrc%5Etfw">@DeptofDefense</a> grab one of <a href="https://twitter.com/OnlyFans?ref_src=twsrc%5Etfw">@OnlyFans</a> <a href="https://twitter.com/DataCenters_QTS?ref_src=twsrc%5Etfw">@DataCenters_QTS</a> level <a href="https://twitter.com/hashtag/Engineers?src=hash&amp;ref_src=twsrc%5Etfw">#Engineers</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/iamcardib?ref_src=twsrc%5Etfw">@iamcardib</a> <a href="https://twitter.com/dreezydreezy?ref_src=twsrc%5Etfw">@dreezydreezy</a> , <a href="https://twitter.com/SecDef?ref_src=twsrc%5Etfw">@SecDef</a> need help! look at this <a href="https://t.co/puDQGblg6x">https://t.co/puDQGblg6x</a> have <a href="https://twitter.com/hashtag/StemEducation?src=hash&amp;ref_src=twsrc%5Etfw">#StemEducation</a> <a href="https://twitter.com/coi_leray?ref_src=twsrc%5Etfw">@coi_leray</a> <a href="https://twitter.com/KTLA?ref_src=twsrc%5Etfw">@KTLA</a> research <a href="https://twitter.com/hashtag/MimeSniffing?src=hash&amp;ref_src=twsrc%5Etfw">#MimeSniffing</a> <a href="https://twitter.com/TMZ?ref_src=twsrc%5Etfw">@tmz</a> this could free <a href="https://twitter.com/hashtag/SexTraffickingVictims?src=hash&amp;ref_src=twsrc%5Etfw">#SexTraffickingVictims</a> <a href="https://twitter.com/etnow?ref_src=twsrc%5Etfw">@etnow</a> <a href="https://twitter.com/UN?ref_src=twsrc%5Etfw">@UN</a> <a href="https://t.co/tY3LfAX187">pic.twitter.com/tY3LfAX187</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1783603276824621111?ref_src=twsrc%5Etfw">April 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## CodeTampering
-Since I have been in Los Angeles I am constantly disabled! The prostitution customers Erika and Pooh an Vanessa have attatched to them are sabotaging everything i do that is fun to me at all new levels! my games are censored! [Try_Flashback](https://archive.org/details/msdos_Flashback_-_The_Quest_for_Identity_1993)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/skyepatrickLIB1?ref_src=twsrc%5Etfw">@skyepatrickLIB1</a> <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@nasamars</a> <a href="https://twitter.com/EuropaClipper?ref_src=twsrc%5Etfw">@EuropaClipper</a> im building a portal 4my various projects an no matter what <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/hashtag/hollywoodSituation?src=hash&amp;ref_src=twsrc%5Etfw">#hollywoodSituation</a> is ihave to churn out a lot of <a href="https://twitter.com/hashtag/websites?src=hash&amp;ref_src=twsrc%5Etfw">#websites</a> my daughter let me know via a friend she needs <a href="https://twitter.com/hashtag/TemplateCode?src=hash&amp;ref_src=twsrc%5Etfw">#TemplateCode</a> <a href="https://twitter.com/LACo_DPSS?ref_src=twsrc%5Etfw">@LACo_DPSS</a> <a href="https://t.co/s0wezWReH3">https://t.co/s0wezWReH3</a> 🟥<a href="https://twitter.com/hashtag/weaklegs?src=hash&amp;ref_src=twsrc%5Etfw">#weaklegs</a> <a href="https://t.co/xuskRLXTg8">pic.twitter.com/xuskRLXTg8</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1783588712737321357?ref_src=twsrc%5Etfw">April 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-# Training 
-I started warming up my Solaris world skills online [DistroSea](https://distrosea.com/select/openindiana/)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NASASpaceflight?ref_src=twsrc%5Etfw">@NASASpaceflight</a> <a href="https://twitter.com/hashtag/prstat?src=hash&amp;ref_src=twsrc%5Etfw">#prstat</a> is awesome i wanna do something that aids me in <a href="https://twitter.com/hashtag/troubleshooting?src=hash&amp;ref_src=twsrc%5Etfw">#troubleshooting</a> <a href="https://twitter.com/SpaceX?ref_src=twsrc%5Etfw">@SpaceX</a> thats where i feel im weak <a href="https://twitter.com/elonmusk?ref_src=twsrc%5Etfw">@elonmusk</a> <a href="https://twitter.com/hashtag/Jamie?src=hash&amp;ref_src=twsrc%5Etfw">#Jamie</a> <a href="https://twitter.com/hashtag/Robin?src=hash&amp;ref_src=twsrc%5Etfw">#Robin</a> ::: <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/hashtag/Cohabitation?src=hash&amp;ref_src=twsrc%5Etfw">#Cohabitation</a> with erika was a nightmare <a href="https://twitter.com/hashtag/EthiopianWoman?src=hash&amp;ref_src=twsrc%5Etfw">#EthiopianWoman</a> r u like the <a href="https://twitter.com/hashtag/HomemakerType?src=hash&amp;ref_src=twsrc%5Etfw">#HomemakerType</a> even tho u like <a href="https://twitter.com/hashtag/CityGovernment?src=hash&amp;ref_src=twsrc%5Etfw">#CityGovernment</a>? <a href="https://t.co/TaGcRUvQsi">pic.twitter.com/TaGcRUvQsi</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1783628174682984650?ref_src=twsrc%5Etfw">April 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1561176394&color=%23bcbcb6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/sets/back-on-dexter-a-gangsta-1" title="Back on Dexter: A Gangsta Grillz Mixtape" target="_blank" style="color: #cccccc; text-decoration: none;">Back on Dexter: A Gangsta Grillz Mixtape</a></div>
@@ -684,8 +854,8 @@ I started warming up my Solaris world skills online [DistroSea](https://distrose
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1413792211&color=%23185676&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/waystoloveu" title="waystoloveu" target="_blank" style="color: #cccccc; text-decoration: none;">waystoloveu</a> · <a href="https://soundcloud.com/waystoloveu/sza-sos-full-album" title="SZA - Sos Full Album" target="_blank" style="color: #cccccc; text-decoration: none;">SZA - Sos Full Album</a></div>
 
 
-[LateForWork](https://youtu.be/eyPhtl5VChE?si=RFBj5U4HrlSXNm4c0)
-
+[vid](https://youtu.be/eyPhtl5VChE?si=RFBj5U4HrlSXNm4c0)
+![normani](https://pbs.twimg.com/media/GRIDmYCbwAA0Rs2?format=jpg&name=large)
 ![screen](https://pbs.twimg.com/media/GMrFFHrasAMQVDD?format=jpg&name=large)
 ![homegirl](https://pbs.twimg.com/media/GMxIIEibwAAzzwf?format=jpg&name=large)
 
@@ -702,6 +872,9 @@ I started warming up my Solaris world skills online [DistroSea](https://distrose
 <hr />
 
 ![iminlove](https://pbs.twimg.com/media/GP0a8R9agAAN84K?format=jpg&name=4096x4096)
+
+![Normani the man](https://pbs.twimg.com/media/GQAcpSaWgAAhbcU?format=jpg&name=large)
 ![iwannaworkoffcamera!](https://pbs.twimg.com/media/GPlFZApbAAAv1lu?format=jpg&name=large)
 ![Rashard_iman_kelly_Thaka_Selassie_ERikaMoonaNormaniGloElaaCardiMeganHusband](https://pbs.twimg.com/media/GAdZ_8ubQAEz0ME?format=jpg&name=large)
 ![NasaJPL](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)
+![Erika's cheating](https://pbs.twimg.com/media/GIL_kgbbYAA_Lr8?format=jpg&name=medium)

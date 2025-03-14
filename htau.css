@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@900&family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
+@import "_sass/rouge-base16-dark.scss";
+@import "_sass/normalize";
+@import "_sass/fonts";
+@import "_media.css";
+@import "_sass/_default_colors.scss";
+@font-face {
+  font-family: Cluster;
+  src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
+}
+
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -50,37 +63,302 @@ table {
   padding-left: 820px;
 } */
 
+html {
+font: normal 12px/18px "Red Hat Mono","Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+ font-size: 1rem;
+ width: 100vw;
+ height: 100vh;
+
+}
+
+
+body {
+  background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01417/ids/edr/browse/ncam/NLF_1417_0792725409_849ECM_N0690000NCAM00501_01_295J01_1200.jpg) no-repeat center center fixed; 
+/* background: url(https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153054/heatwavezm_geos5_20240710.jpg) no-repeat center center fixed;  */
+/* background: url(https://science.nasa.gov/wp-content/uploads/2023/09/PIA14943-full.jpg) no-repeat center center fixed;  */
+  line-height: 1.5;
+  -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+color:white;
+  font-optical-sizing: auto;
+}
+
+/*
 body {
   
   background: linear-gradient(45deg, 
               #fb3 25%, #58a 0, #58a 50%,
               #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
+background-size: 70.4px 70.4px;
    font-family: "VT323", monospace;
   background-attachment: fixed;
   
 }
+  */
+
 #wrapper
 {
-margin:0 auto;
+
   width: 50vw;
   height: 100vh;
   margin: auto;
 }
-#heading {
-  display: grid;
-  grid-template-rows: auto auto auto;
+
+
+::selection {
+  color: #aaff00;
+  background: #454b1b;
+}
+
+.logo {
+  float: left;
   background-color: black;
-  color:white;
-  padding:5px;
-  position:fixed;
-  width:100%;
-  width:50vw;
+  display: block;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+li {
+  display: inline;
+  position: relative;
+  color: white;
+}
+
+ul ul {
+  position: absolute;
+  display: none;
+}
+
+li:hover ul {
+  display: block;
+}
+
+#navcontainer {
+  display:block;
+  padding: 0;
+  top: 0;
+width: 55vw;
+  height: 20px;
+  display: flex;
+  background-color: black;
+  position: fixed;
+  color: white;
+  top: 0;
+}
+
+#navcontainer ul {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+#navcontainer ul li {
+  display: block;
+
+  float: right;
+  text-align: center;
+  padding: 0px;
+  margin: 0;
+}
+
+#navcontainer ul li a {
+  width: 100px;
+  height: max-content;
+  background: #262626;
+  border-left: 1px dashed #f5d7b4;
+  border-bottom: 1px solid #262626;
+  border-right: 1px solid #262626;
+  padding: 0;
+  margin: 0 0 0px 0;
+  color: #a6a6a6;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+#navcontainer ul li a:hover {
+  color: #f2f2f2;
+  background: #262626;
+  border-top: 1px solid magenta;
+}
+
+#navcontainer a:active {
+  background: #262626;
+  color: #fff;
+}
+
+#navcontainer li#active a {
+  background: #262626;
+  border-right: 4px solid #2e97f2;
+  color: #fff;
+}
+.css3badge {
+  display: inline;
+  float: right;
+  flex-wrap: nowrap;
+}
+
+
+  .box {
+    width: 80%;
+    border: 1px solid #3DF28B;
+    display: flex;
+    flex-wrap: wrap;
+    margin: .1rem;
+    background-attachment: fixed;
+    justify-content: space-evenly;
+    background-size: 100% auto;
+    font-kerning: normal;
+    letter-spacing: .2rem;
+    font: bold 10px/18px verdana, lucida, sans-serif;
+    background: url(https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg);
+    background-size: 20% auto;
+    background-attachment: fixed;
+  }
+
+  .box>* {
+    display: block;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+    border: 1px solid #c9ff23;
+    padding: 1px;
+    margin: 1px;
+    background-color: #3DF28B20;
+    transition: all .2s ease-in-out;
+    flex-shrink:1;
+    flex-grow:1;
+
+
+          &:hover {
+        flex-grow: 3;
+
+      }
+    }
+
+  .box a:link {
+
+    color: white;
+
+  }
+
+.tupperware > * {
+  border: 1px solid #c9ff23;
+ border-radius: 1px;
+ padding: 8px;
+ height: 20vh;
+ }
+
+.tupperware {
+ display: flex;
+ 
+ flex-flow: row wrap;   justify-content: center;
+ padding: 15px;
+ gap: 5px;
+}
+
+
+
+/* FLEX_BOX_FOR_3_IMAGES */
+.flex-container {
+
+  display: flex;
+  align-items: stretch; 
+  flex-flow: row nowrap;  
+  flex-direction: row; 
+  flex-wrap: nowrap; 
+  justify-content: center;
+  align-content: stretch;
+  height: 100%;
+  padding: 15px;
+  gap: 5px;
+
+}
+
+.flex-container > div{
+ 
+  border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 8px;
+}
+
+
+/*  4PANEL_SPREAD_CREATED_FOR_SARTUS_MODELiNG_ENERGY, many uses tho to feature things ##ASK_DiDO */
+.panel4-container {
+
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  height: 100%;
+  padding: 0px;
+  gap: 5px;
+
+}
+
+
+.cover { 
   
 }
 
-#main {
+.crt {
+  padding: 50px;
+  background: black;
+}
+img.crt {
+  padding: 50px;
+  background: black;
+}
 
+embed {
+    width: 100%;
+    height: fit-content;
+  scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
+}
+
+
+video {
+  height: auto !important;
+  width: 100% !important;
+  border-radius:15px
+  display: block;
+  margin-block: 10px 10px;
+  background: repeating-linear-gradient(
+			to left,
+			transparent,
+			transparent 54px,
+			black 55px,
+			black 55px
+		),
+		repeating-linear-gradient(
+			to bottom,
+			transparent,
+			transparent 54px,
+			grey 55px,
+			grey 55px
+		),
+		linear-gradient(45deg, grey, black);
+	
+	background-attachment:fixed;
+  transition: 4s cubic-bezier(.25,.1,.2,3);
+ /*    transition: 3s cubic-bezier(0.1, 0.2, 0.3, 0.4);
+   transition: 3s cubic-bezier(.25,.1,.2,3); */
+}
+
+
+
+#main {
+margin-top: 0px;
 }
 
 #footer {
@@ -97,36 +375,25 @@ grid-template-rows: auto auto auto;
   
 }
 
+img[src*="Midway_Games_logo"] {background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
+  center repeat; width: 100%;}
 
-body {
-  
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 70.4px 70.4px;
-   font-family: "VT323", monospace;
-  background-attachment: fixed;
-  
-}
 p {
   display:inline;
-  font-family: "VT323", monospace;
-  font-weight: 300;
+  word-break: break-word;
   text-align: center;
   color:white;
     background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     center repeat;
 }
-::selection {
-color: white;
-background: cyan;
-}
+
+
 p::first-letter {
   font-size: 2rem;
   font-weight: bold;
-  vertical-align: sub;
-  color: cyan;
+  color: white;
 }
 p:first-of-type {
   animation-duration: 3s;
@@ -136,39 +403,82 @@ h1,
 h2,
 h3 {
   color: white;
+  display: block;
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     center repeat;
-  font-weight: 900;
-  margin: 5px;
-  padding: 5px;
+   margin: 5px;
+   word-break: break-all;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
 
-/*
-#content {
+h1 {
 
-  border-radius:12px;
-  padding: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 20em;
-  margin-left: 20em;  
-  /* opera does not like 'margin:20px auto' astrxneeded/
-  border: 0px solid #ccc;
-  text-align:left; 
-  voice-family: "\"}\"";
-  voice-family:inherit;
+
+  display: block;
+  line-height: 1.7rem;
+  font: normal 14px/18px 'Fredoka One',"Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-size: 3rem;
+  word-break: break-all;
+  color: #fff;
+  text-shadow:
   
-  }
-*/
-  
-  img {
-  display:block;
+        0 0 42px #0DCBFF,
+        0 0 82px #0DCBFF,
+        0 0 92px #0DCBFF,
+        0 0 102px #0DCBFF,
+        0 0 125px #0DCBFF;
+
+}
+h2 {
+  word-spacing: -.2ch;
+  font-kerning: auto;
+  letter-spacing: 2pt;
+  background: transparent
+   url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
+  font-size: 30pt;
+  color: white;
+  font-family: Cluster, "Ariel Black";
+  word-break: break-all; 
   width: 100%;
 }
 
+
+  
+ img {  max-height: 100%;
+  max-width: 100%;
+display:block;}
+img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
+
+img[alt^="L"] {
+  width: 100%;
+  border-top:solid 1px yellow;
+  
+  }
+
+img[alt*="USGS"] {
+  width: 100%;
+  border-bottom:solid 2px #c9ff23;
+  
+  }
+img[src*="nasa.gov"] {
+width: 100%;
+border-bottom:solid 3px #c9ff23;
+
+}
+img[alt="kk"] {
+  width: 100%;
+  
+}
+img[alt="whiteslavery"] {
+  max-width: 15%;
+  float: right;
+}
+img[alt="whiteslavery40"] {
+  max-width: 40%;
+  transform: rotate(45deg);
+}
 
 iframe {
   width: 100%;
@@ -240,48 +550,125 @@ a {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
-video {
-  border-radius:12px;
-  display: block;
-  margin-block: 10px 10px;
-    background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
-  
-border-radius:12px;
-  transition: 4s cubic-bezier(.25,.1,.2,3);
-}
 
-video:hover {
-  border-radius:12px;
-  display: block;
-  margin-block: 10px 10px;
-  background: rgb(217,4,121);
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 80.4px 80.4px;
-  
-
-}
 
 
 /* Clearfix */
 
+
+
+
+
+
+
+#wrapper
+{
+
+  width: 70vw;
+  height: 100vh;
+  margin: auto;
+}
+#heading {
+  display: grid;
+  grid-template-rows: auto auto auto;
+  background-color: black;
+  color:white;
+  top: 0;
+  padding: 0px;
+  position:fixed;
+  width:100%;
+  width:50vw;
+  
+}
+
+
+.css3badge {
+  display: inline;
+  float: right;
+  flex-wrap: nowrap;
+}
+
+
+#main {
+margin-top: 35px;
+background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/saturn.png ) no-repeat center center fixed; 
+line-height: 1.5;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+
+
+
+.floatright img:nth-child(odd) {
+  float: right;
+}
+.floatleft img:nth-child(even) {
+  float: left;
+
+}
+  
+ img {  max-height: 100%;
+  max-width: 100%;
+display:block;}
+img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
+
+img[alt^="L"] {
+  width: 100%;
+  border-top:solid 10px #f4bf75;
+  
+  }
+
+
+img[src*="859740137800_cover.jpg"] {
+width: 40%;
+border:solid 5px #c9ff2350;
+
+img[src*="nasa.gov"] {
+  width: 100%;
+  border-bottom:solid 5px #c9ff23;
+
+}
+
+
+
+blockquote {
+  padding-left: 10px;
+  border-left: 1px dotted 
+}
+
+pre {
+  background: rgba(0, 0, 0, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 10px;
+  font-size: 16px;
+  color: #b5e853;
+  border-radius: 12px;
+  word-wrap: normal;
+  overflow: auto;
+  overflow-y: hidden;
+}
+
+
+
 .twoPanelSpread {
-  border-radius:12px;
-  background-color: #00db46; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, #e66250, #ff80cc);
+  
+
+  /* For browsers that do not support gradients */
+  /* background-image: linear-gradient(to right, #e66250, #ff80cc); */
+  margin: 0px;
+  padding: 0px;
+  background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
+    center repeat;
 }
 
 .row {
-  border-radius:12px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-  
 }
 
 .panelColumn {
@@ -294,7 +681,7 @@ background-size: 80.4px 80.4px;
 
 
 .leftColumn {
-  /* background-color: #2470FF; */
+/*  background-color: #2470FF; */
   width: 100%;
 }
 
@@ -311,7 +698,7 @@ background-size: 80.4px 80.4px;
 }
 
 .rightColumn {
-  /* background-color: #c9ff23; */
+
 }
 .rightColumn img { 
  
@@ -322,108 +709,6 @@ background-size: 80.4px 80.4px;
     justify-content: center;
     align-items: center;
     overflow: hidden
-}
-
-
-
-
-/* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
-
-.flex-container {
-  align-items: stretch;
-/* flex-flow: row nowrap; */
-flex-direction: row;
-flex-wrap: nowrap;
-  padding: 0px;
-justify-content: center;
-align-content: stretch;
-height: 100%;
-display: grid;
-grid-template-columns: auto auto auto;
-}
-
-.flex-container > div {
-border: 1px solid #c9ff23;
-  border-radius:12px;
-}
-
-.flex-container > img {
-object-fit: contain;
-max-width: 100%;
-border: 1px solid #c9ff23;
-  border-radius:12px
-
-}
-
-:root {
-  --magnifier: 8;
-  --gap: 0vmax;
-  --transition: 0.5s;
-}
-  
-.expandingGallery {
-  width: 100%;
-  height: 45vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--gap);
-}
-
-.expandingGallery > img {
-  --brightness: 0.75;
-  --grayscale: 1;
-  transition: flex var(--transition), filter var(--transition);
-  height: 100%;
-  object-fit: cover;
-  overflow: hidden;
-  flex: 1;
-}
-
-.expandingGallery > img:hover {
-
-  flex: var(--magnifier);
-}
-/** LIGHTBOX MARKUP **/
-
-.lightbox {
-  /* Default to hidden */
-  display: none;
-
-  /* Overlay entire screen */
-  position: fixed;
-  z-index: 999;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  
-  /* A bit of padding around image */
-  padding: 1em;
-
-  /* Translucent background */
-  background: rgba(0, 0, 0, 0.8);
-}
-
-/* Unhide the lightbox when it's the target */
-.lightbox:target {
-  display: block;
-}
-
-.lightbox span {
-  /* Full width and height */
-  display: block;
-  width: 100%;
-  height: 100%;
-  background: rgba(104, 182, 255, 0.1);
-  border: 22px;
-  
-   animation: slidein 1.25s; 
-  
-  /* Size and position background image */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
 }
 
 
@@ -456,131 +741,41 @@ border: 1px solid #c9ff23;
 }
 
 
-.swatch {
-  display: grid;
-  grid-gap: 0px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+:root {
+  --magnifier: 8;
+  --gap: 0vmax;
+  --transition: 0.5s;
+}
+
+.pinupGallery {
+  display: block;
   width: 100%;
-  height: 150px;
-  border-radius:12px
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px;
+  object-fit: contain;
 }
-.swatch div:nth-child(1) {
-  background: #D9737B;
-  border-radius:100px
-}
-.swatch div:nth-child(2) {
-  background: #594725;
-  border-radius:100px
-}
-
-.swatch div:nth-child(3) {
-  background: #D99E6A;
-  border-radius:100px
-}
-
-.swatch div:nth-child(4) {
-  background: #D99E89;
-  border-radius:100px
-}
-.swatch div:nth-child(5) {
-  background: #0D0D0D;
-  border-radius:100px
-}
-
-/* @sarahlugor https://x.com/sarahlugor/status/1756724220388692100?s=20 */
-
-.sarahlugor {
-  display: grid;
-  grid-gap: 0px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+.expandingGallery {
   width: 100%;
-  height: 150px;
-  border-radius:12px
-}
-.sarahlugor div:nth-child(1) {
-  background: #4B93BF;
-  border-radius:100px
-}
-.sarahlugor div:nth-child(2) {
-  background: #85D3F2;
-  border-radius:100px
+  height: 25vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap);
 }
 
-.sarahlugor div:nth-child(3) {
-  background: #9ABF15;
-  border-radius:100px
+.expandingGallery > img {
+  --brightness: 0.75;
+  --grayscale: 1;
+  transition: flex var(--transition), filter var(--transition);
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  flex: 1;
 }
 
-.sarahlugor div:nth-child(4) {
-  background: #C8D98B;
-  border-radius:100px
-}
-.sarahlugor div:nth-child(5) {
-  background: #733E32;
-  border-radius:100px
-}
-
-
-
-.sarahlugor_bright {
-  display: grid;
-  grid-gap: 0px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  width: 100%;
-  height: 150px;
-  border-radius:12px
-}
-.sarahlugor_bright div:nth-child(1) {
-  background: #4B93BF;
-  border-radius:100px
-}
-.sarahlugor_bright div:nth-child(2) {
-  background: #9ABF15;
-  border-radius:100px
-}
-
-.sarahlugor_bright div:nth-child(3) {
-  background: #C6D982;
-  border-radius:100px
-}
-
-.sarahlugor_bright div:nth-child(4) {
-  background: #D90404;
-  border-radius:100px
-}
-.sarahlugor_bright div:nth-child(5) {
-  background: #0D0D0D;
-  border-radius:100px
-}
-
-
-.latto {
-  display: grid;
-  grid-gap: 0px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  width: 100%;
-  height: 150px;
-  border-radius:12px
-}
-.latto div:nth-child(1) {
-  background: #151C26;
-  border-radius:1px
-}
-.latto div:nth-child(2) {
-  background: #5EF268;
-  border-radius:1px
-}
-
-.latto div:nth-child(3) {
-  background: #A7F2AC;
-  border-radius:1px
-}
-
-.latto div:nth-child(4) {
-  background: #BF7D65;
-  border-radius:1px
-}
-.latto div:nth-child(5) {
-  background: #F2B29B;
-  border-radius:1px
+.expandingGallery > img:hover {
+  flex: var(--magnifier);
 }

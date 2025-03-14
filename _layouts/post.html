@@ -2,13 +2,38 @@
 layout: default
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
+
+
+<div class="box">
+
+  {% for post in site.posts %}
+     
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
+   
+  </div>  
+
 <h1>{{ page.title }}</h1>
 
-<p class="view">by {{ page.author | default: site.author }}</p>
-
-{{content}}
-
+{% if site.hide_post_date != true %}
+  {% include post-date.html %}
+{% endif %}
+{% if page.image %}
+  <div class="featured-image">
+    <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+  </div>
+  <p class="view">by {{ page.author | default: site.author }}</p>
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
+  <small>{{ page.date | date: "%-d %B %Y" }}</small>
+{% endif %}
+<ARTICLE itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
+  {{ content }}
+</ARTICLE>
+
+
+
+
