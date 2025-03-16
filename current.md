@@ -12,6 +12,54 @@
  
 
 <img src="https://assets.privy.com/picture_photos/2634698/medium/1570a0e010b0404a82d3fa4c9d1e6e36?1655315936" />
+
+
+<div class="tupperware">
+
+    
+<article itemprop="blogPosts" itemscope="" itemtype="https://schema.org/BlogPosting">
+  <a href="https://www.ferrari.com/en-EN/magazine/articles/lasting-legacy-the-ferrari-f40">
+    <div class="featured-post" style="background-image:url(https://cdn.ferrari.com/cms/network/media/img/resize/65d3857c8200e2008e48cd4f-f40%20legend_20240305_2_1250x700_v1?width=1920&height=0)">
+      <h2 itemprop="headline"><span>The F40 </span></h2>
+    </div>
+  </a>
+</article>
+
+
+    
+<article itemprop="blogPosts" itemscope="" itemtype="https://schema.org/BlogPosting">
+  <a href="https://www.ferrari.com/en-EN/magazine/articles/performance-icon-ferrari-gto">
+    <div class="featured-post" style="background-image:url(https://cdn.ferrari.com/cms/network/media/img/resize/65c10e446ccf990024783798-288gtoinside2portrait?width=768&height=0)">
+      <h2 itemprop="headline"><span>Ferrari GTO</span></h2>
+    </div>
+  </a>
+</article>
+
+
+    
+<article itemprop="blogPosts" itemscope="" itemtype="https://schema.org/BlogPosting">
+  <a href="https://www.ferrari.com/en-EN/magazine/articles/winning-formula-f50">
+    <div class="featured-post" style="background-image:url(https://cdn.ferrari.com/cms/network/media/img/resize/65fc70f14c594d0010cf44ac-f50_20240402_cover_768x1024_v2?width=768&height=1024)">
+      <h2 itemprop="headline"><span>The F50 </span></h2>
+    </div>
+  </a>
+</article>
+
+<article itemprop="blogPosts" itemscope="" itemtype="https://schema.org/BlogPosting">
+  <a href="https://www.ferrari.com/en-EN/magazine/articles/new-v12-12Cilindril">
+    <div class="featured-post" style="background-image:url(https://cdn.ferrari.com/cms/network/media/img/resize/65fc495e4f114e0010ebca39-f50_20240402_main_1_720x480?width=768&height=0)">
+      <h2 itemprop="headline"><span>V12 
+ICONS</span></h2>
+    </div>
+  </a>
+</article>
+    
+
+</div>
+<img src="https://i0.wp.com/arcademarquee.com/wp-content/uploads/2020/03/turbo-out-run_marquee_23.5x7.9_dedicated.jpg" />
+<iframe src="https://archive.org/embed/arcade_toutrun" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s2gUyn-WjLo?si=_PmE_rtYHmknyIe-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 @netflix <~ @nasa-jpl why do they hang out with hookers all day and i cant find a working cellphone with no hassle ? @whitehouse @nasa those ppl are useless! can we fire up telstar ? ? ? 
 
