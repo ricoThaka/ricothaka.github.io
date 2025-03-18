@@ -10,6 +10,29 @@
    
  </div>  
  
+![Voyager Tweets WorkNote](https://pbs.twimg.com/media/GmQr6B6bUAAXhbv?format=jpg&name=large) [RelatedTweet - EMiTDATA SAMPLES](https://x.com/RicoThaka/status/1901710981929255183)
+
+
+
+# @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
+### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) near [Union Station](https://www.unionstationla.com/) [Downtown_L_A](https://www.google.com/search?sca_esv=a9a17715c624a2d7&rlz=1CASLJZ_enUS1154&q=olvera+street+los+angeles&tbm=nws&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpIgVFCTcbZI9VMGzNoV0iOZkckJJygdiLH6_g992ly-N3ZhTu1MHW3iZwH0a8xO8HT5cXYWFWHd5GFYF_JIB7CqYuKL48e-cysAxF4wlrCT3LikHJ_W-hUikuzKYcfDCyX2eLsZjb0U42rho0jS-HH_FqAxzySx8O0w7rx8Lx3DOoDF3IyHwPXISO7l2u8Ix-gnQ-4Q&sa=X&sqi=2&ved=2ahUKEwiM3q-YwJKMAxUjJEQIHWldGyQQ0pQJegQICRAB&biw=1920&bih=945&dpr=1)
+
+[See Tweet](#elondeathnote)
+![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large)
+
+
+
+
+<picture>
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: portrait)" />
+  <source srcset="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" media="(orientation: landscape)" />
+  <img src="https://pbs.twimg.com/media/GbU_SjeaoAA_dT-?format=jpg&name=large" alt="JUMPiNGFLASH" />
+</picture>
+
+![MiSR - ](https://misr.jpl.nasa.gov/static/images/misr-hp-banner-v3.525a614971d7.jpg) [NAsa's Earth Observing System](https://eospso.gsfc.nasa.gov/atbd-category/45) To accomplish its scientific objectives, the MISR instrument measures Earth's brightness in 4 spectral bands, at each of 9 [look angles](https://misr.jpl.nasa.gov/mission/introduction/misrs-viewing-geometry-and-scattering-angles/) [MiSR-GALLERY @nasa-jpl](https://misr.jpl.nasa.gov/gallery/)
+
+# [PIA22817](https://photojournal.jpl.nasa.gov/catalog/PIA22817): NASA's MISR Captures 3D Image of Smoke from California's Woolsey Fire
+![3d_SMOKE](https://photojournal.jpl.nasa.gov/jpegMod/PIA22817_modest.jpg)
 
 # GRACE and GRACE-FO track California's land water changes
 
@@ -145,6 +168,7 @@ NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it wil
 
 # @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
 ### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) near [Union Station](https://www.unionstationla.com/) [Downtown_L_A](https://www.google.com/search?sca_esv=a9a17715c624a2d7&rlz=1CASLJZ_enUS1154&q=olvera+street+los+angeles&tbm=nws&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpIgVFCTcbZI9VMGzNoV0iOZkckJJygdiLH6_g992ly-N3ZhTu1MHW3iZwH0a8xO8HT5cXYWFWHd5GFYF_JIB7CqYuKL48e-cysAxF4wlrCT3LikHJ_W-hUikuzKYcfDCyX2eLsZjb0U42rho0jS-HH_FqAxzySx8O0w7rx8Lx3DOoDF3IyHwPXISO7l2u8Ix-gnQ-4Q&sa=X&sqi=2&ved=2ahUKEwiM3q-YwJKMAxUjJEQIHWldGyQQ0pQJegQICRAB&biw=1920&bih=945&dpr=1)
+
 [See Tweet](#elondeathnote)
 ![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large)
 
