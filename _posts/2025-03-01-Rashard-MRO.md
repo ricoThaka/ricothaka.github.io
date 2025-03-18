@@ -6,6 +6,9 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+
+![MARS](https://pbs.twimg.com/media/Gi-nkFVbkAAq9cE?format=jpg&name=large)
+[Mars Attacks](https://x.com/RicoThaka/status/1886911203743842619)
 [MRO_TWEET](https://x.com/RicoThaka/status/1760472287265038367) [MRO SPECS PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf)
 [Mars Reconnaissance Orbiter Arrival](https://www.jpl.nasa.gov/news/press_kits/mro-arrival.pdf) [Press Kit](http://crism.jhuapl.edu/education/downloads/CRISMfsWeb_Low_Res.pdf)
 ![3dMARS](https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_mosaic/browse/sol/00013/ids/rdr/mosaic/N_GRGB_0013_RZS_0030028_CYP_R_AUTOGENJ03.png:lg.webp)
