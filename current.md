@@ -10,6 +10,12 @@
    
  </div>  
  
+![mask?](https://pbs.twimg.com/media/GmMsCFJbYAAq24G?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1901412018168668516) [Normani Partying it Up?](https://x.com/RicoThaka/status/1901410095512297942) [Bankroll Fresh "Walked In" feat. Travis Porter & Boochie (WSHH Exclusive - Official Music Video)](https://youtu.be/qoXRsuefSuU?si=rqTgTMK7o2RjwIyr)
+![JupiterBlog](https://pbs.twimg.com/media/GmMt6mSakAA4oSy?format=jpg&name=large) 
+[Europa Clipper WorkBlog @nasa-jpl](https://ricothaka.github.io/rashardmro/2024/11/19/Jupiter.html)
+[RelatedTweet](https://x.com/RicoThaka/status/1901414105048904037) 
+
 ![Voyager Tweets WorkNote](https://pbs.twimg.com/media/GmQr6B6bUAAXhbv?format=jpg&name=large) [RelatedTweet - EMiTDATA SAMPLES](https://x.com/RicoThaka/status/1901710981929255183) [TwitterEmbed HOWTO](https://x.com/RicoThaka/status/1902048473702420806) [JPL - DATASAMPLES](https://x.com/RicoThaka/status/1901710981929255183) [The best Los Angeles movies of all time - timeout.com](https://www.timeout.com/film/los-angeles-movies-57-films-that-best-capture-la) [Longbeach Mayor you mad?](https://x.com/RicoThaka/status/1901704230639214839) 
 
 ![jobhunt](https://pbs.twimg.com/media/GmRtjmRbcAARdxh?format=jpg&name=large) 
