@@ -7,7 +7,7 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
-[Normani Help here are some mean tweets](https://x.com/RicoThaka/status/1901381990122975460) [Another](https://x.com/RicoThaka/status/1901383396242464858) [AnnnaOthaONe](https://x.com/RicoThaka/status/1901381990122975460) [Voyager Flyby](https://x.com/RicoThaka/status/1901380389786309053)
+[Normani Help here are some mean tweets](https://x.com/RicoThaka/status/1901381990122975460) [Another](https://x.com/RicoThaka/status/1901383396242464858) [AnnnaOthaONe](https://x.com/RicoThaka/status/1901381990122975460) [Voyager Flyby](https://x.com/RicoThaka/status/1901380389786309053) [Mean but not - emergency read](https://x.com/RicoThaka/status/1901372783923482702)
 
 ### newsbae
 # Europa Clipper Camera Passes First Test in Space

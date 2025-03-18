@@ -27,7 +27,7 @@
 ### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) near [Union Station](https://www.unionstationla.com/) [Downtown_L_A](https://www.google.com/search?sca_esv=a9a17715c624a2d7&rlz=1CASLJZ_enUS1154&q=olvera+street+los+angeles&tbm=nws&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpIgVFCTcbZI9VMGzNoV0iOZkckJJygdiLH6_g992ly-N3ZhTu1MHW3iZwH0a8xO8HT5cXYWFWHd5GFYF_JIB7CqYuKL48e-cysAxF4wlrCT3LikHJ_W-hUikuzKYcfDCyX2eLsZjb0U42rho0jS-HH_FqAxzySx8O0w7rx8Lx3DOoDF3IyHwPXISO7l2u8Ix-gnQ-4Q&sa=X&sqi=2&ved=2ahUKEwiM3q-YwJKMAxUjJEQIHWldGyQQ0pQJegQICRAB&biw=1920&bih=945&dpr=1)
 
 [See Tweet](#elondeathnote)
-![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large)
+![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large) [Elon Musk Team Voyager Greeting](https://x.com/RicoThaka/status/1901378180516327817) [LightDay](https://x.com/RicoThaka/status/1901374945957204432) [Formadehyde](https://x.com/RicoThaka/status/1901370262685471205)
 
 
 
