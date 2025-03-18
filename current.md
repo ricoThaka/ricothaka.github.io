@@ -144,7 +144,8 @@ NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it wil
 [wiki](https://en.wikipedia.org/wiki/Europa_Clipper#:~:text=It%20was%20launched%20on%20October,while%20in%20orbit%20around%20Jupiter.)
 
 # @tesla @spacex @nasa-jpl @whitehouse @deptofdefense 
-### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) 
+### I saw some [scary graffiti threatening elon musK](https://x.com/RicoThaka/status/1890160505463128529) near [Union Station](https://www.unionstationla.com/) [Downtown_L_A](https://www.google.com/search?sca_esv=a9a17715c624a2d7&rlz=1CASLJZ_enUS1154&q=olvera+street+los+angeles&tbm=nws&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpIgVFCTcbZI9VMGzNoV0iOZkckJJygdiLH6_g992ly-N3ZhTu1MHW3iZwH0a8xO8HT5cXYWFWHd5GFYF_JIB7CqYuKL48e-cysAxF4wlrCT3LikHJ_W-hUikuzKYcfDCyX2eLsZjb0U42rho0jS-HH_FqAxzySx8O0w7rx8Lx3DOoDF3IyHwPXISO7l2u8Ix-gnQ-4Q&sa=X&sqi=2&ved=2ahUKEwiM3q-YwJKMAxUjJEQIHWldGyQQ0pQJegQICRAB&biw=1920&bih=945&dpr=1)
+[See Tweet](#elondeathnote)
 ![scary graffiti threatening elon musK](https://pbs.twimg.com/media/Gjr-1hPWcAAq8A1?format=jpg&name=large)
 
 
@@ -319,7 +320,7 @@ Taylor Fox spent five years working at libraries before joining Cybercrime Magaz
 
 
 
-[T2](https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4) [La°River](https://thakarashard.github.io/compiling/The-Losangeles-River) [GraffitiVerite](https://youtu.be/NFPKXFGlBns?si=XkupDwOKaVC_uUzo) [Reimagining The Los Angeles River - PBS](https://youtu.be/6T7hIh_q4Ok?si=M7ZKNFZU47iJEGNA)
+[T2](https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4) [La°River](https://thakarashard.github.io/compiling/The-Losangeles-River) [itiVerite](https://youtu.be/NFPKXFGlBns?si=XkupDwOKaVC_uUzo) [Reimagining The Los Angeles River - PBS](https://youtu.be/6T7hIh_q4Ok?si=M7ZKNFZU47iJEGNA)
 
 
 # N64
@@ -353,7 +354,7 @@ Taylor Fox spent five years working at libraries before joining Cybercrime Magaz
   <a href="">MP4</a>
   video.
 </video>
-## Graffiti Rock
+## iti Rock
 
 
   <IMG src="https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg">
@@ -626,7 +627,7 @@ NASA's Mars rover Curiosity acquired this image using its Mars Hand Lens Imager 
 
 When this image was obtained, the focus motor count position was 12660. This number indicates [ReadMore](https://mars.nasa.gov/raw_images/311412/?site=msl) [RelatedTweet-CuriosityWebSiteError](https://x.com/RicoThaka/status/1887708019586441316) [LARiVER](https://x.com/RicoThaka/status/1887200958259540046) [GraveYard_EAV_RELATiONSHiPS](https://x.com/RicoThaka/status/1842666782785683687) 
 ![Chun_Li](https://pbs.twimg.com/media/GZkHa1BaAAMc-zZ?format=jpg&name=large)
-[STREETFiGHTER3](https://x.com/RicoThaka/status/1844514052338483687) [CorALs_first_Complete_Scratch](https://x.com/RicoThaka/status/1844888512786726996) [RashardDancing](https://x.com/RicoThaka/status/1844889450142368126) [Coral_Recording](https://x.com/RicoThaka/status/1844891154195808394) [Moses_Scratches](https://x.com/RicoThaka/status/1844892396854837453) [Rashard_Making_LOVE_GRAFFiTi::TiMELAPSE](https://x.com/RicoThaka/status/1844893583381496005)
+[STREETFiGHTER3](https://x.com/RicoThaka/status/1844514052338483687) [CorALs_first_Complete_Scratch](https://x.com/RicoThaka/status/1844888512786726996) [RashardDancing](https://x.com/RicoThaka/status/1844889450142368126) [Coral_Recording](https://x.com/RicoThaka/status/1844891154195808394) [Moses_Scratches](https://x.com/RicoThaka/status/1844892396854837453) [Rashard_Making_LOVE_iTi::TiMELAPSE](https://x.com/RicoThaka/status/1844893583381496005)
 
 ![Coral](https://pbs.twimg.com/media/GZpcKs_aUAAtGM9?format=jpg&name=medium)
 
@@ -1161,7 +1162,7 @@ ASTER is a cooperative effort between NASA and Japan's Ministry of Economy Trade
 GO-5Y7R5 - the globe program 
 ## forums
 [EarthData](https://forum.earthdata.nasa.gov/viewforum.php?f=7&tagMatch=all&DAAC=3&keywords=&sid=42a07a8c348c09f8d868d2ba19c68587)
-[12ozProphet](https://forum.12ozprophet.com/) [graffhelp](https://www.reddit.com/r/graffhelp/comments/9bi06b/12_oz_prophet/)
+[12ozProphet](https://forum.12ozprophet.com/) [help](https://www.reddit.com/r/help/comments/9bi06b/12_oz_prophet/)
 
 [my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
 
