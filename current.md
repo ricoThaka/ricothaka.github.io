@@ -10,6 +10,13 @@
    
  </div>  
  
+
+
+<div class="tupperware">
+<img src="https://pbs.twimg.com/media/GmRc6wkaYAACeMQ?format=png&name=360x360" alt="Gangstafied_on_Winamp"/>
+<img src="https://pbs.twimg.com/media/GmSi_K6asAA1fza?format=png&name=360x360" alt="KeeponRockin_PeanutButterWolf_Charizma_on_Winamp"/>
+</div>
+
 ![mask?](https://pbs.twimg.com/media/GmMsCFJbYAAq24G?format=jpg&name=large)
 [RelatedTweet](https://x.com/RicoThaka/status/1901412018168668516) [Normani Partying it Up?](https://x.com/RicoThaka/status/1901410095512297942) [Bankroll Fresh "Walked In" feat. Travis Porter & Boochie (WSHH Exclusive - Official Music Video)](https://youtu.be/qoXRsuefSuU?si=rqTgTMK7o2RjwIyr)
 ![JupiterBlog](https://pbs.twimg.com/media/GmMt6mSakAA4oSy?format=jpg&name=large) 
@@ -52,11 +59,7 @@
   Your browser does not support the video tag.
 </video>
 
-<div class="tupperware">
-<img src="https://pbs.twimg.com/media/GmRc6wkaYAACeMQ?format=png&name=360x360" />
-<img src="https://assets.privy.com/picture_photos/2634698/medium/1570a0e010b0404a82d3fa4c9d1e6e36?1655315936" />
 
-</div>
 
 
 # Nitrogen Dioxide over the Continental US and Los Angeles
