@@ -6,6 +6,12 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+<figure class="floatright">
+  <img
+    src="https://photojournal.jpl.nasa.gov/jpegMod/PIA26422_modest.jpg"
+    alt="PIA26422: Europa Clipper Launch Team at JPL's Mission Control" />
+  <figcaption>PIA26422: Europa Clipper Launch Team at JPL's Mission Control</figcaption>
+</figure>
 
 # MISSION TO JUPITER:A History of the Galileo Project
 -by Michael Meltzer [DownLoad-PDF](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4231.pdf) 
