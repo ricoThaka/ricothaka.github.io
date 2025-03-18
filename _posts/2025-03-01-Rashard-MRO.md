@@ -6,7 +6,7 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
-
+[A Detailed Look at Europa - @JHUAPL](https://www.jhuapl.edu/destinations/missions/europa-clipper)
 ![MARS](https://pbs.twimg.com/media/Gi-nkFVbkAAq9cE?format=jpg&name=large)
 [Mars Attacks](https://x.com/RicoThaka/status/1886911203743842619)
 [MRO_TWEET](https://x.com/RicoThaka/status/1760472287265038367) [MRO SPECS PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf)
