@@ -10,6 +10,11 @@
    
  </div>  
  
+![nwrr](https://pbs.twimg.com/media/GbLiOqzakAEe4m9?format=jpg&name=large)
+[Related](https://x.com/RicoThaka/status/1851792155439960478) [SewerShark](https://x.com/RicoThaka/status/1851779269300752532)
+![ExperianceCuriosity](https://pbs.twimg.com/media/GmXMSqNagAA5tRM?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1902151468419035370) [Latest](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl)
+ [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock/)
 <div class="tupperware">
 <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04484/opgs/edr/ncam/NLB_795568569EDR_F1140918NCAM00354M_.JPG" alt="Gangstafied_on_Winamp"/>
 <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04484/opgs/edr/ncam/NLB_795568601EDR_F1140918NCAM00354M_.JPG" alt="KeeponRockin_PeanutButterWolf_Charizma_on_Winamp"/>
@@ -17,6 +22,11 @@
 <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04484/opgs/edr/ncam/NLB_795568408EDR_F1140918NCAM00264M_.JPG" alt="KeeponRockin_PeanutButterWolf_Charizma_on_Winamp"/>
 </div>
 
+### `<figure>`: The Figure with Optional Caption element
+The <figure> HTML element represents self-contained content, potentially with an optional caption, which is specified using the <figcaption> element. The figure, its caption, and its contents are referenced as a single unit. [SeeitRunHere](https://ricothaka.github.io/Rashard-MRO)
+
+![Css_FLOAT](https://pbs.twimg.com/media/GmXKoiIbUAA9Jyq?format=jpg&name=large)
+[Related](https://x.com/RicoThaka/status/1902149262370336907)
 
 <div class="tupperware">
 <img src="https://pbs.twimg.com/media/GmRc6wkaYAACeMQ?format=png&name=360x360" alt="Gangstafied_on_Winamp"/>
