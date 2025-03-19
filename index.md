@@ -210,3 +210,5 @@ Ports of the game were released for Sega Saturn, PlayStation and personal comput
 
 ![Coral](https://pbs.twimg.com/media/GO8ICQAakAA2mCh?format=jpg&name=medium)
 ![NormaniMyWifeVanessa](https://pbs.twimg.com/media/GP0a8R9agAAN84K?format=jpg&name=4096x4096)
+
+<img style="float:right; width:100%; height:100%; " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg" />
