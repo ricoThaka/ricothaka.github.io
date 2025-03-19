@@ -1,6 +1,8 @@
 ![RSS](https://pbs.twimg.com/media/GlTYmkga4AIfqyH?format=jpg&name=large) [RelatedTweet](https://x.com/RicoThaka/status/1897379535055937714)
 [RSS EmbedCode](https://rss.bloople.net/)
 
+{% include tar.md %}
+{% include bash.md %}
 
 <script src="https://gist.github.com/sskylar/968daf7dd6a876381c2d0663a1a933af.js"></script>
 
