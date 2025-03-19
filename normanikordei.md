@@ -7,6 +7,9 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+im not going to be mean to you or hurt you bc you chose him... this page is now archived an i will add relevant items unless signaled to do diff @blackgirlscode @nfl -Rashard @nasa-jpl 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTb7a3FpFLM?si=Y1m6fQX_rMVQrDch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Normani Help here are some mean tweets](https://x.com/RicoThaka/status/1901381990122975460) [Another](https://x.com/RicoThaka/status/1901383396242464858) [AnnnaOthaONe](https://x.com/RicoThaka/status/1901381990122975460) [Voyager Flyby](https://x.com/RicoThaka/status/1901380389786309053) [Mean but not - emergency read](https://x.com/RicoThaka/status/1901372783923482702)
 
 ### newsbae
@@ -163,7 +166,7 @@ its an [html5 video player](https://developer.mozilla.org/en-US/docs/Web/HTML/El
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309797860&color=%23cdcdcd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/unkle-versus-scratch-perverts-radio-one-breezeblock-show-02011999" title="U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)" target="_blank" style="color: #cccccc; text-decoration: none;">U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)</a></div>
 
-
+[NorMAni TweetsToRefresh Feed](https://ricothaka.github.io/twitters.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC9qi4VWBMI?si=FVJbP2asQuFYCx5K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
