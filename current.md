@@ -8,10 +8,19 @@
      
   {% endfor %}
    
- </div>  
+ </div> 
 
+
+@blackgirlscode at @nasa-jpl we use @mozilla so I have this idea for an [adaptive web layout](https://mailchimp.com/resources/adaptive-vs-responsive-design/) and wanted my webcontent to be tested in respect to the screen its running on according to the docs `The device-width CSS media feature can be used to test the width of an output device's rendering surface.` but the page says its deprecated...[device-width @mdn = deprecated ?](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/device-width) Deprecated: This feature is no longer recommended. Though some browsers might still support [it](https://dilbert.com/), it may have already been removed from the relevant web standards, may be in the process of being dropped, or may only be kept for compatibility purposes. Avoid using it, and update existing code if possible; see the compatibility table at the bottom of this page to guide your decision. Be aware that this feature may cease to work at any time. @nasa-jpl [width mediaQueries](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/width)
+
+[Using media queries - @container help](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
  [CSS CONTAiNERS - OldMArsBlog](https://codepen.io/ricoThaka/pen/QwLgpOr) [FLexBox - flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) , Im working on the main container for [HoletoAnotherUniverse - /ricothaka](https://ricothaka.github.io/twitters/htau.html) thats the old compared to the new 
 ![htua](https://pbs.twimg.com/media/GmbzY_YagAAe9KW?format=jpg&name=large)
+
+@normani, this is a good thing to share with @mercedes-benz bc they are [FOSS](https://freeopensourcesoftware.org//index.php/Main_Page) and will eventually grill me in some respect of my use of opensource technologies to stay employed. If @nasa is running @debian I could get cornerd in the street by an angry german reporter! I like thier learning materials, we learned DevOps in Atlanta so Imma learn about Foss when its practical and keep growing bc We work with them either way at some level at this point just running Android!
+
+## The Mercedes-Benz FOSS Manifesto - Our commitment to be truly open
+Over the last few years, Free and Open Source Software (FOSS) has become the foundation of just about every application across the industry. At Mercedes-Benz, we have been transforming our approach towards software development for quite a while – away from a strict “we develop our own code” attitude towards embracing Open and Inner Source. [ReadMore](https://github.com/mercedes-benz/mercedes-benz-foss-manifesto) [Mercedes-Benz Open Source Code of Conduct](https://github.com/mercedes-benz/foss/blob/master/CODE_OF_CONDUCT.md) [Mercedes Integrity Code - PDF](https://group.mercedes-benz.com/documents/company/compliance/mercedes-benz-group-ag-integrity-code.pdf) [Sustainability](https://group.mercedes-benz.com/sustainability/) . . . @Blackgirlscode The values are a great value to read, i wish i had my android, it was such a good ereader [GNU/Linux tutorials](https://www.debian.org/doc/manuals/debian-reference/ch01.en.html)
 
 [TELNET COMMANDS - ulTRAX'S ARCHIVE](https://ultrick.tripod.com/codes/telnet01.html)
 [TELNET - LIST OF TELNET SERVERS - Places to Telnet](https://store.chipkin.com/articles/telnet-list-of-telnet-servers)
