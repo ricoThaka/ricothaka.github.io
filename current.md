@@ -10,8 +10,16 @@
    
  </div>  
 
- [CSS CONTAiNERS - OldMArsBlog](https://codepen.io/ricoThaka/pen/QwLgpOr)
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/Earth?src=hash&amp;ref_src=twsrc%5Etfw">#Earth</a> <a href="https://twitter.com/NASA_Astronauts?ref_src=twsrc%5Etfw">@NASA_Astronauts</a> <a href="https://twitter.com/hashtag/WelcomeHome?src=hash&amp;ref_src=twsrc%5Etfw">#WelcomeHome</a> -<a href="https://twitter.com/hashtag/rashard?src=hash&amp;ref_src=twsrc%5Etfw">#rashard</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasaJPL</a> <a href="https://twitter.com/hashtag/Ground_n_Flight_Datasystems?src=hash&amp;ref_src=twsrc%5Etfw">#Ground_n_Flight_Datasystems</a> . . . <a href="https://twitter.com/USDOL?ref_src=twsrc%5Etfw">@usdol</a> <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@essence</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <a href="https://twitter.com/LACo_DPSS?ref_src=twsrc%5Etfw">@LACo_DPSS</a> <a href="https://t.co/j5AhATD2AE">https://t.co/j5AhATD2AE</a> <a href="https://t.co/lXUDd0rp9U">pic.twitter.com/lXUDd0rp9U</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1902117989383860506?ref_src=twsrc%5Etfw">March 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ [CSS CONTAiNERS - OldMArsBlog](https://codepen.io/ricoThaka/pen/QwLgpOr) [FLexBox - flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) , Im working on the main container for [HoletoAnotherUniverse - /ricothaka](https://ricothaka.github.io/twitters/htau.html) thats the old compared to the new 
+![htua](https://pbs.twimg.com/media/GmbzY_YagAAe9KW?format=jpg&name=large)
+
+[TELNET COMMANDS - ulTRAX'S ARCHIVE](https://ultrick.tripod.com/codes/telnet01.html)
+[TELNET - LIST OF TELNET SERVERS - Places to Telnet](https://store.chipkin.com/articles/telnet-list-of-telnet-servers)
+[Places to Telnet - TELNET.ORG](https://telnet.org/htm/places.htm)
+[TELNETDiR - https://victoria.tc.ca/history/internet/telnet-sites.html - BLOCKED at LAPL](https://victoria.tc.ca/history/internet/telnet-sites.html)
+[What are your favorite Telnet sites (Besides Fozz's) - REDDiT r/retrobattlestations/](https://www.reddit.com/r/retrobattlestations/)
+![RSS](https://pbs.twimg.com/media/GlTYmkga4AIfqyH?format=jpg&name=large) [RelatedTweet](https://x.com/RicoThaka/status/1897379535055937714)
+[RSS EmbedCode](https://rss.bloople.net/)
 
 ![nwrr](https://pbs.twimg.com/media/GbLiOqzakAEe4m9?format=jpg&name=large)
 [Related](https://x.com/RicoThaka/status/1851792155439960478) [SewerShark](https://x.com/RicoThaka/status/1851779269300752532)
