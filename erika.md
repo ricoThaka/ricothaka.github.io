@@ -1,6 +1,22 @@
 #  <time datetime="{{ site.time | date: '%B %d, %Y' }}">{{ 'now' | date: "%Y" }} </time>
 # {{ site.time | date: '%B %d, %Y' }}m5rt5
 
+
+![couple Rashard iman kelly and Erika Renee Johnson parents of Coral Iris Kelly](https://pbs.twimg.com/media/GE4slZFa0AAnIvT?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1751386466067140670)
+![ERika 5755](https://pbs.twimg.com/media/GE4sDUBbcAA0X0E?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1751386466067140670)
+![Erika s197](https://pbs.twimg.com/media/GE4uFyAbMAAhpWB?format=jpg&name=large)
+![Pasadena s197](https://pbs.twimg.com/media/GSK5YsuaEAAGOzM?format=jpg&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1811214542673973278)
+[RelatedTweet](https://x.com/RicoThaka/status/1751388131327349220)
+![BJJ](https://pbs.twimg.com/media/GE41WC1agAAH-2Y?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1901693346214818023/photo/1)
+![fitter](https://pbs.twimg.com/media/GJ37f_-bUAAR-Yt?format=jpg&name=large)
+![color](https://pbs.twimg.com/media/GJ37ekwakAAPo5U?format=jpg&name=medium)
+[RelatedTweet](https://x.com/BubbleGumPop510/status/1773850819357720899)
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/UY1tw9PVav">https://t.co/UY1tw9PVav</a> <a href="https://twitter.com/OlaKaellenius?ref_src=twsrc%5Etfw">@OlaKaellenius</a> <a href="https://twitter.com/hashtag/Application?src=hash&amp;ref_src=twsrc%5Etfw">#Application</a> <a href="https://t.co/LFdMXloXs4">https://t.co/LFdMXloXs4</a> -<a href="https://twitter.com/hashtag/rashard?src=hash&amp;ref_src=twsrc%5Etfw">#rashard</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/esa?ref_src=twsrc%5Etfw">@esa</a> <a href="https://twitter.com/nickyjenner1?ref_src=twsrc%5Etfw">@nickyjenner1</a> iGot rumors iNeed cleaned up b4 my job <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> gets interrupted I am n a relationship w/<a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> that might bc closing out an this job maybe <a href="https://twitter.com/hashtag/PartTime?src=hash&amp;ref_src=twsrc%5Etfw">#PartTime</a>! <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1901769189653926187?ref_src=twsrc%5Etfw">March 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
