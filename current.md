@@ -11,6 +11,11 @@
  </div> 
 
 
+
+
+
+
+[Phylicia Rashad Talks Respect, The Rhythm Of Acting, Chadwick Boseman's Brilliance + More](https://youtu.be/LRY4QNuf6tg?t=2716)
 @blackgirlscode at @nasa-jpl we use @mozilla so I have this idea for an [adaptive web layout](https://mailchimp.com/resources/adaptive-vs-responsive-design/) and wanted my webcontent to be tested in respect to the screen its running on according to the docs `The device-width CSS media feature can be used to test the width of an output device's rendering surface.` but the page says its deprecated...[device-width @mdn = deprecated ?](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/device-width) Deprecated: This feature is no longer recommended. Though some browsers might still support [it](https://dilbert.com/), it may have already been removed from the relevant web standards, may be in the process of being dropped, or may only be kept for compatibility purposes. Avoid using it, and update existing code if possible; see the compatibility table at the bottom of this page to guide your decision. Be aware that this feature may cease to work at any time. @nasa-jpl [width mediaQueries](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/width)
 
 [Using media queries - @container help](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
