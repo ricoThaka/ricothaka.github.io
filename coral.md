@@ -19,6 +19,35 @@
 
 
 # Dear_Coral : Life
+<div class="tupperware">
+
+<div class="tupperware">
+
+<a href="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GE4wbvmacAA-4Na?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4wbvmacAA-4Na?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GE4wcycbsAAjxPS?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4wcycbsAAjxPS?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GIMDjmAbcAAJvVy?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GIMDjmAbcAAJvVy?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+</div>
+
+[RelateDTweet - Coral At A_B_C dayccare](https://x.com/thakasartu/status/1902849204785123812) [Related](https://x.com/RicoThaka/status/1751390723646357855) [VertThrowie](https://x.com/RicoThaka/status/1766259716261577111)
+</div>
+
 
 # Black On Both Sides
 by [Mos Def](https://x.com/mosdefofficial?lang=en)

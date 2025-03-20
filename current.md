@@ -11,8 +11,45 @@
  </div> 
 
 
+<div class="tupperware">
 
+<a href="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
 
+<a href="https://pbs.twimg.com/media/GE4wbvmacAA-4Na?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4wbvmacAA-4Na?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GE4wcycbsAAjxPS?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4wcycbsAAjxPS?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GIMDjmAbcAAJvVy?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GIMDjmAbcAAJvVy?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+</div>
+
+[RelateDTweet - Coral At A_B_C dayccare](https://x.com/thakasartu/status/1902849204785123812) [Related](https://x.com/RicoThaka/status/1751390723646357855) [VertThrowie](https://x.com/RicoThaka/status/1766259716261577111)
+
+![couple Rashard iman kelly and Erika Renee Johnson parents of Coral Iris Kelly](https://pbs.twimg.com/media/GE4slZFa0AAnIvT?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1751386466067140670)
+![ERika 5755](https://pbs.twimg.com/media/GE4sDUBbcAA0X0E?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1751386466067140670)
+![Erika s197](https://pbs.twimg.com/media/GE4uFyAbMAAhpWB?format=jpg&name=large)
+![Pasadena s197](https://pbs.twimg.com/media/GSK5YsuaEAAGOzM?format=jpg&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1811214542673973278)
+[RelatedTweet](https://x.com/RicoThaka/status/1751388131327349220)
+![BJJ](https://pbs.twimg.com/media/GE41WC1agAAH-2Y?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1901693346214818023/photo/1)
+![fitter](https://pbs.twimg.com/media/GJ37f_-bUAAR-Yt?format=jpg&name=large)
+![color](https://pbs.twimg.com/media/GJ37ekwakAAPo5U?format=jpg&name=medium)
+[RelatedTweet](https://x.com/BubbleGumPop510/status/1773850819357720899)
 
 [LA CHAT speaks on JUICY J, PROJECT PAT, GANGSTA BOO, Music, Motherhood, CHICKENHEAD and More!  EP61](https://www.youtube.com/watch?v=mu1NpW6loFc&ab_channel=BornRichClubPodcast)
 [Phylicia Rashad Talks Respect, The Rhythm Of Acting, Chadwick Boseman's Brilliance + More](https://youtu.be/LRY4QNuf6tg?t=2716)
