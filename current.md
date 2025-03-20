@@ -10,6 +10,7 @@
    
  </div> 
 
+[Library MoneY](https://x.com/RicoThaka/status/1902547223852007461) [PDF @nasa-jpl @nasa @whitehouse](https://www.lapl.org/sites/default/files/press/2022/pdfs/12-6-22-lapl-inclusion-release.pdf)
 
 <div class="tupperware">
 
