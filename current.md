@@ -10,6 +10,16 @@
    
  </div> 
 
+![AeroNet_GDS](https://aeronet.gsfc.nasa.gov/images/aeronet_banner2.gif)
+[AeroNet](https://aeronet.gsfc.nasa.gov/new_web/draw_map_display_aod_v3.html) [RelatedTweet @nasa-jpl](https://x.com/RicoThaka/status/1902908854733770894)
+![GOOGLE_EARTH_AERONET](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/aeronet2.png)
+![AeroNET](https://aeronet.gsfc.nasa.gov/images/aerosol_logo.gif)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260595988&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bob-mixtapes" title="B.o.B Mixtapes" target="_blank" style="color: #cccccc; text-decoration: none;">B.o.B Mixtapes</a> · <a href="https://soundcloud.com/bob-mixtapes/03-fkn-science-bro" title="03 Fkn&#x27; Science Bro" target="_blank" style="color: #cccccc; text-decoration: none;">03 Fkn&#x27; Science Bro</a></div>
+
+# Big Brother (software) [Wiki](https://en.wikipedia.org/wiki/Big_Brother_(software))
+![BigBrother](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/Capture.PNG)
+
 [Library MoneY](https://x.com/RicoThaka/status/1902547223852007461) [PDF @nasa-jpl @nasa @whitehouse](https://www.lapl.org/sites/default/files/press/2022/pdfs/12-6-22-lapl-inclusion-release.pdf)
 
 <div class="tupperware">
