@@ -1,3 +1,107 @@
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/LACityView35?ref_src=twsrc%5Etfw">@LACityView35</a> <a href="https://twitter.com/LACo_DPSS?ref_src=twsrc%5Etfw">@LACo_DPSS</a> i was a <a href="https://twitter.com/hashtag/GoodGraffitiDad?src=hash&amp;ref_src=twsrc%5Etfw">#GoodGraffitiDad</a> i know someone <a href="https://twitter.com/voguemagazine?ref_src=twsrc%5Etfw">@voguemagazine</a> can put their hands on <a href="https://twitter.com/iamcardib?ref_src=twsrc%5Etfw">@iamcardib</a> <a href="https://twitter.com/GeorgieC?ref_src=twsrc%5Etfw">@GeorgieC</a> <a href="https://twitter.com/LaurieofMars?ref_src=twsrc%5Etfw">@LaurieofMars</a> ...bc i wrote on things but theres a flow during a <a href="https://twitter.com/hashtag/CoupDeTat?src=hash&amp;ref_src=twsrc%5Etfw">#CoupDeTat</a> <a href="https://t.co/nGFDWK3Hpx">https://t.co/nGFDWK3Hpx</a> <a href="https://twitter.com/KeishaBottoms?ref_src=twsrc%5Etfw">@KeishaBottoms</a> <a href="https://twitter.com/FultonProbate?ref_src=twsrc%5Etfw">@FultonProbate</a> <a href="https://twitter.com/RepKamlagerDove?ref_src=twsrc%5Etfw">@RepKamlagerDove</a> knw them!</p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1902849204785123812?ref_src=twsrc%5Etfw">March 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#_GRAFFITI">
+
+![LOVER on CHalkBoard](https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg)
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/NikoNN90s_FUJi_400PROh.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/LOVER_CORAL_WALL_HELLO_KiTTY_FOR_CORAL.jpg">
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg">
+
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/MarthaCooper_and_muna.jpg" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/MarthaCooper_and_muna.jpg" >
+          </div>
+        </div>
+    </div>
+</div>
+
+[Revenge of Portland’s ‘blonde babe’: Teen prostitute told all about reform-school lesbians during 1959 vice scandal](https://www.oregonlive.com/history/2019/11/revenge-of-portlands-blonde-babe-teen-prostitute-told-all-about-reform-school-lesbians-during-1959-vice-scandal.html)
+[NEWSPAPER_ARCHiVE:The Opinion Volume 36 Number 12 – May 1, 1996](https://digitalcommons.law.buffalo.edu/the_opinion/367/)
+[HENSE | A Local's Guide to Atlanta](https://www.youtube.com/watch?v=-1QN6zQ78zg)
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/patriotgraff.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/patriotGRAFFiTi.jpg">
+
+[Sold in America: The Workers](https://www.youtube.com/watch?v=LRQqN0qPEus)
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/moona5.jpg" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/moona5.jpg" >
+          </div>
+        </div>
+    </div>
+</div>
+
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb251d78313c14000007/vsco5fc4bb27bbd2e.jpg">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb251d78313c14000007/vsco5fc4bb27bbd2e.jpg" >
+          </div>
+        </div>
+    </div>
+</div>
+
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/matt_and_Dust.jpg" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/matt_and_Dust.jpg" >
+          </div>
+        </div>
+    </div>
+</div>
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/tuk.jpg">
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/HANDSTYLES_KROGER.jpg" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/HANDSTYLES_KROGER.jpg" >
+          </div>
+        </div>
+    </div>
+</div>
+
+
+
+[Preserving New York's History of Graffiti Art](https://time.com/4743207/martha-cooper-subway-graffiti/)
+
+![NORMANI](https://pbs.twimg.com/media/GmhDXyeaEAIPXWS?format=jpg&name=large)
+
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">\\<a href="https://twitter.com/REVOK1?ref_src=twsrc%5Etfw">@REVOK1</a> <a href="https://twitter.com/poesiatranscend?ref_src=twsrc%5Etfw">@poesiatranscend</a> do yall know each other? idk who i am anymore, i painted with a <a href="https://twitter.com/hashtag/Network?src=hash&amp;ref_src=twsrc%5Etfw">#Network</a> <a href="https://twitter.com/hashtag/streetbomber?src=hash&amp;ref_src=twsrc%5Etfw">#streetbomber</a> who i think is my cousin and whatever philosophy ron left me with, im confused, i cant have a pencil or marker! i wanna paint! <a href="https://twitter.com/Ironlak?ref_src=twsrc%5Etfw">@Ironlak</a> <a href="https://twitter.com/RustOleum?ref_src=twsrc%5Etfw">@RustOleum</a> <a href="https://twitter.com/hashtag/alltwitter?src=hash&amp;ref_src=twsrc%5Etfw">#alltwitter</a> <a href="https://twitter.com/TMZ?ref_src=twsrc%5Etfw">@tmz</a> <a href="https://twitter.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> <a href="https://t.co/IQtccESZp3">pic.twitter.com/IQtccESZp3</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1718024240681910401?ref_src=twsrc%5Etfw">October 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
