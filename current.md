@@ -10,6 +10,29 @@
    
  </div> 
 
+
+[NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
+
+<img src="https://www.hotfootdesign.co.uk/wp-content/uploads/2015/11/nasa07_1.jpg">
+
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://1.bp.blogspot.com/-_VAM9vv6woU/Xf5er3xzNcI/AAAAAAAAGeM/OOYW18zZzPEwvYXcWg9M_fsAv5cS5KsMgCNcBGAsYHQ/s1600/bring.jpg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://1.bp.blogspot.com/-_VAM9vv6woU/Xf5er3xzNcI/AAAAAAAAGeM/OOYW18zZzPEwvYXcWg9M_fsAv5cS5KsMgCNcBGAsYHQ/s1600/bring.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+<a href="https://readings.design/PDF/the_elements_of_typographic_style.pdf">The Elements of Typographic Style Robert Bringhurst 1992 </a>
+
 ![AeroNet_GDS](https://aeronet.gsfc.nasa.gov/images/aeronet_banner2.gif)
 [AeroNet](https://aeronet.gsfc.nasa.gov/new_web/draw_map_display_aod_v3.html) [RelatedTweet @nasa-jpl](https://x.com/RicoThaka/status/1902908854733770894) [Related Boats](https://x.com/RicoThaka/status/1902907397947134215) [La_Political Ref](https://x.com/RicoThaka/status/1902905642035319144) [TekSystems @blackgirlscode](https://x.com/RicoThaka/status/1902899856387256407)
 ![GOOGLE_EARTH_AERONET](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/aeronet2.png)
