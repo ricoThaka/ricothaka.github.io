@@ -43,6 +43,20 @@
 [Bob Marley Legend full album](https://www.youtube.com/watch?v=Hp325M9MMFI)
 [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
 
 <div class="flex-container">
 
@@ -61,22 +75,8 @@
 
 <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#MSK_GRAFFITI">
  
-   <a href="https://www.youtube.com/watch?v=NX7zS_GRX14"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/FRANKSKiv103BMORE.PNG" alt="">  </a>
+  <a href="https://www.youtube.com/watch?v=NX7zS_GRX14"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/FRANKSKiv103BMORE.PNG" alt="">  </a>
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
-        </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
-         </div>
-    </div>
-  </div>
-</div>
 
 <img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-2-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4184&hei=1358&qlt=100,0&resMode=sharp2&size=4184,1358">
 <img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-2-b.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4114&hei=810&qlt=100,0&resMode=sharp2&size=4114,810">
@@ -103,6 +103,7 @@
         </div>
     </div>
 </div>
+
 [Revenge of Portland’s ‘blonde babe’: Teen prostitute told all about reform-school lesbians during 1959 vice scandal](https://www.oregonlive.com/history/2019/11/revenge-of-portlands-blonde-babe-teen-prostitute-told-all-about-reform-school-lesbians-during-1959-vice-scandal.html)
 [NEWSPAPER_ARCHiVE:The Opinion Volume 36 Number 12 – May 1, 1996](https://digitalcommons.law.buffalo.edu/the_opinion/367/)
 [HENSE | A Local's Guide to Atlanta](https://www.youtube.com/watch?v=-1QN6zQ78zg)
