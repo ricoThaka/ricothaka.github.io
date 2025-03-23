@@ -10,6 +10,15 @@
    
  </div> 
 
+![Juno](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0012/EXTRAS/BROWSE/EDR/JUPITER/ORBIT_22/JNCE_2019255_22G00126_V01.PNG)
+[RelatedTweet](https://x.com/RicoThaka/status/1903955084368883886) work on embeds for [Jupiter WorkNotes PAge](https://ricothaka.github.io/rashardmro/2024/11/19/Jupiter.html)
+
+### FavSong : Sticks in my Bun [Audio](https://ia601800.us.archive.org/16/items/nicki-minaj-its-barbie-bitch-2009-mixtape/23.%20Sticks%20In%20My%20Bun.mp3)
+<audio controls>
+  <source src="https://ia601800.us.archive.org/16/items/nicki-minaj-its-barbie-bitch-2009-mixtape/23.%20Sticks%20In%20My%20Bun.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<iframe src="https://archive.org/embed/nicki-minaj-its-barbie-bitch-2009-mixtape" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 
