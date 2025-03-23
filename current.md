@@ -11,7 +11,7 @@
  </div> 
 
 ![Juno](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0012/EXTRAS/BROWSE/EDR/JUPITER/ORBIT_22/JNCE_2019255_22G00126_V01.PNG)
-[RelatedTweet](https://x.com/RicoThaka/status/1903955084368883886) work on embeds for [Jupiter WorkNotes PAge](https://ricothaka.github.io/rashardmro/2024/11/19/Jupiter.html)
+[RelatedTweet](https://x.com/RicoThaka/status/1903955084368883886) work on embeds for [Jupiter WorkNotes PAge](https://ricothaka.github.io/rashardmro/2024/11/19/Jupiter.html) [ATLAS](https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3Ajuno&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*&start=24)
 
 ### FavSong : Sticks in my Bun [Audio](https://ia601800.us.archive.org/16/items/nicki-minaj-its-barbie-bitch-2009-mixtape/23.%20Sticks%20In%20My%20Bun.mp3)
 <audio controls>
