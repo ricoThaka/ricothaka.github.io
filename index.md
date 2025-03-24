@@ -47,7 +47,7 @@ carousels:
 {{ site.time | date: '%c' }}
 
 # Currently Compling g_e, m/s^2
-[BEVERLY HILLS LUXURY (Episode 149)  🚶‍♂️ EXPLORE RODEO DRIVE  4K HDR 60FPS](https://www.youtube.com/watch?v=lP0UeXYnN6M)
+[BEVERLY HILLS LUXURY (Episode 149)  🚶‍♂️ EXPLORE RODEO DRIVE  4K HDR 60FPS](https://www.youtube.com/watch?v=lP0UeXYnN6M) [Supercars Hit Santa Monica Beach for Wildfire Relief  Ferrari, Lambo, Rolls-Royce at Charity Event](https://www.youtube.com/watch?v=HxIAOvRHUFM)
 {% include_relative current.md %}
 
 
