@@ -11,7 +11,7 @@
  </div> 
 
 
-[Visiting Atlanta Georgia Most Dangerous Hoods](https://youtu.be/oLLR73S493A?t=801) [The Monkey Hu$tle (1976): A Cult Classic with Yaphet Kotto - BLAXPLOiTATiON](https://www.youtube.com/watch?v=DnrJXABTdL0)
+[Visiting Atlanta Georgia Most Dangerous Hoods](https://youtu.be/oLLR73S493A?t=801) [The Monkey Hu$tle (1976): A Cult Classic with Yaphet Kotto - BLAXPLOiTATiON](https://www.youtube.com/watch?v=DnrJXABTdL0) [Krush Groove Full Movie w/ Run-D.M.C., Sheila E. & The Fat Boys](https://www.youtube.com/watch?v=SDRHe6FEY6M)
 ![Juno](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0012/EXTRAS/BROWSE/EDR/JUPITER/ORBIT_22/JNCE_2019255_22G00126_V01.PNG)
 [RelatedTweet](https://x.com/RicoThaka/status/1903955084368883886) work on embeds for [Jupiter WorkNotes PAge](https://ricothaka.github.io/rashardmro/2024/11/19/Jupiter.html) [ATLAS](https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3Ajuno&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*&start=24)
 
