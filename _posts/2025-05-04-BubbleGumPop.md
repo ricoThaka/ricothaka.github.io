@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: BubbleGumPop
+---
 
 <div class='twoPanelSpread'>
   <div class='row'>
