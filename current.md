@@ -16,8 +16,10 @@
 
 <iframe src="https://archive.org/embed/DJ_Scream_and_OJ_Da_Juiceman_-_Alaska_N_Atlanta_3-2021" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-## DJ Scream & OJ Da Juiceman - Alaska N Atlanta 3-2021
-![compat](https://blaupunkt-cdn.cyllene.cloud/wp-content/uploads/2023/12/FI_MADRID-200-BT_1.jpg)
+## DJ scream & OJ Da Juiceman - Alaska N Atlanta 3-2021
+![compat](https://blaupunkt-cdn.cyllene.cloud/wp-content/uploads/2023/12/FI_MADRID-200-BT_1.jpg) [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf)
 [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://www.youtube.com/watch?v=2UHm2ASOpXA) 
 
 ![TheShow](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIZ5HFhTzfw7diKQl9kloFX4SwJcIrtoZXZaTx5B0OI5vPipjLUBpSsDft7WeFf0c7yI5dTNpH1CSPzZPW3IM0aeBfwRAVI7d25RcKrrbLpW0nypkWgiqPKvlArbxSS4Oz89CurGizPOp/s640/the+show+-+big+and+puff.jpg)
@@ -31,7 +33,7 @@
 ![Juno](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0012/EXTRAS/BROWSE/EDR/JUPITER/ORBIT_22/JNCE_2019255_22G00126_V01.PNG)
 [RelatedTweet](https://x.com/RicoThaka/status/1903955084368883886) work on embeds for [Jupiter WorkNotes PAge](https://ricothaka.github.io/rashardmro/2024/11/19/Jupiter.html) [ATLAS](https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3Ajuno&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*&start=24)
 
-### FavSong : Sticks in my Bun [Audio](https://ia601800.us.archive.org/16/items/nicki-minaj-its-barbie-bitch-2009-mixtape/23.%20Sticks%20In%20My%20Bun.mp3)
+### Favsong : sticks in my Bun [Audio](https://ia601800.us.archive.org/16/items/nicki-minaj-its-barbie-bitch-2009-mixtape/23.%20Sticks%20In%20My%20Bun.mp3)
 <audio controls>
   <source src="https://ia601800.us.archive.org/16/items/nicki-minaj-its-barbie-bitch-2009-mixtape/23.%20Sticks%20In%20My%20Bun.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
@@ -122,7 +124,7 @@ Your browser does not support the audio element.
 
 @normani, this is a good thing to share with @mercedes-benz bc they are [FOSS](https://freeopensourcesoftware.org//index.php/Main_Page) and will eventually grill me in some respect of my use of opensource technologies to stay employed. If @nasa is running @debian I could get cornerd in the street by an angry german reporter! I like thier learning materials, we learned DevOps in Atlanta so Imma learn about Foss when its practical and keep growing bc We work with them either way at some level at this point just running Android!
 
-## The Mercedes-Benz FOSS Manifesto - Our commitment to be truly open
+## The Mercedes-Benz FOss Manifesto - Our commitment to be truly open
 Over the last few years, Free and Open Source Software (FOSS) has become the foundation of just about every application across the industry. At Mercedes-Benz, we have been transforming our approach towards software development for quite a while – away from a strict “we develop our own code” attitude towards embracing Open and Inner Source. [ReadMore](https://github.com/mercedes-benz/mercedes-benz-foss-manifesto) [Mercedes-Benz Open Source Code of Conduct](https://github.com/mercedes-benz/foss/blob/master/CODE_OF_CONDUCT.md) [Mercedes Integrity Code - PDF](https://group.mercedes-benz.com/documents/company/compliance/mercedes-benz-group-ag-integrity-code.pdf) [Sustainability](https://group.mercedes-benz.com/sustainability/) . . . @Blackgirlscode The values are a great value to read, i wish i had my android, it was such a good ereader [GNU/Linux tutorials](https://www.debian.org/doc/manuals/debian-reference/ch01.en.html)
 
 [TELNET COMMANDS - ulTRAX'S ARCHIVE](https://ultrick.tripod.com/codes/telnet01.html)
