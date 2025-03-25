@@ -5,6 +5,7 @@ published: true
 ---
 
 [Jekyll: including a post inside another post](https://stackoverflow.com/questions/30205465/jekyll-including-a-post-inside-another-post)
+
 {% include tar.md %}
 {% include bash.md %}
 {% include computing.md %}

@@ -10,14 +10,22 @@
    
  </div> 
 
+
+
+
+![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/904460989&color=%2300fff6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/starredup" title="Lone5tar" target="_blank" style="color: #cccccc; text-decoration: none;">Lone5tar</a> · <a href="https://soundcloud.com/starredup/jay-electronica-real-magic" title="Jay Electronica - Real Magic (feat. Ronald Regan) [Act. II The Patents Of Nobility]" target="_blank" style="color: #cccccc; text-decoration: none;">Jay Electronica - Real Magic (feat. Ronald Regan) [Act. II The Patents Of Nobility]</a></div>
+
+![compat](https://blaupunkt-cdn.cyllene.cloud/wp-content/uploads/2023/12/FI_MADRID-200-BT_1.jpg) 
+
 ## Madrid 200 BT 
 1-DIN car radio in stylish Blaupunkt design with RDS tuner, Bluetooth with hands-free function, USB and AUX input. [Order](https://blaupunkt.com/product/madrid-200-bt/#)
-![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif)
 
 <iframe src="https://archive.org/embed/DJ_Scream_and_OJ_Da_Juiceman_-_Alaska_N_Atlanta_3-2021" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## DJ scream & OJ Da Juiceman - Alaska N Atlanta 3-2021
-![compat](https://blaupunkt-cdn.cyllene.cloud/wp-content/uploads/2023/12/FI_MADRID-200-BT_1.jpg) [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+[MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf)
 [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://www.youtube.com/watch?v=2UHm2ASOpXA) 
