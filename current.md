@@ -10,6 +10,14 @@
    
  </div> 
 
+## Madrid 200 BT 
+1-DIN car radio in stylish Blaupunkt design with RDS tuner, Bluetooth with hands-free function, USB and AUX input. [Order](https://blaupunkt.com/product/madrid-200-bt/#)
+![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif)
+
+<iframe src="https://archive.org/embed/DJ_Scream_and_OJ_Da_Juiceman_-_Alaska_N_Atlanta_3-2021" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## DJ Scream & OJ Da Juiceman - Alaska N Atlanta 3-2021
+![compat](https://blaupunkt-cdn.cyllene.cloud/wp-content/uploads/2023/12/FI_MADRID-200-BT_1.jpg)
 [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://www.youtube.com/watch?v=2UHm2ASOpXA) 
 
 ![TheShow](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIZ5HFhTzfw7diKQl9kloFX4SwJcIrtoZXZaTx5B0OI5vPipjLUBpSsDft7WeFf0c7yI5dTNpH1CSPzZPW3IM0aeBfwRAVI7d25RcKrrbLpW0nypkWgiqPKvlArbxSS4Oz89CurGizPOp/s640/the+show+-+big+and+puff.jpg)
