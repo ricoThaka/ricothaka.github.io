@@ -1,3 +1,36 @@
+@media print, screen and (max-width: 1060px) {
+
+
+
+  header, main, footer {
+    float:none;
+
+    h1 {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+  }
+
+
+#MAiN {
+    margin: 0 auto;
+    max-width: 90vw;
+    margin: auto;  
+  }
+
+  footer{
+    text-align: center;
+        position: 0;
+    left:auto;
+    bottom:auto;
+    width:auto;
+    }
+}
+
+
 
 @media print, screen and (max-width: 1060px) {
 

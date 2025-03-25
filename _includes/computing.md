@@ -1,5 +1,5 @@
-
-
+## Design for different form factors
+![Android Design](https://developer.android.com/static/images/topic/libraries/architecture/navigation-form-factors-whitespace.png) The design of your app’s UI isn't tied to a particular device form factor. Android applications need to adapt to a number of different types of devices, from 4-inch handsets to 50-inch TVs to ChromeOS devices with resizable windows. [readmore - developer.android.com](https://developer.android.com/guide/navigation/responsive/form-factors)
 
 [FLexBox - flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) , Im working on the main container for [HoletoAnotherUniverse - /ricothaka](https://ricothaka.github.io/twitters/htau.html) thats the old compared to the new 
 ![htua](https://pbs.twimg.com/media/GmbzY_YagAAe9KW?format=jpg&name=large)
@@ -12,8 +12,6 @@
 ![RSS](https://pbs.twimg.com/media/GlTYmkga4AIfqyH?format=jpg&name=large) [RelatedTweet](https://x.com/RicoThaka/status/1897379535055937714)
 [RSS EmbedCode](https://rss.bloople.net/)
 
-{% include tar.md %}
-{% include bash.md %}
 
 <script src="https://gist.github.com/sskylar/968daf7dd6a876381c2d0663a1a933af.js"></script>
 
@@ -85,6 +83,7 @@ Saturday Family Night Fantasy with [Pizza](https://www.youtube.com/watch?v=bCfH4
 [Building a Smarter Los Angeles: Data, Blockchain, and the Smart City By Ted Ross (MoCo Los Angeles)](https://www.youtube.com/watch?v=Z1nZTbnaZg0) [Smart LA SMartCities PDF](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)
 
 ![SMART_LA](https://pbs.twimg.com/media/GWGyklMWwAEuQdB?format=jpg&name=large)
+
 
 
 Normani I dont know whats going on in your world. But I got my worknotes sored here. BlockQuote is heavily filtered at the library so I dont know what it really looks like
