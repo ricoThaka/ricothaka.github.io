@@ -1,3 +1,7 @@
+
+
+# [object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit) The object-fit CSS property sets how the content of a replaced element, such as an <img> or <video>, should be resized to fit its container. [@mozilla MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+
 ## Design for different form factors
 ![Android Design](https://developer.android.com/static/images/topic/libraries/architecture/navigation-form-factors-whitespace.png) The design of your app’s UI isn't tied to a particular device form factor. Android applications need to adapt to a number of different types of devices, from 4-inch handsets to 50-inch TVs to ChromeOS devices with resizable windows. [readmore - developer.android.com](https://developer.android.com/guide/navigation/responsive/form-factors)
 

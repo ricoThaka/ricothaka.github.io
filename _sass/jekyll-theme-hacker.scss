@@ -64,8 +64,8 @@ html {
 HGROUP {
   padding-top:0px;
   margin: 0 auto;
-  max-width: 60vw;
-  margin: auto; 
+  max-width: max-content;
+  
   
   
 }
@@ -2642,15 +2642,11 @@ transform: scale(1.05);
   border-bottom: solid 1px #ffffff50;
 }
 
-@media print, screen and (max-width: 1060px) {
+@media print, screen and (max-width: 900px) {
 
 
 
-  nav{
-    display: none;
-  }
-
-  header, main, footer {
+  main, footer {
     float:none;
 
     h1 {
