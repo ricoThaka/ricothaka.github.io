@@ -2,6 +2,17 @@
 # watchlist
 
 
+[1995 - HIP HOP DOCUMENTARY - THE SHOW](https://www.youtube.com/watch?v=2UHm2ASOpXA) 
+
+![TheShow](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIZ5HFhTzfw7diKQl9kloFX4SwJcIrtoZXZaTx5B0OI5vPipjLUBpSsDft7WeFf0c7yI5dTNpH1CSPzZPW3IM0aeBfwRAVI7d25RcKrrbLpW0nypkWgiqPKvlArbxSS4Oz89CurGizPOp/s640/the+show+-+big+and+puff.jpg)
+
+[RelatedTweet](https://x.com/RicoThaka/status/1904320514044338291) [The Show (1995) on youtube/rapCentral96](https://youtu.be/35UQsh3FPrk?si=KC836p6WDg9LPlCx) [TheSource](https://thesource.com/tag/brooklyn-graffiti/) [DJSAVEonE - ](https://www.blogger.com/profile/13083316278648144555) - `The Show is a 1995 documentary-film that follows the most celebrated artists in hip-hop as they travel from the street to the stage. Considered a "compelling real-life drama about a generation that demands to be heard." The docu-film features artists like Run DMC, Tha Dogg Pound, Dr. Dre, The Notorious B.I.G., Warren G, Craig Mack, Wu-Tang Clan, Naughty By Nature, Slick Rick and many more! ` [ReadMore on hiphopnostalgia.com](https://www.hiphopnostalgia.com/2019/10/def-jam-show-documentary-1995.html)
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="658"><a href="https://www.reddit.com/r/90sHipHop/comments/1eyqi7c/the_show_1995_documentary_about_hiphop_music_full/">THE SHOW (1995 Documentary About Hip-Hop Music) [FULL]</a><br> by<a href="https://www.reddit.com/user/mind_bomber/">u/mind_bomber</a> in<a href="https://www.reddit.com/r/90sHipHop/">90sHipHop</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+
+[Visiting Atlanta Georgia Most Dangerous Hoods](https://youtu.be/oLLR73S493A?t=801) [The Monkey Hu$tle (1976): A Cult Classic with Yaphet Kotto - BLAXPLOiTATiON](https://www.youtube.com/watch?v=DnrJXABTdL0) [Krush Groove Full Movie w/ Run-D.M.C., Sheila E. & The Fat Boys](https://www.youtube.com/watch?v=SDRHe6FEY6M)
+
 [Voyage to the Planet of PrehistoricWomen](https://x.com/BubbleGumPop510/status/1722044330729164804)
 
 # Macross Plus 
