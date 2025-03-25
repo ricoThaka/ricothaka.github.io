@@ -22,9 +22,12 @@
 ## Madrid 200 BT 
 1-DIN car radio in stylish Blaupunkt design with RDS tuner, Bluetooth with hands-free function, USB and AUX input. [Order](https://blaupunkt.com/product/madrid-200-bt/#)
 
-<iframe src="https://archive.org/embed/DJ_Scream_and_OJ_Da_Juiceman_-_Alaska_N_Atlanta_3-2021" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## DJ scream & OJ Da Juiceman - Alaska N Atlanta 3-2021
+
+<iframe src="https://archive.org/embed/DJ_Scream_and_OJ_Da_Juiceman_-_Alaska_N_Atlanta_3-2021" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf)
