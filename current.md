@@ -12,7 +12,7 @@
 
 ![fiud](https://pbs.twimg.com/media/GPQXKSYbkAAghKw?format=jpg&name=large) @blackgirlscode i cant find this file when old girl was in the trunk crying @nasa @nasa-jpl 
 
-![me](https://pbs.twimg.com/media/Gm__h4Va8AACqXK?format=jpg&name=large) [RelatedTweet - radiative flux](https://x.com/RicoThaka/status/1905022137519255647) [HoleToaNotherUNiVERSE](https://x.com/RicoThaka/status/1774182366363414658) [SHocPhoto](https://x.com/BubbleGumPop626/status/1773846427367878730) [AViRis Los AngelesFire Data](https://x.com/thakasartu/status/1885819951803732410) [Coral may be this girl with a gun](https://x.com/BubbleGumPop626/status/1763319846870376820) [Saturn on Voyager](https://x.com/RicoThaka/status/1870578550845407539)
+![me](https://pbs.twimg.com/media/Gm__h4Va8AACqXK?format=jpg&name=large) [RelatedTweet - radiative flux](https://x.com/RicoThaka/status/1905022137519255647) [HoleToaNotherUNiVERSE](https://x.com/RicoThaka/status/1774182366363414658) [SHocPhoto](https://x.com/BubbleGumPop626/status/1773846427367878730) [AViRis Los AngelesFire Data](https://x.com/thakasartu/status/1885819951803732410) [Coral may be this girl with a gun](https://x.com/BubbleGumPop626/status/1763319846870376820) [Saturn on Voyager](https://x.com/RicoThaka/status/1870578550845407539) [JW bibLE REMiX](https://x.com/RicoThaka/status/1855361888294772978)
 [JEHOVAHS_WiTNESS_LOGiN](https://x.com/BubbleGumPop626/status/1893077364873314326)
 ![Who Da Wild beast now @nasa?](https://pbs.twimg.com/media/GkWPav4WIAAYeRT?format=jpg&name=large)
 ![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif) @blackgirlscode hi 
