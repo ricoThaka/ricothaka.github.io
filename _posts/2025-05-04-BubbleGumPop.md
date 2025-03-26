@@ -3,6 +3,10 @@ layout: post
 title: BubbleGumPop
 ---
 
+
+
+![erika](https://pbs.twimg.com/media/GIqP7hxbEAAgYCn?format=jpg&name=large)
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
