@@ -17,6 +17,8 @@
 
 </div>
 
+![BLAUPUNKT](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/img/blaupunkt.png)
+
 
 # Dear_Coral : Life
 <div class="tupperware" markdown="1">
