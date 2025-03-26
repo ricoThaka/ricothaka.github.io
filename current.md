@@ -10,6 +10,8 @@
    
  </div> 
 
+[Clinical management of mustard gas casualties](https://www.opcw.org/sites/default/files/documents/DDG/HSB/medical_defence_CW_course_prereading/Chemical%20management%20of%20mustard%20gas%20casualties.pdf) 
+Jan L. Willems, M.D. Ph.D.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H999s0P1Er0?si=W6SsLvh9FD0MVEDj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
