@@ -4,6 +4,8 @@ title: computing
 published: true
 ---
 
+
+![AndroidAuto](https://www.synqy.jdainc.com/kenwood/ddxsp-2022/img/home-bg-android-1.jpg)
 [Jekyll: including a post inside another post](https://stackoverflow.com/questions/30205465/jekyll-including-a-post-inside-another-post) [Animating Border - CSS](https://css-tricks.com/animating-border/) 
 
 {% include tar.md %}
