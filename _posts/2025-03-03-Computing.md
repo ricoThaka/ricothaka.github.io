@@ -4,7 +4,7 @@ title: computing
 published: true
 ---
 
-[Jekyll: including a post inside another post](https://stackoverflow.com/questions/30205465/jekyll-including-a-post-inside-another-post)
+[Jekyll: including a post inside another post](https://stackoverflow.com/questions/30205465/jekyll-including-a-post-inside-another-post) [Animating Border - CSS](https://css-tricks.com/animating-border/) 
 
 {% include tar.md %}
 {% include bash.md %}
