@@ -4,9 +4,11 @@ title: BubbleGumPop
 ---
 
 
-
+![Ridges chekcmark](https://pbs.twimg.com/media/GLpVmKFaoAEOH2F?format=jpg&name=medium)
+[Related](https://x.com/BubbleGumPop626/status/1781831158394978614)
 ![erika](https://pbs.twimg.com/media/GIqP7hxbEAAgYCn?format=jpg&name=large)
-
+[Related](https://x.com/BubbleGumPop626/status/1757936875149598825) [MorelandAve](https://x.com/BubbleGumPop626/status/1763320539769426032)
+![Vsco TRASHHAG buic wall](https://pbs.twimg.com/media/GHiSDTsawAAEyNH?format=jpg&name=medium)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
