@@ -10,16 +10,13 @@
    
  </div> 
 
+![BLAUPUNKT](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/img/blaupunkt.png)
 
-![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif)
 
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1029223117&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joshua-calhoun-796513989" title="JoshIsCool" target="_blank" style="color: #cccccc; text-decoration: none;">JoshIsCool</a> · <a href="https://soundcloud.com/joshua-calhoun-796513989/sets/nas-illmatic-full-album" title="Nas - Illmatic (full album)" target="_blank" style="color: #cccccc; text-decoration: none;">Nas - Illmatic (full album)</a></div>
 
-![compat](https://blaupunkt-cdn.cyllene.cloud/wp-content/uploads/2023/12/FI_MADRID-200-BT_1.jpg)
 
-## Madrid 200 BT 
-1-DIN car radio in stylish Blaupunkt design with RDS tuner, Bluetooth with hands-free function, USB and AUX input. [Order](https://blaupunkt.com/product/madrid-200-bt/#)
 
 
 [Clinical management of mustard gas casualties](https://www.opcw.org/sites/default/files/documents/DDG/HSB/medical_defence_CW_course_prereading/Chemical%20management%20of%20mustard%20gas%20casualties.pdf) 
@@ -35,7 +32,10 @@ by Drake
 
 
 
-
+![compat](https://blaupunkt-cdn.cyllene.cloud/wp-content/uploads/2023/12/FI_MADRID-200-BT_1.jpg)
+![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif)
+## Madrid 200 BT 
+1-DIN car radio in stylish Blaupunkt design with RDS tuner, Bluetooth with hands-free function, USB and AUX input. [Order](https://blaupunkt.com/product/madrid-200-bt/#)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/904460989&color=%2300fff6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/starredup" title="Lone5tar" target="_blank" style="color: #cccccc; text-decoration: none;">Lone5tar</a> · <a href="https://soundcloud.com/starredup/jay-electronica-real-magic" title="Jay Electronica - Real Magic (feat. Ronald Regan) [Act. II The Patents Of Nobility]" target="_blank" style="color: #cccccc; text-decoration: none;">Jay Electronica - Real Magic (feat. Ronald Regan) [Act. II The Patents Of Nobility]</a></div>
 
