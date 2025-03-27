@@ -4,8 +4,18 @@ title: computing
 published: true
 ---
 
+# FairPhone
 
 
+![parts](https://www.fairphone.com/wp-content/uploads/2024/01/iFixit-Guest-Blog-Fairphone-Changing-Tech-Industry-Header-1-1680x565.webp)
+### [The Fairphone 2 is reborn… as a circular microcomputer](https://www.fairphone.com/en/2024/11/28/the-fairphone-2-is-reborn-as-a-circular-microcomputer/)
+[![FairPhone(https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)]](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)
+
+![FairPhone5](https://shop.fairphone.com/web/image/3078206-b825b196/GreenxMobi_1080x1080px)
+
+
+# /[rashardlearned](https://ricothaka.github.io/rashardlearned/2025/01/17/ComputerShiT.html)
+I dont know what im going to do with this repo, bc now i understand [Jekyll Theming](https://jekyllrb.com/docs/themes/) its way too much overhead to maintain using [LibraryResources](https://www.longbeach.gov/library) 
 
 [An Interactive Guide to CSS Grid - https://www.joshwcomeau.com/](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) The guide from Josh looks amazing, i see where im headed graphically, u really need solid structure to care abt abt looks at that level... things take time i love that site [csszenGarden](https://csszengarden.com/) [Wiki - CssZenGarden](https://en.wikipedia.org/wiki/CSS_Zen_Garden) [CSS_Grid SPEC](https://drafts.csswg.org/css-grid/#track-sizing)
 ![AndroidAuto](https://www.synqy.jdainc.com/kenwood/ddxsp-2022/img/home-bg-android-1.jpg)
