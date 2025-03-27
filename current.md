@@ -11,12 +11,16 @@
  </div> 
 
 
+
+
 ![NORMANi](https://firebasestorage.googleapis.com/v0/b/project--7003778079567770323.appspot.com/o/images%2Fbrandium.jpg?alt=media&token=9dc04cda-0778-42f5-9016-9ed6d8520665)
 ![her](https://pbs.twimg.com/media/GJ3ykrCaEAAn258?format=jpg&name=large)
 [Related Tweet](https://x.com/BubbleGumPop626/status/1773840965817819183) @blackgirlscode is that @normani @nasa
 
 [WebDesign i think you did](https://cssline.com/go/brandium)
+[J. Cole - Truly Yours 2 (FULL MIXTAPE)](https://www.youtube.com/watch?v=EjVQrzUBC_M)
 
+![Css_grid](https://css-tricks.com/wp-content/uploads/2022/02/css-grid-poster.png)
 [Redhat class](https://x.com/BubbleGumPop626/status/1781397226708955150)
 ![me](https://pbs.twimg.com/media/Gm__h4Va8AACqXK?format=jpg&name=large) 
 ![REDHAT RHsA](https://pbs.twimg.com/media/GLjK9hQaYAAHt5a?format=jpg&name=large) 
@@ -47,7 +51,7 @@ by Drake
 
 ## Madrid 200 BT 
 1-DIN car radio in stylish Blaupunkt design with RDS tuner, Bluetooth with hands-free function, USB and AUX input. [Order](https://blaupunkt.com/product/madrid-200-bt/#)
-
+[J. Cole - Truly Yours 2 (FULL MIXTAPE)](https://www.youtube.com/watch?v=EjVQrzUBC_M)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/904460989&color=%2300fff6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/starredup" title="Lone5tar" target="_blank" style="color: #cccccc; text-decoration: none;">Lone5tar</a> · <a href="https://soundcloud.com/starredup/jay-electronica-real-magic" title="Jay Electronica - Real Magic (feat. Ronald Regan) [Act. II The Patents Of Nobility]" target="_blank" style="color: #cccccc; text-decoration: none;">Jay Electronica - Real Magic (feat. Ronald Regan) [Act. II The Patents Of Nobility]</a></div>
 
 
