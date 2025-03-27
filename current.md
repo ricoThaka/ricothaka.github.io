@@ -10,6 +10,9 @@
    
  </div> 
 
+
+[LOSANGELES](https://x.com/RicoThaka/status/1904948472362700847) News :
+![SMDP](https://pbs.twimg.com/media/Gm-8YS5asAEZ_G1?format=png&name=4096x4096)
 [CSS Grid Layout Module Level 1](https://www.w3.org/TR/css-grid-1/#biblio-css-sizing-3)
 
 ![NORMANi](https://firebasestorage.googleapis.com/v0/b/project--7003778079567770323.appspot.com/o/images%2Fbrandium.jpg?alt=media&token=9dc04cda-0778-42f5-9016-9ed6d8520665)
