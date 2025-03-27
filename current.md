@@ -12,7 +12,7 @@
 
 # NexTSesh
 ### Document FairPhone in [Computing](https://ricothaka.github.io/Computing)
-[RelatedTweet](https://x.com/RicoThaka/status/1905364381887856946) [her](https://x.com/RicoThaka/status/1905365877450834257)
+[RelatedTweet](https://x.com/RicoThaka/status/1905364381887856946) [her](https://x.com/RicoThaka/status/1905365877450834257) [p](https://x.com/RicoThaka/status/1905364381887856946)
 
 [Yella Beezy Sentenced, Goodbye Forever](https://youtu.be/QXtRo2gN_WQ?si=oGAVbzj1orII2tuF) [Yella Beezy hearing  Live coverage of Dallas rapper's court appearance on capital murder charge](https://www.youtube.com/watch?v=uVDqvvuFsZo&ab_channel=WFAA)
 
