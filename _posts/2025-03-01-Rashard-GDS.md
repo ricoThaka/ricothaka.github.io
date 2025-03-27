@@ -5,6 +5,14 @@ categories: nasajpl earth
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
+
+
+# LAADS
+## Level-1 and Atmosphere Archive & Distribution system
+Very similar to [LANCE_FiRMS](https://firms.modaps.eosdis.nasa.gov/map/) but different data [AtmosphereFocused](https://ladsweb.modaps.eosdis.nasa.gov/) - [View Data User Guide](https://ladsweb.modaps.eosdis.nasa.gov/learn/view-data/)
+
+![laads and firms](https://pbs.twimg.com/media/GnAcItpaEAAD9aY?format=jpg&name=large)
+
 [https://x.com/thakasartu/status/1895542988853625306/photo/1](https://x.com/thakasartu/status/1895542988853625306/photo/1)
 [2017 NAS User Survey Results - NASAJPL](https://www.nas.nasa.gov/hecc/support/kb/file/42/?f=1)
 
