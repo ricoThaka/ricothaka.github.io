@@ -10,8 +10,7 @@
    
  </div> 
 
-
-
+[CSS Grid Layout Module Level 1](https://www.w3.org/TR/css-grid-1/#biblio-css-sizing-3)
 
 ![NORMANi](https://firebasestorage.googleapis.com/v0/b/project--7003778079567770323.appspot.com/o/images%2Fbrandium.jpg?alt=media&token=9dc04cda-0778-42f5-9016-9ed6d8520665)
 ![her](https://pbs.twimg.com/media/GJ3ykrCaEAAn258?format=jpg&name=large)
