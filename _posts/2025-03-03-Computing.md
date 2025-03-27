@@ -10,6 +10,9 @@ published: true
 
 ![parts](https://www.fairphone.com/wp-content/uploads/2024/01/iFixit-Guest-Blog-Fairphone-Changing-Tech-Industry-Header-1-1680x565.webp)
 ### [The Fairphone 2 is reborn… as a circular microcomputer](https://www.fairphone.com/en/2024/11/28/the-fairphone-2-is-reborn-as-a-circular-microcomputer/)
+
+[![FairPhone](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)
+
 [![FairPhone](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)
 
 ![FairPhone5](https://shop.fairphone.com/web/image/3078206-b825b196/GreenxMobi_1080x1080px)
