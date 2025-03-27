@@ -5,6 +5,9 @@ published: true
 ---
 
 
+
+
+[An Interactive Guide to CSS Grid - https://www.joshwcomeau.com/](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) The guide from Josh looks amazing, i see where im headed graphically, u really need solid structure to care abt abt looks at that level... things take time i love that site [csszenGarden](https://csszengarden.com/) [Wiki - CssZenGarden](https://en.wikipedia.org/wiki/CSS_Zen_Garden) [CSS_Grid SPEC](https://drafts.csswg.org/css-grid/#track-sizing)
 ![AndroidAuto](https://www.synqy.jdainc.com/kenwood/ddxsp-2022/img/home-bg-android-1.jpg)
 [Jekyll: including a post inside another post](https://stackoverflow.com/questions/30205465/jekyll-including-a-post-inside-another-post) [Animating Border - CSS](https://css-tricks.com/animating-border/) 
 
