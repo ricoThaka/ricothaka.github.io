@@ -7,12 +7,14 @@ published: true
 # FairPhone
 
 
+
 ![parts](https://www.fairphone.com/wp-content/uploads/2024/01/iFixit-Guest-Blog-Fairphone-Changing-Tech-Industry-Header-1-1680x565.webp)
 ### [The Fairphone 2 is reborn… as a circular microcomputer](https://www.fairphone.com/en/2024/11/28/the-fairphone-2-is-reborn-as-a-circular-microcomputer/)
-[![FairPhone(https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)]](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)
+[![FairPhone](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)
 
 ![FairPhone5](https://shop.fairphone.com/web/image/3078206-b825b196/GreenxMobi_1080x1080px)
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1165255246&color=%23fceb80&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jan-blaffert-820633736" title="Fairphone" target="_blank" style="color: #cccccc; text-decoration: none;">Fairphone</a> · <a href="https://soundcloud.com/jan-blaffert-820633736/pioneering-the-path-to-circularity" title="Fairtalks #8: Pioneering the path to circularity" target="_blank" style="color: #cccccc; text-decoration: none;">Fairtalks #8: Pioneering the path to circularity</a></div>
 
 # /[rashardlearned](https://ricothaka.github.io/rashardlearned/2025/01/17/ComputerShiT.html)
 I dont know what im going to do with this repo, bc now i understand [Jekyll Theming](https://jekyllrb.com/docs/themes/) its way too much overhead to maintain using [LibraryResources](https://www.longbeach.gov/library) 
