@@ -10,17 +10,23 @@
    
  </div> 
 
-![fiud](https://pbs.twimg.com/media/GPQXKSYbkAAghKw?format=jpg&name=large) @blackgirlscode i cant find this file when old girl was in the trunk crying @nasa @nasa-jpl 
+
+![NORMANi](https://firebasestorage.googleapis.com/v0/b/project--7003778079567770323.appspot.com/o/images%2Fbrandium.jpg?alt=media&token=9dc04cda-0778-42f5-9016-9ed6d8520665)
+![her](https://pbs.twimg.com/media/GJ3ykrCaEAAn258?format=jpg&name=large)
+[Related Tweet](https://x.com/BubbleGumPop626/status/1773840965817819183) @blackgirlscode is that @normani @nasa
+
+[WebDesign i think you did](https://cssline.com/go/brandium)
+
 [Redhat class](https://x.com/BubbleGumPop626/status/1781397226708955150)
 ![me](https://pbs.twimg.com/media/Gm__h4Va8AACqXK?format=jpg&name=large) 
 ![REDHAT RHsA](https://pbs.twimg.com/media/GLjK9hQaYAAHt5a?format=jpg&name=large) 
 [RelatedTweet - radiative flux](https://x.com/RicoThaka/status/1905022137519255647) [HoleToaNotherUNiVERSE](https://x.com/RicoThaka/status/1774182366363414658) [SHocPhoto](https://x.com/BubbleGumPop626/status/1773846427367878730) [AViRis Los AngelesFire Data](https://x.com/thakasartu/status/1885819951803732410) [Coral may be this girl with a gun](https://x.com/BubbleGumPop626/status/1763319846870376820) [Saturn on Voyager](https://x.com/RicoThaka/status/1870578550845407539) [JW bibLE REMiX](https://x.com/RicoThaka/status/1855361888294772978)
 [JEHOVAHS_WiTNESS_LOGiN](https://x.com/BubbleGumPop626/status/1893077364873314326)
 ![Who Da Wild beast now @nasa?](https://pbs.twimg.com/media/GkWPav4WIAAYeRT?format=jpg&name=large)
-![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif) @blackgirlscode hi 
+![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif) @blackgirlscode hi  
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/732602704&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-585176683" title="Josh Calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">Josh Calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-585176683/nas-illmatic-full-album" title="Nas - Illmatic (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Nas - Illmatic (Full Album)</a></div>
 
-
+![fiud](https://pbs.twimg.com/media/GPQXKSYbkAAghKw?format=jpg&name=large) @blackgirlscode i cant find this file when old girl was in the trunk crying @nasa @nasa-jpl 
 ![her](https://pbs.twimg.com/media/GJ3ykrCaEAAn258?format=jpg&name=large)
 [Related Tweet](https://x.com/BubbleGumPop626/status/1773840965817819183) @blackgirlscode is that @normani @nasa
 

@@ -7,6 +7,13 @@ tags: saint
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
+
+
+![NORMANi](https://firebasestorage.googleapis.com/v0/b/project--7003778079567770323.appspot.com/o/images%2Fbrandium.jpg?alt=media&token=9dc04cda-0778-42f5-9016-9ed6d8520665)
+![her](https://pbs.twimg.com/media/GJ3ykrCaEAAn258?format=jpg&name=large)
+[Related Tweet](https://x.com/BubbleGumPop626/status/1773840965817819183) @blackgirlscode is that @normani @nasa
+
+[WebDesign i think you did](https://cssline.com/go/brandium)
 im not going to be mean to you or hurt you bc you chose him... this page is now archived an i will add relevant items unless signaled to do diff @blackgirlscode @nfl -Rashard @nasa-jpl 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTb7a3FpFLM?si=Y1m6fQX_rMVQrDch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
