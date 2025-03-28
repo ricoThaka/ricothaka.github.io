@@ -8,3 +8,6 @@ The --posix option caught my attention this morning. I wonder how it will effect
  <source src="https://ia801507.us.archive.org/35/items/vid-20250306-090621/screen-20250306-092549.mp4" type="video/mp4">
  Your browser does not support the video tag.
 </video>
+
+
+[ZSH](https://x.com/RicoThaka/status/1837953710481461392)

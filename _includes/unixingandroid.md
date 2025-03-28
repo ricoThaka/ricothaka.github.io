@@ -243,4 +243,4 @@ I listened to [Ctrl](https://www.essence.com/entertainment/only-essence/sza-ctrl
 
 <embed height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/899207614&amp;color=%2379f281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" />
 
-# Ella Mai::Not Another Love Song
+# Ella Mai::Not Another Love Songe
