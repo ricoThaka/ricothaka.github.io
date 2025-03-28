@@ -4,7 +4,7 @@ title: computing
 published: true
 ---
 
-
+# Emulation on Android using [RetroArch](https://web.libretro.com/)
 
 <div class="tupperware">
 <video width="auto" height="400px" controls> 
@@ -41,6 +41,19 @@ published: true
 
 ### [Fairphone - FLiCKr](https://www.flickr.com/photos/fairphone/)
 ![pcb boards](https://live.staticflickr.com/3783/12830884415_eaa8817cd4_h.jpg)
+
+[Architecture overview](https://source.android.com/docs/core/architecture#architecture)
+The Android Open Source Project (AOSP) is publicly available and modifiable Android source code. Anyone can download and modify AOSP for their device. AOSP provides a complete and fully functional implementation of the Android mobile platform.
+![Architecture](https://source.android.com/static/images/android-stack.svg)
+![WinDowS95](https://pbs.twimg.com/media/Gj8aQ3abwAA9mfc?format=png&name=medium)
+![DOS_SSF2t](https://pbs.twimg.com/media/Gh7CW57bgAAnVSM?format=png&name=medium)
+![Win95](https://pbs.twimg.com/media/Gh7HFHHbwAIe-QB?format=png&name=medium)
+![DOS](https://pbs.twimg.com/media/Gh7HFHEaMAAVr9M?format=png&name=medium)
+![HoriZONs](https://pbs.twimg.com/media/Gj8aX7JbgAAGaJs?format=png&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1882160690858958887)
+![Artifacts_RetroArch_JPG](https://pbs.twimg.com/media/Gh7CW55aIAAdZA2?format=jpg&name=medium)
+[RelatedTweeT](https://x.com/RicoThaka/status/1882156673227501885)
+
 # /[rashardlearned](https://ricothaka.github.io/rashardlearned/2025/01/17/ComputerShiT.html)
 I dont know what im going to do with this repo, bc now i understand [Jekyll Theming](https://jekyllrb.com/docs/themes/) its way too much overhead to maintain using [LibraryResources](https://www.longbeach.gov/library) 
 
@@ -219,17 +232,7 @@ I got really comfortable coding and making github commits to the point i never f
  <object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="900" height="400"></object>
 
 
-[Architecture overview](https://source.android.com/docs/core/architecture#architecture)
-The Android Open Source Project (AOSP) is publicly available and modifiable Android source code. Anyone can download and modify AOSP for their device. AOSP provides a complete and fully functional implementation of the Android mobile platform.
-![Architecture](https://source.android.com/static/images/android-stack.svg)
-![WinDowS95](https://pbs.twimg.com/media/Gj8aQ3abwAA9mfc?format=png&name=medium)
-![DOS_SSF2t](https://pbs.twimg.com/media/Gh7CW57bgAAnVSM?format=png&name=medium)
-![Win95](https://pbs.twimg.com/media/Gh7HFHHbwAIe-QB?format=png&name=medium)
-![DOS](https://pbs.twimg.com/media/Gh7HFHEaMAAVr9M?format=png&name=medium)
-![HoriZONs](https://pbs.twimg.com/media/Gj8aX7JbgAAGaJs?format=png&name=medium)
-[RelatedTweet](https://x.com/RicoThaka/status/1882160690858958887)
-![Artifacts_RetroArch_JPG](https://pbs.twimg.com/media/Gh7CW55aIAAdZA2?format=jpg&name=medium)
-[RelatedTweeT](https://x.com/RicoThaka/status/1882156673227501885)
+
 
 <figure>
   <figcaption>Future: `[WifiLit]()`</figcaption>
