@@ -36,7 +36,7 @@ The Android Open Source Project (AOSP) is publicly available and modifiable Andr
 
 ![Write fo windows 2_!](https://pbs.twimg.com/media/Gie8QTPbYAQf4LX?format=png&name=medium)
 [RelatedTweet](https://x.com/BubbleGumPop510/status/1884682125473177888)
-[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw) [YAML_Twt @blackgirlscode](https://x.com/RicoThaka/status/1895914057162768886)
+[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw) [YAML_Twt @blackgirlscode](https://x.com/RicoThaka/status/1895914057162768886) [c7](https://x.com/BubbleGumPop510/status/1870627229744631839)
 
 <div class="tupperware">
 <img src="https://pbs.twimg.com/media/GeiMxcwaEAMhJlw?format=png&name=medium" />
@@ -52,6 +52,15 @@ The Android Open Source Project (AOSP) is publicly available and modifiable Andr
 <div class="tupperware">
 <img src="https://pbs.twimg.com/media/Gib9ZZYaYAANqR4?format=jpg&name=medium" />
 <img src="https://pbs.twimg.com/media/Ghbx090acAQHjse?format=jpg&name=medium" />
+</div>
+
+# SPRING 2020 (ONLY AVAILABLE IN OUR FULL SETS AND OUR DOWNLOAD SECTION) [[Click Here](https://store.2600.com/products/spring-2020?variant=31779362635831)]
+
+<div class="tupperware">
+<img src="https://store.2600.com/cdn/shop/products/37-1_Cover_large.jpg" />
+<img src="https://pbs.twimg.com/media/GfXMoDoacAAOw7L?format=jpg&name=small" />
+<img src="https://store.2600.com/cdn/shop/products/37-1_Cover_large.jpg" />
+<img src="https://pbs.twimg.com/media/GfXMoDoacAAOw7L?format=jpg&name=small" />
 </div>
 
 
