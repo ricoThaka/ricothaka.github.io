@@ -33,6 +33,13 @@ I dont know what im going to do with this repo, bc now i understand [Jekyll Them
 [Related Tweet](https://x.com/BubbleGumPop626/status/1773840965817819183) @blackgirlscode is that @normani @nasa
 
 [WebDesign i think you did](https://cssline.com/go/brandium)
+### OldLEtter possibly 3 months old
+
+[Help:Introduction to editing with Wiki Markup/1](https://en.wikipedia.org/wiki/Help:Introduction_to_editing_with_Wiki_Markup/1)[Wikipedia Editing Tutorial - Video](https://youtu.be/eufDKt6Pkko?si=TdBKXKqo0doUbz0V) The markup language called wikitext, also known as wiki markup or wikicode, consists of the syntax and keywords used by the MediaWiki software to format a page. (Note the lowercase spelling of these terms.[a]) To learn how to see this hypertext markup,  [The basics of MediaWiki Creating, Editing, Discussing Pages Working with the syntax text formatting](https://www.youtube.com/watch?v=F8irbbwNo2E) [WikiText](https://en.wikipedia.org/wiki/Help:Wikitext)
+
+
+![Css Books](https://daveshea.com/i/projects/zen-book/intro.jpg)
+![Zen](https://upload.wikimedia.org/wikipedia/en/3/39/The_Zen_of_CSS_Design-cover.jpeg) Normani, I dont know what to do to upgrade but the way our pens look on CodePen is easily achivable in [Jekyll](https://github.com/jekyll/jekyll/edit/master/docs/_docs/includes.md) and stack the shits check out [Ansterdam Chemistry Innovation Day](https://www.acid-event.nl/) idk what the backend looks like, but that sectioal look is what came from [MarkDown Includes](https://developer.lightbend.com/docs/paradox/current/directives/includes.html) and its emulated in html but \ [One Page Layouts](https://www.cssdesignawards.com/website-gallery?feature=one%20page) can be seen as a stackof lego bricks that talk to each other either informationally or dynaically via some interactive programming of some sort `The include tag allows you to include the content from another file stored in the _includes folder:` [includes](https://jekyllrb.com/docs/includes/)
 
 # Ed Tutorial on the dev site 
 
