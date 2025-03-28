@@ -30,6 +30,7 @@ title: BubbleGumPop
 
 <img src="https://www.hotfootdesign.co.uk/wp-content/uploads/2015/11/nasa07_1.jpg">
 
+![RiCoThaka](https://pbs.twimg.com/media/Ga19RpNb0AAXCRw?format=jpg&name=medium)
 
 <div class="twoPanelSpread">
   <div class="row">

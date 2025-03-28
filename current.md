@@ -10,6 +10,36 @@
    
  </div> 
 
+<div class="tupperware">
+
+<a href="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GE4wbvmacAA-4Na?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4wbvmacAA-4Na?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GE4wcycbsAAjxPS?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4wcycbsAAjxPS?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GIMDjmAbcAAJvVy?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GIMDjmAbcAAJvVy?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+</div>
+
+![4PageLEtter @blackgirlscode @normani](https://pbs.twimg.com/media/GmXEpMha8AUfoyw?format=png&name=360x360)
+
+<audio controls>
+  <source src="https://dn720305.ca.archive.org/0/items/aaliyah-one-in-a-million/Album/08-4%20Page%20Letter.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ![Manessa](https://pbs.twimg.com/media/Gj8ttLPbEAACj-j?format=jpg&name=large)
 [Related Tweet Manessa Warner is KashDoll @blackgirlscode is it @normani](https://x.com/RicoThaka/status/1891282030094164055) [MAnessa @whitehouse](https://x.com/RicoThaka/status/1891279967985541352)
@@ -21,6 +51,7 @@
 ![HTAU](https://pbs.twimg.com/media/Gm6hdCwbYAQ4dQi?format=png&name=4096x4096)
 ![HEr](https://pbs.twimg.com/media/GnE3h6CaAAAsfVe?format=jpg&name=large)
 [Related](https://x.com/RicoThaka/status/1905365877450834257)
+
 # NexTSesh
 ### Document FairPhone in [Computing](https://ricothaka.github.io/Computing)
 [RelatedTweet](https://x.com/RicoThaka/status/1905364381887856946) [her](https://x.com/RicoThaka/status/1905365877450834257) [p](https://x.com/RicoThaka/status/1905364381887856946)

@@ -36,6 +36,14 @@ The Android Open Source Project (AOSP) is publicly available and modifiable Andr
 
 [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw) [YAML_Twt @blackgirlscode](https://x.com/RicoThaka/status/1895914057162768886)
 
+<div class="tupperware">
+<img src="https://pbs.twimg.com/media/GeiMxcwaEAMhJlw?format=png&name=medium" />
+<img src="https://pbs.twimg.com/media/GltNetVXYAEvWEU?format=jpg&name=medium" />
+</div>
+
+[Captains Window with the Moon Background](https://x.com/RicoThaka/status/1895255594854162439)
+[Related Tweet @iss_research flyover](https://x.com/RicoThaka/status/1866896835702645179)
+
 ![Win95](https://pbs.twimg.com/media/Gja1iT0XkAECEoa?format=jpg&name=medium) [related](https://x.com/RicoThaka/status/1888897594279252031/photo/1)
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="und" dir="ltr"><a href="https://t.co/RgZkU9RcH8">https://t.co/RgZkU9RcH8</a> <a href="https://twitter.com/hashtag/gm?src=hash&amp;ref_src=twsrc%5Etfw">#gm</a> <a href="https://twitter.com/hashtag/iloveyall?src=hash&amp;ref_src=twsrc%5Etfw">#iloveyall</a> <a href="https://twitter.com/ChapelHillES1?ref_src=twsrc%5Etfw">@ChapelHillES1</a> <a href="https://twitter.com/DeKalbCountyPD?ref_src=twsrc%5Etfw">@DeKalbCountyPD</a> <a href="https://twitter.com/DeKalbSchools?ref_src=twsrc%5Etfw">@DeKalbSchools</a> <a href="https://twitter.com/BOEAPS?ref_src=twsrc%5Etfw">@BOEAPS</a> <a href="https://twitter.com/parksideaps?ref_src=twsrc%5Etfw">@parksideaps</a> -<a href="https://twitter.com/hashtag/CoralsDad?src=hash&amp;ref_src=twsrc%5Etfw">#CoralsDad</a> <a href="https://twitter.com/ArcadiaPD?ref_src=twsrc%5Etfw">@ArcadiaPD</a> <a href="https://twitter.com/ALDLASD?ref_src=twsrc%5Etfw">@ALDLASD</a> <a href="https://twitter.com/CAL_FIRE?ref_src=twsrc%5Etfw">@CAL_FIRE</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://twitter.com/LACityView35?ref_src=twsrc%5Etfw">@LACityView35</a> +<a href="https://twitter.com/hashtag/council?src=hash&amp;ref_src=twsrc%5Etfw">#council</a> ~ <a href="https://t.co/cZY3A9P5Nm">pic.twitter.com/cZY3A9P5Nm</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1889368173721559532?ref_src=twsrc%5Etfw">February 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -207,7 +215,12 @@ q                          $                          ^_^]The character counts f
 <svg class="drop"  width="25%" height="25%" viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 <path d="M91.991 104.699c1.576 5.961 4.119 8.266 8.613 8.266 4.659 0 7.102-2.799 7.102-8.266V3.2h29.184v101.499c0 14.307-1.856 20.506-9.11 27.762-5.228 5.229-14.871 9.271-27.047 9.271-9.837 0-19.25-3.256-25.253-9.27-5.263-5.273-8.154-10.689-12.672-27.764L44.9 37.033c-1.577-5.961-4.119-8.265-8.613-8.265-4.66 0-7.103 2.798-7.103 8.265v101.5H0v-101.5C0 22.727 1.857 16.527 9.111 9.271 14.337 4.044 23.981 0 36.158 0c9.837 0 19.25 3.257 25.253 9.27 5.263 5.273 8.154 10.689 12.672 27.764zm386.047 33.834L444.334 33.096c-.372-1.164-.723-2.152-1.263-2.811-.926-1.127-2.207-1.719-3.931-1.719-1.723 0-3.004.592-3.931 1.719-.539.658-.891 1.646-1.262 2.811l-33.703 105.437h-30.167l36.815-115.177c1.918-6 4.66-11.094 8.139-14.488C421.002 3.047 428.038 0 439.141 0s18.14 3.047 24.109 8.867c3.479 3.395 6.221 8.488 8.14 14.488l36.814 115.177zm-149.16 0c19.12 0 28.446-4.062 35.814-11.389 8.153-8.105 12.053-16.973 12.053-30.213 0-11.699-4.283-22.535-10.804-29.019-8.526-8.479-19.116-11.151-36.384-11.151l-24.187-.001c-9.242 0-12.925-1.117-15.839-3.98-2.001-1.964-2.939-4.885-2.939-8.328 0-3.559.857-7.074 3.303-9.475 2.171-2.131 5.13-3.109 10.816-3.109h69.903V3.2H306.05c-19.12 0-28.445 4.063-35.814 11.389-8.152 8.105-12.053 16.972-12.053 30.212 0 11.701 4.283 22.536 10.804 29.019 8.527 8.479 19.116 11.152 36.384 11.152l24.188.002c9.242 0 12.925 1.115 15.839 3.979 2.001 1.965 2.939 4.885 2.939 8.328 0 3.559-.857 7.074-3.302 9.475-2.172 2.131-5.131 3.109-10.817 3.109h-72.094l-27.651-86.509c-1.918-6-4.66-11.094-8.139-14.488C220.363 3.047 213.327 0 202.224 0s-18.14 3.047-24.108 8.867c-3.48 3.395-6.221 8.488-8.139 14.488l-36.815 115.177h30.166l33.704-105.437c.372-1.164.723-2.152 1.263-2.811.926-1.127 2.208-1.719 3.931-1.719s3.004.592 3.931 1.719c.54.658.891 1.646 1.262 2.811l33.704 105.437z" fill="#DB362D" />
 </svg>
+
+[RelatedTweet](https://x.com/RicoThaka/status/1850279017385164830)
+![OPENSolARis](https://pbs.twimg.com/media/Ga2CmVibUAAva2A?format=jpg&name=large)
+
 <img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/600b63321d78311648000003/vsco600b633468109.jpg" />
+
 {% include linux.md %}
 {% include tar.md %}
 # The “IT” GIRLS 💗💅🏽| A Kinigra Deon Original
