@@ -26,7 +26,7 @@ There is such an abstraction when running the manufacure bundeld android. But it
 [![Fdroid](https://termux.dev/assets/globals/hosts/get-it-on-fdroid.png)](https://f-droid.org/)
 
 
-
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://t.co/gbOEIWOP7m">https://t.co/gbOEIWOP7m</a> <a href="https://twitter.com/hot1079atl?ref_src=twsrc%5Etfw">@hot1079atl</a> <a href="https://twitter.com/hashtag/jammin?src=hash&amp;ref_src=twsrc%5Etfw">#jammin</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a>. especially <a href="https://twitter.com/hashtag/atwork?src=hash&amp;ref_src=twsrc%5Etfw">#atwork</a> <a href="https://twitter.com/USDOL?ref_src=twsrc%5Etfw">@usdol</a> <a href="https://twitter.com/KamalaHarris?ref_src=twsrc%5Etfw">@KamalaHarris</a> <a href="https://twitter.com/ISS_Research?ref_src=twsrc%5Etfw">@ISS_Research</a> <a href="https://twitter.com/hashtag/x?src=hash&amp;ref_src=twsrc%5Etfw">#x</a> <a href="https://t.co/pkbIempRaF">pic.twitter.com/pkbIempRaF</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1890675127878091010?ref_src=twsrc%5Etfw">February 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <iframe src="https://archive.org/embed/screen-20240806-030550" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
