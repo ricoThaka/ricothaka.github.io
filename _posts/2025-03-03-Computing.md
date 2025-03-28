@@ -4,6 +4,23 @@ title: computing
 published: true
 ---
 
+
+
+<div class="tupperware">
+<video width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
+</video> 
+
+<video width="auto" height="400px" controls> 
+	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-092102.mp4" type="video/mp4">	 
+</video> 
+
+<video width="auto" height="400px" controls> 
+	<source src="https://ia600809.us.archive.org/16/items/lprm-amsr-2-d-soilm-3-001-soil-moisture-c-1-animation-video-download/screen-20250310-064725.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+
 # FairPhone
 
 ![FairPhone5](https://shop.fairphone.com/web/image/3078206-b825b196/GreenxMobi_1080x1080px)
