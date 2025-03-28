@@ -1,5 +1,6 @@
 
 
+[![Erika Blackbook Schetch i did in Tuson after we got married we were partners](https://pbs.twimg.com/media/GIqP7hxbEAAgYCn?format=jpg&name=large)](https://pbs.twimg.com/media/GIqP7hxbEAAgYCn?format=jpg&name=large)
 
 ![Behind Beatlab, ran for 3 days](https://pbs.twimg.com/media/GBBNAjybcAEHAI7?format=jpg&name=medium)
 [Related Tweet](https://x.com/BubbleGumPop626/status/1733971202979618855)
