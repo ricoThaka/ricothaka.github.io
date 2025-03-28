@@ -3,7 +3,7 @@ layout: post
 title: computing
 published: true
 ---
-
+[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw)
 # Emulation on Android using [RetroArch](https://web.libretro.com/)
 
 <div class="tupperware">
