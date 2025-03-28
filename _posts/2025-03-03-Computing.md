@@ -36,6 +36,10 @@ The Android Open Source Project (AOSP) is publicly available and modifiable Andr
 
 [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw)
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217049673&color=%23074c8c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user630627017" title="user630627017" target="_blank" style="color: #cccccc; text-decoration: none;">user630627017</a> · <a href="https://soundcloud.com/user630627017/cdv2815" title="Wipeout 2097 (ワイプアウト―2097): The Soundtrack (30 September 1996) [CDV2815, LC3098]" target="_blank" style="color: #cccccc; text-decoration: none;">Wipeout 2097 (ワイプアウト―2097): The Soundtrack (30 September 1996) [CDV2815, LC3098]</a></div>
+
+[Design](https://x.com/RicoThaka/status/1802816071973646811)
+
 # Emulation on Android using [RetroArch](https://web.libretro.com/)
 
 <div class="tupperware">
