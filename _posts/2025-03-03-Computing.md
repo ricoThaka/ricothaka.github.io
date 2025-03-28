@@ -11,7 +11,7 @@ published: true
 	<source src="https://archive.org/download/screen-20250308-102510/screen-20250308-102815.mp4" type="video/mp4">	 
 </video> 
 
-<video width="auto" height="400px" controls> 
+<video width="auto" height="200px" controls> 
 	<source src="https://archive.org/download/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
 </video> 
 
