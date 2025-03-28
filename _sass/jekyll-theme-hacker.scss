@@ -401,13 +401,11 @@ p:first-of-type {
 
 
 
-
-
-.tupperware > * {
+tupperware > * {
   border: 1px solid #c9ff23;
-  border-radius: 0px;
+  border-radius: 5px;
   padding: 0px;
-  flex-basis: 500px;
+  flex-basis: 350px;
   flex-shrink:2;
   flex-grow:1;
   overflow: hidden;

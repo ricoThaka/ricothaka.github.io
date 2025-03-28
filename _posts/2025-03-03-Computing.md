@@ -34,6 +34,7 @@ published: true
 
 
 # FairPhone
+[iDentifying myself on Twitter / x for @cityoflosangeles @whitehouse @nasa RepMaxineWaters](https://x.com/RicoThaka/status/1905673319346848128) [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode)
 
 ![FairPhone5](https://shop.fairphone.com/web/image/3078206-b825b196/GreenxMobi_1080x1080px)
 [![Modularity](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png/1170px-Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png/1170px-Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png)
