@@ -10,6 +10,9 @@
    
  </div> 
 
+
+![HEr](https://pbs.twimg.com/media/GnE3h6CaAAAsfVe?format=jpg&name=large)
+[Related](https://x.com/RicoThaka/status/1905365877450834257)
 # NexTSesh
 ### Document FairPhone in [Computing](https://ricothaka.github.io/Computing)
 [RelatedTweet](https://x.com/RicoThaka/status/1905364381887856946) [her](https://x.com/RicoThaka/status/1905365877450834257) [p](https://x.com/RicoThaka/status/1905364381887856946)
