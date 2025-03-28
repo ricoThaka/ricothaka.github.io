@@ -10,6 +10,15 @@
    
  </div> 
 
+# 
+# 
+# Clementine
+Clementine was a joint NASA/DoD mission to the Moon, 1991-1994. The Geosciences Node archives the following Clementine data:
+![LROC](https://pbs.twimg.com/media/GfCmh2UaEAAfy3q?format=jpg&name=large) [Clementine - NASA Misson](https://www.lpi.usra.edu/lunar/missions/clementine/) [LunaData Explorer](https://ode.rsl.wustl.edu/moon/index.aspx)
+[RelatedTweet](https://x.com/thakasartu/status/1869177412573082088) [LunAr Map](https://quickmap.lroc.asu.edu/layers?prjExtent=-1937657.1592632%2C-2498716.8831707%2C1280990.2547912%2C793081.6084758&shadowsType=all&layers=NrBsFYBoAZIRnpEBmZcAsjYIHYFcAbAyAbwF8BdC0yioA&proj=10)!
+# [NasaVoyager Files](https://pbs.twimg.com/media/GfCrE56acAAlX2D?format=jpg&name=large)
+![Saturn](https://planetarydata.jpl.nasa.gov/img/data/voyager/vg_0038/extras/browse/saturn/c4420xxx/c4420805.jpg)
+[RelatedTweet](https://x.com/thakasartu/status/1869182171757560186) - Mission [Voyager @nasa](https://science.nasa.gov/mission/voyager/)
 
 ![Manessa](https://pbs.twimg.com/media/Gj8ttLPbEAACj-j?format=jpg&name=large)
 [Related Tweet Manessa Warner is KashDoll @blackgirlscode is it @normani](https://x.com/RicoThaka/status/1891282030094164055) [MAnessa @whitehouse](https://x.com/RicoThaka/status/1891279967985541352)
