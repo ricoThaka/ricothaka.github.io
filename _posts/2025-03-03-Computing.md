@@ -3,39 +3,17 @@ layout: post
 title: computing
 published: true
 ---
-[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw)
-# Emulation on Android using [RetroArch](https://web.libretro.com/)
 
-<div class="tupperware">
-<video width="400px" height="auto" controls> 
-	<source src="https://archive.org/download/screen-20250308-102510/screen-20250308-102815.mp4" type="video/mp4">	 
-</video> 
-
-<video width="400px" height="auto" controls> 
-	<source src="https://archive.org/download/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
-</video> 
-
-<video width="400px" height="auto" controls> 
-	<source src="https://archive.org/download/vid-20250304-092210_202503/screen-20250304-135442.mp4" type="video/mp4">	 
-</video> 
-
-<video width="400px" height="auto" controls> 
-	<source src="https://ia803207.us.archive.org/31/items/speed-buggy-01-speed-buggy-went-that-a-way/screen-20250301-135907.mp4" type="video/mp4">	 
-</video> 
-
-<video width="400px" height="auto" controls>
-	<source src="https://ia903207.us.archive.org/31/items/speed-buggy-01-speed-buggy-went-that-a-way/screen-20250301-080536.mp4" type="video/mp4">	 
-</video> 
-
-<video width="400px" height="auto" controls>
-	<source src="https://ia600809.us.archive.org/16/items/lprm-amsr-2-d-soilm-3-001-soil-moisture-c-1-animation-video-download/screen-20250310-064725.mp4" type="video/mp4">	 
-</video> 
-</div>
 
 
 # FairPhone
 [iDentifying myself on Twitter / x for @cityoflosangeles @whitehouse @nasa RepMaxineWaters](https://x.com/RicoThaka/status/1905673319346848128) [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode)
 
+
+
+[Architecture overview](https://source.android.com/docs/core/architecture#architecture)
+The Android Open Source Project (AOSP) is publicly available and modifiable Android source code. Anyone can download and modify AOSP for their device. AOSP provides a complete and fully functional implementation of the Android mobile platform.
+![Architecture](https://source.android.com/static/images/android-stack.svg)
 ![FairPhone5](https://shop.fairphone.com/web/image/3078206-b825b196/GreenxMobi_1080x1080px)
 [![Modularity](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png/1170px-Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png/1170px-Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png)
 [![FairPhone](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)
@@ -55,9 +33,36 @@ published: true
 ### [Fairphone - FLiCKr](https://www.flickr.com/photos/fairphone/)
 ![pcb boards](https://live.staticflickr.com/3783/12830884415_eaa8817cd4_h.jpg)
 
-[Architecture overview](https://source.android.com/docs/core/architecture#architecture)
-The Android Open Source Project (AOSP) is publicly available and modifiable Android source code. Anyone can download and modify AOSP for their device. AOSP provides a complete and fully functional implementation of the Android mobile platform.
-![Architecture](https://source.android.com/static/images/android-stack.svg)
+
+[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw)
+
+# Emulation on Android using [RetroArch](https://web.libretro.com/)
+
+<div class="tupperware">
+<video  controls> 
+	<source src="https://archive.org/download/screen-20250308-102510/screen-20250308-102815.mp4" type="video/mp4">	 
+</video> 
+
+<video controls> 
+	<source src="https://archive.org/download/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
+</video> 
+
+<video controls> 
+	<source src="https://archive.org/download/vid-20250304-092210_202503/screen-20250304-135442.mp4" type="video/mp4">	 
+</video> 
+
+<video  controls> 
+	<source src="https://ia803207.us.archive.org/31/items/speed-buggy-01-speed-buggy-went-that-a-way/screen-20250301-135907.mp4" type="video/mp4">	 
+</video> 
+
+<video controls>
+	<source src="https://ia903207.us.archive.org/31/items/speed-buggy-01-speed-buggy-went-that-a-way/screen-20250301-080536.mp4" type="video/mp4">	 
+</video> 
+
+<video controls>
+	<source src="https://ia600809.us.archive.org/16/items/lprm-amsr-2-d-soilm-3-001-soil-moisture-c-1-animation-video-download/screen-20250310-064725.mp4" type="video/mp4">	 
+</video> 
+</div>
 ![WinDowS95](https://pbs.twimg.com/media/Gj8aQ3abwAA9mfc?format=png&name=medium)
 ![DOS_SSF2t](https://pbs.twimg.com/media/Gh7CW57bgAAnVSM?format=png&name=medium)
 ![Win95](https://pbs.twimg.com/media/Gh7HFHHbwAIe-QB?format=png&name=medium)
