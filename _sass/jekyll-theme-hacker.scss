@@ -295,6 +295,117 @@ img[alt="kk"] {
     
   }
 
+
+
+
+.tupperware > * {
+  border: 1px solid #c9ff23;
+  border-radius: 5px;
+  padding: 0px;
+  flex-basis: 350px;
+  flex-shrink:2;
+  flex-grow:1;
+  overflow: hidden;
+  transition: all 300ms ease-in-out;
+  
+  &:hover {
+    flex-grow: 10;
+    
+  }
+}
+
+
+.tupperware {
+  display: flex;
+  justify-content: space-evenly;
+  flex-flow: row wrap; 
+  padding: 15px;
+  gap: 5px;
+  height: auto;
+}
+
+.tupperware img {
+  width: 100%;
+}
+
+.tupperware figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+ 
+
+  .enlarge_item {
+    display:flex;
+    width:min-content;
+    background-color: #22222290;
+    border: 1px solid #3DF28B;
+    flex-wrap: row-wrap;
+    margin: .1rem;
+    background-attachment: fixed;
+    justify-content: space-evenly;
+    background-size: 100% auto;
+    font-kerning: normal;
+    letter-spacing: .2rem;
+    font: bold 10px/18px  verdana, lucida, sans-serif;
+    
+
+  }
+
+  .enlarge_item>* {
+    display: block;
+    content: "min-content";
+    color: white;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+    border: 1px solid #c9ff23;
+    padding: 1px;
+    margin: 1px;
+    background-color: #3DF28B20;
+    transition: all .2s ease-in-out;
+   flex: 0 1 auto;
+      align-items: center;
+  justify-content:center;
+  text-align: center;
+ 
+    
+          &:hover {
+             transform: scale(1.5);
+        flex-grow: 3;
+        
+      }
+    
+    }
+  
+  .enlarge_item a:link {
+    
+    color: white;
+    
+  }
+
+   .enlarge_item figure img { 
+              
+  max-height: 50vh; 
+            width:50vh;
+            display: inline; 
+            margin: auto; 
+        } 
+
+
+ 
+
+figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  align-items: center;
+  justify-content:center;
+  text-align: center;
+}
   img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;float: left;}
   img[src*="Logo_of_the_United_States_Space_Force.png"] {width: 188px;padding: 4px;float: right;}
 /* img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {max-width: 250px;padding: 4px;float: right;} */
@@ -313,9 +424,9 @@ img[src*="6071cc4b982fd393d892490ed7a702738c595099"] {background: transparent
   url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
   center repeat; width: 100%;}
   img[src*="859740137800_cover.jpg/1200x1200bf-60.jpg"] {width: 25%; border: 5px solid #003da550;}
-img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
-img[src*="https://badge.fury.io"] {width: 100%;}
-img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
+img[src*="workflows/ci.yaml/badge.svg"] {width: min-content;}
+img[src*="https://badge.fury.io"] {width: min-content;}
+img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 15%;}
 svg { width: max-content;
 display: inline-block; }
 
