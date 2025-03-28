@@ -402,18 +402,19 @@ p:first-of-type {
 
 
 
+
 .tupperware > * {
   border: 1px solid #c9ff23;
-  border-radius: 5px;
+  border-radius: 0px;
   padding: 0px;
-  flex-basis: 5%;
+  flex-basis: 500px;
   flex-shrink:2;
   flex-grow:1;
   overflow: hidden;
   transition: all 300ms ease-in-out;
   
   &:hover {
-    flex-grow: 9.3;
+    flex-grow: 10;
     
   }
 }
@@ -440,8 +441,7 @@ p:first-of-type {
   text-align: center;
 }
 
-
-
+ 
 
 /*
 .tupperware > * {

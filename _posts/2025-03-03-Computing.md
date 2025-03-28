@@ -7,15 +7,15 @@ published: true
 # Emulation on Android using [RetroArch](https://web.libretro.com/)
 
 <div class="tupperware">
-<video width="auto" height="400px" controls> 
+<video width="400px" height="auto" controls> 
 	<source src="https://archive.org/download/screen-20250308-102510/screen-20250308-102815.mp4" type="video/mp4">	 
 </video> 
 
-<video width="auto" height="200px" controls> 
+<video width="400px" height="auto" controls> 
 	<source src="https://archive.org/download/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
 </video> 
 
-<video width="auto" height="400px" controls> 
+<video width="400px" height="auto" controls>
 	<source src="https://ia600809.us.archive.org/16/items/lprm-amsr-2-d-soilm-3-001-soil-moisture-c-1-animation-video-download/screen-20250310-064725.mp4" type="video/mp4">	 
 </video> 
 </div>
