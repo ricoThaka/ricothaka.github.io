@@ -27,6 +27,23 @@ published: true
 # /[rashardlearned](https://ricothaka.github.io/rashardlearned/2025/01/17/ComputerShiT.html)
 I dont know what im going to do with this repo, bc now i understand [Jekyll Theming](https://jekyllrb.com/docs/themes/) its way too much overhead to maintain using [LibraryResources](https://www.longbeach.gov/library) 
 
+
+![NORMANi](https://firebasestorage.googleapis.com/v0/b/project--7003778079567770323.appspot.com/o/images%2Fbrandium.jpg?alt=media&token=9dc04cda-0778-42f5-9016-9ed6d8520665)
+![her](https://pbs.twimg.com/media/GJ3ykrCaEAAn258?format=jpg&name=large)
+[Related Tweet](https://x.com/BubbleGumPop626/status/1773840965817819183) @blackgirlscode is that @normani @nasa
+
+[WebDesign i think you did](https://cssline.com/go/brandium)
+
+# Ed Tutorial on the dev site 
+
+[Discovering ed: the gnu editor](https://ricothaka.github.io/GNU-ed)
+![gnu_ED on rikothaka.github.io](https://pbs.twimg.com/media/GlehG1bbwAEIUCA?format=jpg&name=large)
+
+<div class="tupperware">
+<img src="https://pbs.twimg.com/media/GltNetaXIAAJ87e?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GltNetVXYAEvWEU?format=jpg&name=medium" />
+</div>
+
 [An Interactive Guide to CSS Grid - https://www.joshwcomeau.com/](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) The guide from Josh looks amazing, i see where im headed graphically, u really need solid structure to care abt abt looks at that level... things take time i love that site [csszenGarden](https://csszengarden.com/) [Wiki - CssZenGarden](https://en.wikipedia.org/wiki/CSS_Zen_Garden) [CSS_Grid SPEC](https://drafts.csswg.org/css-grid/#track-sizing)
 ![AndroidAuto](https://www.synqy.jdainc.com/kenwood/ddxsp-2022/img/home-bg-android-1.jpg)
 [Jekyll: including a post inside another post](https://stackoverflow.com/questions/30205465/jekyll-including-a-post-inside-another-post) [Animating Border - CSS](https://css-tricks.com/animating-border/) 
@@ -142,15 +159,7 @@ q                          $                          ^_^]The character counts f
 @nasa @nasa-jpl @blackgirlscode @normani I forked the Linux Kernel for M_R_O Jamie, we can build from this if we are to remain [heterogeneuos](https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity) `/ˌhedərəˈjēnēəs/`  @whitehouse 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tc4ROCJYbm0?si=dgjIU-Lykc63CG98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Ed Tutorial on the dev site 
 
-[Discovering ed: the gnu editor](https://ricothaka.github.io/GNU-ed)
-![gnu_ED on rikothaka.github.io](https://pbs.twimg.com/media/GlehG1bbwAEIUCA?format=jpg&name=large)
-
-<div class="tupperware">
-<img src="https://pbs.twimg.com/media/GltNetaXIAAJ87e?format=jpg&name=medium" />
-<img src="https://pbs.twimg.com/media/GltNetVXYAEvWEU?format=jpg&name=medium" />
-</div>
 
 <article>
 # Android as a Linux device
