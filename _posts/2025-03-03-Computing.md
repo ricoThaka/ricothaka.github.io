@@ -34,11 +34,17 @@ The Android Open Source Project (AOSP) is publicly available and modifiable Andr
 ![pcb boards](https://live.staticflickr.com/3783/12830884415_eaa8817cd4_h.jpg)
 
 
-[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw)
+[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw) [YAML_Twt @blackgirlscode](https://x.com/RicoThaka/status/1895914057162768886)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217049673&color=%23074c8c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user630627017" title="user630627017" target="_blank" style="color: #cccccc; text-decoration: none;">user630627017</a> · <a href="https://soundcloud.com/user630627017/cdv2815" title="Wipeout 2097 (ワイプアウト―2097): The Soundtrack (30 September 1996) [CDV2815, LC3098]" target="_blank" style="color: #cccccc; text-decoration: none;">Wipeout 2097 (ワイプアウト―2097): The Soundtrack (30 September 1996) [CDV2815, LC3098]</a></div>
 
 [Design](https://x.com/RicoThaka/status/1802816071973646811)
+
+
+![Using Andoid sed](https://pbs.twimg.com/media/GkQufXubAAENg5G?format=jpg&name=medium)
+![SedAnDAWK](https://pbs.twimg.com/media/GkQufXrbQAABJxe?format=jpg&name=medium)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qme" dir="ltr"><a href="https://t.co/3nslDacaAI">https://t.co/3nslDacaAI</a> <a href="https://twitter.com/hashtag/browsingtheTextInternet?src=hash&amp;ref_src=twsrc%5Etfw">#browsingtheTextInternet</a> <a href="https://twitter.com/hashtag/LYNX?src=hash&amp;ref_src=twsrc%5Etfw">#LYNX</a> <a href="https://twitter.com/hashtag/GNU?src=hash&amp;ref_src=twsrc%5Etfw">#GNU</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> <a href="https://twitter.com/hashtag/iloveu?src=hash&amp;ref_src=twsrc%5Etfw">#iloveu</a>💯💨👍 <a href="https://t.co/XQH7iuX09I">pic.twitter.com/XQH7iuX09I</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1892689148924068146?ref_src=twsrc%5Etfw">February 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Emulation on Android using [RetroArch](https://web.libretro.com/)
 
