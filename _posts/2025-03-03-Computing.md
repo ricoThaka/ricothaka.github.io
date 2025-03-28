@@ -15,6 +15,18 @@ published: true
 	<source src="https://archive.org/download/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
 </video> 
 
+<video width="400px" height="auto" controls> 
+	<source src="https://archive.org/download/vid-20250304-092210_202503/screen-20250304-135442.mp4" type="video/mp4">	 
+</video> 
+
+<video width="400px" height="auto" controls> 
+	<source src="https://ia803207.us.archive.org/31/items/speed-buggy-01-speed-buggy-went-that-a-way/screen-20250301-135907.mp4" type="video/mp4">	 
+</video> 
+
+<video width="400px" height="auto" controls>
+	<source src="https://ia903207.us.archive.org/31/items/speed-buggy-01-speed-buggy-went-that-a-way/screen-20250301-080536.mp4" type="video/mp4">	 
+</video> 
+
 <video width="400px" height="auto" controls>
 	<source src="https://ia600809.us.archive.org/16/items/lprm-amsr-2-d-soilm-3-001-soil-moisture-c-1-animation-video-download/screen-20250310-064725.mp4" type="video/mp4">	 
 </video> 
