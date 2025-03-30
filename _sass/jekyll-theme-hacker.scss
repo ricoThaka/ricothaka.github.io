@@ -298,43 +298,47 @@ img[alt="kk"] {
 
 
 
-.tupperware > * {
-  border: 1px solid #c9ff23;
-  border-radius: 5px;
-  padding: 0px;
-  flex-basis: 350px;
-  flex-shrink:2;
-  flex-grow:1;
-  overflow: hidden;
-  transition: all 300ms ease-in-out;
-  
-  &:hover {
-    flex-grow: 10;
+
+  .tupperware > * {
+    border: 1px solid #c9ff23;
+    border-radius: 0px;
+    padding: 0px;
+    flex-basis: 350px;
+    flex-shrink:2;
+    flex-grow:1;
+    overflow: hidden;
+    transition: all 300ms ease-in-out;
     
+    &:hover {
+      flex-grow: 10;
+      
+    }
   }
-}
-
-
-.tupperware {
-  display: flex;
-  justify-content: space-evenly;
-  flex-flow: row wrap; 
-  padding: 15px;
-  gap: 5px;
-  height: auto;
-}
-
-.tupperware img {
-  width: 100%;
-}
-
-.tupperware figcaption {
-  background-color: #22222290;
-  color: #fff;
-  font: bold small sans-serif;
-  padding: 3px;
-  text-align: center;
-}
+  
+  
+  .tupperware {
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap; 
+    padding: 15px;
+    gap: 5px;
+    height: auto;
+  }
+  
+  .tupperware img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .tupperware figcaption {
+    background-color: #22222290;
+    color: #fff;
+    font: bold small sans-serif;
+    padding: 3px;
+    text-align: center;
+  }
+  
+   
 
  
 
