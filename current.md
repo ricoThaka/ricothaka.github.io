@@ -13,9 +13,18 @@
 ![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif) @blackgirlscode hi
 <iframe src="https://archive.org/embed/super-cat-don-dada" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+Don Dada
 
+by Super Cat [1992 on `WaxPoetics`](https://magazine.waxpoetics.com/article/the-making-of-don-dada-and-the-many-lives-of-super-cat-the-wild-apache/) [Super Cat - Ghetto Red Hot - Video](https://www.youtube.com/watch?v=KS6bVTYRh-w&ab_channel=SuperCatVEVO)
 
-<iframe src="https://archive.org/embed/migos-culture" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+![4PageLEtter @blackgirlscode @normani](https://pbs.twimg.com/media/GmXEpMha8AUfoyw?format=png&name=360x360)
+
+<audio controls>
+  <source src="https://dn720305.ca.archive.org/0/items/aaliyah-one-in-a-million/Album/08-4%20Page%20Letter.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<iframe src="https://archive.org/embed/migos-culture" width="560" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![migos](https://upload.wikimedia.org/wikipedia/en/1/10/MigosCulture.jpg)
 # 
