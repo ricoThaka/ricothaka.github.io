@@ -4,7 +4,7 @@ title: BubbleGumPop
 ---
 
 
-
+[Penal Code 315 PC - Keeping or Living in a House of Prostitution in California](https://www.cronisraelsandstark.com/house-of-prostitution-penal-code-315-pc)
 ![Win95](https://pbs.twimg.com/media/Gj0BUAMWcAApV_v?format=jpg&name=medium)
 [RelatedTweet](https://x.com/RicoThaka/status/1890669548526883232)
 ![Ridges chekcmark](https://pbs.twimg.com/media/GLpVmKFaoAEOH2F?format=jpg&name=medium)
