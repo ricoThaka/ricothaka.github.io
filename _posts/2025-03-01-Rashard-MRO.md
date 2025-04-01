@@ -7,6 +7,8 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
 
+# Mars Exploration Rovers: Spirit and Opportunity [Read](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/)
+![Spiritand Opportunity](https://science.nasa.gov/wp-content/uploads/2024/03/mer-bythenumbers-infographic-feb2019.jpg)
 
 ![RashardMRO](https://pbs.twimg.com/media/GmCmrYVa8AAexOj?format=jpg&name=large)
 [VoyaGer Tweet](https://x.com/RicoThaka/status/1900702155235094674) [and then one](https://x.com/RicoThaka/status/1900965690133340289)
