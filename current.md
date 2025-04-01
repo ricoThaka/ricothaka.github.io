@@ -10,13 +10,26 @@
    
  </div> 
 
+![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif) @blackgirlscode hi
+
+<iframe src="https://archive.org/embed/migos-culture" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![migos](https://upload.wikimedia.org/wikipedia/en/1/10/MigosCulture.jpg)
 # 
+### Culture
+by Migos
+Culture is the second studio album by American hip hop group Migos. It was released on January 27, 2017, by Quality Control Music, 300 Entertainment and Atlantic Records...[Wiki `Culture` (album) From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Culture_(album)) 
+
+
+[Megan Thee Stallion - Cry Baby (feat. DaBaby) [Official Video]](https://youtu.be/AqaQsL-8I_M?si=P3yZd5gLW-DAzZLo) [Monaleo - Beating Down Yo Block (Official Music Video)](https://youtu.be/GnMPEfV0bSA?list=RD62-iVogg5jA) [Latto - Sunday Service (Official Video)](https://youtu.be/skTA4ZkRlyQ?si=6SX2XeKo--wZfOWd) [Megan Thee Stallion - Don’t Stop (feat. Young Thug) [Official Video]](https://youtu.be/6iuwBio5EUA?si=ycY4eGE5J38F63Vt) [Kash Doll - For Everybody [Produced By: Blasian Beats]](https://youtu.be/tQ8xAeVp9qQ?si=vN0szyCA5NuPZr1c) [Gucci Mane - Mrs. Davis [Official Music Video]](https://youtu.be/lUnynBPGc-Q?si=0s0qa7_D4YHBKd1A) [Gucci Mane - I Get The Bag feat. Migos [Official Music Video]](https://youtu.be/uo14xGYwWd4?si=nctKC4zXzaRAHJRC) [Gucci Mane - I'm Not Goin' (feat. Kevin Gates) [Official Music Video]](https://youtu.be/DEIUzqLFNPM?si=Yztx2pA2I5ddvcw3) [Gucci Mane - Lemonade (Official Music Video)](https://youtu.be/H6Q4s_ZdvAQ?si=XXU3QbLJi8BXGi4w) [Gucci Mane - Still Remember feat. Pooh Shiesty](https://youtu.be/rpubTIE3mdY?si=qTgazjmvfWSWOwHE) [Money Mu - “Hittin’ Remix” feat. MoneyBagg Yo & Foogiano (Official Music Video - WSHH Exclusive)](https://youtu.be/j7tHktqr_sA?si=FF1Rdvjk8wJlr5WG) [Lil Baby Feat. Moneybagg Yo "All Of A Sudden" (WSHH Exclusive - Official Music Video)](https://youtu.be/fyyn-dFALfI?si=gQ6xKLoD3aEiUauI) [Megan Thee Stallion - Captain Hook [Official Video]](https://youtu.be/n5LWsc-qCdA?si=NmSL6YyfSbR1qlbO) [Megan Thee Stallion - Big Ole Freak [Official Video]](https://youtu.be/oBYf6gpVvRA?si=M9bDw1jwdUdEA2Yr) [Latto - B*tch From Da Souf (Remix) (Official Video) ft. Saweetie & Trina](https://youtu.be/x8mAyKX9muE?si=IuuccmKqtT_ZqOPg) [Latto - Muwop (Official Video) ft. Gucci Mane](https://youtu.be/meFxq3-mNEc?si=b6nQTuk9vDvZooV8) [Rubi Rose - Deserve To Die (Official Music Video)](https://youtu.be/Rpfcn-jCJ_o?si=mBp0UHAPa8fzVljm) [Coi Leray - Anxiety (Official Music Video)](https://youtu.be/SY_2DZxBpA4?si=JEgkzF4jRe7FlWO4) [City Girls - Twerkulator (Official Video)](https://youtu.be/62-iVogg5jA?si=cgsSgwAYNhhnURvp) [Omeretta The Great Sorry Not Sorry](https://youtu.be/6IvchaA0B3Y?si=-NXO5jI3XH70_C0c)
+
 # htau I got hacked!
 <iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/ricoThaka/embed/azbRYxr?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/ricoThaka/pen/azbRYxr">
   htau I got hacked! : The Hole TO Another Universe retrograde build~cssgrid with flexbox inner containers</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
+
 # Clementine
 Clementine was a joint NASA/DoD mission to the Moon, 1991-1994. The Geosciences Node archives the following Clementine data:
 ![LROC](https://pbs.twimg.com/media/GfCmh2UaEAAfy3q?format=jpg&name=large) [Clementine - NASA Misson](https://www.lpi.usra.edu/lunar/missions/clementine/) [LunaData Explorer](https://ode.rsl.wustl.edu/moon/index.aspx)
@@ -86,9 +99,7 @@ Your browser does not support the audio element.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cwPcoum2Q0A?si=-f_jhio6JaxnhBVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif) @blackgirlscode hi
 
-[Megan Thee Stallion - Cry Baby (feat. DaBaby) [Official Video]](https://youtu.be/AqaQsL-8I_M?si=P3yZd5gLW-DAzZLo) [Monaleo - Beating Down Yo Block (Official Music Video)](https://youtu.be/GnMPEfV0bSA?list=RD62-iVogg5jA) [Latto - Sunday Service (Official Video)](https://youtu.be/skTA4ZkRlyQ?si=6SX2XeKo--wZfOWd) [Megan Thee Stallion - Don’t Stop (feat. Young Thug) [Official Video]](https://youtu.be/6iuwBio5EUA?si=ycY4eGE5J38F63Vt) [Kash Doll - For Everybody [Produced By: Blasian Beats]](https://youtu.be/tQ8xAeVp9qQ?si=vN0szyCA5NuPZr1c) [Gucci Mane - Mrs. Davis [Official Music Video]](https://youtu.be/lUnynBPGc-Q?si=0s0qa7_D4YHBKd1A) [Gucci Mane - I Get The Bag feat. Migos [Official Music Video]](https://youtu.be/uo14xGYwWd4?si=nctKC4zXzaRAHJRC) [Gucci Mane - I'm Not Goin' (feat. Kevin Gates) [Official Music Video]](https://youtu.be/DEIUzqLFNPM?si=Yztx2pA2I5ddvcw3) [Gucci Mane - Lemonade (Official Music Video)](https://youtu.be/H6Q4s_ZdvAQ?si=XXU3QbLJi8BXGi4w) [Gucci Mane - Still Remember feat. Pooh Shiesty](https://youtu.be/rpubTIE3mdY?si=qTgazjmvfWSWOwHE) [Money Mu - “Hittin’ Remix” feat. MoneyBagg Yo & Foogiano (Official Music Video - WSHH Exclusive)](https://youtu.be/j7tHktqr_sA?si=FF1Rdvjk8wJlr5WG) [Lil Baby Feat. Moneybagg Yo "All Of A Sudden" (WSHH Exclusive - Official Music Video)](https://youtu.be/fyyn-dFALfI?si=gQ6xKLoD3aEiUauI) [Megan Thee Stallion - Captain Hook [Official Video]](https://youtu.be/n5LWsc-qCdA?si=NmSL6YyfSbR1qlbO) [Megan Thee Stallion - Big Ole Freak [Official Video]](https://youtu.be/oBYf6gpVvRA?si=M9bDw1jwdUdEA2Yr) [Latto - B*tch From Da Souf (Remix) (Official Video) ft. Saweetie & Trina](https://youtu.be/x8mAyKX9muE?si=IuuccmKqtT_ZqOPg) [Latto - Muwop (Official Video) ft. Gucci Mane](https://youtu.be/meFxq3-mNEc?si=b6nQTuk9vDvZooV8) [Rubi Rose - Deserve To Die (Official Music Video)](https://youtu.be/Rpfcn-jCJ_o?si=mBp0UHAPa8fzVljm) [Coi Leray - Anxiety (Official Music Video)](https://youtu.be/SY_2DZxBpA4?si=JEgkzF4jRe7FlWO4) [City Girls - Twerkulator (Official Video)](https://youtu.be/62-iVogg5jA?si=cgsSgwAYNhhnURvp) [Omeretta The Great Sorry Not Sorry](https://youtu.be/6IvchaA0B3Y?si=-NXO5jI3XH70_C0c)
 
 [LOSANGELES](https://x.com/RicoThaka/status/1904948472362700847) News :
 ![SMDP](https://pbs.twimg.com/media/Gm-8YS5asAEZ_G1?format=png&name=4096x4096)
