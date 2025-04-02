@@ -5,7 +5,7 @@ published: true
 ---
 
 
-
+[max-width](https://developer.mozilla.org/en-US/docs/Web/CSS/max-width) The max-width CSS property sets the maximum width of an element. - @mozilla 
 # FairPhone
 [identifying myself for HildaSolis](https://x.com/BubbleGumPop626/status/1743427992653881448) [@spacex application @nasa-jpl](https://x.com/BubbleGumPop626/status/1743428678095352226)
 [iDentifying myself on Twitter / x for @cityoflosangeles @whitehouse @nasa RepMaxineWaters](https://x.com/RicoThaka/status/1905673319346848128) [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode)
