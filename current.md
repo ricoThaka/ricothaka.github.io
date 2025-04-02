@@ -10,6 +10,11 @@
    
  </div> 
 
+
+
+[‘The Forgotten Holocaust’: 27 Tragic Photos From The Rape Of Nanking](https://allthatsinteresting.com/rape-of-nanking-massacre) [Nanjing Massacre - History_dOT_COM](https://www.history.com/articles/nanjing-massacre) [Holocaust and Genocide Research Guide @unolibraries](https://libguides.unomaha.edu/c.php?g=100469&p=7908011) [RelatedTweet](https://x.com/BubbleGumPop510/status/1907216950327177621) [Penal Code 315 PC - Keeping or Living in a House of Prostitution in California](https://www.cronisraelsandstark.com/house-of-prostitution-penal-code-315-pc) [RelatedTweet](https://x.com/BubbleGumPop510/status/1907217783169122773) [The rape of Nanking : the forgotten holocaust of World War II](https://tripod.brynmawr.edu/discovery/fulldisplay/alma991009373089704921/01TRI_INST:BMC) [The Forgotten Holocaust of World War II](https://lapl.overdrive.com/media/767511) [Reddit](https://www.reddit.com/r/wikipedia/comments/16w4vez/the_japanese_wikipedia_article_for_the_1937/?rdt=59333)
+# December 1937 
+
 ![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif) @blackgirlscode hi
 <iframe src="https://archive.org/embed/super-cat-don-dada" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
