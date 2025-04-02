@@ -11,7 +11,35 @@
  </div> 
 
 
+# December 1937 
 
+
+# No More Parties in LA `OldData` from thakarashard.github.io/[_includes/albums.md](https://github.com/ThakaRashard/thakarashard.github.io/tree/master/_includes)
+### 9 months ago [Related](https://x.com/lacountyme/status/1877118288628519266)
+[Coi](https://www.coileray.com/#/) [![Twitter Follow](https://img.shields.io/badge/Social-coileray__-blue?style=social&logo=X)](https://twitter.com/coileray)
+[![Twitter Follow](https://img.shields.io/badge/Social-coi_leray__-blue?style=social&logo=X)](https://twitter.com/coi_leray)
+[@coilerayAccount suspended](https://x.com/coileray?lang=en) 
+[Coi Leray 🦋@c0ileray](https://x.com/c0ileray?lang=en)
+
+Hey pretty lady, I heard No Parties in LA a while back while we were still at Dance411. Explain to those ppl I really work in MilitaryAerospace so we is we bc somehow, im always around you people. Anyway i saw you made a response. I am so curious about this period. Me and Coral while stressed with Erikas Behavior were having a lot of fun! So i missed alot of important information. Do you think Kendrick iMeeshak from American TopTeam?. Imma do more research b4 i post on [reddit](https://www.reddit.com/r/coilerayy/)
+
+[Coi Leray ft. Lil Durk - No More Parties [Remix] (Official Music Video)](https://www.youtube.com/watch?v=my2ZvqmPaco) 
+[Coi Leray "No More Parties" (Live Performance) Open Mic](https://www.dailymotion.com/video/x801ggu) 
+[Coi Leray - No More Parties (Prod. Maaly Raw) [Official Audio]](https://www.youtube.com/watch?v=1GsmiUluqcI)
+
+"No More Parties in LA" (often stylized as "No More Parties in L.A.") is a song by American rapper Kanye West from his seventh studio album, The Life of Pablo (2016), featuring vocals from fellow rapper Kendrick Lamar. It was produced by West and Madlib, who began the recording in 2010. The beat was originally offered to Freddie Gibbs before being given to West and Lamar by Madlib. The song was released as the third promotional single from the album as part of West's GOOD Fridays series on January 18, 2016. [Lyrics](https://genius.com/Kanye-west-no-more-parties-in-la-lyrics) [Kanye West - No More Parties in LA (2010 Version)](https://www.youtube.com/watch?v=uyUVEvu1s_4) [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/No_More_Parties_in_LA) [Spotify](https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99) [PitchFork](https://pitchfork.com/reviews/tracks/17921-kanye-west-no-more-parties-in-la-ft-kendrick-lamar/)
+>OPiNiON~> [Kanye Bodied Kendrick in No More Parties in LA](https://www.reddit.com/r/KendrickLamar/comments/90ihsm/kanye_bodied_kendrick_in_no_more_parties_in_la/?rdt=33774)
+>LosAngelesMusic [is no more parties in la kendrick and kanyes only collab?](https://www.reddit.com/r/KendrickLamar/comments/rkzywg/is_no_more_parties_in_la_kendrick_and_kanyes_only/)
+
+<embed  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242539038&color=%23ffdc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+[Kash Doll Reacts to Kendrick Lamar Name Dropping Her on "6:16 In LA"](https://www.complex.com/music/a/cmplxtara-mahadevan/kash-doll-kendrick-lamar-name-drop-616-in-la)
+
+### [Succa Proof - Nipsey Hussle, Victory Lap [Official Audio]](https://youtu.be/rQEuF5QI0Q8?si=po6HyAj41Pa_iIjM)
+
+# Pussy Talk (feat. Doja Cat)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/843506032&color=%23e53774&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thecitygirls" title="City Girls" target="_blank" style="color: #cccccc; text-decoration: none;">City Girls</a> · <a href="https://soundcloud.com/thecitygirls/pussy-talk-feat-doja-cat" title="Pussy Talk (feat. Doja Cat)" target="_blank" style="color: #cccccc; text-decoration: none;">Pussy Talk (feat. Doja Cat)</a></div>
 
 
 ![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif) @blackgirlscode hi
@@ -38,34 +66,7 @@ by Super Cat [1992 on `WaxPoetics`](https://magazine.waxpoetics.com/article/the-
 [Linkin Park - Hybrid Theory (Full Album)](https://youtube.com/watch?v=D2ts2GWOSv8) 
 [The World Famous Beat Junkies - Vol. 1 - DJ Babu - 1997 [FULL]](https://youtu.be/ZsVvIJ7eZe8?si=cka8tNyffJQnThJ7)
 [WORLD FAMOUS BEAT JUNKIES & Invisibl Skratch Piklz WAKE UP SHOW 1995 FULL TAPE](https://youtu.be/uzmKIAQrE0c?si=z3DQsjxksK5NJaG6) [‘The Forgotten Holocaust’: 27 Tragic Photos From The Rape Of Nanking](https://allthatsinteresting.com/rape-of-nanking-massacre) [Nanjing Massacre - History_dOT_COM](https://www.history.com/articles/nanjing-massacre) [Holocaust and Genocide Research Guide @unolibraries](https://libguides.unomaha.edu/c.php?g=100469&p=7908011) [RelatedTweet](https://x.com/BubbleGumPop510/status/1907216950327177621) [Penal Code 315 PC - Keeping or Living in a House of Prostitution in California](https://www.cronisraelsandstark.com/house-of-prostitution-penal-code-315-pc) [RelatedTweet](https://x.com/BubbleGumPop510/status/1907217783169122773) [The rape of Nanking : the forgotten holocaust of World War II](https://tripod.brynmawr.edu/discovery/fulldisplay/alma991009373089704921/01TRI_INST:BMC) [The Forgotten Holocaust of World War II](https://lapl.overdrive.com/media/767511) [Reddit](https://www.reddit.com/r/wikipedia/comments/16w4vez/the_japanese_wikipedia_article_for_the_1937/?rdt=59333)
-# December 1937 
 
-
-# No More Parties in LA `OldData` from thakarashard.github.io/[_includes/albums.md](https://github.com/ThakaRashard/thakarashard.github.io/tree/master/_includes)
-### 9 months ago
-[Coi](https://www.coileray.com/#/) [![Twitter Follow](https://img.shields.io/badge/Social-coileray__-blue?style=social&logo=X)](https://twitter.com/coileray)
-[@coilerayAccount suspended](https://x.com/coileray?lang=en) 
-[Coi Leray 🦋@c0ileray](https://x.com/c0ileray?lang=en)
-
-Hey pretty lady, I heard No Parties in LA a while back while we were still at Dance411. Explain to those ppl I really work in MilitaryAerospace so we is we bc somehow, im always around you people. Anyway i saw you made a response. I am so curious about this period. Me and Coral while stressed with Erikas Behavior were having a lot of fun! So i missed alot of important information. Do you think Kendrick iMeeshak from American TopTeam?. Imma do more research b4 i post on [reddit](https://www.reddit.com/r/coilerayy/)
-
-[Coi Leray ft. Lil Durk - No More Parties [Remix] (Official Music Video)](https://www.youtube.com/watch?v=my2ZvqmPaco) 
-[Coi Leray "No More Parties" (Live Performance) Open Mic](https://www.dailymotion.com/video/x801ggu) 
-[Coi Leray - No More Parties (Prod. Maaly Raw) [Official Audio]](https://www.youtube.com/watch?v=1GsmiUluqcI)
-
-"No More Parties in LA" (often stylized as "No More Parties in L.A.") is a song by American rapper Kanye West from his seventh studio album, The Life of Pablo (2016), featuring vocals from fellow rapper Kendrick Lamar. It was produced by West and Madlib, who began the recording in 2010. The beat was originally offered to Freddie Gibbs before being given to West and Lamar by Madlib. The song was released as the third promotional single from the album as part of West's GOOD Fridays series on January 18, 2016. [Lyrics](https://genius.com/Kanye-west-no-more-parties-in-la-lyrics) [Kanye West - No More Parties in LA (2010 Version)](https://www.youtube.com/watch?v=uyUVEvu1s_4) [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/No_More_Parties_in_LA) [Spotify](https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99) [PitchFork](https://pitchfork.com/reviews/tracks/17921-kanye-west-no-more-parties-in-la-ft-kendrick-lamar/)
->OPiNiON~> [Kanye Bodied Kendrick in No More Parties in LA](https://www.reddit.com/r/KendrickLamar/comments/90ihsm/kanye_bodied_kendrick_in_no_more_parties_in_la/?rdt=33774)
->LosAngelesMusic [is no more parties in la kendrick and kanyes only collab?](https://www.reddit.com/r/KendrickLamar/comments/rkzywg/is_no_more_parties_in_la_kendrick_and_kanyes_only/)
-
-<embed  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242539038&color=%23ffdc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
-
-[Kash Doll Reacts to Kendrick Lamar Name Dropping Her on "6:16 In LA"](https://www.complex.com/music/a/cmplxtara-mahadevan/kash-doll-kendrick-lamar-name-drop-616-in-la)
-
-### [Succa Proof - Nipsey Hussle, Victory Lap [Official Audio]](https://youtu.be/rQEuF5QI0Q8?si=po6HyAj41Pa_iIjM)
-
-# Pussy Talk (feat. Doja Cat)
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/843506032&color=%23e53774&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thecitygirls" title="City Girls" target="_blank" style="color: #cccccc; text-decoration: none;">City Girls</a> · <a href="https://soundcloud.com/thecitygirls/pussy-talk-feat-doja-cat" title="Pussy Talk (feat. Doja Cat)" target="_blank" style="color: #cccccc; text-decoration: none;">Pussy Talk (feat. Doja Cat)</a></div>
 
 ## Yung Miami & [Skilla Baby](https://www.youtube.com/channel/UC4OWd0CnbvaiaozgLZO-L4Q) - CFWM | From The Block Performance 🎙 (Miami)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O5gZWdgSbhM?si=Ogv-taRNh7xaLmJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
