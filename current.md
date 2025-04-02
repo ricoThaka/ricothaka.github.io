@@ -22,6 +22,7 @@ Don Dada
 by Super Cat [1992 on `WaxPoetics`](https://magazine.waxpoetics.com/article/the-making-of-don-dada-and-the-many-lives-of-super-cat-the-wild-apache/) [Super Cat - Ghetto Red Hot - Video](https://www.youtube.com/watch?v=KS6bVTYRh-w&ab_channel=SuperCatVEVO)
 
 
+[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
 [Eric Burdon - Declares War (1970 Full Album)](https://www.youtube.com/watch?v=OhuX8fFHP6I)
 [MF DOOM (King Geedorah) - Take Me To Your Leader (Full Album) (Deluxe Edition)](https://youtu.be/6u-JL-nNgJo?si=PD5L-TVELWpasWuX)
 [Beastie Boys - Glasgow 1999 (FULL)](https://youtu.be/xJYfOGb3sKw?si=I5QbOauB0Tf3Kji8) [21 Savage, Latto, Rick Ross - Stacks ft. Moneybagg Yo (Music Video) 2024](https://youtu.be/_Y6zDqirIxM?si=rFGnIvpYnpiixgVy)
