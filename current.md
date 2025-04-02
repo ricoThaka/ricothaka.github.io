@@ -12,8 +12,7 @@
 
 
 
-[‘The Forgotten Holocaust’: 27 Tragic Photos From The Rape Of Nanking](https://allthatsinteresting.com/rape-of-nanking-massacre) [Nanjing Massacre - History_dOT_COM](https://www.history.com/articles/nanjing-massacre) [Holocaust and Genocide Research Guide @unolibraries](https://libguides.unomaha.edu/c.php?g=100469&p=7908011) [RelatedTweet](https://x.com/BubbleGumPop510/status/1907216950327177621) [Penal Code 315 PC - Keeping or Living in a House of Prostitution in California](https://www.cronisraelsandstark.com/house-of-prostitution-penal-code-315-pc) [RelatedTweet](https://x.com/BubbleGumPop510/status/1907217783169122773) [The rape of Nanking : the forgotten holocaust of World War II](https://tripod.brynmawr.edu/discovery/fulldisplay/alma991009373089704921/01TRI_INST:BMC) [The Forgotten Holocaust of World War II](https://lapl.overdrive.com/media/767511) [Reddit](https://www.reddit.com/r/wikipedia/comments/16w4vez/the_japanese_wikipedia_article_for_the_1937/?rdt=59333)
-# December 1937 
+
 
 ![BLAUPUNKT Madrid 200 BT](https://static01.galaxus.com/productimages/3/0/3/6/1/5/9/7/6/9/0/1/2/9/0/1/5/0/8/2d4086af-956d-4d9a-8574-01153932828f_cropped.jpg_1000.avif) @blackgirlscode hi
 <iframe src="https://archive.org/embed/super-cat-don-dada" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -21,6 +20,83 @@
 Don Dada
 
 by Super Cat [1992 on `WaxPoetics`](https://magazine.waxpoetics.com/article/the-making-of-don-dada-and-the-many-lives-of-super-cat-the-wild-apache/) [Super Cat - Ghetto Red Hot - Video](https://www.youtube.com/watch?v=KS6bVTYRh-w&ab_channel=SuperCatVEVO)
+
+
+[Eric Burdon - Declares War (1970 Full Album)](https://www.youtube.com/watch?v=OhuX8fFHP6I)
+[MF DOOM (King Geedorah) - Take Me To Your Leader (Full Album) (Deluxe Edition)](https://youtu.be/6u-JL-nNgJo?si=PD5L-TVELWpasWuX)
+[Beastie Boys - Glasgow 1999 (FULL)](https://youtu.be/xJYfOGb3sKw?si=I5QbOauB0Tf3Kji8) [21 Savage, Latto, Rick Ross - Stacks ft. Moneybagg Yo (Music Video) 2024](https://youtu.be/_Y6zDqirIxM?si=rFGnIvpYnpiixgVy)
+[Victoria Monét - Alright (Official Video)](https://youtu.be/q0oGhx2JT1A?si=iz8GzaLk3FvNJDsq)
+[BIA, JID - LIGHTS OUT (Official Music Video)]( https://www.youtube.com/watch?v=8bylnHS1czs) [Latto - Sunday Service (feat. Megan Thee Stallion & Flo Milli) [Remix] (Official Video)](https://youtu.be/9gL0F1xIt2I?si=LKgFKqi5fFW3ufW2) `https://x.com/MooNLOVER404/status/1807920410895569026`
+ [Jeezy - Bag Talk ft. Rick Ross, Yo Gotti (Music Video) 2024](https://youtu.be/rP1bfU5R2WE?si=AVCn7gRICgnIx2Eq)
+[GloRilla - TGIF (Official Music Video)](https://youtu.be/zP6eqCOM7tk?si=X4MRYqL8WtP3DEa-) [Blu Cantrell - Breathe (Official HD Video)](https://youtu.be/KFi-B124AEo?si=dAcvCI1zZ504_kHM) `https://x.com/MooNLOVER404/status/1807917171798135192` [Luther Vandross - Live at Wembley - 1987 - Full Show](https://www.youtube.com/watch?v=NR2v9xll2o0) [DJ Relle Presents - Omeretta The Great Vs Big Latto-2022](https://archive.org/details/DJ_Relle_Presents_-_Omeretta_The_Great_Vs_Big_Latto-2022)
+
+
+[Coi Leray - Bops ](https://youtu.be/ttDtl94JNx0?si=YkeVOxDyN_Zz-0Ch)
+[Cardi B ~ Invasion of Privacy - FULL ALBUM](https://youtu.be/K45CbzJcxMQ?si=2YQt6q8U8y7D6rhG&t=139) 
+[[Full Album] T̲he S̲m̲a̲shi̲ng Pu̲mpki̲ns - M̲e̲llo̲n C̲o̲llie an̲d th̲e I̲n̲finit̲e S̲a̲dne̲ss](https://youtu.be/HTi0H2XF69Q?si=YzTjCx5Xl4grBJaS)
+[Linkin Park - Hybrid Theory (Full Album)](https://youtube.com/watch?v=D2ts2GWOSv8) 
+[The World Famous Beat Junkies - Vol. 1 - DJ Babu - 1997 [FULL]](https://youtu.be/ZsVvIJ7eZe8?si=cka8tNyffJQnThJ7)
+[WORLD FAMOUS BEAT JUNKIES & Invisibl Skratch Piklz WAKE UP SHOW 1995 FULL TAPE](https://youtu.be/uzmKIAQrE0c?si=z3DQsjxksK5NJaG6) [‘The Forgotten Holocaust’: 27 Tragic Photos From The Rape Of Nanking](https://allthatsinteresting.com/rape-of-nanking-massacre) [Nanjing Massacre - History_dOT_COM](https://www.history.com/articles/nanjing-massacre) [Holocaust and Genocide Research Guide @unolibraries](https://libguides.unomaha.edu/c.php?g=100469&p=7908011) [RelatedTweet](https://x.com/BubbleGumPop510/status/1907216950327177621) [Penal Code 315 PC - Keeping or Living in a House of Prostitution in California](https://www.cronisraelsandstark.com/house-of-prostitution-penal-code-315-pc) [RelatedTweet](https://x.com/BubbleGumPop510/status/1907217783169122773) [The rape of Nanking : the forgotten holocaust of World War II](https://tripod.brynmawr.edu/discovery/fulldisplay/alma991009373089704921/01TRI_INST:BMC) [The Forgotten Holocaust of World War II](https://lapl.overdrive.com/media/767511) [Reddit](https://www.reddit.com/r/wikipedia/comments/16w4vez/the_japanese_wikipedia_article_for_the_1937/?rdt=59333)
+# December 1937 
+
+
+# No More Parties in LA `OldData` from thakarashard.github.io/[_includes/albums.md](https://github.com/ThakaRashard/thakarashard.github.io/tree/master/_includes)
+### 9 months ago
+[Coi](https://www.coileray.com/#/) [![Twitter Follow](https://img.shields.io/badge/Social-coileray__-blue?style=social&logo=X)](https://twitter.com/coileray)
+[@coilerayAccount suspended](https://x.com/coileray?lang=en) 
+[Coi Leray 🦋@c0ileray](https://x.com/c0ileray?lang=en)
+
+Hey pretty lady, I heard No Parties in LA a while back while we were still at Dance411. Explain to those ppl I really work in MilitaryAerospace so we is we bc somehow, im always around you people. Anyway i saw you made a response. I am so curious about this period. Me and Coral while stressed with Erikas Behavior were having a lot of fun! So i missed alot of important information. Do you think Kendrick iMeeshak from American TopTeam?. Imma do more research b4 i post on [reddit](https://www.reddit.com/r/coilerayy/)
+
+[Coi Leray ft. Lil Durk - No More Parties [Remix] (Official Music Video)](https://www.youtube.com/watch?v=my2ZvqmPaco) 
+[Coi Leray "No More Parties" (Live Performance) Open Mic](https://www.dailymotion.com/video/x801ggu) 
+[Coi Leray - No More Parties (Prod. Maaly Raw) [Official Audio]](https://www.youtube.com/watch?v=1GsmiUluqcI)
+
+"No More Parties in LA" (often stylized as "No More Parties in L.A.") is a song by American rapper Kanye West from his seventh studio album, The Life of Pablo (2016), featuring vocals from fellow rapper Kendrick Lamar. It was produced by West and Madlib, who began the recording in 2010. The beat was originally offered to Freddie Gibbs before being given to West and Lamar by Madlib. The song was released as the third promotional single from the album as part of West's GOOD Fridays series on January 18, 2016. [Lyrics](https://genius.com/Kanye-west-no-more-parties-in-la-lyrics) [Kanye West - No More Parties in LA (2010 Version)](https://www.youtube.com/watch?v=uyUVEvu1s_4) [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/No_More_Parties_in_LA) [Spotify](https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99) [PitchFork](https://pitchfork.com/reviews/tracks/17921-kanye-west-no-more-parties-in-la-ft-kendrick-lamar/)
+>OPiNiON~> [Kanye Bodied Kendrick in No More Parties in LA](https://www.reddit.com/r/KendrickLamar/comments/90ihsm/kanye_bodied_kendrick_in_no_more_parties_in_la/?rdt=33774)
+>LosAngelesMusic [is no more parties in la kendrick and kanyes only collab?](https://www.reddit.com/r/KendrickLamar/comments/rkzywg/is_no_more_parties_in_la_kendrick_and_kanyes_only/)
+
+<embed  allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242539038&color=%23ffdc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+[Kash Doll Reacts to Kendrick Lamar Name Dropping Her on "6:16 In LA"](https://www.complex.com/music/a/cmplxtara-mahadevan/kash-doll-kendrick-lamar-name-drop-616-in-la)
+
+### [Succa Proof - Nipsey Hussle, Victory Lap [Official Audio]](https://youtu.be/rQEuF5QI0Q8?si=po6HyAj41Pa_iIjM)
+
+# Pussy Talk (feat. Doja Cat)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/843506032&color=%23e53774&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thecitygirls" title="City Girls" target="_blank" style="color: #cccccc; text-decoration: none;">City Girls</a> · <a href="https://soundcloud.com/thecitygirls/pussy-talk-feat-doja-cat" title="Pussy Talk (feat. Doja Cat)" target="_blank" style="color: #cccccc; text-decoration: none;">Pussy Talk (feat. Doja Cat)</a></div>
+
+## Yung Miami & [Skilla Baby](https://www.youtube.com/channel/UC4OWd0CnbvaiaozgLZO-L4Q) - CFWM | From The Block Performance 🎙 (Miami)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5gZWdgSbhM?si=Ogv-taRNh7xaLmJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JgCoHhsW2Is?si=QjEYQOd-tGnxsrZ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Gucci Mane Freestyle ft. OJ Da Juiceman, Kourtney Money & Dg Yola |Shot By @HoodffairsTv](https://www.youtube.com/watch?v=Tthu77cAOdE)
+[OJ Da Juiceman on Being Around Gucci Mane During Jeezy Beef ](https://youtu.be/jk_tuAnQdm0?si=Vlir14-eTBtNVFM6)
+[T.I. Goes Sneaker Shopping With Complex](https://youtu.be/oeC2NsKrg2A?si=fWiLQB5Go5LJndxW)
+[Ice Spice Goes Sneaker Shopping With Complex](https://www.youtube.com/watch?v=LaQu_ZmlTlc)
+[Sexyy Red Goes Sneaker Shopping With Complex](https://youtu.be/0dRy38lcWBw?si=fciQgNFH_GdZG7cE)
+[Katt Williams Expose How Diddy Force Out Kriss Kross From Hollywood](https://youtu.be/2mpvx9q_cL4?si=PpTWEdd2dYsTMaEg)
+[Gucci Mane - Glockumentry (Trap-A-Thon DVD)](https://youtu.be/iS68nVIGJl8?si=WYzqdRxaBZTsH6t9)
+[Ex-makeup artist for Diddy and Cassie: I have kept this secret for 14 years](https://youtu.be/dioyfeZPxjM?si=kNIUdpdJjMcKjg9l)
+[Birdman, Lil Wayne - Stuntin' Like My Daddy (Official Music Video)](https://youtu.be/_hDPUoUi6_s?si=2-KOuhMx_GrST83X) 
+[Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?si=JUBxiDd_d84wdLXJ)
+[Rich Homie Quan - Type of Way (Official Video)](https://youtu.be/-KKbdErJkiY?si=we7yzqTlRZNDRlWC)
+
+
+
+# Yung Miami
+![YunG MaiMi](https://i.ytimg.com/vi/RiyASZgnwb0/maxresdefault.jpg)
+Yung Miami was born on 11 February 1994 in Miami, Florida, USA. She is a music artist and actress, known for You People (2023), Bad Boys for Life (2020) and Diddy Feat. Bryson Tiller, Ashanti, Yung Miami: Gotta Move On (2022) - [imdb](https://www.imdb.com/name/nm10128953/)
+### [Trina Talks The Rap Game, Her Love Life, Being From Miami, The City Girls & More | Caresha Please](https://youtu.be/n0eL2CzEnhc?si=JOXfZy6YmLVh-vbg)
+## [Yung Miami On Diddy, JT, Caresha Please, Acting in BMF, Marriage & More | The Jason Lee Show](https://youtu.be/RiyASZgnwb0?si=1CMX0NLZ0_JctRX7)
+
+![Birdman ResPecK](https://s3.us-east-2.amazonaws.com/dsr-website/posts/respeck.gif)
+[Birdman Goes Off On The Breakfast Club Power 105.1 (04/22/2016)](https://youtu.be/4jLT7GQYNhI?si=GfwhmLck3_1pZZwY)
+[Common & Pete Rock On Nas vs Biggie, Ye's Genius, Drake & Kendrick, New Album & More | Drink Champs](https://youtu.be/yqH9Vb72M_E?si=0dsX53DpZyOoeuvu)
+[CooleyHigh](https://youtu.be/ANrXC2HArXA?si=xyhyIT8c0Kt0aacV)
+
+
+
 
 ![4PageLEtter @blackgirlscode @normani](https://pbs.twimg.com/media/GmXEpMha8AUfoyw?format=png&name=360x360)
 
@@ -454,6 +530,7 @@ ICONS</span></h2>
 <img src="https://pbs.twimg.com/media/F_LR_0LaMAAxFYA?format=jpg&name=small" />
 <img src="https://pbs.twimg.com/media/F_LSA12aUAAL20z?format=jpg&name=900x900" />
 </div>
+
 [Recent California Precipitation maP](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=state-ca&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-131.74955003553436%2C12.39074881083234%2C-97.12361341020858%2C66.32571775472586%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C11%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.4%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A3%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D) 
 
 # Europa Clipper Camera Passes First Test in Space
@@ -498,138 +575,6 @@ NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it wil
 </picture>
 
 
-![Ci_MESSAGE:NO_STATUS](https://pbs.twimg.com/media/GlsonxqbsAA_JKq?format=jpg&name=large) [#RelatedTweet](https://x.com/RicoThaka/status/1899156619084300541) @github 
-[grep, awk and sed – three VERY useful command-line utilities Matt Probert, Uni of York ](https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/guides/grep_awk_sed.pdf)
-[Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/Sed.html)
-[LapDLiveFeeD](https://www.youtube.com/live/w-ml4vis_Uo?si=Nf1zech1NTUjjxD6) [Life story Africa](https://youtu.be/Oa0iuAFYBfQ?si=fAMtHtIAdkMEZAu6)
-
-[Windows 95 Launch](https://youtu.be/_JzfROUDsK0?si=b4ZYt8XQYfFFnRR3) 
-
-[Recent California Precipitation maP](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=state-ca&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-131.74955003553436%2C12.39074881083234%2C-97.12361341020858%2C66.32571775472586%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C11%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.4%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A3%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D) 
-[1930s-40s in Color](https://www.flickr.com/photos/8623220@N02/albums/72157603671370361/)
-
-
-[HER_MOTHER](https://x.com/BubbleGumPop510/status/1725665280448483631)
-
-
-# Stone Mountain Georgia
-May Bass, MR_NewSom,
-idk what [sza](https://www.szasos.com/) is, but my significant other [Normani](https://normani.fandom.com/wiki/Normani) has played that role or they have been brotheled together. [California Artist Kendrick Lamar](https://soundcloud.com/dnateggun/kendrick-lamar-good-kid-m-a-a?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) has a sorted past, and i think he is similar... More than one person is [KendrickLamar!](https://archive.org/details/OverlyDedicatedKendrickMixtapesFLAC) but n of them is involved with [Sza](https://www.youtube.com/watch?v=JQbjS0_ZfJ0) romantically to one degree or another. The issue is i know [KashDoll](https://kashdoll.com/) at somelevel is my intimate partner. You know [TheBunnies](https://www.candidcandace.com/my_weblog/2018/01/ringing-in-the-new-year-with-wedding-bells-and-playboy-bunnies.html) are entertainers an [Kash doll](https://codepen.io/ricoThaka/pen/WNVvgYj) done hit me with that [CockTail Waitress Energy](https://www.youtube.com/watch?v=_ST6ZRbhGiA) 
->I cant watch youtube right now, one of normani escourt companions or rapist needs the public not to hear any songs [he plays](https://codepen.io/ricoThaka)
-Anyway! Whatever private security is doing to slow down los angeles, i dont want to be connected to slowing down [@nasa-JPL!](https://www.jpl.nasa.gov/press-kits/spherex/mission-overview/) I embedded [SZa Video](https://www.youtube.com/watch?v=MSRcC626prw) Broken Clocks. Take it seriously! [i WAS WORKiNG](https://girlgeek.io/company/ionic-security/) so I need you to know whatever sex went down is not me and she is back burnering me all the time and wont get my foodstamp card back from [Erika](https://www.essence.com/tags/erika-kelly/).
- [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zVc-K1kKkVk?si=Ap95D9nep2ueRX5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-![KASHDOLL](https://pbs.twimg.com/media/F-hti3easAA54F1?format=jpg&name=large)
-
-![ZOOM_HEARiNG](https://pbs.twimg.com/media/GlJqgT7bsAE8SCi?format=jpg&name=large) [MAnessaeh](https://x.com/thakasartu/status/1896706014474551728)
-[CORAL is Missing](https://x.com/thakasartu/status/1896695613976449071) 
-
-{% include twing.md %}
-
-
-
-
-# SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS @nasa @blackgirlscode @nasa-jpl @whitehouse
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=2fyjp_ZlRTUFmPxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
- [The Acid Tests are:](https://www.acidtests.org/) 
- The Acid Tests were originally published as part of the [Web Standards Project (WaSP)](https://www.webstandards.org/), a grassroots coalition fighting for standards which ensure simple, affordable access to web technologies for all.
-![p](https://pbs.twimg.com/media/GlYUenvaIAAuSq0?format=jpg&name=large)
-
-# Jupiter
-`/vgr/pdart16/wenkert_pdart16_vgr_rav1ciun/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/` - [Planetary Data System](https://pds-imaging.jpl.nasa.gov/beta/)
-
-[Voyager 2](https://science.nasa.gov/mission/voyager/voyager-2/) is the only [spacecraft](https://science.nasa.gov/image-detail/pia21737/) to visit Uranus and Neptune.
-[RelatedTweet](https://x.com/RicoThaka/status/1897491944458297650) [Related](https://x.com/RicoThaka/status/1897493448741282030) [NORMANiLife](https://x.com/thakasartu/status/1897351276897403366) [injuryReport](https://x.com/RicoThaka/status/1897343547873042706) [RiVERFOOTAGE](https://x.com/RicoThaka/status/1897081876898308428) [SuperMArioWold2](https://x.com/RicoThaka/status/1897086405643555018)
-
-
-<div class="tupperware">
-<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020200-DATA-020200.014.png::1:md.webp" />
-<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020180-DATA-020180.019.png::1:md.webp" />
-<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1204-MAMQTV-012210-DATA-012210.001.png::1:md.webp" />
-<img src="https://science.nasa.gov/wp-content/uploads/2024/04/pia21737.jpg" />
-</div>
-
-
-
-![overlay](https://pbs.twimg.com/media/GBYg8WIbAAAtTAn?format=jpg&name=large)
-
-![android keyboard](https://pbs.twimg.com/media/FyZaAkXaYAA_QK9?format=jpg&name=900x900)
-
-### Working on my CArtography \
-[NORthAMEriCA](https://worldview.earthdata.nasa.gov/?v=-412.59375,-219.375,412.59375,219.375&z=4&ics=true&ici=5&icd=10&as=2025-03-01-T19%3A00%3A00Z&ae=2025-03-06-T02%3A35%3A59Z&l=Coastlines_15m,GOES-West_ABI_GeoColor,Land_Water_Map&lg=true&tr=atmospheric_rivers&av=7.5&ab=on&t=2025-03-05-T02%3A34%3A48Z)
-![NASAWORLDViEW](https://pbs.twimg.com/media/GlU6EkybkAAUOxS?format=jpg&name=4096x4096)
-
-[NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
-
-### All Night Long : by [Common](https://www.thinkcommon.com/) Feat [EryKah Badu](https://erykahbadu.com/)
-<audio controls>
-  <source src="https://archive.org/download/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
-[<img src="https://www.nasa.gov/wp-content/uploads/2018/10/parachute-16.gif" alt="Mars Lander Persevere Rover PARACHuTE" />](https://www.nasa.gov/wp-content/uploads/2018/10/parachute-16.gif)
-
-
-
-![NORMANi an RicoThaka on Google](https://pbs.twimg.com/media/GlUJ5-haoAA8uBm?format=jpg&name=large)
-[RelatedTweet](https://x.com/RicoThaka/status/1897434020398657787) [GOOGLEQuERY](https://www.google.com/search?sca_esv=aebc663c531febdd&rlz=1CASLJZ_enUS1152&sxsrf=AHTn8zrmSDx53jhbuGYblH42GeVR5vivAg:1741218267193&q=ricothaka&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqekYoUzDaOcDDjQfK4KpR2OIx89VvS5aatXTnNt-qgjySyinU5ijtTN1RLytWiQb-L08r0IlyBwhmhmKk-6U0A05aMI2auI99wrCCkIEouFqHEwppFIzcn73Lg0uFC6Khg8gSwpdaHPcqbLW8Z5Wz7sk_yHXkw&sa=X&ved=2ahUKEwjdmqvCj_SLAxWWDEQIHUMpLdgQtKgLegQIExAB&biw=960&bih=945&dpr=1#vhid=S61_EHM75LyiOM&vssid=mosaic) [YANDEX - RiCOTHAKA](https://yandex.com/search/?text=ricothaka&lr=200&search_source=yacom_desktop_common)
-
-![ricothaka on google](https://pbs.twimg.com/media/GlUJVBPbUAA7lmF?format=jpg&name=medium)
-
-
-![Voyager](https://pbs.twimg.com/media/Gc7sebibIAAzZsc?format=jpg&name=large)
-[Datamining at NASAJPL](https://x.com/RicoThaka/status/1859683807466750326) [My Disovery](https://x.com/RicoThaka/status/1859786430467407976) [FLYBY](https://x.com/RicoThaka/status/1864101025906610335)
-![l5p graffiti](https://pbs.twimg.com/media/GE4s0IYacAAOuHv?format=jpg&name=large)
-[Related](https://x.com/RicoThaka/status/1751352695494213844) [ATL](https://x.com/RicoThaka/status/1751352695494213844)
-![Coral Iris Kelly](https://pbs.twimg.com/media/GE40lnxa4AAhlhU?format=jpg&name=large)
-[Danielle Mushonga on Linkedin](https://www.linkedin.com/in/danielle-mushonga-msw-26262132/) [Manessa Warner on LinkediN](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/)
-
-[Coral](https://x.com/RicoThaka/status/1751395214609310011) [Erika](https://x.com/RicoThaka/status/1751388353604554872) [Related](https://x.com/RicoThaka/status/1751386120175419555) [5755](https://x.com/RicoThaka/status/1751385826557395283)
-![Normani Magiccity wit BankheadBih](https://pbs.twimg.com/media/GlS9ZEubMAAFKa6?format=jpg&name=large)
-[RelatedTweet](https://x.com/thakasartu/status/1897349604620034428) [SexualAssault](https://x.com/RicoThaka/status/1897343547873042706) [CAnnaBiS](https://x.com/RicoThaka/status/1859780416326205598) @blackgirlscode [Me an Muna](https://x.com/RicoThaka/status/1751394096839831932) [ChildrensATL Muna](https://x.com/RicoThaka/status/1751394614752485471) [NormaniNicolD](https://x.com/RicoThaka/status/1751394940188512543)
-
-
-<div class="expandingGallery">
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
-</div>
-
-
-
-
-
-[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
-[Nija Drops New Single ‘Love Like This’](https://www.udiscovermusic.com/news/nija-love-like-this/)
-<audio controls class="broken-width">
-  <source src="https://github.com/ThakaRashard/bubblegumpop00/raw/master/assets/audio/Nija_LoveLikeThisOfficial_Audio320k.mp3" />
-
-  Your browser does not support the <code>audio</code> element.
-</audio>
-<blockquote>
-  Nija is back with the smooth and sultry summer single “Love Like This.” The track finds her mixing joy with vulnerability as she adjusts to the happy reality of finding someone who truly loves and accepts her, baggage and all.
-</blockquote>
-
-# radio
-[KJAZZ 88.1](https://player.live365.com/KKJZ) [WefunkRadio](https://www.wefunkradio.com/) [SomaFM](https://somafm.com/) [Hot1079 - ATLANTA](https://hotspotatl.com/listen-live/)
-
-# NasaNews
-[spHEREx and PUNCH Pre-Launch News Conference](https://plus.nasa.gov/scheduled-video/spherex-and-punch-pre-launch-news-conference/) [GLacierFlow](https://its-live.jpl.nasa.gov/) [kelp](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA25144.jpg)
-[Surface Biology and Geology (SBG) High-Frequency Time Series](https://impact.earthdata.nasa.gov/casei/campaign/SHIFT/) [JPL](https://www.jpl.nasa.gov/images/pia26319-ingenuity-teams-final-shift/)
-![NASA](https://live.staticflickr.com/65535/52529253591_cc8b0ea933_k.jpg)
- [normani i put space goodies on](https://ricothaka.github.io/normani) @blackgirlscode [CodeTest](https://x.com/RicoThaka/status/1896991447972528505) [Aviris](https://x.com/RicoThaka/status/1885490358324519039) 
-[Mayor Bass/ Governor Newsom, i found older Aviris Scans of Santa Barbera](https://ricothaka.github.io/Rashard-GDS#repkarenbassdeliverables) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [NASAJPL WOMAN of AViRiS](https://x.com/hollyaprilb/status/371082545804226562) [AvirisFlights](https://x.com/RicoThaka/status/1885166999158087926) [HysplRl](https://x.com/McMaster_de/status/743127935587082240) @nasa-jpl [GoogleGraffiti](https://x.com/RicoThaka/status/1880056257509462328)
-![iss](https://pbs.twimg.com/media/GipAWaibYAQOkZR?format=jpg&name=large)
-[RelatedTweet](https://x.com/RicoThaka/status/1885390186068271340) [Reminding Karen](https://x.com/RicoThaka/status/1882498520122548642) to get a [DataCube](https://x.com/DrGeoffSmith/status/1235461899376103424)
-[Old Design - ThakaSartu-ASTRONOMY](https://ricothaka.github.io/astronomy/) [RelatedTweet - LightBox on thakarashard](https://x.com/RicoThaka/status/1896767752276426861) [gonder](https://x.com/RicoThaka/status/1896743573414195464) [ManessA](https://x.com/thakasartu/status/1896706861338112040) [GitHub On TheGO](https://x.com/RicoThaka/status/1896717090893287429) @nasa @nasa-jpl [SoilMoistture](https://x.com/RicoThaka/status/1882516168214487485) [BarbiePopulation - CaliforniaFire](https://x.com/RicoThaka/status/1885168225497080224)
-![soil](https://pbs.twimg.com/media/GiAKVUtbgAAiDtj?format=jpg&name=large) [isro](https://x.com/NIRDPR_India/status/1187388524825169922) [infrared imaging market - research](https://x.com/RNGSConsulting/status/1800036654167830817)
-![DisneYHALL](https://pbs.twimg.com/media/GlL9eb4WYAAhmxs?format=jpg&name=4096x4096)
-![PalisadesPepperdine](https://pbs.twimg.com/media/GlMA-IZXkAE5rY-?format=jpg&name=medium)
 
 ## Las Vegas: [Bus](https://www.rtcsnv.com/)
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/60218c77ef098d3a41bfa7ad/vsco60218c793112f.jpg" />
@@ -662,6 +607,14 @@ Taylor Fox spent five years working at libraries before joining Cybercrime Magaz
 
 [T2](https://archive.org/download/terminator-2-blu-ray-2006/76819571_TERMINATOR2_TH.mp4) [La°River](https://thakarashard.github.io/compiling/The-Losangeles-River) [itiVerite](https://youtu.be/NFPKXFGlBns?si=XkupDwOKaVC_uUzo) [Reimagining The Los Angeles River - PBS](https://youtu.be/6T7hIh_q4Ok?si=M7ZKNFZU47iJEGNA)
 
+
+[Mayor Bass/ Governor Newsom, i found older Aviris Scans of Santa Barbera](https://ricothaka.github.io/Rashard-GDS#repkarenbassdeliverables) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [NASAJPL WOMAN of AViRiS](https://x.com/hollyaprilb/status/371082545804226562) [AvirisFlights](https://x.com/RicoThaka/status/1885166999158087926) [HysplRl](https://x.com/McMaster_de/status/743127935587082240) @nasa-jpl [GoogleGraffiti](https://x.com/RicoThaka/status/1880056257509462328)
+![iss](https://pbs.twimg.com/media/GipAWaibYAQOkZR?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1885390186068271340) [Reminding Karen](https://x.com/RicoThaka/status/1882498520122548642) to get a [DataCube](https://x.com/DrGeoffSmith/status/1235461899376103424)
+[Old Design - ThakaSartu-ASTRONOMY](https://ricothaka.github.io/astronomy/) [RelatedTweet - LightBox on thakarashard](https://x.com/RicoThaka/status/1896767752276426861) [gonder](https://x.com/RicoThaka/status/1896743573414195464) [ManessA](https://x.com/thakasartu/status/1896706861338112040) [GitHub On TheGO](https://x.com/RicoThaka/status/1896717090893287429) @nasa @nasa-jpl [SoilMoistture](https://x.com/RicoThaka/status/1882516168214487485) [BarbiePopulation - CaliforniaFire](https://x.com/RicoThaka/status/1885168225497080224)
+![soil](https://pbs.twimg.com/media/GiAKVUtbgAAiDtj?format=jpg&name=large) [isro](https://x.com/NIRDPR_India/status/1187388524825169922) [infrared imaging market - research](https://x.com/RNGSConsulting/status/1800036654167830817)
+![DisneYHALL](https://pbs.twimg.com/media/GlL9eb4WYAAhmxs?format=jpg&name=4096x4096)
+![PalisadesPepperdine](https://pbs.twimg.com/media/GlMA-IZXkAE5rY-?format=jpg&name=medium)
 
 # N64
 

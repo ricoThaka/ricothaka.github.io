@@ -1,5 +1,135 @@
 
+
+![Ci_MESSAGE:NO_STATUS](https://pbs.twimg.com/media/GlsonxqbsAA_JKq?format=jpg&name=large) [#RelatedTweet](https://x.com/RicoThaka/status/1899156619084300541) @github 
+[grep, awk and sed – three VERY useful command-line utilities Matt Probert, Uni of York ](https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/guides/grep_awk_sed.pdf)
+[Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/Sed.html)
+[LapDLiveFeeD](https://www.youtube.com/live/w-ml4vis_Uo?si=Nf1zech1NTUjjxD6) [Life story Africa](https://youtu.be/Oa0iuAFYBfQ?si=fAMtHtIAdkMEZAu6)
+
+[Windows 95 Launch](https://youtu.be/_JzfROUDsK0?si=b4ZYt8XQYfFFnRR3) 
+
+[Recent California Precipitation maP](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=state-ca&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-131.74955003553436%2C12.39074881083234%2C-97.12361341020858%2C66.32571775472586%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C11%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.4%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A3%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D) 
+[1930s-40s in Color](https://www.flickr.com/photos/8623220@N02/albums/72157603671370361/)
+
+
+[HER_MOTHER](https://x.com/BubbleGumPop510/status/1725665280448483631)
+
+
+# Stone Mountain Georgia
+May Bass, MR_NewSom,
+idk what [sza](https://www.szasos.com/) is, but my significant other [Normani](https://normani.fandom.com/wiki/Normani) has played that role or they have been brotheled together. [California Artist Kendrick Lamar](https://soundcloud.com/dnateggun/kendrick-lamar-good-kid-m-a-a?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) has a sorted past, and i think he is similar... More than one person is [KendrickLamar!](https://archive.org/details/OverlyDedicatedKendrickMixtapesFLAC) but n of them is involved with [Sza](https://www.youtube.com/watch?v=JQbjS0_ZfJ0) romantically to one degree or another. The issue is i know [KashDoll](https://kashdoll.com/) at somelevel is my intimate partner. You know [TheBunnies](https://www.candidcandace.com/my_weblog/2018/01/ringing-in-the-new-year-with-wedding-bells-and-playboy-bunnies.html) are entertainers an [Kash doll](https://codepen.io/ricoThaka/pen/WNVvgYj) done hit me with that [CockTail Waitress Energy](https://www.youtube.com/watch?v=_ST6ZRbhGiA) 
+>I cant watch youtube right now, one of normani escourt companions or rapist needs the public not to hear any songs [he plays](https://codepen.io/ricoThaka)
+Anyway! Whatever private security is doing to slow down los angeles, i dont want to be connected to slowing down [@nasa-JPL!](https://www.jpl.nasa.gov/press-kits/spherex/mission-overview/) I embedded [SZa Video](https://www.youtube.com/watch?v=MSRcC626prw) Broken Clocks. Take it seriously! [i WAS WORKiNG](https://girlgeek.io/company/ionic-security/) so I need you to know whatever sex went down is not me and she is back burnering me all the time and wont get my foodstamp card back from [Erika](https://www.essence.com/tags/erika-kelly/).
+ [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zVc-K1kKkVk?si=Ap95D9nep2ueRX5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![KASHDOLL](https://pbs.twimg.com/media/F-hti3easAA54F1?format=jpg&name=large)
+
+![ZOOM_HEARiNG](https://pbs.twimg.com/media/GlJqgT7bsAE8SCi?format=jpg&name=large) [MAnessaeh](https://x.com/thakasartu/status/1896706014474551728)
+[CORAL is Missing](https://x.com/thakasartu/status/1896695613976449071) 
+
+{% include twing.md %}
+
+
+
+
+# SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS @nasa @blackgirlscode @nasa-jpl @whitehouse
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=2fyjp_ZlRTUFmPxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ [The Acid Tests are:](https://www.acidtests.org/) 
+ The Acid Tests were originally published as part of the [Web Standards Project (WaSP)](https://www.webstandards.org/), a grassroots coalition fighting for standards which ensure simple, affordable access to web technologies for all.
+![p](https://pbs.twimg.com/media/GlYUenvaIAAuSq0?format=jpg&name=large)
+
+# Jupiter
+`/vgr/pdart16/wenkert_pdart16_vgr_rav1ciun/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/` - [Planetary Data System](https://pds-imaging.jpl.nasa.gov/beta/)
+
+[Voyager 2](https://science.nasa.gov/mission/voyager/voyager-2/) is the only [spacecraft](https://science.nasa.gov/image-detail/pia21737/) to visit Uranus and Neptune.
+[RelatedTweet](https://x.com/RicoThaka/status/1897491944458297650) [Related](https://x.com/RicoThaka/status/1897493448741282030) [NORMANiLife](https://x.com/thakasartu/status/1897351276897403366) [injuryReport](https://x.com/RicoThaka/status/1897343547873042706) [RiVERFOOTAGE](https://x.com/RicoThaka/status/1897081876898308428) [SuperMArioWold2](https://x.com/RicoThaka/status/1897086405643555018)
+
+
+<div class="tupperware">
+<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020200-DATA-020200.014.png::1:md.webp" />
+<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020180-DATA-020180.019.png::1:md.webp" />
+<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1204-MAMQTV-012210-DATA-012210.001.png::1:md.webp" />
+<img src="https://science.nasa.gov/wp-content/uploads/2024/04/pia21737.jpg" />
+</div>
+
+
+
+![overlay](https://pbs.twimg.com/media/GBYg8WIbAAAtTAn?format=jpg&name=large)
+
+![android keyboard](https://pbs.twimg.com/media/FyZaAkXaYAA_QK9?format=jpg&name=900x900)
+
+### Working on my CArtography \
+[NORthAMEriCA](https://worldview.earthdata.nasa.gov/?v=-412.59375,-219.375,412.59375,219.375&z=4&ics=true&ici=5&icd=10&as=2025-03-01-T19%3A00%3A00Z&ae=2025-03-06-T02%3A35%3A59Z&l=Coastlines_15m,GOES-West_ABI_GeoColor,Land_Water_Map&lg=true&tr=atmospheric_rivers&av=7.5&ab=on&t=2025-03-05-T02%3A34%3A48Z)
+![NASAWORLDViEW](https://pbs.twimg.com/media/GlU6EkybkAAUOxS?format=jpg&name=4096x4096)
+
+[NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
+
+### All Night Long : by [Common](https://www.thinkcommon.com/) Feat [EryKah Badu](https://erykahbadu.com/)
+<audio controls>
+  <source src="https://archive.org/download/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+[<img src="https://www.nasa.gov/wp-content/uploads/2018/10/parachute-16.gif" alt="Mars Lander Persevere Rover PARACHuTE" />](https://www.nasa.gov/wp-content/uploads/2018/10/parachute-16.gif)
+
+
+
+![NORMANi an RicoThaka on Google](https://pbs.twimg.com/media/GlUJ5-haoAA8uBm?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1897434020398657787) [GOOGLEQuERY](https://www.google.com/search?sca_esv=aebc663c531febdd&rlz=1CASLJZ_enUS1152&sxsrf=AHTn8zrmSDx53jhbuGYblH42GeVR5vivAg:1741218267193&q=ricothaka&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqekYoUzDaOcDDjQfK4KpR2OIx89VvS5aatXTnNt-qgjySyinU5ijtTN1RLytWiQb-L08r0IlyBwhmhmKk-6U0A05aMI2auI99wrCCkIEouFqHEwppFIzcn73Lg0uFC6Khg8gSwpdaHPcqbLW8Z5Wz7sk_yHXkw&sa=X&ved=2ahUKEwjdmqvCj_SLAxWWDEQIHUMpLdgQtKgLegQIExAB&biw=960&bih=945&dpr=1#vhid=S61_EHM75LyiOM&vssid=mosaic) [YANDEX - RiCOTHAKA](https://yandex.com/search/?text=ricothaka&lr=200&search_source=yacom_desktop_common)
+
+![ricothaka on google](https://pbs.twimg.com/media/GlUJVBPbUAA7lmF?format=jpg&name=medium)
+
+
+![Voyager](https://pbs.twimg.com/media/Gc7sebibIAAzZsc?format=jpg&name=large)
+[Datamining at NASAJPL](https://x.com/RicoThaka/status/1859683807466750326) [My Disovery](https://x.com/RicoThaka/status/1859786430467407976) [FLYBY](https://x.com/RicoThaka/status/1864101025906610335)
+![l5p graffiti](https://pbs.twimg.com/media/GE4s0IYacAAOuHv?format=jpg&name=large)
+[Related](https://x.com/RicoThaka/status/1751352695494213844) [ATL](https://x.com/RicoThaka/status/1751352695494213844)
+![Coral Iris Kelly](https://pbs.twimg.com/media/GE40lnxa4AAhlhU?format=jpg&name=large)
+[Danielle Mushonga on Linkedin](https://www.linkedin.com/in/danielle-mushonga-msw-26262132/) [Manessa Warner on LinkediN](https://www.linkedin.com/in/manasseh-warner-ncc-764259143/)
+
+[Coral](https://x.com/RicoThaka/status/1751395214609310011) [Erika](https://x.com/RicoThaka/status/1751388353604554872) [Related](https://x.com/RicoThaka/status/1751386120175419555) [5755](https://x.com/RicoThaka/status/1751385826557395283)
+![Normani Magiccity wit BankheadBih](https://pbs.twimg.com/media/GlS9ZEubMAAFKa6?format=jpg&name=large)
+[RelatedTweet](https://x.com/thakasartu/status/1897349604620034428) [SexualAssault](https://x.com/RicoThaka/status/1897343547873042706) [CAnnaBiS](https://x.com/RicoThaka/status/1859780416326205598) @blackgirlscode [Me an Muna](https://x.com/RicoThaka/status/1751394096839831932) [ChildrensATL Muna](https://x.com/RicoThaka/status/1751394614752485471) [NormaniNicolD](https://x.com/RicoThaka/status/1751394940188512543)
+
+
+<div class="expandingGallery">
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+</div>
+
+
+
+
+
+[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
+[Nija Drops New Single ‘Love Like This’](https://www.udiscovermusic.com/news/nija-love-like-this/)
+<audio controls class="broken-width">
+  <source src="https://github.com/ThakaRashard/bubblegumpop00/raw/master/assets/audio/Nija_LoveLikeThisOfficial_Audio320k.mp3" />
+
+  Your browser does not support the <code>audio</code> element.
+</audio>
+<blockquote>
+  Nija is back with the smooth and sultry summer single “Love Like This.” The track finds her mixing joy with vulnerability as she adjusts to the happy reality of finding someone who truly loves and accepts her, baggage and all.
+</blockquote>
+
+# radio
+[KJAZZ 88.1](https://player.live365.com/KKJZ) [WefunkRadio](https://www.wefunkradio.com/) [SomaFM](https://somafm.com/) [Hot1079 - ATLANTA](https://hotspotatl.com/listen-live/)
+
+# NasaNews
+[spHEREx and PUNCH Pre-Launch News Conference](https://plus.nasa.gov/scheduled-video/spherex-and-punch-pre-launch-news-conference/) [GLacierFlow](https://its-live.jpl.nasa.gov/) [kelp](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA25144.jpg)
+[Surface Biology and Geology (SBG) High-Frequency Time Series](https://impact.earthdata.nasa.gov/casei/campaign/SHIFT/) [JPL](https://www.jpl.nasa.gov/images/pia26319-ingenuity-teams-final-shift/)
+![NASA](https://live.staticflickr.com/65535/52529253591_cc8b0ea933_k.jpg)
+ [normani i put space goodies on](https://ricothaka.github.io/normani) @blackgirlscode [CodeTest](https://x.com/RicoThaka/status/1896991447972528505) [Aviris](https://x.com/RicoThaka/status/1885490358324519039) 
+
+
 [back](./)
+
+
 # HElp im Active Mission Nasa Mars
 
 
