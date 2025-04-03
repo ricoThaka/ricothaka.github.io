@@ -15,6 +15,17 @@ title: Current
  </div> 
 
 
+ # [Ranger](https://www.jpl.nasa.gov/missions/ranger-1/) 9 
+ NASA's Ranger 9 was the last in a series of spacecraft launched in the 1960s to explore the Moon. It was designed to take images as it descended to the lunar surface for impact.
+<video  controls >
+  <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/videosrangerVideo-Ranger-9-impact-020423.webm" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+### [The_Ranger_Program](https://science.nasa.gov/mission/lunar-rangers-and-surveyors/) : [WikiTalkPage @nasa](https://en.wikipedia.org/wiki/Talk:Ranger_program) @nasa-jpl 
+![The_Ranger_Program](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/a/as12-48-7134.jpg?w=6515&h=6515&fit=clip&crop=faces%2Cfocalpoint) [svgDiagram](https://upload.wikimedia.org/wikipedia/commons/5/50/Ranger_6789.svg)
+
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> I&#39;m goin to eat <a href="https://twitter.com/realityla?ref_src=twsrc%5Etfw">@realityla</a> <a href="https://twitter.com/LaurieofMars?ref_src=twsrc%5Etfw">@LaurieofMars</a> my blog is broken ATM most of it still works I have to repair the template I ran out of time at the library with too many tabs open and for got to commit -<a href="https://twitter.com/hashtag/Rashard?src=hash&amp;ref_src=twsrc%5Etfw">#Rashard</a> <a href="https://twitter.com/NASAEarthData?ref_src=twsrc%5Etfw">@NASAEarthData</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> . <a href="https://t.co/YXz0laEb7v">pic.twitter.com/YXz0laEb7v</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1896717090893287429?ref_src=twsrc%5Etfw">March 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # The Los Angeles River
