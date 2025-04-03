@@ -55,7 +55,7 @@ title: Current
       }
     
     }
-  .box a:link {
+  .river a:link {
     
     color: white;
     
@@ -116,7 +116,7 @@ figcaption {
   <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=23">CESAR CHAVEZ BRIDGE</a></figcaption>
 </figure>
 
-    <figure>
+<figure>
  <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193842pv.jpg" > <img
     src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193842pv.jpg"
                     alt="CESAR CHAVEZ BRIDGE. LOOKING WEST. - Los Angeles River Bridges, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-271" /> </a>
@@ -126,8 +126,6 @@ figcaption {
   
 </div>
 
-
-# December 1937 
 
 
 # No More Parties in LA `OldData` from thakarashard.github.io/[_includes/albums.md](https://github.com/ThakaRashard/thakarashard.github.io/tree/master/_includes)
