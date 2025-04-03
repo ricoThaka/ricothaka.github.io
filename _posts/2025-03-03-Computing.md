@@ -4,6 +4,12 @@ title: computing
 published: true
 ---
 
+[fit-content](https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content) The fit-content keyword is equivalent to [fit-content(stretch).](https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content_function) / fit-content() [CSS function](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units/CSS_Value_Functions) clamps a given size to an available size according to the formula min(maximum size, max(minimum size, argument)). @blackgirlscode @normani
+
+```css
+width: fit-content;
+block-size: fit-content;
+```
 
 [max-width](https://developer.mozilla.org/en-US/docs/Web/CSS/max-width) The max-width CSS property sets the maximum width of an element. - @mozilla 
 # FairPhone
