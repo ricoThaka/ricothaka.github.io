@@ -43,7 +43,6 @@ carousels:
 
 
 
-
 {{ site.time | date: '%c' }}
 
 # Currently Compling g_e, m/s^2
