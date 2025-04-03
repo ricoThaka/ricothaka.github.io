@@ -1,3 +1,7 @@
+---
+layout: default
+title: Current
+---
 
 <div class="box">
 
@@ -9,6 +13,118 @@
   {% endfor %}
    
  </div> 
+
+# The Los Angeles River
+
+<style>
+  .river {
+  
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: auto;
+
+  box-sizing: border-box;
+  width: 70%;
+  height: 400px;
+  background: rgba(114, 186, 94, 0.05);
+  border: 2px dashed rgba(114, 186, 94, 0.35);
+
+  }
+
+  .river a:link {
+    
+    color: white;
+    
+  }
+
+
+  .river > * {  box-sizing: border-box;
+  width: 250px;
+  height: 250px;
+  background: rgba(255, 213, 70, 0.4);
+  border: 2px dashed rgba(236, 198, 48, 0.5);
+    
+
+    
+          &:hover {
+             transform: scale(1.5);
+            
+            
+       
+        
+      }
+    
+    }
+  .box a:link {
+    
+    color: white;
+    
+  }
+
+
+
+figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+ 
+
+/* figure img { width: 50%} */
+ 
+</style>
+
+[COMPENSATION PLAN FOR DEPARTM](https://ricothaka.github.io/rashardmro/2024/11/19/HR_NASAJPL.html)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">COMPENSATION PLAN FOR DEPARTMENT OF WATER AND POWER <a href="https://twitter.com/LACityView35?ref_src=twsrc%5Etfw">@LACityView35</a> <a href="https://twitter.com/latimes?ref_src=twsrc%5Etfw">@latimes</a> <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> I know u moonlight with <a href="https://twitter.com/LADWP?ref_src=twsrc%5Etfw">@LADWP</a> at time, r u getting your compensation ? <a href="https://twitter.com/LaurieofMars?ref_src=twsrc%5Etfw">@LaurieofMars</a> <a href="https://twitter.com/OSHA_DOL?ref_src=twsrc%5Etfw">@OSHA_DOL</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> tell <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a>(o) this is a doc that can get us even!<a href="https://t.co/VTha2p0e39">https://t.co/VTha2p0e39</a> <a href="https://t.co/C254xAVsWV">pic.twitter.com/C254xAVsWV</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1907617772881969497?ref_src=twsrc%5Etfw">April 3, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+@nasa-jpl ~> [HR_NOTES for @nasa @blackgirlscode](https://ricothaka.github.io/rashardmro/2024/11/19/HR_NASAJPL.html)
+# LA _River
+
+[FullSet](https://www.loc.gov/resource/hhh.ca2896.photos/?sp=1&st=gallery)
+<div class="river" markdown="1">
+
+<figure>
+ <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193817pv.jpg" > <img
+    src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193817pv.jpg"
+                    alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> HYPERION VIADUCT</a></figcaption>
+</figure>
+
+  
+  <figure>
+  <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193821pv.jpg"><img
+    src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193821pv.jpg"
+                                                                                                                 alt="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=7" /> </a>
+  <figcaption> <a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=7">FLETCHER AVENUE</a></figcaption>
+</figure>
+  
+  <figure>
+ <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193815pv.jpg" > <img
+    src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193837pv.jpg"
+                    alt="Elephant at sunset" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=23">CESAR CHAVEZ BRIDGE</a></figcaption>
+</figure>
+
+  
+  <figure>
+ <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193837pv.jpg" > <img
+    src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193815pv.jpg"
+                    alt="CESAR CHAVEZ BRIDGE. LOOKING WEST. - Los Angeles River Bridges, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-271" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=23">CESAR CHAVEZ BRIDGE</a></figcaption>
+</figure>
+
+    <figure>
+ <a href="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193842pv.jpg" > <img
+    src="https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca2800/ca2896/photos/193842pv.jpg"
+                    alt="CESAR CHAVEZ BRIDGE. LOOKING WEST. - Los Angeles River Bridges, Los Angeles, Los Angeles County, CA Photos from Survey HAER CA-271" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=23">CESAR CHAVEZ BRIDGE</a></figcaption>
+</figure>
+
+  
+</div>
 
 
 # December 1937 
