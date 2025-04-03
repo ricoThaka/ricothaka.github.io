@@ -4,6 +4,9 @@ title: computing
 published: true
 ---
 
+# CyberSled on [@libretro RetroArcH](https://docs.libretro.com/library/pcsx_rearmed/) [stratusC7 uptimeload 13-16](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) @blackgirlscode 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="und" dir="ltr"><a href="https://t.co/zN2QPUPOuT">https://t.co/zN2QPUPOuT</a> <a href="https://twitter.com/hashtag/USSF?src=hash&amp;ref_src=twsrc%5Etfw">#USSF</a> <a href="https://twitter.com/hashtag/NASAJPL?src=hash&amp;ref_src=twsrc%5Etfw">#NASAJPL</a> <a href="https://twitter.com/hashtag/boyzNblu?src=hash&amp;ref_src=twsrc%5Etfw">#boyzNblu</a>~ <a href="https://t.co/cb8kvPr5GG">pic.twitter.com/cb8kvPr5GG</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1893659877760803052?ref_src=twsrc%5Etfw">February 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [fit-content](https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content) The fit-content keyword is equivalent to [fit-content(stretch).](https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content_function) / fit-content() [CSS function](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units/CSS_Value_Functions) clamps a given size to an available size according to the formula min(maximum size, max(minimum size, argument)). @blackgirlscode @normani
 
 ```css
