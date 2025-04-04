@@ -14,6 +14,9 @@ title: Current
    
  </div> 
 
+![laurakerber](https://14c7719d28.cbaul-cdnwnd.com/c886a235faf46ba53093424949d934df/200000122-ecd8eecd92/20151028_185951.webp?ph=14c7719d28) 
+[laurakerber](https://laurakerber.webnode.page/photo-gallery/) `I am interested in physical volcanology, aeolian geomorphology, wind over complex surfaces, the ancient Martian climate`
+
 # DeaR_MRo @nasa-jpl
 I plan to attend the [F_Prime](https://fprime.jpl.nasa.gov/) Tutorial  at  [California State Polytechnic University](https://www.cpp.edu/) on [April 11th](https://en.wikipedia.org/wiki/April_11) no matter if i have a computer or not im looking for the source code to the @caltech mars mosaic so i can use it when at [LAPL](https://www.lapl.org/digital-inclusion) going to eat @blackgirlscode @normani i hope metkalf dont hurt me out here! 
 ### The Global Context Camera (CTX) Mosaic of Mars: A Product of Information-Preserving Image Data Processing 
