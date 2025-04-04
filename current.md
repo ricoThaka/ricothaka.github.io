@@ -14,6 +14,11 @@ title: Current
    
  </div> 
 
+# DeaR_MRo @nasa-jpl
+I plan to attend the [F_Prime](https://fprime.jpl.nasa.gov/) Tutorial  at  [California State Polytechnic University](https://www.cpp.edu/) on [April 11th](https://en.wikipedia.org/wiki/April_11) no matter if i have a computer or not im looking for the source code to the @caltech mars mosaic so i can use it when at [LAPL](https://www.lapl.org/digital-inclusion) going to eat @blackgirlscode @normani i hope metkalf dont hurt me out here! 
+### The Global Context Camera (CTX) Mosaic of Mars: A Product of Information-Preserving Image Data Processing 
+##### Abstract
+The Mars Reconnaissance Orbiter and its Context Camera (CTX) have acquired more than 100,000 separate panchromatic images that capture nearly the entire surface of Mars at ∼5–6 m/pixel. This paper describes a data processing workflow used to generate the first contiguous global mosaic of CTX data
 [Venus ArchivePage](https://x.com/BubbleGumPop626/status/1847405901877301308)
 
 ## Welcome to the Venus Archive Page!
@@ -33,7 +38,7 @@ This page is designed to serve as a resource for accessing Venus atmospheric dat
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> I&#39;m goin to eat <a href="https://twitter.com/realityla?ref_src=twsrc%5Etfw">@realityla</a> <a href="https://twitter.com/LaurieofMars?ref_src=twsrc%5Etfw">@LaurieofMars</a> my blog is broken ATM most of it still works I have to repair the template I ran out of time at the library with too many tabs open and for got to commit -<a href="https://twitter.com/hashtag/Rashard?src=hash&amp;ref_src=twsrc%5Etfw">#Rashard</a> <a href="https://twitter.com/NASAEarthData?ref_src=twsrc%5Etfw">@NASAEarthData</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> . <a href="https://t.co/YXz0laEb7v">pic.twitter.com/YXz0laEb7v</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1896717090893287429?ref_src=twsrc%5Etfw">March 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
    <img src="https://raw.githubusercontent.com/ThakaSartu/lattoerika/master/assets/images/screenshots/Illustrator55FLOPPY.png" alt="iLLUSTRATOR_ON_FLOPPY" />
-   
+
 # The Los Angeles River
 
 <style>
