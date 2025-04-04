@@ -8,6 +8,17 @@ tags: saint
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
 
+<div class="tupperware">
+
+<img src="https://pbs.twimg.com/media/GNVTS12bwAA3yb3?format=jpg&name=small" />
+
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/April3rd_Los_ANGELES_WEATHER.png" />
+
+
+</div>
+
+
+![hi](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dodge_challenger_1970_ad.jpg/1015px-Dodge_challenger_1970_ad.jpg)
 
 ![NORMANi](https://firebasestorage.googleapis.com/v0/b/project--7003778079567770323.appspot.com/o/images%2Fbrandium.jpg?alt=media&token=9dc04cda-0778-42f5-9016-9ed6d8520665)
 ![her](https://pbs.twimg.com/media/GJ3ykrCaEAAn258?format=jpg&name=large)
