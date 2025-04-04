@@ -6,7 +6,20 @@ permalink: /normani
 tags: saint
 ---
 ###  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+<div class="tupperware">
 
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+
+</div>
 
 # Classroom - SNL
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CiU3vIEdRMI?si=4SweLjdYqqDb-Kfq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

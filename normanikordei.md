@@ -4,15 +4,22 @@ title: Normani
 mermaid: true
 permalink: /normanikordei 
 tags: saint
+image: normani_wardrobeMalfunction.jpeg
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
 
 
 <div class="tupperware">
 
-<img src="https://pbs.twimg.com/media/GNVTS12bwAA3yb3?format=jpg&name=small" />
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
 
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/April3rd_Los_ANGELES_WEATHER.png" />
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
 
 
 </div>
