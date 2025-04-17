@@ -2,7 +2,7 @@
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark";
-@import "_media.css";
+
 @font-face {
   font-family: Cluster;
   src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
@@ -24,61 +24,7 @@ $container-max-width: 1000px;
 
 
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-  display: block;
-}
-body {
-  line-height: 1;
-}
-ol, ul {
-  list-style: none;
-}
-blockquote, q {
-  quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-  content: '';
-  content: none;
-}
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
 
-* {
-  box-sizing: border-box;
-}
-/* ~~~~~~~~~~~~~~~~~~~~~ h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 50px;
-  padding-left: 820px;
-} */
-
-* {
-  box-sizing: border-box;
-}
 
 
 
@@ -92,20 +38,20 @@ html {
     linear-gradient(90deg, #262626 1px, transparent 0);
   background-size: 30px 30px;
   background-attachment: fixed;
-  height: 100%;
-  width: 100%
+  height: 100vh;
+  width: 100vw;
 }
 
 
 
 
-
 #MAiN {
-    margin: 0 auto;
-    width: 70vw;
-    margin: auto;  
-  }
-
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 50vw;
+  margin: auto;
+}
 
 .logo {
   float: none;
@@ -115,6 +61,28 @@ html {
 }
 
 
+HGROUP {
+  padding-top:0px;
+  margin: 0 auto;
+  max-width: max-content;
+  
+  
+  
+}
+HGROUP h1 {
+  display: block;
+  z-index: 5;
+  line-height: 1rem;
+  margin:15px;
+  font-size: 2.7rem;
+  word-break: break-all;
+  font-weight: 700;
+  font-style: italic;
+  color: #FFFFFF;
+  background: #0e8dbc50;
+  text-shadow: 0 1px 0 #CCCCCC, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+  }
+  
 
 
 
@@ -137,7 +105,22 @@ html {
     
   }
 
-
+  #footer {
+    flex-wrap: nowrap;
+    align-self: right;
+    justify-self: right;
+    bottom: 0;
+    position: fixed;
+    display: block;
+    grid-template-rows: auto auto auto;
+    background-color: #D0D5D950;
+    color: white;
+    padding: 1px;
+    max-width: 40vw;
+    overflow-wrap: break-all;
+   
+  }
+  
 
   
 
@@ -236,10 +219,10 @@ body {
 
 img {
 
+  
   max-height:100%;
   max-width:100%;
   display:inline;
-  
   
 }
 
@@ -260,7 +243,8 @@ img[alt^="L"] {
 
 
 img[src*="nasa.gov"] {
-width: 100%;
+  width: fit-content;
+  block-size: fit-content;
 border-bottom:solid 5px #c9ff2350;
 
 }
@@ -312,6 +296,122 @@ img[alt="kk"] {
     
   }
 
+
+
+
+
+  .tupperware > * {
+    border: 1px solid #c9ff23;
+    border-radius: 5px;
+    padding: 0px;
+    flex-basis: 30%;
+    flex-shrink:2;
+    flex-grow:1;
+    overflow: hidden;
+    transition: all 300ms ease-in-out;
+    
+    &:hover {
+      flex-grow: 9.3;
+      
+    }
+  }
+  
+  
+  .tupperware {
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap; 
+    padding: 15px;
+    gap: 5px;
+    height: auto;
+  }
+  
+  .tupperware img {
+    width: fit-content;
+    block-size: fit-content;
+    height: min-content;
+  }
+  
+  .tupperware figcaption {
+    background-color: #22222290;
+    color: #fff;
+    font: bold small sans-serif;
+    padding: 3px;
+    text-align: center;
+  }
+  
+   
+
+ 
+
+  .enlarge_item {
+    display:flex;
+    width:min-content;
+    background-color: #22222290;
+    border: 1px solid #3DF28B;
+    flex-wrap: row-wrap;
+    margin: .1rem;
+    background-attachment: fixed;
+    justify-content: space-evenly;
+    background-size: 100% auto;
+    font-kerning: normal;
+    letter-spacing: .2rem;
+    font: bold 10px/18px  verdana, lucida, sans-serif;
+    
+
+  }
+
+  .enlarge_item>* {
+    display: block;
+    content: "min-content";
+    color: white;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+    border: 1px solid #c9ff23;
+    padding: 1px;
+    margin: 1px;
+    background-color: #3DF28B20;
+    transition: all .2s ease-in-out;
+   flex: 0 1 auto;
+      align-items: center;
+  justify-content:center;
+  text-align: center;
+ 
+    
+          &:hover {
+             transform: scale(1.5);
+        flex-grow: 3;
+        
+      }
+    
+    }
+  
+  .enlarge_item a:link {
+    
+    color: white;
+    
+  }
+
+   .enlarge_item figure img { 
+              
+  max-height: 50vh; 
+            width:50vh;
+            display: inline; 
+            margin: auto; 
+        } 
+
+
+ 
+
+figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  align-items: center;
+  justify-content:center;
+  text-align: center;
+}
   img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;float: left;}
   img[src*="Logo_of_the_United_States_Space_Force.png"] {width: 188px;padding: 4px;float: right;}
 /* img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {max-width: 250px;padding: 4px;float: right;} */
@@ -330,9 +430,9 @@ img[src*="6071cc4b982fd393d892490ed7a702738c595099"] {background: transparent
   url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
   center repeat; width: 100%;}
   img[src*="859740137800_cover.jpg/1200x1200bf-60.jpg"] {width: 25%; border: 5px solid #003da550;}
-img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
-img[src*="https://badge.fury.io"] {width: 100%;}
-img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
+img[src*="workflows/ci.yaml/badge.svg"] {width: min-content;}
+img[src*="https://badge.fury.io"] {width: min-content;}
+img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 15%;}
 svg { width: max-content;
 display: inline-block; }
 
@@ -417,34 +517,42 @@ p:first-of-type {
 }
 
 
-
-
-
-.tupperware > * {
-  border: 1px solid #c9ff23;
-  border-radius: 5px;
-  padding: 0px;
-  flex: 1 1 160px;
-  overflow: hidden;
-  }
-
-.tupperware {
+figure {
+  border: thin #c0c0c0 solid;
   display: flex;
-  flex-flow: row wrap; 
-  padding: 15px;
-  gap: 5px;
-  width:100%;
-  height: auto;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 220px;
+  margin: auto;
 }
 
-
-.tupperware img {
-  width: 100%;
+figure img {
+  max-width: 220px;
+  max-height: 150px;
 }
 
-
-
+figcaption {
+  background-color: #222;
+  color: #fff;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
     
+
+
+.floatright img:nth-child(odd) {
+  float: right;
+}
+.floatleft img:nth-child(even) {
+  float: left;
+  border-bottom: solid 1px #ffffff50;
+}
+
+
+
+
+
 /* Buttons
 */
 
@@ -2623,4 +2731,36 @@ transform: scale(1.05);
 .floatleft img:nth-child(even) {
   float: left;
   border-bottom: solid 1px #ffffff50;
+}
+
+@media print, screen and (max-width: 900px) {
+
+
+
+  main, footer {
+    float:none;
+
+    h1 {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+  }
+
+
+#MAiN {
+    margin: 0 auto;
+    max-width: 90vw;
+    margin: auto;  
+  }
+
+  footer{
+    text-align: center;
+        position: 0;
+    left:auto;
+    bottom:auto;
+    width:auto;
+    }
 }

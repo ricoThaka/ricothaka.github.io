@@ -4,8 +4,39 @@ title: Normani
 mermaid: true
 permalink: /normanikordei 
 tags: saint
+image: normani_wardrobeMalfunction.jpeg
 ---
 #  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+
+
+<div class="tupperware">
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+<a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/challenger.jpeg" /></a>
+
+
+</div>
+
+
+![hi](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dodge_challenger_1970_ad.jpg/1015px-Dodge_challenger_1970_ad.jpg)
+
+![NORMANi](https://firebasestorage.googleapis.com/v0/b/project--7003778079567770323.appspot.com/o/images%2Fbrandium.jpg?alt=media&token=9dc04cda-0778-42f5-9016-9ed6d8520665)
+![her](https://pbs.twimg.com/media/GJ3ykrCaEAAn258?format=jpg&name=large)
+[Related Tweet](https://x.com/BubbleGumPop626/status/1773840965817819183) @blackgirlscode is that @normani @nasa
+
+[WebDesign i think you did](https://cssline.com/go/brandium)
+im not going to be mean to you or hurt you bc you chose him... this page is now archived an i will add relevant items unless signaled to do diff @blackgirlscode @nfl -Rashard @nasa-jpl 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTb7a3FpFLM?si=Y1m6fQX_rMVQrDch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Normani Help here are some mean tweets](https://x.com/RicoThaka/status/1901381990122975460) [Another](https://x.com/RicoThaka/status/1901383396242464858) [AnnnaOthaONe](https://x.com/RicoThaka/status/1901381990122975460) [Voyager Flyby](https://x.com/RicoThaka/status/1901380389786309053) [Mean but not - emergency read](https://x.com/RicoThaka/status/1901372783923482702)
+
 ### newsbae
 # Europa Clipper Camera Passes First Test in Space
 Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
@@ -160,7 +191,7 @@ its an [html5 video player](https://developer.mozilla.org/en-US/docs/Web/HTML/El
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309797860&color=%23cdcdcd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/unkle-versus-scratch-perverts-radio-one-breezeblock-show-02011999" title="U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)" target="_blank" style="color: #cccccc; text-decoration: none;">U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)</a></div>
 
-
+[NorMAni TweetsToRefresh Feed](https://ricothaka.github.io/twitters.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC9qi4VWBMI?si=FVJbP2asQuFYCx5K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

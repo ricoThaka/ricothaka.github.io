@@ -5,6 +5,52 @@ categories: nasajpl earth
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
+[ppl mad at me @blackgirlscode @nasa-jpl @whitehouse](https://dn790005.ca.archive.org/0/items/the-boondocks-complete/Season%201/The%20Boondocks%20-%20S01E01%20-%20The%20Garden%20Party.mp4)
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/ricoThaka/embed/VYwgJVE?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/ricoThaka/pen/VYwgJVE">
+  Untitled</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+<div class="tupperware">
+
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/msl_software_class.png">
+
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/April3rd_Los_ANGELES_WEATHER.png">
+
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/ciclaVia.png">
+
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4/assets/images/worknotes03/cssGridPlan.png">
+
+
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/6434e0d37ad8a33a4aa8a145a5244fed8da9c6d4//assets/images/worknotes03/erikaDeadorcoralNormaniahooker.png">
+</div>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://t.co/5DLWLHH39c">https://t.co/5DLWLHH39c</a> <a href="https://twitter.com/Zoeapie?ref_src=twsrc%5Etfw">@zoeapie</a> <a href="https://twitter.com/CityAttorneyLA?ref_src=twsrc%5Etfw">@CityAttorneyLA</a> &lt;~<a href="https://twitter.com/hashtag/notyou?src=hash&amp;ref_src=twsrc%5Etfw">#notyou</a>! °=&gt; <a href="https://twitter.com/hashtag/You?src=hash&amp;ref_src=twsrc%5Etfw">#You</a> <a href="https://twitter.com/a_feldman24?ref_src=twsrc%5Etfw">@a_feldman24</a> who sent all that <a href="https://twitter.com/hashtag/packetFood?src=hash&amp;ref_src=twsrc%5Etfw">#packetFood</a> to <a href="https://twitter.com/SFCLA?ref_src=twsrc%5Etfw">@sfcla</a>? I have to plan to put that sensor on that <a href="https://twitter.com/hashtag/EatonCanyonPeak?src=hash&amp;ref_src=twsrc%5Etfw">#EatonCanyonPeak</a> is it just off ? <a href="https://twitter.com/santamonicacity?ref_src=twsrc%5Etfw">@santamonicacity</a> <a href="https://twitter.com/hashtag/college?src=hash&amp;ref_src=twsrc%5Etfw">#college</a> had <a href="https://twitter.com/hashtag/airsar?src=hash&amp;ref_src=twsrc%5Etfw">#airsar</a> on the roof an... <a href="https://twitter.com/LaurieofMars?ref_src=twsrc%5Etfw">@LaurieofMars</a> <a href="https://twitter.com/hashtag/imhere?src=hash&amp;ref_src=twsrc%5Etfw">#imhere</a>. <a href="https://t.co/GY8GBOlCAG">pic.twitter.com/GY8GBOlCAG</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1895532958825816179?ref_src=twsrc%5Etfw">February 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+# 
+# 
+# Clementine
+Clementine was a joint NASA/DoD mission to the Moon, 1991-1994. The Geosciences Node archives the following Clementine data:
+![LROC](https://pbs.twimg.com/media/GfCmh2UaEAAfy3q?format=jpg&name=large) [Clementine - NASA Misson](https://www.lpi.usra.edu/lunar/missions/clementine/) [LunaData Explorer](https://ode.rsl.wustl.edu/moon/index.aspx)
+[RelatedTweet](https://x.com/thakasartu/status/1869177412573082088) [LunAr Map](https://quickmap.lroc.asu.edu/layers?prjExtent=-1937657.1592632%2C-2498716.8831707%2C1280990.2547912%2C793081.6084758&shadowsType=all&layers=NrBsFYBoAZIRnpEBmZcAsjYIHYFcAbAyAbwF8BdC0yioA&proj=10)!
+# [NasaVoyager Files](https://pbs.twimg.com/media/GfCrE56acAAlX2D?format=jpg&name=large)
+![Saturn](https://planetarydata.jpl.nasa.gov/img/data/voyager/vg_0038/extras/browse/saturn/c4420xxx/c4420805.jpg)
+[RelatedTweet](https://x.com/thakasartu/status/1869182171757560186) - Mission [Voyager @nasa](https://science.nasa.gov/mission/voyager/)
+# Los Angeles Winter Fire Support
+![FiRMS EATONCANYON TiMEBASED HEATMAP](https://pbs.twimg.com/media/GiFT1ldboAAUN58?format=jpg&name=large)
+[Related](https://x.com/RicoThaka/status/1882878319743598891)
+
+# El NinO 
+![El Nino](https://pbs.twimg.com/media/GiFzdUubQAA73zb?format=jpg&name=large) ![ElNinO](https://pbs.twimg.com/media/GiF1j5NaIAECimy?format=jpg&name=large)
+[RelatedTweet](https://x.com/BubbleGumPop626/status/1882913405801263331)
+
+# LAADS
+## Level-1 and Atmosphere Archive & Distribution system
+Very similar to [LANCE_FiRMS](https://firms.modaps.eosdis.nasa.gov/map/) but different data [AtmosphereFocused](https://ladsweb.modaps.eosdis.nasa.gov/) - [View Data User Guide](https://ladsweb.modaps.eosdis.nasa.gov/learn/view-data/)
+
+![laads and firms](https://pbs.twimg.com/media/GnAcItpaEAAD9aY?format=jpg&name=large)
+
 [https://x.com/thakasartu/status/1895542988853625306/photo/1](https://x.com/thakasartu/status/1895542988853625306/photo/1)
 [2017 NAS User Survey Results - NASAJPL](https://www.nas.nasa.gov/hecc/support/kb/file/42/?f=1)
 

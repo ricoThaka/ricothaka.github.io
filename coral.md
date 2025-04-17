@@ -17,6 +17,40 @@
 
 </div>
 
+![BLAUPUNKT](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/img/blaupunkt.png)
+
+
+# Dear_Coral : Life
+<div class="tupperware" markdown="1">
+
+<div class="tupperware">
+
+<a href="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GE4wbvmacAA-4Na?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4wbvmacAA-4Na?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GE4wcycbsAAjxPS?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4wcycbsAAjxPS?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GE4warDaQAA3Pku?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+<a href="https://pbs.twimg.com/media/GIMDjmAbcAAJvVy?format=jpg&name=large">
+ <img src="https://pbs.twimg.com/media/GIMDjmAbcAAJvVy?format=jpg&name=large" alt="Old ThakaRashard" />
+</a>
+
+</div>
+
+[RelateDTweet - Coral At A_B_C dayccare](https://x.com/thakasartu/status/1902849204785123812) [Related](https://x.com/RicoThaka/status/1751390723646357855) [VertThrowie](https://x.com/RicoThaka/status/1766259716261577111)
+</div>
+
+
 # Black On Both Sides
 by [Mos Def](https://x.com/mosdefofficial?lang=en)
 <iframe src="https://archive.org/embed/mos-def-black-on-both-sides" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

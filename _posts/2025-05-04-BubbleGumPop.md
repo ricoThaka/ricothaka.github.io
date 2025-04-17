@@ -1,13 +1,39 @@
+---
+layout: post
+title: BubbleGumPop
+---
 
 
+[Penal Code 315 PC - Keeping or Living in a House of Prostitution in California](https://www.cronisraelsandstark.com/house-of-prostitution-penal-code-315-pc)
+![Win95](https://pbs.twimg.com/media/Gj0BUAMWcAApV_v?format=jpg&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1890669548526883232)
+![Ridges chekcmark](https://pbs.twimg.com/media/GLpVmKFaoAEOH2F?format=jpg&name=medium)
+[Related](https://x.com/BubbleGumPop626/status/1781831158394978614)
+![erika](https://pbs.twimg.com/media/GIqP7hxbEAAgYCn?format=jpg&name=large)
+[Related](https://x.com/BubbleGumPop626/status/1757936875149598825) [MorelandAve](https://x.com/BubbleGumPop626/status/1763320539769426032)
+![Vsco TRASHHAG buic wall](https://pbs.twimg.com/media/GHiSDTsawAAEyNH?format=jpg&name=medium)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/images/android528/tumblr_ffad01a5efeab38bd059ca55252599d8_b4ac91b9_1280.png"><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/images/android528/tumblr_ffad01a5efeab38bd059ca55252599d8_b4ac91b9_1280.png" alt=""> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/images/android528/tumblr_0fd9b42c3beb6d484904fe3ee3057472_3af9ba89_640.jpg"><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/images/android528/tumblr_0fd9b42c3beb6d484904fe3ee3057472_3af9ba89_640.jpg" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
 
-
-
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://twitter.com/LaurieofMars?ref_src=twsrc%5Etfw">@LaurieofMars</a> I found an old sweetie <a href="https://twitter.com/hashtag/S_N_K_GROCERY?src=hash&amp;ref_src=twsrc%5Etfw">#S_N_K_GROCERY</a> <a href="https://twitter.com/hashtag/Altadena?src=hash&amp;ref_src=twsrc%5Etfw">#Altadena</a> <a href="https://t.co/9ke4I605Wz">https://t.co/9ke4I605Wz</a> <a href="https://twitter.com/hashtag/EatonFire?src=hash&amp;ref_src=twsrc%5Etfw">#EatonFire</a> <a href="https://twitter.com/kelelam?ref_src=twsrc%5Etfw">@kelelam</a> r u <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> <a href="https://twitter.com/hashtag/imani_nicole?src=hash&amp;ref_src=twsrc%5Etfw">#imani_nicole</a>? <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> is she <a href="https://twitter.com/hashtag/Ms_Monique?src=hash&amp;ref_src=twsrc%5Etfw">#Ms_Monique</a> from abc <a href="https://twitter.com/YungMiami305?ref_src=twsrc%5Etfw">@YungMiami305</a> <a href="https://twitter.com/hashtag/CoralPediatrician?src=hash&amp;ref_src=twsrc%5Etfw">#CoralPediatrician</a> is in <a href="https://twitter.com/hashtag/Pasadena?src=hash&amp;ref_src=twsrc%5Etfw">#Pasadena</a> <a href="https://twitter.com/iamcardib?ref_src=twsrc%5Etfw">@iamcardib</a> I see <a href="https://twitter.com/hashtag/NEA?src=hash&amp;ref_src=twsrc%5Etfw">#NEA</a> graffiti how is <a href="https://twitter.com/hashtag/JeneVive?src=hash&amp;ref_src=twsrc%5Etfw">#JeneVive</a>?!</p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1901743018048430153?ref_src=twsrc%5Etfw">March 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 
 <img src="https://www.hotfootdesign.co.uk/wp-content/uploads/2015/11/nasa07_1.jpg">
 
+![RiCoThaka](https://pbs.twimg.com/media/Ga19RpNb0AAXCRw?format=jpg&name=medium)
 
 <div class="twoPanelSpread">
   <div class="row">
@@ -30,6 +56,20 @@
 [Bob Marley Legend full album](https://www.youtube.com/watch?v=Hp325M9MMFI)
 [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
 
 <div class="flex-container">
 
@@ -48,22 +88,8 @@
 
 <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#MSK_GRAFFITI">
  
-   <a href="https://www.youtube.com/watch?v=NX7zS_GRX14"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/FRANKSKiv103BMORE.PNG" alt="">  </a>
+  <a href="https://www.youtube.com/watch?v=NX7zS_GRX14"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/FRANKSKiv103BMORE.PNG" alt="">  </a>
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
-        </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
-         </div>
-    </div>
-  </div>
-</div>
 
 <img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-2-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4184&hei=1358&qlt=100,0&resMode=sharp2&size=4184,1358">
 <img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-2-b.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4114&hei=810&qlt=100,0&resMode=sharp2&size=4114,810">
@@ -90,6 +116,7 @@
         </div>
     </div>
 </div>
+
 [Revenge of Portland’s ‘blonde babe’: Teen prostitute told all about reform-school lesbians during 1959 vice scandal](https://www.oregonlive.com/history/2019/11/revenge-of-portlands-blonde-babe-teen-prostitute-told-all-about-reform-school-lesbians-during-1959-vice-scandal.html)
 [NEWSPAPER_ARCHiVE:The Opinion Volume 36 Number 12 – May 1, 1996](https://digitalcommons.law.buffalo.edu/the_opinion/367/)
 [HENSE | A Local's Guide to Atlanta](https://www.youtube.com/watch?v=-1QN6zQ78zg)
