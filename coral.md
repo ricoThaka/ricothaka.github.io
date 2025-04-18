@@ -18,7 +18,7 @@
 </div>
 
 
-[The complete Little Orphan Annie - Gray, Harold, 1894-1968](https://archive.org/details/completelittleor0004gray/page/284/mode/2up)
+[The complete Little Orphan Annie - Gray, Harold, 1894-1968](https://archive.org/details/completelittleor0004gray/page/284/mode/2up) [Why I still love the 1982 version of Annie - By Rachel Marie Stone - thechristiancentury_dOt_oRg](https://www.christiancentury.org/blogs/archive/2014-12/why-i-still-love-1982-version-ofnbspannie)
 ![BLAUPUNKT](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/img/blaupunkt.png)
 
 
