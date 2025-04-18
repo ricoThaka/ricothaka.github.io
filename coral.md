@@ -17,6 +17,8 @@
 
 </div>
 
+
+[The complete Little Orphan Annie - Gray, Harold, 1894-1968](https://archive.org/details/completelittleor0004gray/page/284/mode/2up)
 ![BLAUPUNKT](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/img/blaupunkt.png)
 
 
