@@ -18,7 +18,7 @@
 </div>
 
 # dear _Coral
-I dont know how familiar you got with [Annie]()
+I dont know how familiar you got with [Annie](https://m.media-amazon.com/images/I/91xktm3KKRL._AC_UF894,1000_QL80_.jpg) The girl that was cast to play you look like you, it may be one of your cousins. At your grandmothers funeral i was told it was a showbizfamily, there was never room for science or graffiti, [ya mama](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) just a [rebel](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/)... Digest the [stage HArdKnockLife](https://www.youtube.com/watch?v=LH6MstVxehQ) THEN!, listen to [JAyZ vErsion](https://youtu.be/TuELGO_-lEU?si=lIH3UasiuMoV7JKa) and a lot of y i had conversation with you mom will make sense! and why i tried so hard! its just clues, an some graff you may recognize fool... -dad
 
 [The complete Little Orphan Annie - Gray, Harold, 1894-1968](https://archive.org/details/completelittleor0004gray/page/284/mode/2up) [Why I still love the 1982 version of Annie - By Rachel Marie Stone - thechristiancentury_dOt_oRg](https://www.christiancentury.org/blogs/archive/2014-12/why-i-still-love-1982-version-ofnbspannie)
 
