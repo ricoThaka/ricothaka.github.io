@@ -4,8 +4,12 @@ title: computing
 published: true
 ---
 
-
-
+### PortableLinks
+If a [JekYLLrb](https://jekyllrb.com/) [LiQUiD~MARKDOWn](https://shopify.github.io/liquid/) file is hosted on differing urls but have the same content, `{{ site.url }}{{ site.baseurl }}` between quotes is a [JekyllVariable](https://jekyllrb.com/docs/variables/) theres so much that can be [defined](https://jekyllrb.com/docs/liquid/) during [Type Conversion](https://www.geeksforgeeks.org/type-conversion-in-c/) that [LiquidMarkup]() will give the url of your [CurrentRepo](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-URL-find-use-example)
+```html
+          <a href="https://thakarashard.github.io/">ThakaRashard</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/rashardmro">RashardMRO</a>
+```
 
 {% include cloud.md %}
 

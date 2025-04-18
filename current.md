@@ -14,6 +14,20 @@ title: Current
    
  </div> 
 
+### PortableLinks
+If a [JekYLLrb](https://jekyllrb.com/) [LiQUiD~MARKDOWn](https://shopify.github.io/liquid/) file is hosted on differing urls but have the same content, `{{ site.url }}{{ site.baseurl }}` between quotes is a [JekyllVariable](https://jekyllrb.com/docs/variables/) theres so much that can be [defined](https://jekyllrb.com/docs/liquid/) during [Type Conversion](https://www.geeksforgeeks.org/type-conversion-in-c/) that [LiquidMarkup](https://shopify.github.io/liquid/basics/introduction/) will give the url of your [CurrentRepo](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-URL-find-use-example)
+```html
+          <a href="https://thakarashard.github.io/">ThakaRashard</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/rashardmro">RashardMRO</a>
+```
+
+
+[MiXTAPE - FUNKMASTERFLEX_VOL1:60 Minutes of Funk vol.1](https://youtu.be/kReCUT4SUzY)
+[<img src="https://i.discogs.com/JcwSWHxRg6oZMPlNLeQEUdngxI45APth_46clvPOp_M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjY2/My0xMzQzMDIwMzk4/LTE3MTEuanBlZw.jpeg" />](https://i.discogs.com/JcwSWHxRg6oZMPlNLeQEUdngxI45APth_46clvPOp_M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjY2/My0xMzQzMDIwMzk4/LTE3MTEuanBlZw.jpeg)
+
+{% include cloud.md %}
+
+
 ![laurakerber](https://14c7719d28.cbaul-cdnwnd.com/c886a235faf46ba53093424949d934df/200000122-ecd8eecd92/20151028_185951.webp?ph=14c7719d28) 
 [laurakerber](https://laurakerber.webnode.page/photo-gallery/) `I am interested in physical volcanology, aeolian geomorphology, wind over complex surfaces, the ancient Martian climate`
 
