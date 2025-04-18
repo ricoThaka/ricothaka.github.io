@@ -17,8 +17,26 @@
 
 </div>
 
+# dear _Coral
+I dont know how familiar you got with [Annie]()
 
 [The complete Little Orphan Annie - Gray, Harold, 1894-1968](https://archive.org/details/completelittleor0004gray/page/284/mode/2up) [Why I still love the 1982 version of Annie - By Rachel Marie Stone - thechristiancentury_dOt_oRg](https://www.christiancentury.org/blogs/archive/2014-12/why-i-still-love-1982-version-ofnbspannie)
+
+<h1 itemprop="name">Annie (1982 film)
+</h1>
+Annie is a 1982 American musical comedy-drama film based on the 1977 Broadway musical of the same name by Charles Strouse, Martin Charnin and Thomas Meehan, which in turn is based on the Little Orphan Annie comic strip [Wiki](https://en.wikipedia.org/wiki/Annie_(1982_film))
+
+[Watch on Archive.ORg](https://archive.org/details/annie-hd-720p_202205)
+<video controls poster="https://www.christiancentury.org/sites/default/files/styles/article_page_vertical/public/images/detail/two-annies.jpg" itemscope itemtype="https://schema.org/Movie">
+
+  <source src="https://archive.org/download/annie-hd-720p_202205/annie-hd-720p.mp4" type="video/mp4" />
+
+  Download the
+  <a href="https://archive.org/download/annie-hd-720p_202205/annie-hd-720p.mp4">MP4</a>
+  video.
+</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lEMLhZrZs5U?si=z49RtC9gvMAPRNGB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![BLAUPUNKT](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/img/blaupunkt.png)
 
 
