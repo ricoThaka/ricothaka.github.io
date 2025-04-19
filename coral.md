@@ -17,7 +17,35 @@
 
 </div>
 
+
+ #Dear Coral 
+ im out of time
+
+
+<div class="tupperware">
+
+<a href="https://ia600705.us.archive.org/19/items/annie8/annie1.png"><img src="https://ia600705.us.archive.org/19/items/annie8/annie1.png" alt="Ornithological Photography" /></a>
+<a href="https://ia800705.us.archive.org/19/items/annie8/annie2.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie2.png" alt="Ornithological Photography" /></a>
+</div>
+
+<div class="tupperware">
+
+  <a href="https://ia600705.us.archive.org/19/items/annie8/annie3.png"><img src="https://ia600705.us.archive.org/19/items/annie8/annie3.png" alt="Ornithological Photography" /></a>
+<a href="https://ia800705.us.archive.org/19/items/annie8/annie4.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie4.png" alt="Ornithological Photography" /></a>
+  <a href="https://ia800705.us.archive.org/19/items/annie8/annie5.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie5.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie6.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie6.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie7.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie7.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie8.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie8.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie9.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie9.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie10.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie10.png" alt="Ornithological Photography" /></a>
+      <a href="https://ia800705.us.archive.org/19/items/annie8/annie11.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie11.png" alt="Ornithological Photography" /></a>
+</div>
+
+<iframe src="https://archive.org/embed/vts-01-1_20240123" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 # dear _Coral
+
 I dont know how familiar you got with [Annie](https://m.media-amazon.com/images/I/91xktm3KKRL._AC_UF894,1000_QL80_.jpg) The girl that was cast to play you look like you, it may be one of your cousins. At your grandmothers funeral i was told it was a showbizfamily, there was never room for science or graffiti, [ya mama](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) just a [rebel](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/)... Digest the [stage HArdKnockLife](https://www.youtube.com/watch?v=LH6MstVxehQ) THEN!, listen to [JAyZ vErsion](https://youtu.be/TuELGO_-lEU?si=lIH3UasiuMoV7JKa) and a lot of y i had conversation with you mom will make sense! and why i tried so hard! its just clues, an some graff you may recognize fool... -dad
 
 [The complete Little Orphan Annie - Gray, Harold, 1894-1968](https://archive.org/details/completelittleor0004gray/page/284/mode/2up) [Why I still love the 1982 version of Annie - By Rachel Marie Stone - thechristiancentury_dOt_oRg](https://www.christiancentury.org/blogs/archive/2014-12/why-i-still-love-1982-version-ofnbspannie)

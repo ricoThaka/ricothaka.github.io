@@ -13,6 +13,14 @@ title: Current
   {% endfor %}
    
  </div> 
+# Occupational HealTh @nasa-jpl @whitehouse @nasa @blackgirlscode 
+I'm being stalked, these #hardScabs are on soft tissue, its a soft round
+ [RelatedTweet](https://x.com/RicoThaka/status/1913382700611965159)
+<div class="tupperware">
+
+<a href="https://ia600705.us.archive.org/19/items/annie8/scab1.png"><img src="https://ia600705.us.archive.org/19/items/annie8/scab1.png" alt="Ornithological Photography" /></a>
+<a href="https://ia600705.us.archive.org/19/items/annie8/scab2.png"><img src="https://ia600705.us.archive.org/19/items/annie8/scab2.png" alt="Ornithological Photography" /></a>
+</div>
 
 ### PortableLinks
 If a [JekYLLrb](https://jekyllrb.com/) [LiQUiD~MARKDOWn](https://shopify.github.io/liquid/) file is hosted on differing urls but have the same content, `{{ site.url }}{{ site.baseurl }}` between quotes is a [JekyllVariable](https://jekyllrb.com/docs/variables/) theres so much that can be [defined](https://jekyllrb.com/docs/liquid/) during [Type Conversion](https://www.geeksforgeeks.org/type-conversion-in-c/) that [LiquidMarkup](https://shopify.github.io/liquid/basics/introduction/) will give the url of your [CurrentRepo](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-URL-find-use-example)
