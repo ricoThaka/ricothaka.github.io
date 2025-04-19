@@ -13,6 +13,53 @@ title: Current
   {% endfor %}
    
  </div> 
+
+# Little Orphan Annie (1932)
+<iframe src="https://archive.org/embed/vts-01-1_20240123" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<div class="tupperware">
+
+<a href="https://ia600705.us.archive.org/19/items/annie8/annie1.png"><img src="https://ia600705.us.archive.org/19/items/annie8/annie1.png" alt="Ornithological Photography" /></a>
+<a href="https://ia800705.us.archive.org/19/items/annie8/annie2.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie2.png" alt="Ornithological Photography" /></a>
+</div>
+
+<div class="tupperware">
+
+  <a href="https://ia600705.us.archive.org/19/items/annie8/annie3.png"><img src="https://ia600705.us.archive.org/19/items/annie8/annie3.png" alt="Ornithological Photography" /></a>
+<a href="https://ia800705.us.archive.org/19/items/annie8/annie4.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie4.png" alt="Ornithological Photography" /></a>
+  <a href="https://ia800705.us.archive.org/19/items/annie8/annie5.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie5.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie6.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie6.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie7.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie7.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie8.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie8.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie9.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie9.png" alt="Ornithological Photography" /></a>
+    <a href="https://ia800705.us.archive.org/19/items/annie8/annie10.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie10.png" alt="Ornithological Photography" /></a>
+      <a href="https://ia800705.us.archive.org/19/items/annie8/annie11.png"><img src="https://ia800705.us.archive.org/19/items/annie8/annie11.png" alt="Ornithological Photography" /></a>
+</div>
+
+# dear _Coral
+
+I dont know how familiar you got with [Annie](https://m.media-amazon.com/images/I/91xktm3KKRL._AC_UF894,1000_QL80_.jpg) The girl that was cast to play you look like you, it may be one of your cousins. At your grandmothers funeral i was told it was a showbizfamily, there was never room for science or graffiti, [ya mama](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) just a [rebel](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/)... Digest the [stage HArdKnockLife](https://www.youtube.com/watch?v=LH6MstVxehQ) THEN!, listen to [JAyZ vErsion](https://youtu.be/TuELGO_-lEU?si=lIH3UasiuMoV7JKa) and a lot of y i had conversation with you mom will make sense! and why i tried so hard! its just clues, an some graff you may recognize fool... -dad
+
+[The complete Little Orphan Annie - Gray, Harold, 1894-1968](https://archive.org/details/completelittleor0004gray/page/284/mode/2up) [Why I still love the 1982 version of Annie - By Rachel Marie Stone - thechristiancentury_dOt_oRg](https://www.christiancentury.org/blogs/archive/2014-12/why-i-still-love-1982-version-ofnbspannie)
+
+<h1 itemprop="name">Annie (1982 film)
+</h1>
+Annie is a 1982 American musical comedy-drama film based on the 1977 Broadway musical of the same name by Charles Strouse, Martin Charnin and Thomas Meehan, which in turn is based on the Little Orphan Annie comic strip [Wiki](https://en.wikipedia.org/wiki/Annie_(1982_film))
+
+[Watch on Archive.ORg](https://archive.org/details/annie-hd-720p_202205)
+<video controls poster="https://www.christiancentury.org/sites/default/files/styles/article_page_vertical/public/images/detail/two-annies.jpg" itemscope itemtype="https://schema.org/Movie">
+
+  <source src="https://archive.org/download/annie-hd-720p_202205/annie-hd-720p.mp4" type="video/mp4" />
+
+  Download the
+  <a href="https://archive.org/download/annie-hd-720p_202205/annie-hd-720p.mp4">MP4</a>
+  video.
+</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lEMLhZrZs5U?si=z49RtC9gvMAPRNGB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![BLAUPUNKT](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/img/blaupunkt.png)
+
 # Occupational HealTh @nasa-jpl @whitehouse @nasa @blackgirlscode 
 I'm being stalked, these #hardScabs are on soft tissue, its a soft round
  [RelatedTweet](https://x.com/RicoThaka/status/1913382700611965159)
