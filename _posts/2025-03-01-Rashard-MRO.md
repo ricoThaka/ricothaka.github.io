@@ -7,6 +7,15 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
 
+# Occupational HealTh @nasa-jpl @whitehouse @nasa @blackgirlscode 
+I'm being stalked, these #hardScabs are on soft tissue, its a soft round
+ [RelatedTweet](https://x.com/RicoThaka/status/1913382700611965159)
+<div class="tupperware">
+
+<a href="https://ia600705.us.archive.org/19/items/annie8/scab1.png"><img src="https://ia600705.us.archive.org/19/items/annie8/scab1.png" alt="Ornithological Photography" /></a>
+<a href="https://ia600705.us.archive.org/19/items/annie8/scab2.png"><img src="https://ia600705.us.archive.org/19/items/annie8/scab2.png" alt="Ornithological Photography" /></a>
+</div>
+
 # Mars Exploration Rovers: Spirit and Opportunity [Read](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/)
 ![Spiritand Opportunity](https://science.nasa.gov/wp-content/uploads/2024/03/mer-bythenumbers-infographic-feb2019.jpg)
 
